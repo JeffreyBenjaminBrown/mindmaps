@@ -1,1 +1,5 @@
-These are mindmaps. They are easy to read. It only takes five commands! They are up, down, left, right and spacebar. The spacebar unfolds|shows or folds|hides contents from where cursor is on. You'll need Freeplane (which is free and available for Linux, Mac and Windows) or something like it.
+These are mindmaps, trees of text. 
+
+They are easy to read -- it only takes five commands! They are up, down, left, right and spacebar. The spacebar unfolds|shows or folds|hides the contents of a branch.
+
+You'll need to install one thing -- Freeplane (which is free and available for Linux, Mac and Windows), Freemind or some other mindmap editor that recognizes the .mm format.
