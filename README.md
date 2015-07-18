@@ -1,1 +1,1 @@
-# mindmaps
+These are mindmaps. They are easy to read. It only takes five commands! They are up, down, left, right and spacebar. The spacebar unfolds|shows or folds|hides contents from where cursor is on. You'll need Freeplane (which is free and available for Linux, Mac and Windows) or something like it.
