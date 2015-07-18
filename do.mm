@@ -56,5 +56,8 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="= basically a list of branches in other files that I like" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_881480117" CREATED="1437259347827" MODIFIED="1437259371018"/>
+<node TEXT="peace" POSITION="right" ID="ID_165843050" CREATED="1437259345963" MODIFIED="1437259346826"/>
+<node TEXT="rhythm" POSITION="right" ID="ID_1475306743" CREATED="1437259376611" MODIFIED="1437259377626"/>
 </node>
 </map>
