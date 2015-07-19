@@ -56,7 +56,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="clarifications are in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437250147042">
+<node TEXT="clarifications appear in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437272894602">
 <node TEXT="to clarify things I wrote short in the parent" ID="ID_1848181419" CREATED="1437250147899" MODIFIED="1437250162353"/>
 </node>
 <node TEXT="do" POSITION="right" ID="ID_1552452309" CREATED="1437259788907" MODIFIED="1437260220414">
@@ -90,9 +90,14 @@
 <node TEXT="perhaps I want to connect,, but not perform, one-sidedly" ID="ID_801160790" CREATED="1421363195469" MODIFIED="1436586474519"/>
 </node>
 </node>
-<node TEXT="? alone: how much" ID="ID_1422182455" CREATED="1437258685938" MODIFIED="1437258713190">
+<node TEXT="? alone time" LOCALIZED_STYLE_REF="default" ID="ID_206297901" CREATED="1429427091707" MODIFIED="1437273534467">
 <node TEXT="personal space" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_65822273" CREATED="1436587274197" MODIFIED="1437258729661"/>
-<node TEXT="alone time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_206297901" CREATED="1429427091707" MODIFIED="1437258729654"/>
+<node TEXT="time alone: how much?" ID="ID_1422182455" CREATED="1437258685938" MODIFIED="1437273538271"/>
+<node TEXT="as female riddle" ID="ID_1685705911" CREATED="1429424272529" MODIFIED="1437273549130">
+<node TEXT="&quot; &apos;how do I find time to write&apos; [seems like such a classically female obligation = near-verbatim]&apos; &quot;" ID="ID_152800110" CREATED="1429326065214" MODIFIED="1437273436077">
+<node TEXT="hana rosen, slate doublex gabfest, 2015 04 17-18" ID="ID_1804615109" CREATED="1429326097150" MODIFIED="1437273451238"/>
+</node>
+</node>
 </node>
 <node TEXT="art" ID="ID_1440775633" CREATED="1437258656378" MODIFIED="1437258662559">
 <font BOLD="true"/>
@@ -125,8 +130,9 @@
 <node TEXT="Can someone who, say, smokes weed and writes all day, someone all art and no marketing, compete at [gender thing]?" ID="ID_37168003" CREATED="1437257950106" MODIFIED="1437267734504"/>
 </node>
 <node TEXT="? more effective" ID="ID_1793909702" CREATED="1437257828417" MODIFIED="1437257830535">
-<node TEXT="sex as recharge" ID="ID_1559567326" CREATED="1437257853217" MODIFIED="1437257855864"/>
+<node TEXT="sex as recharge" ID="ID_1559567326" CREATED="1437257853217" MODIFIED="1437257855864">
 <node TEXT="could be a bad idea; dependence" LOCALIZED_STYLE_REF="default" ID="ID_646607569" CREATED="1437258302746" MODIFIED="1437267748166"/>
+</node>
 </node>
 <node TEXT="? safer" ID="ID_1599726213" CREATED="1436422948557" MODIFIED="1436422965861"/>
 </node>
@@ -178,7 +184,21 @@
 </node>
 </node>
 </node>
-<node TEXT="? be able to say" POSITION="right" ID="ID_1394652627" CREATED="1429672528802" MODIFIED="1437265228823">
+<node TEXT="? do" POSITION="right" ID="ID_1905728837" CREATED="1437269670164" MODIFIED="1437269671305">
+<node TEXT="dare" LOCALIZED_STYLE_REF="default" ID="ID_1983376047" CREATED="1381034508464" MODIFIED="1437269703798">
+<node TEXT="&amp; will tempt risk imag" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1492627181" CREATED="1381034508464" MODIFIED="1437272768742"/>
+<node TEXT="prove care" LOCALIZED_STYLE_REF="default" ID="ID_913718815" CREATED="1422338859527" MODIFIED="1437272725405">
+<node TEXT="e.g. dare to show you care" LOCALIZED_STYLE_REF="default" ID="ID_689405424" CREATED="1437269689900" MODIFIED="1437269698511"/>
+</node>
+<node TEXT="surprising accuracy of knowg one&apos;s capabilities" ID="ID_965953004" CREATED="1427097572298" MODIFIED="1427097590953">
+<node TEXT="otherwse you wouldn&apos;t dare" LOCALIZED_STYLE_REF="styles.topic" ID="ID_2464447" CREATED="1427097600178" MODIFIED="1427097607295"/>
+</node>
+<node TEXT="see&amp;imag potential in others" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1351202955" CREATED="1428986084830" MODIFIED="1437272703711">
+<font BOLD="false"/>
+<node TEXT="there exist great unknown poets" ID="ID_1631346309" CREATED="1428969837605" MODIFIED="1437272567666"/>
+</node>
+</node>
+<node TEXT="be able to say" ID="ID_1394652627" CREATED="1429672528802" MODIFIED="1437269673555">
 <node TEXT="passphrases" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1272570587" CREATED="1437265211680" MODIFIED="1437265214468"/>
 <node TEXT="Happy, disbelieving &quot;Nuh-uh!" ID="ID_1024689057" CREATED="1429664769246" MODIFIED="1429668409572">
 <node TEXT="can serve as rejection without ego-damage" ID="ID_1324847436" CREATED="1429664782437" MODIFIED="1429672592678"/>
@@ -187,7 +207,8 @@
 <node TEXT="maybe later yes but now I am not" ID="ID_760021464" CREATED="1425128354065" MODIFIED="1425128369074"/>
 </node>
 </node>
-<node TEXT="avoid" POSITION="right" ID="ID_1298528082" CREATED="1437260205276" MODIFIED="1437260221572">
+<node TEXT="remember to feel" ID="ID_1603045194" CREATED="1423709163417" MODIFIED="1437269677651"/>
+<node TEXT="avoid" ID="ID_1298528082" CREATED="1437260205276" MODIFIED="1437260221572">
 <node TEXT="investig with bias" LOCALIZED_STYLE_REF="default" ID="ID_1944595458" CREATED="1425542438150" MODIFIED="1437260249327">
 <node TEXT="? avoiding certain topics, in thought or conversation" ID="ID_802084484" CREATED="1425542461206" MODIFIED="1425542469124"/>
 <node TEXT="morbid empathy" ID="ID_1328202385" CREATED="1422562280155" MODIFIED="1422562282721">
@@ -199,6 +220,7 @@
 <node TEXT="duh" LOCALIZED_STYLE_REF="styles.topic" ID="ID_764409788" CREATED="1437251423012" MODIFIED="1437251424104">
 <node TEXT="how bad it can be if you share something before having [adv] completed it" ID="ID_515585303" CREATED="1434426001695" MODIFIED="1437251377719">
 <node TEXT="optional adverb" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_301696713" CREATED="1437251379235" MODIFIED="1437251383006"/>
+</node>
 </node>
 </node>
 </node>
@@ -230,15 +252,6 @@
 <node TEXT="withhold own bias" ID="ID_438971549" CREATED="1437259756339" MODIFIED="1437259845526"/>
 <node TEXT="info minimization" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_772662525" CREATED="1437260690708" MODIFIED="1437260702312"/>
 </node>
-<node TEXT="contract to heal trust" LOCALIZED_STYLE_REF="default" ID="ID_1137108608" CREATED="1427097263723" MODIFIED="1433747714297">
-<node TEXT="at how much is lost trust hopeless?" ID="ID_1154523753" CREATED="1418362565057" MODIFIED="1426310711679"/>
-<node TEXT="both to feel safe in rebuild" ID="ID_640664413" CREATED="1436654410638" MODIFIED="1436654414772">
-<node TEXT="a contract, agreement, wherein someone (me) who does not trust someone else (siobhan) can hang out to the enjoyment of both without threatening either" ID="ID_1162482349" CREATED="1418362532386" MODIFIED="1422324968685"/>
-</node>
-</node>
-<node TEXT="ether responsb" ID="ID_733528865" CREATED="1424990576849" MODIFIED="1437265347767">
-<node TEXT="brains are softer than written language" ID="ID_739234459" CREATED="1424990456829" MODIFIED="1424990469120"/>
-</node>
 <node TEXT="unlock a demog" ID="ID_1424360183" CREATED="1436673676800" MODIFIED="1436673678933">
 <node TEXT="learn to hear a genre of music" ID="ID_1351370552" CREATED="1437265375441" MODIFIED="1437265432444"/>
 </node>
@@ -253,31 +266,31 @@
 </node>
 </node>
 </node>
-<node TEXT="info bond" ID="ID_1775638025" CREATED="1436677476324" MODIFIED="1436677482149">
-<node TEXT="? program another to be readable to you" ID="ID_149252348" CREATED="1436651552428" MODIFIED="1437265476465">
-<node TEXT="by reporting ^these" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1132440439" CREATED="1437265489793" MODIFIED="1437265517425"/>
-<node ID="ID_1274667116" CREATED="1437265507962" MODIFIED="1437265507962"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      your own read errors
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="what you have trouble reading" ID="ID_910693844" CREATED="1437265522465" MODIFIED="1437265533557"/>
+<node TEXT="change prefs" ID="ID_1609396517" CREATED="1437273727960" MODIFIED="1437273729303">
+<node TEXT="? if I wanted to, would I not" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_702538520" CREATED="1437273638304" MODIFIED="1437273740840"/>
+<node TEXT="try to need more social time, less weed and media intake" LOCALIZED_STYLE_REF="default" ID="ID_1573503518" CREATED="1429419785399" MODIFIED="1437273733257">
+<node TEXT="need|want" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_537443337" CREATED="1437273715376" MODIFIED="1437273720399"/>
 </node>
 </node>
-<node TEXT="? down" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1654902642" CREATED="1436673076704" MODIFIED="1436673081658">
-<node TEXT="= less important, under many conditions best skipped" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_484752443" CREATED="1437265568713" MODIFIED="1437265592733"/>
-<node TEXT="to &quot;empathy/?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1997117755" CREATED="1436673083912" MODIFIED="1436673391087"/>
+<node TEXT="moods" ID="ID_1175851300" CREATED="1437273279040" MODIFIED="1437273682210">
+<node TEXT="the book Resilience: what genre?" ID="ID_252068969" CREATED="1429419496814" MODIFIED="1429419503230">
+<node TEXT="as featured on the daily show 2015, I think" ID="ID_1895976262" CREATED="1437273288321" MODIFIED="1437273293958"/>
+</node>
+</node>
+<node TEXT="_ to detect" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1654902642" CREATED="1436673076704" MODIFIED="1437273677563">
+<node TEXT="? talking to someone &gt;&gt; conject (alone) what one can learn from or about another" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_460424594" CREATED="1437272433319" MODIFIED="1437272494755">
+<node TEXT="&gt;&gt; much greater in value" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1723212524" CREATED="1437272507663" MODIFIED="1437272512362"/>
+</node>
+<node TEXT="= opportunity of detection" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_797765584" CREATED="1437272606095" MODIFIED="1437272612842"/>
+<node TEXT="less important, under many conditions best skipped" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_484752443" CREATED="1437265568713" MODIFIED="1437272617058"/>
+<node TEXT="move to &quot;empathy/?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1997117755" CREATED="1436673083912" MODIFIED="1437272659453"/>
+<node TEXT="detect acting" ID="ID_1924898050" CREATED="1432065861580" MODIFIED="1437272410255"/>
 <node TEXT="learn from laughter" ID="ID_967767191" CREATED="1425540388838" MODIFIED="1437268147236">
 <node TEXT="? if someone laughs at _ keep it private to them" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1896975717" CREATED="1422920966376" MODIFIED="1433747587439"/>
+</node>
+<node TEXT="ether responsb" ID="ID_733528865" CREATED="1424990576849" MODIFIED="1437265347767">
+<node TEXT="ethereal responsibility" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1836763187" CREATED="1437272826015" MODIFIED="1437272829642"/>
+<node TEXT="brains are softer than written language" ID="ID_739234459" CREATED="1424990456829" MODIFIED="1424990469120"/>
 </node>
 </node>
 </node>
@@ -326,10 +339,6 @@
 <node TEXT="&quot;Them systems with so many ingredients, I don&apos;t trust em.&quot;" ID="ID_136345969" CREATED="1423196562642" MODIFIED="1423196577817"/>
 </node>
 </node>
-<node TEXT="Wool pants drive people away?" ID="ID_1041857942" CREATED="1425170801334" MODIFIED="1425170825834">
-<node TEXT="? even in a blank t-shirt looks rich" ID="ID_1745592491" CREATED="1437265857369" MODIFIED="1437265867719"/>
-<node TEXT="don&apos;t incite people to hate the rich and then dress rich" ID="ID_1617578781" CREATED="1437265841225" MODIFIED="1437265850071"/>
-</node>
 <node TEXT="faux rational to support ecosystem" ID="ID_1741840621" CREATED="1422687844953" MODIFIED="1422687849447"/>
 <node TEXT="? [who] want discipline" ID="ID_1512244304" CREATED="1432806295613" MODIFIED="1437265938467"/>
 <node TEXT="? malaise heroics @ ro" ID="ID_824115548" CREATED="1432806350814" MODIFIED="1437266041283">
@@ -340,6 +349,10 @@
 <node TEXT="ro -&gt; deep timeshare" ID="ID_215956621" CREATED="1436677630988" MODIFIED="1436677652197">
 <node TEXT="v. shut-in ro" ID="ID_1492491084" CREATED="1436655282551" MODIFIED="1437266032780"/>
 <node TEXT="Perhaps best for a [sex] partner one shares [the] life peaks, not just peak domestic experiences." ID="ID_1542785106" CREATED="1436655321103" MODIFIED="1437268071673"/>
+</node>
+<node TEXT="Wool pants drive people away?" ID="ID_1041857942" CREATED="1425170801334" MODIFIED="1425170825834">
+<node TEXT="? even in a blank t-shirt looks rich" ID="ID_1745592491" CREATED="1437265857369" MODIFIED="1437265867719"/>
+<node TEXT="don&apos;t incite people to hate the rich and then dress rich" ID="ID_1617578781" CREATED="1437265841225" MODIFIED="1437265850071"/>
 </node>
 </node>
 <node TEXT="? problem" ID="ID_1579264215" CREATED="1436590720976" MODIFIED="1436672814076">
@@ -401,7 +414,7 @@
 </node>
 <node TEXT="mood &amp; need" ID="ID_1324329152" CREATED="1436677375340" MODIFIED="1436677388457">
 <node TEXT="? *sometimes* these feel substitutable" ID="ID_276487545" CREATED="1436650773331" MODIFIED="1437266616304">
-<node TEXT="mindmap, marij, music, sex, friendship" ID="ID_186450730" CREATED="1436650780755" MODIFIED="1437266599177"/>
+<node TEXT="mindmap, marij, music, friendship, sex" ID="ID_186450730" CREATED="1436650780755" MODIFIED="1437269072159"/>
 </node>
 </node>
 <node TEXT="antag-bond" ID="ID_1101806639" CREATED="1436674465001" MODIFIED="1436674466670">
@@ -418,8 +431,45 @@
 <node TEXT="it works" ID="ID_215614215" CREATED="1424763701405" MODIFIED="1436588053479"/>
 <node TEXT="e.g. of these mindmaps" ID="ID_1517295231" CREATED="1424763731190" MODIFIED="1424763735931"/>
 </node>
+<node TEXT="harmony, x-ag" ID="ID_1855847633" CREATED="1437273843584" MODIFIED="1437273849171">
+<node TEXT="= across agent" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1752030762" CREATED="1437273854664" MODIFIED="1437273863547">
+<node TEXT="? equivalently, &quot;soc&quot;" ID="ID_1093069445" CREATED="1437273866705" MODIFIED="1437273870622"/>
+</node>
+<node TEXT="need someone the right way" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_2478224" CREATED="1432805892341" MODIFIED="1437273878603">
+<font BOLD="false"/>
+<node TEXT="&quot;I need you to need me [adv].&quot;" ID="ID_863839125" CREATED="1437273813408" MODIFIED="1437273824078"/>
+</node>
+</node>
 </node>
 <node TEXT="happening" ID="ID_118724552" CREATED="1437267091082" MODIFIED="1437267092297">
+<node TEXT="info bond" ID="ID_1775638025" CREATED="1436677476324" MODIFIED="1437273981173">
+<font BOLD="true"/>
+<node TEXT="? program another to be readable to you" ID="ID_149252348" CREATED="1436651552428" MODIFIED="1437265476465">
+<node TEXT="by reporting ^these" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1132440439" CREATED="1437265489793" MODIFIED="1437265517425"/>
+<node ID="ID_1274667116" CREATED="1437265507962" MODIFIED="1437265507962"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      your own read errors
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="what you have trouble reading" ID="ID_910693844" CREATED="1437265522465" MODIFIED="1437265533557"/>
+</node>
+<node TEXT="contract to heal trust" LOCALIZED_STYLE_REF="default" ID="ID_1137108608" CREATED="1427097263723" MODIFIED="1433747714297">
+<node TEXT="at how much is lost trust hopeless?" ID="ID_1154523753" CREATED="1418362565057" MODIFIED="1426310711679"/>
+<node TEXT="both to feel safe in rebuild" ID="ID_640664413" CREATED="1436654410638" MODIFIED="1436654414772">
+<node TEXT="a contract, agreement, wherein someone (me) who does not trust someone else (siobhan) can hang out to the enjoyment of both without threatening either" ID="ID_1162482349" CREATED="1418362532386" MODIFIED="1422324968685"/>
+</node>
+</node>
+<node TEXT="mutually each others&apos; purpose" ID="ID_752507284" CREATED="1432807840447" MODIFIED="1437273944371"/>
+</node>
 <node TEXT="soc feedback" LOCALIZED_STYLE_REF="default" ID="ID_703824001" CREATED="1436588774567" MODIFIED="1437267194554">
 <node TEXT="cheap talk, hype" ID="ID_1819978075" CREATED="1426745674094" MODIFIED="1429427498867">
 <node TEXT="= it is a questionable parent" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_34507710" CREATED="1436588822718" MODIFIED="1436588830940"/>
@@ -454,6 +504,13 @@
 </node>
 </node>
 <node TEXT="in selecting object of study, without calling it that, align what _ needs to know with what they want to know" ID="ID_711193790" CREATED="1425193884591" MODIFIED="1437267166693"/>
+</node>
+</node>
+<node TEXT="info dependence" ID="ID_1257366582" CREATED="1437272936584" MODIFIED="1437272938734">
+<node TEXT="other ways of knowing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1546279635" CREATED="1429417934814" MODIFIED="1437272947687"/>
+<node TEXT="tv" ID="ID_233487544" CREATED="1429417907774" MODIFIED="1429423110645"/>
+<node TEXT="? okay in moderation" ID="ID_1998648391" CREATED="1429417887494" MODIFIED="1437272918898">
+<node TEXT="if part of a diverse diet" ID="ID_1403987617" CREATED="1437272958360" MODIFIED="1437272963134"/>
 </node>
 </node>
 <node TEXT="dub study val" LOCALIZED_STYLE_REF="default" ID="ID_420277892" CREATED="1437267305035" MODIFIED="1437267352822">
@@ -526,10 +583,13 @@
 <node TEXT="predict for them, cheeringly, vaguely" ID="ID_88154135" CREATED="1427097027770" MODIFIED="1427097053295"/>
 </node>
 </node>
+<node TEXT="duh" LOCALIZED_STYLE_REF="styles.topic" ID="ID_205456923" CREATED="1437273899760" MODIFIED="1437273901115">
+<node TEXT="imagined persecution" ID="ID_1287900334" CREATED="1432806074581" MODIFIED="1432806077258"/>
 </node>
 </node>
-<node TEXT="feelings" POSITION="right" ID="ID_1328602530" CREATED="1437256065968" MODIFIED="1437256069506">
-<font BOLD="true"/>
+</node>
+<node TEXT="feelings" POSITION="right" ID="ID_1328602530" CREATED="1437256065968" MODIFIED="1437269579488">
+<font BOLD="false"/>
 <node TEXT=". could divide" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_201158567" CREATED="1437256270208" MODIFIED="1437256274365">
 <node TEXT="divide, midparent" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_390024738" CREATED="1437256305264" MODIFIED="1437256308028"/>
 <node TEXT="equal | unequal" ID="ID_512649649" CREATED="1437256275200" MODIFIED="1437256279383">
@@ -565,6 +625,9 @@
 <node TEXT="we want to see reality, it is inherent to our minds, and grappling with the fact that you did something bad is hard, perhaps already sufficient punishment." ID="ID_1907501110" CREATED="1437250524251" MODIFIED="1437250537483"/>
 <node TEXT="perhaps don&apos;t belabor that it was bad, but do make sure someone recognizes all the elements of what they did" ID="ID_1261473377" CREATED="1437250538210" MODIFIED="1437250559970"/>
 </node>
+<node TEXT="bond from (other) antag" ID="ID_35035038" CREATED="1437273322456" MODIFIED="1437273365426">
+<node TEXT="share war stories" ID="ID_464401725" CREATED="1437273372792" MODIFIED="1437273381307"/>
+</node>
 <node TEXT="&amp; bluff hype fame" ID="ID_222323729" CREATED="1437252091508" MODIFIED="1437252146230">
 <node TEXT="the bluff of smiling from a magazine" ID="ID_1171492031" CREATED="1434426927576" MODIFIED="1437252090519">
 <node TEXT="how the feeling, strategy might be universal across persons who do that" ID="ID_731744506" CREATED="1434426951816" MODIFIED="1437252026442"/>
@@ -596,21 +659,26 @@
 </node>
 </node>
 </node>
-<node TEXT="&amp; opporm proc effic" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1372673622" CREATED="1437249697998" MODIFIED="1437249858552">
+<node TEXT="soc many" POSITION="right" ID="ID_214235790" CREATED="1437274020833" MODIFIED="1437274022294">
+<node TEXT="the surrender of having ended one&apos;s market search" ID="ID_1120104599" CREATED="1433751435544" MODIFIED="1433751443306"/>
+</node>
+<node TEXT="u" POSITION="right" ID="ID_198893436" CREATED="1437269603452" MODIFIED="1437269642444">
+<font BOLD="true"/>
+<node TEXT="&amp; opporm proc effic" LOCALIZED_STYLE_REF="default" ID="ID_1372673622" CREATED="1437249697998" MODIFIED="1437249858552">
 <node TEXT="opportunism" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1845367409" CREATED="1437249834603" MODIFIED="1437249841547"/>
 <node TEXT="process opportunism &gt; resource opportunism" ID="ID_1823725996" CREATED="1437252226213" MODIFIED="1437252234052"/>
 <node TEXT="don&apos;t waste a process" ID="ID_1583610447" CREATED="1434312279722" MODIFIED="1434312283623">
 <node TEXT="implies recog the process and its conseqs" LOCALIZED_STYLE_REF="styles.topic" ID="ID_156365722" CREATED="1437251046523" MODIFIED="1437251081602"/>
 </node>
 </node>
-<node TEXT="info experie" POSITION="right" ID="ID_1425023453" CREATED="1437259424275" MODIFIED="1437259427746">
+<node TEXT="info experie" ID="ID_1425023453" CREATED="1437259424275" MODIFIED="1437259427746">
 <node TEXT="info avail bias" ID="ID_1042628632" CREATED="1437259469107" MODIFIED="1437259515512">
 <node TEXT="is not a cog bias" LOCALIZED_STYLE_REF="default" ID="ID_1972347690" CREATED="1437250361011" MODIFIED="1437259530128"/>
 <node TEXT="if nobody told you about [pain] unless and because you could help" ID="ID_1949113058" CREATED="1434312464594" MODIFIED="1437259462054"/>
 </node>
 <node TEXT="[topic. information?] density of npr high" ID="ID_1547223750" CREATED="1433790328583" MODIFIED="1437250660261"/>
 </node>
-<node TEXT="info games" POSITION="right" ID="ID_773653790" CREATED="1437260644532" MODIFIED="1437260661049">
+<node TEXT="info games" ID="ID_773653790" CREATED="1437260644532" MODIFIED="1437260661049">
 <node TEXT="escalate to truth" ID="ID_99979220" CREATED="1425951580574" MODIFIED="1425951582727">
 <node TEXT="nested layers of dreams, the top truth" ID="ID_1686084011" CREATED="1429485084755" MODIFIED="1429485102463"/>
 <node TEXT="or don&apos;t escalate - schrodinger, phe" ID="ID_1686790963" CREATED="1425951593382" MODIFIED="1429485127452">
@@ -629,15 +697,24 @@
 </node>
 </node>
 </node>
+<node TEXT="tech for high" ID="ID_1733090653" CREATED="1437273113456" MODIFIED="1437273126267">
+<node TEXT="robots for holiness" ID="ID_1900069734" CREATED="1437273058656" MODIFIED="1437273061180">
+<node TEXT="for, to help us find it" ID="ID_282494241" CREATED="1429417274140" MODIFIED="1437273083058"/>
+<node TEXT="&quot;robots will choose to be christians&quot;" ID="ID_756517809" CREATED="1429417207221" MODIFIED="1429417212609">
+<node TEXT="daily show, 2015 04 15" ID="ID_185525697" CREATED="1429423125193" MODIFIED="1429423219429"/>
+</node>
+</node>
+</node>
+<node TEXT="pretty" ID="ID_704505957" CREATED="1436675434234" MODIFIED="1436675435431">
+<node TEXT="&quot;neutral arbitchers [is verbatim], and [it&apos;s?], you know, balls and strikes all the way down&quot;" ID="ID_768940966" CREATED="1432066020060" MODIFIED="1436675458837">
+<node TEXT="dalia lithwick" ID="ID_896726527" CREATED="1432066038460" MODIFIED="1432066044498"/>
+</node>
+</node>
+</node>
 <node TEXT="mindmaps" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1395287564" CREATED="1437255698535" MODIFIED="1437256326184">
 <font BOLD="false"/>
 <node TEXT="= text graph rels" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1615294614" CREATED="1437250003027" MODIFIED="1437255712692"/>
 <node TEXT="rel &quot;in _ there is _&quot; &gt; includes" ID="ID_646208813" CREATED="1434317621077" MODIFIED="1434317633076"/>
-</node>
-<node TEXT="pretty" POSITION="right" ID="ID_704505957" CREATED="1436675434234" MODIFIED="1436675435431">
-<node TEXT="&quot;neutral arbitchers [is verbatim], and [it&apos;s?], you know, balls and strikes all the way down&quot;" ID="ID_768940966" CREATED="1432066020060" MODIFIED="1436675458837">
-<node TEXT="dalia lithwick" ID="ID_896726527" CREATED="1432066038460" MODIFIED="1432066044498"/>
-</node>
 </node>
 <node TEXT="aimless" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_373892860" CREATED="1437260577124" MODIFIED="1437260579040">
 <node TEXT="law ~for comp" ID="ID_1318717751" CREATED="1436675174730" MODIFIED="1436675185287">
