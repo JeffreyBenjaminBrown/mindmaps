@@ -818,6 +818,54 @@
 <node TEXT="after viewing video, hearing audio" ID="ID_1905414493" CREATED="1437422076615" MODIFIED="1437422083887"/>
 <node TEXT="most of the information content of the performance details having been absorbed the first time" ID="ID_1637813128" CREATED="1437422093095" MODIFIED="1437422121510"/>
 </node>
+<node TEXT="22" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_860828855" CREATED="1437610367927" MODIFIED="1437610371540"/>
+<node TEXT="no, maybe it&apos;s fair" ID="ID_698393104" CREATED="1437610372063" MODIFIED="1437610377303">
+<node TEXT="you get to be what you choose to be, focus on. you get pulled from it by what others choose to be, and their choices are determined by the same system, the human, as yours." ID="ID_1585401720" CREATED="1437610378128" MODIFIED="1437610412392"/>
+</node>
+<node TEXT="oppor to avoid sharing graphic language" ID="ID_360217379" CREATED="1437611170592" MODIFIED="1437611176368">
+<node TEXT="no concepts one might try to test without first grappling external to them, with what they are for" ID="ID_814798697" CREATED="1437611177480" MODIFIED="1437611204368"/>
+</node>
+<node TEXT="my mem proc" ID="ID_406501132" CREATED="1437611362937" MODIFIED="1437611371783">
+<node TEXT="lady and the tramp: all I remember is that dogs fell in love and the spaghetti scene" ID="ID_975658278" CREATED="1437611331672" MODIFIED="1437611352624">
+<node TEXT="I feel in memory a vague, possibly hugely multiple, cuteness but I might be remembering 101 dalmations" ID="ID_675204324" CREATED="1437611383240" MODIFIED="1437611433051"/>
+</node>
+</node>
+<node TEXT="? evil, study of" ID="ID_933591747" CREATED="1437615648645" MODIFIED="1437615664043">
+<node TEXT="? useful : hypothethizing kinds of evil" ID="ID_1704629576" CREATED="1437612211953" MODIFIED="1437612241285">
+<node TEXT="conjecturing a kind that exists would be real if helped one prepare for that kind -- but that space, if it is to be targeted at all for study, seems like it should be targeted by observation, inquiry, not conjecture" ID="ID_690455391" CREATED="1437615674717" MODIFIED="1437615725060"/>
+</node>
+<node TEXT="evil as &quot;&quot;misguided belief in a greater good that doesn&apos;t exist&quot;" ID="ID_746015124" CREATED="1437612081577" MODIFIED="1437612106542">
+<node TEXT="http://www.hollywoodreporter.com/heat-vision/bring-bad-guys-marvel-needs-809686" ID="ID_1488520113" CREATED="1437612094794" MODIFIED="1437612094794" LINK="http://www.hollywoodreporter.com/heat-vision/bring-bad-guys-marvel-needs-809686"/>
+</node>
+<node TEXT="evil as &quot;they make better music if I eat them sometimes&quot;" ID="ID_1524568522" CREATED="1437612166857" MODIFIED="1437612200478"/>
+</node>
+<node TEXT="it should be with your money but not your health that you share risk with coworkers" LOCALIZED_STYLE_REF="default" ID="ID_905151565" CREATED="1392501291840" MODIFIED="1437616338147"/>
+<node TEXT="mistrust -&gt; redundancy, inertia" ID="ID_1533400746" CREATED="1379526964707" MODIFIED="1379527013331"/>
+<node TEXT="a third of people with college degrees make less money than the average person whose maximum credential is completing high school" ID="ID_1103454176" CREATED="1392501068902" MODIFIED="1392506559858">
+<node TEXT="adam davidson on slate political gabfest 2014 02 15, in minutes 36-37" ID="ID_1045351114" CREATED="1392501100286" MODIFIED="1392501125652"/>
+<node ID="ID_371518055" CREATED="1392506560576" MODIFIED="1392506560576"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      not verbatim
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="ACA =&gt; + fair, - scary" ID="ID_1686861405" CREATED="1393811636297" MODIFIED="1437616397412">
+<node TEXT="affordable care act" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_936857049" CREATED="1437616390165" MODIFIED="1437616393354"/>
+<node TEXT="more fair" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1198021876" CREATED="1393811640305" MODIFIED="1437616398409"/>
+<node TEXT="less scary" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_491962476" CREATED="1393811641817" MODIFIED="1437616398416"/>
+</node>
+<node TEXT="&quot;don&apos;t walk out on a dream; you need the sleep&quot;" ID="ID_1374094502" CREATED="1397933301761" MODIFIED="1437618109490">
+<node TEXT="dream, fiction" ID="ID_1172065699" CREATED="1437618110103" MODIFIED="1437618113645"/>
+</node>
 </node>
 <node TEXT="? alien" POSITION="right" ID="ID_198893436" CREATED="1437269603452" MODIFIED="1437292504909">
 <font BOLD="true"/>
