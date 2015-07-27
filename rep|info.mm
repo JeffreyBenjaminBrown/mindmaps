@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="rep &amp; rep proc&#xa;&#xa;TODO: extract info, underst&#xa;  to other doc&#xa;&#xa;was --&#xa;rep, info, underst&#xa;ratl proc&#xa;? rep proc&#xa;? what media permit" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1435041127877"><hook NAME="MapStyle" zoom="1.21">
+<node TEXT="git / rep|info" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1437675157144"><hook NAME="MapStyle" zoom="1.21">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -108,9 +108,13 @@
 <node TEXT="python problem" ID="ID_1416036825" CREATED="1423039356873" MODIFIED="1423042147840">
 <node TEXT="sometimes the pdb.set_trace() line causes an assert to fail that otherwise would not" ID="ID_144911365" CREATED="1410306849916" MODIFIED="1410306860687"/>
 </node>
+<node TEXT="old, verbose doc title" ID="ID_1237052786" CREATED="1437640334731" MODIFIED="1437640347464">
+<node TEXT="rep &amp; rep proc&#xa;&#xa;TODO: extract info, underst&#xa;  to other doc&#xa;&#xa;was --&#xa;rep, info, underst&#xa;ratl proc&#xa;? rep proc&#xa;? what media permit" ID="ID_1693039032" CREATED="1437640341211" MODIFIED="1437640342906"/>
+</node>
 </node>
 <node TEXT="! -&gt; new rules (latest)" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1766149101" CREATED="1435012334007" MODIFIED="1436682906833">
 <font BOLD="false"/>
+<node TEXT="= thought I would be processing under new rules when adding to this; do not seem to have so done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1298883616" CREATED="1437640166011" MODIFIED="1437640184503"/>
 <node TEXT="extracting rep from dwt to here" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_836391253" CREATED="1435012353137" MODIFIED="1435012362953"/>
 <node TEXT="rep != info" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1537944354" CREATED="1435012367329" MODIFIED="1435012372656"/>
 <node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1612895605" CREATED="1435012393993" MODIFIED="1435012395201"><richcontent TYPE="NODE">
@@ -210,6 +214,81 @@
 </node>
 <node TEXT=". sep" ID="ID_514764328" CREATED="1432354814982" MODIFIED="1432354819992">
 <node TEXT="underst internal, truth &amp; infer external" ID="ID_65274151" CREATED="1432354808807" MODIFIED="1432354834422"/>
+</node>
+<node TEXT="? is" ID="ID_720088606" CREATED="1437699702338" MODIFIED="1437701638778">
+<node TEXT="?is thing = ?has logic" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_221866515" CREATED="1437700591482" MODIFIED="1437700634328">
+<font BOLD="false"/>
+</node>
+<node TEXT="negatives" LOCALIZED_STYLE_REF="default" ID="ID_875936240" CREATED="1434311706442" MODIFIED="1437699373177">
+<node TEXT="= each of these is a thing indivj; collectj do they share a logic?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1439488100" CREATED="1437699642330" MODIFIED="1437699672992"/>
+<node TEXT="nothing" ID="ID_444450851" CREATED="1434311709937" MODIFIED="1437699578122">
+<font BOLD="false"/>
+</node>
+<node TEXT="terminate" ID="ID_1964217489" CREATED="1434311712433" MODIFIED="1437699578121">
+<font BOLD="false"/>
+</node>
+<node TEXT="incomplete" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1140355256" CREATED="1434311716962" MODIFIED="1437699578119">
+<font BOLD="false"/>
+</node>
+<node TEXT="uncertainty" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1929990745" CREATED="1434311721178" MODIFIED="1437699578119">
+<font BOLD="false"/>
+</node>
+<node TEXT="? entropy" ID="ID_1502093583" CREATED="1436654789655" MODIFIED="1437699578118">
+<font BOLD="false"/>
+</node>
+<node TEXT="risk" ID="ID_1318445821" CREATED="1434311728945" MODIFIED="1437699578116">
+<font BOLD="false"/>
+</node>
+<node TEXT="crumble, smush, fizzle, slump" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1264423652" CREATED="1434311804714" MODIFIED="1437699578115">
+<font BOLD="false"/>
+<node TEXT="\ information loss" ID="ID_1650808320" CREATED="1437699410081" MODIFIED="1437699414632"/>
+</node>
+<node TEXT="ruin var\ attractor" ID="ID_403366197" CREATED="1434311819418" MODIFIED="1437699578114">
+<font BOLD="false"/>
+</node>
+<node TEXT="aggression" ID="ID_258243558" CREATED="1434313537755" MODIFIED="1437699578113">
+<font BOLD="false"/>
+</node>
+<node TEXT="surrender" ID="ID_325504370" CREATED="1434313589138" MODIFIED="1437699578112">
+<font BOLD="false"/>
+</node>
+<node TEXT="injustice" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_555577654" CREATED="1434313618883" MODIFIED="1437699578111">
+<font BOLD="false"/>
+<node TEXT="?= unfairness" LOCALIZED_STYLE_REF="styles.topic" ID="ID_443710089" CREATED="1437699482385" MODIFIED="1437699491355"/>
+</node>
+<node TEXT="? irrationality" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_428866538" CREATED="1434313748915" MODIFIED="1437699578110">
+<font BOLD="false"/>
+</node>
+<node TEXT="pressure" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_233670541" CREATED="1434441307685" MODIFIED="1437699578108">
+<font BOLD="false"/>
+</node>
+<node TEXT="covered" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1797005713" CREATED="1434313377299" MODIFIED="1437699576487">
+<node TEXT="ignorant = incomplete + uncertain" ID="ID_1801708094" CREATED="1434313380147" MODIFIED="1434313387657"/>
+<node TEXT="death = ruin" ID="ID_362733129" CREATED="1434313394827" MODIFIED="1434313396743"/>
+</node>
+</node>
+<node TEXT="freedom @ missing[logic]" ID="ID_1835096065" CREATED="1436570125662" MODIFIED="1437699951932">
+<node TEXT="? reverse devnull, productive" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_669887733" CREATED="1436570140670" MODIFIED="1436570151762"/>
+<node TEXT="= just a little missing for great freedom" ID="ID_84334294" CREATED="1433976090396" MODIFIED="1437700013759"/>
+<node TEXT="? related to japanese ideal, a little wrong for great beauty" ID="ID_990471049" CREATED="1437699923082" MODIFIED="1437699937766"/>
+<node TEXT="var/ inferential wiggle room" ID="ID_1173560791" CREATED="1437699977394" MODIFIED="1437700022883">
+<node TEXT="e.g. contractual" ID="ID_1335485972" CREATED="1437699999854" MODIFIED="1437700001157"/>
+</node>
+</node>
+<node TEXT="transc org" LOCALIZED_STYLE_REF="default" ID="ID_413788129" CREATED="1436573996081" MODIFIED="1437700642354">
+<node TEXT=". hoope so" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1950381833" CREATED="1436574127233" MODIFIED="1436654961548">
+<node TEXT="transc death" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_389836378" CREATED="1436574134943" MODIFIED="1436574140467"/>
+</node>
+<node TEXT="to be well one with the chaos, nothings and terminations one cares about and is safe through" ID="ID_1444405896" CREATED="1434311511017" MODIFIED="1437700567053"/>
+</node>
+<node TEXT="coinc -&gt; convenience" ID="ID_1818807329" CREATED="1436571998670" MODIFIED="1436572017304">
+<node TEXT="behind every coincidence, some convenience" LOCALIZED_STYLE_REF="default" ID="ID_1957387610" CREATED="1433977414945" MODIFIED="1436572299565"/>
+<node TEXT="e.g." ID="ID_1419306033" CREATED="1436572268687" MODIFIED="1436572269388">
+<node TEXT="every observed condition or change optimizing some map from concepts to agents" LOCALIZED_STYLE_REF="default" ID="ID_42225896" CREATED="1433977787066" MODIFIED="1437700673316">
+<node TEXT="or from a partition on concepts to" ID="ID_750598395" CREATED="1436571979399" MODIFIED="1436571985245"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="underst" ID="ID_1644583117" CREATED="1426977202076" MODIFIED="1426977203161">
 <node TEXT=". 1-reviewed" LOCALIZED_STYLE_REF="default" ID="ID_1175466826" CREATED="1432355297807" MODIFIED="1432355314799">
@@ -519,20 +598,12 @@
 </node>
 </node>
 </node>
-<node TEXT="not to lose" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_1475125174" CREATED="1436411860675" MODIFIED="1437639521348">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_160779281" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="&lt;- selected from dates" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1475125174" CREATED="1436411860675" MODIFIED="1437640047378">
+<font BOLD="true"/>
+<node TEXT="seld &amp; alien" LOCALIZED_STYLE_REF="default" ID="ID_280627292" CREATED="1437636942143" MODIFIED="1437640049358">
+<node TEXT="= ext&apos;d 2015 07 22 from ..." LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1343992372" CREATED="1436421781738" MODIFIED="1437640127950">
+<node TEXT="from (rep|info / dates) and everything below that on the RHS" ID="ID_211098526" CREATED="1437640113961" MODIFIED="1437640119577"/>
 </node>
-<node TEXT="info.mm / dates" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_582838397" CREATED="1432347258699" MODIFIED="1432356359563">
-<node TEXT="&gt; [problem] / [adopt for]" ID="ID_1029869636" CREATED="1435521637503" MODIFIED="1435521705928">
-<node TEXT="want to adopt, extrd from vcousins" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1863076363" CREATED="1435521711323" MODIFIED="1435521775521">
-<node TEXT="its cousins each of form ( dates / [date] )" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1445645418" CREATED="1435521775898" MODIFIED="1435521806176"/>
-</node>
-<node TEXT="a (trailing?) symbol for how to read, whether its children are peerish to its peers" ID="ID_1465440445" CREATED="1435521583190" MODIFIED="1435521618412"/>
-</node>
-<node TEXT="not to lose" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_160779281" CREATED="1437639510739" MODIFIED="1437639520306">
-<font BOLD="false"/>
-</node>
-<node TEXT="seld &amp; alien" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_280627292" CREATED="1437636942143" MODIFIED="1437639496235">
 <node TEXT="sort by can afford now to sort as" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_136939957" CREATED="1425590363309" MODIFIED="1437635665408">
 <node TEXT="if currently I feel I can cheaply classify into high|low yield, do that; if I feel I can merge, that instead" ID="ID_997653263" CREATED="1425590367364" MODIFIED="1425590403793"/>
 </node>
@@ -652,7 +723,7 @@
 </node>
 </node>
 </node>
-<node TEXT="seld" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1305488104" CREATED="1436408662951" MODIFIED="1436421781145">
+<node TEXT="seld" LOCALIZED_STYLE_REF="default" ID="ID_1305488104" CREATED="1436408662951" MODIFIED="1437640049372">
 <node TEXT="=- al+, best of 2015 05 07 - 06 25, ext&apos;d 07 08" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_740097012" CREATED="1436421781738" MODIFIED="1436421786375"/>
 <node TEXT="rel, coproc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_972497597" CREATED="1436412265203" MODIFIED="1436412269108">
 <node TEXT="when with the other, one saying &quot;yes and&quot;, providing extensions, lenses on the other&apos;s _" ID="ID_1133658233" CREATED="1433738522613" MODIFIED="1433738619602"/>
@@ -744,6 +815,14 @@
 <node TEXT="= devnull @ addict, devnull @ release" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1936901576" CREATED="1436410229001" MODIFIED="1437635598904"/>
 <node TEXT="addict perpetually looking one last time before deletion" ID="ID_259637807" CREATED="1432353573118" MODIFIED="1432353626647"/>
 </node>
+</node>
+</node>
+<node TEXT="info.mm / dates" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_582838397" CREATED="1432347258699" MODIFIED="1432356359563">
+<node TEXT="&gt; [problem] / [adopt for]" ID="ID_1029869636" CREATED="1435521637503" MODIFIED="1435521705928">
+<node TEXT="want to adopt, extrd from vcousins" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1863076363" CREATED="1435521711323" MODIFIED="1435521775521">
+<node TEXT="its cousins each of form ( dates / [date] )" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1445645418" CREATED="1435521775898" MODIFIED="1435521806176"/>
+</node>
+<node TEXT="a (trailing?) symbol for how to read, whether its children are peerish to its peers" ID="ID_1465440445" CREATED="1435521583190" MODIFIED="1435521618412"/>
 </node>
 <node TEXT="serial" ID="ID_1377074469" CREATED="1435521645878" MODIFIED="1436414176865">
 <font BOLD="true"/>
@@ -1268,6 +1347,7 @@
 </node>
 </node>
 </node>
+<node TEXT="newest" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_264667367" CREATED="1437698129153" MODIFIED="1437698138430"/>
 </node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">
