@@ -266,10 +266,33 @@
 <node TEXT="? diplom waste" ID="ID_324673282" CREATED="1438146635365" MODIFIED="1438146650057">
 <node TEXT="when I try to phrase something nicely, to avoid causing offense, am I fooling myself that that works?" ID="ID_109540600" CREATED="1438066856547" MODIFIED="1438146675050"/>
 </node>
+<node TEXT="? stuck trying to prove speed of coincidence because it was their combined state that mattered, not their sequence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1022655518" CREATED="1423341945239" MODIFIED="1438152549860">
+<font BOLD="false"/>
+</node>
 </node>
 <node TEXT="problem" ID="ID_1579264215" CREATED="1436590720976" MODIFIED="1437292291647">
 <node TEXT="telecom!" ID="ID_1108204242" CREATED="1424500633180" MODIFIED="1437292756316">
 <node TEXT="skype the old friends!" ID="ID_1301527025" CREATED="1424500636795" MODIFIED="1437520919685"/>
+</node>
+<node TEXT="cost a bad frame" ID="ID_335573902" CREATED="1425191671117" MODIFIED="1425191674443">
+<node TEXT="&quot;Can I afford to be ethical?&quot;" ID="ID_1626585765" CREATED="1425191674877" MODIFIED="1425191679819"/>
+<node TEXT="it&apos;s not a question of how much, but of what happens, what one is" ID="ID_1312559974" CREATED="1424918683494" MODIFIED="1424918703585">
+<node TEXT="cost a bad frame because it&apos;s ^that" ID="ID_617379514" CREATED="1425191715680" MODIFIED="1438152841420"/>
+</node>
+<node ID="ID_7036959" CREATED="1425191691808" MODIFIED="1425191691808"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      induces subjug
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="? modesty: irrational" LOCALIZED_STYLE_REF="styles.topic" ID="ID_236071317" CREATED="1437275228578" MODIFIED="1437275325178">
 <node TEXT="the clothing ?should be like nothing, we are ourselves and see each other" ID="ID_633592792" CREATED="1424423701838" MODIFIED="1437275254440"/>
@@ -678,6 +701,10 @@
 <node TEXT="\ feng" ID="ID_222667884" CREATED="1438131496193" MODIFIED="1438131525406">
 <node TEXT="feng =feng shui" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1309335225" CREATED="1438131525761" MODIFIED="1438131529360"/>
 </node>
+</node>
+<node TEXT="complete rational flow" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_70068224" CREATED="1426371760887" MODIFIED="1434962110799">
+<font BOLD="false"/>
+<node TEXT="a complete &quot;schedule&quot; algorithm, accomplishments for every second, cycles in cycles, conditions and subconditions" ID="ID_214506564" CREATED="1424299609101" MODIFIED="1425363061878"/>
 </node>
 </node>
 </node>

@@ -77,6 +77,9 @@
 </node>
 </node>
 <node TEXT="If I could graph-program I could measure the difference between the kinds of things written stoned and sober." ID="ID_206095253" CREATED="1438061120667" MODIFIED="1438061147033"/>
+<node TEXT="&quot;None of those categs would I want to lose it in just one of.&quot;" ID="ID_1259335711" CREATED="1424748815893" MODIFIED="1438152630902">
+<node TEXT="e.g. because both seem worth keeping but it&apos;s not clear that you&apos;ll end up revisiting either because they are obscure" ID="ID_1794806970" CREATED="1438152636422" MODIFIED="1438152652000"/>
+</node>
 </node>
 <node TEXT="dwt / use" ID="ID_572639764" CREATED="1438142312989" MODIFIED="1438142326851">
 <node TEXT="= using it" LOCALIZED_STYLE_REF="styles.topic" ID="ID_611780840" CREATED="1438142335308" MODIFIED="1438142337312"/>
@@ -164,6 +167,7 @@
 <node TEXT="challenged by another" ID="ID_676288449" CREATED="1438055318584" MODIFIED="1438055322141"/>
 </node>
 </node>
+<node TEXT="ratl += aware of costs, bens" ID="ID_1493854784" CREATED="1438155659831" MODIFIED="1438155693247"/>
 </node>
 </node>
 </map>
