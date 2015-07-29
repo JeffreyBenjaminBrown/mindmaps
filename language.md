@@ -24,6 +24,7 @@ Symbols
     I use the $ like it is used in Haskell, to indicate the order in which an expression should be evaluated. The $ symbol binds late, after all whitespace. For instance:
       "We need $ the dog to pee" = What we need is for the dog to pee.
       "We need the dog $ to pee" = We cannot pee without the dog.
+    Bigger dollars bind later yet.
   @
     a@b is similar to a~b, but it suggests imbalance. For instance, I may have written "innocence @ sex" somewhere, because what the fuck is up with that connection? Shouldn't those ideas be really far from each other?
   leading .
@@ -37,8 +38,9 @@ Colors
   light blue = something like "frozen", little expected future use
   green = meta, about the others
     That is, if a green node has a bunch of uncolored nodes as peers (they share a parent), the green one probably describes the others. Often it describes how to treat them.
-  red = highest-priority signal
-  
+  red = locally highest-priority signal
+    locally, context specific -- one node of a document can effectively shout louder than another by having a more important parent, even when the parents are uncolored
+
 More symbols, less crucial
   Vcontent and Vparent
   ^ means "in the graph sense"
@@ -53,3 +55,7 @@ More symbols, less crucial
     > for priority, action-ness
     "> x" for "parent is greater than x"
   mid-text < > | and &
+
+-> and ice blue =$ things tend to get classified here and I don't really want to work on it.
+  where it = here
+

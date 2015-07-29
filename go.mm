@@ -243,6 +243,12 @@
 <node TEXT="? even in a blank t-shirt looks rich" ID="ID_1745592491" CREATED="1437265857369" MODIFIED="1437265867719"/>
 <node TEXT="don&apos;t incite people to hate the rich and then dress rich" ID="ID_1617578781" CREATED="1437265841225" MODIFIED="1437265850071"/>
 </node>
+<node TEXT="self-defeatg martyrs of hate" LOCALIZED_STYLE_REF="default" ID="ID_569263333" CREATED="1438134616578" MODIFIED="1438142691469">
+<node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_174786098" CREATED="1438134631715" MODIFIED="1438134633293">
+<node TEXT="fuck&apos;em-martyrs" ID="ID_1935694724" CREATED="1438131590185" MODIFIED="1438131602907"/>
+</node>
+<node TEXT="died thinking &quot;well at least I didn&apos;t cooperate with those people&quot;, when ?could have coopd &amp; live" ID="ID_1623065067" CREATED="1438131603561" MODIFIED="1438131630624"/>
+</node>
 </node>
 <node TEXT="problem" ID="ID_1579264215" CREATED="1436590720976" MODIFIED="1437292291647">
 <node TEXT="telecom!" ID="ID_1108204242" CREATED="1424500633180" MODIFIED="1437292756316">
@@ -545,6 +551,9 @@
 </node>
 <node TEXT="rhythm" ID="ID_1007354289" CREATED="1428897063776" MODIFIED="1437258944247">
 <font BOLD="true"/>
+<node TEXT="&lt;- feng + rhythm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_667429848" CREATED="1438131536585" MODIFIED="1438142929209">
+<node TEXT="merge feng shui into lifestyle|rhythm|workflow" ID="ID_1506405871" CREATED="1438142768972" MODIFIED="1438142787637"/>
+</node>
 <node TEXT="= life, work rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1556039450" CREATED="1437258611226" MODIFIED="1437258616722"/>
 <node TEXT="?is / oppor / moods" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1315134915" CREATED="1437274241337" MODIFIED="1437274291216"/>
 <node TEXT="info restraint" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_726658276" CREATED="1437259648015" MODIFIED="1437259691205">
@@ -590,6 +599,12 @@
 <node TEXT="how feel strongly ?passingly about what is, not what future" ID="ID_1696276299" CREATED="1434311448977" MODIFIED="1434311490266"/>
 <node TEXT="flow var\ cog state" ID="ID_445545933" CREATED="1436573901801" MODIFIED="1436573940779">
 <node TEXT="= flow is a variety of" LOCALIZED_STYLE_REF="styles.topic" ID="ID_509295394" CREATED="1437700513515" MODIFIED="1437700518824"/>
+</node>
+<node TEXT="2015 07 28" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1389179566" CREATED="1438142977565" MODIFIED="1438142982185"/>
+<node TEXT="close app when not in use, tune the apps&apos; startup time(s) to the cognitive rhythm" ID="ID_1232400029" CREATED="1438131468897" MODIFIED="1438131484975">
+<node TEXT="\ feng" ID="ID_222667884" CREATED="1438131496193" MODIFIED="1438131525406">
+<node TEXT="feng =feng shui" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1309335225" CREATED="1438131525761" MODIFIED="1438131529360"/>
+</node>
 </node>
 </node>
 </node>
