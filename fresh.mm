@@ -64,6 +64,9 @@
 <node TEXT="? ask who about who" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_558058587" CREATED="1438132104562" MODIFIED="1438142024147">
 <font BOLD="false"/>
 </node>
+<node TEXT="I would learn from OKCupid." ID="ID_119639877" CREATED="1438047888678" MODIFIED="1438047894460">
+<node TEXT="enough time has gone by, I have changed, grown" ID="ID_660380341" CREATED="1438047895150" MODIFIED="1438047901204"/>
+</node>
 </node>
 <node TEXT="dwt / why" ID="ID_151374274" CREATED="1438141676556" MODIFIED="1438142039879">
 <node TEXT="&gt; add my frustrations" ID="ID_641076296" CREATED="1438142407236" MODIFIED="1438142410770"/>
@@ -73,6 +76,7 @@
 <node TEXT="and propogate the movement of every new leaf up through its entire chain of ancestors." ID="ID_109961069" CREATED="1438132543609" MODIFIED="1438132557471"/>
 </node>
 </node>
+<node TEXT="If I could graph-program I could measure the difference between the kinds of things written stoned and sober." ID="ID_206095253" CREATED="1438061120667" MODIFIED="1438061147033"/>
 </node>
 <node TEXT="dwt / use" ID="ID_572639764" CREATED="1438142312989" MODIFIED="1438142326851">
 <node TEXT="= using it" LOCALIZED_STYLE_REF="styles.topic" ID="ID_611780840" CREATED="1438142335308" MODIFIED="1438142337312"/>
@@ -117,25 +121,10 @@
 </node>
 </node>
 </node>
+<node TEXT="graph up|down is context|content" ID="ID_91761438" CREATED="1438054917120" MODIFIED="1438054922790"/>
 </node>
 <node TEXT="&gt; feas" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1609085836" CREATED="1438141600492" MODIFIED="1438142867951"/>
-<node TEXT="go / ?" ID="ID_1171973930" CREATED="1438141176780" MODIFIED="1438141230434">
-<node TEXT="discard self for money" ID="ID_1581170138" CREATED="1438141302044" MODIFIED="1438141329479">
-<node TEXT="to change money conditions one must empty oneself fairly completely" ID="ID_949045126" CREATED="1438132882930" MODIFIED="1438132897704"/>
-<node TEXT="discarding cogv and soc rhythms" ID="ID_154102662" CREATED="1438132911553" MODIFIED="1438132926084"/>
-<node TEXT="the joke being that the money is hardly worth it" ID="ID_626657447" CREATED="1438132898290" MODIFIED="1438132905504"/>
-</node>
-<node TEXT="? am bigot" ID="ID_1713490954" CREATED="1438141339476" MODIFIED="1438141343847">
-<node TEXT="could my disdain for games, sports, music be as bad as others&apos; for marijuana, writing, music" ID="ID_1944707509" CREATED="1438140404270" MODIFIED="1438140427374"/>
-</node>
-</node>
-<node TEXT="just pubn" ID="ID_1627930608" CREATED="1438140114780" MODIFIED="1438140132158">
-<node TEXT="?! distort for publicat" ID="ID_1517199587" CREATED="1438133526898" MODIFIED="1438140193769"/>
-<node TEXT="edit* to benefit audience, but distort not for personal gain" ID="ID_1307208297" CREATED="1438140201748" MODIFIED="1438140222647">
-<node TEXT="edit = select among true representations" ID="ID_1053189209" CREATED="1438140223723" MODIFIED="1438140235689"/>
-<node TEXT="don&apos;t ask how I relate to the person with whom I would share something; just ask whether they should have it" ID="ID_473740683" CREATED="1438133997042" MODIFIED="1438134011383"/>
-</node>
-</node>
+<node TEXT="go / ?" ID="ID_1171973930" CREATED="1438141176780" MODIFIED="1438141230434"/>
 <node TEXT="love &amp; surrender" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1182156114" CREATED="1438139726596" MODIFIED="1438141868566">
 <node TEXT="ignorant harmony" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_324438612" CREATED="1438132301217" MODIFIED="1438141870551">
 <node TEXT="&quot;(Do not) listen to these [forces], they are (not) your _.&quot;" ID="ID_1438422524" CREATED="1438132234682" MODIFIED="1438132255616"/>
@@ -144,14 +133,6 @@
 <node TEXT="giving up @as reason to want someone" ID="ID_1521278109" CREATED="1438136300226" MODIFIED="1438136352142"/>
 <node TEXT="wanting them because you gave up" ID="ID_1854791826" CREATED="1438136320627" MODIFIED="1438136331351"/>
 <node TEXT="giving up to have them" ID="ID_1888132293" CREATED="1438140278084" MODIFIED="1438140283193"/>
-</node>
-<node TEXT="endog" ID="ID_934185374" CREATED="1438139649588" MODIFIED="1438139650424">
-<node TEXT="explain creators, &quot;sorry&quot;" ID="ID_855857529" CREATED="1438137942443" MODIFIED="1438137948648"/>
-<node TEXT="endog / arbitrariness of standards" ID="ID_1304221741" CREATED="1438139657699" MODIFIED="1438139693347">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_855857529" STARTINCLINATION="119;0;" ENDINCLINATION="119;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="/ can involve" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1713601197" CREATED="1438139706571" MODIFIED="1438139711237"/>
-</node>
-<node TEXT="lifespan competition =&gt;? excess consumption" ID="ID_245776208" CREATED="1438134730794" MODIFIED="1438134742291"/>
 </node>
 <node TEXT="hype" ID="ID_1913500283" CREATED="1438139582420" MODIFIED="1438139583657">
 <node TEXT="print surprise, let it neuro,money-$propogate" ID="ID_202913767" CREATED="1438139025667" MODIFIED="1438139062121"/>
@@ -176,6 +157,11 @@
 <node TEXT="a game enjoyed only by the dominant, those bargaining with more to offer" ID="ID_1503455344" CREATED="1438134143521" MODIFIED="1438134153216"/>
 <node TEXT="is female enjoyment of sex a lie" ID="ID_31029315" CREATED="1438134139506" MODIFIED="1438134143304">
 <node TEXT="a lie keeping the species alive" ID="ID_1806647617" CREATED="1438133953674" MODIFIED="1438141277994"/>
+</node>
+</node>
+<node TEXT="soc blind funny" ID="ID_506255133" CREATED="1438148683181" MODIFIED="1438148687524">
+<node TEXT="to be challenged and not recog it" ID="ID_428260189" CREATED="1438055309711" MODIFIED="1438148698888">
+<node TEXT="challenged by another" ID="ID_676288449" CREATED="1438055318584" MODIFIED="1438055322141"/>
 </node>
 </node>
 </node>

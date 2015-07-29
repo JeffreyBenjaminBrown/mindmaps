@@ -25,6 +25,7 @@ Symbols
       "We need $ the dog to pee" = What we need is for the dog to pee.
       "We need the dog $ to pee" = We cannot pee without the dog.
     Bigger dollars bind later yet.
+    $ in a words bind before anything outside the word, but after any other punctuation in the word.
   @
     a@b is similar to a~b, but it suggests imbalance. For instance, I may have written "innocence @ sex" somewhere, because what the fuck is up with that connection? Shouldn't those ideas be really far from each other?
   leading .
