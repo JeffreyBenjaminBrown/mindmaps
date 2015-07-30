@@ -20,11 +20,9 @@ A child of "projects", such as "groceries", is basically a goal, with the inform
 
 you wanted to build a node called "conditioned responses", so that you could know how to behave under particular conditions. Your graph might include, for instance, this path:
 
-
 Ideally the "milk" in the most recent two paths stated would be the same node. That way, if you became vegan, you would only have to change one instance of the word "milk" to "almond milk"; you would not have to manually reflect the changes to one thing in another thing.
 
 Alas, Freeplane is not like that. If an idea is to have more than one parent -- more than one recorded context, more or less -- then that other context must be represented elsewhere, and its would-be child must inform the reader of the existence of the alternate parent. If two nodes are in the same document, Freeplane lets you draw a path connecting them. However, if they are not in the same document, you must make a record of the relationship between the two nodes some other way.
-
 
 Graph language I use
 --------------------

@@ -285,6 +285,26 @@
 <node TEXT="who ? compete among friendlies, hiding it" ID="ID_1675120965" CREATED="1438219924256" MODIFIED="1438226620682">
 <node TEXT="= hiding the compet" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1028538163" CREATED="1438226621321" MODIFIED="1438226624316"/>
 </node>
+<node TEXT="inhale 2" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1401317348" CREATED="1438229218257" MODIFIED="1438229224522"/>
+<node TEXT="jeff@jeffLenovUbu:~/work/mm/git$ date&#xa;Wed Jul 29 21:07:11 PDT 2015&#xa;jeff@jeffLenovUbu:~/work/mm/git$" ID="ID_1546310898" CREATED="1438229228657" MODIFIED="1438229237305"/>
+<node TEXT="happy to be alive ! celebrate winning" ID="ID_1486499531" CREATED="1438229207113" MODIFIED="1438229212573"/>
+<node TEXT="dancing as athletic proofs" ID="ID_1988672305" CREATED="1438229694073" MODIFIED="1438229699103">
+<node TEXT="fist pumping, celebration" ID="ID_539493815" CREATED="1438229703058" MODIFIED="1438229706599"/>
+</node>
+<node TEXT="good devnull, good music" ID="ID_672016759" CREATED="1438229955889" MODIFIED="1438229959478">
+<node TEXT="call it magic" ID="ID_1266109627" CREATED="1438229960562" MODIFIED="1438229962760">
+<node TEXT="coldplay" ID="ID_867441722" CREATED="1438229963474" MODIFIED="1438229964848"/>
+</node>
+</node>
+<node TEXT="no, don&apos;t have to water friends" ID="ID_1006487688" CREATED="1438230378378" MODIFIED="1438230382192">
+<node TEXT="let it chaotic" ID="ID_1503919887" CREATED="1438230392865" MODIFIED="1438230394816"/>
+<node TEXT="? but still contribute about the same amount" ID="ID_782564325" CREATED="1438230395009" MODIFIED="1438230403551"/>
+</node>
+<node TEXT="better response to elane, nadia would have been &quot;I am okay depending on others for safety&quot;" ID="ID_80052046" CREATED="1438230517682" MODIFIED="1438230533770"/>
+<node TEXT="win at reprod in a race" ID="ID_879468686" CREATED="1438230605138" MODIFIED="1438230610400">
+<node TEXT="by understanding what it needs and ? happening to be it" ID="ID_1176332745" CREATED="1438230613378" MODIFIED="1438230621448"/>
+</node>
+<node TEXT="? do not share personal todo; it ruins surprise" ID="ID_1752172854" CREATED="1438237465284" MODIFIED="1438237760476"/>
 </node>
 </node>
 </map>
