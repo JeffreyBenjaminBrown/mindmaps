@@ -56,6 +56,29 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="promoting" POSITION="right" ID="ID_827330694" CREATED="1438214059622" MODIFIED="1438214065695">
+<node TEXT="the bill of rights" ID="ID_1991357876" CREATED="1438213772110" MODIFIED="1438213774139">
+<node TEXT="1: no law may do these" ID="ID_200513754" CREATED="1438213775150" MODIFIED="1438213812901">
+<node TEXT="respecting an establishment of religion" LOCALIZED_STYLE_REF="default" ID="ID_362776362" CREATED="1438213782766" MODIFIED="1438213847305"/>
+<node TEXT="? saying anything about religion" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_204398429" CREATED="1438213897230" MODIFIED="1438213913797">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_362776362" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="? favoring a particular religion" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_252550384" CREATED="1438213828558" MODIFIED="1438213888841">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_362776362" STARTINCLINATION="374;0;" ENDINCLINATION="374;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="or maybe less than the entire religion, an establishment of it" ID="ID_703505399" CREATED="1438214314190" MODIFIED="1438214322141"/>
+</node>
+<node TEXT="abridge freedom of _" ID="ID_1179865501" CREATED="1438214110662" MODIFIED="1438214147009">
+<node TEXT="speech" ID="ID_357032594" CREATED="1438214138086" MODIFIED="1438214139308"/>
+<node TEXT="the press" ID="ID_1160875664" CREATED="1438214157750" MODIFIED="1438214163960"/>
+<node TEXT="right to peaceful assembly" ID="ID_1841488361" CREATED="1438214172542" MODIFIED="1438214175948"/>
+<node TEXT="ask govt to &quot;redress grievances&quot;" ID="ID_1467809114" CREATED="1438214202038" MODIFIED="1438214235357">
+<node TEXT="negative" ID="ID_453506355" CREATED="1438214235870" MODIFIED="1438214237049"/>
+<node TEXT="kind of a double negative -- the right to ask a negative undone" ID="ID_427595087" CREATED="1438214269430" MODIFIED="1438214278772"/>
+</node>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="2015 07 28" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_111793109" CREATED="1438140298699" MODIFIED="1438142641427">
 <node TEXT="choi" ID="ID_543648003" CREATED="1438141400989" MODIFIED="1438141401677">
 <node TEXT="dwt :$ argue &gt; implem" ID="ID_1291811926" CREATED="1438141410804" MODIFIED="1438141429862">
@@ -168,6 +191,93 @@
 </node>
 </node>
 <node TEXT="ratl += aware of costs, bens" ID="ID_1493854784" CREATED="1438155659831" MODIFIED="1438155693247"/>
+</node>
+<node TEXT="29" POSITION="right" ID="ID_1585618733" CREATED="1438210403356" MODIFIED="1438210403779">
+<node TEXT="All of these written in the 90 minutes after marij ingestion." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1555542786" CREATED="1438210438749" MODIFIED="1438215164427"/>
+<node TEXT="if a person&apos;s message has long perplexed me, consider it in the context of who they are, not in isolation" ID="ID_804656965" CREATED="1438210404343" MODIFIED="1438210424196"/>
+<node TEXT=":Yes the staff is|will be yours now.:" ID="ID_235601827" CREATED="1438210526733" MODIFIED="1438210543764"/>
+<node TEXT="the rich|powerful reflect strangely across the famous|tv too" ID="ID_1314168786" CREATED="1438210613085" MODIFIED="1438210623187"/>
+<node TEXT="&quot;for them yes but for you there&apos;s [no system?] there&quot;" ID="ID_413769843" CREATED="1438210650669" MODIFIED="1438216817473">
+<node TEXT="abusible" ID="ID_152213768" CREATED="1438210671029" MODIFIED="1438210672401"/>
+</node>
+<node TEXT="you grow somewhere with someone" ID="ID_1399964539" CREATED="1438210717213" MODIFIED="1438210722508">
+<node TEXT="and someone else sees it [adverb]" ID="ID_141984184" CREATED="1438210724253" MODIFIED="1438216830827"/>
+</node>
+<node TEXT="how|when this comedian keeps a straight face is magical" ID="ID_1614622632" CREATED="1438210836261" MODIFIED="1438216842095">
+<node TEXT="https://www.youtube.com/watch?v=kHcR_pjpvA4" ID="ID_1434227746" CREATED="1438210848741" MODIFIED="1438210848741" LINK="https://www.youtube.com/watch?v=kHcR_pjpvA4"/>
+</node>
+<node TEXT="&quot;since [time], [place] [pause] shit [starts over]" ID="ID_630629128" CREATED="1438211421076" MODIFIED="1438211442619"/>
+<node TEXT="&quot;It&apos;s not a parenthesis!&quot;" ID="ID_1943893230" CREATED="1438211462597" MODIFIED="1438211486300"/>
+<node TEXT="? news that sneaks up on you" ID="ID_975046419" CREATED="1438211568069" MODIFIED="1438211572064"/>
+<node TEXT="if the powerful hear you rarely" ID="ID_114034137" CREATED="1438211665452" MODIFIED="1438211674032"/>
+<node TEXT="relax eye, see shape before move to it" ID="ID_1043801003" CREATED="1438211881349" MODIFIED="1438211887579"/>
+<node TEXT="health question : pasta water" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_225905994" CREATED="1438212121301" MODIFIED="1438214455329">
+<node TEXT="= frozen pretty" ID="ID_1439588096" CREATED="1438212175197" MODIFIED="1438212178508"/>
+<node TEXT="is moot" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_661430030" CREATED="1438212124109" MODIFIED="1438212163465">
+<node ID="ID_596079253" CREATED="1438212161775" MODIFIED="1438212161775"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      my water savings from it is nothing rel the choices (ag subsidies) that will determine whether California is okay
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="does pasta include something you want not to eat?&#xa;&#xa;pasta water tastes bad now, in fact reacted (in disgust?) by throwing it away, but with broccoli and mushrooms in the noodles it tasted great" ID="ID_1738923756" CREATED="1438212069485" MODIFIED="1438212115584"/>
+</node>
+<node TEXT="if as nick offerman says the 5th 6th and 7th amendments are for justice problems, is it interesting that I never heard any but the 5th?" ID="ID_85302357" CREATED="1438212364229" MODIFIED="1438212396309"/>
+<node TEXT="the constitution&apos;s stated motiv" ID="ID_1480120150" CREATED="1438212634309" MODIFIED="1438213732169">
+<node TEXT="as stated in the &quot;preamble&quot;? = 1st parag, just bef article one = the entire motivation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1000315299" CREATED="1438212589533" MODIFIED="1438213765903"/>
+<node TEXT="next thin are quotes" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_17279307" CREATED="1438212958838" MODIFIED="1438213257153"/>
+<node TEXT="union" ID="ID_1042368777" CREATED="1438212728285" MODIFIED="1438212729332"/>
+<node TEXT="justice" ID="ID_1764484338" CREATED="1438212729549" MODIFIED="1438212730740"/>
+<node TEXT="domestic tranquility" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1091284629" CREATED="1438212730957" MODIFIED="1438213006162">
+<font BOLD="false"/>
+</node>
+<node TEXT="defence" ID="ID_1042144623" CREATED="1438212747334" MODIFIED="1438212751244">
+<node TEXT="= also \domestic but they don&apos;t say that" LOCALIZED_STYLE_REF="styles.topic" ID="ID_392866387" CREATED="1438212751941" MODIFIED="1438212764881"/>
+</node>
+<node TEXT="general welfare" ID="ID_1479001599" CREATED="1438212782693" MODIFIED="1438212784620">
+<node TEXT="general = everyone&apos;s" ID="ID_1784752285" CREATED="1438212893757" MODIFIED="1438212908016">
+<node TEXT="? every member&apos;s, again domestic" ID="ID_1517552688" CREATED="1438212909469" MODIFIED="1438212926038"/>
+</node>
+</node>
+<node TEXT="gains from &amp; enjoyment of freedom, coop" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_355727127" CREATED="1438213016958" MODIFIED="1438213166490">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_141691782" STARTINCLINATION="425;0;" ENDINCLINATION="425;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="liberty arguably makes as much room for compet as coop, but maybe blessings less so" LOCALIZED_STYLE_REF="styles.topic" ID="ID_758354453" CREATED="1438213087590" MODIFIED="1438213184387">
+<font BOLD="false"/>
+</node>
+</node>
+<node TEXT="for the future ~ for our descendents" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_356051586" CREATED="1438213197190" MODIFIED="1438213223937">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_141691782" STARTINCLINATION="195;0;" ENDINCLINATION="195;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="Blessings of Liberty to ourselves and our Posterity" ID="ID_141691782" CREATED="1438212952805" MODIFIED="1438212953692"/>
+</node>
+<node TEXT="do I prohibit the free exercise of religion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1970315624" CREATED="1438213928062" MODIFIED="1438213977257">
+<font BOLD="true"/>
+<node TEXT="~ let someone masturbate if they&apos;re on the phone with you" ID="ID_1744573191" CREATED="1438213995421" MODIFIED="1438214015441"/>
+<node TEXT="? let someone believe what they want" ID="ID_1896559622" CREATED="1438216892022" MODIFIED="1438216899790"/>
+<node TEXT="the right to be wrong and the right to tell someone they are" ID="ID_56132358" CREATED="1438216915862" MODIFIED="1438216927509"/>
+<node TEXT="? the right not to hear" ID="ID_1689772881" CREATED="1438216927734" MODIFIED="1438216931924"/>
+</node>
+<node TEXT="once you believe the motivation section of a paper you can reduce its memory to &quot;_ would be good&quot;" ID="ID_1583374569" CREATED="1438213309774" MODIFIED="1438213329193"/>
+<node TEXT="are young politicians a problem? would we be better off adjusting the constitution for age inflation?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_49130578" CREATED="1438213440638" MODIFIED="1438213463385">
+<font BOLD="false"/>
+</node>
+<node TEXT="we are letting the rich persist from a regime that forces most people to be either unemployed or bored for huge stretches of time, because they cannot afford education ? enough to distinguish themselves" ID="ID_1549637494" CREATED="1438212814301" MODIFIED="1438212863733"/>
+<node TEXT="inside a font the colors are mostly reset -- the default is black, etc." ID="ID_920696134" CREATED="1438214341550" MODIFIED="1438214371784">
+<node TEXT="but sometimes the parent&apos;s carries over, or maybe but if so rarely a different color carries over (to the children)" ID="ID_93407250" CREATED="1438214373678" MODIFIED="1438214411474"/>
+</node>
+<node TEXT="&quot;exterminate features&quot;" ID="ID_1657626983" CREATED="1438216574422" MODIFIED="1438216577772">
+<node TEXT="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf" ID="ID_387433331" CREATED="1438216584183" MODIFIED="1438216584183" LINK="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf"/>
+</node>
 </node>
 </node>
 </map>
