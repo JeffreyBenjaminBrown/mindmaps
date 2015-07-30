@@ -278,6 +278,13 @@
 <node TEXT="&quot;exterminate features&quot;" ID="ID_1657626983" CREATED="1438216574422" MODIFIED="1438216577772">
 <node TEXT="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf" ID="ID_387433331" CREATED="1438216584183" MODIFIED="1438216584183" LINK="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf"/>
 </node>
+<node TEXT="find a way for it to be no work to learn other languages" ID="ID_594985527" CREATED="1438211073157" MODIFIED="1438211079236">
+<node TEXT="just want to know the way another did|does" ID="ID_155771403" CREATED="1438211079925" MODIFIED="1438211088308"/>
+</node>
+<node TEXT="some money-enabled coop : hard to anticip, learn to perceive" ID="ID_30741277" CREATED="1438211244933" MODIFIED="1438226697311"/>
+<node TEXT="who ? compete among friendlies, hiding it" ID="ID_1675120965" CREATED="1438219924256" MODIFIED="1438226620682">
+<node TEXT="= hiding the compet" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1028538163" CREATED="1438226621321" MODIFIED="1438226624316"/>
+</node>
 </node>
 </node>
 </map>
