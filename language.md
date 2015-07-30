@@ -1,3 +1,5 @@
+Obsolete -- this text document is being replaced by [this mindmap](graph_lang.mm).
+
 One direction is not enough: Conceptual Reality v. Trees
 --------------------------------------------------------
 Typically in a mindmap, to move (down) from parent to child is to "descend" into the specifics of something. 
@@ -41,16 +43,11 @@ Graph language I use
   @
     a@b is similar to a~b, but it suggests imbalance. For instance, I may have written "innocence @ sex" somewhere, because what the fuck is up with that connection? Shouldn't those ideas be really far from each other?
 
-
-
 My shorthand
 ------------
 I use shorthand. If the meaning of the shorthand used in a node is not obvious, its children likely include a disambiguation node, which can be revealed by unfolding the ambiguous node. For instance, a node that reads "int|ext integration" might have a disambiguation node that reads "= internal|external". The disambiguation clarifies that the first node should be read as "internal|external integration", or perhaps even more verbosely, as "integrating one's internal and external experiences".
 
 Earlier I colored the text of disambiguations dark blue. I was using dark blue for other things too, though, so lately I have been using light blue text that starts with an = symbol.
-
-
-
 
 It and These: It usually refers to the parent of the node in which the word appears. These can refer to the node containing the word and its peers, or the node's children if it has children.
 

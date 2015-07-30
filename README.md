@@ -50,5 +50,7 @@ Some nodes are meaningful entirely out of context. One can ascertain their meani
 
 That's most of it!
 ------------------
-You now have access to more than 90% of the meaning of these mindmaps. If you want them to make even more sense, you will need to learn (don't worry, it's very small!) my [graph language](language.md). In case that seems uncalled for to you, I should point out that it starts by explaining why I felt I had to make such a thing.
+You now have access to most of the meaning of these mindmaps.
+
+If you want them to make even more sense yet, you will need to learn (don't worry, it's very small!) my [graph language](graph_lang.mm). In case that seems uncalled for to you, I should point out that it starts by explaining why I felt I had to make such a thing.
 
