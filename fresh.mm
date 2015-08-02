@@ -226,7 +226,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -305,6 +304,78 @@
 <node TEXT="by understanding what it needs and ? happening to be it" ID="ID_1176332745" CREATED="1438230613378" MODIFIED="1438230621448"/>
 </node>
 <node TEXT="? do not share personal todo; it ruins surprise" ID="ID_1752172854" CREATED="1438237465284" MODIFIED="1438237760476"/>
+</node>
+<node TEXT="30-31" POSITION="right" ID="ID_1947025415" CREATED="1438458661620" MODIFIED="1438458663794">
+<node TEXT="shar \ consc ags" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_835613829" CREATED="1438457631309" MODIFIED="1438457652248">
+<node TEXT="on tour if [optimizing message absorption]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1826291505" CREATED="1438330696598" MODIFIED="1438457626935"/>
+<node TEXT="wear green" ID="ID_1569933311" CREATED="1438331558966" MODIFIED="1438457779874">
+<node TEXT="guessing at its average interpretation, use in statements" ID="ID_432039016" CREATED="1438331566910" MODIFIED="1438331577972"/>
+</node>
+</node>
+<node TEXT="personal focus devnull" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1524737528" CREATED="1438457467245" MODIFIED="1438457473750">
+<node TEXT="how is it helpful to remember that _ is not [useful] for anyone but yourself" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_691115497" CREATED="1438330103574" MODIFIED="1438457439879"/>
+</node>
+<node TEXT="mirac|coinc" ID="ID_142592950" CREATED="1438204687675" MODIFIED="1438204690689">
+<node TEXT="I thought to myself, &quot;I love her,&quot; and almost immediately she stated (in some context), &quot;... keep going ...&quot;" ID="ID_752682935" CREATED="1436341161403" MODIFIED="1438204630193">
+<node TEXT="circa 2015 07 01" ID="ID_829771366" CREATED="1438204632267" MODIFIED="1438204638737"/>
+</node>
+</node>
+<node TEXT="share / justice of" ID="ID_1818941533" CREATED="1438222672392" MODIFIED="1438222699457">
+<node TEXT="2015 07 29, I read the 2p in git/fresh that I had written today, found nothing bad to share. How much evid of this kind do I need before I feel no need to review what I put there before posting?" ID="ID_1215348317" CREATED="1438216995470" MODIFIED="1438217046557"/>
+</node>
+<node TEXT="lion king hold baby for all to see" ID="ID_826043063" CREATED="1438228842993" MODIFIED="1438228848967"/>
+<node TEXT="know of a president the personal and the public both" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_14419578" CREATED="1438329634405" MODIFIED="1438329645097">
+<node TEXT="we can with some already" ID="ID_1748148930" CREATED="1438329652397" MODIFIED="1438329666627"/>
+</node>
+<node TEXT="I should watch presidents abroad, not _." ID="ID_938570849" CREATED="1438329951369" MODIFIED="1438336298490">
+<node TEXT="= speaking abroad; each relative to his own country" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1772838403" CREATED="1438336299079" MODIFIED="1438336330106"/>
+</node>
+<node TEXT="? hard people" ID="ID_717593132" CREATED="1438457493781" MODIFIED="1438457498942">
+<node TEXT="a tolerance of [stress], like steel, very different from me, did it because had to, not [simplifiable, decomposible] further" ID="ID_619633776" CREATED="1438330295894" MODIFIED="1438330320004"/>
+</node>
+<node TEXT="country patern offer" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_318993469" CREATED="1438457585173" MODIFIED="1438457672080">
+<font BOLD="false"/>
+<node TEXT="one country to another, &quot;us, the countries, are bigger opportunity than [tribes,compet] in you&quot;" ID="ID_587079591" CREATED="1438330531702" MODIFIED="1438330549972">
+<node TEXT="one&apos;s head of state to another&apos;s citizens" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_703088349" CREATED="1438457557181" MODIFIED="1438457599280"/>
+</node>
+<node TEXT="gifts on tour across countries to teach|prove available another way of life" ID="ID_1426059578" CREATED="1438330757582" MODIFIED="1438330776220"/>
+</node>
+<node TEXT="childhood ? graph-rootoish" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1689632288" CREATED="1438330835254" MODIFIED="1438457687032"/>
+<node TEXT="if someone did not see countries" ID="ID_1662963331" CREATED="1438331050470" MODIFIED="1438457729323"/>
+<node TEXT="justice by grouping" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1430816935" CREATED="1438457847357" MODIFIED="1438457852215">
+<node TEXT="those [neurons, persons] who chose as [job, role] to yell about something bad isolate together" ID="ID_960967516" CREATED="1438332088998" MODIFIED="1438457835537"/>
+</node>
+<node TEXT="democrats don&apos;t try to cheat. they accept money but they don&apos;t steal elections. right?" ID="ID_1665264125" CREATED="1438332543375" MODIFIED="1438332560943"/>
+<node TEXT="lead another from their mistakes without reminding of them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1062084564" CREATED="1438457972893" MODIFIED="1438458001211">
+<node TEXT="when asking someone who you would like to see change their behavior about an issue for it, do not remind them of what they have earlier said. more generally, do not lead them into the same framework?" ID="ID_1955684050" CREATED="1438336974250" MODIFIED="1438337006846"/>
+</node>
+<node TEXT="music / rush the promised" ID="ID_857837035" CREATED="1438458044748" MODIFIED="1438458131587">
+<node TEXT="7 6 . 7 . 5 .. 7 6 . 7 . 5 ..&#xa;7 6 . 7 . 4 .. 7 4 . 7 . 4 ..&#xa;rush the second one, call it baptizing the milk" ID="ID_658685520" CREATED="1438337653271" MODIFIED="1438458084538">
+<node TEXT=". is silence or hold" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_561266474" CREATED="1438337719263" MODIFIED="1438458066383"/>
+<node TEXT="numbers are 12et values" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1715088640" CREATED="1438458050461" MODIFIED="1438458066374"/>
+<node TEXT="without the third line, should remind me of something classical, happy, used in cartoons warner brothers I think, but probably mistranscribed" ID="ID_6966726" CREATED="1438337715537" MODIFIED="1438337762540"/>
+</node>
+</node>
+<node TEXT="twilight zone" ID="ID_517757201" CREATED="1438406231398" MODIFIED="1438406233947">
+<node TEXT="wins at casino always, ruins" ID="ID_970354414" CREATED="1438406234518" MODIFIED="1438406242646"/>
+</node>
+<node TEXT="reading another, doubt my own definitions" ID="ID_1203746667" CREATED="1438458201221" MODIFIED="1438458232075">
+<node TEXT="I can&apos;t rely on my received language; I must rename things if I am to use (infer from?) their names in my thinking about them." ID="ID_1004397013" CREATED="1438419560872" MODIFIED="1438419615526"/>
+<node TEXT="e.g. reading Jake&apos;s tictactoe.hs, I cannot assume what he means with a word is what the word already means to me" ID="ID_1161317922" CREATED="1438419624568" MODIFIED="1438458241437"/>
+</node>
+<node TEXT="ro paran" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1078173647" CREATED="1438454217533" MODIFIED="1438458332656">
+<node TEXT="twice now I wrongly suspected her of wrongdoing" ID="ID_805939048" CREATED="1438454162239" MODIFIED="1438458299374">
+<node TEXT="I can&apos;t remember the first, but today (2015 08 01) her friend wrote when I thought she was lying that she passed along my contact info." ID="ID_836339378" CREATED="1438454181805" MODIFIED="1438458325055"/>
+</node>
+</node>
+<node TEXT="? how great is bergman" ID="ID_107161361" CREATED="1438328821661" MODIFIED="1438458337993">
+<edge COLOR="#ffff00"/>
+</node>
+</node>
+<node TEXT="08 01" POSITION="right" ID="ID_698541365" CREATED="1438473571186" MODIFIED="1438473573663">
+<node TEXT="couples competing" ID="ID_198094903" CREATED="1438473574226" MODIFIED="1438473576656">
+<node TEXT="? to be happiest" ID="ID_444541446" CREATED="1438473588314" MODIFIED="1438473591320"/>
+</node>
 </node>
 </node>
 </map>
