@@ -372,9 +372,151 @@
 <edge COLOR="#ffff00"/>
 </node>
 </node>
-<node TEXT="08 01" POSITION="right" ID="ID_698541365" CREATED="1438473571186" MODIFIED="1438473573663">
+<node TEXT="2015 08 01-02" POSITION="right" ID="ID_1869684955" CREATED="1438575177737" MODIFIED="1438576993001">
+<node TEXT="? !read" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1089083945" CREATED="1438576081434" MODIFIED="1438576102289">
+<node TEXT="content &gt; medium" ID="ID_721246761" CREATED="1438576087689" MODIFIED="1438576092792">
+<node TEXT="if rather than a favorite medium for absorption (usually tv), I had favorite subjects to absorb, and used x-time whatever media best _" ID="ID_462824479" CREATED="1438497119664" MODIFIED="1438576014188"/>
+</node>
+<node TEXT="? video stupefies" ID="ID_1110181903" CREATED="1438576045721" MODIFIED="1438576049200">
+<node TEXT="I write but I do not read others&apos; much, rather listen, watch." ID="ID_466687612" CREATED="1438576052498" MODIFIED="1438576071129"/>
+</node>
+</node>
+<node TEXT="? say what" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_463775358" CREATED="1438576391074" MODIFIED="1438576402886">
+<node TEXT="if you tweeted questions, challenges, asking for sources to back up their statements, to [the famous?] who would respond how?" ID="ID_114127204" CREATED="1438497509361" MODIFIED="1438497534694"/>
+</node>
+<node TEXT="keep fresh feel" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_758777002" CREATED="1438575759994" MODIFIED="1438576428935">
+<font BOLD="false"/>
+<node TEXT="the [film] he made still feeling like a place of starting, because it [the original, not this latest the fifth] was his first time [directing?]" ID="ID_663832459" CREATED="1438495407920" MODIFIED="1438495458276">
+<node TEXT="tom cruise, mission impossible, daily show 2015 08 01" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1112934641" CREATED="1438495458973" MODIFIED="1438575768006"/>
+</node>
+<node TEXT="the past still _ as [fresh] to _ as it was then" ID="ID_67670276" CREATED="1438495497303" MODIFIED="1438575829156">
+<node TEXT="einstein, 4d thing is" ID="ID_1224564125" CREATED="1438575790657" MODIFIED="1438575797088"/>
+</node>
+</node>
+<node TEXT="power @ silence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1287823213" CREATED="1438575485329" MODIFIED="1438576771338">
+<node TEXT="@ silence/ignorance" ID="ID_1262579029" CREATED="1438576772106" MODIFIED="1438576776949">
+<node TEXT="what there is no time for is probably amazing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_394425042" CREATED="1438485001479" MODIFIED="1438575481866">
+<node TEXT="if you knew what everyone was capable of and how they were choosing other things" ID="ID_1994242118" CREATED="1438575448441" MODIFIED="1438575466057"/>
+</node>
+<node TEXT="[a thing chosen for its display effects] is the most _ _ imaginable, because you can&apos;t [hear] it" LOCALIZED_STYLE_REF="default" ID="ID_609289281" CREATED="1438485226236" MODIFIED="1438575687279">
+<node TEXT="? hear the details, but see faces talking, under conditions" ID="ID_37656114" CREATED="1438485273837" MODIFIED="1438485284079"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1947109144" CREATED="1438575681433" MODIFIED="1438575682910"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      jj abrams ted talk
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="@ silence/restraint" ID="ID_430969275" CREATED="1438576785707" MODIFIED="1438576791617">
+<node TEXT="don&apos;t say $ thanks for not _" ID="ID_709752680" CREATED="1438566023213" MODIFIED="1438576742494"/>
+</node>
+</node>
+<node TEXT="look past a person to their influences" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_349495660" CREATED="1438575396177" MODIFIED="1438576423847">
+<font BOLD="false"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_300329408" STARTINCLINATION="310;0;" ENDINCLINATION="310;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="&quot;How [black] is this guy?&quot; as &quot;How representative of ...?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1132723944" CREATED="1438496983000" MODIFIED="1438575945651">
+<node TEXT="? we ought to share the decision, no" ID="ID_1678674497" CREATED="1438575931362" MODIFIED="1438575937022"/>
+</node>
+<node TEXT="tailor challeneges" ID="ID_1671927362" CREATED="1438576227082" MODIFIED="1438576231833">
+<node TEXT="design challenges specific to the people to do them" ID="ID_702449599" CREATED="1438488138831" MODIFIED="1438488144441"/>
+</node>
+<node TEXT="manufactured mystery ? find" ID="ID_1661679481" CREATED="1438485179294" MODIFIED="1438576443950">
+<node TEXT="&quot;fill a blank page with magic&quot;" ID="ID_1642459333" CREATED="1438485100501" MODIFIED="1438575551601">
+<node TEXT="jj abrams ted talk" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1342070292" CREATED="1438485183549" MODIFIED="1438575576822"/>
+<node TEXT="might be paraph" ID="ID_1656158948" CREATED="1438575552265" MODIFIED="1438575554416"/>
+</node>
+<node TEXT="~ enthus" ID="ID_818905163" CREATED="1438575595066" MODIFIED="1438575598720"/>
+<node TEXT=": presumptuous" ID="ID_817313786" CREATED="1438575599033" MODIFIED="1438575644336">
+<node TEXT="assumes oneself belongs in the picture" ID="ID_567424506" CREATED="1438575623394" MODIFIED="1438575635888"/>
+</node>
+</node>
+<node TEXT="zero-sum feelings !! encourage" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1746913039" CREATED="1438569785229" MODIFIED="1438576914533">
+<node TEXT="like being special, lucky" ID="ID_585965010" CREATED="1438569796285" MODIFIED="1438569799539"/>
+</node>
+<node TEXT="rad alt &amp; pretty" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1271110006" CREATED="1438576292434" MODIFIED="1438576492318">
+<node TEXT="everyone with a negative earlier, like a youth, cyclically graph-rootish, part generative, part consequence" LOCALIZED_STYLE_REF="default" ID="ID_670730168" CREATED="1438476538019" MODIFIED="1438576471715"/>
+<node TEXT="&quot;no, you be the causes, I&apos;ll be the effects!&quot;" ID="ID_1988858380" CREATED="1438496632832" MODIFIED="1438496640276"/>
+<node TEXT="how once relied-on facts would disappear" ID="ID_1540957028" CREATED="1438476608226" MODIFIED="1438575303821">
+<node TEXT="state valve" ID="ID_299716794" CREATED="1438476624186" MODIFIED="1438476635361"/>
+</node>
+</node>
+<node TEXT="?true &amp; ?study" ID="ID_927348537" CREATED="1438576510827" MODIFIED="1438576529951">
+<node TEXT="&quot;every country has its subjugated people that it built its wealth on&quot; -- jon stewart 2015 07 _" ID="ID_462952166" CREATED="1438497750360" MODIFIED="1438497766821">
+<node TEXT="with ta nahasi coates" ID="ID_1079370759" CREATED="1438497769631" MODIFIED="1438497777534"/>
+</node>
+</node>
+<node TEXT="work @ alone &amp; silence" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1272366489" CREATED="1438576576642" MODIFIED="1438576621910">
+<node TEXT="work @ be alone @ be without as frequent|any updates on _" ID="ID_1494722847" CREATED="1438498299688" MODIFIED="1438576566604">
+<node TEXT="down a mineshaft" ID="ID_843449111" CREATED="1438576567203" MODIFIED="1438576569897"/>
+</node>
+</node>
+<node TEXT="deep because pessim ? common fallacy" ID="ID_467597516" CREATED="1438567481598" MODIFIED="1438576732442">
+<node TEXT="&quot;I&apos;m just not interested in anything they have to say.&quot; &quot;I&apos;m not interested in anything they have to say! That&apos;s not the point of friendship.&quot;" ID="ID_926667510" CREATED="1438566425829" MODIFIED="1438566443195">
+<node TEXT="girls s03e01" ID="ID_1389036454" CREATED="1438566444045" MODIFIED="1438566447653"/>
+</node>
+</node>
+<node TEXT="ro @ scarcity" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1764814603" CREATED="1438567133295" MODIFIED="1438576829811">
+<node ID="ID_167135491" CREATED="1438576828492" MODIFIED="1438576828492"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      people trying to get stuff from each other
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="boundary ! closure" ID="ID_236147767" CREATED="1438568521702" MODIFIED="1438568535656"/>
+<node TEXT="2015 08 01" LOCALIZED_STYLE_REF="styles.topic" ID="ID_212724765" CREATED="1438575852690" MODIFIED="1438576345913">
+<node TEXT="situations in which people are tested" ID="ID_1676536996" CREATED="1438476332642" MODIFIED="1438476337856">
+<node TEXT="rare situations, uniquely tested" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_18405336" CREATED="1438476345723" MODIFIED="1438575171157"/>
+<node TEXT="obama talking in kenya with their president" ID="ID_664976944" CREATED="1438476359666" MODIFIED="1438476368937"/>
+</node>
+<node TEXT="seems possible $ as one-way state valve" ID="ID_1141985772" CREATED="1438476644307" MODIFIED="1438476655759">
+<node TEXT="once you&apos;ve seen it, it does from then on" ID="ID_800368371" CREATED="1438575316393" MODIFIED="1438575322504"/>
+</node>
+<node TEXT="If jon stewart&apos;s ideas were not original where would they have been from?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_300329408" CREATED="1438484015164" MODIFIED="1438575433513">
+<font BOLD="false"/>
+</node>
+<node TEXT="&quot;singles seeking others, couples holding on&quot;" ID="ID_642289224" CREATED="1438486170926" MODIFIED="1438575741518">
+<node TEXT="is near quote" ID="ID_1725879531" CREATED="1438486192300" MODIFIED="1438486195934"/>
+<node TEXT="https://www.ted.com/talks/alec_soth_stacey_baker_this_is_what_enduring_love_looks_like#t-576816" ID="ID_1574636364" CREATED="1438486191655" MODIFIED="1438486191655" LINK="https://www.ted.com/talks/alec_soth_stacey_baker_this_is_what_enduring_love_looks_like#t-576816"/>
+</node>
+<node TEXT="feels like persecution|whining" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1699468401" CREATED="1438575877849" MODIFIED="1438575909781">
+<node TEXT="= like persec from the speaker&apos;s pov, whining the listener&apos;s" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1926226041" CREATED="1438575890442" MODIFIED="1438575905866"/>
+<node TEXT="&quot;Don&apos;t tell me we&apos;re over it. These problems are who I believe we are, who I believe I am. Maybe the future you see is, but see me, too.&quot;" ID="ID_596216651" CREATED="1438496823928" MODIFIED="1438496871660"/>
+</node>
+</node>
+<node TEXT="unsorted below" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_797115699" CREATED="1438577031364" MODIFIED="1438577034677"/>
+<node TEXT="08 01" ID="ID_698541365" CREATED="1438473571186" MODIFIED="1438473573663">
 <node TEXT="couples competing" ID="ID_198094903" CREATED="1438473574226" MODIFIED="1438473576656">
 <node TEXT="? to be happiest" ID="ID_444541446" CREATED="1438473588314" MODIFIED="1438473591320"/>
+</node>
+</node>
+<node TEXT="08 02" ID="ID_923407280" CREATED="1438475923475" MODIFIED="1438475924713">
+<node TEXT="who has important ideas. find them and listen, talk|ask." ID="ID_1033893110" CREATED="1438475895794" MODIFIED="1438475906113"/>
+<node TEXT="? repeat to soc" ID="ID_1224728635" CREATED="1438574923778" MODIFIED="1438574928134">
+<node TEXT="usefully provide a narrative to someone" ID="ID_188514625" CREATED="1438574908779" MODIFIED="1438575032998"/>
+<node TEXT="comment on things as they happen, echoing the environment but filtering that signal" ID="ID_1456832909" CREATED="1438574972969" MODIFIED="1438575037330"/>
+</node>
+<node TEXT="&quot;just find your audience&quot;" ID="ID_222306161" CREATED="1438574953434" MODIFIED="1438574957966">
+<node TEXT="&quot;they are real&quot;" ID="ID_1602880539" CREATED="1438574960753" MODIFIED="1438574963534"/>
+</node>
 </node>
 </node>
 </node>
