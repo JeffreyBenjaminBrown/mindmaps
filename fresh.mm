@@ -482,7 +482,59 @@
 </node>
 </node>
 <node TEXT="boundary ! closure" ID="ID_236147767" CREATED="1438568521702" MODIFIED="1438568535656"/>
-<node TEXT="2015 08 01" LOCALIZED_STYLE_REF="styles.topic" ID="ID_212724765" CREATED="1438575852690" MODIFIED="1438576345913">
+<node TEXT="uu" LOCALIZED_STYLE_REF="default" ID="ID_797115699" CREATED="1438577031364" MODIFIED="1438586853553">
+<font BOLD="true"/>
+<node TEXT="couples competing" ID="ID_198094903" CREATED="1438473574226" MODIFIED="1438473576656">
+<node TEXT="? to be happiest" ID="ID_444541446" CREATED="1438473588314" MODIFIED="1438473591320"/>
+</node>
+<node TEXT="who has important ideas. find them and listen, talk|ask." ID="ID_1033893110" CREATED="1438475895794" MODIFIED="1438475906113"/>
+<node TEXT="? repeat to soc" ID="ID_1224728635" CREATED="1438574923778" MODIFIED="1438574928134">
+<node TEXT="usefully provide a narrative to someone" ID="ID_188514625" CREATED="1438574908779" MODIFIED="1438575032998"/>
+<node TEXT="comment on things as they happen, echoing the environment but filtering that signal" ID="ID_1456832909" CREATED="1438574972969" MODIFIED="1438575037330"/>
+</node>
+<node TEXT="&quot;just find your audience&quot;" ID="ID_222306161" CREATED="1438574953434" MODIFIED="1438574957966">
+<node TEXT="&quot;they are real&quot;" ID="ID_1602880539" CREATED="1438574960753" MODIFIED="1438574963534"/>
+</node>
+<node TEXT="when helpful to recog $ is as mysterious to other players" ID="ID_751914133" CREATED="1438580840008" MODIFIED="1438580857664"/>
+<node TEXT="&quot;congratulations, that&apos;s such a great size&quot;" ID="ID_1647571627" CREATED="1438581342873" MODIFIED="1438581351945">
+<node TEXT="observed, female to female" ID="ID_1535352538" CREATED="1438581352593" MODIFIED="1438581356696"/>
+</node>
+<node TEXT="make it more [impossible, unachiev] and it will hang on you" ID="ID_808340774" CREATED="1438581402025" MODIFIED="1438581417064"/>
+<node TEXT="? keep your bad to yourself" ID="ID_496534679" CREATED="1438582171587" MODIFIED="1438582177360"/>
+<node TEXT="? group ? safe to share" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1129149971" CREATED="1438581896833" MODIFIED="1438582969754">
+<node TEXT="I started a reader, and so far (36 / 180) for that reader yes, it&apos;s all safe." ID="ID_138730733" CREATED="1438582946931" MODIFIED="1438582960833"/>
+</node>
+<node TEXT="? always write to live, transfer to fresh" ID="ID_1780384601" CREATED="1438582124545" MODIFIED="1438582157248">
+<node TEXT="for less fear of share bad" ID="ID_893505403" CREATED="1438582158090" MODIFIED="1438582163272"/>
+</node>
+<node TEXT="words like $ boundary" ID="ID_795731944" CREATED="1438582279154" MODIFIED="1438582288131">
+<node TEXT="scope" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1953035111" CREATED="1438582292226" MODIFIED="1438582419986"/>
+<node TEXT="freedom, choice" ID="ID_1483648483" CREATED="1438582310554" MODIFIED="1438582314630"/>
+</node>
+<node TEXT="don&apos;t forget purpose and _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_328146414" CREATED="1438582397778" MODIFIED="1438582488796">
+<node ID="ID_514635202" CREATED="1438582489165" MODIFIED="1438582489165"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      grow a list for the sake of list
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="entrance into intermediate goal" ID="ID_1411638524" CREATED="1438582506898" MODIFIED="1438582541209"/>
+</node>
+<node TEXT="applicability to thinker distinct from applic to others; four kinds then" ID="ID_1366723860" CREATED="1438582340802" MODIFIED="1438582362525"/>
+<node TEXT="choice (applicability) is a partition on problem sets" ID="ID_1570706155" CREATED="1438582321090" MODIFIED="1438582339632">
+<node TEXT="boolean applic" ID="ID_1034158368" CREATED="1438582368483" MODIFIED="1438582371360"/>
+</node>
+<node TEXT="screen not just for sanity but for abusability" ID="ID_994694567" CREATED="1438583390595" MODIFIED="1438583401594"/>
+</node>
+<node TEXT="enough" LOCALIZED_STYLE_REF="styles.topic" ID="ID_212724765" CREATED="1438575852690" MODIFIED="1438586866799">
 <node TEXT="situations in which people are tested" ID="ID_1676536996" CREATED="1438476332642" MODIFIED="1438476337856">
 <node TEXT="rare situations, uniquely tested" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_18405336" CREATED="1438476345723" MODIFIED="1438575171157"/>
 <node TEXT="obama talking in kenya with their president" ID="ID_664976944" CREATED="1438476359666" MODIFIED="1438476368937"/>
@@ -500,22 +552,6 @@
 <node TEXT="feels like persecution|whining" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1699468401" CREATED="1438575877849" MODIFIED="1438575909781">
 <node TEXT="= like persec from the speaker&apos;s pov, whining the listener&apos;s" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1926226041" CREATED="1438575890442" MODIFIED="1438575905866"/>
 <node TEXT="&quot;Don&apos;t tell me we&apos;re over it. These problems are who I believe we are, who I believe I am. Maybe the future you see is, but see me, too.&quot;" ID="ID_596216651" CREATED="1438496823928" MODIFIED="1438496871660"/>
-</node>
-</node>
-<node TEXT="unsorted below" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_797115699" CREATED="1438577031364" MODIFIED="1438577034677"/>
-<node TEXT="08 01" ID="ID_698541365" CREATED="1438473571186" MODIFIED="1438473573663">
-<node TEXT="couples competing" ID="ID_198094903" CREATED="1438473574226" MODIFIED="1438473576656">
-<node TEXT="? to be happiest" ID="ID_444541446" CREATED="1438473588314" MODIFIED="1438473591320"/>
-</node>
-</node>
-<node TEXT="08 02" ID="ID_923407280" CREATED="1438475923475" MODIFIED="1438475924713">
-<node TEXT="who has important ideas. find them and listen, talk|ask." ID="ID_1033893110" CREATED="1438475895794" MODIFIED="1438475906113"/>
-<node TEXT="? repeat to soc" ID="ID_1224728635" CREATED="1438574923778" MODIFIED="1438574928134">
-<node TEXT="usefully provide a narrative to someone" ID="ID_188514625" CREATED="1438574908779" MODIFIED="1438575032998"/>
-<node TEXT="comment on things as they happen, echoing the environment but filtering that signal" ID="ID_1456832909" CREATED="1438574972969" MODIFIED="1438575037330"/>
-</node>
-<node TEXT="&quot;just find your audience&quot;" ID="ID_222306161" CREATED="1438574953434" MODIFIED="1438574957966">
-<node TEXT="&quot;they are real&quot;" ID="ID_1602880539" CREATED="1438574960753" MODIFIED="1438574963534"/>
 </node>
 </node>
 </node>
