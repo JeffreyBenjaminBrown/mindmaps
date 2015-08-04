@@ -576,7 +576,7 @@
 </node>
 <node TEXT="? self-morbid motiv" ID="ID_1932904019" CREATED="1438656486588" MODIFIED="1438656494439">
 <node TEXT="&quot;it&apos;s about one of my most important problem spaces&quot; : is reason to study if low EX in that problem space" ID="ID_1094409372" CREATED="1438656417964" MODIFIED="1438656456034">
-<node TEXT="once you think you know what death is, how much work should you put into _" ID="ID_155293255" CREATED="1438656456932" MODIFIED="1438656467317"/>
+<node TEXT="once you think you know what death is, how much work should you put into [thinking about, studying, ..] it" ID="ID_155293255" CREATED="1438656456932" MODIFIED="1438659590518"/>
 </node>
 </node>
 <node TEXT="pretty as group ? death-virginal" ID="ID_880950068" CREATED="1438656052508" MODIFIED="1438659502912">
@@ -586,6 +586,54 @@
 <node TEXT="&quot;is oppor but not for study in its absence&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1960906963" CREATED="1438657116821" MODIFIED="1438657139890"/>
 <node TEXT="help someone make their case" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1340790542" CREATED="1438657056653" MODIFIED="1438657062008">
 <node TEXT="use their data, and free it from their framing" ID="ID_1900410767" CREATED="1438657169909" MODIFIED="1438657195869"/>
+</node>
+<node TEXT="don&apos;t hate on money. it demeans everyone&apos;s way of life." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1563216960" CREATED="1438668057507" MODIFIED="1438668077435"/>
+<node TEXT="kinds of things to do" ID="ID_1279583576" CREATED="1438644173732" MODIFIED="1438644177416">
+<node TEXT="? how is writing this list so hard" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1738123671" CREATED="1438673028586" MODIFIED="1438673038476"/>
+<node TEXT="make things" ID="ID_647443407" CREATED="1438644229436" MODIFIED="1438644231211"/>
+<node TEXT="have fun" ID="ID_158702286" CREATED="1438644231493" MODIFIED="1438644301369">
+<node TEXT="soc" ID="ID_1873499684" CREATED="1438644307436" MODIFIED="1438644308546"/>
+</node>
+<node TEXT="help people" ID="ID_1302998610" CREATED="1438644294901" MODIFIED="1438644296698">
+<node TEXT="find what they need" ID="ID_299522060" CREATED="1438644360838" MODIFIED="1438644363433"/>
+</node>
+</node>
+<node TEXT="wizard action dynamic like gunslinger" ID="ID_522501596" CREATED="1438648690066" MODIFIED="1438715674294">
+<node TEXT="power slinger" ID="ID_1441223292" CREATED="1438648698346" MODIFIED="1438648700056"/>
+</node>
+<node TEXT="? &quot;you can pretend you don&apos;t know, but of course you do.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1585888386" CREATED="1438648841218" MODIFIED="1438715685011">
+<node TEXT="-- jim norton" ID="ID_790805133" CREATED="1438648848881" MODIFIED="1438648851305"/>
+</node>
+<node TEXT="? magic of another&apos;s _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1648249196" CREATED="1438649552587" MODIFIED="1438715727557">
+<node TEXT="magic of the unknown" ID="ID_467110421" CREATED="1438649558139" MODIFIED="1438649561761"/>
+<node TEXT="appreciation for money ~ appreciation for other, imagining how radically different something can be because it is someone else&apos;s story" ID="ID_1116302367" CREATED="1438649392291" MODIFIED="1438649419407"/>
+<node TEXT="while listening to them" ID="ID_751575147" CREATED="1438649420267" MODIFIED="1438649426567"/>
+<node TEXT="and their decision of how to present it" ID="ID_1435440463" CREATED="1438649436571" MODIFIED="1438649441401"/>
+<node TEXT="&quot;what they have&quot; is mysterious" ID="ID_565894971" CREATED="1438715709292" MODIFIED="1438715712946"/>
+<node TEXT="~ grass on other side of fence" ID="ID_720231562" CREATED="1438715713164" MODIFIED="1438715721450"/>
+</node>
+<node TEXT="&quot;those bad things deserve the &apos;punishment&apos; of having no consequences.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1514672025" CREATED="1438649976908" MODIFIED="1438715731484">
+<font BOLD="false"/>
+<node TEXT="\do not record" ID="ID_1125830992" CREATED="1438649988764" MODIFIED="1438649992077"/>
+</node>
+<node TEXT="artist begging for approval, likely some audience would reward" ID="ID_1669436716" CREATED="1438650131195" MODIFIED="1438650143330"/>
+<node TEXT="comedy @ demog differences" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_467260849" CREATED="1438650374500" MODIFIED="1438650380153"/>
+<node TEXT="do I ? pollute question with bias" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1658271194" CREATED="1438651272805" MODIFIED="1438715573142">
+<node TEXT="ask a question (by and unnecessarily) articulating and maybe spreading my preconception of it" ID="ID_153749084" CREATED="1438651285254" MODIFIED="1438651351138"/>
+</node>
+<node TEXT="? how bad should I feel for not traveling when I can afford it" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1924848936" CREATED="1438653693361" MODIFIED="1438715380137"/>
+<node TEXT="&quot;root cause analysis&quot;" ID="ID_824240816" CREATED="1438654015409" MODIFIED="1438654017198">
+<node TEXT="is quote from job descrioption in gmail" ID="ID_332505349" CREATED="1438654017641" MODIFIED="1438654023359"/>
+</node>
+<node TEXT="&quot;give her the gift that keeps on giving [pause] you more time&quot;" ID="ID_733383" CREATED="1438655163923" MODIFIED="1438655172921">
+<node TEXT="schumer 3.?6" ID="ID_591057403" CREATED="1438655173638" MODIFIED="1438655180104"/>
+</node>
+<node TEXT="? prove others ?bad to ex-lover" ID="ID_1105291494" CREATED="1438715589156" MODIFIED="1438715613509">
+<node TEXT="observed" ID="ID_209851038" CREATED="1438715425227" MODIFIED="1438715427609"/>
+<node TEXT="_ broke up with X by proving their friends [bad?, by having sex wtih them all and making them agree to hide it until some massive revelation, destroying X&apos;s faith in people]" ID="ID_518343992" CREATED="1438655735587" MODIFIED="1438715606831"/>
+</node>
+<node TEXT="pull without shear" ID="ID_1944474480" CREATED="1438664048254" MODIFIED="1438715626706">
+<node TEXT="as my kitchen window at Grand View" ID="ID_403731480" CREATED="1438664054742" MODIFIED="1438715639002"/>
 </node>
 </node>
 </node>
