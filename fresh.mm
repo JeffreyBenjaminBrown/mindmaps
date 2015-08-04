@@ -555,5 +555,38 @@
 </node>
 </node>
 </node>
+<node TEXT="03" POSITION="right" ID="ID_1780981065" CREATED="1438656219220" MODIFIED="1438656219946">
+<node TEXT="? complete against someone" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_63572165" CREATED="1438655869395" MODIFIED="1438656571869">
+<node TEXT="&gt; murder" ID="ID_1061658963" CREATED="1438655877459" MODIFIED="1438655881697"/>
+<node TEXT="in quantum fractal time" ID="ID_788502280" CREATED="1438655901579" MODIFIED="1438655922295">
+<node TEXT="quantum, concurrent bool^n branches" ID="ID_1668546947" CREATED="1438655923243" MODIFIED="1438655983225"/>
+</node>
+<node TEXT="like proving &quot;we are the same&quot;" ID="ID_715311129" CREATED="1438655800587" MODIFIED="1438659471038">
+<node TEXT="was" ID="ID_1587043525" CREATED="1438655856603" MODIFIED="1438655858442">
+<node TEXT="puts the knife in like" ID="ID_1724322588" CREATED="1438655858989" MODIFIED="1438655861557"/>
+<node TEXT="from a chess animation, queen takes king, from the nineties" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1198681951" CREATED="1438656272484" MODIFIED="1438656290334"/>
+</node>
+</node>
+<node TEXT="prove being what other needs" ID="ID_1785758655" CREATED="1438656601653" MODIFIED="1438656640203">
+<node TEXT="prove each player a concept bundle" ID="ID_327955322" CREATED="1438656608189" MODIFIED="1438656617223"/>
+</node>
+</node>
+<node TEXT="prove relationships" ID="ID_446249422" CREATED="1438656663820" MODIFIED="1438656666540">
+<node TEXT="prove oneself what another uses" ID="ID_114749979" CREATED="1438656667780" MODIFIED="1438656671354"/>
+</node>
+<node TEXT="? self-morbid motiv" ID="ID_1932904019" CREATED="1438656486588" MODIFIED="1438656494439">
+<node TEXT="&quot;it&apos;s about one of my most important problem spaces&quot; : is reason to study if low EX in that problem space" ID="ID_1094409372" CREATED="1438656417964" MODIFIED="1438656456034">
+<node TEXT="once you think you know what death is, how much work should you put into _" ID="ID_155293255" CREATED="1438656456932" MODIFIED="1438656467317"/>
+</node>
+</node>
+<node TEXT="pretty as group ? death-virginal" ID="ID_880950068" CREATED="1438656052508" MODIFIED="1438659502912">
+<node TEXT="the ones who have not yet experienced death" ID="ID_437029593" CREATED="1438656058035" MODIFIED="1438656064363"/>
+<node TEXT="those who knew|had been through would not say" ID="ID_847022766" CREATED="1438656239404" MODIFIED="1438656254527"/>
+</node>
+<node TEXT="&quot;is oppor but not for study in its absence&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1960906963" CREATED="1438657116821" MODIFIED="1438657139890"/>
+<node TEXT="help someone make their case" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1340790542" CREATED="1438657056653" MODIFIED="1438657062008">
+<node TEXT="use their data, and free it from their framing" ID="ID_1900410767" CREATED="1438657169909" MODIFIED="1438657195869"/>
+</node>
+</node>
 </node>
 </map>
