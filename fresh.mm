@@ -56,10 +56,9 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="promoting" POSITION="right" ID="ID_827330694" CREATED="1438214059622" MODIFIED="1438214065695">
-<node TEXT="the bill of rights" ID="ID_1991357876" CREATED="1438213772110" MODIFIED="1438213774139">
+<node TEXT="the bill of rights" POSITION="right" ID="ID_1991357876" CREATED="1438213772110" MODIFIED="1438213774139">
 <node TEXT="1: no law may do these" ID="ID_200513754" CREATED="1438213775150" MODIFIED="1438213812901">
-<node TEXT="respecting an establishment of religion" LOCALIZED_STYLE_REF="default" ID="ID_362776362" CREATED="1438213782766" MODIFIED="1438213847305"/>
+<node TEXT="respect an establishment of religion" LOCALIZED_STYLE_REF="default" ID="ID_362776362" CREATED="1438213782766" MODIFIED="1438756255969"/>
 <node TEXT="? saying anything about religion" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_204398429" CREATED="1438213897230" MODIFIED="1438213913797">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_362776362" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
@@ -77,7 +76,7 @@
 </node>
 </node>
 </node>
-</node>
+<node TEXT="" ID="ID_1736425271" CREATED="1438756215166" MODIFIED="1438756215166"/>
 </node>
 <node TEXT="2015 07 28" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_111793109" CREATED="1438140298699" MODIFIED="1438142641427">
 <node TEXT="choi" ID="ID_543648003" CREATED="1438141400989" MODIFIED="1438141401677">
@@ -635,6 +634,125 @@
 <node TEXT="pull without shear" ID="ID_1944474480" CREATED="1438664048254" MODIFIED="1438715626706">
 <node TEXT="as my kitchen window at Grand View" ID="ID_403731480" CREATED="1438664054742" MODIFIED="1438715639002"/>
 </node>
+</node>
+<node TEXT="04" POSITION="right" ID="ID_1097592736" CREATED="1438730828976" MODIFIED="1438730830174">
+<node TEXT="info" ID="ID_347831842" CREATED="1438756884419" MODIFIED="1438756885593"/>
+<node TEXT="2 JEdit windows not a problem." ID="ID_1094021154" CREATED="1438730831680" MODIFIED="1438730840215">
+<node TEXT="need not close one" ID="ID_45614866" CREATED="1438730843832" MODIFIED="1438730846863"/>
+<node TEXT="might use it to view the same document in numerous concurrent split-screen places" ID="ID_1502598832" CREATED="1438730852231" MODIFIED="1438730872411"/>
+</node>
+<node TEXT="? comedy makes one weird" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_138187651" CREATED="1438730914232" MODIFIED="1438730921604">
+<node TEXT="sarcasm =&gt; associating [? subject &amp; oneself] with the opposite of something" ID="ID_1567398278" CREATED="1438730923016" MODIFIED="1438730969891"/>
+<node TEXT="satire =&gt; associating _ with extremifications, projections" ID="ID_655316436" CREATED="1438730976672" MODIFIED="1438731008639">
+<node TEXT="stories made up based on" ID="ID_1837002257" CREATED="1438731009393" MODIFIED="1438731012798"/>
+</node>
+</node>
+<node TEXT="&quot;It sounds stupid and it&apos;s true!&quot;" ID="ID_438135098" CREATED="1438731171712" MODIFIED="1438731197045">
+<node TEXT="dare to really consider $ something that already feels ?familiar" ID="ID_925292507" CREATED="1438731201624" MODIFIED="1438731276484"/>
+</node>
+<node TEXT="&quot;Why impose a data structure on data we already have|live?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_321379016" CREATED="1438731327976" MODIFIED="1438731477509">
+<node TEXT="? already =&gt; _" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_54252862" CREATED="1438731359680" MODIFIED="1438731429611">
+<node TEXT="already implies something mysterious and maybe important" ID="ID_1683601698" CREATED="1438731393824" MODIFIED="1438731436763"/>
+<node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1855983163" CREATED="1438731446721" MODIFIED="1438731448421">
+<node TEXT="already ?! _" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1542462832" CREATED="1438731359680" MODIFIED="1438731407853">
+<node TEXT="already is close to something mysterious and maybe important" ID="ID_1009253695" CREATED="1438731393824" MODIFIED="1438731403679"/>
+</node>
+</node>
+</node>
+<node TEXT="why _ when there is food on the table" ID="ID_1688914871" CREATED="1438731346800" MODIFIED="1438731354391"/>
+</node>
+<node TEXT="internal counterforce" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_839735155" CREATED="1438755391090" MODIFIED="1438755869675">
+<node TEXT="much left to mine" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_48057699" CREATED="1438755871937" MODIFIED="1438755874957"/>
+<node TEXT="kinds" ID="ID_1923881896" CREATED="1438755545903" MODIFIED="1438755547936">
+<node TEXT="to hang from oneself" ID="ID_525224647" CREATED="1438755395698" MODIFIED="1438755400960"/>
+<node TEXT="to support oneself" ID="ID_1208626358" CREATED="1438755401729" MODIFIED="1438755404072"/>
+<node TEXT="to be (a quality) shot through oneself" ID="ID_1904074797" CREATED="1438755463250" MODIFIED="1438755474954">
+<node TEXT="shot through, distributed fractal throughout" ID="ID_1257648960" CREATED="1438755481873" MODIFIED="1438755490912">
+<node TEXT="although the arrow image is too at least enjoyable" ID="ID_1760069003" CREATED="1438755499322" MODIFIED="1438755512254"/>
+</node>
+</node>
+</node>
+<node TEXT="uses" ID="ID_591458539" CREATED="1438755551153" MODIFIED="1438755552072">
+<node TEXT="bind" ID="ID_766074428" CREATED="1438755554402" MODIFIED="1438755555521">
+<node TEXT="bind the forces" ID="ID_766242994" CREATED="1438755559650" MODIFIED="1438755561608">
+<node TEXT="the internally counteropposed" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1427850215" CREATED="1438755579098" MODIFIED="1438755593629"/>
+</node>
+<node TEXT="bind the self to the spot" ID="ID_1048669404" CREATED="1438755562017" MODIFIED="1438755565814"/>
+</node>
+<node TEXT="? relax" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_497968598" CREATED="1438755605010" MODIFIED="1438755616705">
+<node TEXT="as program is internal counterforce" ID="ID_95575930" CREATED="1438755690137" MODIFIED="1438755697519">
+<node TEXT="but the &quot;to relax&quot; program is itself an internal counterforce" ID="ID_646546677" CREATED="1438755664378" MODIFIED="1438755685705"/>
+</node>
+<node LOCALIZED_STYLE_REF="styles.topic" ID="ID_18992745" CREATED="1438755619450" MODIFIED="1438755737850"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>dub : </b>to use internal counterforce to relax
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<font BOLD="true"/>
+<node ID="ID_953375383" CREATED="1438755704468" MODIFIED="1438755704468"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rather relax by withhold energy
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="emulate" ID="ID_451424717" CREATED="1438755749330" MODIFIED="1438755755719">
+<node TEXT="lacking the framework that made another&apos;s actions the natural one, instead approaching by successive approximations" ID="ID_971116205" CREATED="1438755762234" MODIFIED="1438755788281"/>
+</node>
+</node>
+</node>
+<node TEXT="writeoff" LOCALIZED_STYLE_REF="styles.topic" ID="ID_79959136" CREATED="1438756397242" MODIFIED="1438756402437">
+<node TEXT="&quot;[nth in a list of processes]&apos;Get motivated.&apos;&quot; &quot;What&apos;s that?&quot; &quot;That&apos;s where you are arrested without due process.&quot; &quot;I don&apos;t hink so.&quot;" ID="ID_201304492" CREATED="1438752840230" MODIFIED="1438752878090">
+<node TEXT="schumer 3.6" ID="ID_1131491120" CREATED="1438752878782" MODIFIED="1438752884068"/>
+</node>
+</node>
+<node TEXT="homemaking ! showing off" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1333438543" CREATED="1438752563606" MODIFIED="1438756325301"/>
+<node TEXT="&quot;_&quot; &quot;Not.&quot; &quot;Why?&quot; &quot;Because that [frame] is your fault.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1590778351" CREATED="1438753304670" MODIFIED="1438757087098">
+<font BOLD="false"/>
+<node TEXT="was :Because you know why:" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1573763941" CREATED="1438753323054" MODIFIED="1438756360613"/>
+</node>
+<node TEXT="interest|interaction boundary" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1514452971" CREATED="1438756468707" MODIFIED="1438756501170">
+<font BOLD="false"/>
+<node TEXT="&quot;I&apos;ve got no questions, but we appreciate your business.&quot;" ID="ID_1613996953" CREATED="1438753346591" MODIFIED="1438753356516"/>
+<node TEXT="post-meridian" LOCALIZED_STYLE_REF="default" ID="ID_1177519593" CREATED="1438753358087" MODIFIED="1438753396249">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1613996953" STARTINCLINATION="565;0;" ENDINCLINATION="565;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="the thing having already completely stood" LOCALIZED_STYLE_REF="default" ID="ID_1479320309" CREATED="1438753373982" MODIFIED="1438753391829"/>
+</node>
+</node>
+<node TEXT="nothing to do but lead" ID="ID_94029258" CREATED="1438754152504" MODIFIED="1438754176421">
+<node TEXT="like the body refusing too much sleep after a certain age" ID="ID_1524695980" CREATED="1438756510491" MODIFIED="1438756519968"/>
+</node>
+<node TEXT="leak across boundaries" ID="ID_1394991918" CREATED="1438754172392" MODIFIED="1438754189531">
+<node TEXT="feelings" ID="ID_1606523838" CREATED="1438754195415" MODIFIED="1438754197773"/>
+</node>
+<node TEXT="keeping oneself blind to alternate (pronoun) configurations harms (? nobody but) oneself" ID="ID_1532765041" CREATED="1438754269463" MODIFIED="1438756739196">
+<node TEXT="quantum" ID="ID_740317616" CREATED="1438754286400" MODIFIED="1438754288614"/>
+</node>
+<node TEXT="mine data for things people like" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1886812326" CREATED="1438754405696" MODIFIED="1438754410658">
+<node TEXT="dupd at live/choi" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_633277573" CREATED="1438756768803" MODIFIED="1438756774637"/>
+<node TEXT="need copyright protection" ID="ID_1001769174" CREATED="1438754418047" MODIFIED="1438754422589"/>
+<node TEXT="? bitcoin could enforce copyright protection" ID="ID_692862693" CREATED="1438754427672" MODIFIED="1438754436934"/>
+</node>
+<node TEXT="! spouse projecting, reinforcing the other&apos;s stereotypes" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1386545397" CREATED="1438754838872" MODIFIED="1438756827577"/>
 </node>
 </node>
 </map>

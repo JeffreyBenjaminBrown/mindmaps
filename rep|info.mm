@@ -1379,9 +1379,10 @@
 </node>
 </node>
 </node>
-<node TEXT="2015 07 28" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1470149307" CREATED="1438148310558" MODIFIED="1438148314370"/>
-<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_326098254" CREATED="1438148319277" MODIFIED="1438148320834">
-<node TEXT="&quot;I think _ makes me a better person&quot; grows like a plant." ID="ID_28799958" CREATED="1438056110434" MODIFIED="1438148284488"/>
+<node TEXT="2015 08 04" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1470149307" CREATED="1438148310558" MODIFIED="1438756918306"/>
+<node TEXT="&quot;exactly some do&quot; quantifies the reality of a condition" ID="ID_1228409726" CREATED="1438754891921" MODIFIED="1438756875923"/>
+<node TEXT="aimless &amp; pretty; art" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_740846356" CREATED="1438756955451" MODIFIED="1438757002919">
+<node TEXT="&quot;I think _ makes me a better person&quot; growing like a plant" ID="ID_28799958" CREATED="1438056110434" MODIFIED="1438756940387"/>
 </node>
 </node>
 </node>
