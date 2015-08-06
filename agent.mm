@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="agent" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438226961592"><hook NAME="MapStyle" zoom="1.241">
+<node TEXT="git / agent" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438760885958"><hook NAME="MapStyle" zoom="1.241">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -267,6 +267,17 @@
 <node TEXT="= within-agent" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1676922639" CREATED="1435019226042" MODIFIED="1435019228807"/>
 <node TEXT="the self (nr)" LOCALIZED_STYLE_REF="default" ID="ID_1485136792" CREATED="1423785144308" MODIFIED="1435036783441">
 <font BOLD="true"/>
+<node TEXT="constructs" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_695945779" CREATED="1438759048182" MODIFIED="1438759053729">
+<node TEXT="I can&apos;t immediately enumerate its qualities, but I can maybe about it like Dr. Seuss, &quot;Are you _? Are you _? Are you _ _ _?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1705663670" CREATED="1438758651229" MODIFIED="1438758803469">
+<node TEXT="kind of parallel" ID="ID_222172104" CREATED="1438758813021" MODIFIED="1438758817587"/>
+</node>
+<node TEXT="I am what I have been trying to do." ID="ID_1734803485" CREATED="1438758719165" MODIFIED="1438758724250"/>
+<node TEXT="I am what feels {best, most appropriate} at the time." ID="ID_1774162709" CREATED="1438758726454" MODIFIED="1438758744330"/>
+<node TEXT="I am where [system] led me." ID="ID_658740614" CREATED="1438758778085" MODIFIED="1438758782462"/>
+<node TEXT="I need _. I deserve _." ID="ID_1414878112" CREATED="1438758835869" MODIFIED="1438758913921"/>
+<node TEXT="I have gone|I will go|I am at peak." ID="ID_252167118" CREATED="1438758922958" MODIFIED="1438758964036"/>
+<node TEXT="I pretend to be rational|certain." ID="ID_1108954298" CREATED="1438758854037" MODIFIED="1438758886164"/>
+</node>
 <node TEXT="&lt;- could mine from here into do/peace/integrate" ID="ID_1731016409" CREATED="1426367140266" MODIFIED="1426367159278"/>
 <node TEXT=".= includes lived experience" ID="ID_1939315655" CREATED="1425363973367" MODIFIED="1427343793180">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1887294218" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>

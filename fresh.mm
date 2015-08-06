@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438142620430"><hook NAME="MapStyle" zoom="1.331">
+<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438142620430"><hook NAME="MapStyle" zoom="1.21">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -753,6 +753,12 @@
 <node TEXT="? bitcoin could enforce copyright protection" ID="ID_692862693" CREATED="1438754427672" MODIFIED="1438754436934"/>
 </node>
 <node TEXT="! spouse projecting, reinforcing the other&apos;s stereotypes" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1386545397" CREATED="1438754838872" MODIFIED="1438756827577"/>
+<node TEXT="&quot;I am open source, and so can you!&quot;" ID="ID_736718625" CREATED="1438760833521" MODIFIED="1438760839966"/>
+</node>
+<node TEXT="5" POSITION="right" ID="ID_1507861720" CREATED="1438808273024" MODIFIED="1438808276158">
+<node TEXT="to know one&apos;s own and another&apos;s biases" LOCALIZED_STYLE_REF="default" ID="ID_1923194276" CREATED="1425964009729" MODIFIED="1438808283130"/>
+<node TEXT="knowing one&apos;s smile weakens|transfixes another&apos;s mind" LOCALIZED_STYLE_REF="default" ID="ID_1638573755" CREATED="1427864882894" MODIFIED="1438808331675"/>
+<node TEXT="handle a depressed person, like catching eggs thrown by an adversary, tom and jerry" LOCALIZED_STYLE_REF="default" ID="ID_1119786387" CREATED="1428201032038" MODIFIED="1438808525620"/>
 </node>
 </node>
 </map>
