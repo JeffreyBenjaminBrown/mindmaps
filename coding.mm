@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1437959475160"><hook NAME="MapStyle" zoom="1.213">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.213">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -14620,31 +14620,6 @@
 <node TEXT="include non-tree link to a ref that groups them and is not their purpose" ID="ID_144182410" CREATED="1438833020990" MODIFIED="1438833036107"/>
 </node>
 <node TEXT="fgl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_930373259" CREATED="1438909753076" MODIFIED="1438909863490">
-<node TEXT="how to put dwt on top of a gl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1191005051" CREATED="1438849153003" MODIFIED="1438910232605">
-<node TEXT="stmts are nodes" ID="ID_1041841096" CREATED="1438849172035" MODIFIED="1438849176000"/>
-<node TEXT="rels are nodes with 2 edge kinds: members and tplt" ID="ID_911223881" CREATED="1438849198355" MODIFIED="1438849223099"/>
-</node>
-<node TEXT="lookup = lab" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038191014" CREATED="1438909762268" MODIFIED="1438909804692">
-<node TEXT="lab :: Graph gr =&gt; gr a b -&gt; Node -&gt; Maybe a" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1157355000" CREATED="1438898890438" MODIFIED="1438909757992">
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/Data-Graph-Inductive-Graph.html" ID="ID_1936404584" CREATED="1438898917122" MODIFIED="1438898923142" LINK="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/Data-Graph-Inductive-Graph.html#t:DynGraph"/>
-</node>
-</node>
-<node TEXT="assignment = seq( match, mod, &amp; )" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1635343362" CREATED="1438909769780" MODIFIED="1438909837148">
-<node ID="ID_1790837165" CREATED="1438909797694" MODIFIED="1438909797694"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      match the node, then add it back to the rest of the graph (which is the other return value from the match) using &amp;
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 <node TEXT="? use fold, gfold" LOCALIZED_STYLE_REF="default" ID="ID_737246865" CREATED="1438850842445" MODIFIED="1438910343193">
 <node TEXT="gfold" ID="ID_1680735292" CREATED="1438910345244" MODIFIED="1438910346688">
 <node TEXT="source code" ID="ID_998649670" CREATED="1438850882436" MODIFIED="1438850884401">
@@ -14673,6 +14648,57 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="? irrel" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1357865069" CREATED="1438910208924" MODIFIED="1438910214894">
 <node TEXT="would it be stupid to use unlabeled graphs in FGL plus some dictionaries?" ID="ID_391222691" CREATED="1438850002828" MODIFIED="1438850049496"/>
+</node>
+</node>
+</node>
+<node TEXT="07: next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_205185279" CREATED="1438976316060" MODIFIED="1439085358183">
+<node TEXT="2015 08 07" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_491117822" CREATED="1438976327260" MODIFIED="1438976332760"/>
+<node TEXT="how can FGL lookup be faster than O(n)?" ID="ID_82482630" CREATED="1439037090968" MODIFIED="1439037098159">
+<node TEXT="read paper" ID="ID_1100522704" CREATED="1439037099079" MODIFIED="1439037100334"/>
+<node TEXT="so said Tikhon Jelvis maybe; whoever answered my last email" ID="ID_684004316" CREATED="1439037101080" MODIFIED="1439037110816"/>
+<node TEXT="2015 08 07" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1418288138" CREATED="1439037111096" MODIFIED="1439037121529"/>
+</node>
+<node TEXT="assignment = seq( match, mod, &amp; )" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1635343362" CREATED="1438909769780" MODIFIED="1438909837148">
+<node ID="ID_1790837165" CREATED="1438909797694" MODIFIED="1438909797694"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      match the node, then add it back to the rest of the graph (which is the other return value from the match) using &amp;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="lookup = lab" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038191014" CREATED="1438909762268" MODIFIED="1438909804692">
+<node TEXT="lab :: Graph gr =&gt; gr a b -&gt; Node -&gt; Maybe a" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1157355000" CREATED="1438898890438" MODIFIED="1438909757992">
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/Data-Graph-Inductive-Graph.html" ID="ID_1936404584" CREATED="1438898917122" MODIFIED="1438898923142" LINK="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/Data-Graph-Inductive-Graph.html#t:DynGraph"/>
+</node>
+</node>
+<node TEXT="how to put dwt on top of a gl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1191005051" CREATED="1438849153003" MODIFIED="1438910232605">
+<node TEXT="stmts are nodes" ID="ID_1041841096" CREATED="1438849172035" MODIFIED="1438849176000"/>
+<node TEXT="rels are nodes with 2 edge kinds: members and tplt" ID="ID_911223881" CREATED="1438849198355" MODIFIED="1438849223099"/>
+</node>
+</node>
+<node TEXT="08" ID="ID_719963784" CREATED="1439081824406" MODIFIED="1439085353375">
+<node TEXT="motiv" ID="ID_1976962330" CREATED="1439080775476" MODIFIED="1439081827891">
+<node TEXT="&quot;list coparents (of children of this) by volume&quot;" ID="ID_1851457836" CREATED="1439080200716" MODIFIED="1439080220009">
+<node TEXT="comedy + econ" ID="ID_1266287386" CREATED="1439080223756" MODIFIED="1439080226369"/>
+<node TEXT="devnull + _" ID="ID_1707718367" CREATED="1439080236700" MODIFIED="1439080239225"/>
+</node>
+</node>
+<node TEXT="? how to chain, nest monadic functions" ID="ID_709118196" CREATED="1439037139648" MODIFIED="1439081816462">
+<node TEXT="is dup, main at haskel l" ID="ID_1288288827" CREATED="1439081899750" MODIFIED="1439081904558"/>
+</node>
+<node TEXT="? exception v. either etc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1989910649" CREATED="1439065068794" MODIFIED="1439085380295">
+<node TEXT="https://www.reddit.com/r/haskell/comments/3g1488/debugging_monadic_code/" ID="ID_780082386" CREATED="1439065165087" MODIFIED="1439065165087" LINK="https://www.reddit.com/r/haskell/comments/3g1488/debugging_monadic_code/"/>
+<node TEXT="use error for programmer, use maybe or either for expected bifurcations" ID="ID_1412640155" CREATED="1439064743161" MODIFIED="1439065096476"/>
+<node TEXT="someone else said moands &gt; exceptions, debugging easier" ID="ID_807279100" CREATED="1439065104250" MODIFIED="1439065118487">
+<node TEXT="because exceptions somehow &quot;bypass the whole purity thing&quot;" ID="ID_1020387947" CREATED="1439065146730" MODIFIED="1439065156663"/>
 </node>
 </node>
 </node>

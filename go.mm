@@ -706,6 +706,11 @@
 <font BOLD="false"/>
 <node TEXT="a complete &quot;schedule&quot; algorithm, accomplishments for every second, cycles in cycles, conditions and subconditions" ID="ID_214506564" CREATED="1424299609101" MODIFIED="1425363061878"/>
 </node>
+<node TEXT="stop losing sight of context when with people" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1667780188" CREATED="1439060499644" MODIFIED="1439085521849">
+<node TEXT="\ reprog self, to do, novel" ID="ID_1325489540" CREATED="1439081219765" MODIFIED="1439085527353">
+<node TEXT="novel v. detail|extend familiar" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_828197674" CREATED="1439081243981" MODIFIED="1439081262603"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="dream big" ID="ID_56999866" CREATED="1437258092370" MODIFIED="1437258094224">
