@@ -96,7 +96,9 @@
 <node TEXT="= disengagement (from conflict, people) can feel good?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1604520473" CREATED="1430115183219" MODIFIED="1430115188647"/>
 <node TEXT="facts" ID="ID_736407003" CREATED="1420352073756" MODIFIED="1420352074596">
 <node TEXT="I am usually averse to [person], and often comfortably so." ID="ID_393630078" CREATED="1420351974644" MODIFIED="1434954320410"/>
-<node TEXT="I intended to visit _ today, but then skipping that occurred to me, and seemed a good idea. I laughed as I decided to blow it off." ID="ID_1450844530" CREATED="1420351986188" MODIFIED="1438203604444"/>
+<node TEXT="I intended to visit _ today, but then skipping that occurred to me, and seemed a good idea. I laughed as I decided to blow it off." ID="ID_1450844530" CREATED="1420351986188" MODIFIED="1438203604444">
+<node TEXT="is main, dupd at comedy" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1584199360" CREATED="1439334136674" MODIFIED="1439334142872"/>
+</node>
 </node>
 <node TEXT="! does it?" ID="ID_1111218271" CREATED="1420352076515" MODIFIED="1420352095204">
 <node TEXT="= does it feel good" LOCALIZED_STYLE_REF="styles.topic" ID="ID_866867118" CREATED="1438203624539" MODIFIED="1438203629051"/>
@@ -560,10 +562,6 @@
 </node>
 <node TEXT="? person-specific perception" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_117892649" CREATED="1438206242780" MODIFIED="1438206253487">
 <node TEXT="for [person], what should I have a good vision of" LOCALIZED_STYLE_REF="default" ID="ID_1859633174" CREATED="1433144102942" MODIFIED="1438206254623"/>
-</node>
-<node TEXT="Largely without recognizing it, I lived with homophobia for decades." ID="ID_794221159" CREATED="1433629536256" MODIFIED="1438206278503">
-<node TEXT="I probably even laughed at it." ID="ID_1553983088" CREATED="1438206279692" MODIFIED="1438206284610"/>
-<node TEXT="I may have used gay as a non-sexual insult, even before puberty." ID="ID_1358738103" CREATED="1438206294788" MODIFIED="1438206315344"/>
 </node>
 <node TEXT="find not my own ideal for someone; rather, find their own, and encourage that in them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_94614848" CREATED="1434442260318" MODIFIED="1434442273154"/>
 <node TEXT="withhold neg judg at least initj" LOCALIZED_STYLE_REF="default" ID="ID_173586200" CREATED="1425362724551" MODIFIED="1438206339516">

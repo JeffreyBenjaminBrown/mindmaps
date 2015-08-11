@@ -644,18 +644,6 @@
 </node>
 <node TEXT="&quot;I&apos;m not very social,&quot; call it what it is, a choice." ID="ID_753735394" CREATED="1426307751615" MODIFIED="1426307957726"/>
 </node>
-<node TEXT="humor" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_901581481" CREATED="1438658271631" MODIFIED="1438658273001">
-<node TEXT="humor @ difficulty" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1849652592" CREATED="1430114073677" MODIFIED="1438658164239">
-<node TEXT="if uncomfortable but necessary topic, use a joke" ID="ID_249489937" CREATED="1424594986920" MODIFIED="1424595029969">
-<node TEXT="to maintain focus but diffuse tension" ID="ID_593177816" CREATED="1424595033222" MODIFIED="1424595039604"/>
-</node>
-<node TEXT="more effective and easier than humor always" ID="ID_1113083786" CREATED="1430114095214" MODIFIED="1430114138382"/>
-<node TEXT="\? defens" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1053253358" CREATED="1438658144342" MODIFIED="1438658154320"/>
-</node>
-<node TEXT="humor @ diversity" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_405590006" CREATED="1438658174870" MODIFIED="1438658178496">
-<node TEXT="demographic facts are interesting, deserve study, and their satire|extremification makes them simpler, easier to transmit" ID="ID_419392013" CREATED="1438658179182" MODIFIED="1438658245443"/>
-</node>
-</node>
 <node TEXT="diplom" ID="ID_736688557" CREATED="1434962467511" MODIFIED="1434962468709">
 <node TEXT="~ defen" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_906997184" CREATED="1438658318202" MODIFIED="1438658332417"/>
 <node TEXT="twist &gt; negate" ID="ID_836325024" CREATED="1428450838295" MODIFIED="1428450840694">
@@ -1635,10 +1623,6 @@
 <node TEXT="how, without terrifying them, to teach children to be ethical, repeatedly test their judgment and give enough freedom that their maximum expected harm remains low" ID="ID_1644263514" CREATED="1430682548567" MODIFIED="1430682582033">
 <node TEXT="terrifying as in religious, god-enforced" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1442445797" CREATED="1439258650448" MODIFIED="1439258673167"/>
 </node>
-<node TEXT="follow speculating too far (and a pause that was its recognition?) with repeating most recently stated fact" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1249888989" CREATED="1430683286679" MODIFIED="1439258696106">
-<node TEXT="\comedy" ID="ID_1531898608" CREATED="1439258697520" MODIFIED="1439258699653"/>
-<node TEXT="observed, louis ck" ID="ID_1019127615" CREATED="1431030180686" MODIFIED="1431030185227"/>
-</node>
 <node TEXT="&quot;I only want to share|distribute this to you if you do not redist|reshare it.&quot;" ID="ID_106864650" CREATED="1430532130634" MODIFIED="1431030546436">
 <node TEXT="comcast" ID="ID_27679294" CREATED="1430532147770" MODIFIED="1430532148807"/>
 <node TEXT="&quot;this message will self-destruct. I only trust you with it.&quot;" ID="ID_1866884048" CREATED="1439258721632" MODIFIED="1439258747117"/>
@@ -1726,7 +1710,7 @@
 <node TEXT="I keep getting closer and I like that a lot." LOCALIZED_STYLE_REF="default" ID="ID_1935105240" CREATED="1433619469534" MODIFIED="1439260025167">
 <node TEXT="elane, 2015 06-07 ish" ID="ID_362201867" CREATED="1434409104002" MODIFIED="1439260046042"/>
 </node>
-<node TEXT="flirt safer as joke" ID="ID_729388448" CREATED="1434414079652" MODIFIED="1434414105645">
+<node TEXT="flirt : safer as joke" ID="ID_729388448" CREATED="1434414079652" MODIFIED="1439334757669">
 <node TEXT="= a flirt is safer as a joke" LOCALIZED_STYLE_REF="styles.topic" ID="ID_906854964" CREATED="1439260092569" MODIFIED="1439260095307"/>
 <node TEXT="particularly propositional flirt" ID="ID_1766573123" CREATED="1434414107817" MODIFIED="1434414116454"/>
 </node>

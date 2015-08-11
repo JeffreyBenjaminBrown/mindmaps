@@ -1319,11 +1319,6 @@
 <node TEXT="need not records to reprogram self, nor program beyond self and Freeplane; just ask, &quot;what&apos;s an important thing I have not thought enough about?&quot;" LOCALIZED_STYLE_REF="default" ID="ID_438484655" CREATED="1433145071951" MODIFIED="1433145606527"/>
 </node>
 </node>
-<node TEXT="06 07" ID="ID_489334282" CREATED="1433736037684" MODIFIED="1433736039090">
-<node TEXT="how much comedy need if comedy true" ID="ID_1859727851" CREATED="1436412227771" MODIFIED="1436412247831">
-<node TEXT="&quot;every time we meet I am [country I am from] and you are [country you], and that is importantly hilarious&quot;&#xa;&quot;yes it&apos;s hilarious but it&apos;s not true&quot;" ID="ID_274538034" CREATED="1433738416829" MODIFIED="1433738478692"/>
-</node>
-</node>
 <node TEXT="06 03 info" LOCALIZED_STYLE_REF="default" ID="ID_1422842954" CREATED="1433395883457" MODIFIED="1433798522284">
 <node TEXT="graph text, internalized" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1632061701" CREATED="1433396288593" MODIFIED="1436412449096">
 <node TEXT="branch in a general digraph not imply tree, does imply assumed root and a direction (rootward or leafward) from it" ID="ID_1375733478" CREATED="1433375684803" MODIFIED="1433375744332"/>
@@ -1714,6 +1709,7 @@
 <node TEXT="for diversity" ID="ID_1629733487" CREATED="1424408007524" MODIFIED="1424408015891"/>
 </node>
 <node TEXT="the cleverness of stay" ID="ID_1991725503" CREATED="1422647332004" MODIFIED="1422647337315">
+<node TEXT="is main, dupd at comedy" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1223949807" CREATED="1439335004917" MODIFIED="1439335015518"/>
 <node TEXT="\ chameleon" LOCALIZED_STYLE_REF="default" ID="ID_45085155" CREATED="1437638665242" MODIFIED="1437638674589"/>
 <node TEXT="&quot;Did you _?&quot; &quot;Yes, I _ and then _ more.&quot; First laughs, &quot;I knew it wasn&apos;t true!&quot;" ID="ID_941446802" CREATED="1422583937800" MODIFIED="1422583957740">
 <node TEXT="observed, albeit in fiction" ID="ID_479414729" CREATED="1422647302460" MODIFIED="1422647315282"/>
@@ -1905,13 +1901,6 @@
 <node TEXT="\ bootstrap" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_172613536" CREATED="1437637253472" MODIFIED="1437637259153"/>
 <node TEXT="is dup, this one behavioral instruction, other|main one cog question" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_134037536" CREATED="1436410953578" MODIFIED="1436410976255"/>
 <node TEXT="is the distinction clear" ID="ID_194365689" CREATED="1436410943377" MODIFIED="1436410952832"/>
-</node>
-<node TEXT="study in earnest &gt; satire" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1060987274" CREATED="1416865961685" MODIFIED="1437637814645">
-<node TEXT="usually" ID="ID_1802029840" CREATED="1423557420727" MODIFIED="1423557421972"/>
-<node TEXT="satire boradens its appeal to a (young) audience who might not otherwise learn about it" ID="ID_388719039" CREATED="1437637763200" MODIFIED="1437637777792"/>
-<node TEXT="satire can make it easier to think about" ID="ID_1253938107" CREATED="1437637781442" MODIFIED="1437637803421">
-<node TEXT="if it simplifies without distorting" ID="ID_647636532" CREATED="1437637804097" MODIFIED="1437637808773"/>
-</node>
 </node>
 <node TEXT="music" ID="ID_383956787" CREATED="1435034525879" MODIFIED="1435034527502">
 <node TEXT="finish my sentences" ID="ID_1436710236" CREATED="1435034528175" MODIFIED="1435034533834">

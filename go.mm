@@ -178,9 +178,6 @@
 <node TEXT="less important, under many conditions best skipped" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_484752443" CREATED="1437265568713" MODIFIED="1437272617058"/>
 <node TEXT="move to &quot;empathy/?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1997117755" CREATED="1436673083912" MODIFIED="1437272659453"/>
 <node TEXT="detect acting" ID="ID_1924898050" CREATED="1432065861580" MODIFIED="1437272410255"/>
-<node TEXT="learn from laughter" ID="ID_967767191" CREATED="1425540388838" MODIFIED="1437268147236">
-<node TEXT="? if someone laughs at _ keep it private to them" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1896975717" CREATED="1422920966376" MODIFIED="1433747587439"/>
-</node>
 <node TEXT="ether responsb" ID="ID_733528865" CREATED="1424990576849" MODIFIED="1437265347767">
 <node TEXT="ethereal responsibility" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1836763187" CREATED="1437272826015" MODIFIED="1437272829642"/>
 <node TEXT="brains are softer than written language" ID="ID_739234459" CREATED="1424990456829" MODIFIED="1424990469120"/>
@@ -257,11 +254,6 @@
 <node TEXT="fuck&apos;em-martyrs" ID="ID_1935694724" CREATED="1438131590185" MODIFIED="1438131602907"/>
 </node>
 <node TEXT="died thinking &quot;well at least I didn&apos;t cooperate with those people&quot;, when ?could have coopd &amp; live" ID="ID_1623065067" CREATED="1438131603561" MODIFIED="1438131630624"/>
-</node>
-<node TEXT="discard self for money" ID="ID_1581170138" CREATED="1438141302044" MODIFIED="1438141329479">
-<node TEXT="to change money conditions one must empty oneself fairly completely" ID="ID_949045126" CREATED="1438132882930" MODIFIED="1438132897704"/>
-<node TEXT="discarding cogv and soc rhythms" ID="ID_154102662" CREATED="1438132911553" MODIFIED="1438132926084"/>
-<node TEXT="the joke being that the money is hardly worth it" ID="ID_626657447" CREATED="1438132898290" MODIFIED="1438132905504"/>
 </node>
 <node TEXT="? diplom waste" ID="ID_324673282" CREATED="1438146635365" MODIFIED="1438146650057">
 <node TEXT="when I try to phrase something nicely, to avoid causing offense, am I fooling myself that that works?" ID="ID_109540600" CREATED="1438066856547" MODIFIED="1438146675050"/>
@@ -1164,9 +1156,6 @@
 </node>
 </node>
 <node TEXT="hung jury" ID="ID_1334924663" CREATED="1432072806053" MODIFIED="1432072809425"/>
-</node>
-<node TEXT="performance ring, lonely" ID="ID_1611102803" CREATED="1434396583621" MODIFIED="1437274523224">
-<node TEXT="taking turns filibustering, poets, comedians, alone, each strange and the whole strange" ID="ID_214283616" CREATED="1432706089113" MODIFIED="1437274545920"/>
 </node>
 </node>
 </node>
