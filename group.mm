@@ -796,6 +796,9 @@
 <node TEXT="Rather than contradict, ask why." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1548990031" CREATED="1425353737741" MODIFIED="1438730706591">
 <font BOLD="false"/>
 </node>
+<node TEXT="Facebook has an [action &gt; pubn] feed." ID="ID_1379376878" CREATED="1439267332035" MODIFIED="1439267365539">
+<node TEXT="&gt; : actions include more than publications" ID="ID_362912950" CREATED="1439267366538" MODIFIED="1439267372896"/>
+</node>
 </node>
 <node TEXT="trust {caution, build, increm}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1818014839" CREATED="1429993816110" MODIFIED="1438757759619">
 <node TEXT="give measuredly responsibility, power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_52361739" CREATED="1424590500484" MODIFIED="1426745889708">
@@ -1430,7 +1433,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1540,6 +1542,10 @@
 <node TEXT="a two phase awareness, search for bond (actually skipping some here) and then parenting" ID="ID_1620318571" CREATED="1426742829475" MODIFIED="1426742858738">
 <node TEXT="it would change the way you feel most of the time, your concerns, what you spend your time imagining" ID="ID_500966946" CREATED="1426742859060" MODIFIED="1426742872978"/>
 </node>
+</node>
+<node TEXT="friend zone | why not pursue C" LOCALIZED_STYLE_REF="default" ID="ID_588797142" CREATED="1428199595364" MODIFIED="1439320572213">
+<node TEXT="2015 04-ish" ID="ID_49163156" CREATED="1439320573348" MODIFIED="1439320585465"/>
+<node TEXT="I think she needs money. I think she can have better than me. I dare not even consider that she might be the rare person who values high qualities enough for me to win her without the low qualities I am outcompeted on; if I am wrong and alienate her I lose ... I could afford it I guess. I don&apos;t think it&apos;s worth it though; the chances seem too low." ID="ID_39877173" CREATED="1428267683765" MODIFIED="1428268053370"/>
 </node>
 </node>
 <node TEXT="? does anybody want to be won" LOCALIZED_STYLE_REF="default" ID="ID_1494308178" CREATED="1422657900901" MODIFIED="1439262843314">

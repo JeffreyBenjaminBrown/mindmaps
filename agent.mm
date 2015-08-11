@@ -644,7 +644,6 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="git review, end of first" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1666841296" CREATED="1438203327507" MODIFIED="1438223118165"/>
 <node TEXT="peace" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038977719" CREATED="1429428332628" MODIFIED="1438223536671">
 <node TEXT="? patience, tolerance" ID="ID_215389089" CREATED="1435125563397" MODIFIED="1435125627979">
 <node TEXT="not make great (dwt) enemy of good (freeplane)" ID="ID_1971331961" CREATED="1425087063565" MODIFIED="1425087128134">

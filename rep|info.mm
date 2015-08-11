@@ -850,14 +850,6 @@
 </node>
 </node>
 <node TEXT="info.mm / dates" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_582838397" CREATED="1432347258699" MODIFIED="1432356359563">
-<node TEXT="&gt; [problem] / [adopt for]" ID="ID_1029869636" CREATED="1435521637503" MODIFIED="1435521705928">
-<node TEXT="want to adopt, extrd from vcousins" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1863076363" CREATED="1435521711323" MODIFIED="1435521775521">
-<node TEXT="its cousins each of form ( dates / [date] )" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1445645418" CREATED="1435521775898" MODIFIED="1435521806176"/>
-</node>
-<node TEXT="a (trailing?) symbol for how to read, whether its children are peerish to its peers" ID="ID_1465440445" CREATED="1435521583190" MODIFIED="1435521618412"/>
-</node>
-<node TEXT="serial" ID="ID_1377074469" CREATED="1435521645878" MODIFIED="1436414176865">
-<font BOLD="true"/>
 <node TEXT="= 2nd extraction: favorites, read very fast" LOCALIZED_STYLE_REF="styles.topic" ID="ID_722596318" CREATED="1437637691320" MODIFIED="1437637716386">
 <node TEXT="2nd extraction of both" ID="ID_1440683563" CREATED="1437637706512" MODIFIED="1437637709909"/>
 </node>
@@ -1384,6 +1376,20 @@
 <node TEXT="aimless &amp; pretty; art" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_740846356" CREATED="1438756955451" MODIFIED="1438757002919">
 <node TEXT="&quot;I think _ makes me a better person&quot; growing like a plant" ID="ID_28799958" CREATED="1438056110434" MODIFIED="1438756940387"/>
 </node>
+<node TEXT="08 11" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_915274424" CREATED="1439320472763" MODIFIED="1439320475303"/>
+<node TEXT="ice font will look like sarcasm" ID="ID_502646385" CREATED="1439255744052" MODIFIED="1439255751793">
+<node TEXT="e.g. &quot;is not to say very likely&quot;" ID="ID_1931840396" CREATED="1439255754499" MODIFIED="1439255759697"/>
+</node>
+<node TEXT="nutty = insane &amp; safe" ID="ID_135290810" CREATED="1439257836206" MODIFIED="1439257857917"/>
+<node TEXT="graph position speaks louder than font" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_664577493" CREATED="1439320865133" MODIFIED="1439320876326">
+<node TEXT="not gold; rather, collect high" ID="ID_9113789" CREATED="1439265002104" MODIFIED="1439320878411"/>
+</node>
+<node TEXT="let not rep distort content" ID="ID_1645230873" CREATED="1439265201688" MODIFIED="1439265208268"/>
+<node TEXT="&gt; [problem] / [adopt for]" ID="ID_1029869636" CREATED="1435521637503" MODIFIED="1435521705928">
+<node TEXT="want to adopt, extrd from vcousins" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1863076363" CREATED="1435521711323" MODIFIED="1435521775521">
+<node TEXT="its cousins each of form ( dates / [date] )" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1445645418" CREATED="1435521775898" MODIFIED="1435521806176"/>
+</node>
+<node TEXT="a (trailing?) symbol for how to read, whether its children are peerish to its peers" ID="ID_1465440445" CREATED="1435521583190" MODIFIED="1435521618412"/>
 </node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">

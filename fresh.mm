@@ -1352,5 +1352,21 @@
 <node TEXT="&quot;not gonna hate the game&quot; as &quot;I&apos;ll let my drunk friend get in trouble with this guy&quot;" ID="ID_1427259221" CREATED="1439023982897" MODIFIED="1439082597655"/>
 </node>
 </node>
+<node TEXT="10" POSITION="right" ID="ID_841605101" CREATED="1439266799690" MODIFIED="1439266800368">
+<node TEXT="politics ~ sports; not my problem, I have no say" ID="ID_84264897" CREATED="1439251305978" MODIFIED="1439320128620"/>
+<node TEXT="rather than hate on [one side], marvel at how the D|R split bissects who I expect to be reasonable people" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1990031259" CREATED="1439267034578" MODIFIED="1439267063222"/>
+<node TEXT="join the people who see no(t in terms of) competition" ID="ID_1963211272" CREATED="1439272634889" MODIFIED="1439272647417"/>
+<node TEXT="? is sorting freeplane psychj easier now that I am sharing mindmaps" LOCALIZED_STYLE_REF="default" ID="ID_814174816" CREATED="1439320345516" MODIFIED="1439322177337">
+<node TEXT="I find myself happy to move things from live.mm straight to files, rather than sorting locally; earlier, often, it seemed like too much work." ID="ID_1972847894" CREATED="1439320364044" MODIFIED="1439320394021"/>
+</node>
+<node TEXT="goofy" LOCALIZED_STYLE_REF="styles.topic" ID="ID_445955937" CREATED="1439266841522" MODIFIED="1439320143055">
+<node TEXT="&quot;I am suicide!&quot;" ID="ID_112994686" CREATED="1439266801130" MODIFIED="1439266805904">
+<node TEXT="self-defeat" ID="ID_543503874" CREATED="1439266807498" MODIFIED="1439266812288"/>
+<node TEXT="a logical principal" ID="ID_1350283687" CREATED="1439266817762" MODIFIED="1439266822424">
+<node TEXT="&quot;When you stand near me my motivation fails.&quot;" ID="ID_475620596" CREATED="1439266823226" MODIFIED="1439266833536"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </map>

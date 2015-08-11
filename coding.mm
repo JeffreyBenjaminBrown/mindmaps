@@ -14756,6 +14756,16 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="9" ID="ID_1722997977" CREATED="1439232157722" MODIFIED="1439232158579">
 <node TEXT="fgl: cannot pattern match on &amp;; rather, use isEmpty and matchAny" ID="ID_735579650" CREATED="1439232163480" MODIFIED="1439232190487"/>
+<node TEXT="dwt motiv : explain it&apos;s like making hash, concentrating info" ID="ID_108424134" CREATED="1439264815223" MODIFIED="1439320816880"/>
+<node TEXT="faq" ID="ID_260203890" CREATED="1439267565999" MODIFIED="1439267567012">
+<node TEXT="why so hard to read" ID="ID_702324984" CREATED="1439267567534" MODIFIED="1439267570589">
+<node TEXT="it isn&apos;t" ID="ID_1514391029" CREATED="1439267631917" MODIFIED="1439267633490"/>
+<node TEXT="it&apos;s for information density" ID="ID_1848711429" CREATED="1439267634924" MODIFIED="1439267640841"/>
+</node>
+<node TEXT="why can&apos;t read before _" ID="ID_1834100157" CREATED="1439267570815" MODIFIED="1439267574958">
+<node TEXT="I have seen malicious quoting." ID="ID_1686579465" CREATED="1439267576477" MODIFIED="1439267592622"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">

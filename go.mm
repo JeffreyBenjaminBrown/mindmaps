@@ -711,6 +711,9 @@
 <node TEXT="novel v. detail|extend familiar" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_828197674" CREATED="1439081243981" MODIFIED="1439081262603"/>
 </node>
 </node>
+<node TEXT="rather than coffee, expect not to work immed" ID="ID_81021338" CREATED="1439229226219" MODIFIED="1439229244414">
+<node TEXT="instead facebook, whatever" ID="ID_405836674" CREATED="1439229246884" MODIFIED="1439229252060"/>
+</node>
 </node>
 </node>
 <node TEXT="dream big" ID="ID_56999866" CREATED="1437258092370" MODIFIED="1437258094224">
@@ -844,8 +847,7 @@
 <node TEXT="defend against" LOCALIZED_STYLE_REF="styles.topic" ID="ID_93153703" CREATED="1434393645518" MODIFIED="1437274362562">
 <node TEXT="respond to anger, histrionics with &quot;you have my full attention, don&apos;t waste my time&quot;" ID="ID_293883178" CREATED="1433992438798" MODIFIED="1437274336787"/>
 </node>
-<node TEXT="2015 07 28" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1450963978" CREATED="1438146960141" MODIFIED="1438146969960"/>
-<node TEXT="just pubn &amp; shar safe" ID="ID_1627930608" CREATED="1438140114780" MODIFIED="1438149402781">
+<node TEXT="just pubn &amp; shar safe" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1627930608" CREATED="1438140114780" MODIFIED="1439320269220">
 <node TEXT="~ dare" ID="ID_894441942" CREATED="1438146917541" MODIFIED="1438149385699"/>
 <node TEXT="?! distort for publicat" ID="ID_1517199587" CREATED="1438133526898" MODIFIED="1438140193769"/>
 <node TEXT="edit* to benefit audience, but distort not for personal gain" ID="ID_1307208297" CREATED="1438140201748" MODIFIED="1438140222647">
@@ -859,6 +861,24 @@
 <node TEXT="search esp. for fantasies I might have written and not identified as such" ID="ID_1465265373" CREATED="1438059698222" MODIFIED="1438146825617">
 <node TEXT="search for character names" ID="ID_631817403" CREATED="1438146832189" MODIFIED="1438146842751"/>
 </node>
+</node>
+<node TEXT="&quot;If they can&apos;t be trusted with the data then let them kill themselves with it. I can&apos;t hold onto it any more.&quot;" ID="ID_825948737" CREATED="1439254401292" MODIFIED="1439320156990"/>
+<node TEXT="to pub without whole review" ID="ID_1560488139" CREATED="1439263874975" MODIFIED="1439263878493">
+<node TEXT="list all words in all files" ID="ID_427688318" CREATED="1439263879327" MODIFIED="1439263908068"/>
+<node TEXT="select problem words" ID="ID_724819956" CREATED="1439263886433" MODIFIED="1439263913869"/>
+<node TEXT="for given file, find which words in problem list arein that file" ID="ID_1227135148" CREATED="1439263914494" MODIFIED="1439263924179"/>
+<node TEXT="search that file for those words" ID="ID_1574498663" CREATED="1439263924405" MODIFIED="1439263927412"/>
+</node>
+<node TEXT="hated on Republicans again 2015 08 04" ID="ID_1632235095" CREATED="1438764083741" MODIFIED="1438911396059">
+<node TEXT="? does spreading my beliefs|ideals accomp anything" ID="ID_911621409" CREATED="1438764091891" MODIFIED="1438911319878"/>
+<node TEXT="? is labor market risk to me real" ID="ID_1302711454" CREATED="1438764103889" MODIFIED="1438764112606"/>
+<node TEXT="was" ID="ID_1150669739" CREATED="1438764088741" MODIFIED="1438764089198">
+<node TEXT="can&apos;t quite say to Matt" ID="ID_452159223" CREATED="1438762193066" MODIFIED="1438762195998">
+<node TEXT="https://www.facebook.com/noyesmf/posts/10155881823185224" ID="ID_554444347" CREATED="1438762205453" MODIFIED="1438762205453" LINK="https://www.facebook.com/noyesmf/posts/10155881823185224"/>
+<node TEXT="I don&apos;t know. I think maybe hate will eat itself. Antonin Scalia attacking the other justices, Donal Trump attacking the other Republican candidates ... if later generations learn eventually to see as hate what earlier generations saw as ... I don&apos;t know, pragmatism? ... they might be able _" ID="ID_582498245" CREATED="1438762196502" MODIFIED="1438762196502"/>
+</node>
+</node>
+<node TEXT="edited 2015 08 11, removed word Republicans, but left in place" ID="ID_199381174" CREATED="1439321288509" MODIFIED="1439321314110"/>
 </node>
 </node>
 </node>
