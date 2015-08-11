@@ -133,8 +133,9 @@
 <node TEXT="&quot;(Do not) listen to these [forces], they are (not) your _.&quot;" ID="ID_1438422524" CREATED="1438132234682" MODIFIED="1438132255616"/>
 <node TEXT="to be a part of a larger computation" ID="ID_239819645" CREATED="1438132284866" MODIFIED="1438132301015"/>
 </node>
-<node TEXT="giving up @as reason to want someone" ID="ID_1521278109" CREATED="1438136300226" MODIFIED="1438136352142"/>
-<node TEXT="wanting them because you gave up" ID="ID_1854791826" CREATED="1438136320627" MODIFIED="1438136331351"/>
+<node TEXT="the rest of these are about as ugly as I should have expected" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_406454172" CREATED="1439176387122" MODIFIED="1439176399883"/>
+<node TEXT="giving up @as reason to want someone" LOCALIZED_STYLE_REF="default" ID="ID_1521278109" CREATED="1438136300226" MODIFIED="1439176354470"/>
+<node TEXT="wanting them because you gave up" LOCALIZED_STYLE_REF="default" ID="ID_1854791826" CREATED="1438136320627" MODIFIED="1439176354476"/>
 <node TEXT="giving up to have them" ID="ID_1888132293" CREATED="1438140278084" MODIFIED="1438140283193"/>
 </node>
 <node TEXT="hype" ID="ID_1913500283" CREATED="1438139582420" MODIFIED="1438139583657">
@@ -1228,13 +1229,15 @@
 <node TEXT="group" ID="ID_730090744" CREATED="1439081121140" MODIFIED="1439081124354">
 <node TEXT="indiv in group" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1836942286" CREATED="1439081611557" MODIFIED="1439081615879">
 <node TEXT="? here or \agent" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1469588813" CREATED="1439081616869" MODIFIED="1439081623116"/>
-<node TEXT="nobody sees how much time you spend at what" LOCALIZED_STYLE_REF="default" ID="ID_1510419425" CREATED="1439060847808" MODIFIED="1439081126629"/>
+<node TEXT="nobody sees how much time you spend at what" LOCALIZED_STYLE_REF="default" ID="ID_1510419425" CREATED="1439060847808" MODIFIED="1439081126629">
+<node TEXT="processing what" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_94919079" CREATED="1439182629475" MODIFIED="1439182632680"/>
+</node>
 </node>
 <node TEXT="perceive group" ID="ID_176203164" CREATED="1439081591254" MODIFIED="1439081599582">
 <node TEXT="I no longer subdivide many consumer types (e.g. punk v. emo); instead I think I am more aware of their context, e.g. the homeless, types who consume less." ID="ID_388706755" CREATED="1439037246544" MODIFIED="1439081581105"/>
 </node>
 <node TEXT="? who uses therapy" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_924271813" CREATED="1439027196461" MODIFIED="1439082379764">
-<node TEXT="is this interesting or does it say more about the sale of therapy" ID="ID_81357956" CREATED="1439082380782" MODIFIED="1439082392932"/>
+<node TEXT="is this interesting or does it say more about the sale of therapy" LOCALIZED_STYLE_REF="default" ID="ID_81357956" CREATED="1439082380782" MODIFIED="1439182740747"/>
 </node>
 <node TEXT="&quot;voting drunk makes you more right-wing&quot;" ID="ID_1354749373" CREATED="1439019200066" MODIFIED="1439019210091">
 <node TEXT="of australia" ID="ID_970010013" CREATED="1439019210698" MODIFIED="1439019213512"/>
@@ -1245,6 +1248,7 @@
 <node TEXT="panel of female screenwriters, comedians" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1045311745" CREATED="1439023075487" MODIFIED="1439083023469">
 <node TEXT="https://www.youtube.com/watch?v=jgGSJvvlsq4" ID="ID_1248118692" CREATED="1439023078700" MODIFIED="1439023078700" LINK="https://www.youtube.com/watch?v=jgGSJvvlsq4"/>
 </node>
+<node TEXT="she said it was key to a romantic relationship" ID="ID_236544947" CREATED="1439182699996" MODIFIED="1439182706264"/>
 </node>
 </node>
 <node TEXT="agent" ID="ID_774911240" CREATED="1439081133381" MODIFIED="1439081134018">

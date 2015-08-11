@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.213">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.334">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -14653,6 +14653,53 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="07: next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_205185279" CREATED="1438976316060" MODIFIED="1439085358183">
 <node TEXT="2015 08 07" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_491117822" CREATED="1438976327260" MODIFIED="1438976332760"/>
+<node TEXT="demo in FGL" ID="ID_871022210" CREATED="1439150328731" MODIFIED="1439150333465">
+<node TEXT="for Graph String String" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_383901164" CREATED="1439150360579" MODIFIED="1439150453545">
+<node TEXT="in Graph a b, a is node label type, b edge label type" ID="ID_186641366" CREATED="1439150436379" MODIFIED="1439150451386"/>
+</node>
+<node TEXT="node" ID="ID_1262326740" CREATED="1439152232441" MODIFIED="1439152233154">
+<node TEXT="add node to graph" ID="ID_1686288935" CREATED="1439150335338" MODIFIED="1439152018741">
+<node TEXT="insNode :: DynGraph gr =&gt; LNode a -&gt; gr a b -&gt; gr a b" ID="ID_1468837947" CREATED="1439151082324" MODIFIED="1439151083648"/>
+<node TEXT="insNodes :: DynGraph gr =&gt; [LNode a] -&gt; gr a b -&gt; gr a b" ID="ID_1802142914" CREATED="1439151291285" MODIFIED="1439151292307"/>
+</node>
+<node TEXT="change label of node in graph" ID="ID_1760605905" CREATED="1439152022283" MODIFIED="1439152255783">
+<node TEXT="use match and (&amp;)" ID="ID_1966180155" CREATED="1439151094332" MODIFIED="1439152027519"/>
+</node>
+<node TEXT="delete node from graph" ID="ID_1831039242" CREATED="1439151147844" MODIFIED="1439151155502">
+<node TEXT="delNode :: Graph gr =&gt; Node -&gt; gr a b -&gt; gr a b" ID="ID_297361601" CREATED="1439151151612" MODIFIED="1439151152779"/>
+<node TEXT="there&apos;s a fast way for plurals, too" ID="ID_930294772" CREATED="1439151363556" MODIFIED="1439151368171"/>
+</node>
+</node>
+<node TEXT="edge" ID="ID_1139973438" CREATED="1439152235056" MODIFIED="1439152235688">
+<node TEXT="add edge to graph" ID="ID_1109056168" CREATED="1439150351603" MODIFIED="1439150354657">
+<node TEXT="insEdge :: DynGraph gr =&gt; LEdge b -&gt; gr a b -&gt; gr a b" ID="ID_1048969566" CREATED="1439151115412" MODIFIED="1439151116617"/>
+<node TEXT="insEdges :: DynGraph gr =&gt; [LEdge b] -&gt; gr a b -&gt; gr a b" ID="ID_1819629719" CREATED="1439151272572" MODIFIED="1439151273563"/>
+</node>
+<node TEXT="change label of edge in graph" ID="ID_320716679" CREATED="1439152256762" MODIFIED="1439152260504">
+<node TEXT="could just delete and add again" ID="ID_259285915" CREATED="1439152268148" MODIFIED="1439152274076"/>
+</node>
+<node TEXT="delete edge from graph" ID="ID_350376603" CREATED="1439151162260" MODIFIED="1439151177366">
+<node TEXT="delNode :: Graph gr =&gt; Node -&gt; gr a b -&gt; gr a b" ID="ID_312691621" CREATED="1439151165252" MODIFIED="1439151171591"/>
+<node TEXT="there&apos;s a fast way for plurals, too" ID="ID_1714795124" CREATED="1439151363556" MODIFIED="1439151368171"/>
+</node>
+</node>
+<node TEXT="get label at node, edge" ID="ID_1066526873" CREATED="1439150494851" MODIFIED="1439150499162">
+<node TEXT="edgeLabel :: LEdge b -&gt; b" ID="ID_686669911" CREATED="1439151020556" MODIFIED="1439151021347"/>
+<node TEXT="lab :: Graph gr =&gt; gr a b -&gt; Node -&gt; Maybe a" ID="ID_1260828140" CREATED="1439152483127" MODIFIED="1439152485628"/>
+</node>
+<node TEXT="get neighbors" ID="ID_413583720" CREATED="1439151525477" MODIFIED="1439151527601">
+<node TEXT="lsuc :: Graph gr =&gt; gr a b -&gt; Node -&gt; [(Node, b)]&#xa;lpre :: same" ID="ID_1975678770" CREATED="1439151529381" MODIFIED="1439151598291"/>
+<node TEXT="out :: Graph gr =&gt; gr a b -&gt; Node -&gt; [LEdge b]&#xa;inn :: same" ID="ID_1419749433" CREATED="1439151584461" MODIFIED="1439151594291"/>
+</node>
+<node TEXT="edgesOfKind :: String -&gt; Node -&gt; [LEdge]&#xa;edgesOfKind s n = edges with label s from n" ID="ID_1932764511" CREATED="1439150500235" MODIFIED="1439150575755"/>
+</node>
+<node TEXT="netwype Mm = Mm {graph :: Graph _ _}" ID="ID_1597452927" CREATED="1439112336540" MODIFIED="1439112367682">
+<node TEXT="functions that handle Mm types provide an interface in which one does not need to know the underlying Graph rep" ID="ID_995989409" CREATED="1439112372372" MODIFIED="1439112429345"/>
+</node>
+<node TEXT="branch :: _ -&gt; Mm -&gt; Mm" ID="ID_1361011907" CREATED="1439112486724" MODIFIED="1439112500290">
+<node TEXT="where _ might be a few args (which is bad notation b/c violates currying)" ID="ID_1682484429" CREATED="1439112501331" MODIFIED="1439112526186"/>
+</node>
+<node TEXT="fork :: _ -&gt; Mm -&gt; Mm" ID="ID_946738051" CREATED="1439112614844" MODIFIED="1439112623018"/>
 <node TEXT="how can FGL lookup be faster than O(n)?" ID="ID_82482630" CREATED="1439037090968" MODIFIED="1439037098159">
 <node TEXT="read paper" ID="ID_1100522704" CREATED="1439037099079" MODIFIED="1439037100334"/>
 <node TEXT="so said Tikhon Jelvis maybe; whoever answered my last email" ID="ID_684004316" CREATED="1439037101080" MODIFIED="1439037110816"/>
@@ -14701,6 +14748,14 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="because exceptions somehow &quot;bypass the whole purity thing&quot;" ID="ID_1020387947" CREATED="1439065146730" MODIFIED="1439065156663"/>
 </node>
 </node>
+<node TEXT="? map from a branch to a number = branch fold" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_520036321" CREATED="1439111300820" MODIFIED="1439111335487"/>
+<node TEXT="cycle minus a point &amp; depth|completion before breadth" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_887009104" CREATED="1439112101604" MODIFIED="1439112128732">
+<node TEXT="my coding cycle is broken at implem; to fight|fix, don&apos;t learn the other stuff (parser, serialization) that I need before using what I&apos;ve got to make a working something" ID="ID_581616647" CREATED="1439111994187" MODIFIED="1439112034171"/>
+<node TEXT="it&apos;s okay in the interim that I might have to run a bunch of boilerplate in GHCI each time to make the graph" ID="ID_486173410" CREATED="1439112036211" MODIFIED="1439112069639"/>
+</node>
+</node>
+<node TEXT="9" ID="ID_1722997977" CREATED="1439232157722" MODIFIED="1439232158579">
+<node TEXT="fgl: cannot pattern match on &amp;; rather, use isEmpty and matchAny" ID="ID_735579650" CREATED="1439232163480" MODIFIED="1439232190487"/>
 </node>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">
@@ -14711,7 +14766,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="using &quot;-- jbb read head&quot; in file" ID="ID_47524230" CREATED="1436819875762" MODIFIED="1436819903737"/>
 </node>
 <node TEXT="poker" POSITION="right" ID="ID_1222145068" CREATED="1437527014206" MODIFIED="1437527015487">
-<node TEXT="cep" LOCALIZED_STYLE_REF="styles.topic" ID="ID_316014340" CREATED="1437532422730" MODIFIED="1437532819423">
+<node TEXT="concept" LOCALIZED_STYLE_REF="styles.topic" ID="ID_316014340" CREATED="1437532422730" MODIFIED="1439176501361">
 <node TEXT="privacy" ID="ID_978866208" CREATED="1437527171433" MODIFIED="1437527173580"/>
 <node TEXT="state" ID="ID_801704296" CREATED="1437532431510" MODIFIED="1437532432148"/>
 </node>

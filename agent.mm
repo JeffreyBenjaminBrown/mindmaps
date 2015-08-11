@@ -288,10 +288,12 @@
 <node TEXT="once they were hard to sep" ID="ID_1935471143" CREATED="1427099115883" MODIFIED="1427099119162"/>
 </node>
 <node TEXT="perceiving own actions in time" ID="ID_1425362582" CREATED="1425362969312" MODIFIED="1425363606416">
-<node TEXT="\flow, \self-awareness" ID="ID_886388749" CREATED="1433739594789" MODIFIED="1433739616066"/>
+<node TEXT="\flow|rhythm, \self-awareness" ID="ID_886388749" CREATED="1433739594789" MODIFIED="1439182943188"/>
 <node TEXT="parade seq: conceive, plan, execute, remember, integrate into self-concept" ID="ID_1424325835" CREATED="1425362914104" MODIFIED="1425363103048"/>
 <node TEXT="schedule or algorithm?" ID="ID_1291009549" CREATED="1424304462383" MODIFIED="1425363615032"/>
-<node TEXT="recalled or constructed?" ID="ID_769629433" CREATED="1425363615512" MODIFIED="1425363618961"/>
+<node TEXT="recalled or constructed?" ID="ID_769629433" CREATED="1425363615512" MODIFIED="1425363618961">
+<node TEXT="? did I mean &quot;is the self recalled or constructed?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1901962994" CREATED="1439183079087" MODIFIED="1439183106631"/>
+</node>
 </node>
 <node TEXT="once self-aware, builds faster" ID="ID_1774101967" CREATED="1424583302840" MODIFIED="1424583382106">
 <node TEXT="what did I mean by this extension" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1049414498" CREATED="1427099257347" MODIFIED="1427099265767">
