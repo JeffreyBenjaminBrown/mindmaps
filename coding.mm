@@ -14731,7 +14731,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="rels are nodes with 2 edge kinds: members and tplt" ID="ID_911223881" CREATED="1438849198355" MODIFIED="1438849223099"/>
 </node>
 </node>
-<node TEXT="08" ID="ID_719963784" CREATED="1439081824406" MODIFIED="1439085353375">
+<node TEXT="08-11" LOCALIZED_STYLE_REF="default" ID="ID_900390432" CREATED="1439081824406" MODIFIED="1439371798255">
+<node TEXT="08" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_719963784" CREATED="1439081824406" MODIFIED="1439371773296"/>
 <node TEXT="motiv" ID="ID_1976962330" CREATED="1439080775476" MODIFIED="1439081827891">
 <node TEXT="&quot;list coparents (of children of this) by volume&quot;" ID="ID_1851457836" CREATED="1439080200716" MODIFIED="1439080220009">
 <node TEXT="comedy + econ" ID="ID_1266287386" CREATED="1439080223756" MODIFIED="1439080226369"/>
@@ -14753,8 +14754,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="my coding cycle is broken at implem; to fight|fix, don&apos;t learn the other stuff (parser, serialization) that I need before using what I&apos;ve got to make a working something" ID="ID_581616647" CREATED="1439111994187" MODIFIED="1439112034171"/>
 <node TEXT="it&apos;s okay in the interim that I might have to run a bunch of boilerplate in GHCI each time to make the graph" ID="ID_486173410" CREATED="1439112036211" MODIFIED="1439112069639"/>
 </node>
-</node>
-<node TEXT="9" ID="ID_1722997977" CREATED="1439232157722" MODIFIED="1439232158579">
+<node TEXT="9" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1722997977" CREATED="1439232157722" MODIFIED="1439371770264"/>
 <node TEXT="fgl: cannot pattern match on &amp;; rather, use isEmpty and matchAny" ID="ID_735579650" CREATED="1439232163480" MODIFIED="1439232190487"/>
 <node TEXT="dwt motiv : explain it&apos;s like making hash, concentrating info" ID="ID_108424134" CREATED="1439264815223" MODIFIED="1439320816880"/>
 <node TEXT="faq" ID="ID_260203890" CREATED="1439267565999" MODIFIED="1439267567012">
@@ -14766,6 +14766,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="I have seen malicious quoting." ID="ID_1686579465" CREATED="1439267576477" MODIFIED="1439267592622"/>
 </node>
 </node>
+<node TEXT="11" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_806982263" CREATED="1439371721821" MODIFIED="1439371767296"/>
+<node TEXT="What is an mmNode?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_927256344" CREATED="1439371723309" MODIFIED="1439371765316"/>
 </node>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">

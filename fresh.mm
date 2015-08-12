@@ -994,6 +994,111 @@
 </node>
 <node TEXT="can transcend for revenge. cannot avenge for transcend." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_965380633" CREATED="1439324265921" MODIFIED="1439324282603"/>
 </node>
+<node TEXT="watching music" ID="ID_1142598524" CREATED="1439360575589" MODIFIED="1439360577246">
+<node TEXT="~ watching comedy" ID="ID_32490450" CREATED="1439360583935" MODIFIED="1439360586836"/>
+<node TEXT="a motif repeats with variations like &quot;energy just comes from somewhere, it is reliable&quot; as if speaker rides that" ID="ID_781363293" CREATED="1439360578631" MODIFIED="1439360613567"/>
+</node>
+<node TEXT="goofy" ID="ID_159565914" CREATED="1439368590446" MODIFIED="1439368592082">
+<node TEXT="everyone the top one guy on every team" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_758950751" CREATED="1439362643305" MODIFIED="1439368685703">
+<node TEXT="ancestors" ID="ID_752914336" CREATED="1439362654577" MODIFIED="1439362655991"/>
+</node>
+<node TEXT="heroism a lens painted everywhere" ID="ID_1830476076" CREATED="1439360721527" MODIFIED="1439360726861"/>
+<node TEXT="daring comedy of fulfilling a partition of qualities in a world before the world&apos;s data was done" ID="ID_276394957" CREATED="1439340540386" MODIFIED="1439340555647">
+<node TEXT="~ french, tightrope" ID="ID_4914827" CREATED="1439342244284" MODIFIED="1439342256973"/>
+</node>
+<node TEXT="jay-z and jc are in spanish indistinguishable" ID="ID_1170451443" CREATED="1439361261272" MODIFIED="1439361269510"/>
+</node>
+<node TEXT="u, 2p" ID="ID_576553034" CREATED="1439368738849" MODIFIED="1439368806258">
+<font BOLD="true"/>
+<node TEXT="he acts weird here because he is still there" ID="ID_1180656375" CREATED="1439339894073" MODIFIED="1439339900594">
+<node TEXT="ptsd" ID="ID_1846389974" CREATED="1439339901113" MODIFIED="1439339901965"/>
+</node>
+<node TEXT="unmanned horse racing seems better" ID="ID_64164469" CREATED="1439342136252" MODIFIED="1439342141258">
+<node TEXT="but both potentially good" ID="ID_1852122210" CREATED="1439342162248" MODIFIED="1439342282317">
+<node TEXT="no participants getting hurt from it" ID="ID_362965119" CREATED="1439342284180" MODIFIED="1439342296021"/>
+</node>
+</node>
+<node TEXT="&quot;What would I [be if I &gt; do if I] _?&quot;" ID="ID_148753728" CREATED="1439345192807" MODIFIED="1439345217286"/>
+<node TEXT="moment of truth|proof" ID="ID_925232979" CREATED="1439345386546" MODIFIED="1439345389635"/>
+<node TEXT="&quot;don&apos;t waste my time with your paranoia!&quot;" ID="ID_625955635" CREATED="1439360739735" MODIFIED="1439360746569"/>
+<node TEXT="gets to something hilarious : ambivalence" ID="ID_837229337" CREATED="1439360806391" MODIFIED="1439360826216">
+<node TEXT="would get to under ? conditions" ID="ID_550778186" CREATED="1439368641306" MODIFIED="1439368645481"/>
+</node>
+<node TEXT="laughter itself funny" ID="ID_1483450903" CREATED="1439360874727" MODIFIED="1439360877750">
+<node TEXT="endogenous growth" ID="ID_264923969" CREATED="1439360878968" MODIFIED="1439360885949">
+<node TEXT="growth, force, persistence" ID="ID_1510939191" CREATED="1439360896015" MODIFIED="1439360899854"/>
+</node>
+</node>
+<node TEXT=":&amp; for tied equalish" ID="ID_1019877184" CREATED="1439360917095" MODIFIED="1439361011648">
+<node TEXT="example" ID="ID_1977188347" CREATED="1439360950247" MODIFIED="1439360957128">
+<node TEXT=":&amp; growth force persistence" ID="ID_1812099059" CREATED="1439360896015" MODIFIED="1439360936986"/>
+</node>
+<node TEXT="? implicitly , between all words but let parens introduce other syntax to define an elt" LOCALIZED_STYLE_REF="default" ID="ID_1283300628" CREATED="1439360940823" MODIFIED="1439360986220">
+<node TEXT="where elts are equated in the top list" ID="ID_8405339" CREATED="1439360991023" MODIFIED="1439360995518"/>
+</node>
+</node>
+<node TEXT="jewing(legal|bargain sense) is funny" ID="ID_1383788213" CREATED="1439361094704" MODIFIED="1439361118855"/>
+<node TEXT="If you would stop looking at me funny I wouldn&apos;t do that." ID="ID_878057980" CREATED="1439361153200" MODIFIED="1439361162606"/>
+<node TEXT="&quot;everything has a funny side&quot;" ID="ID_1994857035" CREATED="1439361932265" MODIFIED="1439361937951">
+<node TEXT="trevor noah" ID="ID_866813566" CREATED="1439361938608" MODIFIED="1439361940558"/>
+</node>
+<node TEXT="&quot;&#xa;  The president kisses a horse that won a race.&#xa;  My grandfather speaks to someone:&#xa;  &quot;Master, can I ask you one question?&#xa;    The president will kiss a horse but not my sister.&quot;&#xa;  &quot;I don&apos;t know why not.&quot;&#xa;  &quot;Because you haven&apos;t met my sister.&quot;&#xa;&quot;" ID="ID_958026228" CREATED="1439362182073" MODIFIED="1439362325287">
+<node TEXT="trevor noah" ID="ID_1080306485" CREATED="1439362339081" MODIFIED="1439362341567"/>
+<node TEXT="other was policeman" ID="ID_490343948" CREATED="1439362282233" MODIFIED="1439362344111"/>
+</node>
+<node TEXT="trevor noah&apos;s gestures good" ID="ID_524891066" CREATED="1439362378625" MODIFIED="1439362383895">
+<node TEXT="pronouns" ID="ID_1370858103" CREATED="1439362385065" MODIFIED="1439362386535"/>
+</node>
+<node TEXT="if it was not so clear where someone was from, even once you had known" ID="ID_1083595167" CREATED="1439362752187" MODIFIED="1439362762391">
+<node TEXT="day sovereignty" ID="ID_318402812" CREATED="1439362764570" MODIFIED="1439362774352"/>
+</node>
+<node TEXT="&quot;pain is information rushing in to fill a gap. when you stub your toe, [that&apos;s what that is]&quot;" ID="ID_1170806569" CREATED="1439362799370" MODIFIED="1439362994355">
+<node TEXT="seinfeld" ID="ID_1686946319" CREATED="1439362808514" MODIFIED="1439362809670"/>
+</node>
+<node TEXT="could show Freeplane using Justin&apos;s notes" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1377389872" CREATED="1439363512021" MODIFIED="1439363526855">
+<node TEXT="is dup, main at live" ID="ID_1685860252" CREATED="1439363537871" MODIFIED="1439363541408"/>
+</node>
+<node TEXT="&quot;how is that good timing?&quot;" ID="ID_323146214" CREATED="1439363493526" MODIFIED="1439363498586">
+<node TEXT="&quot;you know we&apos;re miracles, right?&quot;" ID="ID_1485214479" CREATED="1439363499217" MODIFIED="1439363505543"/>
+</node>
+<node TEXT="hurt the left side of my back. know it&apos;s better once the pain in my back is on the right." ID="ID_1654301992" CREATED="1439365458128" MODIFIED="1439365496536">
+<node TEXT="continuing ck&apos;s and regan&apos;s joke" ID="ID_867676565" CREATED="1439365498550" MODIFIED="1439365504411"/>
+</node>
+<node TEXT="music-familiar patterns for perceptual dropout" ID="ID_1682321463" CREATED="1439365835851" MODIFIED="1439365845883">
+<node TEXT="music and tech" ID="ID_956978374" CREATED="1439365850994" MODIFIED="1439365854737"/>
+</node>
+<node TEXT="should have introduced kyle to tim" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_379113711" CREATED="1439366759147" MODIFIED="1439366771642"/>
+<node TEXT="listening to the internet &gt; yelling into it" ID="ID_140399932" CREATED="1439370404747" MODIFIED="1439370413745">
+<node TEXT="measured by information density or expected effect" ID="ID_1446904609" CREATED="1439370416412" MODIFIED="1439370425789"/>
+</node>
+</node>
+<node TEXT="quoting storytellers" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1300510048" CREATED="1439369070264" MODIFIED="1439369078534">
+<node TEXT="&quot;&quot; inside &quot;&quot; if speaker is telling a story in which another speaks, &quot;&quot; next to &quot;&quot; if is playing different speaker" ID="ID_1756704444" CREATED="1439339690337" MODIFIED="1439339714376"/>
+<node TEXT="but why not just &quot;&quot;, and aud outside" ID="ID_1014718144" CREATED="1439339412624" MODIFIED="1439339421439">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_653195402" STARTINCLINATION="336;0;" ENDINCLINATION="336;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="when quoting comedian, [] inside &quot;&quot; can be aud, so that next &quot;&quot; is different speaker." ID="ID_653195402" CREATED="1439339398353" MODIFIED="1439339411757"/>
+</node>
+</node>
+<node TEXT="12" POSITION="right" ID="ID_1859432726" CREATED="1439409663909" MODIFIED="1439409664339">
+<node TEXT="find another&apos;s wants and dare them" ID="ID_1742392499" CREATED="1433391394392" MODIFIED="1439409656737"/>
+<node TEXT="surrender to instinct, roles, emotion" LOCALIZED_STYLE_REF="default" ID="ID_452660521" CREATED="1433390025984" MODIFIED="1439409696744"/>
+<node TEXT="act and enjoy, concurrent" LOCALIZED_STYLE_REF="default" ID="ID_1944821808" CREATED="1433390153456" MODIFIED="1439409702632"/>
+<node TEXT="give ample time to another&apos;s process of realizing what [feelings, experience] mean to them" ID="ID_938688589" CREATED="1433393825176" MODIFIED="1439409799812"/>
+<node TEXT="skepticism += sexy, freedom" ID="ID_771832760" CREATED="1433392269560" MODIFIED="1433392284191">
+<node TEXT="free to change preferences, methods" ID="ID_1744539834" CREATED="1433392285704" MODIFIED="1433392297319"/>
+</node>
+<node TEXT="condition-dependent memory" ID="ID_792279396" CREATED="1439410245782" MODIFIED="1439410251228">
+<node TEXT="primal memory" ID="ID_1073986319" CREATED="1439410251878" MODIFIED="1439410254069"/>
+<node TEXT="dependent on those present, on chemicals ingested" ID="ID_1563506730" CREATED="1439410254766" MODIFIED="1439410269876"/>
+</node>
+<node TEXT="consider that another might be exceeding my expectations|beliefs" ID="ID_1435822496" CREATED="1433666274851" MODIFIED="1439410407206"/>
+<node TEXT="goofy" ID="ID_1786544178" CREATED="1439410350071" MODIFIED="1439416376702">
+<node TEXT="each a consequence to close the other&apos;s type system" LOCALIZED_STYLE_REF="default" ID="ID_857792201" CREATED="1433666036236" MODIFIED="1439411206194"/>
+<node TEXT="a proc that wants to oscilj _ yours" LOCALIZED_STYLE_REF="default" ID="ID_1012259709" CREATED="1432717930092" MODIFIED="1439411201101">
+<node TEXT="spawn from" ID="ID_1585268782" CREATED="1432717993204" MODIFIED="1432717994685"/>
+</node>
+</node>
 </node>
 </node>
 </map>

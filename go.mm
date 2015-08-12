@@ -255,9 +255,6 @@
 </node>
 <node TEXT="died thinking &quot;well at least I didn&apos;t cooperate with those people&quot;, when ?could have coopd &amp; live" ID="ID_1623065067" CREATED="1438131603561" MODIFIED="1438131630624"/>
 </node>
-<node TEXT="? diplom waste" ID="ID_324673282" CREATED="1438146635365" MODIFIED="1438146650057">
-<node TEXT="when I try to phrase something nicely, to avoid causing offense, am I fooling myself that that works?" ID="ID_109540600" CREATED="1438066856547" MODIFIED="1438146675050"/>
-</node>
 <node TEXT="? stuck trying to prove speed of coincidence because it was their combined state that mattered, not their sequence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1022655518" CREATED="1423341945239" MODIFIED="1438152549860">
 <font BOLD="false"/>
 </node>
@@ -881,15 +878,8 @@
 <node TEXT="includes diplom" ID="ID_1939719950" CREATED="1437281639228" MODIFIED="1437281651762"/>
 <node TEXT="?= x-ag problems, for small numbers of agents" LOCALIZED_STYLE_REF="default" ID="ID_973616229" CREATED="1437274766753" MODIFIED="1437281648050"/>
 </node>
-<node TEXT="&quot;I like your shoes,&quot; as &quot;Let&apos;s focus on you now.&quot;" ID="ID_1947021365" CREATED="1432698694266" MODIFIED="1432698709023"/>
 <node TEXT="? xeno&apos;s paradox: share how" ID="ID_1569938973" CREATED="1433619505702" MODIFIED="1437274803251">
 <node TEXT="I keep getting closer to her, and I like that a lot." LOCALIZED_STYLE_REF="default" ID="ID_868814593" CREATED="1433619469534" MODIFIED="1437274739444"/>
-</node>
-<node TEXT="2015 07 28" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_879067114" CREATED="1438146960141" MODIFIED="1438146969960"/>
-<node TEXT="detect anger =&gt; no specul" ID="ID_1312016296" CREATED="1438148981925" MODIFIED="1438149015778">
-<node TEXT="if I smell myself angering someone, stick to facts, do not speculate -- ask what time it is, what place they are telling a story about, etc." ID="ID_1732420897" CREATED="1438054867920" MODIFIED="1438148932328">
-<node TEXT="pin them with context-awareness, unimpeachably" ID="ID_1922327207" CREATED="1438054907336" MODIFIED="1438148958201"/>
-</node>
 </node>
 </node>
 <node TEXT="comm" ID="ID_1565648000" CREATED="1437275685034" MODIFIED="1437275686008">

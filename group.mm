@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="group" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1434942890024"><hook NAME="MapStyle" zoom="1.365">
+<node TEXT="git / group" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439418279922"><hook NAME="MapStyle" zoom="1.365">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -644,81 +644,6 @@
 </node>
 <node TEXT="&quot;I&apos;m not very social,&quot; call it what it is, a choice." ID="ID_753735394" CREATED="1426307751615" MODIFIED="1426307957726"/>
 </node>
-<node TEXT="diplom" ID="ID_736688557" CREATED="1434962467511" MODIFIED="1434962468709">
-<node TEXT="~ defen" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_906997184" CREATED="1438658318202" MODIFIED="1438658332417"/>
-<node TEXT="twist &gt; negate" ID="ID_836325024" CREATED="1428450838295" MODIFIED="1428450840694">
-<node TEXT="the topic, subject" ID="ID_1737407734" CREATED="1431995736991" MODIFIED="1431995740985"/>
-</node>
-<node TEXT="?= an editing process" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1160061673" CREATED="1426746113863" MODIFIED="1430114065877"/>
-<node TEXT="&lt;- see also go/be/peace" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_471621835" CREATED="1430113989225" MODIFIED="1430113998136"/>
-<node TEXT="choose topic" ID="ID_738566869" CREATED="1430113866555" MODIFIED="1430113868368">
-<node TEXT="find a less divisive topic" ID="ID_453780412" CREATED="1430113832649" MODIFIED="1430113873124">
-<node TEXT="was" ID="ID_1957633018" CREATED="1430113840363" MODIFIED="1430113840686">
-<node TEXT="change the subject to a less (or more!) divisive issue" LOCALIZED_STYLE_REF="default" ID="ID_701353734" CREATED="1415503147850" MODIFIED="1430113811490"/>
-<node TEXT="one that is agreement-feasible" ID="ID_774382910" CREATED="1415503159002" MODIFIED="1438657831996">
-<node TEXT="if fighty,a fight that might end well" ID="ID_1892625991" CREATED="1438657839758" MODIFIED="1438657858659"/>
-</node>
-</node>
-</node>
-<node TEXT="? when to change it" LOCALIZED_STYLE_REF="default" ID="ID_932580360" CREATED="1430113947775" MODIFIED="1438657913077">
-<node TEXT="and be not afraid of being recognized doing it" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_963089878" CREATED="1430113960719" MODIFIED="1430113969082"/>
-<node TEXT="&quot;My pain lately ...&quot; &quot;What was your favorite day?&quot;" ID="ID_1377358843" CREATED="1425279386187" MODIFIED="1425279399040">
-<node TEXT="elab, duh" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1370785294" CREATED="1438657884558" MODIFIED="1438657890985">
-<node TEXT="Next time anyone complains about how they feel, esp if chronic complainer, ask what their favorite day ever was like." LOCALIZED_STYLE_REF="default" ID="ID_1790252510" CREATED="1425277638283" MODIFIED="1438657887402"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="(local) termination" ID="ID_1828837462" CREATED="1430113876492" MODIFIED="1438657961044">
-<node TEXT="to leave an unwilling" ID="ID_693699316" CREATED="1430114370786" MODIFIED="1430114377340">
-<node TEXT="offer to see in another context" LOCALIZED_STYLE_REF="default" ID="ID_635323289" CREATED="1416617221255" MODIFIED="1430114382720"/>
-<node TEXT="declare intended subsequent act" LOCALIZED_STYLE_REF="default" ID="ID_1615114541" CREATED="1350838380101" MODIFIED="1430114386228">
-<node TEXT="if it&apos;s important, they&apos;ll be happy" ID="ID_527821769" CREATED="1350838389933" MODIFIED="1350838397478"/>
-<node TEXT="if it&apos;s not, they&apos;ll understand how little I want to continue being with them for the moment, which will likely reduce their enthusiasm for extension" ID="ID_157053376" CREATED="1350838397749" MODIFIED="1350838440295"/>
-</node>
-</node>
-</node>
-<node TEXT="restraint" ID="ID_384810377" CREATED="1430114808926" MODIFIED="1430114812307">
-<node TEXT="no need to describe something&apos;s limitations" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1160484316" CREATED="1419823839054" MODIFIED="1419841843263"/>
-</node>
-<node TEXT="query &gt; challenge" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_188632089" CREATED="1430114218499" MODIFIED="1438658312486">
-<node TEXT="&quot;how do you know?&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1141331637" CREATED="1429259741501" MODIFIED="1438658308747"/>
-</node>
-<node TEXT="? ask to watch" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1664791888" CREATED="1429259067597" MODIFIED="1438658950369">
-<node TEXT="? can be defensive, preemptive; an apology for having happened to exist where it is visible" ID="ID_1143642148" CREATED="1438658383175" MODIFIED="1438658576577"/>
-</node>
-<node TEXT="&quot;Am I sorry that it happened or that I reminded you of it?&quot;" ID="ID_1339158384" CREATED="1429251209363" MODIFIED="1429259162635">
-<node TEXT="jason sudekis as the devil on snl while seth meyers hosting news" LOCALIZED_STYLE_REF="default" ID="ID_1890350593" CREATED="1429251223411" MODIFIED="1429259394841"/>
-</node>
-<node TEXT="data let not be mistaken for opinion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_466775206" CREATED="1438658466623" MODIFIED="1438658482459">
-<node TEXT="try not to sound like I have an opinion (on prior subject) if I don&apos;t but I have information relevant" ID="ID_922253703" CREATED="1429921233389" MODIFIED="1429921251087"/>
-</node>
-<node TEXT="? socratic method" ID="ID_585784933" CREATED="1424590554684" MODIFIED="1430114161674">
-<node TEXT="raise related topics, wait for the other to see the connection themselves" ID="ID_189762045" CREATED="1424590565164" MODIFIED="1438658556696"/>
-</node>
-<node TEXT="&quot;excuse me, my time with _ is brief&quot;" ID="ID_1754733047" CREATED="1432165387995" MODIFIED="1438658608973">
-<node TEXT="oppor-ranking people" ID="ID_515394930" CREATED="1438658628575" MODIFIED="1438658644110"/>
-<node TEXT="if in group G, briefly able to talk to S in G, and with others in G have been|will be able to talk longer, can explain that to do so" ID="ID_1425012278" CREATED="1430637743350" MODIFIED="1430637792532"/>
-</node>
-<node TEXT="&quot;Are you sure you want to _?&quot;" ID="ID_1211404491" CREATED="1430682324455" MODIFIED="1432165424134"/>
-<node TEXT="2015 06 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1132924979" CREATED="1434406962416" MODIFIED="1434406967376"/>
-<node TEXT="what I meant?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_571882749" CREATED="1438658830279" MODIFIED="1438658847203">
-<font BOLD="false"/>
-<node TEXT="&quot;[earlier]&quot; &quot;yes, because [transcend earlier]&quot;" ID="ID_442590898" CREATED="1433213119676" MODIFIED="1433213139241">
-<node TEXT="better than &quot;no, rather (because) _&quot;" ID="ID_1695591979" CREATED="1433213139747" MODIFIED="1433213149929"/>
-</node>
-</node>
-<node TEXT="&quot;your friend&quot; ? revealing" ID="ID_1636334215" CREATED="1433400026033" MODIFIED="1438658879054">
-<node TEXT="when someone says that, esp. if I have told them the friend&apos;s name, note that they think of the friend that way" ID="ID_828774480" CREATED="1433400029618" MODIFIED="1433400050760"/>
-</node>
-<node TEXT="raise -&gt; reveal" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1023656251" CREATED="1438658979096" MODIFIED="1438659056945">
-<node TEXT="raise : poker sense" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1201737111" CREATED="1438658994936" MODIFIED="1438659001494"/>
-<node TEXT="wait to say an embarrassing thing until can by it match, due to another&apos;s having _d" LOCALIZED_STYLE_REF="default" ID="ID_1071824463" CREATED="1433564265654" MODIFIED="1438658994402"/>
-</node>
-<node TEXT="&quot;[offer]?&quot; &quot;(without changing|revealing mood) we&apos;ll talk later&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_362686555" CREATED="1434054680939" MODIFIED="1438659083869">
-<node TEXT="talk when no audience" ID="ID_1313078172" CREATED="1434054711131" MODIFIED="1438659068114"/>
-</node>
-</node>
 <node TEXT="privacy" ID="ID_214005926" CREATED="1438658792559" MODIFIED="1438658800004">
 <node TEXT="introduce ? by default not by name" ID="ID_258699839" CREATED="1433374973756" MODIFIED="1438658701276">
 <node TEXT="? don&apos;t introduce someone, especially without their presence, to someone by name by default when first introducing them" ID="ID_1829659721" CREATED="1433374834059" MODIFIED="1433374860762">
@@ -1077,9 +1002,6 @@
 <node TEXT="care" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_823140228" CREATED="1434936831281" MODIFIED="1434937179681">
 <node TEXT="bond" ID="ID_968443448" CREATED="1422322893649" MODIFIED="1422322894246">
 <node TEXT="varieties {friend, intim, love}" ID="ID_22123051" CREATED="1422947512696" MODIFIED="1439254613640"/>
-<node TEXT="diplom" ID="ID_681918763" CREATED="1422947456544" MODIFIED="1422947472530">
-<node TEXT="= influ + defen?" ID="ID_1068980335" CREATED="1422947472903" MODIFIED="1422947477430"/>
-</node>
 <node TEXT="fun, play" ID="ID_345897332" CREATED="1421363492214" MODIFIED="1421363493971"/>
 <node TEXT="trust" ID="ID_560351514" CREATED="1422947492519" MODIFIED="1422947493022"/>
 </node>
@@ -1615,6 +1537,9 @@
 <node TEXT="just get closer. call, talk, learn about them. don&apos;t plan too far ahead." ID="ID_1024681473" CREATED="1437701668628" MODIFIED="1437701697761"/>
 </node>
 </node>
+</node>
+<node TEXT="invitation" ID="ID_1416717677" CREATED="1402970518538" MODIFIED="1402970520573">
+<node TEXT="any time you want to hang out, or want me to try to convince you to hang out, let me know" ID="ID_416579542" CREATED="1402970507842" MODIFIED="1402970517909"/>
 </node>
 </node>
 <node TEXT="= get|invite closer" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_741526368" CREATED="1427702444477" MODIFIED="1434421800396"/>
@@ -2193,9 +2118,6 @@
 <node TEXT="problem quality more important to that decision than problem owner" ID="ID_678015328" CREATED="1439262268092" MODIFIED="1439262289537"/>
 </node>
 <node TEXT="inefficient; instead, let them have the specialty" ID="ID_797654243" CREATED="1431852277746" MODIFIED="1431852293041"/>
-</node>
-<node TEXT="diplom" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1505343287" CREATED="1436427523393" MODIFIED="1436427526644">
-<node TEXT="process disagreements in private; present unified face as group to others|other group" ID="ID_940608865" CREATED="1430876964695" MODIFIED="1430876988155"/>
 </node>
 <node TEXT="hiding &amp; intimacy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_978146418" CREATED="1431851314397" MODIFIED="1436426112058">
 <font BOLD="true"/>
