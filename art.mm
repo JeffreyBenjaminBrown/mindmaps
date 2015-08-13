@@ -850,10 +850,11 @@
 </node>
 <node TEXT="diplom" POSITION="right" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1439416832908">
 <node TEXT="collected and reviewed 2015 08 12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606117738" CREATED="1439419084257" MODIFIED="1439419094850"/>
-<node TEXT="!! grep" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_58176212" CREATED="1439417311055" MODIFIED="1439419067729">
+<node TEXT="!! grep-collected" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_58176212" CREATED="1439417311055" MODIFIED="1439422053558">
 <font BOLD="true"/>
 <node TEXT="ongoing : diplom" ID="ID_984478289" CREATED="1439417320095" MODIFIED="1439417330621"/>
-<node TEXT="could : emp, trust" ID="ID_967482727" CREATED="1439417330815" MODIFIED="1439417436992">
+<node TEXT="could : emp, trust, influ" ID="ID_967482727" CREATED="1439417330815" MODIFIED="1439422074166">
+<node TEXT="\wemp[^i|t]" ID="ID_327606816" CREATED="1439421739205" MODIFIED="1439421751994"/>
 <node TEXT="emp preceded by non-alpha char" ID="ID_1259940628" CREATED="1439417338007" MODIFIED="1439417432941"/>
 </node>
 </node>
@@ -1074,6 +1075,21 @@
 <node TEXT="&quot;Are you sure you want to _?&quot;" ID="ID_1211404491" CREATED="1430682324455" MODIFIED="1432165424134"/>
 <node TEXT="process disagreements in private; present unified face as group to others|other group" ID="ID_940608865" CREATED="1430876964695" MODIFIED="1430876988155"/>
 </node>
+<node TEXT="1p" ID="ID_1419320812" CREATED="1439423144590" MODIFIED="1439423146268">
+<node TEXT="vote (speak?) only when informed" ID="ID_683534271" CREATED="1418102321841" MODIFIED="1426310943364">
+<node TEXT="would be good if everyone did" ID="ID_114281980" CREATED="1418622031075" MODIFIED="1418622040239"/>
+<node TEXT="by contrast, without trust, perhaps, incentive to cheat" ID="ID_1128911390" CREATED="1418622041091" MODIFIED="1418622074026"/>
+</node>
+<node TEXT="incrementalism" ID="ID_1051291842" CREATED="1418623227907" MODIFIED="1418623230527">
+<node TEXT="_ rises slow, falls steep" ID="ID_1673389401" CREATED="1418623235604" MODIFIED="1424678203685">
+<node TEXT="e.g. trust" ID="ID_1822975236" CREATED="1424678210050" MODIFIED="1424678216769"/>
+</node>
+</node>
+<node TEXT="make a note of the most recent conditions when disengaging with a person, to know where to resume" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_205236684" CREATED="1435101683920" MODIFIED="1439424965942">
+<node TEXT="for empathy" ID="ID_1720404647" CREATED="1435101713264" MODIFIED="1435101715991"/>
+<node TEXT="seems better to feel it than plan it -- but that would require spending a lot of my time thinking about specific other people, which feels like planning, and a little creepy" ID="ID_1239886445" CREATED="1439424966697" MODIFIED="1439424997314"/>
+</node>
+</node>
 <node TEXT="2015 06 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1132924979" CREATED="1434406962416" MODIFIED="1439419072081">
 <font BOLD="false"/>
 <node TEXT="what I meant?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_571882749" CREATED="1438658830279" MODIFIED="1438658847203">
@@ -1128,6 +1144,12 @@
 <node TEXT="infinite counteroffset" ID="ID_1489913651" CREATED="1439018489081" MODIFIED="1439018500191"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="performance genj" POSITION="right" ID="ID_1758193247" CREATED="1439424596073" MODIFIED="1439424603990">
+<node TEXT="performance influenced by audience" ID="ID_1770180792" CREATED="1359614608507" MODIFIED="1359614621662">
+<node TEXT="example: empathic storytelling" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_985907773" CREATED="1358232118497" MODIFIED="1359614643539"/>
+<node TEXT="in recounting a story, perhaps a dream, how should one use what one knows about one&apos;s audience to choose which details to report? to engage them? to lead them to find analogies between themselves and elements of it?" ID="ID_1283825517" CREATED="1358230778378" MODIFIED="1358230837606"/>
 </node>
 </node>
 <node TEXT="performance ideas" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_172863952" CREATED="1439081967710" MODIFIED="1439081970352">

@@ -1941,7 +1941,7 @@
 <node TEXT="soc learn, the process of society as a group learning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1029128431" CREATED="1436422247580" MODIFIED="1436422257144"/>
 <node TEXT="no punish but review, recite, try to sound out the concepts" ID="ID_35263280" CREATED="1422138992408" MODIFIED="1430115325885"/>
 </node>
-<node TEXT="reational stopping" LOCALIZED_STYLE_REF="default" ID="ID_1074692196" CREATED="1430463253601" MODIFIED="1436424762528">
+<node TEXT="rational stopping" LOCALIZED_STYLE_REF="default" ID="ID_1074692196" CREATED="1430463253601" MODIFIED="1439426603748">
 <node TEXT="= the stop of effort into _" ID="ID_972723676" CREATED="1430356026484" MODIFIED="1430463272568"/>
 <node TEXT="recogbl, even anticipbl, in others" ID="ID_1275260947" CREATED="1430359950750" MODIFIED="1430359962539">
 <node TEXT="emp" ID="ID_962693977" CREATED="1436424763838" MODIFIED="1436424765181"/>
@@ -2071,12 +2071,6 @@
 <node TEXT="&quot;No, do recog me, just gentler!&quot;" ID="ID_312557886" CREATED="1428031670685" MODIFIED="1428031677299"/>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_7407563" CREATED="1436427283850" MODIFIED="1436427285061">
 <node TEXT="&quot;Be|_ my only lens, (eventj reaveled to have been) (always) part of me.&quot;" ID="ID_1610027710" CREATED="1429482999930" MODIFIED="1438201931600"/>
-</node>
-</node>
-<node TEXT="emp" ID="ID_875352216" CREATED="1436427323313" MODIFIED="1436427324015">
-<node TEXT="anticipate process duration (in another)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1946606887" CREATED="1432088635890" MODIFIED="1436427254904">
-<font BOLD="false"/>
-<node TEXT="think about how long you can live|leave something thinking that" ID="ID_1634608802" CREATED="1428184434803" MODIFIED="1428184447257"/>
 </node>
 </node>
 <node TEXT="god" ID="ID_1708466442" CREATED="1436427344217" MODIFIED="1436427344790">

@@ -158,29 +158,9 @@
 <node TEXT="? helpful for office work" ID="ID_1370744723" CREATED="1437274215021" MODIFIED="1437274221399"/>
 </node>
 </node>
-<node TEXT="share" LOCALIZED_STYLE_REF="default" ID="ID_1874656003" CREATED="1437275514642" MODIFIED="1437275540469">
-<node TEXT="spread empathy" ID="ID_560493506" CREATED="1434524216925" MODIFIED="1437275506877">
-<node TEXT="fix corporations by talking emotionally to bosses" ID="ID_402835530" CREATED="1434951537867" MODIFIED="1437275453204">
-<node TEXT="make them empathic, curious about the demonstrably more interesting (than say collecting cars) consequences of doing good" ID="ID_1391795929" CREATED="1437275456842" MODIFIED="1437769684112"/>
-</node>
-</node>
-</node>
 <node TEXT="study" ID="ID_80494125" CREATED="1437275712218" MODIFIED="1437275719605">
 <node TEXT="? for group id, study alcoholism" ID="ID_736369379" CREATED="1436138846225" MODIFIED="1436576250620">
 <node TEXT="largely equiv to marij, and more storied, a different culture" ID="ID_1553277921" CREATED="1436138867913" MODIFIED="1436138889322"/>
-</node>
-</node>
-<node TEXT="_ to detect" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1654902642" CREATED="1436673076704" MODIFIED="1437273677563">
-<node TEXT="? talking to someone &gt;&gt; conject (alone) what one can learn from or about another" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_460424594" CREATED="1437272433319" MODIFIED="1437272494755">
-<node TEXT="&gt;&gt; much greater in value" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1723212524" CREATED="1437272507663" MODIFIED="1437272512362"/>
-</node>
-<node TEXT="= opportunity of detection" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_797765584" CREATED="1437272606095" MODIFIED="1437272612842"/>
-<node TEXT="less important, under many conditions best skipped" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_484752443" CREATED="1437265568713" MODIFIED="1437272617058"/>
-<node TEXT="move to &quot;empathy/?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1997117755" CREATED="1436673083912" MODIFIED="1437272659453"/>
-<node TEXT="detect acting" ID="ID_1924898050" CREATED="1432065861580" MODIFIED="1437272410255"/>
-<node TEXT="ether responsb" ID="ID_733528865" CREATED="1424990576849" MODIFIED="1437265347767">
-<node TEXT="ethereal responsibility" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1836763187" CREATED="1437272826015" MODIFIED="1437272829642"/>
-<node TEXT="brains are softer than written language" ID="ID_739234459" CREATED="1424990456829" MODIFIED="1424990469120"/>
 </node>
 </node>
 <node TEXT="2015 07 28" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_631364187" CREATED="1438147125998" MODIFIED="1438147129385"/>
@@ -788,8 +768,8 @@
 <node TEXT="avoid" ID="ID_1298528082" CREATED="1437260205276" MODIFIED="1437260221572">
 <node TEXT="investig with bias" LOCALIZED_STYLE_REF="default" ID="ID_1944595458" CREATED="1425542438150" MODIFIED="1437260249327">
 <node TEXT="? avoiding certain topics, in thought or conversation" ID="ID_802084484" CREATED="1425542461206" MODIFIED="1425542469124"/>
-<node TEXT="morbid empathy" ID="ID_1328202385" CREATED="1422562280155" MODIFIED="1422562282721">
-<node TEXT="if I stumble onto someone&apos;s insecurities, rather than cogj running away, maybe try thinking about them. maybe do only once they are gone, but then again maybe waiting would be paternalistic, I should ask or at least try to sniff a sense for whether they want to be investigated." ID="ID_423562724" CREATED="1422562286394" MODIFIED="1437260142839"/>
+<node TEXT="morbid empathy" ID="ID_34611527" CREATED="1439426444563" MODIFIED="1439426446584">
+<node TEXT="-&gt; group/empathy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1345467345" CREATED="1439426447163" MODIFIED="1439426456556"/>
 </node>
 </node>
 <node TEXT="specul" ID="ID_120839167" CREATED="1437524276811" MODIFIED="1437524277946">
