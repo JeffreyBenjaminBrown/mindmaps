@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1423127362966"><hook NAME="MapStyle" zoom="1.33">
+<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1439586329286"><hook NAME="MapStyle" zoom="1.33">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
