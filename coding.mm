@@ -14731,7 +14731,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="rels are nodes with 2 edge kinds: members and tplt" ID="ID_911223881" CREATED="1438849198355" MODIFIED="1438849223099"/>
 </node>
 </node>
-<node TEXT="08-11" LOCALIZED_STYLE_REF="default" ID="ID_900390432" CREATED="1439081824406" MODIFIED="1439371798255">
+<node TEXT="08 - .." LOCALIZED_STYLE_REF="default" ID="ID_900390432" CREATED="1439081824406" MODIFIED="1439584992279">
 <node TEXT="08" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_719963784" CREATED="1439081824406" MODIFIED="1439371773296"/>
 <node TEXT="motiv" ID="ID_1976962330" CREATED="1439080775476" MODIFIED="1439081827891">
 <node TEXT="&quot;list coparents (of children of this) by volume&quot;" ID="ID_1851457836" CREATED="1439080200716" MODIFIED="1439080220009">
@@ -14768,6 +14768,14 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="11" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_806982263" CREATED="1439371721821" MODIFIED="1439371767296"/>
 <node TEXT="What is an mmNode?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_927256344" CREATED="1439371723309" MODIFIED="1439371765316"/>
+<node TEXT="13" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1842507391" CREATED="1439522094495" MODIFIED="1439522101290"/>
+<node TEXT="partial graph traversal" ID="ID_1579042159" CREATED="1439522086151" MODIFIED="1439522090529">
+<node TEXT="https://github.com/haskell/fgl/blob/master/fgl-arbitrary/test/TestSuite.hs#L50" ID="ID_184501666" CREATED="1439522088650" MODIFIED="1439522088650" LINK="https://github.com/haskell/fgl/blob/master/fgl-arbitrary/test/TestSuite.hs#L50"/>
+</node>
+<node TEXT="a graph rel: &quot;[word], the one referred to by [node]&quot;" ID="ID_965682704" CREATED="1439510369511" MODIFIED="1439510415286"/>
+<node TEXT="id|isol the actionable by collecting (locally) and freezing hypotheticals" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_35283129" CREATED="1439530029434" MODIFIED="1439584724992">
+<node TEXT="&quot;maybe&quot;" ID="ID_944894443" CREATED="1439530064945" MODIFIED="1439530068313"/>
+</node>
 </node>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">

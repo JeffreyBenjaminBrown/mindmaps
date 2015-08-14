@@ -783,7 +783,6 @@
 </node>
 </node>
 </node>
-</node>
 <node TEXT="u" ID="ID_1224487324" CREATED="1439334998454" MODIFIED="1439335002844">
 <font BOLD="true"/>
 <node TEXT="humor @ difficulty" LOCALIZED_STYLE_REF="default" ID="ID_1849652592" CREATED="1430114073677" MODIFIED="1439334706642">
@@ -834,6 +833,9 @@
 <node TEXT="&quot;every now and then the microwave dings and I have no idea what&apos;s in there [I&apos;m skipping time here] &quot;Oh, macaroni and cheese! [pause] I like that! [pause] I love checking the mystery box.&quot;&quot;" ID="ID_1928728063" CREATED="1439341048722" MODIFIED="1439341096541">
 <node TEXT="aud laugh unreported" ID="ID_505538470" CREATED="1439341098386" MODIFIED="1439341102386"/>
 </node>
+<node TEXT="&quot;I was disappointed he didn&apos;t think of Feedler on the Roof. Your name is Feedler, how could you not think of that? &quot;Huh, my name is Feedler, I&apos;m gonna be on the roof [pause, next sounds excited] Feedler Roofing Company!&quot; &quot;" ID="ID_157631379" CREATED="1439450949789" MODIFIED="1439451002871">
+<node TEXT="funny because you think he&apos;s acting out the discovery of FOTR, and he keeps you thinking that as long as possible, even with his tone of voice" ID="ID_1193307700" CREATED="1439451003700" MODIFIED="1439451044546"/>
+</node>
 </node>
 <node TEXT="from _ with luggage" ID="ID_38225050" CREATED="1439340147145" MODIFIED="1439340149743">
 <node TEXT="luggage sounds like love, expects" ID="ID_1812301652" CREATED="1439340150281" MODIFIED="1439340155655"/>
@@ -846,7 +848,34 @@
 <node TEXT="&quot;I know this looks really official [laughter, aud next expects a &apos;but _&apos;], being 100% cotton and all [laughter] but there are people even higher in the organization than me, who make that kind of decision." ID="ID_1241008884" CREATED="1439341784715" MODIFIED="1439341823249"/>
 </node>
 </node>
+<node TEXT="2015 08 13, galafinakis" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_841389846" CREATED="1439583325613" MODIFIED="1439583462571">
+<node TEXT="https://www.youtube.com/watch?v=Hod1hrzx-ys" ID="ID_544928008" CREATED="1439583781148" MODIFIED="1439583781148" LINK="https://www.youtube.com/watch?v=Hod1hrzx-ys"/>
+<node TEXT="serious tone then silence: prompts laughter?" ID="ID_875978139" CREATED="1439505253736" MODIFIED="1439583456148"/>
+<node TEXT="? contrive false hostility" ID="ID_1162721419" CREATED="1439583427925" MODIFIED="1439583450455">
+<node TEXT="pretend by speech-acting it to do something (e.g. (observed) &quot;can you leave?&quot; (imagined extending it) &quot;seriously, we&apos;ll give you your money back. we&apos;ll even double that.&quot;) and then walk away laughing, shrugging, lifting hands as if to weigh nothing, &quot;why would I do that?&quot;" ID="ID_706454410" CREATED="1439505652897" MODIFIED="1439583416852"/>
 </node>
+<node TEXT="&quot;You thought it was done!&quot;" ID="ID_712610028" CREATED="1439506207865" MODIFIED="1439506212118"/>
+</node>
+<node TEXT="chris tucker" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_426209189" CREATED="1439583815445" MODIFIED="1439583817916">
+<node TEXT="https://www.youtube.com/watch?v=UMzjisheazo" LOCALIZED_STYLE_REF="default" ID="ID_1952062671" CREATED="1439506658188" MODIFIED="1439583819724" LINK="https://www.youtube.com/watch?v=UMzjisheazo"/>
+<node TEXT="after imitating a demon wife, changes subject, &quot; ... There&apos;s something wrong with this new generation.&quot;" ID="ID_1991015259" CREATED="1439506632329" MODIFIED="1439506653223"/>
+<node TEXT="&quot;It was cool ... She had me doing stuff I never did before, like, showing up on time ...&quot; [aud laughs, he frowns and nods, end of list]" ID="ID_775162740" CREATED="1439506819810" MODIFIED="1439583839704"/>
+<node TEXT="to a debt collector, &quot;I don&apos;t owe you! [now extending jbb] I owe shareholders, who don&apos;t care enough to call me about it themselves.&quot;" ID="ID_1637939930" CREATED="1439507760756" MODIFIED="1439507814891">
+<node TEXT="based on chris tucker piece" ID="ID_1642710368" CREATED="1439507776493" MODIFIED="1439507787740"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="music" POSITION="right" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
+<font BOLD="true"/>
+<node TEXT="recordings : speed to optimize ingestion" ID="ID_179284204" CREATED="1439452484294" MODIFIED="1439452511170">
+<node TEXT="faster the soundcloud transfer - speed every passage to what is optimal (even sometimes slower) for cogv traffic" ID="ID_1223568642" CREATED="1439429607511" MODIFIED="1439429658496"/>
+</node>
+</node>
+<node TEXT="rhyme" POSITION="right" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
+<node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>
+<node TEXT="form sentence toward what seems a natural rhyme, then deviate" ID="ID_104384863" CREATED="1439509195653" MODIFIED="1439509206642"/>
 </node>
 <node TEXT="diplom" POSITION="right" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1439416832908">
 <node TEXT="collected and reviewed 2015 08 12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606117738" CREATED="1439419084257" MODIFIED="1439419094850"/>
@@ -1111,6 +1140,11 @@
 </node>
 </node>
 <node TEXT="bundles" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_533607381" CREATED="1439416813526" MODIFIED="1439416816417">
+<node TEXT="musical bargaining over being" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_697832405" CREATED="1439429271142" MODIFIED="1439452537169">
+<node TEXT="over the work of being" ID="ID_1899471601" CREATED="1439429300766" MODIFIED="1439429303181"/>
+<node TEXT="over time-density, density, difficulty" ID="ID_585419917" CREATED="1439429303487" MODIFIED="1439429318724"/>
+<node TEXT="across voices" ID="ID_1529740734" CREATED="1439429278182" MODIFIED="1439429279835"/>
+</node>
 <node TEXT="perform : absurd" ID="ID_1110549951" CREATED="1439334551268" MODIFIED="1439334572433">
 <node TEXT="performance ring, lonely" ID="ID_1611102803" CREATED="1434396583621" MODIFIED="1437274523224">
 <node TEXT="taking turns filibustering, poets, comedians, alone, each strange and the whole strange" ID="ID_214283616" CREATED="1432706089113" MODIFIED="1437274545920"/>
@@ -1145,6 +1179,7 @@
 </node>
 </node>
 </node>
+<node TEXT="music ? race" ID="ID_1810577110" CREATED="1439505380152" MODIFIED="1439583368910"/>
 </node>
 <node TEXT="performance genj" POSITION="right" ID="ID_1758193247" CREATED="1439424596073" MODIFIED="1439424603990">
 <node TEXT="performance influenced by audience" ID="ID_1770180792" CREATED="1359614608507" MODIFIED="1359614621662">

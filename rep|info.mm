@@ -1430,6 +1430,9 @@
 <node TEXT="disprove" ID="ID_436339845" CREATED="1391837308692" MODIFIED="1391837309639"/>
 <node TEXT="suggest" ID="ID_235510017" CREATED="1391837435532" MODIFIED="1391837469382"/>
 </node>
+<node TEXT="perhaps the main|first job a punctuation symbol does is explain whether the two sides are the same kind or one modifies the other" ID="ID_1278459202" CREATED="1439428888709" MODIFIED="1439428916176">
+<node TEXT="specify as vart of modify" ID="ID_1823732661" CREATED="1439428919814" MODIFIED="1439428935182"/>
+</node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">
 <node TEXT="= &gt; infer" ID="ID_1016200156" CREATED="1425363866048" MODIFIED="1425363871854"/>

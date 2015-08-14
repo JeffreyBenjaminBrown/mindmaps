@@ -254,7 +254,7 @@
 <node TEXT="\ ? when is it useful to recognize one&apos;s unique _" ID="ID_1380587423" CREATED="1438583620755" MODIFIED="1438583693535"/>
 </node>
 </node>
-<node TEXT="read other (emp sens kind) *" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_761599251" CREATED="1434954907181" MODIFIED="1435022825154">
+<node TEXT="emp sens kind *" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_761599251" CREATED="1434954907181" MODIFIED="1439584564673">
 <font ITALIC="false"/>
 <node TEXT="!! grepped : empathy" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_267170162" CREATED="1439422957558" MODIFIED="1439426762350">
 <node TEXT="grep expr" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1003867360" CREATED="1439423772752" MODIFIED="1439426694776">
@@ -846,6 +846,10 @@
 <node TEXT="think about how long you can live|leave something thinking that" ID="ID_1634608802" CREATED="1428184434803" MODIFIED="1428184447257"/>
 </node>
 </node>
+</node>
+<node TEXT="2015 08 13" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1503261360" CREATED="1439584597510" MODIFIED="1439584601298"/>
+<node TEXT="stay inside another&apos;s * like tron wall-trail bikes" ID="ID_938814865" CREATED="1439524251866" MODIFIED="1439584406465">
+<node TEXT="* : beliefs? comfort zone? world?" ID="ID_1220849544" CREATED="1439584408197" MODIFIED="1439584427809"/>
 </node>
 </node>
 <node TEXT="be known *" ID="ID_607191368" CREATED="1426307735120" MODIFIED="1435019486508">
