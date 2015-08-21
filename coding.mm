@@ -10335,9 +10335,6 @@
 <node TEXT="once to build up the node-text assocs" ID="ID_1532720314" CREATED="1427832861552" MODIFIED="1427832869812"/>
 <node TEXT="the other to build the node-rel assocs" ID="ID_674398210" CREATED="1427832870017" MODIFIED="1427832875277"/>
 </node>
-<node TEXT="? can I use text.parsec.indent to get halfway" ID="ID_249741361" CREATED="1427785211316" MODIFIED="1427785231280">
-<node TEXT="to turn it into parens" ID="ID_1755061042" CREATED="1427785233877" MODIFIED="1427785238747"/>
-</node>
 <node TEXT="how would parse if parens" ID="ID_1906648618" CREATED="1427785244093" MODIFIED="1427785249225">
 <node TEXT="type nodeLineSpaced = (number of spaces, id number, string)" ID="ID_781372907" CREATED="1427785252677" MODIFIED="1427785500105">
 <node TEXT="the string often &quot;&quot;" ID="ID_787165970" CREATED="1427785352989" MODIFIED="1427785408004"/>
@@ -14775,6 +14772,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="a graph rel: &quot;[word], the one referred to by [node]&quot;" ID="ID_965682704" CREATED="1439510369511" MODIFIED="1439510415286"/>
 <node TEXT="id|isol the actionable by collecting (locally) and freezing hypotheticals" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_35283129" CREATED="1439530029434" MODIFIED="1439584724992">
 <node TEXT="&quot;maybe&quot;" ID="ID_944894443" CREATED="1439530064945" MODIFIED="1439530068313"/>
+</node>
+<node TEXT="14" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_719672462" CREATED="1439617232004" MODIFIED="1439617232896"/>
+<node TEXT="in graph, divide struggle|easy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1660926651" CREATED="1439616539131" MODIFIED="1439617216546">
+<node TEXT="and freeze easy" ID="ID_1226741483" CREATED="1439616552251" MODIFIED="1439616554602"/>
 </node>
 </node>
 </node>

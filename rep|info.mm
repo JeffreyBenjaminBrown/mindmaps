@@ -1433,6 +1433,31 @@
 <node TEXT="perhaps the main|first job a punctuation symbol does is explain whether the two sides are the same kind or one modifies the other" ID="ID_1278459202" CREATED="1439428888709" MODIFIED="1439428916176">
 <node TEXT="specify as vart of modify" ID="ID_1823732661" CREATED="1439428919814" MODIFIED="1439428935182"/>
 </node>
+<node TEXT="20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_12497858" CREATED="1440117295049" MODIFIED="1440117296348"/>
+<node TEXT="cyc rep" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_676989560" CREATED="1434767807598" MODIFIED="1440115195826">
+<node TEXT="duration ~ fraction" ID="ID_1911525932" CREATED="1440115165463" MODIFIED="1440115169533"/>
+<node TEXT="each rhythm as diff v. each as duration from ref" ID="ID_367709133" CREATED="1440115103679" MODIFIED="1440115149634">
+<node TEXT="from reference event" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1289303716" CREATED="1440115150320" MODIFIED="1440115153333"/>
+<node TEXT="was" ID="ID_1740765074" CREATED="1440115115640" MODIFIED="1440115115989">
+<node TEXT="rhythm not as difference but fractions" ID="ID_884414408" CREATED="1434758770851" MODIFIED="1440115097564">
+<node ID="ID_1710149542" CREATED="1440115097942" MODIFIED="1440115097942"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      each repg duration from start
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">
 <node TEXT="= &gt; infer" ID="ID_1016200156" CREATED="1425363866048" MODIFIED="1425363871854"/>

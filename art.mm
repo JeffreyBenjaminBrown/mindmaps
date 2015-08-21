@@ -872,6 +872,84 @@
 <node TEXT="recordings : speed to optimize ingestion" ID="ID_179284204" CREATED="1439452484294" MODIFIED="1439452511170">
 <node TEXT="faster the soundcloud transfer - speed every passage to what is optimal (even sometimes slower) for cogv traffic" ID="ID_1223568642" CREATED="1439429607511" MODIFIED="1439429658496"/>
 </node>
+<node TEXT="s&amp;t 2015 08 20, writ 02 01 - 08 08" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1744262022" CREATED="1440117057705" MODIFIED="1440117235851"/>
+<node TEXT="~ info|rep / cyc rep" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1298917193" CREATED="1440117246377" MODIFIED="1440117256695"/>
+<node TEXT="multitrack / review" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1718644415" CREATED="1440115765592" MODIFIED="1440115832530">
+<node TEXT="review is always for multitrack" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_633801435" CREATED="1440115704168" MODIFIED="1440115755857">
+<node TEXT="in music, performance review is always for multitrack" ID="ID_542364924" CREATED="1440115726968" MODIFIED="1440115737505"/>
+</node>
+</node>
+<node TEXT="improv" ID="ID_1446177237" CREATED="1440116625121" MODIFIED="1440116628512">
+<node TEXT="see my time awareness" ID="ID_377150426" CREATED="1440116647297" MODIFIED="1440116650566"/>
+<node TEXT="global curve ? try" ID="ID_335862805" CREATED="1440116595385" MODIFIED="1440116636639">
+<node TEXT="global to the performance" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1717863490" CREATED="1440116601865" MODIFIED="1440116609654"/>
+<node TEXT="was" ID="ID_324498892" CREATED="1440116613537" MODIFIED="1440116613886">
+<node TEXT="cog habit: each time I play, just one global energy curve, with a single peak. keep a clock visible to pace it." ID="ID_110877427" CREATED="1422604624875" MODIFIED="1422647686593"/>
+</node>
+</node>
+<node TEXT="-&gt; internalized &amp; reminders" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1357506504" CREATED="1440116714488" MODIFIED="1440116732010">
+<node TEXT="hands share a voice" ID="ID_621200625" CREATED="1440116707544" MODIFIED="1440116711614"/>
+<node TEXT="option to hold" ID="ID_1619629471" CREATED="1440116780057" MODIFIED="1440116813225">
+<node ID="ID_1061204537" CREATED="1440116810593" MODIFIED="1440116810593"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      infreq striker espj has
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="usually the left hand is striking less freq" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_398367462" CREATED="1440116815401" MODIFIED="1440116821410"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="timbre - prog" ID="ID_753638834" CREATED="1440116154472" MODIFIED="1440116162481">
+<node TEXT="- prog ~$ feas" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_406990059" CREATED="1440116173560" MODIFIED="1440116182156"/>
+<node TEXT="close to fret sounds~ close to mic" ID="ID_22000898" CREATED="1440116127952" MODIFIED="1440116142409">
+<node TEXT="pluck closer to fret (or other if possible) sounds closer to mic" ID="ID_506474434" CREATED="1423286944538" MODIFIED="1423286954965"/>
+</node>
+<node TEXT="sample vocabulary for _ aud" LOCALIZED_STYLE_REF="default" ID="ID_726817511" CREATED="1423209615267" MODIFIED="1440116491555">
+<node TEXT="for hippie aud" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1317566391" CREATED="1440116468152" MODIFIED="1440116473130"/>
+<node TEXT="bells" ID="ID_1518949999" CREATED="1423209624290" MODIFIED="1423209626008">
+<node TEXT="little jingly ones, like a veil moved aside" ID="ID_668885867" CREATED="1423209626995" MODIFIED="1423209633622"/>
+<node TEXT="singing" ID="ID_886816264" CREATED="1423212270366" MODIFIED="1423212273587"/>
+<node TEXT="deep" ID="ID_1886015083" CREATED="1423212273838" MODIFIED="1423212274603"/>
+</node>
+<node TEXT="children" ID="ID_1224356505" CREATED="1423212279255" MODIFIED="1423212280443"/>
+<node TEXT="sticks" ID="ID_672263694" CREATED="1423212287622" MODIFIED="1423212288715"/>
+</node>
+</node>
+<node TEXT="multitrack" ID="ID_1870124191" CREATED="1440115532864" MODIFIED="1440115537237">
+<node TEXT="listen" ID="ID_1161860168" CREATED="1440115835144" MODIFIED="1440116029706">
+<node TEXT="relax for it" ID="ID_1350614262" CREATED="1440115619512" MODIFIED="1440115839006">
+<node TEXT="~ ratl relax" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_377346691" CREATED="1440115651207" MODIFIED="1440115653746"/>
+<node TEXT="relax, because review is worth it, because I know the next dub might not be enough without it" ID="ID_382479285" CREATED="1423293082841" MODIFIED="1428441791147"/>
+</node>
+<node TEXT="listen fast for rhythm" ID="ID_1660075574" CREATED="1440116064073" MODIFIED="1440116069678"/>
+<node TEXT="? hear timbre" ID="ID_1460908060" CREATED="1440115999152" MODIFIED="1440116043018">
+<node TEXT="from first during second dub layer I did not recognize the timbral variation I remember experimenting" ID="ID_574622661" CREATED="1423290741494" MODIFIED="1440115986564"/>
+</node>
+</node>
+<node TEXT="transcribe piano root" LOCALIZED_STYLE_REF="default" ID="ID_1875455823" CREATED="1440115515872" MODIFIED="1440115530234">
+<node TEXT="only the root is easy, where transcribing full is not" ID="ID_1340491279" CREATED="1440116322609" MODIFIED="1440116339511"/>
+</node>
+</node>
+<node TEXT="rep &amp; compos" ID="ID_590694819" CREATED="1440114841383" MODIFIED="1440114853229">
+<node TEXT="local langs, build from" LOCALIZED_STYLE_REF="default" ID="ID_574645634" CREATED="1439319856011" MODIFIED="1440114834382">
+<node TEXT="rather than one global language many local languages with brief encodings for things like chords specific to that part of the song" ID="ID_1107574720" CREATED="1439235086658" MODIFIED="1440114811817"/>
+</node>
+</node>
+<node TEXT="free resources" ID="ID_1304305806" CREATED="1440114986976" MODIFIED="1440114996736">
+<node TEXT="free, online" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_91191396" CREATED="1440115002167" MODIFIED="1440115007962"/>
+<node TEXT="sound archive, big academic" ID="ID_1672227424" CREATED="1438969622454" MODIFIED="1440115037529">
+<node TEXT="http://cornelluniversity.tumblr.com/post/40770771576/worlds-largest-natural-sound-archive-now-fully" ID="ID_444617505" CREATED="1438969630045" MODIFIED="1438969630045" LINK="http://cornelluniversity.tumblr.com/post/40770771576/worlds-largest-natural-sound-archive-now-fully"/>
+</node>
+</node>
 </node>
 <node TEXT="rhyme" POSITION="right" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>

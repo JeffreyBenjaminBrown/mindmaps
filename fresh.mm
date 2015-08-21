@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438142620430"><hook NAME="MapStyle" zoom="1.331">
+<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" zoom="1.331">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -56,6 +56,17 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="ways to write less" POSITION="right" ID="ID_983495967" CREATED="1439614807729" MODIFIED="1439614825890">
+<node TEXT="promote problems, questions, actionable; freeze others" ID="ID_902826106" CREATED="1439614708977" MODIFIED="1439614841857">
+<node TEXT="entraining habits for when with people should not qualify -- there&apos;s too much of that to do, if it needs doing I am lost" ID="ID_193732583" CREATED="1439614746593" MODIFIED="1439614771613"/>
+</node>
+<node TEXT="collecting methods for a good goal: not so valuable" ID="ID_552052035" CREATED="1439614636858" MODIFIED="1439614660495">
+<node TEXT="is &lt; accurately valuing the goal" ID="ID_1408616828" CREATED="1439614661345" MODIFIED="1439614684915"/>
+</node>
+<node TEXT="extend and review no plans" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_673977745" CREATED="1439618352357" MODIFIED="1439618365472">
+<node TEXT="not beyond their names" ID="ID_1200999941" CREATED="1439618366173" MODIFIED="1439618373725"/>
+</node>
+</node>
 <node TEXT="2015 07" POSITION="right" ID="ID_1362326605" CREATED="1439585101574" MODIFIED="1439585103364">
 <node TEXT="2015 07 28" LOCALIZED_STYLE_REF="default" ID="ID_111793109" CREATED="1438140298699" MODIFIED="1438142641427">
 <node TEXT="choi" ID="ID_543648003" CREATED="1438141400989" MODIFIED="1438141401677">
@@ -1083,7 +1094,7 @@
 <node TEXT="when quoting comedian, [] inside &quot;&quot; can be aud, so that next &quot;&quot; is different speaker." ID="ID_653195402" CREATED="1439339398353" MODIFIED="1439339411757"/>
 </node>
 </node>
-<node TEXT="12" ID="ID_1859432726" CREATED="1439409663909" MODIFIED="1439409664339">
+<node TEXT="12, 1p" ID="ID_1859432726" CREATED="1439409663909" MODIFIED="1439624160916">
 <node TEXT="find another&apos;s wants and dare them" ID="ID_1742392499" CREATED="1433391394392" MODIFIED="1439409656737"/>
 <node TEXT="surrender to instinct, roles, emotion" LOCALIZED_STYLE_REF="default" ID="ID_452660521" CREATED="1433390025984" MODIFIED="1439409696744"/>
 <node TEXT="act and enjoy, concurrent" LOCALIZED_STYLE_REF="default" ID="ID_1944821808" CREATED="1433390153456" MODIFIED="1439409702632"/>
@@ -1120,7 +1131,7 @@
 </node>
 </node>
 </node>
-<node TEXT="13" LOCALIZED_STYLE_REF="default" ID="ID_1690240043" CREATED="1439499789681" MODIFIED="1439584956976">
+<node TEXT="13, 3p" LOCALIZED_STYLE_REF="default" ID="ID_1690240043" CREATED="1439499789681" MODIFIED="1439624154100">
 <node TEXT="? make someone feel indebted" ID="ID_956456371" CREATED="1439499790801" MODIFIED="1439499795991"/>
 <node TEXT="build motiv in other" ID="ID_1457452244" CREATED="1439499976458" MODIFIED="1439499980000">
 <node TEXT="convince someone their performance is _ and they will perform" ID="ID_1063307645" CREATED="1424072927330" MODIFIED="1439499986609">
@@ -1229,6 +1240,133 @@
 <node TEXT="tell truth, tell time; all you have to do, it&apos;s funny, perfect" ID="ID_1837560603" CREATED="1439534130127" MODIFIED="1439534140452"/>
 <node TEXT="don&apos;t use that [range (pitch sense), vocab] without first working up to it" ID="ID_1487441637" CREATED="1439535014161" MODIFIED="1439535031533">
 <node TEXT="obligation to listener" ID="ID_1568962703" CREATED="1439535032326" MODIFIED="1439535035008"/>
+</node>
+</node>
+<node TEXT="14, 3p" ID="ID_1918133121" CREATED="1439591990093" MODIFIED="1439624142474">
+<node TEXT="reasons for money" ID="ID_572011487" CREATED="1439590373946" MODIFIED="1439590377577">
+<node TEXT="bio" ID="ID_658120777" CREATED="1439590382890" MODIFIED="1439590443029">
+<node TEXT="food" ID="ID_368907067" CREATED="1439590443586" MODIFIED="1439590444162"/>
+<node TEXT="medical" ID="ID_327071342" CREATED="1439590444386" MODIFIED="1439590445439"/>
+</node>
+<node TEXT="rent" ID="ID_990505382" CREATED="1439590390074" MODIFIED="1439590390768"/>
+<node TEXT="travel" ID="ID_347402600" CREATED="1439590390986" MODIFIED="1439590391759">
+<node TEXT="repair car" ID="ID_1401829144" CREATED="1439590408282" MODIFIED="1439590409583"/>
+</node>
+<node TEXT="soc fun" ID="ID_297247899" CREATED="1439590413666" MODIFIED="1439590434964">
+<node TEXT="food" ID="ID_1607580181" CREATED="1439590419170" MODIFIED="1439590420599"/>
+</node>
+<node TEXT="old age" ID="ID_274453843" CREATED="1439590449554" MODIFIED="1439590451127"/>
+</node>
+<node TEXT="maybe &amp; choi" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_463105647" CREATED="1439591744651" MODIFIED="1439591983866">
+<node TEXT="move not computers. move people." ID="ID_1046203071" CREATED="1439591706787" MODIFIED="1439591710626">
+<node TEXT="move individuals, more specifically than &quot;give them all power&quot; (as dwt would do)" ID="ID_890989751" CREATED="1439591711838" MODIFIED="1439591729881"/>
+</node>
+</node>
+<node TEXT="face raster-distorting across generations" ID="ID_1714588078" CREATED="1439592483268" MODIFIED="1439592544872">
+<node TEXT="as a tv does, the left stuttering in from the right" ID="ID_1073374953" CREATED="1439592512308" MODIFIED="1439592527596"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1069641148" CREATED="1439592545365" MODIFIED="1439592548729"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      big tron-face
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="louis ck usefully explains when he considers a woman an adult. one could usefully do similar for men, and as easily by ridicuing the early as by explaining maturity" ID="ID_1694641564" CREATED="1439593345630" MODIFIED="1439593389821"/>
+<node TEXT="&quot;perfect ... to me&quot;" ID="ID_589976374" CREATED="1439594050494" MODIFIED="1439594055485">
+<node TEXT="--pink" ID="ID_1383076263" CREATED="1439594056054" MODIFIED="1439594057260"/>
+</node>
+<node TEXT="makeup ~ art" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_554113774" CREATED="1439594181126" MODIFIED="1439594188066">
+<node TEXT="both internal to something, ?oft indirect engagement" ID="ID_695408664" CREATED="1439594194230" MODIFIED="1439594230489"/>
+</node>
+<node TEXT="not exactly that you caused it, ?heralded, but you reminded ?god" ID="ID_1080103010" CREATED="1439594509990" MODIFIED="1439594560357"/>
+<node TEXT="to think one wants better, higher than one does" ID="ID_972241257" CREATED="1439595213159" MODIFIED="1439595224318"/>
+<node TEXT="a coherence principle : rather than find contradictions in someone&apos;s actions, find one ?project they prosecute" ID="ID_1976214847" CREATED="1439595620807" MODIFIED="1439595655294">
+<node TEXT="actions including words" ID="ID_1687008391" CREATED="1439595657559" MODIFIED="1439595661606"/>
+</node>
+<node TEXT="laziness for interpretation, don&apos;t parse at all until sentence complete" ID="ID_1908904364" CREATED="1439595812255" MODIFIED="1439595822686"/>
+<node TEXT="pets understood the tv a liar, ignored it; I, fooled, thought I was smarter" ID="ID_1949905899" CREATED="1439600208868" MODIFIED="1439600223538"/>
+<node TEXT="Cats I suspect torture (by accident?) for education. Rather than kill the mouse, a rare study opportunity, keep it, play with it, battering to retain it when it attempts escape" ID="ID_1615197249" CREATED="1439600686868" MODIFIED="1439600737219"/>
+<node TEXT="mus" ID="ID_402744078" CREATED="1439595360551" MODIFIED="1439595362158">
+<node TEXT="12 7 12&#xa;11 7 11&#xa;10 7 10 etc" ID="ID_1077037463" CREATED="1439595364087" MODIFIED="1439595380757">
+<node TEXT="serial, space and newline same cons operation" ID="ID_1028204266" CREATED="1439595400175" MODIFIED="1439595426534"/>
+</node>
+</node>
+<node TEXT="if they slept and hid it whenever you weren&apos;t looking" ID="ID_505548203" CREATED="1439593168846" MODIFIED="1439593175396">
+<node TEXT="uniquely you could write it for yourself, and likely (e.g. if it is false) uniquely understand it" ID="ID_1190287657" CREATED="1439593212861" MODIFIED="1439593230742"/>
+</node>
+<node TEXT="&quot;that&apos;s not breaking a contract, just bounded memory&quot;" ID="ID_95391208" CREATED="1439607190794" MODIFIED="1439607204017"/>
+<node TEXT="bricklike, parts of things :frowny faces" ID="ID_1411068953" CREATED="1439607580074" MODIFIED="1439607588281"/>
+<node TEXT="think about if for long enough and it will feel appropriate" ID="ID_668052940" CREATED="1439607676138" MODIFIED="1439607682953">
+<node TEXT="and you don&apos;t have to" ID="ID_32131716" CREATED="1439607684482" MODIFIED="1439607687057"/>
+</node>
+<node TEXT="existential terror ~ &quot;I&apos;m not sure I should|will exist|persist (to others).&quot;" ID="ID_22619014" CREATED="1439608034387" MODIFIED="1439608050410"/>
+<node TEXT="remember: action movies: stupid" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_478507809" CREATED="1439612608567" MODIFIED="1439614881544">
+<node TEXT="2015 08 14, I watch Tron 2010 for 96 minutes." ID="ID_1043546756" CREATED="1439612704735" MODIFIED="1439612803281"/>
+<node TEXT="This is all I wrote." ID="ID_1624614697" CREATED="1439612803575" MODIFIED="1439612809342">
+<font BOLD="true"/>
+<node TEXT="&quot;I won! Now let me out!&quot;" ID="ID_1331115857" CREATED="1439608422795" MODIFIED="1439608427474"/>
+<node TEXT="sort [problems] into solve and play" ID="ID_1165461637" CREATED="1439608684563" MODIFIED="1439612508297">
+<node TEXT="tron: rectify and games" ID="ID_995957234" CREATED="1439608696379" MODIFIED="1439608702674"/>
+<node TEXT="other and art" ID="ID_1865501723" CREATED="1439612497255" MODIFIED="1439612498821"/>
+</node>
+<node TEXT="patient v. aggressive" ID="ID_272034260" CREATED="1439609674316" MODIFIED="1439609677235"/>
+<node TEXT="deeply both naive and wise" ID="ID_1303884971" CREATED="1439609936869" MODIFIED="1439609942107">
+<node TEXT="simulations" ID="ID_1532275116" CREATED="1439609947909" MODIFIED="1439609949379"/>
+</node>
+<node TEXT="who equate chaos with good" ID="ID_1943085762" CREATED="1439610765733" MODIFIED="1439610771159"/>
+<node TEXT="&quot;yes but he cannot create, only destroy&quot;" ID="ID_1729132347" CREATED="1439612204767" MODIFIED="1439612213341"/>
+</node>
+<node TEXT="I had imagined, hoped I would see some kind of important grappling with the nature of technology, humanity and their intersection." ID="ID_1640168422" CREATED="1439612688992" MODIFIED="1439612727025"/>
+<node TEXT="Instead I got a lot of fighting, a romance story, almost zero character." ID="ID_793212145" CREATED="1439612727327" MODIFIED="1439612761774"/>
+</node>
+<node TEXT="&quot;I won! Now let me out!&quot;" ID="ID_127697985" CREATED="1439608422795" MODIFIED="1439608427474"/>
+<node TEXT="sort [problems] into solve and play" ID="ID_1796021131" CREATED="1439608684563" MODIFIED="1439612508297">
+<node TEXT="tron: rectify and games" ID="ID_146775828" CREATED="1439608696379" MODIFIED="1439608702674"/>
+<node TEXT="other and art" ID="ID_1202075914" CREATED="1439612497255" MODIFIED="1439612498821"/>
+</node>
+<node TEXT="patient v. aggressive" ID="ID_753861926" CREATED="1439609674316" MODIFIED="1439609677235"/>
+<node TEXT="deeply both naive and wise" ID="ID_1442666016" CREATED="1439609936869" MODIFIED="1439609942107">
+<node TEXT="simulations" ID="ID_216659346" CREATED="1439609947909" MODIFIED="1439609949379"/>
+</node>
+<node TEXT="who equate chaos with good" ID="ID_1903901852" CREATED="1439610765733" MODIFIED="1439610771159"/>
+<node TEXT="&quot;yes but he cannot create, only destroy&quot;" ID="ID_614160380" CREATED="1439612204767" MODIFIED="1439612213341"/>
+<node TEXT="death &amp; soc" ID="ID_1597681195" CREATED="1439616416634" MODIFIED="1439616489784">
+<node TEXT="we each experience the death of _ differently" ID="ID_1126972831" CREATED="1439616434115" MODIFIED="1439616446418"/>
+<node TEXT="we each construct a different death concept" ID="ID_1668179933" CREATED="1439616447667" MODIFIED="1439616458238"/>
+</node>
+<node TEXT="act blind to the ending you know" ID="ID_58771068" CREATED="1439616795859" MODIFIED="1439616802450"/>
+<node TEXT="best &amp; painful: I never believe" ID="ID_577295032" CREATED="1439617351060" MODIFIED="1439617358748">
+<node TEXT="if I find a strategy and wonder if it might be that, I discvard it" ID="ID_243089517" CREATED="1439617359547" MODIFIED="1439617389939"/>
+</node>
+<node TEXT="the uses|aids subgraph is surely beautiful" ID="ID_689794970" CREATED="1439618191301" MODIFIED="1439618215892"/>
+<node TEXT="be the top of bottomless recursive data" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_608319327" CREATED="1439618261125" MODIFIED="1439618270712"/>
+<node TEXT="entertainment ! learning" ID="ID_368607001" CREATED="1439619844342" MODIFIED="1439619858641">
+<node TEXT="do not rely on entertainment for learning" ID="ID_1474636891" CREATED="1439619859421" MODIFIED="1439619864317"/>
+<node TEXT="do not expect the learning from entertainment to be as time-dense as other learning" ID="ID_1695452696" CREATED="1439619874062" MODIFIED="1439619904993"/>
+</node>
+<node TEXT="feel stupid @ incoherent" ID="ID_639180810" CREATED="1439620634921" MODIFIED="1439620638776">
+<node TEXT="contradictory programs in oneself" ID="ID_1921611875" CREATED="1439620639620" MODIFIED="1439624047142"/>
+<node TEXT="so much converge at dwt -- service, survival, underst, fun -- and I can&apos;t move on it" ID="ID_1953569823" CREATED="1439620649096" MODIFIED="1439620690544"/>
+</node>
+<node TEXT="there is no internal oppor" ID="ID_109350397" CREATED="1439620843191" MODIFIED="1439620846771">
+<node TEXT="\here \now \outside" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1279363674" CREATED="1439620847327" MODIFIED="1439620859348"/>
+</node>
+</node>
+<node TEXT="15" ID="ID_1876236692" CREATED="1439718412828" MODIFIED="1439718413568">
+<node TEXT="fun lately|reliably" ID="ID_336199103" CREATED="1439718414108" MODIFIED="1439719544777">
+<node TEXT="poker" ID="ID_971516173" CREATED="1439718417444" MODIFIED="1439718418288"/>
+<node TEXT="haskell" ID="ID_1863163882" CREATED="1439718420884" MODIFIED="1439718422042"/>
+<node TEXT="comedy" ID="ID_1703541447" CREATED="1439718445444" MODIFIED="1439718446930"/>
+<node TEXT="statistics, math" ID="ID_126695141" CREATED="1439719546109" MODIFIED="1439719551955"/>
 </node>
 </node>
 </node>

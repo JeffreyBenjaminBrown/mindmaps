@@ -8735,26 +8735,6 @@
 </node>
 <node TEXT="domains" ID="ID_609941764" CREATED="1430982724603" MODIFIED="1430982735743">
 <font BOLD="true"/>
-<node TEXT="parsing" ID="ID_1186718235" CREATED="1415041624700" MODIFIED="1415041625696">
-<node TEXT="Parsec ? the favorite" ID="ID_1257827121" CREATED="1415041622180" MODIFIED="1430982540445"/>
-<node TEXT="hackage" ID="ID_610823918" CREATED="1430982546939" MODIFIED="1430982547847">
-<node TEXT="http://hackage.haskell.org/packages/#cat:Parser" ID="ID_1645512505" CREATED="1415040470248" MODIFIED="1415040470248" LINK="http://hackage.haskell.org/packages/#cat:Parser"/>
-<node TEXT="http://hackage.haskell.org/packages/#cat:Parsers" ID="ID_572128165" CREATED="1415040470248" MODIFIED="1415040470248" LINK="http://hackage.haskell.org/packages/#cat:Parsers"/>
-<node TEXT="http://hackage.haskell.org/packages/#cat:Parsing" ID="ID_512213687" CREATED="1415040470249" MODIFIED="1415040470249" LINK="http://hackage.haskell.org/packages/#cat:Parsing"/>
-</node>
-<node TEXT="a parser tutorial, using Parsec" ID="ID_1585622658" CREATED="1415127595726" MODIFIED="1415127601713">
-<node TEXT="https://github.com/JakeWheat/intro_to_parsing" ID="ID_1940150801" CREATED="1415127602074" MODIFIED="1415127602074" LINK="https://github.com/JakeWheat/intro_to_parsing"/>
-</node>
-<node TEXT="the course (by Yorgey) recommended here" ID="ID_47052596" CREATED="1430982934200" MODIFIED="1430982949949">
-<node TEXT="https://github.com/bitemyapp/learnhaskell" ID="ID_1995858405" CREATED="1415127753889" MODIFIED="1415127753889" LINK="https://github.com/bitemyapp/learnhaskell"/>
-</node>
-<node TEXT="how to write a parser" LOCALIZED_STYLE_REF="default" ID="ID_35744052" CREATED="1423178035997" MODIFIED="1430983082189">
-<node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_139742932" CREATED="1423178039344" MODIFIED="1423178039344" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
-</node>
-<node TEXT="** &quot;parsers are easy&quot;" ID="ID_989484578" CREATED="1418326790788" MODIFIED="1418326794655">
-<node TEXT="http://nikita-volkov.github.io/a-taste-of-state-parsers-are-easy/" ID="ID_649789136" CREATED="1418326794934" MODIFIED="1418326794934" LINK="http://nikita-volkov.github.io/a-taste-of-state-parsers-are-easy/"/>
-</node>
-</node>
 <node TEXT="DSLs &amp; multimedia" ID="ID_1181639837" CREATED="1413395029125" MODIFIED="1430982598471">
 <node TEXT="&quot;The Haskell School of Expression&quot;" ID="ID_326237111" CREATED="1413395040149" MODIFIED="1413395045318"/>
 </node>
@@ -8961,7 +8941,7 @@
 </node>
 <node TEXT="s^2" ID="ID_406464866" CREATED="1418932818453" MODIFIED="1420563506244">
 <font BOLD="true"/>
-<node TEXT="lang" ID="ID_246408079" CREATED="1418939712143" MODIFIED="1422085897478">
+<node TEXT="core? lang" ID="ID_246408079" CREATED="1418939712143" MODIFIED="1439718162030">
 <font BOLD="true"/>
 <node TEXT="pitfalls" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_631467321" CREATED="1430546940772" MODIFIED="1430546946158">
 <node TEXT="let: two kinds" LOCALIZED_STYLE_REF="default" ID="ID_524153911" CREATED="1430469435773" MODIFIED="1430546949158">
@@ -12759,7 +12739,7 @@
 </node>
 </node>
 </node>
-<node TEXT="exts" ID="ID_825433900" CREATED="1422085846968" MODIFIED="1423734029266">
+<node TEXT="modules" ID="ID_825433900" CREATED="1422085846968" MODIFIED="1439718155215">
 <font BOLD="true"/>
 <node TEXT="making and using" LOCALIZED_STYLE_REF="default" ID="ID_1225992010" CREATED="1412752262396" MODIFIED="1422665843194">
 <font BOLD="true"/>
@@ -14206,6 +14186,30 @@
 </node>
 </node>
 </node>
+<node TEXT="parse" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1423884848" CREATED="1439717650923" MODIFIED="1439717981839">
+<node TEXT="refs" ID="ID_1186718235" CREATED="1415041624700" MODIFIED="1439717774314">
+<node TEXT="Parsec ? the favorite" ID="ID_1257827121" CREATED="1415041622180" MODIFIED="1430982540445"/>
+<node TEXT="Parsec&apos;s github readme collects learning materials" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_598679762" CREATED="1439753550417" MODIFIED="1439753562091">
+<node TEXT="https://github.com/aslatter/parsec" ID="ID_221565135" CREATED="1439753562588" MODIFIED="1439753562588" LINK="https://github.com/aslatter/parsec"/>
+</node>
+<node TEXT="hackage" ID="ID_610823918" CREATED="1430982546939" MODIFIED="1430982547847">
+<node TEXT="http://hackage.haskell.org/packages/#cat:Parser" ID="ID_1645512505" CREATED="1415040470248" MODIFIED="1415040470248" LINK="http://hackage.haskell.org/packages/#cat:Parser"/>
+<node TEXT="http://hackage.haskell.org/packages/#cat:Parsers" ID="ID_572128165" CREATED="1415040470248" MODIFIED="1415040470248" LINK="http://hackage.haskell.org/packages/#cat:Parsers"/>
+<node TEXT="http://hackage.haskell.org/packages/#cat:Parsing" ID="ID_512213687" CREATED="1415040470249" MODIFIED="1415040470249" LINK="http://hackage.haskell.org/packages/#cat:Parsing"/>
+</node>
+<node TEXT="a parser tutorial, using Parsec" ID="ID_1585622658" CREATED="1415127595726" MODIFIED="1415127601713">
+<node TEXT="https://github.com/JakeWheat/intro_to_parsing" ID="ID_1940150801" CREATED="1415127602074" MODIFIED="1415127602074" LINK="https://github.com/JakeWheat/intro_to_parsing"/>
+</node>
+<node TEXT="the course (by Yorgey) recommended here" ID="ID_47052596" CREATED="1430982934200" MODIFIED="1430982949949">
+<node TEXT="https://github.com/bitemyapp/learnhaskell" ID="ID_1995858405" CREATED="1415127753889" MODIFIED="1415127753889" LINK="https://github.com/bitemyapp/learnhaskell"/>
+</node>
+<node TEXT="how to write a parser" LOCALIZED_STYLE_REF="default" ID="ID_35744052" CREATED="1423178035997" MODIFIED="1430983082189">
+<node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_139742932" CREATED="1423178039344" MODIFIED="1423178039344" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
+</node>
+<node TEXT="** &quot;parsers are easy&quot;" ID="ID_989484578" CREATED="1418326790788" MODIFIED="1418326794655">
+<node TEXT="http://nikita-volkov.github.io/a-taste-of-state-parsers-are-easy/" ID="ID_649789136" CREATED="1418326794934" MODIFIED="1418326794934" LINK="http://nikita-volkov.github.io/a-taste-of-state-parsers-are-easy/"/>
+</node>
+</node>
 <node TEXT="Parsec" ID="ID_1873737081" CREATED="1426272259571" MODIFIED="1427780398467">
 <font BOLD="false"/>
 <node TEXT="where I left off reading" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_145878924" CREATED="1426275410677" MODIFIED="1426275414977">
@@ -14266,6 +14270,10 @@
 </node>
 <node TEXT="add error message" ID="ID_1164216513" CREATED="1426273246259" MODIFIED="1426273248849">
 <node TEXT="eol =   try (string &quot;\n\r&quot;)&#xa;    &lt;|&gt; try (string &quot;\r\n&quot;)&#xa;    &lt;|&gt; string &quot;\n&quot;&#xa;    &lt;|&gt; string &quot;\r&quot;&#xa;    &lt;?&gt; &quot;end of line&quot;" ID="ID_489587635" CREATED="1426273249403" MODIFIED="1426273250545"/>
+</node>
+</node>
+<node TEXT="? can I use text.parsec.indent to get halfway" ID="ID_249741361" CREATED="1427785211316" MODIFIED="1427785231280">
+<node TEXT="to turn it into parens" ID="ID_1755061042" CREATED="1427785233877" MODIFIED="1427785238747"/>
 </node>
 </node>
 <node TEXT="graph" ID="ID_1389264960" CREATED="1422081765481" MODIFIED="1427780398463">
@@ -16479,6 +16487,9 @@
 </node>
 </node>
 </node>
+<node TEXT="Hackage lists reverse dependencies" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_202183884" CREATED="1439753605857" MODIFIED="1439753618441">
+<node TEXT="http://packdeps.haskellers.com/reverse/fgl" ID="ID_21824578" CREATED="1439753618869" MODIFIED="1439753618869" LINK="http://packdeps.haskellers.com/reverse/fgl"/>
+</node>
 </node>
 <node TEXT="Json" POSITION="right" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
 <font BOLD="true"/>
@@ -16502,6 +16513,804 @@
 </node>
 <node TEXT="backslash to escape" ID="ID_1520934767" CREATED="1431552975364" MODIFIED="1431552984303"/>
 <node TEXT="no comments" ID="ID_1093200840" CREATED="1431552845294" MODIFIED="1431552847114"/>
+</node>
+<node TEXT="Emacs" POSITION="right" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
+<node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
+<node TEXT="adaptive-wrap" ID="ID_1954328534" CREATED="1414896271280" MODIFIED="1423720302098">
+<node TEXT="http://www.emacswiki.org/emacs/LineWrap" ID="ID_682156282" CREATED="1414896275870" MODIFIED="1414896275870" LINK="http://www.emacswiki.org/emacs/LineWrap"/>
+<node TEXT="I installed it from within Emacs (was easy, mouse-driven)." ID="ID_145084558" CREATED="1414896538206" MODIFIED="1414896550145"/>
+<node TEXT="But how to load it?" ID="ID_358696982" CREATED="1414896550374" MODIFIED="1414896560045"/>
+</node>
+<node TEXT="arrowish commands for next, prev brace" ID="ID_330740217" CREATED="1413953535170" MODIFIED="1413953542788">
+<node TEXT="similar to freeplane&apos;s choice set" ID="ID_852595064" CREATED="1413953549784" MODIFIED="1413953554867"/>
+</node>
+</node>
+<node TEXT="cho" ID="ID_1608103480" CREATED="1414615440684" MODIFIED="1414615460983">
+<node TEXT="want unjustified: swap cmd-ctrl" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1712404391" CREATED="1419494544970" MODIFIED="1419494558933">
+<node TEXT="exten" ID="ID_1906301056" CREATED="1419494559682" MODIFIED="1419494594924">
+<node TEXT="to be able to code without external keyboard" ID="ID_1155465980" CREATED="1419494527339" MODIFIED="1419494566253"/>
+<node TEXT="which I currently almost never need" ID="ID_691465942" CREATED="1419494566449" MODIFIED="1419494580405"/>
+</node>
+<node TEXT="why" ID="ID_110061334" CREATED="1419494589609" MODIFIED="1419494590852">
+<node TEXT="for emacs, because it recog&apos;s only ctrl and opt" ID="ID_407232660" CREATED="1419494604529" MODIFIED="1419494617868"/>
+</node>
+</node>
+<node TEXT="topics" ID="ID_1456818660" CREATED="1414182576133" MODIFIED="1414615490856">
+<node TEXT="scripting" ID="ID_1841728301" CREATED="1414615907892" MODIFIED="1414615910959">
+<node TEXT="the definitive text" ID="ID_1683670183" CREATED="1414615943803" MODIFIED="1414615951247">
+<node TEXT="https://www.gnu.org/software/emacs/manual/eintr.html" ID="ID_1804784429" CREATED="1414615933092" MODIFIED="1414615933092" LINK="https://www.gnu.org/software/emacs/manual/eintr.html"/>
+</node>
+</node>
+<node TEXT="others" ID="ID_1693916152" CREATED="1414615911268" MODIFIED="1414615912031">
+<node TEXT="completion" ID="ID_217725429" CREATED="1414182595851" MODIFIED="1414182597438"/>
+<node TEXT="dired: &quot;simplifies file handling&quot;" ID="ID_568313016" CREATED="1414182586892" MODIFIED="1414615903271"/>
+</node>
+</node>
+<node TEXT="questions" ID="ID_419950870" CREATED="1414615437997" MODIFIED="1414615439250"/>
+<node TEXT="problems" ID="ID_597120259" CREATED="1414871926190" MODIFIED="1414871927361">
+<node TEXT="later" ID="ID_908782592" CREATED="1414871935670" MODIFIED="1414871936393">
+<node TEXT="swap control for cmd" ID="ID_1908465452" CREATED="1414868359614" MODIFIED="1414871931809">
+<node TEXT="&quot;keyboard customizer for Mac OS&quot;" ID="ID_157599415" CREATED="1414872051700" MODIFIED="1414872057727">
+<node TEXT="https://pqrs.org/osx/karabiner/index.html.en" ID="ID_1746852121" CREATED="1414872050689" MODIFIED="1414872050689" LINK="https://pqrs.org/osx/karabiner/index.html.en"/>
+</node>
+<node TEXT="probably done" ID="ID_465222998" CREATED="1414872065020" MODIFIED="1414872070503">
+<node TEXT="looks like an easy fix, fails" ID="ID_1717720276" CREATED="1414871666971" MODIFIED="1414871675320">
+<node TEXT="http://superuser.com/questions/296243/remap-command-key-in-mac-only-for-emacs" ID="ID_687660565" CREATED="1414868365233" MODIFIED="1414868365233" LINK="http://superuser.com/questions/296243/remap-command-key-in-mac-only-for-emacs"/>
+<node TEXT="(setq mac-command-modifier &apos;control)" ID="ID_1136169727" CREATED="1414871677042" MODIFIED="1414871677042"/>
+<node TEXT="(setq mac-control-modifier &apos;meta)" ID="ID_1947802656" CREATED="1414871677042" MODIFIED="1414871677042"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="how" ID="ID_150098029" CREATED="1414182579556" MODIFIED="1414615465383">
+<node TEXT="** will def look" ID="ID_1612049435" CREATED="1417931177827" MODIFIED="1417931250341">
+<node TEXT="braces nav" ID="ID_1165274416" CREATED="1417931181514" MODIFIED="1417931198817">
+<node TEXT="tags" ID="ID_901530941" CREATED="1417931216690" MODIFIED="1417931217245">
+<node TEXT="parenthesis parentheses brace bracket brackets braces" ID="ID_709720029" CREATED="1417931199658" MODIFIED="1417931216470"/>
+</node>
+<node TEXT="http://stackoverflow.com/questions/9845661/with-emacs-how-to-go-to-the-pairing-balancing-parentheses" ID="ID_1772905006" CREATED="1417931180021" MODIFIED="1417931180021" LINK="http://stackoverflow.com/questions/9845661/with-emacs-how-to-go-to-the-pairing-balancing-parentheses"/>
+</node>
+</node>
+<node TEXT="solved" ID="ID_1416449062" CREATED="1414545959318" MODIFIED="1414891368371">
+<node TEXT="escape shortcut: C[ C[ C[" ID="ID_775501712" CREATED="1414545943118" MODIFIED="1414545952765"/>
+<node TEXT="hide notification screen with Esc" ID="ID_365585346" CREATED="1414545960733" MODIFIED="1414545969659"/>
+</node>
+<node TEXT="files" ID="ID_1527487987" CREATED="1414634492369" MODIFIED="1414634492980">
+<node TEXT="*Messages* = many (most?) messages" ID="ID_275789004" CREATED="1414634493240" MODIFIED="1414634545853">
+<node TEXT="but not debugger ones" ID="ID_464006381" CREATED="1414634547223" MODIFIED="1414634549883"/>
+</node>
+<node TEXT="*Backtrace* = debugger info" ID="ID_805238657" CREATED="1414634573159" MODIFIED="1414634579378"/>
+</node>
+<node TEXT="control" ID="ID_1217004005" CREATED="1414097776940" MODIFIED="1429766767492">
+<font BOLD="true"/>
+<node TEXT="help" ID="ID_1105641939" CREATED="1414182465351" MODIFIED="1414182466618">
+<node TEXT="big variety of commands; notes not taken" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1960029716" CREATED="1414182467919" MODIFIED="1414182486542"/>
+<node TEXT="remember the bottom screen can scroll" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_830709993" CREATED="1414182488108" MODIFIED="1414182495316">
+<node TEXT="the one displaying help results" ID="ID_468423209" CREATED="1414182497044" MODIFIED="1414182500711"/>
+</node>
+</node>
+<node TEXT="execution" ID="ID_1191989762" CREATED="1414101890213" MODIFIED="1414101891328">
+<node TEXT="repeat" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1636950895" CREATED="1414101565114" MODIFIED="1414101732224">
+<node TEXT="precede command with &quot;C-u [number]&quot;" ID="ID_1572370266" CREATED="1414101566482" MODIFIED="1414101587796"/>
+<node TEXT="does not work for all commands" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_974833504" CREATED="1414101670648" MODIFIED="1414101676897"/>
+<node TEXT="good for finding column within line" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1276403433" CREATED="1414101733875" MODIFIED="1414101740595"/>
+</node>
+<node TEXT="execute: Cx Ce" ID="ID_1572793579" CREATED="1414192509573" MODIFIED="1414192515137">
+<node TEXT="executes the s-exp behind the cursor" ID="ID_732037801" CREATED="1414192515437" MODIFIED="1414192526615"/>
+</node>
+<node TEXT="abort (command): C-g" ID="ID_1340237207" CREATED="1414101896348" MODIFIED="1414106122490">
+<node TEXT="alternatives" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_748860709" CREATED="1414101953767" MODIFIED="1414101968696"/>
+<node TEXT="abort execution" ID="ID_1364510836" CREATED="1414101955311" MODIFIED="1414101958791">
+<node TEXT="useful when nonresponsive" ID="ID_365842532" CREATED="1414101933782" MODIFIED="1414101937674"/>
+</node>
+<node TEXT="abort command entry" ID="ID_317644305" CREATED="1414101960013" MODIFIED="1414101962696">
+<node TEXT="to abort half-entered command" ID="ID_818497784" CREATED="1414101937909" MODIFIED="1414101966249"/>
+</node>
+</node>
+<node TEXT="quit (app): Cx-Cc" ID="ID_1774119743" CREATED="1414099952728" MODIFIED="1414106118042">
+<node TEXT="safe: it will prompt for saving unsaved changes" ID="ID_1885333668" CREATED="1414175903627" MODIFIED="1414175912262"/>
+</node>
+<node TEXT="extended commands" ID="ID_485422591" CREATED="1414175814836" MODIFIED="1414175817079">
+<node TEXT="C-x: character extend" ID="ID_1366476884" CREATED="1414175823011" MODIFIED="1414175826686">
+<node TEXT="follow with one character" ID="ID_640715712" CREATED="1414175826899" MODIFIED="1414175830190"/>
+</node>
+<node TEXT="M-x: named command extend" ID="ID_1310846824" CREATED="1414175830939" MODIFIED="1414175837750">
+<node TEXT="followed with a long name" ID="ID_83270195" CREATED="1414175838202" MODIFIED="1414175845055"/>
+</node>
+</node>
+<node TEXT="pause: Cz" ID="ID_956650384" CREATED="1414176128673" MODIFIED="1414176133691">
+<node TEXT="resume with &quot;fg&quot; or &quot;%emacs&quot;" ID="ID_1639635180" CREATED="1414176170656" MODIFIED="1414176180554"/>
+</node>
+<node TEXT="undo/redo" ID="ID_1883672950" CREATED="1414891714922" MODIFIED="1414891716517">
+<node TEXT="undo: C-/" ID="ID_425367128" CREATED="1414105131232" MODIFIED="1414891836288">
+<node TEXT="or C-_, or C-u" ID="ID_650184952" CREATED="1414891836657" MODIFIED="1414891841212"/>
+</node>
+<node TEXT="redo: C-g C-/" ID="ID_1121720514" CREATED="1414891722539" MODIFIED="1414891847231">
+<node TEXT="or C-g C-_" ID="ID_917835198" CREATED="1414891847642" MODIFIED="1414891852891"/>
+<node TEXT="and probably C-g C-u" ID="ID_1257081532" CREATED="1414891853859" MODIFIED="1414891858396"/>
+</node>
+</node>
+</node>
+<node TEXT="contexts" ID="ID_596321277" CREATED="1414100101260" MODIFIED="1414175706524">
+<font BOLD="true"/>
+<node TEXT="I&apos;m inventing that term" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_601569194" CREATED="1414105888694" MODIFIED="1414179646552"/>
+<node TEXT="frame &gt; window" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_73779851" CREATED="1414181552384" MODIFIED="1414181556649"/>
+<node TEXT="within window" ID="ID_363260327" CREATED="1414102295190" MODIFIED="1414106065373">
+<font BOLD="true"/>
+<node TEXT="shift by whole screen" ID="ID_1687427681" CREATED="1414101786718" MODIFIED="1414101793433">
+<node TEXT="next screen: Cv" ID="ID_291067453" CREATED="1414100050824" MODIFIED="1414100059114"/>
+<node TEXT="prev screen: Mv" ID="ID_1730783834" CREATED="1414100103469" MODIFIED="1414100107358"/>
+<node TEXT="exception" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_445486198" CREATED="1414101796261" MODIFIED="1414101801542">
+<node TEXT="if given a numeric argument, they scroll by that many lines, not that many screens" ID="ID_594059627" CREATED="1414101801949" MODIFIED="1414101812503"/>
+</node>
+</node>
+<node TEXT="center at cursor: Cl" ID="ID_1355260173" CREATED="1414100146543" MODIFIED="1414100258715">
+<node TEXT="letter, not number" ID="ID_609847986" CREATED="1414100174659" MODIFIED="1414100179263"/>
+</node>
+<node TEXT="shift relative to cursor: Cl repeatedly" ID="ID_83417285" CREATED="1414100146543" MODIFIED="1414100233003">
+<node TEXT="brings it to center, top, bottom; cycles" ID="ID_1045548991" CREATED="1414100174659" MODIFIED="1414100247611"/>
+</node>
+<node TEXT="close buffer: Cx k" ID="ID_1746108597" CREATED="1414192402335" MODIFIED="1414192416689"/>
+<node TEXT="next, prev parenthetical" ID="ID_984201013" CREATED="1414639577099" MODIFIED="1414639599728">
+<node TEXT="C-M-{n|p}" ID="ID_455778473" CREATED="1414639584616" MODIFIED="1414639591296"/>
+<node TEXT="functions &quot;forward-list&quot; and &quot;backward-list&quot;" ID="ID_930609841" CREATED="1414639634242" MODIFIED="1414639651021"/>
+<node TEXT="skips non-parenthetical sexps" ID="ID_469922410" CREATED="1414639796672" MODIFIED="1414639814609"/>
+<node TEXT="does not leave current paren scope" ID="ID_986491561" CREATED="1414639808504" MODIFIED="1414639827025"/>
+</node>
+<node TEXT="next, prev sexp" ID="ID_1820579138" CREATED="1414639577099" MODIFIED="1414639655100">
+<node TEXT="C-M-{f|b}" ID="ID_57282298" CREATED="1414639584616" MODIFIED="1414639666446"/>
+<node TEXT="functions &quot;forward-sexp&quot; and &quot;backward-sexp&quot;" ID="ID_505433262" CREATED="1414639634242" MODIFIED="1414639674908"/>
+<node TEXT="does not leave current paren scope" ID="ID_822660640" CREATED="1414639808504" MODIFIED="1414639827025"/>
+</node>
+<node TEXT="kill bal&apos;d exp forward" ID="ID_1333058522" CREATED="1414639938293" MODIFIED="1414639945495">
+<node TEXT="C-M-k" ID="ID_1072231032" CREATED="1414639947221" MODIFIED="1414639952791"/>
+<node TEXT="&quot;kill-sexp&quot;" ID="ID_857699711" CREATED="1414639969245" MODIFIED="1414639972135"/>
+</node>
+<node TEXT="put mark at end of sexp" ID="ID_1394591155" CREATED="1414639962985" MODIFIED="1414639983039">
+<node TEXT="C-M-space" ID="ID_411629354" CREATED="1414639977460" MODIFIED="1414639979567"/>
+<node TEXT="&quot;mark-sexp&quot;" ID="ID_581350611" CREATED="1414639974859" MODIFIED="1414639977095"/>
+</node>
+</node>
+<node TEXT="across windows" ID="ID_944905846" CREATED="1414181049870" MODIFIED="1414181542439">
+<font BOLD="true"/>
+<node TEXT="can from a new window view a different buffer" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1302229568" CREATED="1414181429388" MODIFIED="1414181547804"/>
+<node TEXT="split frame: C-x 2" ID="ID_314301140" CREATED="1414181054000" MODIFIED="1414181064889"/>
+<node TEXT="scroll other window: C-M-v" ID="ID_1151670653" CREATED="1414181067621" MODIFIED="1414181550132"/>
+<node TEXT="cursor to other: C-x o" ID="ID_924149796" CREATED="1414181095193" MODIFIED="1414181100732"/>
+</node>
+<node TEXT="files" ID="ID_950351293" CREATED="1414105433316" MODIFIED="1414106139465">
+<font BOLD="true"/>
+<node TEXT="find: C-x C-f" ID="ID_1846001276" CREATED="1414105435571" MODIFIED="1414105442455">
+<node TEXT="does not remove previous files&apos; buffers" ID="ID_241630773" CREATED="1414105590359" MODIFIED="1414105599187"/>
+</node>
+<node TEXT="save this one: C-x C-s" ID="ID_1056432605" CREATED="1414105490042" MODIFIED="1414175713256"/>
+<node TEXT="save some: C-x s" ID="ID_1684864228" CREATED="1414175716643" MODIFIED="1414175720991">
+<node TEXT="it prompts for each buffer with unsaved changes" ID="ID_543656507" CREATED="1414175721620" MODIFIED="1414175772037"/>
+</node>
+<node TEXT="list buffers: C-x C-b" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1804120204" CREATED="1414105621830" MODIFIED="1414105627368"/>
+<node TEXT="choose buffer: C-x b" ID="ID_1468258981" CREATED="1414106142933" MODIFIED="1414106146352"/>
+<node TEXT="recover auto-save: M-x &quot;recover-file&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1598245694" CREATED="1414178505962" MODIFIED="1414178521724">
+<node TEXT="if a crash leads to lost data, open the file (the normal one, not the auto-saved one named #[filename]#), then run this" ID="ID_1384817047" CREATED="1414178523824" MODIFIED="1414178552457"/>
+</node>
+</node>
+<node TEXT="C-x 1: close all other windows" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1039271606" CREATED="1414102313340" MODIFIED="1414106084034">
+<font BOLD="false"/>
+<node TEXT="digit 1, not letter L" ID="ID_1768065779" CREATED="1414102328043" MODIFIED="1414102335982"/>
+</node>
+<node TEXT="modes" ID="ID_1268893225" CREATED="1414179464428" MODIFIED="1414179581055">
+<font BOLD="true"/>
+<node TEXT="major vs. minor ones" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_380765489" CREATED="1414179613303" MODIFIED="1414179641609">
+<node TEXT="major modes are exclsusive, and there is always one" ID="ID_264490751" CREATED="1414179605151" MODIFIED="1414179627883"/>
+<node TEXT="minor ones can coexist, and none needs exist" ID="ID_1605064781" CREATED="1414179617271" MODIFIED="1414179635840"/>
+</node>
+<node TEXT="switch mode: M-x [mode]" ID="ID_1401809899" CREATED="1414179018243" MODIFIED="1414183271180">
+<node TEXT="M-x &quot;fundamental-mode&quot;, etc." ID="ID_667678891" CREATED="1414179120899" MODIFIED="1414179127630"/>
+</node>
+<node TEXT="view mode doc&apos;n" ID="ID_965672204" CREATED="1414179477530" MODIFIED="1414179480646">
+<node TEXT="C-h m" ID="ID_623562502" CREATED="1414179481307" MODIFIED="1414179484765"/>
+</node>
+</node>
+</node>
+<node TEXT="custom" ID="ID_1070564769" CREATED="1414191240927" MODIFIED="1414891378855">
+<node TEXT="after editing, &quot;set&quot; to execute changes" ID="ID_1264393722" CREATED="1414191318840" MODIFIED="1414191340979">
+<node TEXT="Editing the value does not make it take effect right away.  To do that,&#xa;you must &quot;set&quot; the variable by activating the `[State]&apos; button and&#xa;choosing `Set for Current Session&apos;.  Then the variable&apos;s state becomes:" ID="ID_1630045307" CREATED="1414191316809" MODIFIED="1414191317875"/>
+</node>
+<node TEXT="big font" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1969860751" CREATED="1414192494398" MODIFIED="1414192499367">
+<node TEXT="change ~/.emacs" ID="ID_1951816623" CREATED="1414192895155" MODIFIED="1414192901117"/>
+<node TEXT="(set-frame-font &quot;Droid Sans Mono-30&quot; nil t)" ID="ID_1335327000" CREATED="1414192498200" MODIFIED="1414192498200"/>
+</node>
+</node>
+<node TEXT="weird problems" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1521395656" CREATED="1414181903969" MODIFIED="1414182119416">
+<font BOLD="false"/>
+<node TEXT="escaping a &quot;recursive edit mode&quot;" LOCALIZED_STYLE_REF="default" ID="ID_499572559" CREATED="1414181818529" MODIFIED="1414181924408">
+<node TEXT="Sometimes you will get into what is called a &quot;recursive editing&#xa;level&quot;.  This is indicated by square brackets in the mode line,&#xa;surrounding the parentheses around the major mode name.  For&#xa;example, you might see [(Fundamental)] instead of (Fundamental).&#xa;&#xa;To get out of the recursive editing level, type &lt;ESC&gt; &lt;ESC&gt; &lt;ESC&gt;." ID="ID_498712458" CREATED="1414181829456" MODIFIED="1414181830300"/>
+</node>
+<node TEXT="if C-h (get help) fails" ID="ID_134582671" CREATED="1414181915777" MODIFIED="1414181930450">
+<node TEXT="(If C-h does not display a message about help at the bottom of the&#xa;screen, try typing the F1 key or M-x help &lt;Return&gt; instead.)" ID="ID_185675867" CREATED="1414181910305" MODIFIED="1414181910988"/>
+</node>
+</node>
+<node TEXT="text edit" ID="ID_185126868" CREATED="1414102504803" MODIFIED="1414182130767">
+<font BOLD="true"/>
+<node TEXT="can repeat insertion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_998227505" CREATED="1414102819106" MODIFIED="1414102823252"/>
+<node TEXT="delete and kill" ID="ID_847936028" CREATED="1414102507947" MODIFIED="1414104669079">
+<node TEXT="char" ID="ID_921663472" CREATED="1414102875397" MODIFIED="1414102875967">
+<node TEXT="delete prev char: &lt;DEL&gt; (backspace)" ID="ID_105633294" CREATED="1414102844790" MODIFIED="1414102872300"/>
+<node TEXT="delete next char: C-d" ID="ID_1868277967" CREATED="1414102853845" MODIFIED="1414102857552"/>
+</node>
+<node TEXT="word" ID="ID_321133518" CREATED="1414102877067" MODIFIED="1414102877688">
+<node TEXT="exception" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1102736554" CREATED="1414104390226" MODIFIED="1414104392181">
+<node TEXT="when given an argument, these cut (&quot;kill&quot;) rather than delete" ID="ID_399317245" CREATED="1414104392682" MODIFIED="1414104403020"/>
+</node>
+<node TEXT="delete prev word: C-&lt;DEL&gt;" ID="ID_1981134248" CREATED="1414102881866" MODIFIED="1414103137384"/>
+<node TEXT="delete next word: M-d" ID="ID_1734725549" CREATED="1414102893624" MODIFIED="1414102901347"/>
+</node>
+<node TEXT="kill here to end" ID="ID_784817008" CREATED="1414102909823" MODIFIED="1414103933385">
+<node TEXT="here to end of line: C-k" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1968098626" CREATED="1414102915879" MODIFIED="1414104522399">
+<node TEXT="extension" LOCALIZED_STYLE_REF="default" ID="ID_463809267" CREATED="1414104444701" MODIFIED="1414104573450">
+<node TEXT="press a second time to kill the trailing newline" ID="ID_293559393" CREATED="1414104459460" MODIFIED="1414104465862"/>
+</node>
+<node TEXT="exception" ID="ID_1057950865" CREATED="1414104575113" MODIFIED="1414104576196">
+<node TEXT="given a numeric argument N is like pressing it 2N times" ID="ID_961063870" CREATED="1414104576873" MODIFIED="1414104585764"/>
+<node TEXT="so that the newlines disappear, not just the preceding contents." ID="ID_19827372" CREATED="1414104588281" MODIFIED="1414104601154"/>
+</node>
+</node>
+<node TEXT="here to end of sentence: M-k" ID="ID_1637889086" CREATED="1414102923638" MODIFIED="1414103163963"/>
+</node>
+<node TEXT="delete to mark: C-w" ID="ID_1797826085" CREATED="1414103859728" MODIFIED="1414103867812"/>
+</node>
+<node TEXT="yank" ID="ID_1686288709" CREATED="1414104656587" MODIFIED="1414104902257">
+<node TEXT="yank most recent kill: C-y" ID="ID_802629116" CREATED="1414104903166" MODIFIED="1414104940622">
+<node TEXT="inserts everything most recently consecutively killed, not just the most recent" ID="ID_31520775" CREATED="1414104803701" MODIFIED="1414104819855"/>
+</node>
+<node TEXT="replace yank with an earlier kill: M-y*" ID="ID_275935030" CREATED="1414104909171" MODIFIED="1414105044765">
+<node TEXT="can be given positive and negative arguments" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_801309883" CREATED="1414105009682" MODIFIED="1414105020043"/>
+<node TEXT="* following C-y" ID="ID_82803001" CREATED="1414105033032" MODIFIED="1414105036939"/>
+<node TEXT="what it does" ID="ID_1515895196" CREATED="1414105020786" MODIFIED="1414105022213">
+<node TEXT="C-y, then M-y consecutively until the desired yank replaces it" ID="ID_957890253" CREATED="1414104914250" MODIFIED="1414104931133"/>
+<node TEXT="cycles back to the most recent" ID="ID_1641042670" CREATED="1414104967382" MODIFIED="1414104973354"/>
+</node>
+</node>
+</node>
+<node TEXT="set mark: C-&lt;SPC&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_395265152" CREATED="1414103809838" MODIFIED="1414103826960">
+<node TEXT="move cursor therefrom to create highlight" ID="ID_998038025" CREATED="1414103824125" MODIFIED="1414103835399"/>
+</node>
+<node TEXT="add newline after cursor: C-o" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1039062890" CREATED="1414181138302" MODIFIED="1414181157411">
+<font BOLD="false"/>
+</node>
+<node TEXT=". see also &quot;rectangles&quot;" ID="ID_1296285108" CREATED="1414892091747" MODIFIED="1414892095919"/>
+</node>
+<node TEXT="rectangles" ID="ID_1388962674" CREATED="1414891386760" MODIFIED="1414891388027">
+<node TEXT="https://www.gnu.org/software/emacs/manual/html_node/emacs/Rectangles.html" ID="ID_885372613" CREATED="1414892122100" MODIFIED="1414892122100" LINK="https://www.gnu.org/software/emacs/manual/html_node/emacs/Rectangles.html"/>
+<node TEXT="C-x r k:   kill rect" ID="ID_1324814159" CREATED="1414891394863" MODIFIED="1414891475657">
+<node TEXT="also saves it as last killed rectangle" ID="ID_114951669" CREATED="1414891429207" MODIFIED="1414891432834"/>
+</node>
+<node TEXT="C-x r y:   yank rect" ID="ID_1863029609" CREATED="1414891394863" MODIFIED="1414891487065">
+<node TEXT="also saves it as last killed rectangle" ID="ID_1215020717" CREATED="1414891429207" MODIFIED="1414891432834"/>
+</node>
+<node TEXT="C-x r M-w: save as last killed rectangle" ID="ID_1284410716" CREATED="1414891416479" MODIFIED="1414891427874"/>
+<node TEXT="C-x r d:   delete w/o kill-copy" ID="ID_1831225779" CREATED="1414891449757" MODIFIED="1414891471913"/>
+<node TEXT="C-x r o:   insert blanks" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1438252738" CREATED="1414181138302" MODIFIED="1414891517648">
+<font BOLD="false"/>
+</node>
+<node TEXT="C-x r c:   replace with blanks" ID="ID_271353881" CREATED="1414891538893" MODIFIED="1414891546680"/>
+<node TEXT="C-x r t string &lt;RET&gt;" ID="ID_461665821" CREATED="1414892009603" MODIFIED="1414892047539">
+<node ID="ID_808273245" CREATED="1414892047895" MODIFIED="1414892047895"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      replace with string
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="on each line" ID="ID_1429262133" CREATED="1414892021636" MODIFIED="1414892022839"/>
+</node>
+<node TEXT="C-x &lt;space&gt;: highlight as rectangle" ID="ID_169603297" CREATED="1414892073043" MODIFIED="1414892084046"/>
+<node TEXT="M-x string-insert-rectangle &lt;RET&gt; string &lt;RET&gt;" ID="ID_860917634" CREATED="1414892033075" MODIFIED="1414892036111">
+<node TEXT="insert string" ID="ID_621237979" CREATED="1414892047895" MODIFIED="1414892054040"/>
+<node TEXT="on each line" ID="ID_13983847" CREATED="1414892021636" MODIFIED="1414892022839"/>
+</node>
+<node TEXT="M-x delete-whitespace-rectangle" ID="ID_92626320" CREATED="1414891997773" MODIFIED="1414891998216"/>
+</node>
+<node TEXT="search" ID="ID_143832913" CREATED="1414180166557" MODIFIED="1414180167896">
+<node TEXT="tag find tag regexp" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_90582239" CREATED="1414214125281" MODIFIED="1414214147124"/>
+<node TEXT="search" ID="ID_1025709553" CREATED="1414180227216" MODIFIED="1414180229043">
+<node TEXT="C-{s|r}: search {forward | backward}" ID="ID_181034569" CREATED="1414180238911" MODIFIED="1414180260661"/>
+<node TEXT="next: C-s" ID="ID_802955730" CREATED="1414180655121" MODIFIED="1414180670283"/>
+<node TEXT="prev: &lt;DEL&gt;" LOCALIZED_STYLE_REF="default" ID="ID_857348863" CREATED="1414180666928" MODIFIED="1414180679113"/>
+<node TEXT="terminate: &lt;RETURN&gt;" ID="ID_722972716" CREATED="1414180697989" MODIFIED="1414180703648"/>
+<node TEXT="weird, hopefully ignorable" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1575791896" CREATED="1414180802287" MODIFIED="1414180808911">
+<node TEXT="If you are in the middle of an incremental search and type &lt;DEL&gt;, the&#xa;search &quot;retreats&quot; to an earlier location.  If you type &lt;DEL&gt; just&#xa;after you had typed C-s to advance to the next occurrence of a search&#xa;string, the &lt;DEL&gt; moves the cursor back to an earlier occurrence.  If&#xa;there are no earlier occurrences, the &lt;DEL&gt; erases the last character&#xa;in the search string.  For instance, suppose you have typed &quot;c&quot;, to&#xa;search for the first occurrence of &quot;c&quot;.  Now if you type &quot;u&quot;, the&#xa;cursor will move to the first occurrence of &quot;cu&quot;.  Now type &lt;DEL&gt;.&#xa;This erases the &quot;u&quot; from the search string, and the cursor moves back&#xa;to the first occurrence of &quot;c&quot;." ID="ID_1993410016" CREATED="1414180809428" MODIFIED="1414180809954"/>
+</node>
+</node>
+<node TEXT="search + replace" ID="ID_1781092557" CREATED="1414176245086" MODIFIED="1414180231746">
+<node TEXT="M-x &quot;replace-string&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1481645959" CREATED="1414176252893" MODIFIED="1414178416045">
+<node TEXT="seems only to involve what is after the cursor (or the highlight, if there is one)" ID="ID_730054927" CREATED="1414178417826" MODIFIED="1414178431036"/>
+</node>
+</node>
+</node>
+<node TEXT="cursor" ID="ID_195164666" CREATED="1414100800359" MODIFIED="1414100801402">
+<node TEXT="by space or word" ID="ID_1397716444" CREATED="1414101181260" MODIFIED="1414101183357">
+<node TEXT="single space" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_814090988" CREATED="1414100802004" MODIFIED="1414100977706">
+<node TEXT="C-{b,f,p,n}" ID="ID_1095328056" CREATED="1414100809525" MODIFIED="1414100850806"/>
+<node TEXT="back, forward" ID="ID_1642219673" CREATED="1414100817181" MODIFIED="1414100975118"/>
+<node TEXT="uP, dowN = Prev, Next" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1342194659" CREATED="1414100975439" MODIFIED="1414101370182"/>
+</node>
+<node TEXT="whole word: M-{b,f}" ID="ID_1290184061" CREATED="1414101019002" MODIFIED="1414101190318"/>
+</node>
+<node TEXT="by line or sentence" ID="ID_1241057816" CREATED="1414101192153" MODIFIED="1414101194718">
+<node TEXT="C-{a|e}" ID="ID_1877060495" CREATED="1414101233728" MODIFIED="1414101239891"/>
+<node TEXT="M-{a|e}" ID="ID_1096344381" CREATED="1414101240125" MODIFIED="1414101245754"/>
+</node>
+<node TEXT="whole file" ID="ID_1399442982" CREATED="1414101426349" MODIFIED="1414101428290">
+<node TEXT="M-{&lt;|&gt;}" ID="ID_704706878" CREATED="1414101428709" MODIFIED="1414101440873"/>
+</node>
+</node>
+<node TEXT="above: &quot;fundamental mode&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1584800941" CREATED="1414179079768" MODIFIED="1414179136908"/>
+<node TEXT="other modes" ID="ID_89195363" CREATED="1414194069777" MODIFIED="1414194071976">
+<font BOLD="true"/>
+<node TEXT="text (human-readable)" ID="ID_818979378" CREATED="1414179154744" MODIFIED="1414179698066">
+<node TEXT="M-x &quot;text-mode&quot;" ID="ID_470205625" CREATED="1414179161943" MODIFIED="1414179165634"/>
+</node>
+<node TEXT="Haskell-mode" ID="ID_806525581" CREATED="1414194062186" MODIFIED="1414194064693"/>
+<node TEXT="Lisp" ID="ID_284156701" CREATED="1414100088044" MODIFIED="1414179694123">
+<font BOLD="false"/>
+<node TEXT="see Lisp/Emacs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1061766179" CREATED="1414099209842" MODIFIED="1414100091615"/>
+</node>
+<node TEXT="above: major modes; below: minor modes" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1040140529" CREATED="1414179689024" MODIFIED="1414194096898"/>
+<node TEXT="minor modes" ID="ID_1484383015" CREATED="1414179700936" MODIFIED="1414179703087">
+<node TEXT="auto-fill" ID="ID_1454470836" CREATED="1414179682985" MODIFIED="1414179708818">
+<node TEXT="why: to break lines between words" ID="ID_984367776" CREATED="1414179716309" MODIFIED="1414180098839"/>
+<node TEXT="how" ID="ID_380357525" CREATED="1414180092276" MODIFIED="1414180092824">
+<node TEXT="enter: M-x &quot;auto-fill-mode&quot;" ID="ID_758261889" CREATED="1414179727996" MODIFIED="1414180079224"/>
+<node TEXT="re-fill a paragraph: M-q, from within it" ID="ID_1760745301" CREATED="1414180054159" MODIFIED="1414180089839"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="internalized" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1282302055" CREATED="1414182147522" MODIFIED="1414182150427">
+<node TEXT="C = Control, M = alt" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_828133828" CREATED="1414099974406" MODIFIED="1414100096176"/>
+<node TEXT="design principles" LOCALIZED_STYLE_REF="default" ID="ID_891370267" CREATED="1414101114650" MODIFIED="1414103991353">
+<node TEXT="M for word-based operations, C for ones independent of words (e.g. line, column)" ID="ID_1702735032" CREATED="1414101126726" MODIFIED="1414101154384"/>
+</node>
+</node>
+</node>
+<node TEXT="read it" ID="ID_1494798228" CREATED="1414102081060" MODIFIED="1414891372363">
+<node TEXT="announcements" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_232543657" CREATED="1414098320899" MODIFIED="1414102084948">
+<node TEXT="will happen while typing, even absent evaluation" ID="ID_1558509380" CREATED="1414098323348" MODIFIED="1414098333493">
+<node TEXT="e.g. &quot;that is not defined&quot;" ID="ID_631438704" CREATED="1414098333913" MODIFIED="1414098337549"/>
+</node>
+</node>
+<node TEXT="commands" ID="ID_501940332" CREATED="1414102087738" MODIFIED="1414102090405">
+<node TEXT="links in" ID="ID_1344283160" CREATED="1414105398751" MODIFIED="1414105400180"/>
+<node TEXT="are displayed at bottom, in the &quot;minibuffer&quot;, at least if sufficiently complex" ID="ID_110691612" CREATED="1414102090681" MODIFIED="1414105395779"/>
+</node>
+<node TEXT="the mode line" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1484340815" CREATED="1414178626023" MODIFIED="1414178628320">
+<node TEXT="indicates percentage of file above cursor" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_312443279" CREATED="1414178629143" MODIFIED="1414178677996">
+<node TEXT="exceptions" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_302823333" CREATED="1414178678539" MODIFIED="1414178681299"/>
+<node TEXT="If the top of the buffer is on the screen, it will say &quot;Top&quot; instead&#xa;of &quot; 0%&quot;.  If the bottom of the buffer is on the screen, it will say&#xa;&quot;Bot&quot;.  If you are looking at a buffer so small that all of it fits on&#xa;the screen, the mode line says &quot;All&quot;." ID="ID_1216294104" CREATED="1414178696081" MODIFIED="1414178696661"/>
+</node>
+<node TEXT="stars at right edge = &quot;unsaved changes&quot;" ID="ID_1335040161" CREATED="1414178836748" MODIFIED="1414178850302"/>
+</node>
+<node TEXT="&quot;dividing rows&quot;" ID="ID_1667895614" CREATED="1414634419537" MODIFIED="1414634423205">
+<node TEXT=".= a term I am making up" ID="ID_1840581740" CREATED="1414634424602" MODIFIED="1414634429765"/>
+<node TEXT="each describes the window immediately above itself" ID="ID_11019289" CREATED="1414634429961" MODIFIED="1414634440957"/>
+</node>
+</node>
+<node TEXT="vocab" ID="ID_249171786" CREATED="1414101286731" MODIFIED="1414101287422">
+<node TEXT="point = where the cursor is" ID="ID_141686959" CREATED="1414101287635" MODIFIED="1414104039888"/>
+<node TEXT="cut/paste = kill/yank" ID="ID_665375125" CREATED="1414104343526" MODIFIED="1414104349329"/>
+<node TEXT="kill &#x2260; delete" ID="ID_10797762" CREATED="1414103943378" MODIFIED="1414103953558">
+<node TEXT="killed text can be reinserted" ID="ID_1299981340" CREATED="1414103954049" MODIFIED="1414103962492"/>
+<node TEXT="deletions can be undone, though" ID="ID_1843994454" CREATED="1414103965224" MODIFIED="1414103970428"/>
+</node>
+<node TEXT="minibuffer" ID="ID_824562121" CREATED="1414105400601" MODIFIED="1414105403750">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="10" FONT_FAMILY="Ayuthaya" DESTINATION="ID_1344283160" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+</node>
+<node TEXT=".1/2" ID="ID_1653411854" CREATED="1329846883456" MODIFIED="1414634393726">
+<node TEXT="1" ID="ID_1980974601" CREATED="1398300292078" MODIFIED="1398300292312">
+<node TEXT="personal motivation" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1540289002" CREATED="1303318670619" MODIFIED="1398299593269">
+<icon BUILTIN="yes"/>
+<node TEXT="it does folding" ID="ID_23916000" CREATED="1301522215340" MODIFIED="1329505772364">
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
+</node>
+<node TEXT="JEdit eats documents" ID="ID_337531952" CREATED="1301522222892" MODIFIED="1311539389551"/>
+</node>
+<node TEXT="candidates Emacs beats" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1071486470" CREATED="1303318673683" MODIFIED="1398299593266">
+<node TEXT="both of which I also downloaded" ID="ID_1467186989" CREATED="1303318686746" MODIFIED="1337634513113" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
+</node>
+<node TEXT="Komodo" ID="ID_1617747581" CREATED="1303318690050" MODIFIED="1311539389545"/>
+<node TEXT="Eclipse" ID="ID_867151825" CREATED="1303318692098" MODIFIED="1311539389543"/>
+</node>
+<node TEXT="notes" ID="ID_752254746" CREATED="1329852968545" MODIFIED="1414634349854">
+<font BOLD="true"/>
+<node TEXT="notation" ID="ID_782849359" CREATED="1329852970825" MODIFIED="1329852972234" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<node TEXT="C = Ctrl" ID="ID_573652695" CREATED="1329852972577" MODIFIED="1329852994244"/>
+<node TEXT="M = Alt/Opt" ID="ID_297412445" CREATED="1329852975545" MODIFIED="1329852997900"/>
+</node>
+<node TEXT="moving" ID="ID_1592092079" CREATED="1329852952457" MODIFIED="1329852954821">
+<node TEXT="chars: C [b, f]" ID="ID_1842881364" CREATED="1329853323214" MODIFIED="1329861845026">
+<node TEXT="forward/backward" ID="ID_1468996420" CREATED="1329854016585" MODIFIED="1329854016585"/>
+<node TEXT="C-f, C-b" ID="ID_375810875" CREATED="1329853353709" MODIFIED="1329853356769"/>
+</node>
+<node TEXT="words: M [b, f]" ID="ID_444240620" CREATED="1329853564375" MODIFIED="1329861853762">
+<node TEXT="forward/backward" ID="ID_906929500" CREATED="1329854023879" MODIFIED="1329854023879"/>
+<node TEXT="M-f, M-b" ID="ID_651824253" CREATED="1329853573670" MODIFIED="1329853575931"/>
+</node>
+<node TEXT="lines: C [p, n, a, e]" ID="ID_398420409" CREATED="1329853311645" MODIFIED="1329861834267">
+<node TEXT="prev, next" ID="ID_1968880783" CREATED="1329854000696" MODIFIED="1329854006172">
+<node TEXT="C-p, C-n" ID="ID_173047500" CREATED="1329853319342" MODIFIED="1329853322578"/>
+</node>
+<node TEXT="to start or end" ID="ID_44936045" CREATED="1329854041599" MODIFIED="1329854049146">
+<node TEXT="C-a, C-e" ID="ID_431877105" CREATED="1329854050982" MODIFIED="1329854053562"/>
+</node>
+</node>
+<node TEXT="sentences: M [a, e]" ID="ID_464338667" CREATED="1329854025159" MODIFIED="1329861969607">
+<node TEXT="parallels &quot;lines&quot;" ID="ID_376821195" CREATED="1329854070966" MODIFIED="1329854075122"/>
+<node TEXT="M-a, M-e" ID="ID_839782603" CREATED="1329854050982" MODIFIED="1329861990462"/>
+</node>
+<node TEXT="screenfulls: [C, M] v" ID="ID_585347964" CREATED="1329853006272" MODIFIED="1329861895338">
+<node TEXT="less hand movement req&apos;d -- faster than the Page buttons" ID="ID_1129165743" CREATED="1329853210034" MODIFIED="1329853227668" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="C-v" ID="ID_867981893" CREATED="1329852954961" MODIFIED="1329852966284"/>
+<node TEXT="M-v" ID="ID_1455879356" CREATED="1329853010481" MODIFIED="1329853013868"/>
+</node>
+<node TEXT="whole document: M [&lt;. &gt;]" ID="ID_625701182" CREATED="1329854260744" MODIFIED="1329861883049">
+<node TEXT="M-&lt;, M-&gt;" ID="ID_1435798288" CREATED="1329854267536" MODIFIED="1329854280747"/>
+</node>
+<node TEXT="center: C-l" ID="ID_1855049765" CREATED="1329853068110" MODIFIED="1329861908194">
+<node TEXT="(that&apos;s an L, not a 1)" ID="ID_788005247" CREATED="1329853099621" MODIFIED="1329853101638" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="done once" ID="ID_515733051" CREATED="1329853160762" MODIFIED="1329853162254">
+<node TEXT="Clear screen and redisplay all the text, moving the text around the cursor to the center of the screen." ID="ID_1577531589" CREATED="1329853079627" MODIFIED="1329853099086"/>
+</node>
+<node TEXT="done twice" ID="ID_140192019" CREATED="1329853163554" MODIFIED="1329853165070">
+<node TEXT="the cursor and surrounding text are moved to the top of the screen" ID="ID_154183576" CREATED="1329853165274" MODIFIED="1329853180135"/>
+</node>
+</node>
+</node>
+<node TEXT="iterating a command" ID="ID_1428626507" CREATED="1329854414771" MODIFIED="1329854418663">
+<node TEXT="Most Emacs commands accept a numeric argument; for most commands, this&#xa;serves as a repeat-count.  The way you give a command a repeat count&#xa;is by typing C-u and then the digits before you type the command.  If&#xa;you have a META (or EDIT or ALT) key, there is another, alternative way&#xa;to enter a numeric argument: type the digits while holding down the&#xa;META key.  We recommend learning the C-u method because it works on&#xa;any terminal." ID="ID_1635423897" CREATED="1329854420307" MODIFIED="1329854422482"/>
+<node TEXT="For some commands the numerical argument is a boolean flag. In this case its value is ignored; only its presence matters." ID="ID_1484303832" CREATED="1329854793528" MODIFIED="1329854820339"/>
+</node>
+<node TEXT="&quot;abort&quot;?" ID="ID_748017321" CREATED="1329854827639" MODIFIED="1329854877074">
+<node TEXT="C-g" ID="ID_1530102881" CREATED="1329854838998" MODIFIED="1329854840418">
+<node TEXT="multiple uses" ID="ID_1709745935" CREATED="1329854902180" MODIFIED="1329862232468" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="&quot;stop safely&quot; if Emacs freezes" ID="ID_1696258716" CREATED="1329854877607" MODIFIED="1329854907016"/>
+<node TEXT="abort a command being executed" ID="ID_771590974" CREATED="1329854851198" MODIFIED="1329854907944"/>
+<node TEXT="erase a numerical input that was going to be prefixed to a command (see &quot;iterating a command&quot;)" ID="ID_1559365774" CREATED="1329854899540" MODIFIED="1329854940120"/>
+</node>
+<node TEXT="&lt;Esc&gt; 3 times" ID="ID_553228600" CREATED="1329862233059" MODIFIED="1329862237943">
+<node TEXT="different but similar" ID="ID_1164027716" CREATED="1329862241891" MODIFIED="1329862246247"/>
+<node TEXT="useful in particular for escaping a recursive editing window" ID="ID_1131907617" CREATED="1329862278890" MODIFIED="1329862288798">
+<node TEXT="because C-g just cancels commands from within that window" ID="ID_1617021652" CREATED="1329862292953" MODIFIED="1329862304669"/>
+</node>
+</node>
+</node>
+<node TEXT="deleting &amp; killing" ID="ID_1069488053" CREATED="1329855620382" MODIFIED="1329856488072">
+<node TEXT="notes" ID="ID_562399733" CREATED="1329856499204" MODIFIED="1329856986905" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<node TEXT="&quot;deleting&quot; = normal" ID="ID_852168544" CREATED="1329856503148" MODIFIED="1329856511415"/>
+<node TEXT="&quot;killing&quot; = deleting with ability to recall elsewhere" ID="ID_1432805492" CREATED="1329856488996" MODIFIED="1329856498872"/>
+<node TEXT="&quot;Delete&quot; and &quot;Backspace&quot; do the same thing" ID="ID_1282121476" CREATED="1329855622190" MODIFIED="1329856516672"/>
+</node>
+<node TEXT="delete" ID="ID_729326096" CREATED="1329856527563" MODIFIED="1329856529127">
+<node TEXT="these can be changed to kills by adding a numerical argument" ID="ID_1250039222" CREATED="1329856583121" MODIFIED="1329856593457" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="char before cursor" ID="ID_975879826" CREATED="1329856124095" MODIFIED="1329856126947">
+<node TEXT="&lt;Delback&gt;" ID="ID_751890994" CREATED="1329856127199" MODIFIED="1329856158010"/>
+</node>
+<node TEXT="char after cursor" ID="ID_819751994" CREATED="1329856117359" MODIFIED="1329856121123">
+<node TEXT="C-d" ID="ID_45465388" CREATED="1329856121311" MODIFIED="1329856122315"/>
+</node>
+</node>
+<node TEXT="kill" ID="ID_933251588" CREATED="1329856530779" MODIFIED="1329856531815">
+<node TEXT="word before cursor" ID="ID_619543640" CREATED="1329856141111" MODIFIED="1329856145594">
+<node TEXT="M-&lt;Delback&gt;" ID="ID_1437711696" CREATED="1329856145838" MODIFIED="1329856156098"/>
+</node>
+<node TEXT="word after cursor" ID="ID_1166257513" CREATED="1329856161790" MODIFIED="1329856165642">
+<node TEXT="M-d" ID="ID_398311949" CREATED="1329856166398" MODIFIED="1329856167258"/>
+</node>
+<node TEXT="cursor to end of line" ID="ID_1433475683" CREATED="1329856169374" MODIFIED="1329856178249">
+<node TEXT="C-k" ID="ID_389088599" CREATED="1329856180501" MODIFIED="1329856182433"/>
+<node TEXT="a second time deletes the trailing newline" ID="ID_1586734333" CREATED="1329856675222" MODIFIED="1329856693294" COLOR="#996600">
+<icon BUILTIN="password"/>
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
+</node>
+</node>
+<node TEXT="cursor to end of sentence" ID="ID_549522694" CREATED="1329856183357" MODIFIED="1329856189313">
+<node TEXT="M-k" ID="ID_1626636321" CREATED="1329856189581" MODIFIED="1329856190769"/>
+</node>
+<node TEXT="highlight and delete" ID="ID_1566881462" CREATED="1329856368240" MODIFIED="1329856372971">
+<node TEXT="in sequence" ID="ID_854286763" CREATED="1329856388487" MODIFIED="1329856390280" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="C-&lt;Space&gt; to set mark" ID="ID_340229773" CREATED="1329856373151" MODIFIED="1329856380643"/>
+<node TEXT="move cursor to other end" ID="ID_561924004" CREATED="1329856380903" MODIFIED="1329856386027"/>
+<node TEXT="C-w" ID="ID_536189326" CREATED="1329856386255" MODIFIED="1329856387723"/>
+</node>
+</node>
+<node TEXT="yank" ID="ID_381316423" CREATED="1329856789067" MODIFIED="1329856790775">
+<node TEXT="yank: C-y" ID="ID_869617982" CREATED="1329856829594" MODIFIED="1329857076014">
+<node TEXT="insert last killed text at cursor" ID="ID_1822710479" CREATED="1329856891233" MODIFIED="1329856891233"/>
+<node TEXT="if multiple things were killed in series, this replaces all of them" ID="ID_1254229656" CREATED="1329856891664" MODIFIED="1329856903787"/>
+</node>
+<node TEXT="earlier yank: M-y" ID="ID_617008896" CREATED="1329857065002" MODIFIED="1329857095582">
+<node TEXT="to be called after C-y" ID="ID_667294533" CREATED="1329857089746" MODIFIED="1329857098470"/>
+<node TEXT="replaces the yanked text with an earlier kill. can be repeated." ID="ID_329455213" CREATED="1329856966894" MODIFIED="1329857106231"/>
+<node TEXT="do that enough, and the most recent kill will eventually cycle back around" ID="ID_1542104534" CREATED="1329857106529" MODIFIED="1329857106893"/>
+</node>
+</node>
+</node>
+<node TEXT="undo" ID="ID_393811716" CREATED="1329857183183" MODIFIED="1329857184683">
+<node TEXT="C-/" ID="ID_540781744" CREATED="1329857471367" MODIFIED="1329857473131"/>
+<node TEXT="alternatives" ID="ID_1088941205" CREATED="1329857430504" MODIFIED="1329857476762" COLOR="#18898b" STYLE="fork">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
+<node TEXT="C-_" ID="ID_1642460302" CREATED="1329857403673" MODIFIED="1329857405245"/>
+<node TEXT="C-x, u" ID="ID_1742589917" CREATED="1329857185079" MODIFIED="1329857187171">
+<node TEXT="possible on more keyboards" ID="ID_819460778" CREATED="1329857434792" MODIFIED="1329857490922"/>
+</node>
+</node>
+</node>
+<node TEXT="files" ID="ID_734949614" CREATED="1329857961968" MODIFIED="1329857963396">
+<node TEXT="find a file" ID="ID_168474671" CREATED="1329858061005" MODIFIED="1329858064705">
+<node TEXT="C-x C-f" ID="ID_85775964" CREATED="1329858065205" MODIFIED="1329858068825"/>
+<node TEXT="then type filename at prompt" ID="ID_1545079516" CREATED="1329858339933" MODIFIED="1329858351521"/>
+<node TEXT="if file doesn&apos;t yet exist" ID="ID_74904330" CREATED="1329858351764" MODIFIED="1329858368078" COLOR="#cc3300" STYLE="fork">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
+<node TEXT="Emacs will display a blank document to edit" ID="ID_1732599688" CREATED="1329858372948" MODIFIED="1329858387687"/>
+<node TEXT="but the document still won&apos;t exist until saved" ID="ID_1847146199" CREATED="1329858387915" MODIFIED="1329858397975"/>
+</node>
+</node>
+<node TEXT="save current buffer" ID="ID_439876113" CREATED="1329858405227" MODIFIED="1329859028029">
+<node TEXT="C-x C-s" ID="ID_537374336" CREATED="1329858407059" MODIFIED="1329858410327"/>
+</node>
+<node TEXT="save some buffers" ID="ID_1900713619" CREATED="1329859022561" MODIFIED="1329859025813">
+<node TEXT="C-x s" ID="ID_1759868224" CREATED="1329859030993" MODIFIED="1329859032844">
+<node TEXT="no C- before second character" ID="ID_807042009" CREATED="1329859038368" MODIFIED="1329859042940"/>
+</node>
+<node TEXT="will aks about each" ID="ID_1739502420" CREATED="1329859053232" MODIFIED="1329859057156"/>
+</node>
+<node TEXT="list open buffers" ID="ID_238898490" CREATED="1329858504248" MODIFIED="1329858513668">
+<node TEXT="there&apos;s one for each file being edited" ID="ID_339087119" CREATED="1329858514184" MODIFIED="1329858519257" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="C-x C-b" ID="ID_1306385452" CREATED="1329858521480" MODIFIED="1329858524852"/>
+</node>
+<node TEXT="switch buffer" ID="ID_726910201" CREATED="1329858834470" MODIFIED="1329858836170">
+<node TEXT="C-x b" ID="ID_723426164" CREATED="1329858857294" MODIFIED="1329858860186">
+<node TEXT="no C- before second character" ID="ID_841838046" CREATED="1329859038368" MODIFIED="1329859042940"/>
+</node>
+<node TEXT="to go to the default buffer, just press Return" ID="ID_545439288" CREATED="1329858947219" MODIFIED="1329858957567"/>
+</node>
+</node>
+<node TEXT="infrequent commands" ID="ID_1876799762" CREATED="1329859507658" MODIFIED="1329859513286">
+<node TEXT="two kinds" ID="ID_1389783636" CREATED="1329859533602" MODIFIED="1329859538110"/>
+<node TEXT="moderately rare: C-x C-?" ID="ID_700720777" CREATED="1329859513450" MODIFIED="1329859541917">
+<node TEXT="the ? is another character" ID="ID_28191969" CREATED="1329859520194" MODIFIED="1329859524510"/>
+</node>
+<node TEXT="rarest: M-x" ID="ID_1831490260" CREATED="1329859542265" MODIFIED="1329859551469">
+<node TEXT="calls a prompt for the name of the command" ID="ID_722328805" CREATED="1329859547622" MODIFIED="1329859561429"/>
+<node TEXT="use &quot;Tab&quot; to complete a partial name" ID="ID_705278455" CREATED="1329859561649" MODIFIED="1329859567973"/>
+</node>
+</node>
+<node TEXT="autosave" ID="ID_1304384215" CREATED="1329859729268" MODIFIED="1329859733376">
+<node TEXT="saves everything you&apos;re working on, with weird filenames" ID="ID_433664754" CREATED="1329859733580" MODIFIED="1329859748807"/>
+<node TEXT="see tutorial for how to recover them, circa line 712" ID="ID_534818005" CREATED="1329859749052" MODIFIED="1329859956067"/>
+</node>
+<node TEXT="modes" ID="ID_1786667472" CREATED="1329860104953" MODIFIED="1329860106061">
+<node TEXT="major &amp; minor modes" ID="ID_476913836" CREATED="1329860425928" MODIFIED="1329860429252">
+<node TEXT="the idea" ID="ID_409121164" CREATED="1329860433584" MODIFIED="1329860434604">
+<node TEXT="only one major mode at a time" ID="ID_1553798186" CREATED="1329860402928" MODIFIED="1329860412652"/>
+<node TEXT="many minor modes possible at once" ID="ID_323366660" CREATED="1329860412864" MODIFIED="1329860422492"/>
+</node>
+<node TEXT="examples" ID="ID_497694773" CREATED="1329860436256" MODIFIED="1329860437307">
+<node TEXT="major" ID="ID_1666933691" CREATED="1329860388281" MODIFIED="1329860391133">
+<node TEXT="Fundamental" ID="ID_905956420" CREATED="1329860115313" MODIFIED="1329860116725"/>
+<node TEXT="Text" ID="ID_552659567" CREATED="1329860116937" MODIFIED="1329860117717"/>
+<node TEXT="Lisp" ID="ID_156304011" CREATED="1329860117961" MODIFIED="1329860119157"/>
+</node>
+<node TEXT="minor" ID="ID_544244728" CREATED="1329860400993" MODIFIED="1329860401900">
+<node TEXT="auto-fill" ID="ID_1677227889" CREATED="1329860440951" MODIFIED="1329860442723">
+<node TEXT="makes text wrap between words" ID="ID_321466453" CREATED="1329860456055" MODIFIED="1329860464955"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="to change" ID="ID_352356579" CREATED="1329860123065" MODIFIED="1329860124805">
+<node TEXT="M-x text-mode" ID="ID_455461728" CREATED="1329860125817" MODIFIED="1329860128700"/>
+</node>
+<node TEXT="to view documentation" ID="ID_792459917" CREATED="1329860192870" MODIFIED="1329860196402">
+<node TEXT="C-h m" ID="ID_1038610099" CREATED="1329860196646" MODIFIED="1329860198218"/>
+</node>
+</node>
+<node TEXT="search" ID="ID_1242894368" CREATED="1329860803005" MODIFIED="1329860803953">
+<node TEXT="C-s, C-r" ID="ID_1544674133" CREATED="1329860834636" MODIFIED="1329860845448">
+<node TEXT="forward/reverse" ID="ID_1645920904" CREATED="1329860845916" MODIFIED="1329860849567"/>
+<node TEXT="&lt;Delback&gt;" ID="ID_907583103" CREATED="1329860931593" MODIFIED="1329860938597">
+<node TEXT="during a search, this iterates backwards through the search results" ID="ID_896273796" CREATED="1329860934457" MODIFIED="1329860961028"/>
+</node>
+</node>
+</node>
+<node TEXT="windowing" ID="ID_144108403" CREATED="1329861344293" MODIFIED="1329861354401">
+<node TEXT="terms" ID="ID_712600395" CREATED="1329862027393" MODIFIED="1329862030434" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<node TEXT="frame = Mac-level window" ID="ID_572290699" CREATED="1329862047273" MODIFIED="1329862051220"/>
+<node TEXT="window = Emacs-level window" ID="ID_1128039991" CREATED="1329862030921" MODIFIED="1329862064252"/>
+</node>
+<node TEXT="windows" ID="ID_78224359" CREATED="1329862138622" MODIFIED="1329862140146">
+<node TEXT="close all other windows" ID="ID_498762240" CREATED="1329855122253" MODIFIED="1329855127569">
+<node TEXT="C-x 1" ID="ID_1027416199" CREATED="1329855114126" MODIFIED="1329855119314"/>
+</node>
+<node TEXT="two windows onto same file" ID="ID_766795415" CREATED="1329861358845" MODIFIED="1329861366112">
+<node TEXT="create split" ID="ID_112785771" CREATED="1329861452186" MODIFIED="1329861454390">
+<node TEXT="C-x 2" ID="ID_1819878129" CREATED="1329861444794" MODIFIED="1329861446486"/>
+</node>
+<node TEXT="scroll other window" ID="ID_1432530418" CREATED="1329861464081" MODIFIED="1329861509708">
+<node TEXT="C-M-v" ID="ID_1055355568" CREATED="1329861466969" MODIFIED="1329861473325"/>
+</node>
+<node TEXT="move cursor to Other window" ID="ID_1057964031" CREATED="1329861477249" MODIFIED="1329861503126">
+<node TEXT="C-x o" ID="ID_1893208817" CREATED="1329861482249" MODIFIED="1329861747431"/>
+</node>
+</node>
+<node TEXT="two windows onto distinct files" ID="ID_1735872431" CREATED="1329861627165" MODIFIED="1329861631777">
+<node TEXT="open second window as above" ID="ID_92451957" CREATED="1329861631981" MODIFIED="1329861636417"/>
+<node TEXT="then open a new file in one of them" ID="ID_1707077835" CREATED="1329861636645" MODIFIED="1329861641992"/>
+</node>
+</node>
+<node TEXT="frames" ID="ID_842195068" CREATED="1329862141510" MODIFIED="1329862142994">
+<node TEXT="M-x make-frame" ID="ID_1725144525" CREATED="1329862143366" MODIFIED="1329862149882"/>
+<node TEXT="M-x delete-frame" ID="ID_1421597480" CREATED="1329862143366" MODIFIED="1329862153545"/>
+</node>
+<node TEXT="quit, suspend" ID="ID_824219813" CREATED="1329859193388" MODIFIED="1329859290573">
+<node TEXT="quit" ID="ID_80235750" CREATED="1329859291825" MODIFIED="1329859293733">
+<node TEXT="C-x C-c" ID="ID_1007031143" CREATED="1329859201116" MODIFIED="1329859203503"/>
+</node>
+<node TEXT="suspend" ID="ID_39326938" CREATED="1329859284409" MODIFIED="1329859331354" COLOR="#18898b" STYLE="fork">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
+<node TEXT="C-z" ID="ID_52893063" CREATED="1329859296049" MODIFIED="1329859311900"/>
+<node TEXT="for use in single-application shell environments" ID="ID_340527913" CREATED="1329859327264" MODIFIED="1329859366916"/>
+<node TEXT="see tutorial, under &quot;Extending the command set&quot;" ID="ID_1255574026" CREATED="1329859312232" MODIFIED="1329859326844"/>
+</node>
+</node>
+</node>
+<node TEXT="help" ID="ID_233256968" CREATED="1329862347128" MODIFIED="1329862348052">
+<node TEXT="more options left uncopied; see tutorial" ID="ID_1490061921" CREATED="1329862608720" MODIFIED="1329862620692" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="C-h character" ID="ID_66060032" CREATED="1329862348224" MODIFIED="1329862524071">
+<node TEXT="various choices for character" ID="ID_1927785564" CREATED="1329862511883" MODIFIED="1329862519711"/>
+<node TEXT="use character &quot;?&quot; for a list of other possibilities" ID="ID_579406029" CREATED="1329862519915" MODIFIED="1329862532806"/>
+</node>
+<node TEXT="C-h c command-name" ID="ID_1658782029" CREATED="1329862533602" MODIFIED="1329862537966">
+<node TEXT="probably the most often used" ID="ID_1553972833" CREATED="1329862539194" MODIFIED="1329862553598"/>
+</node>
+<node TEXT="C-h f function" ID="ID_841082581" CREATED="1329862564449" MODIFIED="1329862567637"/>
+</node>
+<node TEXT="didn&apos;t understand" ID="ID_800215360" CREATED="1329860719623" MODIFIED="1329860722240" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<node TEXT="the part about margins" ID="ID_906796024" CREATED="1329860750030" MODIFIED="1329860753090">
+<node TEXT="C-x f" ID="ID_602605251" CREATED="1329860758726" MODIFIED="1329860760370"/>
+<node TEXT="line 816" ID="ID_594085576" CREATED="1329860765166" MODIFIED="1329860769858"/>
+</node>
+</node>
+</node>
+<node TEXT="next" ID="ID_1402509466" CREATED="1329863127489" MODIFIED="1329863128485">
+<node TEXT="get folding working" ID="ID_463906002" CREATED="1329867321508" MODIFIED="1329867324447">
+<node TEXT="The minor mode seems like what I want, but I think I&apos;ll have to learn the major mode because the minor mode expects me to know that." ID="ID_1985906687" CREATED="1329867362170" MODIFIED="1329867396776" COLOR="#669900">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+</node>
+<node TEXT="major mode" ID="ID_529895151" CREATED="1329867353762" MODIFIED="1329867355077">
+<node TEXT="http://www.emacswiki.org/emacs/OutlineMode" ID="ID_1496427229" CREATED="1329867346807" MODIFIED="1329867346807" LINK="http://www.emacswiki.org/emacs/OutlineMode"/>
+</node>
+<node TEXT="minor mode" ID="ID_1791761428" CREATED="1329867350363" MODIFIED="1329867351957">
+<node TEXT="http://www.emacswiki.org/emacs/OutlineMinorMode" ID="ID_639204127" CREATED="1329867342565" MODIFIED="1329867342565" LINK="http://www.emacswiki.org/emacs/OutlineMinorMode"/>
+</node>
+</node>
+<node TEXT="check out the &quot;Guided Tour&quot;" ID="ID_1656380448" CREATED="1329863129417" MODIFIED="1329863137885">
+<node TEXT="http://www.gnu.org/software/emacs/tour/" ID="ID_1688491012" CREATED="1329863128788" MODIFIED="1329863128788" LINK="http://www.gnu.org/software/emacs/tour/"/>
+</node>
+</node>
+<node TEXT="it would be helpful if the cursor was a different color" ID="ID_523884960" CREATED="1329854142339" MODIFIED="1329854150031"/>
+<node TEXT="things it works with" ID="ID_296637545" CREATED="1329862895344" MODIFIED="1329862898444">
+<node TEXT="GDB" ID="ID_405844563" CREATED="1329862898744" MODIFIED="1329862899652">
+<node TEXT="Gnu Debugger" ID="ID_1358674057" CREATED="1329862899943" MODIFIED="1329862902523"/>
+</node>
+</node>
+</node>
+<node TEXT="2" ID="ID_1700494229" CREATED="1374040159445" MODIFIED="1398300294024">
+<node TEXT="next" ID="ID_1008875637" CREATED="1374041412994" MODIFIED="1374041413708">
+<node TEXT="http://www.gnu.org/software/emacs/tour/" ID="ID_784505453" CREATED="1374041405336" MODIFIED="1374041405336" LINK="http://www.gnu.org/software/emacs/tour/"/>
+</node>
+<node TEXT="notes" ID="ID_783641722" CREATED="1374041414673" MODIFIED="1374041416293">
+<node TEXT="key notation" ID="ID_787746689" CREATED="1374040174036" MODIFIED="1374040188502">
+<node TEXT="M = escape" ID="ID_1151540762" CREATED="1374040188668" MODIFIED="1374040193471"/>
+<node TEXT="C = ctrl" ID="ID_205125522" CREATED="1374040193675" MODIFIED="1374040196855"/>
+</node>
+<node TEXT="shortcuts" ID="ID_1653146306" CREATED="1374040618264" MODIFIED="1374040619451">
+<node TEXT="http://www.readability.com/articles/gv0ajnn3" ID="ID_660900189" CREATED="1374040619784" MODIFIED="1374040619784" LINK="http://www.readability.com/articles/gv0ajnn3"/>
+<node TEXT="surprisingly possible" ID="ID_1302955787" CREATED="1374040665599" MODIFIED="1374040669946">
+<node TEXT="&quot;Show all commands containing string in their name&quot;" ID="ID_900229943" CREATED="1374040670439" MODIFIED="1374040673033">
+<node TEXT="http://www.readability.com/articles/gv0ajnn3" ID="ID_1452919637" CREATED="1374040619784" MODIFIED="1374040619784" LINK="http://www.readability.com/articles/gv0ajnn3"/>
+</node>
+<node TEXT="Repeat a command n times" ID="ID_407850127" CREATED="1374040687550" MODIFIED="1374040692689">
+<node TEXT="http://www.readability.com/articles/gv0ajnn3" ID="ID_1621320696" CREATED="1374040619784" MODIFIED="1374040619784" LINK="http://www.readability.com/articles/gv0ajnn3"/>
+<node TEXT="&quot;Used before a command, repeats it n times (same as C-u n)&quot;" ID="ID_1452120637" CREATED="1374040693317" MODIFIED="1374040694689"/>
+</node>
+<node TEXT="Swap this and previous character." ID="ID_570698556" CREATED="1374040917183" MODIFIED="1374040921105"/>
+<node TEXT="Swap this and next word." ID="ID_1185468918" CREATED="1374041048844" MODIFIED="1374041056343">
+<node TEXT="&quot;Reverse words around point&quot;" ID="ID_818870435" CREATED="1374041056524" MODIFIED="1374041059303"/>
+</node>
+<node TEXT="Collapse whitespace around point" ID="ID_733359056" CREATED="1374041111562" MODIFIED="1374041118709">
+<node TEXT="&quot;Close up all blank lines above and below point&quot;" ID="ID_625848055" CREATED="1374041119001" MODIFIED="1374041120101"/>
+</node>
+<node TEXT="&quot;Sentence Operations&quot;" ID="ID_1979720663" CREATED="1374041189928" MODIFIED="1374041191923"/>
+<node TEXT="&quot;Paragraph Operations&quot;" ID="ID_1505706638" CREATED="1374041201592" MODIFIED="1374041205163"/>
+<node TEXT="&quot;Screen Operations&quot;" ID="ID_1388200738" CREATED="1374041218943" MODIFIED="1374041220194"/>
+<node TEXT="&quot;Page Operations&quot;" ID="ID_1862863323" CREATED="1374041244662" MODIFIED="1374041245913"/>
+<node TEXT="Center screen" ID="ID_1391300521" CREATED="1374041229526" MODIFIED="1374041231450">
+<node TEXT="&quot;Redisplay current screen and center point&quot;" ID="ID_1363673332" CREATED="1374041231775" MODIFIED="1374041232986"/>
+</node>
+<node TEXT="&quot;Region Operations&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_191586293" CREATED="1374041288053" MODIFIED="1374041289879">
+<node TEXT="region of screen between point and mark" ID="ID_1690618760" CREATED="1374041290533" MODIFIED="1374041296056"/>
+</node>
+</node>
+<node TEXT="might want to search for" ID="ID_1864353270" CREATED="1374040959903" MODIFIED="1374040974897">
+<node TEXT="&quot;Move point one word to the left&quot;" ID="ID_708363592" CREATED="1374040975830" MODIFIED="1374040985833"/>
+<node TEXT="&quot;Delete one word to the&quot;" ID="ID_562747377" CREATED="1374041000933" MODIFIED="1374041002000"/>
+<node TEXT="&quot;beginning of this line&quot;" ID="ID_900928528" CREATED="1374041080643" MODIFIED="1374041082102"/>
+<node TEXT="&quot;Open up blank line at point&quot;" ID="ID_1629737881" CREATED="1374041086723" MODIFIED="1374041087718"/>
+<node TEXT="&quot;Delete from point to end of line&quot;" ID="ID_721711984" CREATED="1374041131194" MODIFIED="1374041133013"/>
+<node TEXT="&quot;split screen&quot;" ID="ID_719175294" CREATED="1374041343787" MODIFIED="1374041358942"/>
+</node>
+</node>
+<node TEXT="to change environment" ID="ID_1977287822" CREATED="1374040212523" MODIFIED="1374040308985">
+<node TEXT="remove menu bar" ID="ID_1749461559" CREATED="1374040216219" MODIFIED="1374040283549">
+<node TEXT="live, this session only" ID="ID_1554146233" CREATED="1374040311224" MODIFIED="1374040339291">
+<node TEXT="Esc-X menu-bar-mode" ID="ID_1428094194" CREATED="1374040220307" MODIFIED="1374040220518"/>
+</node>
+<node TEXT="for future sessions" ID="ID_440178161" CREATED="1374040312944" MODIFIED="1374040347627">
+<node TEXT="edit ~/.emacs" ID="ID_268286153" CREATED="1374040372382" MODIFIED="1374040380841"/>
+<node TEXT="add this" ID="ID_1482310866" CREATED="1374040381111" MODIFIED="1374040383594">
+<node TEXT="(menu-bar-mode nil)" ID="ID_123849858" CREATED="1374040389054" MODIFIED="1374040389481"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="vocab" ID="ID_515140405" CREATED="1374040430163" MODIFIED="1374040431048">
+<node TEXT="point" ID="ID_666884677" CREATED="1374040431892" MODIFIED="1374040432504">
+<node TEXT="cursor position in buffer" ID="ID_1466277039" CREATED="1374040434037" MODIFIED="1374040439968"/>
+</node>
+<node TEXT="mark" ID="ID_177093545" CREATED="1374040448572" MODIFIED="1374040449456">
+<node TEXT="invisible text marker in the file" ID="ID_1539392473" CREATED="1374040449980" MODIFIED="1374040452151"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="define a shortcut" ID="ID_1709110085" CREATED="1417937530323" MODIFIED="1417937532879">
+<node TEXT="http://www.emacswiki.org/emacs/EmacsLispMode" ID="ID_788143078" CREATED="1417937552049" MODIFIED="1417937552049" LINK="http://www.emacswiki.org/emacs/EmacsLispMode"/>
+<node TEXT="(define-key flyspell-mode-map &quot;\M-\t&quot; nil)" ID="ID_952161789" CREATED="1417937533315" MODIFIED="1417937554718"/>
+</node>
 </node>
 <node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1409708369930">
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
@@ -19987,804 +20796,6 @@
 <node TEXT="{ LFGauss.ar(MouseX.kr(1/8000, 0.1, 1), MouseY.kr(0.001, 0.1, 1)) * 0.1 }.play;" ID="ID_989684805" CREATED="1416728102512" MODIFIED="1416728103011"/>
 </node>
 </node>
-</node>
-</node>
-<node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
-<node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
-<node TEXT="adaptive-wrap" ID="ID_1954328534" CREATED="1414896271280" MODIFIED="1423720302098">
-<node TEXT="http://www.emacswiki.org/emacs/LineWrap" ID="ID_682156282" CREATED="1414896275870" MODIFIED="1414896275870" LINK="http://www.emacswiki.org/emacs/LineWrap"/>
-<node TEXT="I installed it from within Emacs (was easy, mouse-driven)." ID="ID_145084558" CREATED="1414896538206" MODIFIED="1414896550145"/>
-<node TEXT="But how to load it?" ID="ID_358696982" CREATED="1414896550374" MODIFIED="1414896560045"/>
-</node>
-<node TEXT="arrowish commands for next, prev brace" ID="ID_330740217" CREATED="1413953535170" MODIFIED="1413953542788">
-<node TEXT="similar to freeplane&apos;s choice set" ID="ID_852595064" CREATED="1413953549784" MODIFIED="1413953554867"/>
-</node>
-</node>
-<node TEXT="cho" ID="ID_1608103480" CREATED="1414615440684" MODIFIED="1414615460983">
-<node TEXT="want unjustified: swap cmd-ctrl" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1712404391" CREATED="1419494544970" MODIFIED="1419494558933">
-<node TEXT="exten" ID="ID_1906301056" CREATED="1419494559682" MODIFIED="1419494594924">
-<node TEXT="to be able to code without external keyboard" ID="ID_1155465980" CREATED="1419494527339" MODIFIED="1419494566253"/>
-<node TEXT="which I currently almost never need" ID="ID_691465942" CREATED="1419494566449" MODIFIED="1419494580405"/>
-</node>
-<node TEXT="why" ID="ID_110061334" CREATED="1419494589609" MODIFIED="1419494590852">
-<node TEXT="for emacs, because it recog&apos;s only ctrl and opt" ID="ID_407232660" CREATED="1419494604529" MODIFIED="1419494617868"/>
-</node>
-</node>
-<node TEXT="topics" ID="ID_1456818660" CREATED="1414182576133" MODIFIED="1414615490856">
-<node TEXT="scripting" ID="ID_1841728301" CREATED="1414615907892" MODIFIED="1414615910959">
-<node TEXT="the definitive text" ID="ID_1683670183" CREATED="1414615943803" MODIFIED="1414615951247">
-<node TEXT="https://www.gnu.org/software/emacs/manual/eintr.html" ID="ID_1804784429" CREATED="1414615933092" MODIFIED="1414615933092" LINK="https://www.gnu.org/software/emacs/manual/eintr.html"/>
-</node>
-</node>
-<node TEXT="others" ID="ID_1693916152" CREATED="1414615911268" MODIFIED="1414615912031">
-<node TEXT="completion" ID="ID_217725429" CREATED="1414182595851" MODIFIED="1414182597438"/>
-<node TEXT="dired: &quot;simplifies file handling&quot;" ID="ID_568313016" CREATED="1414182586892" MODIFIED="1414615903271"/>
-</node>
-</node>
-<node TEXT="questions" ID="ID_419950870" CREATED="1414615437997" MODIFIED="1414615439250"/>
-<node TEXT="problems" ID="ID_597120259" CREATED="1414871926190" MODIFIED="1414871927361">
-<node TEXT="later" ID="ID_908782592" CREATED="1414871935670" MODIFIED="1414871936393">
-<node TEXT="swap control for cmd" ID="ID_1908465452" CREATED="1414868359614" MODIFIED="1414871931809">
-<node TEXT="&quot;keyboard customizer for Mac OS&quot;" ID="ID_157599415" CREATED="1414872051700" MODIFIED="1414872057727">
-<node TEXT="https://pqrs.org/osx/karabiner/index.html.en" ID="ID_1746852121" CREATED="1414872050689" MODIFIED="1414872050689" LINK="https://pqrs.org/osx/karabiner/index.html.en"/>
-</node>
-<node TEXT="probably done" ID="ID_465222998" CREATED="1414872065020" MODIFIED="1414872070503">
-<node TEXT="looks like an easy fix, fails" ID="ID_1717720276" CREATED="1414871666971" MODIFIED="1414871675320">
-<node TEXT="http://superuser.com/questions/296243/remap-command-key-in-mac-only-for-emacs" ID="ID_687660565" CREATED="1414868365233" MODIFIED="1414868365233" LINK="http://superuser.com/questions/296243/remap-command-key-in-mac-only-for-emacs"/>
-<node TEXT="(setq mac-command-modifier &apos;control)" ID="ID_1136169727" CREATED="1414871677042" MODIFIED="1414871677042"/>
-<node TEXT="(setq mac-control-modifier &apos;meta)" ID="ID_1947802656" CREATED="1414871677042" MODIFIED="1414871677042"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="how" ID="ID_150098029" CREATED="1414182579556" MODIFIED="1414615465383">
-<node TEXT="** will def look" ID="ID_1612049435" CREATED="1417931177827" MODIFIED="1417931250341">
-<node TEXT="braces nav" ID="ID_1165274416" CREATED="1417931181514" MODIFIED="1417931198817">
-<node TEXT="tags" ID="ID_901530941" CREATED="1417931216690" MODIFIED="1417931217245">
-<node TEXT="parenthesis parentheses brace bracket brackets braces" ID="ID_709720029" CREATED="1417931199658" MODIFIED="1417931216470"/>
-</node>
-<node TEXT="http://stackoverflow.com/questions/9845661/with-emacs-how-to-go-to-the-pairing-balancing-parentheses" ID="ID_1772905006" CREATED="1417931180021" MODIFIED="1417931180021" LINK="http://stackoverflow.com/questions/9845661/with-emacs-how-to-go-to-the-pairing-balancing-parentheses"/>
-</node>
-</node>
-<node TEXT="solved" ID="ID_1416449062" CREATED="1414545959318" MODIFIED="1414891368371">
-<node TEXT="escape shortcut: C[ C[ C[" ID="ID_775501712" CREATED="1414545943118" MODIFIED="1414545952765"/>
-<node TEXT="hide notification screen with Esc" ID="ID_365585346" CREATED="1414545960733" MODIFIED="1414545969659"/>
-</node>
-<node TEXT="files" ID="ID_1527487987" CREATED="1414634492369" MODIFIED="1414634492980">
-<node TEXT="*Messages* = many (most?) messages" ID="ID_275789004" CREATED="1414634493240" MODIFIED="1414634545853">
-<node TEXT="but not debugger ones" ID="ID_464006381" CREATED="1414634547223" MODIFIED="1414634549883"/>
-</node>
-<node TEXT="*Backtrace* = debugger info" ID="ID_805238657" CREATED="1414634573159" MODIFIED="1414634579378"/>
-</node>
-<node TEXT="control" ID="ID_1217004005" CREATED="1414097776940" MODIFIED="1429766767492">
-<font BOLD="true"/>
-<node TEXT="help" ID="ID_1105641939" CREATED="1414182465351" MODIFIED="1414182466618">
-<node TEXT="big variety of commands; notes not taken" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1960029716" CREATED="1414182467919" MODIFIED="1414182486542"/>
-<node TEXT="remember the bottom screen can scroll" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_830709993" CREATED="1414182488108" MODIFIED="1414182495316">
-<node TEXT="the one displaying help results" ID="ID_468423209" CREATED="1414182497044" MODIFIED="1414182500711"/>
-</node>
-</node>
-<node TEXT="execution" ID="ID_1191989762" CREATED="1414101890213" MODIFIED="1414101891328">
-<node TEXT="repeat" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1636950895" CREATED="1414101565114" MODIFIED="1414101732224">
-<node TEXT="precede command with &quot;C-u [number]&quot;" ID="ID_1572370266" CREATED="1414101566482" MODIFIED="1414101587796"/>
-<node TEXT="does not work for all commands" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_974833504" CREATED="1414101670648" MODIFIED="1414101676897"/>
-<node TEXT="good for finding column within line" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1276403433" CREATED="1414101733875" MODIFIED="1414101740595"/>
-</node>
-<node TEXT="execute: Cx Ce" ID="ID_1572793579" CREATED="1414192509573" MODIFIED="1414192515137">
-<node TEXT="executes the s-exp behind the cursor" ID="ID_732037801" CREATED="1414192515437" MODIFIED="1414192526615"/>
-</node>
-<node TEXT="abort (command): C-g" ID="ID_1340237207" CREATED="1414101896348" MODIFIED="1414106122490">
-<node TEXT="alternatives" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_748860709" CREATED="1414101953767" MODIFIED="1414101968696"/>
-<node TEXT="abort execution" ID="ID_1364510836" CREATED="1414101955311" MODIFIED="1414101958791">
-<node TEXT="useful when nonresponsive" ID="ID_365842532" CREATED="1414101933782" MODIFIED="1414101937674"/>
-</node>
-<node TEXT="abort command entry" ID="ID_317644305" CREATED="1414101960013" MODIFIED="1414101962696">
-<node TEXT="to abort half-entered command" ID="ID_818497784" CREATED="1414101937909" MODIFIED="1414101966249"/>
-</node>
-</node>
-<node TEXT="quit (app): Cx-Cc" ID="ID_1774119743" CREATED="1414099952728" MODIFIED="1414106118042">
-<node TEXT="safe: it will prompt for saving unsaved changes" ID="ID_1885333668" CREATED="1414175903627" MODIFIED="1414175912262"/>
-</node>
-<node TEXT="extended commands" ID="ID_485422591" CREATED="1414175814836" MODIFIED="1414175817079">
-<node TEXT="C-x: character extend" ID="ID_1366476884" CREATED="1414175823011" MODIFIED="1414175826686">
-<node TEXT="follow with one character" ID="ID_640715712" CREATED="1414175826899" MODIFIED="1414175830190"/>
-</node>
-<node TEXT="M-x: named command extend" ID="ID_1310846824" CREATED="1414175830939" MODIFIED="1414175837750">
-<node TEXT="followed with a long name" ID="ID_83270195" CREATED="1414175838202" MODIFIED="1414175845055"/>
-</node>
-</node>
-<node TEXT="pause: Cz" ID="ID_956650384" CREATED="1414176128673" MODIFIED="1414176133691">
-<node TEXT="resume with &quot;fg&quot; or &quot;%emacs&quot;" ID="ID_1639635180" CREATED="1414176170656" MODIFIED="1414176180554"/>
-</node>
-<node TEXT="undo/redo" ID="ID_1883672950" CREATED="1414891714922" MODIFIED="1414891716517">
-<node TEXT="undo: C-/" ID="ID_425367128" CREATED="1414105131232" MODIFIED="1414891836288">
-<node TEXT="or C-_, or C-u" ID="ID_650184952" CREATED="1414891836657" MODIFIED="1414891841212"/>
-</node>
-<node TEXT="redo: C-g C-/" ID="ID_1121720514" CREATED="1414891722539" MODIFIED="1414891847231">
-<node TEXT="or C-g C-_" ID="ID_917835198" CREATED="1414891847642" MODIFIED="1414891852891"/>
-<node TEXT="and probably C-g C-u" ID="ID_1257081532" CREATED="1414891853859" MODIFIED="1414891858396"/>
-</node>
-</node>
-</node>
-<node TEXT="contexts" ID="ID_596321277" CREATED="1414100101260" MODIFIED="1414175706524">
-<font BOLD="true"/>
-<node TEXT="I&apos;m inventing that term" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_601569194" CREATED="1414105888694" MODIFIED="1414179646552"/>
-<node TEXT="frame &gt; window" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_73779851" CREATED="1414181552384" MODIFIED="1414181556649"/>
-<node TEXT="within window" ID="ID_363260327" CREATED="1414102295190" MODIFIED="1414106065373">
-<font BOLD="true"/>
-<node TEXT="shift by whole screen" ID="ID_1687427681" CREATED="1414101786718" MODIFIED="1414101793433">
-<node TEXT="next screen: Cv" ID="ID_291067453" CREATED="1414100050824" MODIFIED="1414100059114"/>
-<node TEXT="prev screen: Mv" ID="ID_1730783834" CREATED="1414100103469" MODIFIED="1414100107358"/>
-<node TEXT="exception" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_445486198" CREATED="1414101796261" MODIFIED="1414101801542">
-<node TEXT="if given a numeric argument, they scroll by that many lines, not that many screens" ID="ID_594059627" CREATED="1414101801949" MODIFIED="1414101812503"/>
-</node>
-</node>
-<node TEXT="center at cursor: Cl" ID="ID_1355260173" CREATED="1414100146543" MODIFIED="1414100258715">
-<node TEXT="letter, not number" ID="ID_609847986" CREATED="1414100174659" MODIFIED="1414100179263"/>
-</node>
-<node TEXT="shift relative to cursor: Cl repeatedly" ID="ID_83417285" CREATED="1414100146543" MODIFIED="1414100233003">
-<node TEXT="brings it to center, top, bottom; cycles" ID="ID_1045548991" CREATED="1414100174659" MODIFIED="1414100247611"/>
-</node>
-<node TEXT="close buffer: Cx k" ID="ID_1746108597" CREATED="1414192402335" MODIFIED="1414192416689"/>
-<node TEXT="next, prev parenthetical" ID="ID_984201013" CREATED="1414639577099" MODIFIED="1414639599728">
-<node TEXT="C-M-{n|p}" ID="ID_455778473" CREATED="1414639584616" MODIFIED="1414639591296"/>
-<node TEXT="functions &quot;forward-list&quot; and &quot;backward-list&quot;" ID="ID_930609841" CREATED="1414639634242" MODIFIED="1414639651021"/>
-<node TEXT="skips non-parenthetical sexps" ID="ID_469922410" CREATED="1414639796672" MODIFIED="1414639814609"/>
-<node TEXT="does not leave current paren scope" ID="ID_986491561" CREATED="1414639808504" MODIFIED="1414639827025"/>
-</node>
-<node TEXT="next, prev sexp" ID="ID_1820579138" CREATED="1414639577099" MODIFIED="1414639655100">
-<node TEXT="C-M-{f|b}" ID="ID_57282298" CREATED="1414639584616" MODIFIED="1414639666446"/>
-<node TEXT="functions &quot;forward-sexp&quot; and &quot;backward-sexp&quot;" ID="ID_505433262" CREATED="1414639634242" MODIFIED="1414639674908"/>
-<node TEXT="does not leave current paren scope" ID="ID_822660640" CREATED="1414639808504" MODIFIED="1414639827025"/>
-</node>
-<node TEXT="kill bal&apos;d exp forward" ID="ID_1333058522" CREATED="1414639938293" MODIFIED="1414639945495">
-<node TEXT="C-M-k" ID="ID_1072231032" CREATED="1414639947221" MODIFIED="1414639952791"/>
-<node TEXT="&quot;kill-sexp&quot;" ID="ID_857699711" CREATED="1414639969245" MODIFIED="1414639972135"/>
-</node>
-<node TEXT="put mark at end of sexp" ID="ID_1394591155" CREATED="1414639962985" MODIFIED="1414639983039">
-<node TEXT="C-M-space" ID="ID_411629354" CREATED="1414639977460" MODIFIED="1414639979567"/>
-<node TEXT="&quot;mark-sexp&quot;" ID="ID_581350611" CREATED="1414639974859" MODIFIED="1414639977095"/>
-</node>
-</node>
-<node TEXT="across windows" ID="ID_944905846" CREATED="1414181049870" MODIFIED="1414181542439">
-<font BOLD="true"/>
-<node TEXT="can from a new window view a different buffer" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1302229568" CREATED="1414181429388" MODIFIED="1414181547804"/>
-<node TEXT="split frame: C-x 2" ID="ID_314301140" CREATED="1414181054000" MODIFIED="1414181064889"/>
-<node TEXT="scroll other window: C-M-v" ID="ID_1151670653" CREATED="1414181067621" MODIFIED="1414181550132"/>
-<node TEXT="cursor to other: C-x o" ID="ID_924149796" CREATED="1414181095193" MODIFIED="1414181100732"/>
-</node>
-<node TEXT="files" ID="ID_950351293" CREATED="1414105433316" MODIFIED="1414106139465">
-<font BOLD="true"/>
-<node TEXT="find: C-x C-f" ID="ID_1846001276" CREATED="1414105435571" MODIFIED="1414105442455">
-<node TEXT="does not remove previous files&apos; buffers" ID="ID_241630773" CREATED="1414105590359" MODIFIED="1414105599187"/>
-</node>
-<node TEXT="save this one: C-x C-s" ID="ID_1056432605" CREATED="1414105490042" MODIFIED="1414175713256"/>
-<node TEXT="save some: C-x s" ID="ID_1684864228" CREATED="1414175716643" MODIFIED="1414175720991">
-<node TEXT="it prompts for each buffer with unsaved changes" ID="ID_543656507" CREATED="1414175721620" MODIFIED="1414175772037"/>
-</node>
-<node TEXT="list buffers: C-x C-b" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1804120204" CREATED="1414105621830" MODIFIED="1414105627368"/>
-<node TEXT="choose buffer: C-x b" ID="ID_1468258981" CREATED="1414106142933" MODIFIED="1414106146352"/>
-<node TEXT="recover auto-save: M-x &quot;recover-file&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1598245694" CREATED="1414178505962" MODIFIED="1414178521724">
-<node TEXT="if a crash leads to lost data, open the file (the normal one, not the auto-saved one named #[filename]#), then run this" ID="ID_1384817047" CREATED="1414178523824" MODIFIED="1414178552457"/>
-</node>
-</node>
-<node TEXT="C-x 1: close all other windows" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1039271606" CREATED="1414102313340" MODIFIED="1414106084034">
-<font BOLD="false"/>
-<node TEXT="digit 1, not letter L" ID="ID_1768065779" CREATED="1414102328043" MODIFIED="1414102335982"/>
-</node>
-<node TEXT="modes" ID="ID_1268893225" CREATED="1414179464428" MODIFIED="1414179581055">
-<font BOLD="true"/>
-<node TEXT="major vs. minor ones" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_380765489" CREATED="1414179613303" MODIFIED="1414179641609">
-<node TEXT="major modes are exclsusive, and there is always one" ID="ID_264490751" CREATED="1414179605151" MODIFIED="1414179627883"/>
-<node TEXT="minor ones can coexist, and none needs exist" ID="ID_1605064781" CREATED="1414179617271" MODIFIED="1414179635840"/>
-</node>
-<node TEXT="switch mode: M-x [mode]" ID="ID_1401809899" CREATED="1414179018243" MODIFIED="1414183271180">
-<node TEXT="M-x &quot;fundamental-mode&quot;, etc." ID="ID_667678891" CREATED="1414179120899" MODIFIED="1414179127630"/>
-</node>
-<node TEXT="view mode doc&apos;n" ID="ID_965672204" CREATED="1414179477530" MODIFIED="1414179480646">
-<node TEXT="C-h m" ID="ID_623562502" CREATED="1414179481307" MODIFIED="1414179484765"/>
-</node>
-</node>
-</node>
-<node TEXT="custom" ID="ID_1070564769" CREATED="1414191240927" MODIFIED="1414891378855">
-<node TEXT="after editing, &quot;set&quot; to execute changes" ID="ID_1264393722" CREATED="1414191318840" MODIFIED="1414191340979">
-<node TEXT="Editing the value does not make it take effect right away.  To do that,&#xa;you must &quot;set&quot; the variable by activating the `[State]&apos; button and&#xa;choosing `Set for Current Session&apos;.  Then the variable&apos;s state becomes:" ID="ID_1630045307" CREATED="1414191316809" MODIFIED="1414191317875"/>
-</node>
-<node TEXT="big font" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1969860751" CREATED="1414192494398" MODIFIED="1414192499367">
-<node TEXT="change ~/.emacs" ID="ID_1951816623" CREATED="1414192895155" MODIFIED="1414192901117"/>
-<node TEXT="(set-frame-font &quot;Droid Sans Mono-30&quot; nil t)" ID="ID_1335327000" CREATED="1414192498200" MODIFIED="1414192498200"/>
-</node>
-</node>
-<node TEXT="weird problems" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1521395656" CREATED="1414181903969" MODIFIED="1414182119416">
-<font BOLD="false"/>
-<node TEXT="escaping a &quot;recursive edit mode&quot;" LOCALIZED_STYLE_REF="default" ID="ID_499572559" CREATED="1414181818529" MODIFIED="1414181924408">
-<node TEXT="Sometimes you will get into what is called a &quot;recursive editing&#xa;level&quot;.  This is indicated by square brackets in the mode line,&#xa;surrounding the parentheses around the major mode name.  For&#xa;example, you might see [(Fundamental)] instead of (Fundamental).&#xa;&#xa;To get out of the recursive editing level, type &lt;ESC&gt; &lt;ESC&gt; &lt;ESC&gt;." ID="ID_498712458" CREATED="1414181829456" MODIFIED="1414181830300"/>
-</node>
-<node TEXT="if C-h (get help) fails" ID="ID_134582671" CREATED="1414181915777" MODIFIED="1414181930450">
-<node TEXT="(If C-h does not display a message about help at the bottom of the&#xa;screen, try typing the F1 key or M-x help &lt;Return&gt; instead.)" ID="ID_185675867" CREATED="1414181910305" MODIFIED="1414181910988"/>
-</node>
-</node>
-<node TEXT="text edit" ID="ID_185126868" CREATED="1414102504803" MODIFIED="1414182130767">
-<font BOLD="true"/>
-<node TEXT="can repeat insertion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_998227505" CREATED="1414102819106" MODIFIED="1414102823252"/>
-<node TEXT="delete and kill" ID="ID_847936028" CREATED="1414102507947" MODIFIED="1414104669079">
-<node TEXT="char" ID="ID_921663472" CREATED="1414102875397" MODIFIED="1414102875967">
-<node TEXT="delete prev char: &lt;DEL&gt; (backspace)" ID="ID_105633294" CREATED="1414102844790" MODIFIED="1414102872300"/>
-<node TEXT="delete next char: C-d" ID="ID_1868277967" CREATED="1414102853845" MODIFIED="1414102857552"/>
-</node>
-<node TEXT="word" ID="ID_321133518" CREATED="1414102877067" MODIFIED="1414102877688">
-<node TEXT="exception" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1102736554" CREATED="1414104390226" MODIFIED="1414104392181">
-<node TEXT="when given an argument, these cut (&quot;kill&quot;) rather than delete" ID="ID_399317245" CREATED="1414104392682" MODIFIED="1414104403020"/>
-</node>
-<node TEXT="delete prev word: C-&lt;DEL&gt;" ID="ID_1981134248" CREATED="1414102881866" MODIFIED="1414103137384"/>
-<node TEXT="delete next word: M-d" ID="ID_1734725549" CREATED="1414102893624" MODIFIED="1414102901347"/>
-</node>
-<node TEXT="kill here to end" ID="ID_784817008" CREATED="1414102909823" MODIFIED="1414103933385">
-<node TEXT="here to end of line: C-k" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1968098626" CREATED="1414102915879" MODIFIED="1414104522399">
-<node TEXT="extension" LOCALIZED_STYLE_REF="default" ID="ID_463809267" CREATED="1414104444701" MODIFIED="1414104573450">
-<node TEXT="press a second time to kill the trailing newline" ID="ID_293559393" CREATED="1414104459460" MODIFIED="1414104465862"/>
-</node>
-<node TEXT="exception" ID="ID_1057950865" CREATED="1414104575113" MODIFIED="1414104576196">
-<node TEXT="given a numeric argument N is like pressing it 2N times" ID="ID_961063870" CREATED="1414104576873" MODIFIED="1414104585764"/>
-<node TEXT="so that the newlines disappear, not just the preceding contents." ID="ID_19827372" CREATED="1414104588281" MODIFIED="1414104601154"/>
-</node>
-</node>
-<node TEXT="here to end of sentence: M-k" ID="ID_1637889086" CREATED="1414102923638" MODIFIED="1414103163963"/>
-</node>
-<node TEXT="delete to mark: C-w" ID="ID_1797826085" CREATED="1414103859728" MODIFIED="1414103867812"/>
-</node>
-<node TEXT="yank" ID="ID_1686288709" CREATED="1414104656587" MODIFIED="1414104902257">
-<node TEXT="yank most recent kill: C-y" ID="ID_802629116" CREATED="1414104903166" MODIFIED="1414104940622">
-<node TEXT="inserts everything most recently consecutively killed, not just the most recent" ID="ID_31520775" CREATED="1414104803701" MODIFIED="1414104819855"/>
-</node>
-<node TEXT="replace yank with an earlier kill: M-y*" ID="ID_275935030" CREATED="1414104909171" MODIFIED="1414105044765">
-<node TEXT="can be given positive and negative arguments" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_801309883" CREATED="1414105009682" MODIFIED="1414105020043"/>
-<node TEXT="* following C-y" ID="ID_82803001" CREATED="1414105033032" MODIFIED="1414105036939"/>
-<node TEXT="what it does" ID="ID_1515895196" CREATED="1414105020786" MODIFIED="1414105022213">
-<node TEXT="C-y, then M-y consecutively until the desired yank replaces it" ID="ID_957890253" CREATED="1414104914250" MODIFIED="1414104931133"/>
-<node TEXT="cycles back to the most recent" ID="ID_1641042670" CREATED="1414104967382" MODIFIED="1414104973354"/>
-</node>
-</node>
-</node>
-<node TEXT="set mark: C-&lt;SPC&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_395265152" CREATED="1414103809838" MODIFIED="1414103826960">
-<node TEXT="move cursor therefrom to create highlight" ID="ID_998038025" CREATED="1414103824125" MODIFIED="1414103835399"/>
-</node>
-<node TEXT="add newline after cursor: C-o" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1039062890" CREATED="1414181138302" MODIFIED="1414181157411">
-<font BOLD="false"/>
-</node>
-<node TEXT=". see also &quot;rectangles&quot;" ID="ID_1296285108" CREATED="1414892091747" MODIFIED="1414892095919"/>
-</node>
-<node TEXT="rectangles" ID="ID_1388962674" CREATED="1414891386760" MODIFIED="1414891388027">
-<node TEXT="https://www.gnu.org/software/emacs/manual/html_node/emacs/Rectangles.html" ID="ID_885372613" CREATED="1414892122100" MODIFIED="1414892122100" LINK="https://www.gnu.org/software/emacs/manual/html_node/emacs/Rectangles.html"/>
-<node TEXT="C-x r k:   kill rect" ID="ID_1324814159" CREATED="1414891394863" MODIFIED="1414891475657">
-<node TEXT="also saves it as last killed rectangle" ID="ID_114951669" CREATED="1414891429207" MODIFIED="1414891432834"/>
-</node>
-<node TEXT="C-x r y:   yank rect" ID="ID_1863029609" CREATED="1414891394863" MODIFIED="1414891487065">
-<node TEXT="also saves it as last killed rectangle" ID="ID_1215020717" CREATED="1414891429207" MODIFIED="1414891432834"/>
-</node>
-<node TEXT="C-x r M-w: save as last killed rectangle" ID="ID_1284410716" CREATED="1414891416479" MODIFIED="1414891427874"/>
-<node TEXT="C-x r d:   delete w/o kill-copy" ID="ID_1831225779" CREATED="1414891449757" MODIFIED="1414891471913"/>
-<node TEXT="C-x r o:   insert blanks" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1438252738" CREATED="1414181138302" MODIFIED="1414891517648">
-<font BOLD="false"/>
-</node>
-<node TEXT="C-x r c:   replace with blanks" ID="ID_271353881" CREATED="1414891538893" MODIFIED="1414891546680"/>
-<node TEXT="C-x r t string &lt;RET&gt;" ID="ID_461665821" CREATED="1414892009603" MODIFIED="1414892047539">
-<node ID="ID_808273245" CREATED="1414892047895" MODIFIED="1414892047895"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      replace with string
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="on each line" ID="ID_1429262133" CREATED="1414892021636" MODIFIED="1414892022839"/>
-</node>
-<node TEXT="C-x &lt;space&gt;: highlight as rectangle" ID="ID_169603297" CREATED="1414892073043" MODIFIED="1414892084046"/>
-<node TEXT="M-x string-insert-rectangle &lt;RET&gt; string &lt;RET&gt;" ID="ID_860917634" CREATED="1414892033075" MODIFIED="1414892036111">
-<node TEXT="insert string" ID="ID_621237979" CREATED="1414892047895" MODIFIED="1414892054040"/>
-<node TEXT="on each line" ID="ID_13983847" CREATED="1414892021636" MODIFIED="1414892022839"/>
-</node>
-<node TEXT="M-x delete-whitespace-rectangle" ID="ID_92626320" CREATED="1414891997773" MODIFIED="1414891998216"/>
-</node>
-<node TEXT="search" ID="ID_143832913" CREATED="1414180166557" MODIFIED="1414180167896">
-<node TEXT="tag find tag regexp" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_90582239" CREATED="1414214125281" MODIFIED="1414214147124"/>
-<node TEXT="search" ID="ID_1025709553" CREATED="1414180227216" MODIFIED="1414180229043">
-<node TEXT="C-{s|r}: search {forward | backward}" ID="ID_181034569" CREATED="1414180238911" MODIFIED="1414180260661"/>
-<node TEXT="next: C-s" ID="ID_802955730" CREATED="1414180655121" MODIFIED="1414180670283"/>
-<node TEXT="prev: &lt;DEL&gt;" LOCALIZED_STYLE_REF="default" ID="ID_857348863" CREATED="1414180666928" MODIFIED="1414180679113"/>
-<node TEXT="terminate: &lt;RETURN&gt;" ID="ID_722972716" CREATED="1414180697989" MODIFIED="1414180703648"/>
-<node TEXT="weird, hopefully ignorable" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1575791896" CREATED="1414180802287" MODIFIED="1414180808911">
-<node TEXT="If you are in the middle of an incremental search and type &lt;DEL&gt;, the&#xa;search &quot;retreats&quot; to an earlier location.  If you type &lt;DEL&gt; just&#xa;after you had typed C-s to advance to the next occurrence of a search&#xa;string, the &lt;DEL&gt; moves the cursor back to an earlier occurrence.  If&#xa;there are no earlier occurrences, the &lt;DEL&gt; erases the last character&#xa;in the search string.  For instance, suppose you have typed &quot;c&quot;, to&#xa;search for the first occurrence of &quot;c&quot;.  Now if you type &quot;u&quot;, the&#xa;cursor will move to the first occurrence of &quot;cu&quot;.  Now type &lt;DEL&gt;.&#xa;This erases the &quot;u&quot; from the search string, and the cursor moves back&#xa;to the first occurrence of &quot;c&quot;." ID="ID_1993410016" CREATED="1414180809428" MODIFIED="1414180809954"/>
-</node>
-</node>
-<node TEXT="search + replace" ID="ID_1781092557" CREATED="1414176245086" MODIFIED="1414180231746">
-<node TEXT="M-x &quot;replace-string&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1481645959" CREATED="1414176252893" MODIFIED="1414178416045">
-<node TEXT="seems only to involve what is after the cursor (or the highlight, if there is one)" ID="ID_730054927" CREATED="1414178417826" MODIFIED="1414178431036"/>
-</node>
-</node>
-</node>
-<node TEXT="cursor" ID="ID_195164666" CREATED="1414100800359" MODIFIED="1414100801402">
-<node TEXT="by space or word" ID="ID_1397716444" CREATED="1414101181260" MODIFIED="1414101183357">
-<node TEXT="single space" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_814090988" CREATED="1414100802004" MODIFIED="1414100977706">
-<node TEXT="C-{b,f,p,n}" ID="ID_1095328056" CREATED="1414100809525" MODIFIED="1414100850806"/>
-<node TEXT="back, forward" ID="ID_1642219673" CREATED="1414100817181" MODIFIED="1414100975118"/>
-<node TEXT="uP, dowN = Prev, Next" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1342194659" CREATED="1414100975439" MODIFIED="1414101370182"/>
-</node>
-<node TEXT="whole word: M-{b,f}" ID="ID_1290184061" CREATED="1414101019002" MODIFIED="1414101190318"/>
-</node>
-<node TEXT="by line or sentence" ID="ID_1241057816" CREATED="1414101192153" MODIFIED="1414101194718">
-<node TEXT="C-{a|e}" ID="ID_1877060495" CREATED="1414101233728" MODIFIED="1414101239891"/>
-<node TEXT="M-{a|e}" ID="ID_1096344381" CREATED="1414101240125" MODIFIED="1414101245754"/>
-</node>
-<node TEXT="whole file" ID="ID_1399442982" CREATED="1414101426349" MODIFIED="1414101428290">
-<node TEXT="M-{&lt;|&gt;}" ID="ID_704706878" CREATED="1414101428709" MODIFIED="1414101440873"/>
-</node>
-</node>
-<node TEXT="above: &quot;fundamental mode&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1584800941" CREATED="1414179079768" MODIFIED="1414179136908"/>
-<node TEXT="other modes" ID="ID_89195363" CREATED="1414194069777" MODIFIED="1414194071976">
-<font BOLD="true"/>
-<node TEXT="text (human-readable)" ID="ID_818979378" CREATED="1414179154744" MODIFIED="1414179698066">
-<node TEXT="M-x &quot;text-mode&quot;" ID="ID_470205625" CREATED="1414179161943" MODIFIED="1414179165634"/>
-</node>
-<node TEXT="Haskell-mode" ID="ID_806525581" CREATED="1414194062186" MODIFIED="1414194064693"/>
-<node TEXT="Lisp" ID="ID_284156701" CREATED="1414100088044" MODIFIED="1414179694123">
-<font BOLD="false"/>
-<node TEXT="see Lisp/Emacs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1061766179" CREATED="1414099209842" MODIFIED="1414100091615"/>
-</node>
-<node TEXT="above: major modes; below: minor modes" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1040140529" CREATED="1414179689024" MODIFIED="1414194096898"/>
-<node TEXT="minor modes" ID="ID_1484383015" CREATED="1414179700936" MODIFIED="1414179703087">
-<node TEXT="auto-fill" ID="ID_1454470836" CREATED="1414179682985" MODIFIED="1414179708818">
-<node TEXT="why: to break lines between words" ID="ID_984367776" CREATED="1414179716309" MODIFIED="1414180098839"/>
-<node TEXT="how" ID="ID_380357525" CREATED="1414180092276" MODIFIED="1414180092824">
-<node TEXT="enter: M-x &quot;auto-fill-mode&quot;" ID="ID_758261889" CREATED="1414179727996" MODIFIED="1414180079224"/>
-<node TEXT="re-fill a paragraph: M-q, from within it" ID="ID_1760745301" CREATED="1414180054159" MODIFIED="1414180089839"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="internalized" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1282302055" CREATED="1414182147522" MODIFIED="1414182150427">
-<node TEXT="C = Control, M = alt" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_828133828" CREATED="1414099974406" MODIFIED="1414100096176"/>
-<node TEXT="design principles" LOCALIZED_STYLE_REF="default" ID="ID_891370267" CREATED="1414101114650" MODIFIED="1414103991353">
-<node TEXT="M for word-based operations, C for ones independent of words (e.g. line, column)" ID="ID_1702735032" CREATED="1414101126726" MODIFIED="1414101154384"/>
-</node>
-</node>
-</node>
-<node TEXT="read it" ID="ID_1494798228" CREATED="1414102081060" MODIFIED="1414891372363">
-<node TEXT="announcements" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_232543657" CREATED="1414098320899" MODIFIED="1414102084948">
-<node TEXT="will happen while typing, even absent evaluation" ID="ID_1558509380" CREATED="1414098323348" MODIFIED="1414098333493">
-<node TEXT="e.g. &quot;that is not defined&quot;" ID="ID_631438704" CREATED="1414098333913" MODIFIED="1414098337549"/>
-</node>
-</node>
-<node TEXT="commands" ID="ID_501940332" CREATED="1414102087738" MODIFIED="1414102090405">
-<node TEXT="links in" ID="ID_1344283160" CREATED="1414105398751" MODIFIED="1414105400180"/>
-<node TEXT="are displayed at bottom, in the &quot;minibuffer&quot;, at least if sufficiently complex" ID="ID_110691612" CREATED="1414102090681" MODIFIED="1414105395779"/>
-</node>
-<node TEXT="the mode line" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1484340815" CREATED="1414178626023" MODIFIED="1414178628320">
-<node TEXT="indicates percentage of file above cursor" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_312443279" CREATED="1414178629143" MODIFIED="1414178677996">
-<node TEXT="exceptions" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_302823333" CREATED="1414178678539" MODIFIED="1414178681299"/>
-<node TEXT="If the top of the buffer is on the screen, it will say &quot;Top&quot; instead&#xa;of &quot; 0%&quot;.  If the bottom of the buffer is on the screen, it will say&#xa;&quot;Bot&quot;.  If you are looking at a buffer so small that all of it fits on&#xa;the screen, the mode line says &quot;All&quot;." ID="ID_1216294104" CREATED="1414178696081" MODIFIED="1414178696661"/>
-</node>
-<node TEXT="stars at right edge = &quot;unsaved changes&quot;" ID="ID_1335040161" CREATED="1414178836748" MODIFIED="1414178850302"/>
-</node>
-<node TEXT="&quot;dividing rows&quot;" ID="ID_1667895614" CREATED="1414634419537" MODIFIED="1414634423205">
-<node TEXT=".= a term I am making up" ID="ID_1840581740" CREATED="1414634424602" MODIFIED="1414634429765"/>
-<node TEXT="each describes the window immediately above itself" ID="ID_11019289" CREATED="1414634429961" MODIFIED="1414634440957"/>
-</node>
-</node>
-<node TEXT="vocab" ID="ID_249171786" CREATED="1414101286731" MODIFIED="1414101287422">
-<node TEXT="point = where the cursor is" ID="ID_141686959" CREATED="1414101287635" MODIFIED="1414104039888"/>
-<node TEXT="cut/paste = kill/yank" ID="ID_665375125" CREATED="1414104343526" MODIFIED="1414104349329"/>
-<node TEXT="kill &#x2260; delete" ID="ID_10797762" CREATED="1414103943378" MODIFIED="1414103953558">
-<node TEXT="killed text can be reinserted" ID="ID_1299981340" CREATED="1414103954049" MODIFIED="1414103962492"/>
-<node TEXT="deletions can be undone, though" ID="ID_1843994454" CREATED="1414103965224" MODIFIED="1414103970428"/>
-</node>
-<node TEXT="minibuffer" ID="ID_824562121" CREATED="1414105400601" MODIFIED="1414105403750">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="10" FONT_FAMILY="Ayuthaya" DESTINATION="ID_1344283160" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-</node>
-</node>
-<node TEXT=".1/2" ID="ID_1653411854" CREATED="1329846883456" MODIFIED="1414634393726">
-<node TEXT="1" ID="ID_1980974601" CREATED="1398300292078" MODIFIED="1398300292312">
-<node TEXT="personal motivation" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1540289002" CREATED="1303318670619" MODIFIED="1398299593269">
-<icon BUILTIN="yes"/>
-<node TEXT="it does folding" ID="ID_23916000" CREATED="1301522215340" MODIFIED="1329505772364">
-<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
-</node>
-<node TEXT="JEdit eats documents" ID="ID_337531952" CREATED="1301522222892" MODIFIED="1311539389551"/>
-</node>
-<node TEXT="candidates Emacs beats" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1071486470" CREATED="1303318673683" MODIFIED="1398299593266">
-<node TEXT="both of which I also downloaded" ID="ID_1467186989" CREATED="1303318686746" MODIFIED="1337634513113" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
-</node>
-<node TEXT="Komodo" ID="ID_1617747581" CREATED="1303318690050" MODIFIED="1311539389545"/>
-<node TEXT="Eclipse" ID="ID_867151825" CREATED="1303318692098" MODIFIED="1311539389543"/>
-</node>
-<node TEXT="notes" ID="ID_752254746" CREATED="1329852968545" MODIFIED="1414634349854">
-<font BOLD="true"/>
-<node TEXT="notation" ID="ID_782849359" CREATED="1329852970825" MODIFIED="1329852972234" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<node TEXT="C = Ctrl" ID="ID_573652695" CREATED="1329852972577" MODIFIED="1329852994244"/>
-<node TEXT="M = Alt/Opt" ID="ID_297412445" CREATED="1329852975545" MODIFIED="1329852997900"/>
-</node>
-<node TEXT="moving" ID="ID_1592092079" CREATED="1329852952457" MODIFIED="1329852954821">
-<node TEXT="chars: C [b, f]" ID="ID_1842881364" CREATED="1329853323214" MODIFIED="1329861845026">
-<node TEXT="forward/backward" ID="ID_1468996420" CREATED="1329854016585" MODIFIED="1329854016585"/>
-<node TEXT="C-f, C-b" ID="ID_375810875" CREATED="1329853353709" MODIFIED="1329853356769"/>
-</node>
-<node TEXT="words: M [b, f]" ID="ID_444240620" CREATED="1329853564375" MODIFIED="1329861853762">
-<node TEXT="forward/backward" ID="ID_906929500" CREATED="1329854023879" MODIFIED="1329854023879"/>
-<node TEXT="M-f, M-b" ID="ID_651824253" CREATED="1329853573670" MODIFIED="1329853575931"/>
-</node>
-<node TEXT="lines: C [p, n, a, e]" ID="ID_398420409" CREATED="1329853311645" MODIFIED="1329861834267">
-<node TEXT="prev, next" ID="ID_1968880783" CREATED="1329854000696" MODIFIED="1329854006172">
-<node TEXT="C-p, C-n" ID="ID_173047500" CREATED="1329853319342" MODIFIED="1329853322578"/>
-</node>
-<node TEXT="to start or end" ID="ID_44936045" CREATED="1329854041599" MODIFIED="1329854049146">
-<node TEXT="C-a, C-e" ID="ID_431877105" CREATED="1329854050982" MODIFIED="1329854053562"/>
-</node>
-</node>
-<node TEXT="sentences: M [a, e]" ID="ID_464338667" CREATED="1329854025159" MODIFIED="1329861969607">
-<node TEXT="parallels &quot;lines&quot;" ID="ID_376821195" CREATED="1329854070966" MODIFIED="1329854075122"/>
-<node TEXT="M-a, M-e" ID="ID_839782603" CREATED="1329854050982" MODIFIED="1329861990462"/>
-</node>
-<node TEXT="screenfulls: [C, M] v" ID="ID_585347964" CREATED="1329853006272" MODIFIED="1329861895338">
-<node TEXT="less hand movement req&apos;d -- faster than the Page buttons" ID="ID_1129165743" CREATED="1329853210034" MODIFIED="1329853227668" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="C-v" ID="ID_867981893" CREATED="1329852954961" MODIFIED="1329852966284"/>
-<node TEXT="M-v" ID="ID_1455879356" CREATED="1329853010481" MODIFIED="1329853013868"/>
-</node>
-<node TEXT="whole document: M [&lt;. &gt;]" ID="ID_625701182" CREATED="1329854260744" MODIFIED="1329861883049">
-<node TEXT="M-&lt;, M-&gt;" ID="ID_1435798288" CREATED="1329854267536" MODIFIED="1329854280747"/>
-</node>
-<node TEXT="center: C-l" ID="ID_1855049765" CREATED="1329853068110" MODIFIED="1329861908194">
-<node TEXT="(that&apos;s an L, not a 1)" ID="ID_788005247" CREATED="1329853099621" MODIFIED="1329853101638" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="done once" ID="ID_515733051" CREATED="1329853160762" MODIFIED="1329853162254">
-<node TEXT="Clear screen and redisplay all the text, moving the text around the cursor to the center of the screen." ID="ID_1577531589" CREATED="1329853079627" MODIFIED="1329853099086"/>
-</node>
-<node TEXT="done twice" ID="ID_140192019" CREATED="1329853163554" MODIFIED="1329853165070">
-<node TEXT="the cursor and surrounding text are moved to the top of the screen" ID="ID_154183576" CREATED="1329853165274" MODIFIED="1329853180135"/>
-</node>
-</node>
-</node>
-<node TEXT="iterating a command" ID="ID_1428626507" CREATED="1329854414771" MODIFIED="1329854418663">
-<node TEXT="Most Emacs commands accept a numeric argument; for most commands, this&#xa;serves as a repeat-count.  The way you give a command a repeat count&#xa;is by typing C-u and then the digits before you type the command.  If&#xa;you have a META (or EDIT or ALT) key, there is another, alternative way&#xa;to enter a numeric argument: type the digits while holding down the&#xa;META key.  We recommend learning the C-u method because it works on&#xa;any terminal." ID="ID_1635423897" CREATED="1329854420307" MODIFIED="1329854422482"/>
-<node TEXT="For some commands the numerical argument is a boolean flag. In this case its value is ignored; only its presence matters." ID="ID_1484303832" CREATED="1329854793528" MODIFIED="1329854820339"/>
-</node>
-<node TEXT="&quot;abort&quot;?" ID="ID_748017321" CREATED="1329854827639" MODIFIED="1329854877074">
-<node TEXT="C-g" ID="ID_1530102881" CREATED="1329854838998" MODIFIED="1329854840418">
-<node TEXT="multiple uses" ID="ID_1709745935" CREATED="1329854902180" MODIFIED="1329862232468" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="&quot;stop safely&quot; if Emacs freezes" ID="ID_1696258716" CREATED="1329854877607" MODIFIED="1329854907016"/>
-<node TEXT="abort a command being executed" ID="ID_771590974" CREATED="1329854851198" MODIFIED="1329854907944"/>
-<node TEXT="erase a numerical input that was going to be prefixed to a command (see &quot;iterating a command&quot;)" ID="ID_1559365774" CREATED="1329854899540" MODIFIED="1329854940120"/>
-</node>
-<node TEXT="&lt;Esc&gt; 3 times" ID="ID_553228600" CREATED="1329862233059" MODIFIED="1329862237943">
-<node TEXT="different but similar" ID="ID_1164027716" CREATED="1329862241891" MODIFIED="1329862246247"/>
-<node TEXT="useful in particular for escaping a recursive editing window" ID="ID_1131907617" CREATED="1329862278890" MODIFIED="1329862288798">
-<node TEXT="because C-g just cancels commands from within that window" ID="ID_1617021652" CREATED="1329862292953" MODIFIED="1329862304669"/>
-</node>
-</node>
-</node>
-<node TEXT="deleting &amp; killing" ID="ID_1069488053" CREATED="1329855620382" MODIFIED="1329856488072">
-<node TEXT="notes" ID="ID_562399733" CREATED="1329856499204" MODIFIED="1329856986905" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<node TEXT="&quot;deleting&quot; = normal" ID="ID_852168544" CREATED="1329856503148" MODIFIED="1329856511415"/>
-<node TEXT="&quot;killing&quot; = deleting with ability to recall elsewhere" ID="ID_1432805492" CREATED="1329856488996" MODIFIED="1329856498872"/>
-<node TEXT="&quot;Delete&quot; and &quot;Backspace&quot; do the same thing" ID="ID_1282121476" CREATED="1329855622190" MODIFIED="1329856516672"/>
-</node>
-<node TEXT="delete" ID="ID_729326096" CREATED="1329856527563" MODIFIED="1329856529127">
-<node TEXT="these can be changed to kills by adding a numerical argument" ID="ID_1250039222" CREATED="1329856583121" MODIFIED="1329856593457" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="char before cursor" ID="ID_975879826" CREATED="1329856124095" MODIFIED="1329856126947">
-<node TEXT="&lt;Delback&gt;" ID="ID_751890994" CREATED="1329856127199" MODIFIED="1329856158010"/>
-</node>
-<node TEXT="char after cursor" ID="ID_819751994" CREATED="1329856117359" MODIFIED="1329856121123">
-<node TEXT="C-d" ID="ID_45465388" CREATED="1329856121311" MODIFIED="1329856122315"/>
-</node>
-</node>
-<node TEXT="kill" ID="ID_933251588" CREATED="1329856530779" MODIFIED="1329856531815">
-<node TEXT="word before cursor" ID="ID_619543640" CREATED="1329856141111" MODIFIED="1329856145594">
-<node TEXT="M-&lt;Delback&gt;" ID="ID_1437711696" CREATED="1329856145838" MODIFIED="1329856156098"/>
-</node>
-<node TEXT="word after cursor" ID="ID_1166257513" CREATED="1329856161790" MODIFIED="1329856165642">
-<node TEXT="M-d" ID="ID_398311949" CREATED="1329856166398" MODIFIED="1329856167258"/>
-</node>
-<node TEXT="cursor to end of line" ID="ID_1433475683" CREATED="1329856169374" MODIFIED="1329856178249">
-<node TEXT="C-k" ID="ID_389088599" CREATED="1329856180501" MODIFIED="1329856182433"/>
-<node TEXT="a second time deletes the trailing newline" ID="ID_1586734333" CREATED="1329856675222" MODIFIED="1329856693294" COLOR="#996600">
-<icon BUILTIN="password"/>
-<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
-</node>
-</node>
-<node TEXT="cursor to end of sentence" ID="ID_549522694" CREATED="1329856183357" MODIFIED="1329856189313">
-<node TEXT="M-k" ID="ID_1626636321" CREATED="1329856189581" MODIFIED="1329856190769"/>
-</node>
-<node TEXT="highlight and delete" ID="ID_1566881462" CREATED="1329856368240" MODIFIED="1329856372971">
-<node TEXT="in sequence" ID="ID_854286763" CREATED="1329856388487" MODIFIED="1329856390280" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="C-&lt;Space&gt; to set mark" ID="ID_340229773" CREATED="1329856373151" MODIFIED="1329856380643"/>
-<node TEXT="move cursor to other end" ID="ID_561924004" CREATED="1329856380903" MODIFIED="1329856386027"/>
-<node TEXT="C-w" ID="ID_536189326" CREATED="1329856386255" MODIFIED="1329856387723"/>
-</node>
-</node>
-<node TEXT="yank" ID="ID_381316423" CREATED="1329856789067" MODIFIED="1329856790775">
-<node TEXT="yank: C-y" ID="ID_869617982" CREATED="1329856829594" MODIFIED="1329857076014">
-<node TEXT="insert last killed text at cursor" ID="ID_1822710479" CREATED="1329856891233" MODIFIED="1329856891233"/>
-<node TEXT="if multiple things were killed in series, this replaces all of them" ID="ID_1254229656" CREATED="1329856891664" MODIFIED="1329856903787"/>
-</node>
-<node TEXT="earlier yank: M-y" ID="ID_617008896" CREATED="1329857065002" MODIFIED="1329857095582">
-<node TEXT="to be called after C-y" ID="ID_667294533" CREATED="1329857089746" MODIFIED="1329857098470"/>
-<node TEXT="replaces the yanked text with an earlier kill. can be repeated." ID="ID_329455213" CREATED="1329856966894" MODIFIED="1329857106231"/>
-<node TEXT="do that enough, and the most recent kill will eventually cycle back around" ID="ID_1542104534" CREATED="1329857106529" MODIFIED="1329857106893"/>
-</node>
-</node>
-</node>
-<node TEXT="undo" ID="ID_393811716" CREATED="1329857183183" MODIFIED="1329857184683">
-<node TEXT="C-/" ID="ID_540781744" CREATED="1329857471367" MODIFIED="1329857473131"/>
-<node TEXT="alternatives" ID="ID_1088941205" CREATED="1329857430504" MODIFIED="1329857476762" COLOR="#18898b" STYLE="fork">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
-<node TEXT="C-_" ID="ID_1642460302" CREATED="1329857403673" MODIFIED="1329857405245"/>
-<node TEXT="C-x, u" ID="ID_1742589917" CREATED="1329857185079" MODIFIED="1329857187171">
-<node TEXT="possible on more keyboards" ID="ID_819460778" CREATED="1329857434792" MODIFIED="1329857490922"/>
-</node>
-</node>
-</node>
-<node TEXT="files" ID="ID_734949614" CREATED="1329857961968" MODIFIED="1329857963396">
-<node TEXT="find a file" ID="ID_168474671" CREATED="1329858061005" MODIFIED="1329858064705">
-<node TEXT="C-x C-f" ID="ID_85775964" CREATED="1329858065205" MODIFIED="1329858068825"/>
-<node TEXT="then type filename at prompt" ID="ID_1545079516" CREATED="1329858339933" MODIFIED="1329858351521"/>
-<node TEXT="if file doesn&apos;t yet exist" ID="ID_74904330" CREATED="1329858351764" MODIFIED="1329858368078" COLOR="#cc3300" STYLE="fork">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
-<node TEXT="Emacs will display a blank document to edit" ID="ID_1732599688" CREATED="1329858372948" MODIFIED="1329858387687"/>
-<node TEXT="but the document still won&apos;t exist until saved" ID="ID_1847146199" CREATED="1329858387915" MODIFIED="1329858397975"/>
-</node>
-</node>
-<node TEXT="save current buffer" ID="ID_439876113" CREATED="1329858405227" MODIFIED="1329859028029">
-<node TEXT="C-x C-s" ID="ID_537374336" CREATED="1329858407059" MODIFIED="1329858410327"/>
-</node>
-<node TEXT="save some buffers" ID="ID_1900713619" CREATED="1329859022561" MODIFIED="1329859025813">
-<node TEXT="C-x s" ID="ID_1759868224" CREATED="1329859030993" MODIFIED="1329859032844">
-<node TEXT="no C- before second character" ID="ID_807042009" CREATED="1329859038368" MODIFIED="1329859042940"/>
-</node>
-<node TEXT="will aks about each" ID="ID_1739502420" CREATED="1329859053232" MODIFIED="1329859057156"/>
-</node>
-<node TEXT="list open buffers" ID="ID_238898490" CREATED="1329858504248" MODIFIED="1329858513668">
-<node TEXT="there&apos;s one for each file being edited" ID="ID_339087119" CREATED="1329858514184" MODIFIED="1329858519257" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="C-x C-b" ID="ID_1306385452" CREATED="1329858521480" MODIFIED="1329858524852"/>
-</node>
-<node TEXT="switch buffer" ID="ID_726910201" CREATED="1329858834470" MODIFIED="1329858836170">
-<node TEXT="C-x b" ID="ID_723426164" CREATED="1329858857294" MODIFIED="1329858860186">
-<node TEXT="no C- before second character" ID="ID_841838046" CREATED="1329859038368" MODIFIED="1329859042940"/>
-</node>
-<node TEXT="to go to the default buffer, just press Return" ID="ID_545439288" CREATED="1329858947219" MODIFIED="1329858957567"/>
-</node>
-</node>
-<node TEXT="infrequent commands" ID="ID_1876799762" CREATED="1329859507658" MODIFIED="1329859513286">
-<node TEXT="two kinds" ID="ID_1389783636" CREATED="1329859533602" MODIFIED="1329859538110"/>
-<node TEXT="moderately rare: C-x C-?" ID="ID_700720777" CREATED="1329859513450" MODIFIED="1329859541917">
-<node TEXT="the ? is another character" ID="ID_28191969" CREATED="1329859520194" MODIFIED="1329859524510"/>
-</node>
-<node TEXT="rarest: M-x" ID="ID_1831490260" CREATED="1329859542265" MODIFIED="1329859551469">
-<node TEXT="calls a prompt for the name of the command" ID="ID_722328805" CREATED="1329859547622" MODIFIED="1329859561429"/>
-<node TEXT="use &quot;Tab&quot; to complete a partial name" ID="ID_705278455" CREATED="1329859561649" MODIFIED="1329859567973"/>
-</node>
-</node>
-<node TEXT="autosave" ID="ID_1304384215" CREATED="1329859729268" MODIFIED="1329859733376">
-<node TEXT="saves everything you&apos;re working on, with weird filenames" ID="ID_433664754" CREATED="1329859733580" MODIFIED="1329859748807"/>
-<node TEXT="see tutorial for how to recover them, circa line 712" ID="ID_534818005" CREATED="1329859749052" MODIFIED="1329859956067"/>
-</node>
-<node TEXT="modes" ID="ID_1786667472" CREATED="1329860104953" MODIFIED="1329860106061">
-<node TEXT="major &amp; minor modes" ID="ID_476913836" CREATED="1329860425928" MODIFIED="1329860429252">
-<node TEXT="the idea" ID="ID_409121164" CREATED="1329860433584" MODIFIED="1329860434604">
-<node TEXT="only one major mode at a time" ID="ID_1553798186" CREATED="1329860402928" MODIFIED="1329860412652"/>
-<node TEXT="many minor modes possible at once" ID="ID_323366660" CREATED="1329860412864" MODIFIED="1329860422492"/>
-</node>
-<node TEXT="examples" ID="ID_497694773" CREATED="1329860436256" MODIFIED="1329860437307">
-<node TEXT="major" ID="ID_1666933691" CREATED="1329860388281" MODIFIED="1329860391133">
-<node TEXT="Fundamental" ID="ID_905956420" CREATED="1329860115313" MODIFIED="1329860116725"/>
-<node TEXT="Text" ID="ID_552659567" CREATED="1329860116937" MODIFIED="1329860117717"/>
-<node TEXT="Lisp" ID="ID_156304011" CREATED="1329860117961" MODIFIED="1329860119157"/>
-</node>
-<node TEXT="minor" ID="ID_544244728" CREATED="1329860400993" MODIFIED="1329860401900">
-<node TEXT="auto-fill" ID="ID_1677227889" CREATED="1329860440951" MODIFIED="1329860442723">
-<node TEXT="makes text wrap between words" ID="ID_321466453" CREATED="1329860456055" MODIFIED="1329860464955"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="to change" ID="ID_352356579" CREATED="1329860123065" MODIFIED="1329860124805">
-<node TEXT="M-x text-mode" ID="ID_455461728" CREATED="1329860125817" MODIFIED="1329860128700"/>
-</node>
-<node TEXT="to view documentation" ID="ID_792459917" CREATED="1329860192870" MODIFIED="1329860196402">
-<node TEXT="C-h m" ID="ID_1038610099" CREATED="1329860196646" MODIFIED="1329860198218"/>
-</node>
-</node>
-<node TEXT="search" ID="ID_1242894368" CREATED="1329860803005" MODIFIED="1329860803953">
-<node TEXT="C-s, C-r" ID="ID_1544674133" CREATED="1329860834636" MODIFIED="1329860845448">
-<node TEXT="forward/reverse" ID="ID_1645920904" CREATED="1329860845916" MODIFIED="1329860849567"/>
-<node TEXT="&lt;Delback&gt;" ID="ID_907583103" CREATED="1329860931593" MODIFIED="1329860938597">
-<node TEXT="during a search, this iterates backwards through the search results" ID="ID_896273796" CREATED="1329860934457" MODIFIED="1329860961028"/>
-</node>
-</node>
-</node>
-<node TEXT="windowing" ID="ID_144108403" CREATED="1329861344293" MODIFIED="1329861354401">
-<node TEXT="terms" ID="ID_712600395" CREATED="1329862027393" MODIFIED="1329862030434" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<node TEXT="frame = Mac-level window" ID="ID_572290699" CREATED="1329862047273" MODIFIED="1329862051220"/>
-<node TEXT="window = Emacs-level window" ID="ID_1128039991" CREATED="1329862030921" MODIFIED="1329862064252"/>
-</node>
-<node TEXT="windows" ID="ID_78224359" CREATED="1329862138622" MODIFIED="1329862140146">
-<node TEXT="close all other windows" ID="ID_498762240" CREATED="1329855122253" MODIFIED="1329855127569">
-<node TEXT="C-x 1" ID="ID_1027416199" CREATED="1329855114126" MODIFIED="1329855119314"/>
-</node>
-<node TEXT="two windows onto same file" ID="ID_766795415" CREATED="1329861358845" MODIFIED="1329861366112">
-<node TEXT="create split" ID="ID_112785771" CREATED="1329861452186" MODIFIED="1329861454390">
-<node TEXT="C-x 2" ID="ID_1819878129" CREATED="1329861444794" MODIFIED="1329861446486"/>
-</node>
-<node TEXT="scroll other window" ID="ID_1432530418" CREATED="1329861464081" MODIFIED="1329861509708">
-<node TEXT="C-M-v" ID="ID_1055355568" CREATED="1329861466969" MODIFIED="1329861473325"/>
-</node>
-<node TEXT="move cursor to Other window" ID="ID_1057964031" CREATED="1329861477249" MODIFIED="1329861503126">
-<node TEXT="C-x o" ID="ID_1893208817" CREATED="1329861482249" MODIFIED="1329861747431"/>
-</node>
-</node>
-<node TEXT="two windows onto distinct files" ID="ID_1735872431" CREATED="1329861627165" MODIFIED="1329861631777">
-<node TEXT="open second window as above" ID="ID_92451957" CREATED="1329861631981" MODIFIED="1329861636417"/>
-<node TEXT="then open a new file in one of them" ID="ID_1707077835" CREATED="1329861636645" MODIFIED="1329861641992"/>
-</node>
-</node>
-<node TEXT="frames" ID="ID_842195068" CREATED="1329862141510" MODIFIED="1329862142994">
-<node TEXT="M-x make-frame" ID="ID_1725144525" CREATED="1329862143366" MODIFIED="1329862149882"/>
-<node TEXT="M-x delete-frame" ID="ID_1421597480" CREATED="1329862143366" MODIFIED="1329862153545"/>
-</node>
-<node TEXT="quit, suspend" ID="ID_824219813" CREATED="1329859193388" MODIFIED="1329859290573">
-<node TEXT="quit" ID="ID_80235750" CREATED="1329859291825" MODIFIED="1329859293733">
-<node TEXT="C-x C-c" ID="ID_1007031143" CREATED="1329859201116" MODIFIED="1329859203503"/>
-</node>
-<node TEXT="suspend" ID="ID_39326938" CREATED="1329859284409" MODIFIED="1329859331354" COLOR="#18898b" STYLE="fork">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
-<node TEXT="C-z" ID="ID_52893063" CREATED="1329859296049" MODIFIED="1329859311900"/>
-<node TEXT="for use in single-application shell environments" ID="ID_340527913" CREATED="1329859327264" MODIFIED="1329859366916"/>
-<node TEXT="see tutorial, under &quot;Extending the command set&quot;" ID="ID_1255574026" CREATED="1329859312232" MODIFIED="1329859326844"/>
-</node>
-</node>
-</node>
-<node TEXT="help" ID="ID_233256968" CREATED="1329862347128" MODIFIED="1329862348052">
-<node TEXT="more options left uncopied; see tutorial" ID="ID_1490061921" CREATED="1329862608720" MODIFIED="1329862620692" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="C-h character" ID="ID_66060032" CREATED="1329862348224" MODIFIED="1329862524071">
-<node TEXT="various choices for character" ID="ID_1927785564" CREATED="1329862511883" MODIFIED="1329862519711"/>
-<node TEXT="use character &quot;?&quot; for a list of other possibilities" ID="ID_579406029" CREATED="1329862519915" MODIFIED="1329862532806"/>
-</node>
-<node TEXT="C-h c command-name" ID="ID_1658782029" CREATED="1329862533602" MODIFIED="1329862537966">
-<node TEXT="probably the most often used" ID="ID_1553972833" CREATED="1329862539194" MODIFIED="1329862553598"/>
-</node>
-<node TEXT="C-h f function" ID="ID_841082581" CREATED="1329862564449" MODIFIED="1329862567637"/>
-</node>
-<node TEXT="didn&apos;t understand" ID="ID_800215360" CREATED="1329860719623" MODIFIED="1329860722240" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-<node TEXT="the part about margins" ID="ID_906796024" CREATED="1329860750030" MODIFIED="1329860753090">
-<node TEXT="C-x f" ID="ID_602605251" CREATED="1329860758726" MODIFIED="1329860760370"/>
-<node TEXT="line 816" ID="ID_594085576" CREATED="1329860765166" MODIFIED="1329860769858"/>
-</node>
-</node>
-</node>
-<node TEXT="next" ID="ID_1402509466" CREATED="1329863127489" MODIFIED="1329863128485">
-<node TEXT="get folding working" ID="ID_463906002" CREATED="1329867321508" MODIFIED="1329867324447">
-<node TEXT="The minor mode seems like what I want, but I think I&apos;ll have to learn the major mode because the minor mode expects me to know that." ID="ID_1985906687" CREATED="1329867362170" MODIFIED="1329867396776" COLOR="#669900">
-<font NAME="SansSerif" SIZE="10" BOLD="true"/>
-</node>
-<node TEXT="major mode" ID="ID_529895151" CREATED="1329867353762" MODIFIED="1329867355077">
-<node TEXT="http://www.emacswiki.org/emacs/OutlineMode" ID="ID_1496427229" CREATED="1329867346807" MODIFIED="1329867346807" LINK="http://www.emacswiki.org/emacs/OutlineMode"/>
-</node>
-<node TEXT="minor mode" ID="ID_1791761428" CREATED="1329867350363" MODIFIED="1329867351957">
-<node TEXT="http://www.emacswiki.org/emacs/OutlineMinorMode" ID="ID_639204127" CREATED="1329867342565" MODIFIED="1329867342565" LINK="http://www.emacswiki.org/emacs/OutlineMinorMode"/>
-</node>
-</node>
-<node TEXT="check out the &quot;Guided Tour&quot;" ID="ID_1656380448" CREATED="1329863129417" MODIFIED="1329863137885">
-<node TEXT="http://www.gnu.org/software/emacs/tour/" ID="ID_1688491012" CREATED="1329863128788" MODIFIED="1329863128788" LINK="http://www.gnu.org/software/emacs/tour/"/>
-</node>
-</node>
-<node TEXT="it would be helpful if the cursor was a different color" ID="ID_523884960" CREATED="1329854142339" MODIFIED="1329854150031"/>
-<node TEXT="things it works with" ID="ID_296637545" CREATED="1329862895344" MODIFIED="1329862898444">
-<node TEXT="GDB" ID="ID_405844563" CREATED="1329862898744" MODIFIED="1329862899652">
-<node TEXT="Gnu Debugger" ID="ID_1358674057" CREATED="1329862899943" MODIFIED="1329862902523"/>
-</node>
-</node>
-</node>
-<node TEXT="2" ID="ID_1700494229" CREATED="1374040159445" MODIFIED="1398300294024">
-<node TEXT="next" ID="ID_1008875637" CREATED="1374041412994" MODIFIED="1374041413708">
-<node TEXT="http://www.gnu.org/software/emacs/tour/" ID="ID_784505453" CREATED="1374041405336" MODIFIED="1374041405336" LINK="http://www.gnu.org/software/emacs/tour/"/>
-</node>
-<node TEXT="notes" ID="ID_783641722" CREATED="1374041414673" MODIFIED="1374041416293">
-<node TEXT="key notation" ID="ID_787746689" CREATED="1374040174036" MODIFIED="1374040188502">
-<node TEXT="M = escape" ID="ID_1151540762" CREATED="1374040188668" MODIFIED="1374040193471"/>
-<node TEXT="C = ctrl" ID="ID_205125522" CREATED="1374040193675" MODIFIED="1374040196855"/>
-</node>
-<node TEXT="shortcuts" ID="ID_1653146306" CREATED="1374040618264" MODIFIED="1374040619451">
-<node TEXT="http://www.readability.com/articles/gv0ajnn3" ID="ID_660900189" CREATED="1374040619784" MODIFIED="1374040619784" LINK="http://www.readability.com/articles/gv0ajnn3"/>
-<node TEXT="surprisingly possible" ID="ID_1302955787" CREATED="1374040665599" MODIFIED="1374040669946">
-<node TEXT="&quot;Show all commands containing string in their name&quot;" ID="ID_900229943" CREATED="1374040670439" MODIFIED="1374040673033">
-<node TEXT="http://www.readability.com/articles/gv0ajnn3" ID="ID_1452919637" CREATED="1374040619784" MODIFIED="1374040619784" LINK="http://www.readability.com/articles/gv0ajnn3"/>
-</node>
-<node TEXT="Repeat a command n times" ID="ID_407850127" CREATED="1374040687550" MODIFIED="1374040692689">
-<node TEXT="http://www.readability.com/articles/gv0ajnn3" ID="ID_1621320696" CREATED="1374040619784" MODIFIED="1374040619784" LINK="http://www.readability.com/articles/gv0ajnn3"/>
-<node TEXT="&quot;Used before a command, repeats it n times (same as C-u n)&quot;" ID="ID_1452120637" CREATED="1374040693317" MODIFIED="1374040694689"/>
-</node>
-<node TEXT="Swap this and previous character." ID="ID_570698556" CREATED="1374040917183" MODIFIED="1374040921105"/>
-<node TEXT="Swap this and next word." ID="ID_1185468918" CREATED="1374041048844" MODIFIED="1374041056343">
-<node TEXT="&quot;Reverse words around point&quot;" ID="ID_818870435" CREATED="1374041056524" MODIFIED="1374041059303"/>
-</node>
-<node TEXT="Collapse whitespace around point" ID="ID_733359056" CREATED="1374041111562" MODIFIED="1374041118709">
-<node TEXT="&quot;Close up all blank lines above and below point&quot;" ID="ID_625848055" CREATED="1374041119001" MODIFIED="1374041120101"/>
-</node>
-<node TEXT="&quot;Sentence Operations&quot;" ID="ID_1979720663" CREATED="1374041189928" MODIFIED="1374041191923"/>
-<node TEXT="&quot;Paragraph Operations&quot;" ID="ID_1505706638" CREATED="1374041201592" MODIFIED="1374041205163"/>
-<node TEXT="&quot;Screen Operations&quot;" ID="ID_1388200738" CREATED="1374041218943" MODIFIED="1374041220194"/>
-<node TEXT="&quot;Page Operations&quot;" ID="ID_1862863323" CREATED="1374041244662" MODIFIED="1374041245913"/>
-<node TEXT="Center screen" ID="ID_1391300521" CREATED="1374041229526" MODIFIED="1374041231450">
-<node TEXT="&quot;Redisplay current screen and center point&quot;" ID="ID_1363673332" CREATED="1374041231775" MODIFIED="1374041232986"/>
-</node>
-<node TEXT="&quot;Region Operations&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_191586293" CREATED="1374041288053" MODIFIED="1374041289879">
-<node TEXT="region of screen between point and mark" ID="ID_1690618760" CREATED="1374041290533" MODIFIED="1374041296056"/>
-</node>
-</node>
-<node TEXT="might want to search for" ID="ID_1864353270" CREATED="1374040959903" MODIFIED="1374040974897">
-<node TEXT="&quot;Move point one word to the left&quot;" ID="ID_708363592" CREATED="1374040975830" MODIFIED="1374040985833"/>
-<node TEXT="&quot;Delete one word to the&quot;" ID="ID_562747377" CREATED="1374041000933" MODIFIED="1374041002000"/>
-<node TEXT="&quot;beginning of this line&quot;" ID="ID_900928528" CREATED="1374041080643" MODIFIED="1374041082102"/>
-<node TEXT="&quot;Open up blank line at point&quot;" ID="ID_1629737881" CREATED="1374041086723" MODIFIED="1374041087718"/>
-<node TEXT="&quot;Delete from point to end of line&quot;" ID="ID_721711984" CREATED="1374041131194" MODIFIED="1374041133013"/>
-<node TEXT="&quot;split screen&quot;" ID="ID_719175294" CREATED="1374041343787" MODIFIED="1374041358942"/>
-</node>
-</node>
-<node TEXT="to change environment" ID="ID_1977287822" CREATED="1374040212523" MODIFIED="1374040308985">
-<node TEXT="remove menu bar" ID="ID_1749461559" CREATED="1374040216219" MODIFIED="1374040283549">
-<node TEXT="live, this session only" ID="ID_1554146233" CREATED="1374040311224" MODIFIED="1374040339291">
-<node TEXT="Esc-X menu-bar-mode" ID="ID_1428094194" CREATED="1374040220307" MODIFIED="1374040220518"/>
-</node>
-<node TEXT="for future sessions" ID="ID_440178161" CREATED="1374040312944" MODIFIED="1374040347627">
-<node TEXT="edit ~/.emacs" ID="ID_268286153" CREATED="1374040372382" MODIFIED="1374040380841"/>
-<node TEXT="add this" ID="ID_1482310866" CREATED="1374040381111" MODIFIED="1374040383594">
-<node TEXT="(menu-bar-mode nil)" ID="ID_123849858" CREATED="1374040389054" MODIFIED="1374040389481"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="vocab" ID="ID_515140405" CREATED="1374040430163" MODIFIED="1374040431048">
-<node TEXT="point" ID="ID_666884677" CREATED="1374040431892" MODIFIED="1374040432504">
-<node TEXT="cursor position in buffer" ID="ID_1466277039" CREATED="1374040434037" MODIFIED="1374040439968"/>
-</node>
-<node TEXT="mark" ID="ID_177093545" CREATED="1374040448572" MODIFIED="1374040449456">
-<node TEXT="invisible text marker in the file" ID="ID_1539392473" CREATED="1374040449980" MODIFIED="1374040452151"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="define a shortcut" ID="ID_1709110085" CREATED="1417937530323" MODIFIED="1417937532879">
-<node TEXT="http://www.emacswiki.org/emacs/EmacsLispMode" ID="ID_788143078" CREATED="1417937552049" MODIFIED="1417937552049" LINK="http://www.emacswiki.org/emacs/EmacsLispMode"/>
-<node TEXT="(define-key flyspell-mode-map &quot;\M-\t&quot; nil)" ID="ID_952161789" CREATED="1417937533315" MODIFIED="1417937554718"/>
 </node>
 </node>
 <node TEXT="Tidal +" ID="ID_370683564" CREATED="1414195719623" MODIFIED="1418802873363">
