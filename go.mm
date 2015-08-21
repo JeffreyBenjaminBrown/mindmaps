@@ -614,6 +614,16 @@
 <node TEXT="directed by subject, content v. directed by persons" ID="ID_902613293" CREATED="1422519130116" MODIFIED="1422519148718">
 <node TEXT="building from immediate observation v. building from preconception of the agents involved" ID="ID_1042904558" CREATED="1437257490537" MODIFIED="1437257518863"/>
 </node>
+<node TEXT="relax @ realism" ID="ID_975050579" CREATED="1440115644976" MODIFIED="1440193521411">
+<node TEXT="realism v. optimism" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1643175216" CREATED="1440193550978" MODIFIED="1440193562175"/>
+<node TEXT="&quot;relax, _ is best cuz _ would suck&quot;" ID="ID_1311992207" CREATED="1440115592504" MODIFIED="1440115607041"/>
+</node>
+<node TEXT="respect peace for peace" ID="ID_1887101632" CREATED="1440136406543" MODIFIED="1440194576370">
+<node TEXT="the mandate &quot;respect silence&quot; integrates into the project &quot;respect peace&quot;" ID="ID_215551753" CREATED="1440136415471" MODIFIED="1440194597132">
+<node TEXT="no need to inject energy, music" ID="ID_1115997576" CREATED="1440136438200" MODIFIED="1440136453004"/>
+</node>
+<node TEXT="simply by recogg the power and joy of peace, one gains it, because behaving and thinking that way becomes what one wants" ID="ID_1935266803" CREATED="1440194605548" MODIFIED="1440194647824"/>
+</node>
 </node>
 <node TEXT="rhythm" ID="ID_1007354289" CREATED="1428897063776" MODIFIED="1437258944247">
 <font BOLD="true"/>

@@ -433,6 +433,18 @@
 <node TEXT="when trying his story, Sell Out, in the New Yorker" ID="ID_249835051" CREATED="1361599505230" MODIFIED="1361599515720"/>
 <node TEXT="I bought his book, &quot;The Last Girlfriend on Earth&quot;, $11 on Amazon." ID="ID_548406299" CREATED="1361206369404" MODIFIED="1361599522864"/>
 </node>
+<node TEXT="Simon Rich likes these comedy sources" ID="ID_449573756" CREATED="1439925396765" MODIFIED="1439927030961">
+<node TEXT="http://www.slate.com/articles/podcasts/gist/2015/08/the_gist_simon_rich_on_comedy_writing_and_michael_erard_on_metaphors.html" ID="ID_602735432" CREATED="1439925406327" MODIFIED="1439925406327" LINK="http://www.slate.com/articles/podcasts/gist/2015/08/the_gist_simon_rich_on_comedy_writing_and_michael_erard_on_metaphors.html"/>
+<node TEXT="absurd comedy shows" ID="ID_1376684280" CREATED="1439925364114" MODIFIED="1439925367034">
+<node TEXT="simpsons" ID="ID_1451493933" CREATED="1439925367758" MODIFIED="1439925369772"/>
+<node TEXT="kids in the hall" ID="ID_1529888929" CREATED="1439925369989" MODIFIED="1439925371904"/>
+<node TEXT="mr. show" ID="ID_1748665000" CREATED="1439925372110" MODIFIED="1439925373478"/>
+</node>
+<node TEXT="writers" ID="ID_573549066" CREATED="1439925385499" MODIFIED="1439925386657">
+<node TEXT="pg woodhouse" ID="ID_1996072868" CREATED="1439925387183" MODIFIED="1439925389132"/>
+<node TEXT="more, could not hear" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_38801435" CREATED="1439927043104" MODIFIED="1439927049558"/>
+</node>
+</node>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1065209221" CREATED="1439326073547" MODIFIED="1439326074686">
 <node TEXT="educentric humor" ID="ID_1819854104" CREATED="1335457976715" MODIFIED="1335457978943">
 <node TEXT="Via Jessica Wortman and Tania Iqbal respectively, educentric humor:&#xa;http://animalsdisappointed.tumblr.com/&#xa;http://whatshouldwecallgradschool.tumblr.com/" ID="ID_767149992" CREATED="1335457958645" MODIFIED="1335457959328"/>
@@ -783,6 +795,7 @@
 </node>
 </node>
 </node>
+</node>
 <node TEXT="u" ID="ID_1224487324" CREATED="1439334998454" MODIFIED="1439335002844">
 <font BOLD="true"/>
 <node TEXT="humor @ difficulty" LOCALIZED_STYLE_REF="default" ID="ID_1849652592" CREATED="1430114073677" MODIFIED="1439334706642">
@@ -864,7 +877,11 @@
 <node TEXT="based on chris tucker piece" ID="ID_1642710368" CREATED="1439507776493" MODIFIED="1439507787740"/>
 </node>
 </node>
+<node TEXT="2015 08 20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1343897432" CREATED="1440186320692" MODIFIED="1440186323951"/>
+<node TEXT="comedy script: topic, transition, topic, transition .." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_176421283" CREATED="1439777649321" MODIFIED="1439777878922">
+<node TEXT="scriptish lattice(nonlinear)" ID="ID_328577196" CREATED="1439777879761" MODIFIED="1439777892377"/>
 </node>
+<node TEXT="mine these .mm files for jokes" LOCALIZED_STYLE_REF="default" ID="ID_564297706" CREATED="1440130996634" MODIFIED="1440194472799"/>
 </node>
 </node>
 <node TEXT="music" POSITION="right" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
@@ -949,6 +966,12 @@
 <node TEXT="sound archive, big academic" ID="ID_1672227424" CREATED="1438969622454" MODIFIED="1440115037529">
 <node TEXT="http://cornelluniversity.tumblr.com/post/40770771576/worlds-largest-natural-sound-archive-now-fully" ID="ID_444617505" CREATED="1438969630045" MODIFIED="1438969630045" LINK="http://cornelluniversity.tumblr.com/post/40770771576/worlds-largest-natural-sound-archive-now-fully"/>
 </node>
+</node>
+<node TEXT="2015 08 20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1450174649" CREATED="1440185490376" MODIFIED="1440185495161"/>
+<node TEXT="drummer: use tidal for" ID="ID_1833062058" CREATED="1439601889520" MODIFIED="1439773469222">
+<node TEXT="for: to persuade to join" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_898307797" CREATED="1439773475405" MODIFIED="1439773483311"/>
+<node TEXT="my timing would be perfect" ID="ID_668915824" CREATED="1439601895827" MODIFIED="1439601899083"/>
+<node TEXT="he could be life, I machine" ID="ID_291190481" CREATED="1439601899265" MODIFIED="1439601905410"/>
 </node>
 </node>
 <node TEXT="rhyme" POSITION="right" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
@@ -1197,8 +1220,8 @@
 <node TEXT="seems better to feel it than plan it -- but that would require spending a lot of my time thinking about specific other people, which feels like planning, and a little creepy" ID="ID_1239886445" CREATED="1439424966697" MODIFIED="1439424997314"/>
 </node>
 </node>
-<node TEXT="2015 06 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1132924979" CREATED="1434406962416" MODIFIED="1439419072081">
-<font BOLD="false"/>
+<node TEXT="2015 06 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1132924979" CREATED="1434406962416" MODIFIED="1440193812948">
+<font BOLD="true"/>
 <node TEXT="what I meant?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_571882749" CREATED="1438658830279" MODIFIED="1438658847203">
 <font BOLD="false"/>
 <node TEXT="&quot;[earlier]&quot; &quot;yes, because [transcend earlier]&quot;" ID="ID_442590898" CREATED="1433213119676" MODIFIED="1433213139241">
@@ -1215,6 +1238,13 @@
 <node TEXT="&quot;[offer]?&quot; &quot;(without changing|revealing mood) we&apos;ll talk later&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_362686555" CREATED="1434054680939" MODIFIED="1438659083869">
 <node TEXT="talk when no audience" ID="ID_1313078172" CREATED="1434054711131" MODIFIED="1438659068114"/>
 </node>
+</node>
+<node TEXT="20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_870122888" CREATED="1440193807110" MODIFIED="1440193808210"/>
+<node TEXT="wrinkle nose to ask question, disambiguate" ID="ID_1675764012" CREATED="1440121858480" MODIFIED="1440121864604">
+<node TEXT="&quot;maybe cuz they think I&apos;ll kick someone&apos;s ass?&quot;" ID="ID_726856118" CREATED="1440121868287" MODIFIED="1440121876140"/>
+</node>
+<node TEXT="poker to escape overtelling own story" ID="ID_428679621" CREATED="1440125898795" MODIFIED="1440125923648">
+<node TEXT="if you reveal having a more interesting story they lose interest" ID="ID_1434772829" CREATED="1440125929077" MODIFIED="1440125940417"/>
 </node>
 </node>
 <node TEXT="bundles" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_533607381" CREATED="1439416813526" MODIFIED="1439416816417">

@@ -16487,6 +16487,9 @@
 </node>
 </node>
 </node>
+<node TEXT="8 21" ID="ID_640552991" CREATED="1440192718460" MODIFIED="1440192719795">
+<node TEXT="? foldable, traversable" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_783237805" CREATED="1440103448792" MODIFIED="1440103454331"/>
+</node>
 <node TEXT="Hackage lists reverse dependencies" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_202183884" CREATED="1439753605857" MODIFIED="1439753618441">
 <node TEXT="http://packdeps.haskellers.com/reverse/fgl" ID="ID_21824578" CREATED="1439753618869" MODIFIED="1439753618869" LINK="http://packdeps.haskellers.com/reverse/fgl"/>
 </node>

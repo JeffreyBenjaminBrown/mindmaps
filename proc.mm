@@ -456,10 +456,6 @@
 </node>
 <node TEXT="1-reviewed" ID="ID_188142842" CREATED="1435044436253" MODIFIED="1435044447850">
 <font BOLD="true"/>
-<node TEXT="process independence, sanctity" ID="ID_1398010569" CREATED="1434959983742" MODIFIED="1434959991540">
-<node TEXT="the right to fear without explaining" ID="ID_1172894605" CREATED="1426911363055" MODIFIED="1426911368390"/>
-<node TEXT="validate intuition" ID="ID_619282765" CREATED="1426978834558" MODIFIED="1426978838796"/>
-</node>
 <node TEXT="&quot;Yes, but your trailing period is really a comma, and you sense how.&quot;" ID="ID_1422175483" CREATED="1432698772058" MODIFIED="1434960113734"/>
 <node TEXT="not whether I have enough for it, rather can I do it" ID="ID_480858215" CREATED="1432706844202" MODIFIED="1432706850081"/>
 <node TEXT="transc godel" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1684108363" CREATED="1426976510772" MODIFIED="1438153566488">
@@ -592,6 +588,18 @@
 <node TEXT="self-determination" ID="ID_77912597" CREATED="1435129664913" MODIFIED="1435129667031">
 <node TEXT="? choose, define self, and how I feel about it" ID="ID_1206125089" CREATED="1429949974503" MODIFIED="1429949986041">
 <node TEXT="socj -- choose|define for others what I am" ID="ID_1465402247" CREATED="1435129674680" MODIFIED="1435129688751"/>
+</node>
+</node>
+<node TEXT="confusion @ bootstrap" ID="ID_1306647923" CREATED="1440137428534" MODIFIED="1440137508622">
+<node TEXT="appropriate that it be confusing; radical change, cog rerwite implying disconnect from|partial info retention from antecedent" ID="ID_36581925" CREATED="1440137408485" MODIFIED="1440137495680"/>
+</node>
+</node>
+<node TEXT="sanctity, process independence" ID="ID_1398010569" CREATED="1434959983742" MODIFIED="1440186485279">
+<node TEXT="the right to fear without explaining" ID="ID_1172894605" CREATED="1426911363055" MODIFIED="1426911368390"/>
+<node TEXT="validate intuition" ID="ID_619282765" CREATED="1426978834558" MODIFIED="1426978838796"/>
+<node TEXT="&quot;don&apos;t warn me about dehydration&quot;" ID="ID_1142731296" CREATED="1440186364694" MODIFIED="1440186468163">
+<node TEXT="&quot;Don&apos;t warn me about hydration -- I know I will feel thirsty before it happens.&quot;" ID="ID_1235325237" CREATED="1439782641733" MODIFIED="1439782657300">
+<node TEXT="-- seinfeld" ID="ID_185424919" CREATED="1440186350256" MODIFIED="1440186353097"/>
 </node>
 </node>
 </node>
@@ -902,6 +910,7 @@
 </node>
 </node>
 </node>
+<node TEXT="no oblig to record ugly mysteries" ID="ID_501259611" CREATED="1440114373503" MODIFIED="1440114380732"/>
 </node>
 <node TEXT="choi|sel *" ID="ID_1025624147" CREATED="1435024895398" MODIFIED="1435026290595">
 <font BOLD="true"/>
@@ -1225,9 +1234,6 @@
 </node>
 </node>
 <node TEXT="searched for ?s to here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_650822948" CREATED="1431588246987" MODIFIED="1431588256059"/>
-<node TEXT="** rev for git transf, end of day 1, start day 2" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1313456591" CREATED="1438151589966" MODIFIED="1438196488251">
-<node TEXT="Wed Jul 29 12:00:34 PDT 2015" ID="ID_1802795384" CREATED="1438196498207" MODIFIED="1438196498207"/>
-</node>
 <node TEXT="subconsc" ID="ID_343065056" CREATED="1427003079500" MODIFIED="1428384225660">
 <font BOLD="false"/>
 <node TEXT="? body, subsconscious enforcing priorities" ID="ID_437033208" CREATED="1434418408536" MODIFIED="1434418417239">
@@ -1815,7 +1821,7 @@
 </node>
 </node>
 </node>
-<node TEXT="? justice" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1917705632" CREATED="1424407370963" MODIFIED="1425546246306">
+<node TEXT="-&gt; justice ? endog|complet" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1917705632" CREATED="1424407370963" MODIFIED="1440193741967">
 <node TEXT="rescued from logic.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_561541849" CREATED="1428344724143" MODIFIED="1428344749726"/>
 <node TEXT="= was &quot;endog justice&quot;" ID="ID_1252843744" CREATED="1425546212583" MODIFIED="1425546219293"/>
 <node TEXT=". natural justice" ID="ID_1406914917" CREATED="1424468594850" MODIFIED="1424468598839"/>
@@ -1841,6 +1847,9 @@
 <node TEXT=". is rival, other at env/&quot;[object] wins!&quot; sorting/" ID="ID_162650067" CREATED="1425281025165" MODIFIED="1425281098454"/>
 </node>
 <node TEXT="no killing but maybe keeping them together" ID="ID_1567712190" CREATED="1423450402900" MODIFIED="1423450408584"/>
+<node TEXT="learning chess is good for chess -&gt; seeing _ is good for seeing [same]" ID="ID_840830175" CREATED="1440119600814" MODIFIED="1440119673224">
+<node TEXT="_ : a person, .." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1509735543" CREATED="1440119620684" MODIFIED="1440119657837"/>
+</node>
 </node>
 <node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1776817933" CREATED="1433748243479" MODIFIED="1433748250008"/>
 <node TEXT="&lt;- extracted 2015 04 06" ID="ID_1562856464" CREATED="1428386885932" MODIFIED="1436428478929">
@@ -2081,6 +2090,12 @@
 <node TEXT="in a jury, whoever can hold out the longest win(s), because they want to go home" ID="ID_1254009909" CREATED="1432066824617" MODIFIED="1432066847044"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="dates" POSITION="right" ID="ID_276956326" CREATED="1440193983126" MODIFIED="1440193983646">
+<node TEXT="2015 08 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1160908458" CREATED="1440193994439" MODIFIED="1440193996883"/>
+<node TEXT="pin someone down to see through them" ID="ID_206297139" CREATED="1440126190120" MODIFIED="1440126196681">
+<node TEXT="?only to" ID="ID_405674272" CREATED="1440126197368" MODIFIED="1440126200096"/>
 </node>
 </node>
 </node>

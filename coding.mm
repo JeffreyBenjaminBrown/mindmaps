@@ -14777,6 +14777,116 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="in graph, divide struggle|easy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1660926651" CREATED="1439616539131" MODIFIED="1439617216546">
 <node TEXT="and freeze easy" ID="ID_1226741483" CREATED="1439616552251" MODIFIED="1439616554602"/>
 </node>
+<node TEXT="20, 1p +" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_458894405" CREATED="1440185570935" MODIFIED="1440194349559">
+<node TEXT="1" ID="ID_438963867" CREATED="1440194344104" MODIFIED="1440194344358">
+<node TEXT="if can&apos;t write dwt deep, main broad tool areas are parser, file io, ui and graph" ID="ID_1535190370" CREATED="1439717216932" MODIFIED="1439717287369">
+<node TEXT="ui init none or easy(ncurses)" ID="ID_57553593" CREATED="1439717484684" MODIFIED="1439717536180"/>
+</node>
+<node TEXT="mindmap proc" ID="ID_751564488" CREATED="1440185993423" MODIFIED="1440185995204">
+<node TEXT="shorten iff information-safe" ID="ID_1410534108" CREATED="1439775806335" MODIFIED="1439775811245">
+<node TEXT="? otherwise prefer the first statement to the shortened" ID="ID_719340953" CREATED="1439775817399" MODIFIED="1439775829504">
+<node TEXT="efficiency principle, some kind of" ID="ID_567420508" CREATED="1439775843471" MODIFIED="1439775854594"/>
+</node>
+</node>
+</node>
+<node TEXT="collect all 2-word nodes with punct symbols" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_874209646" CREATED="1439776295879" MODIFIED="1440186069529">
+<node TEXT="is fine to dup" ID="ID_385819871" CREATED="1439776306255" MODIFIED="1439776308685"/>
+<node TEXT="stmt elts" ID="ID_1575331867" CREATED="1439776380384" MODIFIED="1439776383678">
+<node TEXT="[a-zA-Z]*" ID="ID_320325469" CREATED="1439776366706" MODIFIED="1439776393071"/>
+<node TEXT="[^a-zA-Z]*" ID="ID_377787202" CREATED="1439776393902" MODIFIED="1439776400224"/>
+</node>
+<node TEXT="[^a-zA-Z]* [a-zA-Z]* [^a-zA-Z]* [a-zA-Z] [^a-zA-Z]*" ID="ID_1940079378" CREATED="1439776324343" MODIFIED="1439776444566"/>
+</node>
+<node TEXT="parse freeplane records" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1584770479" CREATED="1439776469967" MODIFIED="1439776476970">
+<node TEXT="mixes haskell and .mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1967030366" CREATED="1439776465992" MODIFIED="1440186120439"/>
+<node TEXT="e.g. so I can get back this subgraph of (peers, mutually disconnected) nodes" ID="ID_872520891" CREATED="1439776489272" MODIFIED="1439776510134">
+<node TEXT="[^a-zA-Z]* [a-zA-Z]* [^a-zA-Z]* [a-zA-Z] [^a-zA-Z]*" ID="ID_895701640" CREATED="1439776324343" MODIFIED="1439776444566"/>
+<node TEXT="? popcorn : need &amp; bake ?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_826226491" CREATED="1439776513960" MODIFIED="1439776552270">
+<node TEXT="is example" ID="ID_385714013" CREATED="1439776543944" MODIFIED="1439776547084"/>
+</node>
+</node>
+</node>
+<node TEXT="- for when space changes meaning" ID="ID_1951327514" CREATED="1440111514977" MODIFIED="1440111519311">
+<node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_11968793" CREATED="1440111527209" MODIFIED="1440111528739"/>
+<node TEXT="volunteer surrdener admit - love" ID="ID_707571016" CREATED="1440111495400" MODIFIED="1440111513458"/>
+</node>
+<node TEXT="classes: disambiguation &lt; &quot;language at _ is _&quot;" ID="ID_953113248" CREATED="1440112633874" MODIFIED="1440193261096">
+<node TEXT="disamb is instance of" ID="ID_1380311474" CREATED="1440112677761" MODIFIED="1440112681752"/>
+</node>
+<node TEXT="node generalizes to &quot;should display together&quot;" ID="ID_1868443845" CREATED="1440112827610" MODIFIED="1440112835348"/>
+<node TEXT="the rel label graph can have cycs" ID="ID_356513330" CREATED="1440118864836" MODIFIED="1440118890132">
+<node TEXT="because &quot;all descendents of&quot; is still defined" ID="ID_278663441" CREATED="1440118910883" MODIFIED="1440118933333"/>
+<node TEXT="was" ID="ID_93897840" CREATED="1440118895011" MODIFIED="1440118895304">
+<node TEXT="? no circularities in labels" ID="ID_247244182" CREATED="1440118791947" MODIFIED="1440118796432">
+<node TEXT="consider the (node &amp; rel)s in, helps and disambiguates. one should be able to ask for x in y in z ... recursively and it will use any of those. actually maybe circularity would be not a problem" ID="ID_1557590924" CREATED="1440118797131" MODIFIED="1440118860889"/>
+</node>
+</node>
+</node>
+<node TEXT="if goal is the leaf accs, don&apos;t sort from here into fresh" ID="ID_1224035448" CREATED="1440118968987" MODIFIED="1440118983656"/>
+<node TEXT="sell dwt on helps|hurts" ID="ID_261095537" CREATED="1440119211500" MODIFIED="1440119218338">
+<node TEXT="the arg" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_639395598" CREATED="1440119865853" MODIFIED="1440119874190"/>
+<node TEXT="would allow greater choice" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_458826707" CREATED="1440119822469" MODIFIED="1440119878598">
+<node TEXT="e.g. I could find what within rep, info, agent, group is most crucial" ID="ID_1441699849" CREATED="1440119831412" MODIFIED="1440119857991"/>
+</node>
+<node TEXT="want to trace it hierarchically" ID="ID_1575135081" CREATED="1440119229084" MODIFIED="1440119233554">
+<node TEXT="if x helps y and z needs y then x helps z" ID="ID_22201669" CREATED="1440119234644" MODIFIED="1440119245458"/>
+</node>
+<node TEXT="want it to be robust to name changes" ID="ID_1892947738" CREATED="1440119223436" MODIFIED="1440119228513"/>
+<node TEXT="not want to make two notes" ID="ID_1815438089" CREATED="1440119219268" MODIFIED="1440119222602"/>
+</node>
+<node TEXT="&quot;? x&quot; just means &quot;? &amp; x&quot;" ID="ID_395993345" CREATED="1440125812826" MODIFIED="1440193838593"/>
+<node TEXT="$ ~ ," ID="ID_573506596" CREATED="1440125860405" MODIFIED="1440125863646"/>
+<node TEXT="_ further defines _" ID="ID_1304782789" CREATED="1440126281221" MODIFIED="1440126288757">
+<node TEXT="disambig &amp; blue leading are both instances of it" ID="ID_1862846831" CREATED="1440126234242" MODIFIED="1440126311244"/>
+<node TEXT="child &quot;still defining it(parent)&quot;" ID="ID_455664250" CREATED="1440126317726" MODIFIED="1440126332295"/>
+</node>
+<node TEXT="[punctuation mark | parenthesis pair] is about|applies on|refers to [subgraph]" ID="ID_78971049" CREATED="1440126501343" MODIFIED="1440126931125">
+<node TEXT="usually subnodes" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1124376250" CREATED="1440126873776" MODIFIED="1440126877134"/>
+<node TEXT="good for ui" ID="ID_1598631805" CREATED="1440126556265" MODIFIED="1440126559089"/>
+<node TEXT="tabbing between two cursors" ID="ID_566775334" CREATED="1440126563009" MODIFIED="1440126574818">
+<node TEXT="both cursing both within-node and across-node" ID="ID_1381308397" CREATED="1440126592267" MODIFIED="1440126613099"/>
+</node>
+<node TEXT="is (? the) graph relation from punctuation to subgraphs" ID="ID_876082068" CREATED="1440126660374" MODIFIED="1440126760473"/>
+</node>
+</node>
+<node TEXT="2" ID="ID_205129712" CREATED="1440194341496" MODIFIED="1440194342214">
+<node TEXT="use &quot;,&quot; perhaps to usefully not force the distinction between is about|applies on|refers to" ID="ID_1070392190" CREATED="1440126946635" MODIFIED="1440194198549">
+<node TEXT=" as in this example" ID="ID_1024708858" CREATED="1440126986645" MODIFIED="1440127081853">
+<node TEXT="[punctuation mark | parenthesis pair] is about|applies on|refers to [subgraph]" ID="ID_883200700" CREATED="1440126501343" MODIFIED="1440126931125">
+<node TEXT="usually subnodes" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_479335924" CREATED="1440126873776" MODIFIED="1440126877134"/>
+<node TEXT="good for ui" ID="ID_1941612034" CREATED="1440126556265" MODIFIED="1440126559089"/>
+<node TEXT="tabbing between two cursors" ID="ID_157371811" CREATED="1440126563009" MODIFIED="1440126574818">
+<node TEXT="both cursing both within-node and across-node" ID="ID_1602859179" CREATED="1440126592267" MODIFIED="1440126613099"/>
+</node>
+<node TEXT="is (? the) graph relation from punctuation to subgraphs" ID="ID_790116976" CREATED="1440126660374" MODIFIED="1440126760473"/>
+</node>
+</node>
+</node>
+<node TEXT="precede text with _ to indicate &quot;continues parent as statement&quot;" ID="ID_1083046020" CREATED="1440127002271" MODIFIED="1440127077901">
+<node TEXT=", (is gold)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_273043674" CREATED="1440127112844" MODIFIED="1440127126578"/>
+<node TEXT=". / or ./" ID="ID_702654019" CREATED="1440127046240" MODIFIED="1440127091597"/>
+</node>
+<node TEXT="which = prev" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1047056734" CREATED="1440126777603" MODIFIED="1440194355811">
+<node TEXT="which v. it; both effectively locally nouns" ID="ID_610994315" CREATED="1440126787724" MODIFIED="1440126811419">
+<node TEXT="the which standing in for some earlier defined noun" ID="ID_1701994443" CREATED="1440126816941" MODIFIED="1440126823356"/>
+</node>
+</node>
+<node TEXT="define rel by its types alone" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_917859428" CREATED="1440126633725" MODIFIED="1440194383695">
+<node TEXT="as (Int, String) in Haskell" ID="ID_207528924" CREATED="1440194391369" MODIFIED="1440194405073"/>
+<node TEXT="another example" ID="ID_654082369" CREATED="1440194419243" MODIFIED="1440194420785">
+<node TEXT="the example, is dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1151060089" CREATED="1440126643285" MODIFIED="1440194422378">
+<node TEXT="[parenthesis] is about|applies on [subgraph]" ID="ID_689084731" CREATED="1440126501343" MODIFIED="1440126539896">
+<node TEXT="good for ui" ID="ID_1365686533" CREATED="1440126556265" MODIFIED="1440126559089"/>
+<node TEXT="tabbing between two cursors" ID="ID_1656077190" CREATED="1440126563009" MODIFIED="1440126574818">
+<node TEXT="both cursing both within-node and across-node" ID="ID_683094574" CREATED="1440126592267" MODIFIED="1440126613099"/>
+</node>
+</node>
+</node>
+<node TEXT="that example is (? the) graph relation from punctuation to subgraphs" ID="ID_933076489" CREATED="1440126660374" MODIFIED="1440126741328"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">

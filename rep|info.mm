@@ -1458,6 +1458,7 @@
 </node>
 </node>
 </node>
+<node TEXT="using . to chill font" ID="ID_123132977" CREATED="1440128711325" MODIFIED="1440128715397"/>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">
 <node TEXT="= &gt; infer" ID="ID_1016200156" CREATED="1425363866048" MODIFIED="1425363871854"/>

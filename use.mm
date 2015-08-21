@@ -163,6 +163,10 @@
 </node>
 </node>
 </node>
+<node TEXT="du ~" ID="ID_975059498" CREATED="1427406550623" MODIFIED="1427406556628">
+<node TEXT="I would like to pipe this into [grep -v &quot;cannot access&quot;], to strip those error messages, but they are not part of its normal string output, so the grep does not affect them." ID="ID_814691863" CREATED="1427408262208" MODIFIED="1427408294638"/>
+<node TEXT="du -hs * .a* .b* .c* .d* .e* .f* .g* .i* .j* .k* .l* .m* .p* .r* .X* .x* .h* .n* .o* .q* .s* .t* .u* .v* .w* .y* .z* .A* .B* .C* .D* .E* .F* .G* .H* .I* .J* .K* .L* .M* .N* .O* .P* .Q* .R* .S* .T* .U* .V* .W* .Y* .Z*" ID="ID_1422683467" CREATED="1427406557130" MODIFIED="1427408243985"/>
+</node>
 </node>
 <node TEXT="apt get suggested installing" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1483159436" CREATED="1424151607762" MODIFIED="1439585999815">
 <node TEXT="Suggested these packages:&#xa;  wx2.8-doc wx2.8-examples editra" ID="ID_1398635844" CREATED="1424151602762" MODIFIED="1424211544520">

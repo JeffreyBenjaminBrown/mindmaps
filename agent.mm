@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / agent" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438760885958"><hook NAME="MapStyle" zoom="1.502">
+<node TEXT="git / agent" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438760885958"><hook NAME="MapStyle" zoom="1.365">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -56,6 +56,10 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="&gt;&gt;&gt; read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_114718093" CREATED="1440129130049" MODIFIED="1440129188174">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1312866458" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="started Thu Aug 20 20:52:40 PDT 2015" ID="ID_341184827" CREATED="1440129164788" MODIFIED="1440129470351"/>
+</node>
 <node TEXT="= what this file is" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_25431176" CREATED="1435036628135" MODIFIED="1438203389998">
 <node TEXT="stuff for working agent to do goes here" LOCALIZED_STYLE_REF="default" ID="ID_1446320582" CREATED="1435006857660" MODIFIED="1438226975547"/>
 <node TEXT="stuff that helps an agent work, e.g. consistency, in proc.mm" ID="ID_165573117" CREATED="1438226971345" MODIFIED="1438226973135"/>
@@ -63,35 +67,49 @@
 </node>
 <node TEXT="stale : search (nr) for some important unreviewed colls" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_853431646" CREATED="1435036599078" MODIFIED="1438227033005"/>
 <node TEXT="-&gt; see also logic.mm/agent" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1438227020721"/>
-<node TEXT="have" POSITION="right" ID="ID_289747733" CREATED="1435544226600" MODIFIED="1435544420861">
+<node TEXT="elts" POSITION="right" ID="ID_289747733" CREATED="1435544226600" MODIFIED="1440128161161">
 <font BOLD="true"/>
-<node TEXT="?= elts, can be defined by" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1054531000" CREATED="1435544421235" MODIFIED="1435544440753"/>
-<node TEXT="beliefs" ID="ID_927541851" CREATED="1435544135912" MODIFIED="1435544138974"/>
-<node TEXT="prefs, goals" ID="ID_300466152" CREATED="1435544139184" MODIFIED="1435544172668"/>
+<node TEXT="= elts, they have _, they can be defined by" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1054531000" CREATED="1435544421235" MODIFIED="1440128349162"/>
 <node TEXT="powers" ID="ID_716580608" CREATED="1435544140600" MODIFIED="1435544142966"/>
-<node TEXT="procs, methods" ID="ID_1067568920" CREATED="1435544150432" MODIFIED="1435544158316"/>
-<node TEXT="? soc influ" ID="ID_413800847" CREATED="1435544307656" MODIFIED="1435544459949">
-<node TEXT="&quot;?&quot; b/c is external to agent" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1422290179" CREATED="1435544468073" MODIFIED="1438203462637"/>
-<node TEXT="either dir" ID="ID_445587690" CREATED="1435544365232" MODIFIED="1435544366975"/>
+<node TEXT="beliefs, models : info &amp; inputs to info proc" ID="ID_927541851" CREATED="1435544135912" MODIFIED="1440128560790"/>
+<node TEXT="prefs, goals : info procs" ID="ID_300466152" CREATED="1435544139184" MODIFIED="1440128571198">
+<node TEXT="are partial; they help determine output but are not output" ID="ID_656973107" CREATED="1440128463002" MODIFIED="1440128478810"/>
+</node>
+<node TEXT="whole processes (will, motiv, intuition ..) elsewhere" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1708704911" CREATED="1440128273185" MODIFIED="1440128525355"/>
+</node>
+<node TEXT="yes" POSITION="right" ID="ID_387945718" CREATED="1440128770544" MODIFIED="1440128771120">
+<node TEXT="let prefs determine goals and not the reverse" LOCALIZED_STYLE_REF="default" ID="ID_903665037" CREATED="1440128646923" MODIFIED="1440128773943"/>
+<node TEXT="not whether to obsess, rather how to focus on" ID="ID_1288032903" CREATED="1440129056829" MODIFIED="1440129080561">
+<node TEXT="was" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1267815010" CREATED="1440129083943" MODIFIED="1440129088818">
+<node TEXT="too interested in [gender, money ..]" ID="ID_1581310416" CREATED="1425161725628" MODIFIED="1440128835568">
+<node TEXT="money is the biggest-scale cooperation" ID="ID_1261231815" CREATED="1440128836170" MODIFIED="1440128845748">
+<node TEXT="caring strongly seems natural, ? even if fixating not helpful" ID="ID_1210218872" CREATED="1440128869999" MODIFIED="1440128919426"/>
+</node>
+<node TEXT="similarly, gender is a big deal. just see-ask good questions at it and keep it in context; it will integrate with context and stop feeling like an obsession, though maybe still feeling like a pressing choice." ID="ID_1805435907" CREATED="1440128927424" MODIFIED="1440129045587"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="?" POSITION="right" ID="ID_697383331" CREATED="1434952921442" MODIFIED="1434952923424">
-<node TEXT="prefs are not goals" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_608505059" CREATED="1435544178280" MODIFIED="1435544207860"/>
-<node TEXT="too interested in [gender, ..]" ID="ID_1581310416" CREATED="1425161725628" MODIFIED="1438203530318"/>
-<node TEXT="agent / procs / bootstrap" ID="ID_629919548" CREATED="1434953665668" MODIFIED="1434953669738"/>
-<node TEXT="brain fatigue? too tired to look? until stoned?" ID="ID_1557041166" CREATED="1425087861557" MODIFIED="1425087876811">
-<node TEXT="happened, 2015 02 27" ID="ID_1346042956" CREATED="1425087877349" MODIFIED="1425087882027"/>
-</node>
+<node TEXT="brain fatigue, too tired to look" ID="ID_1557041166" CREATED="1425087861557" MODIFIED="1440129419229"/>
 <node TEXT="mood print [hype, ..]" ID="ID_1376346882" CREATED="1430460280091" MODIFIED="1438203534321"/>
-<node TEXT="enthus: print? curb?" ID="ID_662661379" CREATED="1435020913968" MODIFIED="1435020922822">
-<node TEXT="? to share must curb enthu" ID="ID_843352529" CREATED="1429559204716" MODIFIED="1435020773146"/>
-<node TEXT="try not to make a big deal of things" ID="ID_214178045" CREATED="1433747923167" MODIFIED="1433747927653">
+<node TEXT="enthu balance" ID="ID_662661379" CREATED="1435020913968" MODIFIED="1440129660878">
+<node TEXT="enthu : print? curb?" ID="ID_1062420156" CREATED="1440129651558" MODIFIED="1440129658914"/>
+<node TEXT="? to share must curb enthu" LOCALIZED_STYLE_REF="default" ID="ID_843352529" CREATED="1429559204716" MODIFIED="1440129775001">
+<node TEXT="enthu ? for the shared thing" ID="ID_1378095251" CREATED="1440129682074" MODIFIED="1440129730435">
+<node TEXT="what did I mean?" ID="ID_968452619" CREATED="1440129722916" MODIFIED="1440129725051"/>
+</node>
+</node>
+<node TEXT="try not to frame something as a big deal" ID="ID_214178045" CREATED="1433747923167" MODIFIED="1440129788849">
 <node TEXT="e.g. &quot;phone call later?&quot; makes it sound like the phone call is work, maybe sets up fear" ID="ID_599677078" CREATED="1433747928335" MODIFIED="1433747947053"/>
 </node>
 </node>
-<node TEXT="?are errors" LOCALIZED_STYLE_REF="default" ID="ID_1469517914" CREATED="1434953943769" MODIFIED="1438203475107">
+<node TEXT="&gt;&gt;&gt; read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1312866458" CREATED="1440129130049" MODIFIED="1440129193587">
+<node TEXT="Thu Aug 20 20:52:40 PDT 2015" ID="ID_646743538" CREATED="1440129164788" MODIFIED="1440129164788"/>
+</node>
+<node TEXT="? err" LOCALIZED_STYLE_REF="default" ID="ID_1469517914" CREATED="1434953943769" MODIFIED="1440129837440">
 <font BOLD="true"/>
-<node TEXT="? investigate" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_926965889" CREATED="1434954010491" MODIFIED="1434954013911"/>
+<node TEXT="? investigate these" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_926965889" CREATED="1434954010491" MODIFIED="1440129847853"/>
 <node TEXT="hedonic|lazy disengagement|avoidance" ID="ID_127025307" CREATED="1420351921069" MODIFIED="1434954000816">
 <node TEXT="= disengagement (from conflict, people) can feel good?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1604520473" CREATED="1430115183219" MODIFIED="1430115188647"/>
 <node TEXT="facts" ID="ID_736407003" CREATED="1420352073756" MODIFIED="1420352074596">
@@ -1243,6 +1261,10 @@
 <node TEXT="e.g. see &quot;build/rep/now/proc/respect self-puzzlement&quot;" ID="ID_1864295780" CREATED="1423547370284" MODIFIED="1423547399666"/>
 </node>
 </node>
+</node>
+<node TEXT="2015 08 20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_684757216" CREATED="1440193775741" MODIFIED="1440193779080"/>
+<node TEXT="children :? creepy" ID="ID_1559012184" CREATED="1440121140174" MODIFIED="1440121151511">
+<node TEXT="they can be -- e.g. acting sweet while trying to hurt someone" ID="ID_320237490" CREATED="1440121152342" MODIFIED="1440121200350"/>
 </node>
 </node>
 <node TEXT="heal" ID="ID_819179399" CREATED="1434954148210" MODIFIED="1434954149296">
