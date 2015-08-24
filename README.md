@@ -1,6 +1,6 @@
 These are mindmaps, which are graphs of text.
 
-This document explains how to use them. If you would prefer a little motivation first, you can [read about why mindmaps are so awesome](motivation.md).
+This document explains how to use them. If you would prefer a little motivation first, you can [read about why mindmaps are so awesome](tech/motivation.md).
 
 Getting your computer to display a mindmap
 ==========================================
@@ -56,5 +56,5 @@ That's most of it!
 ------------------
 You now have access to most of the meaning of these mindmaps.
 
-If you want them to make even more sense yet, you will need to learn (don't worry, it's very small!) my [graph language](graph_lang.mm). In case that seems uncalled for to you, I should point out that it starts by explaining why I felt I had to make such a thing. It is itself a mindmap, but you already know everything you need to read it.
+If you want them to make even more sense yet, you will need to learn (don't worry, it's very small!) my [graph language](tech/graph_lang.mm). In case that seems uncalled for to you, I should point out that it starts by explaining why I felt I had to make such a thing. It is itself a mindmap, but you already know everything you need to read it.
 
