@@ -112,6 +112,57 @@
 </node>
 <node TEXT="tar -jxf filename.tar.bz2" ID="ID_386122976" CREATED="1432690733540" MODIFIED="1432690749924"/>
 </node>
+<node TEXT="crypt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1582246113" CREATED="1421182972891" MODIFIED="1421189137629">
+<node TEXT="ecryptfs" ID="ID_1691076801" CREATED="1421188089102" MODIFIED="1421188092799">
+<node TEXT="https://wiki.archlinux.org/index.php/ECryptfs" ID="ID_888862034" CREATED="1421188096893" MODIFIED="1421188096893" LINK="https://wiki.archlinux.org/index.php/ECryptfs"/>
+<node TEXT="two slight bugs" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_701409516" CREATED="1421188423295" MODIFIED="1421188861259">
+<node TEXT="exit, reenter" ID="ID_1925399856" CREATED="1421188896367" MODIFIED="1421188898678">
+<node TEXT="after unmounting, must exit /home/jeff/Private (using &quot;cd&quot; in the shell), or else access not lost" ID="ID_1443495815" CREATED="1421188432527" MODIFIED="1421188482329"/>
+</node>
+<node TEXT="Dolphin: deeper" ID="ID_1764487419" CREATED="1421188902447" MODIFIED="1421188908486">
+<node TEXT="Dolphin remembers the unmounted appearance of Private/ even after it&apos;s been mounted to." ID="ID_1067150966" CREATED="1421188862478" MODIFIED="1421188893317"/>
+<node TEXT="Solution: from shell (attached to Dolphin), descend one folder into the contents." ID="ID_341198567" CREATED="1421188909743" MODIFIED="1421188929862"/>
+</node>
+</node>
+<node TEXT="ecryptfs-mount-private" ID="ID_896369246" CREATED="1421188104743" MODIFIED="1421188105431"/>
+<node TEXT="ecryptfs-umount-private" ID="ID_1394436547" CREATED="1421188111911" MODIFIED="1421188114108"/>
+</node>
+<node TEXT="unsafe: tar and gpg" LOCALIZED_STYLE_REF="default" ID="ID_941351626" CREATED="1421185173138" MODIFIED="1440233821696">
+<node TEXT="why it&apos;s unsafe" ID="ID_288507169" CREATED="1421185189247" MODIFIED="1421185191007">
+<node TEXT="if I ever encrypted it with the wrong password, it would be irrecoverable. I don&apos;t want, therefore, to select the password that encrypts it more than once. (Decrypting more than once is fine.)" ID="ID_430097394" CREATED="1421185202345" MODIFIED="1421185251108"/>
+<node TEXT="although" ID="ID_378860752" CREATED="1421185198841" MODIFIED="1421185201047">
+<node TEXT="it does ask my password twice" ID="ID_1353714793" CREATED="1421185193073" MODIFIED="1421185198583"/>
+</node>
+</node>
+<node TEXT="how to do it" ID="ID_1756900161" CREATED="1421185185705" MODIFIED="1421185188934">
+<node TEXT="= create tar.gz.gpg" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1920804517" CREATED="1420507610556" MODIFIED="1440234161976"/>
+<node TEXT="syntax template" ID="ID_1026778645" CREATED="1440234167494" MODIFIED="1440234175264">
+<node TEXT="tar -pczf - [input, unencrypted folder] | gpg -c &gt; [output file name].tar.gz.gpg" LOCALIZED_STYLE_REF="default" ID="ID_1914252100" CREATED="1420507614268" MODIFIED="1440234172111"/>
+</node>
+<node TEXT="example" ID="ID_953211636" CREATED="1429904233976" MODIFIED="1440234177413">
+<node TEXT="tar -pczf - mms | gpg -c &gt; mms.tar.gz.gpg" ID="ID_1013770419" CREATED="1440233356632" MODIFIED="1440233388380"/>
+<node TEXT="frol" ID="ID_1670834265" CREATED="1440234191447" MODIFIED="1440234194490"/>
+</node>
+</node>
+<node TEXT="how to test it" ID="ID_709387338" CREATED="1440233830502" MODIFIED="1440233832418">
+<node TEXT="unfold tar.gz.gpg" ID="ID_979890146" CREATED="1420507744549" MODIFIED="1421183028614">
+<node TEXT="how to chain?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1977354406" CREATED="1421183879010" MODIFIED="1421183892812">
+<node TEXT="this doesn&apos;t seem to work" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_906462381" CREATED="1421183885082" MODIFIED="1421183889140"/>
+<node TEXT="gpg test.tar.gz.gpg | tar -zxvf -" ID="ID_128990449" CREATED="1421183235483" MODIFIED="1421183445992"/>
+</node>
+<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_839050616" CREATED="1421183902058" MODIFIED="1421183904804"/>
+<node TEXT="gpg input_name" ID="ID_192013492" CREATED="1421183896122" MODIFIED="1421183899520"/>
+<node TEXT="tar -vxzf input_name" ID="ID_803425658" CREATED="1420507755389" MODIFIED="1421184077660"/>
+</node>
+<node TEXT="checkout something" ID="ID_44744824" CREATED="1440233833822" MODIFIED="1440233838340">
+<node TEXT="svn checkout &quot;file:///home/jeff/bk/test_unfold/mms/svn, encr/since 2015 04 21&quot;" ID="ID_101291941" CREATED="1440233820568" MODIFIED="1440233947690"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="SVN: start project, manage branch" LOCALIZED_STYLE_REF="default" ID="ID_1043340337" CREATED="1440233725185" MODIFIED="1440233742196">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1312429544" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Rsync" ID="ID_354451829" CREATED="1421376441907" MODIFIED="1421694614343">
 <node TEXT="the command" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_216664276" CREATED="1421398992211" MODIFIED="1421694942981">
@@ -3042,51 +3093,6 @@
 <node TEXT="to delete a desktop, first hide it with Super-S, then bring up the menu with Super-Q, then click Delete" ID="ID_1252933347" CREATED="1424767403976" MODIFIED="1424767428601"/>
 </node>
 <node TEXT="u" ID="ID_587649675" CREATED="1421182428123" MODIFIED="1421182428848">
-<node TEXT="crypt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1582246113" CREATED="1421182972891" MODIFIED="1421189137629">
-<node TEXT="ecryptfs" ID="ID_1691076801" CREATED="1421188089102" MODIFIED="1421188092799">
-<node TEXT="https://wiki.archlinux.org/index.php/ECryptfs" ID="ID_888862034" CREATED="1421188096893" MODIFIED="1421188096893" LINK="https://wiki.archlinux.org/index.php/ECryptfs"/>
-<node TEXT="two slight bugs" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_701409516" CREATED="1421188423295" MODIFIED="1421188861259">
-<node TEXT="exit, reenter" ID="ID_1925399856" CREATED="1421188896367" MODIFIED="1421188898678">
-<node TEXT="after unmounting, must exit /home/jeff/Private (using &quot;cd&quot; in the shell), or else access not lost" ID="ID_1443495815" CREATED="1421188432527" MODIFIED="1421188482329"/>
-</node>
-<node TEXT="Dolphin: deeper" ID="ID_1764487419" CREATED="1421188902447" MODIFIED="1421188908486">
-<node TEXT="Dolphin remembers the unmounted appearance of Private/ even after it&apos;s been mounted to." ID="ID_1067150966" CREATED="1421188862478" MODIFIED="1421188893317"/>
-<node TEXT="Solution: from shell (attached to Dolphin), descend one folder into the contents." ID="ID_341198567" CREATED="1421188909743" MODIFIED="1421188929862"/>
-</node>
-</node>
-<node TEXT="ecryptfs-mount-private" ID="ID_896369246" CREATED="1421188104743" MODIFIED="1421188105431"/>
-<node TEXT="ecryptfs-umount-private" ID="ID_1394436547" CREATED="1421188111911" MODIFIED="1421188114108"/>
-</node>
-<node TEXT="unsafe: tar and gpg" LOCALIZED_STYLE_REF="styles.topic" ID="ID_941351626" CREATED="1421185173138" MODIFIED="1421188088398">
-<node TEXT="why it&apos;s unsafe" ID="ID_288507169" CREATED="1421185189247" MODIFIED="1421185191007">
-<node TEXT="if I ever encrypted it with the wrong password, it would be irrecoverable. I don&apos;t want, therefore, to select the password that encrypts it more than once. (Decrypting more than once is fine.)" ID="ID_430097394" CREATED="1421185202345" MODIFIED="1421185251108"/>
-<node TEXT="although" ID="ID_378860752" CREATED="1421185198841" MODIFIED="1421185201047">
-<node TEXT="it does ask my password twice" ID="ID_1353714793" CREATED="1421185193073" MODIFIED="1421185198583"/>
-</node>
-</node>
-<node TEXT="how to do it" ID="ID_1756900161" CREATED="1421185185705" MODIFIED="1421185188934">
-<node TEXT="create tar.gz.gpg" ID="ID_1920804517" CREATED="1420507610556" MODIFIED="1421183025776">
-<node TEXT="tar -pczf - [input, unencrypted folder] | gpg -c &gt; [output file name].tar.gz.gpg" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1914252100" CREATED="1420507614268" MODIFIED="1421183425665"/>
-<node TEXT="doing" ID="ID_953211636" CREATED="1429904233976" MODIFIED="1429904237207">
-<node TEXT="tar -pczf - pre_gpg | gpg -c &gt; mms.tar.gz.gpg" ID="ID_936478727" CREATED="1429904237765" MODIFIED="1429904259107"/>
-<node TEXT="frolicwithpassionacrossthedeep" ID="ID_1393837131" CREATED="1429904282792" MODIFIED="1429904288279"/>
-</node>
-<node TEXT="example" ID="ID_94597605" CREATED="1421183535890" MODIFIED="1421183536897">
-<node TEXT="tar -pczf - test | gpg -c &gt; test.tar.gz.gpg" ID="ID_1941029657" CREATED="1421183537470" MODIFIED="1421183548546"/>
-</node>
-</node>
-<node TEXT="unfold tar.gz.gpg" ID="ID_979890146" CREATED="1420507744549" MODIFIED="1421183028614">
-<node TEXT="how to chain?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1977354406" CREATED="1421183879010" MODIFIED="1421183892812">
-<node TEXT="this doesn&apos;t seem to work" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_906462381" CREATED="1421183885082" MODIFIED="1421183889140"/>
-<node TEXT="gpg test.tar.gz.gpg | tar -zxvf -" ID="ID_128990449" CREATED="1421183235483" MODIFIED="1421183445992"/>
-</node>
-<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_839050616" CREATED="1421183902058" MODIFIED="1421183904804"/>
-<node TEXT="gpg input_name" ID="ID_192013492" CREATED="1421183896122" MODIFIED="1421183899520"/>
-<node TEXT="tar -vxzf input_name" ID="ID_803425658" CREATED="1420507755389" MODIFIED="1421184077660"/>
-</node>
-</node>
-</node>
-</node>
 <node TEXT="hard drive work" ID="ID_1913854994" CREATED="1421392868295" MODIFIED="1421398075778">
 <node TEXT="found drive with &quot;sudo fdisk&quot;" ID="ID_1956558440" CREATED="1421398076418" MODIFIED="1421398104758"/>
 <node TEXT="formatted it with mkfs" ID="ID_595347186" CREATED="1421398109091" MODIFIED="1421398166048">
