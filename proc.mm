@@ -1092,6 +1092,8 @@
 <node TEXT="intended to use to motivate okcupid, never did" LOCALIZED_STYLE_REF="default" ID="ID_1304574006" CREATED="1423813943361" MODIFIED="1435128921228"/>
 </node>
 </node>
+<node TEXT="08 25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1407366204" CREATED="1440538848689" MODIFIED="1440538851668"/>
+<node TEXT="early id of a falsity helps" ID="ID_878107155" CREATED="1440218778982" MODIFIED="1440218785977"/>
 </node>
 <node TEXT="! sort,transfer head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_5806327" CREATED="1434952871608" MODIFIED="1435028033864"/>
 <node TEXT="crazy, crazyish" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_775335314" CREATED="1424855946996" MODIFIED="1431853362733">
@@ -1101,6 +1103,11 @@
 <node TEXT="to abandon (? give up on) scheduling, time, ?rationality" ID="ID_1859970151" CREATED="1436321888507" MODIFIED="1438155800728"/>
 <node TEXT="schizoph" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1098477058" CREATED="1431853320929" MODIFIED="1432167383760">
 <node TEXT="angry invisible partner oppor" ID="ID_480613367" CREATED="1431399395598" MODIFIED="1431645853630"/>
+</node>
+<node TEXT="2015 08 25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1302556008" CREATED="1440539922783" MODIFIED="1440539927803"/>
+<node TEXT="enjoyable as hell" ID="ID_625821507" CREATED="1440216419006" MODIFIED="1440216423553">
+<node TEXT="makes literal sense" ID="ID_210439627" CREATED="1440216427101" MODIFIED="1440216430401"/>
+<node TEXT="tv" ID="ID_531788907" CREATED="1440216434174" MODIFIED="1440216434632"/>
 </node>
 </node>
 <node TEXT="metaratl, applic, me" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948476798" CREATED="1436589737975" MODIFIED="1436589795018">
@@ -1115,6 +1122,12 @@
 <node TEXT="with _ I waited until she had left before moving my eyes from [other female] and then looked at her leaving" ID="ID_809223164" CREATED="1423778084817" MODIFIED="1438155845121">
 <node TEXT="should I have chosen one over the other; was I refusing to acknowledge|foster competition between them" ID="ID_315025203" CREATED="1423778122634" MODIFIED="1438155867482"/>
 </node>
+</node>
+</node>
+<node TEXT="recog non-universality" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1251757188" CREATED="1440540077215" MODIFIED="1440540085040">
+<font BOLD="false"/>
+<node TEXT="helped to recog it is true now*: &quot;read about the middle east, you&apos;ll be sad; read about tech, happy&quot;" ID="ID_642284566" CREATED="1440215963286" MODIFIED="1440216001825">
+<node TEXT="*as opposed to later" ID="ID_128828681" CREATED="1440215981348" MODIFIED="1440215984967"/>
 </node>
 </node>
 </node>

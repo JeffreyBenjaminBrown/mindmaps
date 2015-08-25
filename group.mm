@@ -851,6 +851,27 @@
 <node TEXT="stay inside another&apos;s * like tron wall-trail bikes" ID="ID_938814865" CREATED="1439524251866" MODIFIED="1439584406465">
 <node TEXT="* : beliefs? comfort zone? world?" ID="ID_1220849544" CREATED="1439584408197" MODIFIED="1439584427809"/>
 </node>
+<node TEXT="chameleon of upset" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_586022659" CREATED="1440538468392" MODIFIED="1440538590671">
+<font BOLD="false"/>
+<node TEXT="keep this tag" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_470973467" CREATED="1440538569105" MODIFIED="1440538571208">
+<node ID="ID_1507212641" CREATED="1440538575137" MODIFIED="1440538575137"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      chameleon of upset
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="the arbitrary of upset is funny : you have to get with another&apos;s, and it&apos;s fickle, diverse" ID="ID_39461409" CREATED="1440224856522" MODIFIED="1440224871700"/>
+</node>
 </node>
 <node TEXT="be known *" ID="ID_607191368" CREATED="1426307735120" MODIFIED="1435019486508">
 <font ITALIC="false"/>

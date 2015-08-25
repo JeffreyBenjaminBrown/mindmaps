@@ -882,6 +882,41 @@
 <node TEXT="scriptish lattice(nonlinear)" ID="ID_328577196" CREATED="1439777879761" MODIFIED="1439777892377"/>
 </node>
 <node TEXT="mine these .mm files for jokes" LOCALIZED_STYLE_REF="default" ID="ID_564297706" CREATED="1440130996634" MODIFIED="1440194472799"/>
+<node TEXT="24" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_144032190" CREATED="1440538336440" MODIFIED="1440538338100"/>
+<node TEXT="&apos;horribly proud and bored at the same time&apos;" ID="ID_1372173488" CREATED="1440226235128" MODIFIED="1440226243514">
+<node TEXT="ck of kids" ID="ID_689198237" CREATED="1440226245246" MODIFIED="1440226252588"/>
+</node>
+<node ID="ID_1302853922" CREATED="1440538580923" MODIFIED="1440538580923"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      chameleon of upset
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="group.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1819953154" CREATED="1440538561057" MODIFIED="1440538564807"/>
+</node>
+<node TEXT="joke : the system is still like that" ID="ID_378280201" CREATED="1440224227283" MODIFIED="1440224241885">
+<node TEXT="&quot;[an actor overacting, director comes over as if to ask him to tone it down, starts &quot;Ray ...&quot;, Ray answers &quot;Yes?&quot; in the same kind of overacting. Director: &quot;Never mind, you&apos;re okay.&quot;&quot;" ID="ID_707395917" CREATED="1440224243642" MODIFIED="1440224332024">
+<node TEXT="ck" ID="ID_559007428" CREATED="1440224334149" MODIFIED="1440224335128"/>
+</node>
+</node>
+<node TEXT="halfway through a rat character perf, &quot;I think this is a Japanese rat I&apos;m impersonating.&quot;" ID="ID_1866634338" CREATED="1440223540489" MODIFIED="1440223586708">
+<node TEXT="after which starts introducing Japanese mannerisms; before was just a tone of voice thing, and I was thinking Italian" ID="ID_1642584705" CREATED="1440223594652" MODIFIED="1440223614575"/>
+</node>
+<node TEXT="&quot;What if I did that for forty minutes?&quot;" ID="ID_1422524927" CREATED="1440223440311" MODIFIED="1440223453505">
+<node TEXT="ck, hedberg" ID="ID_883205686" CREATED="1440223455246" MODIFIED="1440223458441"/>
+</node>
+<node TEXT="&quot;That&apos;s how easy it was to flip me [what I was aware of] -- I&apos;m like, &apos;Oh, there are witches.&apos; &quot;" ID="ID_1733757363" CREATED="1440223127892" MODIFIED="1440223158172"/>
+<node TEXT="&quot;I&apos;m surrounded by murderers, child molesters, jews [speaker laughs]&quot;" ID="ID_1503874592" CREATED="1440223030642" MODIFIED="1440223051070">
+<node TEXT="laugh to state aware of it, make the audience okay with it" ID="ID_962925425" CREATED="1440223054897" MODIFIED="1440223071538"/>
+</node>
 </node>
 </node>
 <node TEXT="music" POSITION="right" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
@@ -1247,6 +1282,22 @@
 <node TEXT="if you reveal having a more interesting story they lose interest" ID="ID_1434772829" CREATED="1440125929077" MODIFIED="1440125940417"/>
 </node>
 </node>
+<node TEXT="photog|film" POSITION="right" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440538424320">
+<font BOLD="false"/>
+<node TEXT="camera v. star" ID="ID_532298338" CREATED="1440224945996" MODIFIED="1440538386653">
+<node TEXT="when star mentions problem, zoom in on star as if to say &quot;it&apos;s here&quot;" ID="ID_705656297" CREATED="1440224953548" MODIFIED="1440224965214"/>
+</node>
+</node>
+<node TEXT="art being|integ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_262668557" CREATED="1440539661057" MODIFIED="1440539707088">
+<font BOLD="false"/>
+<node TEXT="= the (? presentation of) self as public service" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1967560582" CREATED="1440539678872" MODIFIED="1440539696094"/>
+<node TEXT="I could unharsh my vocal &quot;a&quot; sounds." ID="ID_1228934955" CREATED="1440217104768" MODIFIED="1440539647984"/>
+<node TEXT="art outside its domain" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1733673534" CREATED="1440539556145" MODIFIED="1440539607935">
+<font BOLD="false"/>
+<node TEXT="&quot;You don&apos;t have to narrow your choices into it (music); there are oppors of that everywhere.&quot;" ID="ID_150802809" CREATED="1440217369791" MODIFIED="1440539519961"/>
+<node TEXT="e.g. timing opportunities, harmony opportunities, external to music" ID="ID_1320529426" CREATED="1440539521418" MODIFIED="1440539531381"/>
+</node>
+</node>
 <node TEXT="bundles" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_533607381" CREATED="1439416813526" MODIFIED="1439416816417">
 <node TEXT="musical bargaining over being" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_697832405" CREATED="1439429271142" MODIFIED="1439452537169">
 <node TEXT="over the work of being" ID="ID_1899471601" CREATED="1439429300766" MODIFIED="1439429303181"/>
@@ -1294,9 +1345,6 @@
 <node TEXT="example: empathic storytelling" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_985907773" CREATED="1358232118497" MODIFIED="1359614643539"/>
 <node TEXT="in recounting a story, perhaps a dream, how should one use what one knows about one&apos;s audience to choose which details to report? to engage them? to lead them to find analogies between themselves and elements of it?" ID="ID_1283825517" CREATED="1358230778378" MODIFIED="1358230837606"/>
 </node>
-</node>
-<node TEXT="performance ideas" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_172863952" CREATED="1439081967710" MODIFIED="1439081970352">
-<node TEXT="improv guitar + cover comedians" LOCALIZED_STYLE_REF="default" ID="ID_504955347" CREATED="1439025031454" MODIFIED="1439081973466"/>
 </node>
 </node>
 </map>

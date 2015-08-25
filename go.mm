@@ -455,6 +455,10 @@
 <font BOLD="false"/>
 <node TEXT="their confidence making them more valuable to others making them more confident" ID="ID_253545388" CREATED="1425025991774" MODIFIED="1436835107399"/>
 </node>
+<node TEXT="[partner] wants you to think you got lucky" ID="ID_1485132085" CREATED="1440217918740" MODIFIED="1440538880883">
+<node TEXT="e.g. ro partner" ID="ID_809869102" CREATED="1440539002720" MODIFIED="1440539004681"/>
+<node TEXT="in finding them, or in something else" ID="ID_190546279" CREATED="1440538881577" MODIFIED="1440538889811"/>
+</node>
 </node>
 <node TEXT="&lt;- freedom to [construct] others" ID="ID_777515538" CREATED="1436588919264" MODIFIED="1436588921311">
 <node TEXT="written elsewhere" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_5047715" CREATED="1436588921974" MODIFIED="1437266828344"/>

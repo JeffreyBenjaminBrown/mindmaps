@@ -195,6 +195,13 @@
 </node>
 </node>
 </node>
+<node TEXT="highness" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1775413296" CREATED="1440540035328" MODIFIED="1440540039907">
+<font BOLD="false"/>
+<node TEXT="concept highness" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1520873312" CREATED="1440540043504" MODIFIED="1440540046059"/>
+<node TEXT="not overrely on coordinates" ID="ID_39781988" CREATED="1440216150287" MODIFIED="1440216155006">
+<node TEXT="geom, lat long, time" ID="ID_381573975" CREATED="1440216158856" MODIFIED="1440216165363"/>
+</node>
+</node>
 <node TEXT="-&gt; s &amp; rv" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1742240745" CREATED="1427004335932" MODIFIED="1436682905059">
 <font BOLD="true"/>
 <node TEXT=". sorted and reviewed 2015 03 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_403474220" CREATED="1427004629877" MODIFIED="1432353845807"/>
@@ -1459,6 +1466,27 @@
 </node>
 </node>
 <node TEXT="using . to chill font" ID="ID_123132977" CREATED="1440128711325" MODIFIED="1440128715397"/>
+<node TEXT="25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_975231116" CREATED="1440538618792" MODIFIED="1440538620198"/>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1727908298" CREATED="1440538621873" MODIFIED="1440538623414">
+<node TEXT="a parenthesis is the leading edge of its contents into its context" ID="ID_1571692967" CREATED="1440224644049" MODIFIED="1440538598908"/>
+<node TEXT="&quot;had a sick child and no answers&quot;" ID="ID_610361571" CREATED="1440217237376" MODIFIED="1440217243666">
+<node TEXT="? child redeems the others, makes it a thing about life" ID="ID_408629670" CREATED="1440217245367" MODIFIED="1440217265148"/>
+</node>
+<node TEXT="down syndrome, a math thing" ID="ID_66324564" CREATED="1440217005299" MODIFIED="1440217011409"/>
+<node TEXT="heat, randomness forever valuable" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_563310890" CREATED="1440225372104" MODIFIED="1440539816304">
+<font BOLD="false"/>
+</node>
+<node TEXT="godel-fightty things isolate" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_398096837" CREATED="1440216757160" MODIFIED="1440539814440">
+<font BOLD="false"/>
+</node>
+</node>
+<node TEXT="how to pack info in info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1414210712" CREATED="1440216185771" MODIFIED="1440539997831">
+<font BOLD="false"/>
+<node TEXT="\recurs" ID="ID_681697177" CREATED="1440540002543" MODIFIED="1440540004583"/>
+<node TEXT="&quot;population could double every four years&quot;" ID="ID_58213181" CREATED="1440216199726" MODIFIED="1440216206511">
+<node TEXT="popn of referents" ID="ID_1620871046" CREATED="1440216208741" MODIFIED="1440216212047"/>
+</node>
+</node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">
 <node TEXT="= &gt; infer" ID="ID_1016200156" CREATED="1425363866048" MODIFIED="1425363871854"/>

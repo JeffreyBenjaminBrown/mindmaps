@@ -1597,7 +1597,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="inside of eyebrows down" ID="ID_249266397" CREATED="1440212754899" MODIFIED="1440212767834"/>
 </node>
@@ -1666,6 +1665,22 @@
 </node>
 <node TEXT="handle ~ what another has envisioned" ID="ID_101590074" CREATED="1440319915265" MODIFIED="1440319920486">
 <node TEXT="expectation" ID="ID_1728634733" CREATED="1440319923706" MODIFIED="1440319925584"/>
+</node>
+</node>
+<node TEXT="24" LOCALIZED_STYLE_REF="default" ID="ID_1274253857" CREATED="1440486785598" MODIFIED="1440537593689">
+<node TEXT="trade &amp; responsb" ID="ID_1063730318" CREATED="1440538751000" MODIFIED="1440538755567">
+<node TEXT="successive trades of a resource (a mine), records lost at ?each trade, leading to misuse (remining an area, weakening the whole); losses  of accountability" ID="ID_822230012" CREATED="1440222150850" MODIFIED="1440222195455">
+<node TEXT="the chilean mine rescue, 201?3" ID="ID_979979391" CREATED="1440538691927" MODIFIED="1440538701398"/>
+</node>
+</node>
+<node TEXT="money ! happiness" ID="ID_360200212" CREATED="1440486772903" MODIFIED="1440486775554">
+<node TEXT="rockstar overdoses ? public service" ID="ID_292464358" CREATED="1440486783406" MODIFIED="1440537841803"/>
+</node>
+<node TEXT="yuck" LOCALIZED_STYLE_REF="styles.topic" ID="ID_668460402" CREATED="1440538309043" MODIFIED="1440538315185">
+<node TEXT="for victim, perhaps approp to punish with violence a violent child" ID="ID_370622593" CREATED="1440226867501" MODIFIED="1440538277025">
+<node TEXT="mirror neurons, recognizing that other people are lke oneself, strategic, dangerous" ID="ID_311224098" CREATED="1440288100478" MODIFIED="1440288133745"/>
+<node TEXT="but why only kids? because kids need to learn, whereas adults presumably already know?" ID="ID_1521571930" CREATED="1440538282520" MODIFIED="1440538301039"/>
+</node>
 </node>
 </node>
 </node>
