@@ -1281,6 +1281,9 @@
 <node TEXT="poker to escape overtelling own story" ID="ID_428679621" CREATED="1440125898795" MODIFIED="1440125923648">
 <node TEXT="if you reveal having a more interesting story they lose interest" ID="ID_1434772829" CREATED="1440125929077" MODIFIED="1440125940417"/>
 </node>
+<node TEXT="&quot;_, which I can prove&quot;" ID="ID_435434127" CREATED="1440139772282" MODIFIED="1440549191289">
+<node TEXT="edward snowden" ID="ID_1849805393" CREATED="1440549191992" MODIFIED="1440549194884"/>
+</node>
 </node>
 <node TEXT="photog|film" POSITION="right" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440538424320">
 <font BOLD="false"/>
@@ -1297,6 +1300,7 @@
 <node TEXT="&quot;You don&apos;t have to narrow your choices into it (music); there are oppors of that everywhere.&quot;" ID="ID_150802809" CREATED="1440217369791" MODIFIED="1440539519961"/>
 <node TEXT="e.g. timing opportunities, harmony opportunities, external to music" ID="ID_1320529426" CREATED="1440539521418" MODIFIED="1440539531381"/>
 </node>
+<node TEXT="? pay for the film to see the people who buy the film" ID="ID_847291582" CREATED="1440135396030" MODIFIED="1440135413452"/>
 </node>
 <node TEXT="bundles" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_533607381" CREATED="1439416813526" MODIFIED="1439416816417">
 <node TEXT="musical bargaining over being" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_697832405" CREATED="1439429271142" MODIFIED="1439452537169">

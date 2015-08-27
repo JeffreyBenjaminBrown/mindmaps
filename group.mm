@@ -112,8 +112,8 @@
 <font BOLD="true"/>
 <node TEXT="= god to make" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_429968494" CREATED="1434954888188" MODIFIED="1434954890631"/>
 <node TEXT="sexy (nr)" ID="ID_840322225" CREATED="1424500986579" MODIFIED="1438568050004">
-<node TEXT="~ magnan" ID="ID_1634593787" CREATED="1438568088189" MODIFIED="1438568093123"/>
-<node TEXT="~ swagger" ID="ID_1509607837" CREATED="1432088827739" MODIFIED="1438568095619"/>
+<node TEXT="~dignity, ~ magnan" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1634593787" CREATED="1438568088189" MODIFIED="1440623837349"/>
+<node TEXT="~swagger" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_439395878" CREATED="1440623835895" MODIFIED="1440623837344"/>
 <node ID="ID_1237433874" CREATED="1428971997742" MODIFIED="1428971997742"><richcontent TYPE="NODE">
 
 <html>
@@ -235,6 +235,7 @@
 <node TEXT="&quot;It does not have to be like that for you.&quot;" ID="ID_859565266" CREATED="1424848401327" MODIFIED="1426366188838"/>
 </node>
 </node>
+<node TEXT="&quot;What will you find in me?&quot;" ID="ID_911020454" CREATED="1424896965163" MODIFIED="1425372924215"/>
 </node>
 </node>
 <node TEXT="progs, goals" POSITION="right" ID="ID_725666750" CREATED="1434954883172" MODIFIED="1435306979313">
@@ -866,7 +867,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2515,6 +2515,11 @@
 <node TEXT="never have to be lonely if can see who exist" POSITION="right" ID="ID_241435946" CREATED="1440136048719" MODIFIED="1440136058619">
 <node TEXT="always someone needs you" ID="ID_1732025003" CREATED="1440194521472" MODIFIED="1440194524630"/>
 </node>
+<node TEXT="08 26" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_864757330" CREATED="1440624051623" MODIFIED="1440624054410"/>
+<node TEXT="interview awkwardness" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1631843031" CREATED="1424897015659" MODIFIED="1436679608080">
+<node TEXT="~employment, ~dating" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1551978554" CREATED="1440623969295" MODIFIED="1440623981559"/>
+</node>
+<node TEXT="soc feedback : the joy of being wanted" POSITION="right" ID="ID_99729411" CREATED="1436680690440" MODIFIED="1440624036751"/>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>
 <node TEXT="(nr) = not reviewed" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1492952414" CREATED="1435019532345" MODIFIED="1435019823176"/>
 </node>

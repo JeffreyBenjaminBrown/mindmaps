@@ -58,6 +58,9 @@
 </hook>
 <node TEXT="procg ideas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1092036804" CREATED="1440129525987" MODIFIED="1440234649132">
 <font BOLD="true"/>
+<node TEXT="demote some from go, make it more often reviewed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038144866" CREATED="1440633318368" MODIFIED="1440633331086">
+<font BOLD="true"/>
+</node>
 <node TEXT="to write less" ID="ID_983495967" CREATED="1439614807729" MODIFIED="1440234621849">
 <node TEXT="promote problems, questions, actionable; freeze others" ID="ID_902826106" CREATED="1439614708977" MODIFIED="1439614841857">
 <node TEXT="entraining habits for when with people should not qualify -- there&apos;s too much of that to do, if it needs doing I am lost" ID="ID_193732583" CREATED="1439614746593" MODIFIED="1439614771613"/>
@@ -69,9 +72,10 @@
 <node TEXT="not beyond their names" ID="ID_1200999941" CREATED="1439618366173" MODIFIED="1439618373725"/>
 </node>
 </node>
-<node TEXT="collect these" ID="ID_387509131" CREATED="1440234613138" MODIFIED="1440234618420">
-<node TEXT="search for hype, print, volunt, speech act" ID="ID_1846899998" CREATED="1440129530900" MODIFIED="1440129554060"/>
-<node TEXT="collect christ" ID="ID_588072796" CREATED="1440111946921" MODIFIED="1440193130286">
+<node TEXT="visit|collect" ID="ID_387509131" CREATED="1440234613138" MODIFIED="1440633348388">
+<node TEXT="rep/ :$ has to do/, I think" ID="ID_91609931" CREATED="1440628915097" MODIFIED="1440633388707"/>
+<node TEXT="&amp; hype, print, volunt, speech act" ID="ID_1846899998" CREATED="1440129530900" MODIFIED="1440633353532"/>
+<node TEXT="christ ..more tags" ID="ID_588072796" CREATED="1440111946921" MODIFIED="1440633433148">
 <node TEXT="to logic.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_374923859" CREATED="1440193131279" MODIFIED="1440193134027"/>
 <node TEXT="tags" ID="ID_1697366744" CREATED="1440193144368" MODIFIED="1440193144862">
 <node TEXT="from cog no comp ref" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1189075651" CREATED="1440111974465" MODIFIED="1440111979663"/>
@@ -493,6 +497,13 @@
 </node>
 <node TEXT="in selecting object of study, without calling it that, align what _ needs to know with what they want to know" ID="ID_711193790" CREATED="1425193884591" MODIFIED="1437267166693"/>
 </node>
+<node TEXT="not underestimate object" ID="ID_1818552288" CREATED="1424898780744" MODIFIED="1436680285163">
+<node TEXT="= not underestimate object of pater, e.g. child" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_631043436" CREATED="1424898780744" MODIFIED="1436680294071"/>
+</node>
+<node TEXT="recog and ?accommodate divergences" ID="ID_696164524" CREATED="1424898785251" MODIFIED="1440624174946">
+<node TEXT="from external reality" ID="ID_1002582440" CREATED="1424898795802" MODIFIED="1424898802895"/>
+</node>
+<node TEXT="? sex non-integration" ID="ID_551445585" CREATED="1436680387360" MODIFIED="1436680487099"/>
 </node>
 <node TEXT="info dependence" ID="ID_1257366582" CREATED="1437272936584" MODIFIED="1437272938734">
 <node TEXT="other ways of knowing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1546279635" CREATED="1429417934814" MODIFIED="1437272947687"/>
@@ -817,6 +828,14 @@
 </node>
 </node>
 <node TEXT="? do" POSITION="right" ID="ID_1905728837" CREATED="1437269670164" MODIFIED="1437269671305">
+<node TEXT="radicalism" ID="ID_946582519" CREATED="1440624466311" MODIFIED="1440624468013">
+<node TEXT="the joy of flaunting dumb tradition" ID="ID_1564914245" CREATED="1424899296347" MODIFIED="1424899304094">
+<node TEXT="e.g. streaking" ID="ID_1961643287" CREATED="1424899305747" MODIFIED="1424899308120"/>
+<node TEXT="perhaps sheepishly" ID="ID_1675912507" CREATED="1424899315891" MODIFIED="1424899319288">
+<node TEXT="unable to look at oneself without laughing" ID="ID_146334777" CREATED="1424899329459" MODIFIED="1424899335058"/>
+</node>
+</node>
+</node>
 <node TEXT="avoid" ID="ID_1298528082" CREATED="1437260205276" MODIFIED="1437260221572">
 <node TEXT="investig with bias" LOCALIZED_STYLE_REF="default" ID="ID_1944595458" CREATED="1425542438150" MODIFIED="1437260249327">
 <node TEXT="? avoiding certain topics, in thought or conversation" ID="ID_802084484" CREATED="1425542461206" MODIFIED="1425542469124"/>

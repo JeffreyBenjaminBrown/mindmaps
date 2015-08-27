@@ -1109,6 +1109,15 @@
 <node TEXT="makes literal sense" ID="ID_210439627" CREATED="1440216427101" MODIFIED="1440216430401"/>
 <node TEXT="tv" ID="ID_531788907" CREATED="1440216434174" MODIFIED="1440216434632"/>
 </node>
+<node TEXT="sad about happy bc expected brief" ID="ID_903959312" CREATED="1440623258823" MODIFIED="1440623268197">
+<node TEXT="the sadness of &quot;this is so good now, I wish I could have it forever&quot;, or &quot;this is so good now, I am afraid of losing _&quot;" ID="ID_1065911881" CREATED="1434184182500" MODIFIED="1434184315713"/>
+</node>
+<node TEXT="trained, unnatural comfort" LOCALIZED_STYLE_REF="default" ID="ID_1874024172" CREATED="1424897350883" MODIFIED="1436679859739">
+<node TEXT="unnatural given the circumstances" ID="ID_1425598446" CREATED="1424897375434" MODIFIED="1424897382714"/>
+</node>
+<node TEXT="&quot;I can&apos;t do this but I can&apos;t get out.&quot;" ID="ID_68144687" CREATED="1440571717776" MODIFIED="1440571723406">
+<node TEXT="ck, on what happens after eight years of marriage" ID="ID_1663675733" CREATED="1440571723832" MODIFIED="1440571732062"/>
+</node>
 </node>
 <node TEXT="metaratl, applic, me" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948476798" CREATED="1436589737975" MODIFIED="1436589795018">
 <node TEXT="against detachment" ID="ID_77563504" CREATED="1423778167125" MODIFIED="1436589783228">
@@ -1568,11 +1577,11 @@
 </node>
 <node TEXT="rep v. time" ID="ID_1710682591" CREATED="1428436588549" MODIFIED="1428436592540"/>
 </node>
-<node TEXT="proc bond" ID="ID_1567099013" CREATED="1433143009837" MODIFIED="1433143030498">
+<node TEXT="intimacy | proc bond" ID="ID_1567099013" CREATED="1433143009837" MODIFIED="1440623479458">
+<font BOLD="true"/>
 <node TEXT="= process bonding" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1231262734" CREATED="1433143047117" MODIFIED="1433143055315">
 <node TEXT="bonding around processes" ID="ID_915749492" CREATED="1433143051117" MODIFIED="1433143053756"/>
 </node>
-<node TEXT="intimacy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_418973291" CREATED="1433142316517" MODIFIED="1433143038746"/>
 <node TEXT="grow a space for another to traverse" ID="ID_480265035" CREATED="1433142304644" MODIFIED="1433142311826">
 <node TEXT="was special case" LOCALIZED_STYLE_REF="styles.topic" ID="ID_404755764" CREATED="1433142299452" MODIFIED="1433142313751">
 <node TEXT="form a path to lead another through" ID="ID_1301148764" CREATED="1433137976168" MODIFIED="1433142265957">
@@ -1584,6 +1593,9 @@
 <node TEXT="commitment device @ romance" ID="ID_1180523724" CREATED="1433129027308" MODIFIED="1433143810726">
 <node TEXT="married to the devices you implement in your own behavior" ID="ID_1454151874" CREATED="1433129037290" MODIFIED="1433143819529"/>
 </node>
+<node TEXT="2015 08 26" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1364112286" CREATED="1440623455049" MODIFIED="1440623457419"/>
+<node TEXT="if _ knew my imagination" ID="ID_1884176376" CREATED="1434246206197" MODIFIED="1434246234972"/>
+<node TEXT="&quot;I need you to understand how much I need you&quot;" ID="ID_216487809" CREATED="1434184226561" MODIFIED="1440623287311"/>
 </node>
 <node TEXT="-&gt; my work" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_876584907" CREATED="1434402550295" MODIFIED="1434402584971">
 <node TEXT="\rhythm, \soc, \mindmap" ID="ID_111329266" CREATED="1434402565871" MODIFIED="1434402578948"/>

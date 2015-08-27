@@ -5791,6 +5791,37 @@
 <node TEXT="stepper, tab-complete" ID="ID_1467045588" CREATED="1424408220188" MODIFIED="1424408226659"/>
 </node>
 </node>
+<node TEXT="2015 03 20, from MBP(2008)" LOCALIZED_STYLE_REF="default" ID="ID_1507768488" CREATED="1426889068367" MODIFIED="1440550094679">
+<node TEXT="lenovo specs from bios" ID="ID_1301513846" CREATED="1426889080991" MODIFIED="1426889084835">
+<node TEXT="memory" ID="ID_16835842" CREATED="1426889075367" MODIFIED="1426889076714">
+<node TEXT="8192 mb" ID="ID_1435843781" CREATED="1426889077655" MODIFIED="1426889079867"/>
+</node>
+</node>
+<node TEXT="missing firmware" ID="ID_1450107674" CREATED="1426889433270" MODIFIED="1426889436826">
+<node TEXT="rt1_nic/rt18168e-3.fw" ID="ID_1755350301" CREATED="1426889440319" MODIFIED="1426889466626"/>
+</node>
+<node TEXT="still killing /sbin/modprobe -b pci:..." ID="ID_1960055410" CREATED="1426890171639" MODIFIED="1426890183666"/>
+<node TEXT="from email (deleted) titled lenovo" ID="ID_1614647295" CREATED="1426912252430" MODIFIED="1426967719456">
+<node TEXT="It starts at least somewhat if I boot it unplugged. It hangs at &quot;enabling power management ...&quot;" ID="ID_1781997593" CREATED="1426912271925" MODIFIED="1426912277873"/>
+<node TEXT="timeout: killing /sbin/modprobe -b pci:..." ID="ID_91029222" CREATED="1426912269702" MODIFIED="1426912287145"/>
+<node TEXT="what screenshot, what thing not installed cuz proprietary" ID="ID_949333621" CREATED="1426912294174" MODIFIED="1426912294897"/>
+<node TEXT="a link &amp; comments" ID="ID_1352807816" CREATED="1426912321573" MODIFIED="1426912327721">
+<node TEXT="https://wiki.debian.org/InstallingDebianOn/Thinkpad/T440p/jessie#Configuration" ID="ID_396111895" CREATED="1426912302318" MODIFIED="1426912302319" LINK="https://wiki.debian.org/InstallingDebianOn/Thinkpad/T440p/jessie#Configuration"/>
+<node TEXT="That link says to disable &quot;OS Optimied defaults&quot;; they already were. It also says to disbale &quot;Intel Rapid Restart&quot;; I did not find that, but found &quot;Config -&gt; CPU Power Management&quot;, and disabled it instead. (It might be the same thing?)" ID="ID_1825848619" CREATED="1426912315989" MODIFIED="1426912316713"/>
+</node>
+<node TEXT="advice?" ID="ID_543056973" CREATED="1426912344966" MODIFIED="1426912347121">
+<node TEXT="https://www.debian.org/releases/stable/i386/ch03s03.html.en" ID="ID_1443639199" CREATED="1426912337929" MODIFIED="1426912337933" LINK="https://www.debian.org/releases/stable/i386/ch03s03.html.en"/>
+<node TEXT="https://wiki.debian.org/Hardware" ID="ID_1178065681" CREATED="1426912337933" MODIFIED="1426912337933" LINK="https://wiki.debian.org/Hardware"/>
+<node TEXT="http://www.tldp.org/HOWTO/Hardware-HOWTO/" ID="ID_246839835" CREATED="1426912337934" MODIFIED="1426912337934" LINK="http://www.tldp.org/HOWTO/Hardware-HOWTO/"/>
+</node>
+<node TEXT="submit an entry about my experience:" ID="ID_1659828936" CREATED="1426912337934" MODIFIED="1426912337934">
+<node TEXT="http://www.linux-on-laptops.com/lenovo.html" ID="ID_1944511307" CREATED="1426912337935" MODIFIED="1426912337935" LINK="http://www.linux-on-laptops.com/lenovo.html"/>
+</node>
+<node TEXT="About the Lenovo:" ID="ID_1719343330" CREATED="1426912337935" MODIFIED="1426912337935">
+<node TEXT="Before install, check BIOS for info." ID="ID_1158673442" CREATED="1426912337935" MODIFIED="1426912337935"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="recent installs" POSITION="right" ID="ID_1352924132" CREATED="1427834542168" MODIFIED="1427834555468">
 <node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1435348936" CREATED="1427908544747" MODIFIED="1427908546724"/>

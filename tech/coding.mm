@@ -14777,7 +14777,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="in graph, divide struggle|easy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1660926651" CREATED="1439616539131" MODIFIED="1439617216546">
 <node TEXT="and freeze easy" ID="ID_1226741483" CREATED="1439616552251" MODIFIED="1439616554602"/>
 </node>
-<node TEXT="20, 1p +" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_458894405" CREATED="1440185570935" MODIFIED="1440194349559">
+<node TEXT="20, 1.3p" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_458894405" CREATED="1440185570935" MODIFIED="1440549282970">
 <node TEXT="1" ID="ID_438963867" CREATED="1440194344104" MODIFIED="1440194344358">
 <node TEXT="if can&apos;t write dwt deep, main broad tool areas are parser, file io, ui and graph" ID="ID_1535190370" CREATED="1439717216932" MODIFIED="1439717287369">
 <node TEXT="ui init none or easy(ncurses)" ID="ID_57553593" CREATED="1439717484684" MODIFIED="1439717536180"/>
@@ -14887,6 +14887,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+<node TEXT="25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_22559301" CREATED="1440549269268" MODIFIED="1440549271106"/>
+<node TEXT="in svn don&apos;t label just the work; explain the problems, if they fit, for evid of which matter" ID="ID_650095595" CREATED="1440135357187" MODIFIED="1440135380366"/>
 </node>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">

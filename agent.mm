@@ -428,6 +428,7 @@
 <node TEXT="emotional hygiene?" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_690938265" CREATED="1359064251217" MODIFIED="1359064255202"/>
 <node TEXT="If someone says they miss me, reciprocate if true, but never initiate?" ID="ID_1656291025" CREATED="1359004512191" MODIFIED="1438205360960"/>
 <node TEXT="solemnity, gravity : bargains" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1043255781" CREATED="1359306008334" MODIFIED="1438205388126"/>
+<node TEXT="hot: to refuse the immature, unready" ID="ID_947628273" CREATED="1424899502075" MODIFIED="1440623634077"/>
 </node>
 <node TEXT="stories, not just a story, for how one gets here" ID="ID_1541750663" CREATED="1425456480954" MODIFIED="1425456495464">
 <node TEXT=". feel the present moment ala dwt" ID="ID_1937888291" CREATED="1425456546434" MODIFIED="1425456560688"/>
@@ -459,6 +460,11 @@
 <node TEXT="choices inducing that much pride, stories that enjoyable" ID="ID_1923277583" CREATED="1429428637219" MODIFIED="1429428658441"/>
 <node TEXT="oblig to society? to self?" ID="ID_324921644" CREATED="1425083673771" MODIFIED="1425083681065"/>
 </node>
+</node>
+<node TEXT="dissonance" ID="ID_688833452" CREATED="1440624403415" MODIFIED="1440624404595">
+<node TEXT="= int|ext mood diff" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1014173197" CREATED="1436679066727" MODIFIED="1440624413506"/>
+<node TEXT="interview|performance stoicism" ID="ID_449813712" CREATED="1424897444058" MODIFIED="1440624421001"/>
+<node TEXT="steeling oneself to smile" ID="ID_1081159222" CREATED="1424897454530" MODIFIED="1440624416058"/>
 </node>
 </node>
 <node TEXT="progs" POSITION="right" ID="ID_1617900703" CREATED="1434952408803" MODIFIED="1434952410720">
@@ -1362,6 +1368,11 @@
 <node TEXT="dates" POSITION="right" ID="ID_1529805638" CREATED="1436418428144" MODIFIED="1436418429400">
 <font BOLD="true"/>
 <node TEXT="? was there not more here once" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_55660041" CREATED="1438206877220" MODIFIED="1438206888503"/>
+<node TEXT="2015 08 26" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1930655850" CREATED="1440623064599" MODIFIED="1440623071847"/>
+<node TEXT="innoc|naive about _, but not generally" ID="ID_82726805" CREATED="1440623072151" MODIFIED="1440623085953"/>
+<node TEXT="&amp; glory passion fun" ID="ID_518876511" CREATED="1436680607824" MODIFIED="1436680661373">
+<node TEXT="the joy of exercising one&apos;s freedoms, powers" ID="ID_1718329484" CREATED="1424899372915" MODIFIED="1424899383167"/>
+</node>
 </node>
 </node>
 </map>
