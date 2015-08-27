@@ -2520,6 +2520,12 @@
 <node TEXT="~employment, ~dating" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1551978554" CREATED="1440623969295" MODIFIED="1440623981559"/>
 </node>
 <node TEXT="soc feedback : the joy of being wanted" POSITION="right" ID="ID_99729411" CREATED="1436680690440" MODIFIED="1440624036751"/>
+<node TEXT="Many rationalizing their earlier multiplyy-directed|impulsed statements." POSITION="right" ID="ID_768342692" CREATED="1440564381265" MODIFIED="1440564417935">
+<node TEXT="&quot;Many&quot; as in \group" ID="ID_1306795275" CREATED="1440564425169" MODIFIED="1440564432983"/>
+<node TEXT="? had to use a synonym to keep them separate" ID="ID_1838571238" CREATED="1440564440505" MODIFIED="1440564448118">
+<node TEXT="could have used &quot;many&quot; but it might have then looked like the other, an introduction of other processors|agents" ID="ID_499783693" CREATED="1440564455689" MODIFIED="1440564474383"/>
+</node>
+</node>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>
 <node TEXT="(nr) = not reviewed" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1492952414" CREATED="1435019532345" MODIFIED="1435019823176"/>
 </node>

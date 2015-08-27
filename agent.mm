@@ -467,7 +467,7 @@
 <node TEXT="steeling oneself to smile" ID="ID_1081159222" CREATED="1424897454530" MODIFIED="1440624416058"/>
 </node>
 </node>
-<node TEXT="progs" POSITION="right" ID="ID_1617900703" CREATED="1434952408803" MODIFIED="1434952410720">
+<node TEXT="progs" POSITION="right" ID="ID_1617900703" CREATED="1434952408803" MODIFIED="1440635262212">
 <node TEXT="= progs an agent can pursue; can have soc effects" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_635370370" CREATED="1434956390521" MODIFIED="1434956400410"/>
 <node TEXT="just \?group" LOCALIZED_STYLE_REF="default" ID="ID_734324137" CREATED="1424303311215" MODIFIED="1435019749925">
 <node TEXT="unmotivated, bottom-up review|inquiry" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1555312572" CREATED="1424986027287" MODIFIED="1426365191076">
@@ -795,6 +795,38 @@
 <node TEXT="? respect changes in local popul" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1263549557" CREATED="1438223864320" MODIFIED="1438223909259">
 <node TEXT="when with others, and some join or leave, my prog should likj change" ID="ID_1636981496" CREATED="1427061011661" MODIFIED="1427061027207"/>
 <node TEXT="must internalize, make it ? a feeling, perceptual" ID="ID_359392414" CREATED="1438223913464" MODIFIED="1438223939774"/>
+</node>
+<node TEXT="fun" ID="ID_1149698331" CREATED="1435018426310" MODIFIED="1435018427523">
+<node TEXT="this is fun as quality" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1802729978" CREATED="1435123785261" MODIFIED="1435123804252">
+<node TEXT="for fun as act, search enthus, hype" ID="ID_412893824" CREATED="1435123800356" MODIFIED="1435123820400"/>
+</node>
+<node TEXT="(animation, distortion, heroics) as fun" ID="ID_1204307376" CREATED="1435018195540" MODIFIED="1440635395860">
+<node TEXT="an image" ID="ID_176030336" CREATED="1435018202716" MODIFIED="1438154382843">
+<node TEXT="(wiley e coyote) leaning into a run, feet extending tafflyike in (down along) bike pedal ovals and accelerating, that frenetic sprite drifting left and slightly down" ID="ID_657561195" CREATED="1434926179874" MODIFIED="1438154340099"/>
+</node>
+<node TEXT="some of why that image is fun" ID="ID_1271448893" CREATED="1435018204916" MODIFIED="1438154386996">
+<node TEXT="heroic impossible overexertion" ID="ID_1216878938" CREATED="1435018209364" MODIFIED="1435018216578">
+<node TEXT="the lean" ID="ID_1207014206" CREATED="1435018224837" MODIFIED="1435018225921"/>
+</node>
+<node TEXT="geometric distortion (skew, circle to oval)" ID="ID_1049732223" CREATED="1435018241150" MODIFIED="1435018256608"/>
+<node TEXT="minimal animation prog" ID="ID_1117477071" CREATED="1435018284400" MODIFIED="1435018318979">
+<node ID="ID_1946374856" CREATED="1435018319435" MODIFIED="1435018319435"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sprite with trajectory, sampled regularly
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_665878450" CREATED="1434954407790" MODIFIED="1434954409103">
 <node TEXT="find symm" ID="ID_1400463186" CREATED="1434954419399" MODIFIED="1434954421252">

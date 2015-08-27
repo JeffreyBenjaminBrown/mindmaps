@@ -683,38 +683,6 @@
 </node>
 </node>
 </node>
-<node TEXT="fun" ID="ID_1149698331" CREATED="1435018426310" MODIFIED="1435018427523">
-<node TEXT="this is fun as quality" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1802729978" CREATED="1435123785261" MODIFIED="1435123804252">
-<node TEXT="for fun as act, search enthus, hype" ID="ID_412893824" CREATED="1435123800356" MODIFIED="1435123820400"/>
-</node>
-<node TEXT="animation, distortion, heroics = fun" ID="ID_1204307376" CREATED="1435018195540" MODIFIED="1435018390687">
-<node TEXT="an image" ID="ID_176030336" CREATED="1435018202716" MODIFIED="1438154382843">
-<node TEXT="(wiley e coyote) leaning into a run, feet extending tafflyike in (down along) bike pedal ovals and accelerating, that frenetic sprite drifting left and slightly down" ID="ID_657561195" CREATED="1434926179874" MODIFIED="1438154340099"/>
-</node>
-<node TEXT="some of why that image is fun" ID="ID_1271448893" CREATED="1435018204916" MODIFIED="1438154386996">
-<node TEXT="heroic impossible overexertion" ID="ID_1216878938" CREATED="1435018209364" MODIFIED="1435018216578">
-<node TEXT="the lean" ID="ID_1207014206" CREATED="1435018224837" MODIFIED="1435018225921"/>
-</node>
-<node TEXT="geometric distortion (skew, circle to oval)" ID="ID_1049732223" CREATED="1435018241150" MODIFIED="1435018256608"/>
-<node TEXT="minimal animation prog" ID="ID_1117477071" CREATED="1435018284400" MODIFIED="1435018318979">
-<node ID="ID_1946374856" CREATED="1435018319435" MODIFIED="1435018319435"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      sprite with trajectory, sampled regularly
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
 <node TEXT="consistent" ID="ID_1100489671" CREATED="1426372520333" MODIFIED="1431588040364">
 <font BOLD="true"/>
 <node TEXT="sorted &amp; dispersed 2015 06 22" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1200585923" CREATED="1435025561789" MODIFIED="1435027751328"/>

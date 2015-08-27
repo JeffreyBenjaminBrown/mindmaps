@@ -898,7 +898,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="group.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1819953154" CREATED="1440538561057" MODIFIED="1440538564807"/>
 </node>
@@ -1285,11 +1284,15 @@
 <node TEXT="edward snowden" ID="ID_1849805393" CREATED="1440549191992" MODIFIED="1440549194884"/>
 </node>
 </node>
-<node TEXT="photog|film" POSITION="right" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440538424320">
+<node TEXT="camera" POSITION="right" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440649064066">
 <font BOLD="false"/>
+<node TEXT="was photog|film" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_562916017" CREATED="1440649067230" MODIFIED="1440649071369"/>
 <node TEXT="camera v. star" ID="ID_532298338" CREATED="1440224945996" MODIFIED="1440538386653">
 <node TEXT="when star mentions problem, zoom in on star as if to say &quot;it&apos;s here&quot;" ID="ID_705656297" CREATED="1440224953548" MODIFIED="1440224965214"/>
 </node>
+</node>
+<node TEXT="mic" POSITION="right" ID="ID_1442014852" CREATED="1440649072742" MODIFIED="1440649076589">
+<node TEXT="turn, moe relv mic $ head $ to introduce a new char" ID="ID_1325532513" CREATED="1440649077390" MODIFIED="1440649111778"/>
 </node>
 <node TEXT="art being|integ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_262668557" CREATED="1440539661057" MODIFIED="1440539707088">
 <font BOLD="false"/>
