@@ -467,7 +467,7 @@
 <node TEXT="steeling oneself to smile" ID="ID_1081159222" CREATED="1424897454530" MODIFIED="1440624416058"/>
 </node>
 </node>
-<node TEXT="progs" POSITION="right" ID="ID_1617900703" CREATED="1434952408803" MODIFIED="1440635262212">
+<node TEXT="progs|acts" POSITION="right" ID="ID_1617900703" CREATED="1434952408803" MODIFIED="1440795780169">
 <node TEXT="= progs an agent can pursue; can have soc effects" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_635370370" CREATED="1434956390521" MODIFIED="1434956400410"/>
 <node TEXT="just \?group" LOCALIZED_STYLE_REF="default" ID="ID_734324137" CREATED="1424303311215" MODIFIED="1435019749925">
 <node TEXT="unmotivated, bottom-up review|inquiry" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1555312572" CREATED="1424986027287" MODIFIED="1426365191076">
@@ -825,6 +825,11 @@
 </richcontent>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="fun . incompressib" ID="ID_1545712298" CREATED="1440794826560" MODIFIED="1440794864921">
+<node TEXT="its incompressibility makes water a certain kind of squirty" ID="ID_1235848344" CREATED="1440794780065" MODIFIED="1440794800053">
+<node TEXT="it escapes a grip where foam would not" ID="ID_1201162906" CREATED="1440794810864" MODIFIED="1440794818687"/>
 </node>
 </node>
 </node>
@@ -1405,6 +1410,8 @@
 <node TEXT="&amp; glory passion fun" ID="ID_518876511" CREATED="1436680607824" MODIFIED="1436680661373">
 <node TEXT="the joy of exercising one&apos;s freedoms, powers" ID="ID_1718329484" CREATED="1424899372915" MODIFIED="1424899383167"/>
 </node>
+<node TEXT="27" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_471410061" CREATED="1440754454454" MODIFIED="1440754455811"/>
+<node TEXT="lazy . selfish" ID="ID_1227234827" CREATED="1440754394405" MODIFIED="1440754397892"/>
 </node>
 </node>
 </map>

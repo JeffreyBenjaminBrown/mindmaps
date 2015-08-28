@@ -1003,9 +1003,13 @@
 </node>
 <node TEXT="2015 08 20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1450174649" CREATED="1440185490376" MODIFIED="1440185495161"/>
 <node TEXT="drummer: use tidal for" ID="ID_1833062058" CREATED="1439601889520" MODIFIED="1439773469222">
+<node TEXT="for, not as" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1278735175" CREATED="1440726262078" MODIFIED="1440726264172"/>
 <node TEXT="for: to persuade to join" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_898307797" CREATED="1439773475405" MODIFIED="1439773483311"/>
 <node TEXT="my timing would be perfect" ID="ID_668915824" CREATED="1439601895827" MODIFIED="1439601899083"/>
 <node TEXT="he could be life, I machine" ID="ID_291190481" CREATED="1439601899265" MODIFIED="1439601905410"/>
+</node>
+<node TEXT="&quot;What do we want?&quot; &quot;What?&quot; Why do we want it?&quot; &quot;What?&quot;" ID="ID_1448789929" CREATED="1440726113615" MODIFIED="1440726125169">
+<node TEXT="is dup, main at go/" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1107699272" CREATED="1440726221727" MODIFIED="1440726251769"/>
 </node>
 </node>
 <node TEXT="rhyme" POSITION="right" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
@@ -1013,13 +1017,28 @@
 <node TEXT="form sentence toward what seems a natural rhyme, then deviate" ID="ID_104384863" CREATED="1439509195653" MODIFIED="1439509206642"/>
 </node>
 <node TEXT="diplom" POSITION="right" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1439416832908">
-<node TEXT="collected and reviewed 2015 08 12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606117738" CREATED="1439419084257" MODIFIED="1439419094850"/>
 <node TEXT="!! grep-collected" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_58176212" CREATED="1439417311055" MODIFIED="1439422053558">
 <font BOLD="true"/>
 <node TEXT="ongoing : diplom" ID="ID_984478289" CREATED="1439417320095" MODIFIED="1439417330621"/>
-<node TEXT="could : emp, trust, influ" ID="ID_967482727" CREATED="1439417330815" MODIFIED="1439422074166">
+<node TEXT="could these" ID="ID_967482727" CREATED="1439417330815" MODIFIED="1440726010535">
+<node TEXT="nice, kind" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_970431939" CREATED="1440725985038" MODIFIED="1440726020535"/>
+<node ID="ID_1992556939" CREATED="1440726005173" MODIFIED="1440726005173"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      emp, trust, influ
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="\wemp[^i|t]" ID="ID_327606816" CREATED="1439421739205" MODIFIED="1439421751994"/>
 <node TEXT="emp preceded by non-alpha char" ID="ID_1259940628" CREATED="1439417338007" MODIFIED="1439417432941"/>
+</node>
 </node>
 </node>
 <node TEXT="= influ + defen?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1068980335" CREATED="1422947472903" MODIFIED="1439419125624">
@@ -1028,8 +1047,8 @@
 <node TEXT="~ respect (inc. cog respect and respect for self)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1036256871" CREATED="1430461144344" MODIFIED="1439419125621">
 <font BOLD="false"/>
 </node>
-<node TEXT="?2013, 1r, 1p" ID="ID_1337648545" CREATED="1423811129097" MODIFIED="1439419066351">
-<font BOLD="false"/>
+<node TEXT="?2013, 1r, 1p" ID="ID_1337648545" CREATED="1423811129097" MODIFIED="1440725949663">
+<font BOLD="true"/>
 <node TEXT="recognize my secrets as such" ID="ID_994642213" CREATED="1389029627467" MODIFIED="1389029650011">
 <node TEXT="Avoid volunteering sensitive information even to someone who seems likely to react positively, if we are part of a group in which others might not." ID="ID_761664032" CREATED="1388615688802" MODIFIED="1388615854996">
 <node TEXT="because people share" ID="ID_1514667706" CREATED="1424764302774" MODIFIED="1424764306540"/>
@@ -1072,6 +1091,9 @@
 </node>
 <node TEXT="? praise pubj or privj" ID="ID_1804883820" CREATED="1421027836202" MODIFIED="1439417181744"/>
 </node>
+<node TEXT="6p" ID="ID_502721989" CREATED="1440725931670" MODIFIED="1440725941189">
+<font BOLD="true"/>
+<node TEXT="= collected and reviewed 2015 08 12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606117738" CREATED="1439419084257" MODIFIED="1440725937839"/>
 <node TEXT="1p" ID="ID_815246310" CREATED="1439418434440" MODIFIED="1439419066352">
 <font BOLD="false"/>
 <node TEXT="as instruc, &quot;less&quot; lik more help than &quot;not&quot;" ID="ID_1992848812" CREATED="1421027749445" MODIFIED="1421029608999"/>
@@ -1254,6 +1276,7 @@
 <node TEXT="seems better to feel it than plan it -- but that would require spending a lot of my time thinking about specific other people, which feels like planning, and a little creepy" ID="ID_1239886445" CREATED="1439424966697" MODIFIED="1439424997314"/>
 </node>
 </node>
+</node>
 <node TEXT="2015 06 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1132924979" CREATED="1434406962416" MODIFIED="1440193812948">
 <font BOLD="true"/>
 <node TEXT="what I meant?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_571882749" CREATED="1438658830279" MODIFIED="1438658847203">
@@ -1283,6 +1306,8 @@
 <node TEXT="&quot;_, which I can prove&quot;" ID="ID_435434127" CREATED="1440139772282" MODIFIED="1440549191289">
 <node TEXT="edward snowden" ID="ID_1849805393" CREATED="1440549191992" MODIFIED="1440549194884"/>
 </node>
+<node TEXT="28" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1185020695" CREATED="1440725878791" MODIFIED="1440725881781"/>
+<node TEXT="before you&apos;re offended at another&apos;s characterization of something, ask whether each word they used means the same thing to them as it does you, or better whether they mean _" ID="ID_1124769877" CREATED="1440725810742" MODIFIED="1440725850857"/>
 </node>
 <node TEXT="camera" POSITION="right" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440649064066">
 <font BOLD="false"/>

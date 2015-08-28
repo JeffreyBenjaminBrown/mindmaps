@@ -108,6 +108,7 @@
 <node TEXT="place" ID="ID_1436570770" CREATED="1440644385327" MODIFIED="1440644386036">
 <node TEXT="private : what am I, what are we&#xa;public : what is|can be an agent, a group" LOCALIZED_STYLE_REF="default" ID="ID_1330170246" CREATED="1440644027239" MODIFIED="1440644412390"/>
 </node>
+<node TEXT="if the agent|group subdivides (progs/ etc) were more inclusive|the top of a bigger fraction of my data, it would be easier to find stuff" ID="ID_1059113225" CREATED="1440795706433" MODIFIED="1440795745011"/>
 </node>
 <node TEXT="clarifications appear in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437272894602">
 <node TEXT="to clarify things I wrote short in the parent" ID="ID_1848181419" CREATED="1437250147899" MODIFIED="1437250162353"/>
@@ -935,6 +936,28 @@
 <node TEXT="2015 08 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_242927121" CREATED="1440234712807" MODIFIED="1440234716510"/>
 <node TEXT="in group.mm, feel ambiv about methods for targeting specific people" ID="ID_983740354" CREATED="1438586901768" MODIFIED="1438586918230"/>
 <node TEXT="share beliefs re. what agents, groups are? for music code?" LOCALIZED_STYLE_REF="default" ID="ID_525588004" CREATED="1438583318027" MODIFIED="1440234556725"/>
+</node>
+</node>
+<node TEXT="? &amp; new" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_343823571" CREATED="1440726157773" MODIFIED="1440726161590">
+<node TEXT="logic/absurd &amp; music|rhythm" ID="ID_1362828635" CREATED="1440726163522" MODIFIED="1440726209892">
+<node TEXT="keep tag" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1772024172" CREATED="1440726238175" MODIFIED="1440726240243">
+<node ID="ID_727277495" CREATED="1440726240600" MODIFIED="1440726240600"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &quot;What do we want?&quot; &quot;What?&quot; Why do we want it?&quot; &quot;What?&quot;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="&quot;What do we want?&quot; &quot;What?&quot; Why do we want it?&quot; &quot;What?&quot;" ID="ID_1448789929" CREATED="1440726113615" MODIFIED="1440726125169"/>
 </node>
 </node>
 <node TEXT="mess, topics" POSITION="right" ID="ID_964308231" CREATED="1437292441489" MODIFIED="1437699269107">

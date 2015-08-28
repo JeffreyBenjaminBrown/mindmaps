@@ -6044,6 +6044,26 @@
 <node TEXT="2015 8 11: unrar" ID="ID_1030683701" CREATED="1439338424951" MODIFIED="1439338433254">
 <node TEXT="sudo apt-get install" ID="ID_144384394" CREATED="1439338433815" MODIFIED="1439338436636"/>
 </node>
+<node TEXT="2015 08 27: tidal, lots of things" ID="ID_1011655174" CREATED="1440704854250" MODIFIED="1440704947889">
+<font BOLD="true"/>
+<node TEXT="I ran the install script" ID="ID_606993710" CREATED="1440704867770" MODIFIED="1440704873235"/>
+<node ID="ID_232954171" CREATED="1440704932512" MODIFIED="1440704932512" LINK="https://raw.githubusercontent.com/tidalcycles/Tidal/master/doc/install-linux.sh"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://raw.githubusercontent.com/tidalcycles/Tidal/master/doc/install-linux.sh
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="among other things, it installed GHCI 7.6.3, even though stack ghci from dwt/git_hask/ gives me 7.10.2" ID="ID_527964420" CREATED="1440704949731" MODIFIED="1440704984507"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
