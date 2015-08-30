@@ -61,6 +61,24 @@
 <node TEXT="demote some from go, make it more often reviewed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038144866" CREATED="1440633318368" MODIFIED="1440633331086">
 <font BOLD="true"/>
 </node>
+<node TEXT="info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_494905835" CREATED="1440892984539" MODIFIED="1440892986454">
+<node TEXT="first sweep fresh.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_100817583" CREATED="1440893072458" MODIFIED="1440893077087">
+<node TEXT="freeze rep fast, disorg" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1357028215" CREATED="1440892989019" MODIFIED="1440892996856"/>
+</node>
+<node TEXT="info &amp; proc, 330 kb" ID="ID_112530690" CREATED="1440893023803" MODIFIED="1440893090062"/>
+<node TEXT="pica/ christ recurs" ID="ID_1197070899" CREATED="1440892998763" MODIFIED="1440893017111"/>
+</node>
+<node TEXT="? collection process template" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1032196943" CREATED="1440892984539" MODIFIED="1440893114664">
+<node TEXT="trialing 2015 08 29" ID="ID_1855303957" CREATED="1440893167923" MODIFIED="1440893174826"/>
+<node TEXT="for info.mm" ID="ID_732260814" CREATED="1440893119099" MODIFIED="1440893127030">
+<node TEXT="first svn" ID="ID_1893074559" CREATED="1440893136979" MODIFIED="1440893140888"/>
+<node TEXT="then sweep fresh.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1284603552" CREATED="1440893072458" MODIFIED="1440893143466">
+<node TEXT="freeze rep fast, disorg" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1476244786" CREATED="1440892989019" MODIFIED="1440892996856"/>
+</node>
+<node TEXT="info &amp; proc, 330 kb" ID="ID_1810102768" CREATED="1440893023803" MODIFIED="1440893090062"/>
+<node TEXT="pica/ christ recurs" ID="ID_1342932891" CREATED="1440892998763" MODIFIED="1440893017111"/>
+</node>
+</node>
 <node TEXT="to write less" ID="ID_983495967" CREATED="1439614807729" MODIFIED="1440234621849">
 <node TEXT="promote problems, questions, actionable; freeze others" ID="ID_902826106" CREATED="1439614708977" MODIFIED="1439614841857">
 <node TEXT="entraining habits for when with people should not qualify -- there&apos;s too much of that to do, if it needs doing I am lost" ID="ID_193732583" CREATED="1439614746593" MODIFIED="1439614771613"/>
@@ -96,6 +114,9 @@
 <font BOLD="false"/>
 </node>
 </node>
+<node TEXT="divide love" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1615182978" CREATED="1440727807213" MODIFIED="1440728664620">
+<node TEXT="divide love: getting it &lt; being bonded | niceness" ID="ID_1632577280" CREATED="1440727321590" MODIFIED="1440727379865"/>
+</node>
 <node TEXT="redivide" ID="ID_1074063074" CREATED="1440318720386" MODIFIED="1440318723486">
 <node TEXT="cleave rep|info, merge rep &amp; dwt" ID="ID_606051824" CREATED="1440318724066" MODIFIED="1440318740429"/>
 </node>
@@ -109,6 +130,9 @@
 <node TEXT="private : what am I, what are we&#xa;public : what is|can be an agent, a group" LOCALIZED_STYLE_REF="default" ID="ID_1330170246" CREATED="1440644027239" MODIFIED="1440644412390"/>
 </node>
 <node TEXT="if the agent|group subdivides (progs/ etc) were more inclusive|the top of a bigger fraction of my data, it would be easier to find stuff" ID="ID_1059113225" CREATED="1440795706433" MODIFIED="1440795745011"/>
+<node TEXT="to divide, choose what freeze and what extract" ID="ID_1545571401" CREATED="1440727324887" MODIFIED="1440727337010"/>
+<node TEXT="collect fun" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_388486212" CREATED="1440795436873" MODIFIED="1440795438941"/>
+<node TEXT="collect trance" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_274579896" CREATED="1440794284807" MODIFIED="1440795444424"/>
 </node>
 <node TEXT="clarifications appear in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437272894602">
 <node TEXT="to clarify things I wrote short in the parent" ID="ID_1848181419" CREATED="1437250147899" MODIFIED="1437250162353"/>
@@ -953,7 +977,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

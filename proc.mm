@@ -1086,6 +1086,29 @@
 <node TEXT="&quot;I can&apos;t do this but I can&apos;t get out.&quot;" ID="ID_68144687" CREATED="1440571717776" MODIFIED="1440571723406">
 <node TEXT="ck, on what happens after eight years of marriage" ID="ID_1663675733" CREATED="1440571723832" MODIFIED="1440571732062"/>
 </node>
+<node TEXT="half-action, expect other to complete" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1269316979" CREATED="1425028687695" MODIFIED="1440887947977">
+<font BOLD="false"/>
+<node TEXT="bond" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_347067129" CREATED="1436834884127" MODIFIED="1436834904649"/>
+<node TEXT="depend" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1051999441" CREATED="1436834894704" MODIFIED="1436834904639"/>
+<node TEXT="provoc" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_219544730" CREATED="1436834914984" MODIFIED="1436834919838">
+<node TEXT="flirt" ID="ID_1377178806" CREATED="1436834924056" MODIFIED="1436834924838"/>
+</node>
+<node TEXT="flirting, _ provokes but wants the other to complete" ID="ID_1053884790" CREATED="1425028699671" MODIFIED="1440887966503"/>
+<node ID="ID_51483202" CREATED="1440887948302" MODIFIED="1440887948302"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      abnegation of follow-through
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="metaratl, applic, me" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948476798" CREATED="1436589737975" MODIFIED="1436589795018">
 <node TEXT="against detachment" ID="ID_77563504" CREATED="1423778167125" MODIFIED="1436589783228">

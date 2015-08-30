@@ -2526,6 +2526,12 @@
 <node TEXT="could have used &quot;many&quot; but it might have then looked like the other, an introduction of other processors|agents" ID="ID_499783693" CREATED="1440564455689" MODIFIED="1440564474383"/>
 </node>
 </node>
+<node TEXT="coincidence of {wants,} for _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1720681941" CREATED="1424684383494" MODIFIED="1424685598790">
+<node TEXT="coincidence of wants for experiences" ID="ID_513100297" CREATED="1424684394023" MODIFIED="1424684474418">
+<node TEXT="&quot;You need to be _g? Great! I need to be [what the other party in _ does]g!&quot;" ID="ID_1042380424" CREATED="1424684423198" MODIFIED="1424684443631"/>
+</node>
+<node TEXT="having similar person state-spaces, needing another inhabitant" ID="ID_845915813" CREATED="1424684477422" MODIFIED="1424684504206"/>
+</node>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>
 <node TEXT="(nr) = not reviewed" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1492952414" CREATED="1435019532345" MODIFIED="1435019823176"/>
 </node>
