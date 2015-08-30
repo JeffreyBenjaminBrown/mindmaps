@@ -1109,6 +1109,9 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="consistency opportunism" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_548386470" CREATED="1440904870339" MODIFIED="1440904885740">
+<node TEXT="as long as can&apos;t buy, might as well act like not want" ID="ID_232564922" CREATED="1440904821042" MODIFIED="1440904830185"/>
+</node>
 </node>
 <node TEXT="metaratl, applic, me" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948476798" CREATED="1436589737975" MODIFIED="1436589795018">
 <node TEXT="against detachment" ID="ID_77563504" CREATED="1423778167125" MODIFIED="1436589783228">
@@ -1222,6 +1225,9 @@
 <node TEXT="pain : expect and accept, or solve?" ID="ID_1814074072" CREATED="1428980156811" MODIFIED="1438156275724"/>
 </node>
 <node TEXT="fear ~ procrast" ID="ID_1035322382" CREATED="1436672069047" MODIFIED="1436672073771"/>
+<node TEXT="help many people in a big way" ID="ID_1308960481" CREATED="1440916641441" MODIFIED="1440916647500">
+<node TEXT="gdb ? music" ID="ID_1233457075" CREATED="1440916657169" MODIFIED="1440916664472"/>
+</node>
 </node>
 <node TEXT="will &amp; hedonism" ID="ID_1269722384" CREATED="1432446785968" MODIFIED="1432446791766">
 <node TEXT="hedonically optimal asceticism" ID="ID_668114806" CREATED="1375508759802" MODIFIED="1375508768820">
@@ -1422,9 +1428,9 @@
 <node TEXT="already grepped, collected: &quot;hedon&quot;" ID="ID_942245541" CREATED="1432445515655" MODIFIED="1432447160331"/>
 <node TEXT="could do: &quot;fun&quot;" ID="ID_1347090947" CREATED="1432445528687" MODIFIED="1432447164130"/>
 </node>
-<node TEXT="~ pleasure, tempt surrend, passion, curious, irrational" ID="ID_1209316134" CREATED="1432444636574" MODIFIED="1432446630202"/>
-<node TEXT="! fun" ID="ID_1579958595" CREATED="1432445539287" MODIFIED="1432445541827">
-<node TEXT="hedon is a cog proc, fun is an experie qual" ID="ID_919793405" CREATED="1432445542407" MODIFIED="1432445549317"/>
+<node TEXT="~ pleasure, tempt surrend, passion, curious, irrational, crazy" ID="ID_1209316134" CREATED="1432444636574" MODIFIED="1440916111655"/>
+<node TEXT="!~ fun" ID="ID_1579958595" CREATED="1432445539287" MODIFIED="1440915906004">
+<node TEXT="hedon is a cog proc, fun is an experie qual, but close" ID="ID_919793405" CREATED="1432445542407" MODIFIED="1440915927619"/>
 </node>
 <node TEXT="! will" ID="ID_688844575" CREATED="1432446543376" MODIFIED="1432446545460">
 <node TEXT="&quot;hedonically optimal asceticism&quot; is there" ID="ID_1809445137" CREATED="1432446547888" MODIFIED="1432446555557"/>
@@ -1450,7 +1456,7 @@
 <node TEXT="and have burned throuigh all the progress there is room for" ID="ID_1793554947" CREATED="1427085344003" MODIFIED="1438197143708"/>
 <node TEXT="? would that be bad" ID="ID_371096086" CREATED="1438197150209" MODIFIED="1438197153815"/>
 </node>
-<node TEXT="to write novel need cog rhythm to add info continuously, oblique review. same could be possib for read life." LOCALIZED_STYLE_REF="default" ID="ID_1521091990" CREATED="1427086032884" MODIFIED="1427095067189"/>
+<node TEXT="to write novel need cog rhythm to add info continuously, oblique review. same could be possib for real life." LOCALIZED_STYLE_REF="default" ID="ID_1521091990" CREATED="1427086032884" MODIFIED="1440916064038"/>
 <node TEXT="disengagement : &quot;I can learn more about the world I see but I know it&apos;s the wrong world.&quot;" ID="ID_585826019" CREATED="1427092695696" MODIFIED="1438197206767"/>
 </node>
 <node TEXT="what people do for happiness" ID="ID_291679097" CREATED="1398131811308" MODIFIED="1398188752230">
@@ -1490,6 +1496,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
@@ -1515,22 +1522,31 @@
 <node TEXT="puzzles" ID="ID_232747248" CREATED="1398131922153" MODIFIED="1398131923165"/>
 </node>
 </node>
-<node TEXT="inquiry &lt;- hedonized expectation ..!" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1573157935" CREATED="1400803742480" MODIFIED="1438197282541">
-<font BOLD="false"/>
+<node TEXT="forward-hedonic inquiry" LOCALIZED_STYLE_REF="default" ID="ID_1573157935" CREATED="1400803742480" MODIFIED="1440916456484">
+<node TEXT="forward, forward-looking" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1248950439" CREATED="1440916379489" MODIFIED="1440916385625"/>
 <node TEXT="Continued inquiry might depend on the expected ratio of happy unknown to sad unknown." ID="ID_187611548" CREATED="1400016027167" MODIFIED="1400016042971">
 <node TEXT="and continued communication on expected ratio of happy interpretation to sad interpretation" ID="ID_59523463" CREATED="1400016049830" MODIFIED="1400016069642"/>
 </node>
 </node>
 <node TEXT="temptation: strategy and hedonism compete for processing" ID="ID_1362988637" CREATED="1410393101701" MODIFIED="1410393112520"/>
-<node TEXT="curiosity ! hedonism" ID="ID_1959760454" CREATED="1381094938097" MODIFIED="1438197609380">
+<node TEXT="curiosity ! hedonism" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1959760454" CREATED="1381094938097" MODIFIED="1440916584172">
 <node TEXT="they are not clearly distinct" ID="ID_603620149" CREATED="1438197609980" MODIFIED="1438197613308"/>
+<node TEXT="recursive hedonic curiosity" ID="ID_1810090475" CREATED="1440916491017" MODIFIED="1440916521890">
+<node TEXT="e.g. of wine, part of the experience is the experience, one enjoys|is curious about the curiosity" ID="ID_229785743" CREATED="1440916523569" MODIFIED="1440916548456"/>
 </node>
-<node TEXT="altruism : The type of happiness provided matters." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1684125706" CREATED="1381096560320" MODIFIED="1438197564548">
+</node>
+<node TEXT="&gt; that one is unique so far" ID="ID_459404657" CREATED="1440916466753" MODIFIED="1440916597718"/>
+<node TEXT="altruism : The type of happiness provided matters." LOCALIZED_STYLE_REF="default" ID="ID_1684125706" CREATED="1381096560320" MODIFIED="1440916613249">
 <node TEXT="e.g. helping people find love&#xa;is better than&#xa;helping them find hedonism" ID="ID_1503168765" CREATED="1381096570976" MODIFIED="1382407646974"/>
 </node>
-<node TEXT="? I enjoy things, but do not care that I enjoy them." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1208828857" CREATED="1381095389222" MODIFIED="1438197529659"/>
-<node TEXT="? A motivator does not have to provide value as a memory." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1706790928" CREATED="1381097698893" MODIFIED="1438197529652">
+<node TEXT="? Do I enjoy things yet not care that I enjoy them." LOCALIZED_STYLE_REF="default" ID="ID_1208828857" CREATED="1381095389222" MODIFIED="1440916707179"/>
+<node TEXT="? enjoy and forget pleasures" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_328013774" CREATED="1440916736585" MODIFIED="1440916776755">
+<font BOLD="false"/>
+<node TEXT="pleasures at the time, not worth keeping" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1690977603" CREATED="1440916778337" MODIFIED="1440916796800"/>
+<node TEXT="A motivator does not have to provide value as a memory." LOCALIZED_STYLE_REF="default" ID="ID_1706790928" CREATED="1381097698893" MODIFIED="1440916758440"/>
 <node TEXT="That hedonism feels meaningless in retrospect does not lessen the contemporaneous pleasure of it." ID="ID_188581539" CREATED="1381097718765" MODIFIED="1381097749687"/>
+<node TEXT="half-correcting" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1768643922" CREATED="1440916826649" MODIFIED="1440916833209"/>
+<node TEXT="It is one thing to enjoy and forget a class of things, another to use them to motivate oneself." ID="ID_1794427443" CREATED="1440916805889" MODIFIED="1440916822595"/>
 </node>
 <node TEXT="Choose local good over global bad." ID="ID_1789885434" CREATED="1373074270659" MODIFIED="1432446138712">
 <node TEXT="\evil" ID="ID_456442180" CREATED="1432446142751" MODIFIED="1432446145421"/>
@@ -2066,16 +2082,6 @@
 </node>
 </node>
 </node>
-</node>
-<node TEXT="fun!" ID="ID_1622431041" CREATED="1436426924881" MODIFIED="1436426932580">
-<node TEXT="the high fun, not the &quot;anything but nat&quot; fun" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1050996957" CREATED="1436426934352" MODIFIED="1436426953012"/>
-<node TEXT="fun ! local" ID="ID_462617725" CREATED="1438201870747" MODIFIED="1438201876753">
-<node TEXT="Careen solvingly local, like a bat, through graphs." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_289523614" CREATED="1431834546157" MODIFIED="1438201835449">
-<font BOLD="false"/>
-</node>
-<node TEXT="most opportunity is local, close" ID="ID_1308564595" CREATED="1432452531667" MODIFIED="1436428118386"/>
-</node>
-<node TEXT="passion += chaos" ID="ID_1619648116" CREATED="1432720736343" MODIFIED="1432720738670"/>
 </node>
 <node TEXT="coproc" ID="ID_980364995" CREATED="1436423797421" MODIFIED="1436423798484">
 <node TEXT="privacy ! silence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_962497100" CREATED="1431646334730" MODIFIED="1436427607825">

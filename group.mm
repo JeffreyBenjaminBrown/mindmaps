@@ -146,7 +146,7 @@
 <node TEXT="not overconfirm, overmake the point" ID="ID_1617323048" CREATED="1428342999462" MODIFIED="1434961429237"/>
 </node>
 <node TEXT="aware of, not stressing" LOCALIZED_STYLE_REF="default" ID="ID_914765671" CREATED="1430101898435" MODIFIED="1432097399344"/>
-<node TEXT="history of sexiness : available" ID="ID_1812191571" CREATED="1430460115785" MODIFIED="1432164431356">
+<node TEXT="history of sexiness : available" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1812191571" CREATED="1430460115785" MODIFIED="1440918682227">
 <node TEXT="Time magazine has been keeping a yearly list of sexiest people for a long time. How has it changed?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1930800886" CREATED="1430248894587" MODIFIED="1438567851304">
 <font BOLD="false"/>
 </node>
@@ -183,7 +183,7 @@
 <node TEXT="belong|membership" LOCALIZED_STYLE_REF="default" ID="ID_398808482" CREATED="1426976022615" MODIFIED="1434952290356">
 <node TEXT="taken from doing/shar" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1084608633" CREATED="1429485322323" MODIFIED="1429485326882"/>
 <node TEXT="= responsblt, aware" ID="ID_1721337758" CREATED="1426976658747" MODIFIED="1426976706268"/>
-<node TEXT="diversity before justice ..!" ID="ID_973945638" CREATED="1426971687743" MODIFIED="1435021120919">
+<node TEXT="diversity|percep before justice|prosec ..!" ID="ID_973945638" CREATED="1426971687743" MODIFIED="1440918749605">
 <node TEXT="diversity awareness before" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1090808230" CREATED="1438568345349" MODIFIED="1438568349650"/>
 <node TEXT="try to see well the different sides, not seek justice (evening them) before" ID="ID_1931024451" CREATED="1426970377613" MODIFIED="1426971699332"/>
 </node>
@@ -1843,7 +1843,7 @@
 </node>
 <node TEXT="(2015 05)? 24: new" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_566327856" CREATED="1429998795532" MODIFIED="1439259352409"/>
 <node TEXT="check who is online and consider chatting" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_931732414" CREATED="1429930123106" MODIFIED="1429930129764">
-<node TEXT="parent replacing this: invite to more as soon as find online" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_646074827" CREATED="1429930107249" MODIFIED="1439259378442"/>
+<node TEXT="was : invite to more as soon as find online" LOCALIZED_STYLE_REF="styles.topic" ID="ID_646074827" CREATED="1429930107249" MODIFIED="1440918936127"/>
 </node>
 <node TEXT="I take a long time to understand what my options are." LOCALIZED_STYLE_REF="default" ID="ID_215725126" CREATED="1428028461685" MODIFIED="1432087742420">
 <node TEXT="vparent is dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1203200076" CREATED="1432087743593" MODIFIED="1432087746492"/>
@@ -1860,7 +1860,7 @@
 </node>
 <node TEXT="bluff for affection" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_282727535" CREATED="1431043041704" MODIFIED="1432166026843">
 <node TEXT="pokerism, acting as if another is one&apos;s favorite | one has a consistent favorite | one has compared among the alternatives" ID="ID_696641055" CREATED="1431042908278" MODIFIED="1432166008834"/>
-<node TEXT="bluffs over &quot;will [who] want me&quot;, and after their result, no declaration of prior beliefs" ID="ID_645761500" CREATED="1432166009191" MODIFIED="1432166009732"/>
+<node TEXT="bluffs over &quot;will [who] want me&quot;, and after their result, no declaration of prior beliefs|expectations" ID="ID_645761500" CREATED="1432166009191" MODIFIED="1440918991040"/>
 <node TEXT="? x-person choice: how real? how visible?" ID="ID_188452466" CREATED="1431043313217" MODIFIED="1431043321441"/>
 </node>
 <node TEXT="bond over problems" LOCALIZED_STYLE_REF="default" ID="ID_63518680" CREATED="1431852372151" MODIFIED="1439259856203">
@@ -1868,52 +1868,18 @@
 </node>
 <node TEXT="emotional approach" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_464721669" CREATED="1432721245696" MODIFIED="1432721248500">
 <node TEXT="= get emotionally next to" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_671334229" CREATED="1425416616566" MODIFIED="1439259907083"/>
-<node TEXT="infer how she feels" ID="ID_845466501" CREATED="1425416643173" MODIFIED="1439259883473"/>
+<node TEXT="infer how another feels" ID="ID_845466501" CREATED="1425416643173" MODIFIED="1440919005054"/>
 <node TEXT="try|recog feeling similar myself" ID="ID_1967415841" CREATED="1439259883713" MODIFIED="1439259884462"/>
 </node>
 <node TEXT="2015 06 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_561893611" CREATED="1434402732935" MODIFIED="1434402736946"/>
 <node TEXT="select invitees to mirror each other" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_163296306" CREATED="1432789787110" MODIFIED="1432789800900"/>
 <node TEXT="ask, study another&apos;s social context" LOCALIZED_STYLE_REF="default" ID="ID_1300422603" CREATED="1433575464489" MODIFIED="1439260005747"/>
 <node TEXT="I keep getting closer and I like that a lot." LOCALIZED_STYLE_REF="default" ID="ID_1935105240" CREATED="1433619469534" MODIFIED="1439260025167">
-<node TEXT="elane, 2015 06-07 ish" ID="ID_362201867" CREATED="1434409104002" MODIFIED="1439260046042"/>
+<node TEXT="2015 06-07 ish" ID="ID_362201867" CREATED="1434409104002" MODIFIED="1440919022966"/>
 </node>
 <node TEXT="flirt : safer as joke" ID="ID_729388448" CREATED="1434414079652" MODIFIED="1439334757669">
 <node TEXT="= a flirt is safer as a joke" LOCALIZED_STYLE_REF="styles.topic" ID="ID_906854964" CREATED="1439260092569" MODIFIED="1439260095307"/>
 <node TEXT="particularly propositional flirt" ID="ID_1766573123" CREATED="1434414107817" MODIFIED="1434414116454"/>
-</node>
-<node TEXT="yuck : sales, strategy" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1884804220" CREATED="1439259113624" MODIFIED="1439260200048">
-<node TEXT="? is it safe to ignore?" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_855905848" CREATED="1427702157764" MODIFIED="1439259670255"/>
-<node TEXT="min increm" ID="ID_1152016513" CREATED="1416124484246" MODIFIED="1427702489851">
-<node TEXT="&quot;give me a regular place in your schedule&quot;" ID="ID_1438778607" CREATED="1427702491261" MODIFIED="1427702506228">
-<node TEXT="at the expense of _?" ID="ID_785127870" CREATED="1427702507508" MODIFIED="1439258927489"/>
-</node>
-</node>
-<node TEXT="? try when" ID="ID_1816286331" CREATED="1427702426229" MODIFIED="1427702537328">
-<node TEXT="strategizing something like this feels stupid, wasteful; better to live opportunistic, not preprogram" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1832957540" CREATED="1439259027056" MODIFIED="1439259065195"/>
-<node TEXT="? when I see someone jump a friendliness orbital" LOCALIZED_STYLE_REF="default" ID="ID_1767656364" CREATED="1416108252886" MODIFIED="1427702534401"/>
-</node>
-<node TEXT="draw comparison" ID="ID_643074130" CREATED="1423812704801" MODIFIED="1427702181442">
-<node TEXT="sales" ID="ID_661760350" CREATED="1427702170348" MODIFIED="1427702171149">
-<node TEXT="&quot;What&apos;s your boyfriend like?&quot; &quot;_&quot; &quot;Does he give you _?&quot;" ID="ID_1570435055" CREATED="1423812576395" MODIFIED="1423812589280"/>
-<node TEXT="boast consistency, ethics" ID="ID_1291940859" CREATED="1423812686392" MODIFIED="1423812698777">
-<node TEXT="brag, &quot;I will have the same goals the whole time. Unlike what I believe other men do for women, I do not shrink from questions.&quot;" ID="ID_1891814916" CREATED="1423707483865" MODIFIED="1423707592024">
-<node TEXT="was" ID="ID_1635285607" CREATED="1423707485626" MODIFIED="1423707485942">
-<node TEXT="don&apos;t look away" ID="ID_725047751" CREATED="1423707433185" MODIFIED="1423707483005"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="? &quot;I need you&quot;: when to say" ID="ID_1356951976" CREATED="1431399305970" MODIFIED="1432167331386">
-<node TEXT="Never?" ID="ID_10399335" CREATED="1439259807409" MODIFIED="1439259811206"/>
-</node>
-<node TEXT="phrases to remember" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1494539193" CREATED="1423625750141" MODIFIED="1439259284500">
-<node TEXT="&quot;(remember?), you (all?) can friend me on facebook&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1223797788" CREATED="1421300260745" MODIFIED="1423625641148"/>
-<node TEXT="&quot;Would you like to [kiss]?&quot;" ID="ID_491064979" CREATED="1420260888967" MODIFIED="1439260193945">
-<node TEXT="? or is bad, too cerebral" ID="ID_613259777" CREATED="1439259304881" MODIFIED="1439259327161"/>
-</node>
-</node>
-<node TEXT="pushy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1982334461" CREATED="1439258941120" MODIFIED="1439259675630"/>
 </node>
 </node>
 <node TEXT="strengthen" ID="ID_1417571184" CREATED="1434957709989" MODIFIED="1434957737066">

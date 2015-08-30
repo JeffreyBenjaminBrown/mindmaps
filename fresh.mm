@@ -56,6 +56,20 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="to info|proc.mm" POSITION="right" ID="ID_1347260156" CREATED="1440893569284" MODIFIED="1440893578754"/>
+<node TEXT="info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_494905835" CREATED="1440892984539" MODIFIED="1440892986454">
+<node TEXT="! instrucs (review when finish geom down)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_820752769" CREATED="1440893513324" MODIFIED="1440893558326">
+<node TEXT="target : info &amp; proc, 330 kb" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_112530690" CREATED="1440893023803" MODIFIED="1440893736236"/>
+<node TEXT="first prepare destination" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_10953862" CREATED="1440893714556" MODIFIED="1440893720224"/>
+<node TEXT="then sweep fresh.mm" LOCALIZED_STYLE_REF="default" ID="ID_100817583" CREATED="1440893072458" MODIFIED="1440893723002">
+<node TEXT="freeze rep fast, disorg" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1357028215" CREATED="1440892989019" MODIFIED="1440892996856"/>
+</node>
+<node TEXT="pica/ christ recurs" ID="ID_1197070899" CREATED="1440892998763" MODIFIED="1440893017111"/>
+<node TEXT="this process is separable from ?merging info and proc" ID="ID_540367109" CREATED="1440893600956" MODIFIED="1440893619391">
+<node TEXT="merging, processing as one" ID="ID_1073336125" CREATED="1440893623292" MODIFIED="1440893631322"/>
+</node>
+</node>
+</node>
 <node TEXT="2015 07" POSITION="right" ID="ID_1362326605" CREATED="1439585101574" MODIFIED="1439585103364">
 <node TEXT="2015 07 28" LOCALIZED_STYLE_REF="default" ID="ID_111793109" CREATED="1438140298699" MODIFIED="1438142641427">
 <node TEXT="choi" ID="ID_543648003" CREATED="1438141400989" MODIFIED="1438141401677">
@@ -1884,6 +1898,9 @@
 <node TEXT="detect and avoid" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_601039394" CREATED="1440795291097" MODIFIED="1440795294056"/>
 <node TEXT="treat another as virtual machine, do not make them think ?directly about something I have reason to think they dislike thinking about" ID="ID_1525943853" CREATED="1440794973057" MODIFIED="1440795007519"/>
 </node>
+</node>
+<node TEXT="consider citizenship" ID="ID_766350405" CREATED="1440896808600" MODIFIED="1440896813142">
+<node TEXT="\empath" ID="ID_1582820547" CREATED="1440896814288" MODIFIED="1440896816062"/>
 </node>
 </node>
 <node TEXT="money -get" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1653295981" CREATED="1440795666281" MODIFIED="1440796258752">
