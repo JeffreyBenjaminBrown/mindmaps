@@ -770,14 +770,14 @@
 </node>
 <node TEXT="aware" ID="ID_896939126" CREATED="1435024611194" MODIFIED="1435024611878">
 <node TEXT="&gt; respond" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1766109461" CREATED="1435024826067" MODIFIED="1435024828862"/>
-<node TEXT="track conditions" ID="ID_465338750" CREATED="1426371858204" MODIFIED="1426371860372"/>
+<node TEXT="track conditions" ID="ID_465338750" CREATED="1426371858204" MODIFIED="1440921919006"/>
 <node TEXT="laziness requires it" ID="ID_1927786903" CREATED="1425365476752" MODIFIED="1426371857956">
 <node TEXT="to know when to execute" ID="ID_18974654" CREATED="1425365491792" MODIFIED="1425365494510"/>
 </node>
 <node TEXT="trigger threshold : at max [discomfort] begin undo" ID="ID_582925676" CREATED="1435024735791" MODIFIED="1435024814925">
 <node TEXT="lazy" LOCALIZED_STYLE_REF="default" ID="ID_631617750" CREATED="1426056305831" MODIFIED="1435024762419"/>
 <node TEXT="choose a threshold" ID="ID_390312076" CREATED="1435024759808" MODIFIED="1435024761846"/>
-<node TEXT="verbose ex&apos;l: temp" ID="ID_950661012" CREATED="1435024763057" MODIFIED="1435024768763">
+<node TEXT="example : temp" LOCALIZED_STYLE_REF="styles.topic" ID="ID_950661012" CREATED="1435024763057" MODIFIED="1440921937154">
 <node TEXT="for temperature change choice, wait until dislike it enough to justify transformation, then begin opposite temperature change -- remove sweater, turn on fan, etc." ID="ID_74623345" CREATED="1426043771004" MODIFIED="1426043834629"/>
 </node>
 </node>
@@ -789,7 +789,8 @@
 </node>
 </node>
 </node>
-<node TEXT="devnull" LOCALIZED_STYLE_REF="default" ID="ID_459111624" CREATED="1427059374733" MODIFIED="1435024978592">
+<node TEXT="devnull" LOCALIZED_STYLE_REF="default" ID="ID_459111624" CREATED="1427059374733" MODIFIED="1440921945691">
+<font BOLD="true"/>
 <node TEXT="contains terminals" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_50605045" CREATED="1433801303264" MODIFIED="1433801311138">
 <node TEXT="explanation" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1250001534" CREATED="1433801403352" MODIFIED="1433801413462">
 <node TEXT="&quot;_ are powerful&quot;" ID="ID_329504945" CREATED="1433801324120" MODIFIED="1433801327774">
@@ -993,12 +994,12 @@
 <node TEXT="here, now, this (cog ch)" LOCALIZED_STYLE_REF="default" ID="ID_1419075259" CREATED="1422647555859" MODIFIED="1429562551258">
 <node TEXT="= &quot;here, now&quot; is a cognitive change" ID="ID_1167636643" CREATED="1424383815614" MODIFIED="1438155617087"/>
 <node TEXT="arguments" ID="ID_303060129" CREATED="1426371537872" MODIFIED="1426371540743">
-<node TEXT="is toward" ID="ID_1500688606" CREATED="1425200225027" MODIFIED="1426371491223">
+<node TEXT="is toward _" ID="ID_1500688606" CREATED="1425200225027" MODIFIED="1440922067594">
 <node TEXT="output" ID="ID_1456850517" CREATED="1425200235482" MODIFIED="1425200236798"/>
 <node TEXT="outside, extant, external" ID="ID_1918487319" CREATED="1425200236978" MODIFIED="1425200243927"/>
 <node TEXT="recog what already is" ID="ID_770099374" CREATED="1425200288122" MODIFIED="1425200298098"/>
 </node>
-<node TEXT="is against" ID="ID_1685987941" CREATED="1425200232706" MODIFIED="1426371493313">
+<node TEXT="is against _" ID="ID_1685987941" CREATED="1425200232706" MODIFIED="1440922068742">
 <node TEXT="hypothetical" ID="ID_657475811" CREATED="1425200245074" MODIFIED="1425200247912"/>
 <node TEXT="learning, preparation" ID="ID_413509276" CREATED="1425200248114" MODIFIED="1425200250479"/>
 </node>
@@ -1075,7 +1076,7 @@
 <node TEXT="2015 08 25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1302556008" CREATED="1440539922783" MODIFIED="1440539927803"/>
 <node TEXT="enjoyable as hell" ID="ID_625821507" CREATED="1440216419006" MODIFIED="1440216423553">
 <node TEXT="makes literal sense" ID="ID_210439627" CREATED="1440216427101" MODIFIED="1440216430401"/>
-<node TEXT="tv" ID="ID_531788907" CREATED="1440216434174" MODIFIED="1440216434632"/>
+<node TEXT="e.g. of tv" ID="ID_531788907" CREATED="1440216434174" MODIFIED="1440922124018"/>
 </node>
 <node TEXT="sad about happy bc expected brief" ID="ID_903959312" CREATED="1440623258823" MODIFIED="1440623268197">
 <node TEXT="the sadness of &quot;this is so good now, I wish I could have it forever&quot;, or &quot;this is so good now, I am afraid of losing _&quot;" ID="ID_1065911881" CREATED="1434184182500" MODIFIED="1434184315713"/>
@@ -1119,10 +1120,10 @@
 <node TEXT="at least participate enough to joke about it?" ID="ID_359774758" CREATED="1423807724997" MODIFIED="1423807760127">
 <node TEXT="use metaphor for plausible deniability" ID="ID_1815249712" CREATED="1423807843386" MODIFIED="1424765473004"/>
 </node>
-<node TEXT="instances, mine" ID="ID_286752372" CREATED="1423807601480" MODIFIED="1423807701045">
+<node TEXT="instances" LOCALIZED_STYLE_REF="styles.topic" ID="ID_286752372" CREATED="1423807601480" MODIFIED="1440922166831">
 <node TEXT="with people who have offended me" ID="ID_960841453" CREATED="1423807707036" MODIFIED="1423807769831"/>
 <node TEXT="with [male], that we both wanted [female]" ID="ID_376810676" CREATED="1423807607264" MODIFIED="1438155829958"/>
-<node TEXT="with _ I waited until she had left before moving my eyes from [other female] and then looked at her leaving" ID="ID_809223164" CREATED="1423778084817" MODIFIED="1438155845121">
+<node TEXT="with _ waiting until she had left before moving eyes from [other female] and then looked at her leaving" ID="ID_809223164" CREATED="1423778084817" MODIFIED="1440922176867">
 <node TEXT="should I have chosen one over the other; was I refusing to acknowledge|foster competition between them" ID="ID_315025203" CREATED="1423778122634" MODIFIED="1438155867482"/>
 </node>
 </node>
@@ -1210,8 +1211,8 @@
 <node TEXT="as the _: have, can affect, find local to myself" ID="ID_1965381629" CREATED="1438156141111" MODIFIED="1438156156509"/>
 </node>
 </node>
-<node TEXT="read !! companion" ID="ID_1666826404" CREATED="1432791379424" MODIFIED="1438156194545">
-<node TEXT="!! is not" ID="ID_109262497" CREATED="1438156187511" MODIFIED="1438156196461"/>
+<node TEXT="read .! companion" ID="ID_1666826404" CREATED="1432791379424" MODIFIED="1440921593433">
+<node TEXT=".! is not" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_109262497" CREATED="1438156187511" MODIFIED="1440921596317"/>
 <node TEXT="from audio, video, maybe even text, a reader can feel companionship, and perhaps not recog it the primary motiv" ID="ID_149308853" CREATED="1432791244080" MODIFIED="1432791373946"/>
 </node>
 </node>
@@ -1232,7 +1233,7 @@
 <node TEXT="will &amp; hedonism" ID="ID_1269722384" CREATED="1432446785968" MODIFIED="1432446791766">
 <node TEXT="hedonically optimal asceticism" ID="ID_668114806" CREATED="1375508759802" MODIFIED="1375508768820">
 <node TEXT="Favoring love now optimzes sex later." ID="ID_1104371895" CREATED="1375508810891" MODIFIED="1375508820806"/>
-<node TEXT="one scenario: print infinite time for self at death" ID="ID_1681567902" CREATED="1438156335184" MODIFIED="1438156343204">
+<node TEXT="one scenario: print infinite time for self at death" LOCALIZED_STYLE_REF="default" ID="ID_1681567902" CREATED="1438156335184" MODIFIED="1440922277771">
 <node TEXT="If just before death the brain could simulate infinite sex, it would be happiness maximizing to, prior to that, minimize sex subject to a familiarity constraint (to enable future simulation), to better maximize empathy, love, which calculations are hard to run in parallel with lust, during life, because those details are likely harder to imagine on one&apos;s own -- need more data to dream them, whereas dreaming sex is easy." LOCALIZED_STYLE_REF="default" ID="ID_1990813195" CREATED="1375332250396" MODIFIED="1438156370746"/>
 </node>
 </node>
@@ -1496,7 +1497,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

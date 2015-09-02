@@ -439,16 +439,6 @@
 <node TEXT="tailor challeneges" ID="ID_1671927362" CREATED="1438576227082" MODIFIED="1438576231833">
 <node TEXT="design challenges specific to the people to do them" ID="ID_702449599" CREATED="1438488138831" MODIFIED="1438488144441"/>
 </node>
-<node TEXT="manufactured mystery ? find" ID="ID_1661679481" CREATED="1438485179294" MODIFIED="1438576443950">
-<node TEXT="&quot;fill a blank page with magic&quot;" ID="ID_1642459333" CREATED="1438485100501" MODIFIED="1438575551601">
-<node TEXT="jj abrams ted talk" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1342070292" CREATED="1438485183549" MODIFIED="1438575576822"/>
-<node TEXT="might be paraph" ID="ID_1656158948" CREATED="1438575552265" MODIFIED="1438575554416"/>
-</node>
-<node TEXT="~ enthus" ID="ID_818905163" CREATED="1438575595066" MODIFIED="1438575598720"/>
-<node TEXT=": presumptuous" ID="ID_817313786" CREATED="1438575599033" MODIFIED="1438575644336">
-<node TEXT="assumes oneself belongs in the picture" ID="ID_567424506" CREATED="1438575623394" MODIFIED="1438575635888"/>
-</node>
-</node>
 <node TEXT="zero-sum feelings !! encourage" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1746913039" CREATED="1438569785229" MODIFIED="1438576914533">
 <node TEXT="like being special, lucky" ID="ID_585965010" CREATED="1438569796285" MODIFIED="1438569799539"/>
 </node>
@@ -1923,7 +1913,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
