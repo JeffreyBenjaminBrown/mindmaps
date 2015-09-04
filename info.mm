@@ -1373,6 +1373,11 @@
 </node>
 </node>
 </node>
+<node TEXT="2015 03 19" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1424803890" CREATED="1441393352897" MODIFIED="1441393356309"/>
+<node TEXT="reverse materialization" ID="ID_1380929094" CREATED="1426818070696" MODIFIED="1426818073972">
+<node TEXT="the low temporary leaps into the high permanent, more accurately into the ideal" ID="ID_50131145" CREATED="1426818007976" MODIFIED="1426818054647"/>
+</node>
+<node TEXT="local causality" ID="ID_406597074" CREATED="1426818100024" MODIFIED="1426818102780"/>
 <node TEXT="2015 08 04" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1470149307" CREATED="1438148310558" MODIFIED="1438756918306"/>
 <node TEXT="&quot;exactly some do&quot; quantifies the reality of a condition" ID="ID_1228409726" CREATED="1438754891921" MODIFIED="1438756875923"/>
 <node TEXT="aimless &amp; pretty; art" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_740846356" CREATED="1438756955451" MODIFIED="1438757002919">
@@ -1486,6 +1491,9 @@
 <node TEXT="&quot;population could double every four years&quot;" ID="ID_58213181" CREATED="1440216199726" MODIFIED="1440216206511">
 <node TEXT="popn of referents" ID="ID_1620871046" CREATED="1440216208741" MODIFIED="1440216212047"/>
 </node>
+</node>
+<node TEXT="notes written and golded in serial deflate for inflation" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1206621061" CREATED="1438981039505" MODIFIED="1441401500539">
+<font BOLD="false"/>
 </node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">

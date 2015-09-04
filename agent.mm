@@ -1381,6 +1381,9 @@
 <node TEXT="children :? creepy" ID="ID_1559012184" CREATED="1440121140174" MODIFIED="1440121151511">
 <node TEXT="they can be -- e.g. acting sweet while trying to hurt someone" ID="ID_320237490" CREATED="1440121152342" MODIFIED="1440121200350"/>
 </node>
+<node TEXT="mine / ?" ID="ID_1494206773" CREATED="1426817470792" MODIFIED="1441393278292">
+<node TEXT="how did my information flow change, that I used to read books (by others) and now trees (by me)" ID="ID_482871993" CREATED="1426816321304" MODIFIED="1441393257204"/>
+</node>
 </node>
 <node TEXT="heal" ID="ID_819179399" CREATED="1434954148210" MODIFIED="1434954149296">
 <node TEXT="forgive self" ID="ID_1351282434" CREATED="1432095575858" MODIFIED="1432095577943">

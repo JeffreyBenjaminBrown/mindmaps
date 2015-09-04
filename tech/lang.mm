@@ -8364,6 +8364,9 @@
 </node>
 </node>
 <node TEXT="src" LOCALIZED_STYLE_REF="default" ID="ID_103964043" CREATED="1413275877372" MODIFIED="1418870877858">
+<node TEXT="! irc.freenode.net" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1248765428" CREATED="1438720231121" MODIFIED="1441386947882">
+<node TEXT="can use IRC to talk to Haskell experts about install questions" ID="ID_1874455280" CREATED="1438720214153" MODIFIED="1438720229647"/>
+</node>
 <node TEXT=". consider also my own notes" ID="ID_1912665523" CREATED="1413697522358" MODIFIED="1414959433426"/>
 <node TEXT="freq libs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_250603230" CREATED="1431326600955" MODIFIED="1431326612430">
 <node TEXT="https://hackage.haskell.org/package/base-4.7.0.1/docs/Data-String.html" ID="ID_1232372358" CREATED="1431326604475" MODIFIED="1431326604475" LINK="https://hackage.haskell.org/package/base-4.7.0.1/docs/Data-String.html"/>
@@ -15956,7 +15959,7 @@
 </node>
 </node>
 </node>
-<node TEXT="u: ghc, cabal, stackage, graph-db" LOCALIZED_STYLE_REF="default" ID="ID_1539939586" CREATED="1432690583044" MODIFIED="1432694465430">
+<node TEXT="u: ghc, cabal, stack(age), graph-db" LOCALIZED_STYLE_REF="default" ID="ID_1539939586" CREATED="1432690583044" MODIFIED="1441401126667">
 <font BOLD="true"/>
 <node TEXT="2015 05 25, via Elliot" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_50092190" CREATED="1432690600476" MODIFIED="1432692294203">
 <node TEXT="via Elliot circa 2015 05 15" LOCALIZED_STYLE_REF="default" ID="ID_1815726634" CREATED="1432692286956" MODIFIED="1432692312064"/>
@@ -16055,6 +16058,16 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="stack" ID="ID_1585465269" CREATED="1441386916441" MODIFIED="1441386917735">
+<node TEXT="change resolver to &quot;nightly-[date]&quot; to use a more recent, then run &quot;stack build&quot;" ID="ID_585126758" CREATED="1438719681785" MODIFIED="1438719919118">
+<node TEXT="http://www.stackage.org/nightly-2015-08-04" ID="ID_349176245" CREATED="1438719698584" MODIFIED="1438719698584" LINK="http://www.stackage.org/nightly-2015-08-04"/>
+</node>
+<node TEXT="if stack complains I don&apos;t have 7.10 setup, then I can run &quot;stack setup&quot; to install 7.10" ID="ID_753593946" CREATED="1438719710017" MODIFIED="1438719747072"/>
+<node TEXT="stack ghci &lt;- cabal repl" ID="ID_1935584072" CREATED="1438719796026" MODIFIED="1438719802703">
+<node TEXT="loads my library" ID="ID_1684608036" CREATED="1438719803529" MODIFIED="1438719806089"/>
+</node>
+<node TEXT="stack snapshots are immutable" ID="ID_34618554" CREATED="1438719137311" MODIFIED="1441386813630"/>
 </node>
 <node TEXT="stackage" ID="ID_791274206" CREATED="1431737442585" MODIFIED="1432539554924">
 <node ID="ID_1283760042" CREATED="1432539555319" MODIFIED="1432539555319"><richcontent TYPE="NODE">
@@ -21444,6 +21457,26 @@
 <node TEXT="let x = sound &quot;ho ~ ho:3 hc&quot;&#xa;d1 $ x" ID="ID_421487123" CREATED="1417916281457" MODIFIED="1417916281948"/>
 </node>
 </node>
+</node>
+<node TEXT="tidal \ kubuntu" ID="ID_568409367" CREATED="1440702669722" MODIFIED="1441394451420">
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1780947299" CREATED="1441394399887" MODIFIED="1441394432516"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2015 08 26-ish
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="? why uses ghc 7.6.3.10" ID="ID_1585851515" CREATED="1440702660083" MODIFIED="1441394404464">
+<node TEXT="when I already have 7.10._ somewhere" ID="ID_851973916" CREATED="1441394406386" MODIFIED="1441394416959"/>
+</node>
+<node TEXT="more problems too" ID="ID_1540271351" CREATED="1441394423619" MODIFIED="1441394435488"/>
 </node>
 <node TEXT="Emacs" ID="ID_948194478" CREATED="1418797043898" MODIFIED="1418797045013">
 <node TEXT=".= Tidal/Emacs" ID="ID_638494108" CREATED="1418848240427" MODIFIED="1418848243167"/>

@@ -223,6 +223,18 @@
 <node TEXT="du -hs * .a* .b* .c* .d* .e* .f* .g* .i* .j* .k* .l* .m* .p* .r* .X* .x* .h* .n* .o* .q* .s* .t* .u* .v* .w* .y* .z* .A* .B* .C* .D* .E* .F* .G* .H* .I* .J* .K* .L* .M* .N* .O* .P* .Q* .R* .S* .T* .U* .V* .W* .Y* .Z*" ID="ID_1422683467" CREATED="1427406557130" MODIFIED="1427408243985"/>
 </node>
 </node>
+<node TEXT="todo &amp; prob : kubuntu 14.04 to 15.04" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_121750642" CREATED="1440133457390" MODIFIED="1441401268292">
+<node TEXT="tried 14.10 and 15.04; Lenovo won&apos;t load from USB" ID="ID_1111845472" CREATED="1441388867667" MODIFIED="1441388889473"/>
+<node TEXT="untried: lenovo: start it without power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_847545747" CREATED="1441389535745" MODIFIED="1441389566525">
+<node TEXT="solved some problem once" ID="ID_1361144059" CREATED="1441389549374" MODIFIED="1441389552209"/>
+</node>
+<node TEXT="see use.mm/ThinkPad/Lenovo/tricks" ID="ID_81372012" CREATED="1441401304907" MODIFIED="1441401325794"/>
+<node TEXT="more" ID="ID_1489345383" CREATED="1441388873147" MODIFIED="1441388874809">
+<node TEXT="https://www.google.com/?gws_rd=ssl#q=ubuntu+upgrade+14.04+15.04" ID="ID_1037930696" CREATED="1440133461581" MODIFIED="1440133461581" LINK="https://www.google.com/?gws_rd=ssl#q=ubuntu+upgrade+14.04+15.04"/>
+<node TEXT="might take only one ISO burn &amp; load, might need to go through 14.10" ID="ID_567615678" CREATED="1440133483799" MODIFIED="1440133504486"/>
+<node TEXT="ISO route not the only choice" ID="ID_706376075" CREATED="1440133504704" MODIFIED="1440133527415"/>
+</node>
+</node>
 <node TEXT="apt get suggested installing" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1483159436" CREATED="1424151607762" MODIFIED="1439585999815">
 <node TEXT="Suggested these packages:&#xa;  wx2.8-doc wx2.8-examples editra" ID="ID_1398635844" CREATED="1424151602762" MODIFIED="1424211544520">
 <node TEXT="when installing wxPython, I think" ID="ID_1135028248" CREATED="1424211545773" MODIFIED="1424211549914"/>
@@ -373,7 +385,7 @@
 </node>
 <node TEXT="Lenovo tricks" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_925836841" CREATED="1420242776067" MODIFIED="1420330955939">
 <node TEXT="Lenovo ThinkPad E545" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_174684002" CREATED="1420242799567" MODIFIED="1420330971266"/>
-<node ID="ID_442087851" CREATED="1420330956295" MODIFIED="1420330956295"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" ID="ID_442087851" CREATED="1420330956295" MODIFIED="1441401296695"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -388,10 +400,19 @@
 </richcontent>
 <node TEXT="hold on startup to gain menu offering USB boot" ID="ID_757582059" CREATED="1420242806392" MODIFIED="1420242818424"/>
 </node>
-<node TEXT="use only 1 USB input, the rear left" ID="ID_1650583702" CREATED="1420330972930" MODIFIED="1420330983107">
+<node TEXT="use only 1 USB input, the rear left" LOCALIZED_STYLE_REF="default" ID="ID_1650583702" CREATED="1420330972930" MODIFIED="1441401296703">
 <node TEXT="I&apos;m not sure this is the only way it works, but I&apos;m sure it works." ID="ID_410869708" CREATED="1420330984186" MODIFIED="1420330992893"/>
 <node TEXT="By contrast, having 2 usb devices plugged in, it only recognized one of them (which was in the rear left inlet)." ID="ID_1859474742" CREATED="1420330993114" MODIFIED="1420331010123"/>
 </node>
+<node TEXT="start it without power" LOCALIZED_STYLE_REF="default" ID="ID_1218600111" CREATED="1441389535745" MODIFIED="1441401296706">
+<node TEXT="solved some problem once" ID="ID_624899205" CREATED="1441389549374" MODIFIED="1441389552209"/>
+</node>
+</node>
+</node>
+<node TEXT="2008 MBP" ID="ID_1390875028" CREATED="1441401224243" MODIFIED="1441401226296">
+<node TEXT="battery" ID="ID_6470065" CREATED="1439540009368" MODIFIED="1441388137816">
+<node TEXT="model no. A1281" ID="ID_207077523" CREATED="1439540013259" MODIFIED="1439540056512"/>
+<node TEXT="10.8V, 50 Wh" ID="ID_1094463804" CREATED="1439540042960" MODIFIED="1439540051075"/>
 </node>
 </node>
 <node TEXT="2011 MBP" ID="ID_1395158938" CREATED="1420242867849" MODIFIED="1420243222166">
@@ -6044,6 +6065,31 @@
 <node TEXT="2015 7 21: to read exfat" ID="ID_433234826" CREATED="1437519502369" MODIFIED="1439338428996">
 <node TEXT="sudo apt-get install exfat-utils exfat-fuse" ID="ID_373810556" CREATED="1437595818944" MODIFIED="1437595819631"/>
 <node TEXT="Tue Jul 21 15:58:27 PDT 2015" ID="ID_113739839" CREATED="1437519512782" MODIFIED="1437519512782"/>
+</node>
+<node TEXT="2015 08 04: stack+" ID="ID_905945509" CREATED="1438719386486" MODIFIED="1441386857055">
+<font BOLD="true"/>
+<node TEXT=".serial" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_57672249" CREATED="1438719417633" MODIFIED="1438719420946"/>
+<node TEXT="Tue Aug  4 13:16:51 PDT 2015" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1579845340" CREATED="1438719416229" MODIFIED="1438719425560"/>
+<node TEXT="sudo apt-get install apt-show-versions" ID="ID_1635915303" CREATED="1438719401266" MODIFIED="1438719405177" LINK="mailto:jeff@jeffLenovUbu"/>
+<node TEXT="stack" ID="ID_368311583" CREATED="1438719445099" MODIFIED="1438719447214">
+<font BOLD="true"/>
+<node ID="ID_1343451693" CREATED="1438719570363" MODIFIED="1438719570363" LINK="https://github.com/commercialhaskell/stack/releases/download/v0.1.2.0/stack-0.1.2.0-x86_64-linux.gz"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font face="Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, Segoe UI Emoji, Segoe UI Symbol" size="14px" color="rgb(64, 120, 192)"><a http-equiv="content-type" href="https://github.com/commercialhaskell/stack/releases/download/v0.1.2.0/stack-0.1.2.0-x86_64-linux.gz" rel="nofollow" style="font-size: 14px; letter-spacing: normal; text-indent: 0px; color: rgb(64, 120, 192); font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, Segoe UI Emoji, Segoe UI Symbol; font-style: normal; text-decoration: none; word-spacing: 0px; white-space: normal; line-height: 11.1999998092651px; text-align: left; background-color: rgb(255, 255, 255); font-variant: normal; font-weight: normal; text-transform: none" content="text/html; charset=utf-8"><b><strong style="font-weight: bold">stack-0.1.2.0-x86_64-linux.gz</strong></b></a></font> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="https://github.com/commercialhaskell/stack/releases" ID="ID_1994771881" CREATED="1438719466349" MODIFIED="1438719466349" LINK="https://github.com/commercialhaskell/stack/releases"/>
+<node TEXT="downloaded, unzipped, renamed &quot;stack&quot;" ID="ID_1659871131" CREATED="1438719448969" MODIFIED="1438719457103"/>
+<node TEXT="copied stack to /usr/local/bin" ID="ID_1126442363" CREATED="1438719435507" MODIFIED="1438719442768"/>
+<node TEXT="did not install the &quot;gmp&quot; version, which is for fancy big integers" ID="ID_1403225347" CREATED="1438719576970" MODIFIED="1438719592992"/>
+</node>
 </node>
 <node TEXT="2015 8 11: unrar" ID="ID_1030683701" CREATED="1439338424951" MODIFIED="1439338433254">
 <node TEXT="sudo apt-get install" ID="ID_144384394" CREATED="1439338433815" MODIFIED="1439338436636"/>
