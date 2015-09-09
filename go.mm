@@ -165,6 +165,9 @@
 <node TEXT="valid" ID="ID_1589088179" CREATED="1439454459265" MODIFIED="1439454460934"/>
 </node>
 <node TEXT="exists ?$ personal / my probs" ID="ID_1767629046" CREATED="1440137602334" MODIFIED="1441388587810"/>
+<node TEXT="? can&apos;t sep info|proc" ID="ID_187124475" CREATED="1441411881526" MODIFIED="1441411886771">
+<node TEXT="can&apos;t | too costly" ID="ID_1416937483" CREATED="1441411897086" MODIFIED="1441411916628"/>
+</node>
 </node>
 <node TEXT="clarifications appear in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437272894602">
 <node TEXT="to clarify things I wrote short in the parent" ID="ID_1848181419" CREATED="1437250147899" MODIFIED="1437250162353"/>

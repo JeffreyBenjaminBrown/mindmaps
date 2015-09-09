@@ -8366,6 +8366,12 @@
 <node TEXT="src" LOCALIZED_STYLE_REF="default" ID="ID_103964043" CREATED="1413275877372" MODIFIED="1418870877858">
 <node TEXT="! irc.freenode.net" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1248765428" CREATED="1438720231121" MODIFIED="1441386947882">
 <node TEXT="can use IRC to talk to Haskell experts about install questions" ID="ID_1874455280" CREATED="1438720214153" MODIFIED="1438720229647"/>
+<node TEXT="#haskell" ID="ID_57593176" CREATED="1441424375400" MODIFIED="1441424377223"/>
+<node TEXT="#haskell-lens" ID="ID_44392872" CREATED="1441423925610" MODIFIED="1441424374774"/>
+<node TEXT="more channels" ID="ID_69292341" CREATED="1441424418863" MODIFIED="1441424424616">
+<font BOLD="true"/>
+<node TEXT="https://wiki.haskell.org/IRC_channel#Related_channels" ID="ID_675275391" CREATED="1441424415667" MODIFIED="1441424415667" LINK="https://wiki.haskell.org/IRC_channel#Related_channels"/>
+</node>
 </node>
 <node TEXT=". consider also my own notes" ID="ID_1912665523" CREATED="1413697522358" MODIFIED="1414959433426"/>
 <node TEXT="freq libs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_250603230" CREATED="1431326600955" MODIFIED="1431326612430">
@@ -21457,6 +21463,20 @@
 <node TEXT="let x = sound &quot;ho ~ ho:3 hc&quot;&#xa;d1 $ x" ID="ID_421487123" CREATED="1417916281457" MODIFIED="1417916281948"/>
 </node>
 </node>
+<node TEXT="2015 09 09" ID="ID_235453189" CREATED="1441824848758" MODIFIED="1441824853353">
+<node TEXT="use Bjorklund|Euclid patterns" ID="ID_1768986779" CREATED="1441824391408" MODIFIED="1441824453041">
+<node TEXT="Bjorklund and Euclid Patterns&#xa;If you give two numbers in parenthesis after an element in a pattern, then Tidal will distribute the first number of sounds equally across the second number of steps:&#xa;&#xa;d1 $ sound &quot;can(5,8)&quot;" ID="ID_732113421" CREATED="1441824418208" MODIFIED="1441824420409"/>
+</node>
+<node TEXT="solo" ID="ID_1522026692" CREATED="1441824454228" MODIFIED="1441824457555">
+<node TEXT="solo $ d1 $ sound &quot;bd sn&quot;" ID="ID_1195067016" CREATED="1441824475270" MODIFIED="1441824476137"/>
+</node>
+<node TEXT="silence needs no $" ID="ID_1665673337" CREATED="1441824484235" MODIFIED="1441824487411">
+<node TEXT="d1 silence" ID="ID_777644586" CREATED="1441824488670" MODIFIED="1441824490702"/>
+</node>
+<node TEXT="multiply sinewave by pattern" ID="ID_996367847" CREATED="1441824859668" MODIFIED="1441824864905">
+<node TEXT="d1 $ (brak (sound &quot;bd sn:2 bd sn&quot;))&#xa;   |+| pan ((*) &lt;$&gt; sinewave1 &lt;*&gt; (slow 8 $ &quot;0 0.25 0.75&quot;))" ID="ID_1625875798" CREATED="1441824855771" MODIFIED="1441824857691"/>
+</node>
+</node>
 </node>
 <node TEXT="tidal \ kubuntu" ID="ID_568409367" CREATED="1440702669722" MODIFIED="1441394451420">
 <node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1780947299" CREATED="1441394399887" MODIFIED="1441394432516"><richcontent TYPE="NODE">
@@ -21478,7 +21498,7 @@
 </node>
 <node TEXT="more problems too" ID="ID_1540271351" CREATED="1441394423619" MODIFIED="1441394435488"/>
 </node>
-<node TEXT="Emacs" ID="ID_948194478" CREATED="1418797043898" MODIFIED="1418797045013">
+<node TEXT="Emacs" ID="ID_948194478" CREATED="1418797043898" MODIFIED="1441824844606">
 <node TEXT=".= Tidal/Emacs" ID="ID_638494108" CREATED="1418848240427" MODIFIED="1418848243167"/>
 <node TEXT="to stop cursor jumping after eval" ID="ID_182106053" CREATED="1415135559506" MODIFIED="1415151406876">
 <node TEXT="In &quot;tidal.el&quot; there is a function &quot;tidal-run-line&quot;, which is what&apos;s actually happening when you hit &quot;C-c C-c&quot;.  The last line of the function is &quot;(next-line)&quot;, you can just delete it (or comment it out), and the next time you start Emacs things should behave the way you want." ID="ID_161180168" CREATED="1415135567706" MODIFIED="1415135567989"/>

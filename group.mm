@@ -2231,6 +2231,12 @@
 <node TEXT="I did not know they had turned against me." ID="ID_1683033736" CREATED="1425167901199" MODIFIED="1425167906350"/>
 </node>
 </node>
+<node TEXT="word misalign (new)" POSITION="right" ID="ID_1994775641" CREATED="1441412088965" MODIFIED="1441412098037">
+<font BOLD="false"/>
+<node TEXT="&quot;can&apos;t&quot; used as &quot;too costly&quot;" ID="ID_1795828169" CREATED="1441411927982" MODIFIED="1441412030487">
+<node TEXT="\rep" ID="ID_261321889" CREATED="1441411949750" MODIFIED="1441411950979"/>
+</node>
+</node>
 <node TEXT="&gt; TODO&amp;DOING: imag soc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1785194308" CREATED="1435520894278" MODIFIED="1435522478420">
 <node TEXT="I want to feel linked in. My network of friends is starlike, not connected without me." ID="ID_203800769" CREATED="1435520903366" MODIFIED="1439261871747"/>
 <node TEXT="Once [group] decide what you are, and you can see it, you stay there." ID="ID_1204454462" CREATED="1435521039622" MODIFIED="1435521051933"/>

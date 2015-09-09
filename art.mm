@@ -1532,6 +1532,72 @@
 <node TEXT="trauma(retriggered) : recog, even confront, but not retain" ID="ID_986452723" CREATED="1441314450619" MODIFIED="1441314559865"/>
 <node TEXT="happy things can be unduly retained too" ID="ID_1518755340" CREATED="1441314575058" MODIFIED="1441314580311"/>
 </node>
+<node TEXT="2015 09 ?06" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_285157261" CREATED="1441311540031" MODIFIED="1441746094873"/>
+<node TEXT="7" ID="ID_1825953402" CREATED="1441572663373" MODIFIED="1441572664042">
+<node TEXT="bio survival ~ psych survival" ID="ID_783811648" CREATED="1441572781909" MODIFIED="1441572794234">
+<node TEXT="psychologically we try to defend the (concept of) self like we once tried to defend the body" ID="ID_1086551689" CREATED="1441572794956" MODIFIED="1441572816242"/>
+</node>
+<node TEXT="psychl safety v. freedom" ID="ID_56193462" CREATED="1441572987701" MODIFIED="1441573017538"/>
+<node TEXT="? do I suppress anything" ID="ID_322993068" CREATED="1441573167757" MODIFIED="1441573174563"/>
+<node TEXT="&quot;no longer willing to identify with the part of you that is separating itself into a million pieces&quot;" ID="ID_31965326" CREATED="1441573252813" MODIFIED="1441573269739"/>
+<node TEXT="centered v. attention driven by circumstances" ID="ID_1873719086" CREATED="1441573525518" MODIFIED="1441573538341"/>
+<node TEXT="? is it about lag" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_862658924" CREATED="1441573549366" MODIFIED="1441573554296">
+<node TEXT="he contrasts being centered with [being, having one&apos;s attention] battered by circumstances. but in the centered case, one is attentive to one&apos;s circumstances too; it&apos;s just that earlier stimuli aren&apos;t retained at the expense of being able to process later ones" ID="ID_1834043927" CREATED="1441573555261" MODIFIED="1441573612141"/>
+</node>
+<node TEXT="feelings : respect, study, do not fight or suppress" ID="ID_767253074" CREATED="1441573912478" MODIFIED="1441573939840"/>
+<node TEXT="distinguish perception from its object" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1110269258" CREATED="1441573987014" MODIFIED="1441573996322">
+<node TEXT="? the opposite of immersion" ID="ID_1006244379" CREATED="1441574001926" MODIFIED="1441574009404"/>
+</node>
+<node TEXT="watch a thought (try to) feed, snowball" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1979086523" CREATED="1441574090295" MODIFIED="1441574115738">
+<node TEXT="feed on energy" ID="ID_536907625" CREATED="1441574094606" MODIFIED="1441574101348"/>
+</node>
+<node TEXT="selective energy disinvestment" ID="ID_1669868166" CREATED="1441574172159" MODIFIED="1441574211329">
+<node TEXT="let the energy do it&apos;s thing until it becomes ?negative, then drop it" ID="ID_1105812485" CREATED="1441574182702" MODIFIED="1441574202772"/>
+</node>
+</node>
+<node TEXT="8" ID="ID_517289616" CREATED="1441574542311" MODIFIED="1441574544077">
+<node TEXT="? fear as motiv hides itself" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1292486252" CREATED="1441574602223" MODIFIED="1441574618082">
+<node TEXT="because the motiv is not to feel fear" ID="ID_336966545" CREATED="1441574610959" MODIFIED="1441574615909"/>
+</node>
+<node TEXT="want _ in world != need _ in world in order to &quot;be okay&quot;" ID="ID_1696430214" CREATED="1441574725871" MODIFIED="1441574743565"/>
+<node TEXT="claim : you id with something you should discard" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1441785387" CREATED="1441575117680" MODIFIED="1441575141474">
+<node TEXT="actively discard or passively watch fall apart" ID="ID_176070719" CREATED="1441575339736" MODIFIED="1441575349110"/>
+</node>
+<node TEXT="recog attention getting sucked into _" ID="ID_1054325108" CREATED="1441575566224" MODIFIED="1441575593843"/>
+</node>
+<node TEXT="2015 09 08" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1671720969" CREATED="1441311540031" MODIFIED="1441746079688"/>
+<node TEXT="9" ID="ID_247544253" CREATED="1441746125706" MODIFIED="1441746126376">
+<node TEXT="&quot;give up the struggle to remain the same&quot;" ID="ID_267470513" CREATED="1441746120298" MODIFIED="1441746125271"/>
+<node TEXT="rather than cope with* a problem, solve it" ID="ID_459844340" CREATED="1441746311075" MODIFIED="1441746321120">
+<node TEXT="cope with, design mechanisms to circumvent .." ID="ID_1606382026" CREATED="1441746321514" MODIFIED="1441746328927"/>
+</node>
+<node TEXT="pitfall : avoid* problem bc hurts" ID="ID_1081377248" CREATED="1441746574786" MODIFIED="1441747026597">
+<node TEXT="avoid, take active measures to avoid triggering|remembering" ID="ID_1292739486" CREATED="1441747027531" MODIFIED="1441747043081"/>
+</node>
+<node TEXT="&quot;all you have to do is notice that it is you who _&quot;" ID="ID_659866047" CREATED="1441747200387" MODIFIED="1441747207722">
+<node TEXT="rough quote" ID="ID_437580163" CREATED="1441747208324" MODIFIED="1441747210337"/>
+</node>
+<node TEXT="? question the reality of your problems" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_510139759" CREATED="1441747439476" MODIFIED="1441747451644">
+<node TEXT="&quot;let it pass&quot;" ID="ID_330337304" CREATED="1441747444637" MODIFIED="1441747448467"/>
+</node>
+<node TEXT="? keep the problem but do not id with it" ID="ID_79236585" CREATED="1441747536516" MODIFIED="1441747543552"/>
+</node>
+<node TEXT="10 (completed reading)" ID="ID_1907279387" CREATED="1441747738212" MODIFIED="1441751325846">
+<node TEXT="pain to a human ~ water to a fish" ID="ID_1414800156" CREATED="1441747811453" MODIFIED="1441747822650">
+<node TEXT="&quot;you are either trying to stop suffering, controlling your environment to avoid suffering, or worrying about suffering in the future&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_609081460" CREATED="1441747824140" MODIFIED="1441747857740"/>
+</node>
+<node TEXT="claim : body speaks with pain, psyche with fear" ID="ID_1833350183" CREATED="1441748058236" MODIFIED="1441748066147">
+<node TEXT="but while pain messages are reserved for when needed, fear saturates counterproductively" ID="ID_1325550931" CREATED="1441748071676" MODIFIED="1441748103139"/>
+</node>
+<node TEXT="an intl problem : solving an extl problem brings not satisfaction, just the next extl problem" ID="ID_1265576462" CREATED="1441748377157" MODIFIED="1441748399570"/>
+<node TEXT="not feeling whole : &quot;the root problem&quot;" ID="ID_1857042210" CREATED="1441748468477" MODIFIED="1441748512244"/>
+<node TEXT="claim : needing people interferes with knowing them" ID="ID_1816745252" CREATED="1441748615629" MODIFIED="1441748622754"/>
+<node TEXT="&quot;stop telling your mind that its job is to fix ...&quot;" ID="ID_1439542154" CREATED="1441748767469" MODIFIED="1441748776123"/>
+<node TEXT="self ?v. mind" ID="ID_1786995785" CREATED="1441749698807" MODIFIED="1441749819900"/>
+<node TEXT="appoint objects|experiences as reminder-triggers" ID="ID_656330677" CREATED="1441750029479" MODIFIED="1441750041245">
+<node TEXT="&quot;every time you&apos;re about to pick up the phone ..&quot;" ID="ID_820288553" CREATED="1441750041886" MODIFIED="1441750055604"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="art being|integ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_262668557" CREATED="1440539661057" MODIFIED="1440539707088">
