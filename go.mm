@@ -56,6 +56,9 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="study|writing ideas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1162232733" CREATED="1441923374078" MODIFIED="1441923378307">
+<node TEXT="gatherings: count them" LOCALIZED_STYLE_REF="default" ID="ID_1610189606" CREATED="1441922126650" MODIFIED="1441923360445"/>
+</node>
 <node TEXT="procg ideas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1092036804" CREATED="1440129525987" MODIFIED="1440234649132">
 <font BOLD="true"/>
 <node TEXT="demote some from go, make it more often reviewed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038144866" CREATED="1440633318368" MODIFIED="1440633331086">
