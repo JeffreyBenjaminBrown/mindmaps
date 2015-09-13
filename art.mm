@@ -1018,11 +1018,36 @@
 </node>
 <node TEXT="music" POSITION="right" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
 <font BOLD="true"/>
+<node TEXT="cyc rep" LOCALIZED_STYLE_REF="default" ID="ID_676989560" CREATED="1434767807598" MODIFIED="1441961563216">
+<node TEXT="= representation of cycles" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_479735717" CREATED="1441957981353" MODIFIED="1441957985872"/>
+<node TEXT="duration ~ fraction" ID="ID_1911525932" CREATED="1440115165463" MODIFIED="1440115169533"/>
+<node TEXT="each rhythm as diff v. each as duration from ref" ID="ID_367709133" CREATED="1440115103679" MODIFIED="1440115149634">
+<node TEXT="from reference event" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1289303716" CREATED="1440115150320" MODIFIED="1440115153333"/>
+<node TEXT="was" ID="ID_1740765074" CREATED="1440115115640" MODIFIED="1440115115989">
+<node TEXT="rhythm not as difference but fractions" ID="ID_884414408" CREATED="1434758770851" MODIFIED="1440115097564">
+<node ID="ID_1710149542" CREATED="1440115097942" MODIFIED="1440115097942"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      each repg duration from start
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="recordings : speed to optimize ingestion" ID="ID_179284204" CREATED="1439452484294" MODIFIED="1439452511170">
 <node TEXT="faster the soundcloud transfer - speed every passage to what is optimal (even sometimes slower) for cogv traffic" ID="ID_1223568642" CREATED="1439429607511" MODIFIED="1439429658496"/>
 </node>
 <node TEXT="s&amp;t 2015 08 20, writ 02 01 - 08 08" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1744262022" CREATED="1440117057705" MODIFIED="1440117235851"/>
-<node TEXT="~ info|rep / cyc rep" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1298917193" CREATED="1440117246377" MODIFIED="1440117256695"/>
+<node TEXT="~ info|rep / cyc(/rep)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1298917193" CREATED="1440117246377" MODIFIED="1441958000759"/>
 <node TEXT="multitrack / review" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1718644415" CREATED="1440115765592" MODIFIED="1440115832530">
 <node TEXT="review is always for multitrack" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_633801435" CREATED="1440115704168" MODIFIED="1440115755857">
 <node TEXT="in music, performance review is always for multitrack" ID="ID_542364924" CREATED="1440115726968" MODIFIED="1440115737505"/>
@@ -1099,6 +1124,19 @@
 <node TEXT="http://cornelluniversity.tumblr.com/post/40770771576/worlds-largest-natural-sound-archive-now-fully" ID="ID_444617505" CREATED="1438969630045" MODIFIED="1438969630045" LINK="http://cornelluniversity.tumblr.com/post/40770771576/worlds-largest-natural-sound-archive-now-fully"/>
 </node>
 </node>
+<node TEXT="2015 05 07" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1857203534" CREATED="1431029255705" MODIFIED="1441957859420"/>
+<node TEXT="raw haskell music" ID="ID_938850632" CREATED="1430458364905" MODIFIED="1430472042032">
+<node TEXT="reading midi data as a file, what would I do with it?" ID="ID_1481249026" CREATED="1430457502655" MODIFIED="1430457510214">
+<node TEXT="map a {rational, integer} to each duration" ID="ID_550270426" CREATED="1430457549896" MODIFIED="1430457586218">
+<node TEXT="to with it precise the notes" ID="ID_1262288347" CREATED="1430457524928" MODIFIED="1430457544397"/>
+</node>
+<node TEXT="map all possible coincident notes" ID="ID_1959674225" CREATED="1430457598855" MODIFIED="1430457626470">
+<node TEXT="(a discretization of) a two-dimensional thing on durations" ID="ID_575338614" CREATED="1430457630096" MODIFIED="1430457706249">
+<node TEXT="the two dimensions being the duration&apos;s endpoints" ID="ID_1287117871" CREATED="1430457637039" MODIFIED="1430457643277"/>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="2015 08 20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1450174649" CREATED="1440185490376" MODIFIED="1440185495161"/>
 <node TEXT="drummer: use tidal for" ID="ID_1833062058" CREATED="1439601889520" MODIFIED="1439773469222">
 <node TEXT="for, not as" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1278735175" CREATED="1440726262078" MODIFIED="1440726264172"/>
@@ -1116,6 +1154,224 @@
 <node TEXT="Talk to Max from Haskell. Max 7 has PM widgets." LOCALIZED_STYLE_REF="default" ID="ID_1955335537" CREATED="1440882121097" MODIFIED="1440884120418">
 <node TEXT="http://createdigitalmusic.com/2015/08/get-physical-modeling-sonic-powers-free-max-starter-kits-come/" ID="ID_1371686068" CREATED="1440882150411" MODIFIED="1440882150411" LINK="http://createdigitalmusic.com/2015/08/get-physical-modeling-sonic-powers-free-max-starter-kits-come/"/>
 <node TEXT="https://mail.google.com/mail/u/0/#search/precise+timing+haskell/149260c0e6ad9de8" ID="ID_376928901" CREATED="1440882531026" MODIFIED="1440882531026" LINK="https://mail.google.com/mail/u/0/#search/precise+timing+haskell/149260c0e6ad9de8"/>
+</node>
+<node TEXT="2015 09 10" ID="ID_583306355" CREATED="1441923644767" MODIFIED="1441923816963">
+<node TEXT="improv" ID="ID_1295014605" CREATED="1441923471615" MODIFIED="1441923652986">
+<node TEXT="fingerpick style for piano" ID="ID_1952708395" CREATED="1441484633315" MODIFIED="1441484636608">
+<node TEXT="low root and fifth, occasionally dyads, alternate which hand is playing at double speed (and double speed showing up at around 1/4 cycle duty)" ID="ID_1298317955" CREATED="1441484644202" MODIFIED="1441484687505"/>
+</node>
+<node TEXT="peace" ID="ID_1156519186" CREATED="1441327940486" MODIFIED="1441923498297">
+<node TEXT="mental chatter hugely worsens my improv quality" ID="ID_1577550981" CREATED="1441431899173" MODIFIED="1441431907205">
+<node TEXT="and I have less of it stoned" ID="ID_123029868" CREATED="1441431918838" MODIFIED="1441431922622"/>
+<node TEXT="but if I am aware I maybe can do it sober too" ID="ID_1150582207" CREATED="1441431925828" MODIFIED="1441431936602"/>
+</node>
+<node TEXT="-jumps too far" ID="ID_870399324" CREATED="1441923502199" MODIFIED="1441923506949">
+<node TEXT="jumps too far can signal insecurity, the desire to have something ?dense having beaten the desire to figure out what is right|best given recent _" ID="ID_352167118" CREATED="1441327942174" MODIFIED="1441327992015"/>
+</node>
+</node>
+</node>
+<node TEXT="offer musicians" ID="ID_172453231" CREATED="1441923528031" MODIFIED="1441923538861">
+<node TEXT="offer [drummer] vocabulary of commands I respond to and not reverse" ID="ID_267701698" CREATED="1441584406149" MODIFIED="1441584415227"/>
+<node TEXT="drummer ad: offer control" ID="ID_459012744" CREATED="1440629980769" MODIFIED="1440629988502">
+<node TEXT="&quot;My stuff wanders; I want you to _&quot;" ID="ID_1231753911" CREATED="1440629989903" MODIFIED="1440630000113"/>
+</node>
+</node>
+</node>
+<node TEXT="mus codg &amp; listening" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_769142314" CREATED="1441936282236" MODIFIED="1441960293789">
+<node TEXT="2015 09 10" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_671601494" CREATED="1441947237163" MODIFIED="1441947239742"/>
+<node TEXT="!transcript! Zapp, album Zapp, track 1" LOCALIZED_STYLE_REF="default" ID="ID_1719357279" CREATED="1441936293508" MODIFIED="1441947249514">
+<node TEXT="order by introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_113075826" CREATED="1441936898588" MODIFIED="1441937132663">
+<node TEXT="not necj how they did" ID="ID_773846225" CREATED="1441936917301" MODIFIED="1441936924954"/>
+</node>
+<node TEXT="~ clap ~ clap" ID="ID_47437772" CREATED="1441936283907" MODIFIED="1441936283907"/>
+<node TEXT="o 7hk" ID="ID_692478046" CREATED="1441936283908" MODIFIED="1441936283908"/>
+<node TEXT="b 3~ (b b) b b3 b3" ID="ID_1137971920" CREATED="1441936283907" MODIFIED="1441937020279">
+<node TEXT="b3 as up a minor third" ID="ID_1185393265" CREATED="1441937020647" MODIFIED="1441937038818"/>
+</node>
+<node TEXT="k 3~    (k k) 1k(k ~ ?k ~)" ID="ID_911087755" CREATED="1441936283909" MODIFIED="1441937025749">
+<node TEXT="? as maybe" ID="ID_1526899749" CREATED="1441937026108" MODIFIED="1441937044140"/>
+<node TEXT="() not changing intra-word duration" ID="ID_1225120952" CREATED="1441937044381" MODIFIED="1441937045482"/>
+</node>
+<node TEXT="2f[g3 -4 ~ g5 ~ ~ gk ?gk] 2ff[g5 ~ ~ g5 ~ ~ gk ?gk]&#xa;where f adds-parallel g10 to every gN&#xa;      ff adds-parallel g15 to every gN" ID="ID_1734383321" CREATED="1441936409021" MODIFIED="1441936813735">
+<node TEXT="-4 continues the g3, hammer-on" ID="ID_660026230" CREATED="1441936531084" MODIFIED="1441936540170"/>
+</node>
+</node>
+<node TEXT="there are more lang tricks in here to mine for principles" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1768530383" CREATED="1441937576053" MODIFIED="1441937590238">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1719357279" STARTINCLINATION="488;0;" ENDINCLINATION="488;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="order introduction to obscure eventual downbeat" ID="ID_149095613" CREATED="1441937140965" MODIFIED="1441937152419">
+<node TEXT="maybe first you think 2=0, then 1=0, before seeing the 0" ID="ID_1516984201" CREATED="1441937169717" MODIFIED="1441937210587"/>
+</node>
+<node TEXT="transformations can be stated in terms of an input beat&apos;s (downbeat-generalized)-notes" ID="ID_1931923281" CREATED="1441937284541" MODIFIED="1441937322306">
+<node TEXT="e.g. you know the guitar will be striking on the 0 and the 3 of 8, the bass on the 0 and 7; therefore state one transform for both in terms of parity" ID="ID_1555650801" CREATED="1441937327748" MODIFIED="1441937376395"/>
+</node>
+<node TEXT="keep drums from v through bridge, change at c" ID="ID_1258808747" CREATED="1441940027468" MODIFIED="1441940038996">
+<node TEXT="esp. if the c is a flowering" ID="ID_1684361755" CREATED="1441940131613" MODIFIED="1441940136611">
+<node TEXT="opens up|gets more dense?" ID="ID_798193019" CREATED="1441940157106" MODIFIED="1441940163019"/>
+<node TEXT="maybe opening harmonically, majorizing" ID="ID_1945642554" CREATED="1441940170922" MODIFIED="1441940176709"/>
+</node>
+<node TEXT="Pomplamoose, Walking on Sunshin" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1130727539" CREATED="1441940136844" MODIFIED="1441940146549"/>
+</node>
+<node TEXT="st 2" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_182828199" CREATED="1441941916200" MODIFIED="1441941917642"/>
+<node TEXT="Aphex Twin" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_571134293" CREATED="1441941918071" MODIFIED="1441941920497"/>
+<node TEXT="the transformations change|play ,keep the themes" ID="ID_1687918020" CREATED="1441941913239" MODIFIED="1441941954202"/>
+<node TEXT="global transformations : transform with common functions" ID="ID_1086118315" CREATED="1441942290000" MODIFIED="1441942313578">
+<node TEXT="d1 $ f1 $ _&#xa;d2 $ f1 $ _" ID="ID_1473230358" CREATED="1441942315824" MODIFIED="1441942331110"/>
+</node>
+<node TEXT="polyrhythm &amp; polyton" ID="ID_853245580" CREATED="1441943887001" MODIFIED="1441943893447">
+<node TEXT="8 11 no 0 in bass, against a Zelda-ish aeolian prog" ID="ID_969510238" CREATED="1441943896288" MODIFIED="1441943927951">
+<node TEXT="Lil Wayne, CoCo Freestyle" ID="ID_1461497630" CREATED="1441943929432" MODIFIED="1441943941783"/>
+<node TEXT="Zelda ? 0 min, 5 min, 7 dom?" ID="ID_621432933" CREATED="1441943947912" MODIFIED="1441943967022"/>
+</node>
+</node>
+<node TEXT="ringy kick" LOCALIZED_STYLE_REF="default" ID="ID_591433382" CREATED="1441944561985" MODIFIED="1441944567071">
+<node TEXT="later add a saw in unison" ID="ID_1406460122" CREATED="1441944582225" MODIFIED="1441944587733">
+<node TEXT="kimbra, 90s music" ID="ID_1562730853" CREATED="1441944590345" MODIFIED="1441944602191"/>
+</node>
+</node>
+<node TEXT="sound swell into beat" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_982788" CREATED="1441944636289" MODIFIED="1441944647527">
+<font BOLD="true"/>
+<node TEXT="maracas" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_873668693" CREATED="1441944654096" MODIFIED="1441944662610"/>
+</node>
+<node TEXT="rather than a common ?economic model for dancing, a diversity of internal experiences, trancelike, willfully divergent, like all those lyrics about ignoring _ and just dancing" ID="ID_524326579" CREATED="1441945562473" MODIFIED="1441945594497"/>
+<node TEXT="remember the power of (kick, clap)" ID="ID_721259335" CREATED="1441945941410" MODIFIED="1441945962973">
+<node TEXT="two-step" ID="ID_1588701960" CREATED="1441945963753" MODIFIED="1441945965056"/>
+</node>
+<node TEXT="trumpets at 1/8 duty" ID="ID_958208691" CREATED="1441946909970" MODIFIED="1441946914368"/>
+<node TEXT="binary nested beats: generalize" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1181892860" CREATED="1441947192835" MODIFIED="1441947198892">
+<node TEXT=".rev" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1852877579" CREATED="1441947220371" MODIFIED="1441947221542"/>
+<node TEXT="etc." ID="ID_900389239" CREATED="1441947215603" MODIFIED="1441947217865"/>
+<node TEXT="k l s l c l s l" ID="ID_860058294" CREATED="1441947208074" MODIFIED="1441947214415"/>
+<node TEXT="k s c s" ID="ID_1095566673" CREATED="1441947204042" MODIFIED="1441947207785"/>
+<node TEXT="k c" ID="ID_147005237" CREATED="1441947200258" MODIFIED="1441947203568"/>
+</node>
+</node>
+<node TEXT="tidal &amp; music &amp; art" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_115293367" CREATED="1441834831301" MODIFIED="1441837876156">
+<node TEXT="to email" ID="ID_1641446376" CREATED="1441690555280" MODIFIED="1441836063571">
+<node ID="ID_1690813901" CREATED="1441692519149" MODIFIED="1441692519149"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &quot;fantasies&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="cps waves" ID="ID_1920395822" CREATED="1441690947601" MODIFIED="1441690949254"/>
+<node TEXT="player: This a good time to switch to chorus?&#xa;player: Sounds good. Positioning cursor&#xa;auto: Executing in 2, 1, [it]" ID="ID_1665484625" CREATED="1441690441432" MODIFIED="1441690536993">
+<node TEXT="that&apos;s not how i&apos;d present it to them" ID="ID_16442017" CREATED="1441690977449" MODIFIED="1441690982717"/>
+</node>
+<node TEXT="executing late" ID="ID_1350355611" CREATED="1441692413773" MODIFIED="1441692417450"/>
+<node TEXT="collecting(by time) instructions that execute late" ID="ID_82458006" CREATED="1441692425453" MODIFIED="1441692447018"/>
+</node>
+<node TEXT="can&apos;t install haskell-mode" ID="ID_680059233" CREATED="1441692525181" MODIFIED="1441692533716"/>
+</node>
+<node TEXT="init, linux" ID="ID_1701639609" CREATED="1441833511068" MODIFIED="1441834837298">
+<node TEXT="qjacktl: press Play" ID="ID_739275116" CREATED="1441833515246" MODIFIED="1441833524081">
+<node TEXT="Setup menu should already have audio device = &quot;hw:1&quot;" ID="ID_1189384094" CREATED="1441833524757" MODIFIED="1441833549739"/>
+</node>
+<node TEXT="start Dirt" ID="ID_454038171" CREATED="1441833561467" MODIFIED="1441833566121"/>
+</node>
+<node TEXT="trirat ? use" ID="ID_1485896344" CREATED="1441696855881" MODIFIED="1441835421810">
+<node TEXT="Sound.Tidal.Pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_825515984" CREATED="1441696867216" MODIFIED="1441835427646"/>
+<node TEXT="is it for a continuously varying offset?" ID="ID_1421306382" CREATED="1441696878969" MODIFIED="1441835426699"/>
+</node>
+<node TEXT="what choice of drum breaks" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1072286068" CREATED="1441516106313" MODIFIED="1441516126940">
+<node TEXT="bools" ID="ID_1915816871" CREATED="1441516338210" MODIFIED="1441516349812">
+<node TEXT="complex|simple" ID="ID_1428611234" CREATED="1441516130305" MODIFIED="1441516345751"/>
+<node TEXT="dense|sparse" ID="ID_1316866270" CREATED="1441516441217" MODIFIED="1441516447302"/>
+<node TEXT="bass|none" ID="ID_729770434" CREATED="1441516144313" MODIFIED="1441516158479">
+<node TEXT="was" ID="ID_576538519" CREATED="1441516208081" MODIFIED="1441516208445">
+<node TEXT="? treble cannot stay constant" ID="ID_827228262" CREATED="1441516168385" MODIFIED="1441516172741">
+<node TEXT="whereas for treble|none the bass can stay constant" ID="ID_1499948365" CREATED="1441516180841" MODIFIED="1441516189198"/>
+</node>
+</node>
+<node TEXT="if none, treble should have a bass" ID="ID_109276911" CREATED="1441516209888" MODIFIED="1441516224464">
+<node TEXT="a bassish part" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1396958345" CREATED="1441516228865" MODIFIED="1441516232452"/>
+</node>
+</node>
+<node ID="ID_1316513012" CREATED="1441516160578" MODIFIED="1441516160578"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      treble|none
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="bass can stay constant" ID="ID_1132719581" CREATED="1441516162465" MODIFIED="1441516165559"/>
+</node>
+<node TEXT="ring" ID="ID_1694580648" CREATED="1441516352017" MODIFIED="1441516352599"/>
+<node TEXT="quiet|loud" ID="ID_154800469" CREATED="1441516415873" MODIFIED="1441516421063"/>
+</node>
+<node TEXT="timbres" ID="ID_1858038478" CREATED="1441516578153" MODIFIED="1441516579119">
+<node TEXT="quals" ID="ID_1234115790" CREATED="1441516582513" MODIFIED="1441516583527">
+<node TEXT="analog-digital" ID="ID_1912534065" CREATED="1441516362673" MODIFIED="1441516373706">
+<node TEXT="spectrum" ID="ID_1672096568" CREATED="1441516374985" MODIFIED="1441516376519"/>
+</node>
+</node>
+<node TEXT="duration" ID="ID_1515583642" CREATED="1441516593954" MODIFIED="1441516595983"/>
+<node TEXT="metallic" ID="ID_1883506677" CREATED="1441516598578" MODIFIED="1441516606191"/>
+<node TEXT="brittle, sticks" ID="ID_1397893459" CREATED="1441516606434" MODIFIED="1441516610667"/>
+</node>
+<node TEXT="meter tree" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_193169784" CREATED="1441516265217" MODIFIED="1441516433809"/>
+<node TEXT="randomization" ID="ID_480232762" CREATED="1441517348595" MODIFIED="1441517350232">
+<node TEXT="rand from these" ID="ID_1422385422" CREATED="1441517363403" MODIFIED="1441517366560">
+<node TEXT="all beats equal proba" ID="ID_1678795020" CREATED="1441517369059" MODIFIED="1441517391862"/>
+<node TEXT="overall strike proba varyg over cyc" ID="ID_455316868" CREATED="1441517448027" MODIFIED="1441517487379"/>
+</node>
+</node>
+</node>
+<node TEXT="learn a randomized drum cycle like a tidal spirit|medit one" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_400317898" CREATED="1441516729642" MODIFIED="1441516774291"/>
+<node TEXT="don&apos;t try to master tidal before performing with it. it&apos;s entertaining to be bad at it." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_402225100" CREATED="1441516052737" MODIFIED="1441836626570"/>
+<node TEXT="test art&apos;s effect" ID="ID_1969286288" CREATED="1441514981799" MODIFIED="1441836740384">
+<node TEXT="I don&apos;t have to be sure my art&apos;s effect on others is good from the start; I can test on them, and if not good, will stop." ID="ID_469372997" CREATED="1441514949111" MODIFIED="1441836735983"/>
+</node>
+<node TEXT="lyrics &amp; tidal" ID="ID_1013932298" CREATED="1441513875781" MODIFIED="1441513878095">
+<node TEXT="for a vocals track, a graph koan, a small set of statements that well characterizes concept|problem.." ID="ID_1681626431" CREATED="1441513778041" MODIFIED="1441513838073">
+<node TEXT="characterizes what most deserves salience about" ID="ID_507427674" CREATED="1441513842733" MODIFIED="1441513851509"/>
+</node>
+<node TEXT="tidal assign probabilities to each statement, and an overall probability of vox duty" ID="ID_1147684918" CREATED="1441513881660" MODIFIED="1441513902517"/>
+</node>
+<node TEXT="simple loops, even 2 notes a minor third apart at a polyrhythm, for on piano, fantastic" ID="ID_530746666" CREATED="1441508915973" MODIFIED="1441508942498">
+<node TEXT="tried in live, 3/2 and 5/4 duration relationship, minor third" ID="ID_1095285239" CREATED="1441508945746" MODIFIED="1441508960657"/>
+</node>
+<node TEXT="nested waves, trees" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_320564476" CREATED="1441486415704" MODIFIED="1441837046194">
+<node TEXT="nested ABA music" ID="ID_1626223204" CREATED="1441486393320" MODIFIED="1441486396452"/>
+</node>
+<node TEXT="quantize a rhythm from one ZN onto another" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1261984476" CREATED="1441863759635" MODIFIED="1441863766763"/>
+</node>
+<node TEXT="mus prog" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1237143182" CREATED="1441691090586" MODIFIED="1441837876144">
+<node TEXT="types, mus-atomic" ID="ID_1658437636" CREATED="1441691154827" MODIFIED="1441835592515">
+<node TEXT="musically atomic, not CS-atomic" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1664569950" CREATED="1441835568981" MODIFIED="1441835573762"/>
+<node TEXT="pitch" ID="ID_456649998" CREATED="1441691336018" MODIFIED="1441691340518"/>
+<node TEXT="timbre|sample" ID="ID_1273502932" CREATED="1441691340737" MODIFIED="1441691344127"/>
+<node TEXT="tattoo" ID="ID_654153019" CREATED="1441691183626" MODIFIED="1441691189273"/>
+<node TEXT="seq" ID="ID_148737302" CREATED="1441691098569" MODIFIED="1441691332127"/>
+<node TEXT="meter" ID="ID_1595312196" CREATED="1441691404354" MODIFIED="1441691405150"/>
+<node TEXT="set" ID="ID_1621910646" CREATED="1441691103066" MODIFIED="1441691334433"/>
+</node>
+<node TEXT="functions" ID="ID_434455132" CREATED="1441691164473" MODIFIED="1441835556201">
+<node TEXT="pitch set -&gt; random melody" ID="ID_1021589077" CREATED="1441691114161" MODIFIED="1441691130319"/>
+<node TEXT="how finegle a melody to be the top of a chord prog" ID="ID_616542320" CREATED="1441690316824" MODIFIED="1441690326498">
+<node TEXT="would have to define ?loose rules, perhaps time-varying, e.g. for how much a voice can move, what fraction of the time can be fewer than all chord tones (to accomodate melodic figures in any voice)" ID="ID_23873357" CREATED="1441690327472" MODIFIED="1441690378337"/>
+</node>
+</node>
+</node>
+<node TEXT="rhythms to stutter-match how peoples&apos; strategies interact, preferences revealing piecewise, like (empathic)unlocking, seeing all potential futures and how each feels about them" ID="ID_1563395188" CREATED="1441689122951" MODIFIED="1441689217555"/>
+<node TEXT="&quot;sn sn sn&quot; can be represented as &quot;sn*3&quot;, but how to represent &quot;bd sn sn sn&quot; as &quot;bd sn*3&quot;" ID="ID_1777271393" CREATED="1441970990242" MODIFIED="1441971037633"/>
+<node TEXT="? can&apos;t show rotated beat" ID="ID_400377101" CREATED="1441971209738" MODIFIED="1441971217513">
+<node TEXT="tidal&gt; let x =  (0/14) &lt;~ &quot;bd sn sn sn sn sn sn sn&quot;" ID="ID_842650415" CREATED="1441971218005" MODIFIED="1441971218005"/>
+<node TEXT="tidal&gt; x" ID="ID_337144973" CREATED="1441971218005" MODIFIED="1441971218005"/>
+<node TEXT="tidal&gt;" ID="ID_888421145" CREATED="1441971218007" MODIFIED="1441971218007"/>
 </node>
 </node>
 <node TEXT="rhyme" POSITION="right" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">

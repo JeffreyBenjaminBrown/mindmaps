@@ -329,6 +329,186 @@
 </node>
 </node>
 </node>
+<node TEXT="cyc (new!)" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_760793984" CREATED="1441942126514" MODIFIED="1441957908612">
+<node TEXT="2015 09 10, only partially grep-collected" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1597969718" CREATED="1441957909873" MODIFIED="1441960169336">
+<node TEXT="cyc|circ|\Wloop|\Witer|repe|rotat|period|\Wseq|\Wseria|revol|chain|orbit" ID="ID_1613556284" CREATED="1441957921414" MODIFIED="1441958996615"/>
+<node TEXT="did not use the full series on go.mm, care.mm" ID="ID_514933238" CREATED="1441959134314" MODIFIED="1441959152494">
+<node TEXT="had not yet found all terms (used thesaurus)" ID="ID_1630481065" CREATED="1441959155490" MODIFIED="1441959164783"/>
+</node>
+<node TEXT="collected alphabetically though live.mm, did not get to logic.mm, did not get to git/ or git/tech" ID="ID_562977668" CREATED="1441960176282" MODIFIED="1441960197759"/>
+</node>
+<node TEXT="~ rhythm, trance, medit, peace" ID="ID_258219794" CREATED="1441960687240" MODIFIED="1441960695997"/>
+<node TEXT="christ of dares" LOCALIZED_STYLE_REF="default" ID="ID_608261060" CREATED="1420253597447" MODIFIED="1441960133492">
+<node TEXT="break a law before knowing it" ID="ID_1250158556" CREATED="1420253793659" MODIFIED="1420253831409"/>
+<node TEXT="devious circularity, equilib hard to identify cause" ID="ID_1004162407" CREATED="1420253838097" MODIFIED="1420253854073"/>
+<node TEXT="&quot;Until you say it, it doesn&apos;t exist, so don&apos;t identify and make easily by others investigable|growable the words for the bad things you imagine.&quot;" ID="ID_1462451576" CREATED="1420251237306" MODIFIED="1437269285802"/>
+<node TEXT="&quot;whoever smelt it dealt it&quot;" ID="ID_778761754" CREATED="1422688016929" MODIFIED="1426667286649">
+<node TEXT="&quot;whoever said it let it&quot; was also a childhood fart rhyme" ID="ID_1811160650" CREATED="1422688008234" MODIFIED="1426667299556"/>
+</node>
+</node>
+<node TEXT="electrical" LOCALIZED_STYLE_REF="default" ID="ID_386029719" CREATED="1392582692793" MODIFIED="1441960133501">
+<node TEXT="reviewed 1c" ID="ID_1783867941" CREATED="1392583365970" MODIFIED="1392583377272">
+<node TEXT="closure might be ill-defined" ID="ID_170150994" CREATED="1392582853804" MODIFIED="1392582862583">
+<node TEXT="can adding an antenna close a circuit?" ID="ID_435924307" CREATED="1392582862836" MODIFIED="1392582874534"/>
+</node>
+<node TEXT="only closed circuits function" ID="ID_1676726018" CREATED="1392582826068" MODIFIED="1392582831088"/>
+<node TEXT="most components have two terminals; antennae have one" ID="ID_1601511963" CREATED="1392582695697" MODIFIED="1392582843287"/>
+</node>
+<node TEXT="a short circuit is a low-resistance path that bypasses" ID="ID_455764529" CREATED="1392582990256" MODIFIED="1392583009352">
+<node TEXT="bypasses part of a circuit" ID="ID_427929293" CREATED="1392583009747" MODIFIED="1392583012291"/>
+</node>
+<node TEXT="something bypassed ceases to function" ID="ID_172997541" CREATED="1392583047438" MODIFIED="1392583053809"/>
+<node TEXT="a wire can bypass part of itself" ID="ID_1351601558" CREATED="1392583074870" MODIFIED="1392583096232">
+<node TEXT="a loop" ID="ID_236600071" CREATED="1392583096788" MODIFIED="1392583098272"/>
+</node>
+<node TEXT="bypassing with less resistance increases flow" ID="ID_586864120" CREATED="1392583195851" MODIFIED="1392583273467"/>
+<node TEXT="fuses and circuit breakers" ID="ID_1884067946" CREATED="1392583297359" MODIFIED="1392583306306">
+<node TEXT="they stop transmitting at excessive currents" ID="ID_872098496" CREATED="1392583306527" MODIFIED="1392583337385"/>
+</node>
+<node TEXT="parallel += robust" ID="ID_739651724" CREATED="1392586048652" MODIFIED="1392586055736">
+<node TEXT="one failed christmas bulb -&gt; none of them operate" ID="ID_368357277" CREATED="1392586057644" MODIFIED="1392586075007"/>
+</node>
+<node TEXT="current continuity important" ID="ID_1832670907" CREATED="1392586262942" MODIFIED="1392586275089">
+<node TEXT="can&apos;t run a circuit off periodic sparks" ID="ID_241479834" CREATED="1392586275718" MODIFIED="1392586281777"/>
+</node>
+<node TEXT="AC permits voltage change" ID="ID_1040627270" CREATED="1392586603308" MODIFIED="1392586614175">
+<node TEXT="&quot;transformers&quot; do it" ID="ID_1838965667" CREATED="1392586614492" MODIFIED="1392586619015"/>
+</node>
+<node TEXT="low current transmission costs scale slower with distance" ID="ID_851559159" CREATED="1392586621307" MODIFIED="1392586776706">
+<node TEXT="power loss is O(current squared)" ID="ID_709196908" CREATED="1392586778414" MODIFIED="1392586805029">
+<node TEXT="what I would call friction" ID="ID_1705059791" CREATED="1392586811518" MODIFIED="1392586815129"/>
+</node>
+</node>
+<node TEXT="power = voltage * current" ID="ID_915821077" CREATED="1392586713441" MODIFIED="1392586719540">
+<node TEXT="P = VI" ID="ID_980252961" CREATED="1392586709753" MODIFIED="1392586713180"/>
+</node>
+</node>
+<node TEXT="reasons to rotate things" LOCALIZED_STYLE_REF="default" ID="ID_1554113119" CREATED="1441959636498" MODIFIED="1441960155076">
+<node TEXT="spread damage" ID="ID_762852397" CREATED="1441959643849" MODIFIED="1441959646112"/>
+<node TEXT="spread nutrition" ID="ID_1548992263" CREATED="1441959646306" MODIFIED="1441959649777">
+<node TEXT="rotate crops, meals" ID="ID_1712575033" CREATED="1441959652250" MODIFIED="1441959656550"/>
+</node>
+<node TEXT="isolation efficiency" ID="ID_1908025937" CREATED="1441959804218" MODIFIED="1441959843489">
+<node TEXT="example: health.mm/Shuffling feet easier than standing?" ID="ID_1155150454" CREATED="1358128846063" MODIFIED="1441959860919">
+<node TEXT="is dup, main there" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_216566033" CREATED="1441959966986" MODIFIED="1441959971742"/>
+<node TEXT="Projects have efficient scales. Could the efficient scale of power (energy spent per unit time) for a foot be such that sequential half-duty full-weight jobs was better than parallel half-weight jobs?" ID="ID_801134674" CREATED="1358128753543" MODIFIED="1358128828304"/>
+</node>
+</node>
+</node>
+<node TEXT="reasons to repeat things" LOCALIZED_STYLE_REF="default" ID="ID_1113561532" CREATED="1441959937412" MODIFIED="1441960155085">
+<node TEXT="successive pushes, each an investment toward a condition" ID="ID_1842289113" CREATED="1441959941858" MODIFIED="1441959960089">
+<node TEXT="example: health.mm/stretch theory" ID="ID_1554450574" CREATED="1325836610888" MODIFIED="1441959966233">
+<node TEXT="is dup, main there" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_318862973" CREATED="1441959966986" MODIFIED="1441959971742"/>
+<node TEXT="swaying to rotate the most-stretched portion of the muscle (that is, centering the stretch at different parts of it) around whatever structures one might do so (bones, joints) might help a stretch" ID="ID_1623204364" CREATED="1325836516147" MODIFIED="1325836609964"/>
+</node>
+</node>
+</node>
+<node TEXT="across-repet vars" LOCALIZED_STYLE_REF="default" ID="ID_481215450" CREATED="1441960040186" MODIFIED="1441960155087">
+<node TEXT="example: for completeness, when exercising neck" ID="ID_1927286070" CREATED="1342755321932" MODIFIED="1441960054871">
+<node TEXT="is dup, main at health.mm" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1620026976" CREATED="1441960055802" MODIFIED="1441960058925"/>
+<node TEXT="each rotation tried should be tried from a variety of positions in the other" ID="ID_150189574" CREATED="1342755328075" MODIFIED="1342755342535"/>
+</node>
+</node>
+<node TEXT="1" ID="ID_501743803" CREATED="1441960109914" MODIFIED="1441960110201">
+<node TEXT="night, no screenish _" ID="ID_1411958849" CREATED="1441942129272" MODIFIED="1441942177729">
+<node TEXT="screen: display, not filter" LOCALIZED_STYLE_REF="styles.topic" ID="ID_883230135" CREATED="1441942182879" MODIFIED="1441942205280">
+<node TEXT="at least so far not, have not thought far into it" ID="ID_1214677581" CREATED="1441942198016" MODIFIED="1441942204237"/>
+</node>
+</node>
+<node TEXT="what long felt vertical feels horizontal, *a change in a space" ID="ID_313921748" CREATED="1441942431183" MODIFIED="1441942448401">
+<node TEXT="*just another" ID="ID_456334610" CREATED="1441942449071" MODIFIED="1441942451199"/>
+</node>
+<node TEXT="&quot;Sense this turning back with me!&quot;" ID="ID_230249827" CREATED="1424408051163" MODIFIED="1424408056376"/>
+<node TEXT="&quot;Time is a great idea!&quot; &quot;I&apos;ll try it, I promise!&quot;" ID="ID_1088972366" CREATED="1424916121644" MODIFIED="1424916130564"/>
+<node TEXT="&quot;[object] wins!&quot; sorting." LOCALIZED_STYLE_REF="default" ID="ID_1713966126" CREATED="1425280888101" MODIFIED="1441956374939">
+<node TEXT="everything wins the predicate defined by where it lands" ID="ID_107420888" CREATED="1425280908741" MODIFIED="1425281004397">
+<node TEXT=". is rival, other at endog just" ID="ID_37679401" CREATED="1425281076613" MODIFIED="1425281089602"/>
+</node>
+</node>
+<node TEXT="a repeated trajectory divergnce, sibling story" ID="ID_1722174405" CREATED="1423365852862" MODIFIED="1423365876714">
+<node TEXT="assoc color, darken, fill in" ID="ID_942862376" CREATED="1423122562099" MODIFIED="1423122591384"/>
+</node>
+<node TEXT="&quot;Like not looking at it for a whole day, and then looking at it, to see if I still liked it. I did.&quot;" ID="ID_677663470" CREATED="1424501996102" MODIFIED="1424502037064">
+<node TEXT="King Crimson" ID="ID_99648141" CREATED="1424502039060" MODIFIED="1424502042081"/>
+</node>
+<node TEXT="run back to verify _ still _" ID="ID_1648935709" CREATED="1424661844089" MODIFIED="1424661860945">
+<node TEXT="smell fingers" ID="ID_441605988" CREATED="1424661861545" MODIFIED="1424661864703"/>
+</node>
+<node TEXT="My motivation, why do you forsake me." ID="ID_1859972000" CREATED="1424748888269" MODIFIED="1424748896257"/>
+<node TEXT="generations \ biol evol" ID="ID_1625616390" CREATED="1423634222674" MODIFIED="1423634276596">
+<node TEXT="teach another generation, &quot;you enjoy _!&quot;" ID="ID_280005202" CREATED="1423632264929" MODIFIED="1424305950034"/>
+</node>
+<node TEXT="&quot;Do you know that you earned this?&quot;" ID="ID_1804566449" CREATED="1425161526108" MODIFIED="1425161531705">
+<node TEXT="close a justice circuit" ID="ID_308274945" CREATED="1425170865477" MODIFIED="1425170870289"/>
+</node>
+<node TEXT="process-action cycles (promoted)" LOCALIZED_STYLE_REF="default" ID="ID_830011803" CREATED="1358827119774" MODIFIED="1358828507644">
+<node TEXT="promoted from r/feasible" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1858519381" CREATED="1358828491442" MODIFIED="1358828499506"/>
+<node TEXT="where processing includes review, motivation" ID="ID_942027884" CREATED="1358827153173" MODIFIED="1358828480229"/>
+</node>
+<node TEXT="close a circ" ID="ID_747811365" CREATED="1415331905919" MODIFIED="1415931054020">
+<node TEXT="to close an open social circuit, causal feedback" ID="ID_159006862" CREATED="1415262576340" MODIFIED="1415262605721">
+<node TEXT="to [drink, imagine and look at pictures of women, ..] all day leaves some circuit open" ID="ID_1700856138" CREATED="1415262614699" MODIFIED="1441957508662"/>
+</node>
+</node>
+<node TEXT="imagine learning cycling through a population you&apos;re part of" ID="ID_703622345" CREATED="1414723434205" MODIFIED="1414723442065"/>
+</node>
+<node TEXT="2" ID="ID_879349427" CREATED="1441960120946" MODIFIED="1441960121241">
+<node TEXT="depression cycles" ID="ID_932366902" CREATED="1441957691113" MODIFIED="1441957693174">
+<node TEXT="no hope =&gt; no invest =&gt; no options =&gt; no hope" ID="ID_1810671301" CREATED="1441957693841" MODIFIED="1441957719253"/>
+</node>
+<node TEXT="recursive lies, each thinking the other wanted|needed each iteration of" LOCALIZED_STYLE_REF="default" ID="ID_1261629343" CREATED="1425369818866" MODIFIED="1425964862139">
+<node TEXT="hype" ID="ID_406787095" CREATED="1425964873650" MODIFIED="1425964875934"/>
+<node TEXT="effects soon very real, possib good" ID="ID_592224838" CREATED="1425964889498" MODIFIED="1425964904994"/>
+</node>
+<node TEXT="Perhaps can&apos;t improve rep before having sufficiently used recent improvements." ID="ID_172453415" CREATED="1426572884065" MODIFIED="1426572904216">
+<node TEXT="inward\outward cycling" ID="ID_1029792364" CREATED="1426572905306" MODIFIED="1426572914288"/>
+</node>
+<node TEXT="data to analyze to disrupt" ID="ID_968046066" CREATED="1441958092977" MODIFIED="1441958100599">
+<node TEXT="use recording to analyze and disrupt own order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_970086684" CREATED="1418196528467" MODIFIED="1432094017969"/>
+<node TEXT="musical example" LOCALIZED_STYLE_REF="default" ID="ID_312813061" CREATED="1428451786272" MODIFIED="1432094008738">
+<node TEXT="^sibs are dup, main at music.mm" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_266569716" CREATED="1428451803575" MODIFIED="1432093990475"/>
+<node TEXT="I know my habits need more disruption." ID="ID_914204382" CREATED="1418196543515" MODIFIED="1418196554438"/>
+<node TEXT="So inspect visually and in audio my output, and determine how to vary the patterns away from habit -- e.g. change the hands&apos; duty cycles, which sets the meter and lags which, ..." ID="ID_1840851205" CREATED="1418196555147" MODIFIED="1418196592535"/>
+</node>
+</node>
+<node TEXT="god : gopro, get on record, to stop needing to repeat" ID="ID_1535135154" CREATED="1427222270987" MODIFIED="1431997271214"/>
+<node TEXT="think you can change what you want, despite repeated contrary evidence?" ID="ID_1265719645" CREATED="1428204285046" MODIFIED="1441958436832"/>
+<node TEXT="Her Saturdays I should focus on more than I have." ID="ID_1166599149" CREATED="1436834506048" MODIFIED="1441958464622">
+<node TEXT="I repeatedly chose instead to ask about her workweek." ID="ID_1570783743" CREATED="1436834535384" MODIFIED="1437275911618"/>
+</node>
+<node TEXT="stand in a circle" ID="ID_1789645027" CREATED="1441958524849" MODIFIED="1441958527240"/>
+<node TEXT="sprawl-sort cycle rhythms" ID="ID_328188560" CREATED="1326322952243" MODIFIED="1326322972367">
+<node ID="ID_1775611320" CREATED="1441958607858" MODIFIED="1441958607858"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2012 01 11
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="is an oval a circle along angled axes of the same measure?" ID="ID_1631187311" CREATED="1408912529551" MODIFIED="1408912541721"/>
+<node TEXT="betrayal" ID="ID_1293550900" CREATED="1441959228546" MODIFIED="1441959229896"/>
+<node TEXT="regret" ID="ID_116059580" CREATED="1441959243834" MODIFIED="1441959244617">
+<node TEXT="irrationality, hangovers" ID="ID_776997994" CREATED="1441959237298" MODIFIED="1441959243624"/>
+</node>
+</node>
+<node TEXT="3" ID="ID_1241691126" CREATED="1441960145618" MODIFIED="1441960146288">
+<node TEXT="pessim + comm feedback = disaster" ID="ID_917641224" CREATED="1441959413498" MODIFIED="1441959433381">
+<node TEXT="romeo and juliet" ID="ID_1550366491" CREATED="1441959402074" MODIFIED="1441959405616"/>
+<node TEXT="see also &quot;history.mm/2015 07 05-12, sick soc cyc&quot;" ID="ID_1697164351" CREATED="1441959441874" MODIFIED="1441959448984"/>
+</node>
+<node TEXT="transcend a cycle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_242489500" CREATED="1441959531858" MODIFIED="1441959535126"/>
+<node TEXT="alone &amp; together are points on a cycle" ID="ID_101858644" CREATED="1441959674506" MODIFIED="1441959692800"/>
+<node TEXT="how to change the self? hurry through a dead time?" ID="ID_1000955630" CREATED="1441959704066" MODIFIED="1441959709945"/>
+</node>
+</node>
 <node TEXT="underst" ID="ID_1644583117" CREATED="1426977202076" MODIFIED="1426977203161">
 <node TEXT=". 1-reviewed" LOCALIZED_STYLE_REF="default" ID="ID_1175466826" CREATED="1432355297807" MODIFIED="1432355314799">
 <font BOLD="true"/>
@@ -1446,30 +1626,6 @@
 <node TEXT="specify as vart of modify" ID="ID_1823732661" CREATED="1439428919814" MODIFIED="1439428935182"/>
 </node>
 <node TEXT="20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_12497858" CREATED="1440117295049" MODIFIED="1440117296348"/>
-<node TEXT="cyc rep" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_676989560" CREATED="1434767807598" MODIFIED="1440115195826">
-<node TEXT="duration ~ fraction" ID="ID_1911525932" CREATED="1440115165463" MODIFIED="1440115169533"/>
-<node TEXT="each rhythm as diff v. each as duration from ref" ID="ID_367709133" CREATED="1440115103679" MODIFIED="1440115149634">
-<node TEXT="from reference event" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1289303716" CREATED="1440115150320" MODIFIED="1440115153333"/>
-<node TEXT="was" ID="ID_1740765074" CREATED="1440115115640" MODIFIED="1440115115989">
-<node TEXT="rhythm not as difference but fractions" ID="ID_884414408" CREATED="1434758770851" MODIFIED="1440115097564">
-<node ID="ID_1710149542" CREATED="1440115097942" MODIFIED="1440115097942"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      each repg duration from start
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
 <node TEXT="using . to chill font" ID="ID_123132977" CREATED="1440128711325" MODIFIED="1440128715397"/>
 <node TEXT="25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_975231116" CREATED="1440538618792" MODIFIED="1440538620198"/>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1727908298" CREATED="1440538621873" MODIFIED="1440538623414">
