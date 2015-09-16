@@ -967,7 +967,7 @@
 <node TEXT="I mean, it&apos;s one thing to have problems externaly, and totally different to be at war internally. A problem can be just a thing you have, like a kneecap or a memory of believing in the tooth fairy." ID="ID_1768297154" CREATED="1440483392253" MODIFIED="1440483619476">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1352767771" STARTINCLINATION="559;0;" ENDINCLINATION="559;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="You could frame your dependency on food as an addiction. You don&apos;t because you think eating is legitimate work. If you proved to yourself, by making a lot of recordings stoned and sober, that marijuana makes you make much better music, you would consider the marijuana legitimate, and you would not call it an addiction." ID="ID_914500588" CREATED="1440485965207" MODIFIED="1440486108776"/>
+<node TEXT="You could frame your dependency on Vitamin A as an addiction. You don&apos;t because you think staying healthy is legitimate work. If you proved to yourself, by making a lot of recordings stoned and sober, that marijuana makes you make better music, you might consider the marijuana legitimate, and not call it an addiction." ID="ID_914500588" CREATED="1440485965207" MODIFIED="1442346130497"/>
 </node>
 <node TEXT="rockstar overdose, public service" ID="ID_1688205685" CREATED="1440486648583" MODIFIED="1440486660026">
 <node TEXT="Some rock stars may have done their greatest services by dying of drug overdoses." ID="ID_1008543468" CREATED="1440484585151" MODIFIED="1440484609785"/>
@@ -1759,7 +1759,7 @@
 <node TEXT="as if it comes from somewhere else, flowing through you, if you let it" ID="ID_678731698" CREATED="1441311912336" MODIFIED="1441311920652"/>
 </node>
 <node TEXT="I want a deep, natural, peaceful energy." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1275082279" CREATED="1441312004367" MODIFIED="1441312052690">
-<node TEXT="as opposed to marij" ID="ID_19026973" CREATED="1441312053383" MODIFIED="1441312056796"/>
+<node TEXT="? as opposed to marij" ID="ID_19026973" CREATED="1441312053383" MODIFIED="1442346183047"/>
 </node>
 <node TEXT="historical trauma =&gt; habit of closing emotj. can undo." ID="ID_1278133313" CREATED="1441312245271" MODIFIED="1441312273774"/>
 <node TEXT="? is emotj openness a habit, or just a lack of a bad emotj closedness habit" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_391540213" CREATED="1441312528824" MODIFIED="1441312545060">

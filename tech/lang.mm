@@ -17337,16 +17337,198 @@
 </node>
 </node>
 <node TEXT="Tidal +" POSITION="right" ID="ID_370683564" CREATED="1414195719623" MODIFIED="1418802873363">
+<node TEXT="init, short" ID="ID_1532390043" CREATED="1439930067933" MODIFIED="1442301747617">
+<node TEXT="jackd -d coreaudio &amp;" ID="ID_277996398" CREATED="1439930070061" MODIFIED="1439930070061"/>
+<node TEXT="cd ~/Dirt" ID="ID_807359330" CREATED="1439930083860" MODIFIED="1439930083860"/>
+<node TEXT="./dirt &amp;" ID="ID_1962366651" CREATED="1439930083860" MODIFIED="1439930083860"/>
+<node TEXT="open a .tidal file" ID="ID_243253769" CREATED="1439930109249" MODIFIED="1439930113870">
+<font ITALIC="true"/>
+</node>
+<node TEXT="Ctrl-C then Ctrl-S." ID="ID_807972310" CREATED="1439930129440" MODIFIED="1439930132674">
+<node TEXT="starts Tidal, from within Emacs" ID="ID_376417769" CREATED="1439930136007" MODIFIED="1439930142938"/>
+</node>
+<node TEXT="d1 $ brak $ sound &quot;bd sn/2&quot;" ID="ID_1676408002" CREATED="1439930121944" MODIFIED="1439930122795"/>
+</node>
+<node TEXT="Dirt" ID="ID_550072709" CREATED="1440655384921" MODIFIED="1442301955290">
+<node TEXT="samples by folder" LOCALIZED_STYLE_REF="default" ID="ID_96697644" CREATED="1440706498195" MODIFIED="1442302748482">
+<node TEXT="1" ID="ID_812502899" CREATED="1440706476380" MODIFIED="1440706476791">
+<node TEXT="bd" ID="ID_273407036" CREATED="1440655393410" MODIFIED="1440655394156"/>
+<node TEXT="ch = electronic snareish" ID="ID_1875414370" CREATED="1440655836496" MODIFIED="1440655848164"/>
+<node TEXT="cl (cold lettuce) = high electric woodblock" ID="ID_63509699" CREATED="1440655858399" MODIFIED="1440655871473"/>
+<node TEXT="* bend = like crunching leaves" ID="ID_697971535" CREATED="1440660327967" MODIFIED="1440660336993"/>
+<node TEXT="* bleep:4 = high ?square wave, hospital-ish" ID="ID_139984902" CREATED="1440660370485" MODIFIED="1440660523951"/>
+<node TEXT="* bleep:1 = ringy ghost machine" ID="ID_1022458591" CREATED="1440660603549" MODIFIED="1440660710744"/>
+<node TEXT="bottle = high percussion, varied" ID="ID_1091575203" CREATED="1440660776783" MODIFIED="1440660894083"/>
+<node TEXT="can = percussion, varied" ID="ID_1346148743" CREATED="1440660894812" MODIFIED="1440660899655"/>
+<node TEXT="cosmicg: varied, noisy electronic" ID="ID_1161677217" CREATED="1440661067550" MODIFIED="1440661074521"/>
+<node TEXT="* cr = crash" ID="ID_954934347" CREATED="1440661103245" MODIFIED="1440661106800"/>
+<node TEXT="* dork2 = mult inharmonic vox" ID="ID_851022141" CREATED="1440661339916" MODIFIED="1440661352336"/>
+<node TEXT="dr = diverse drums" ID="ID_1472716643" CREATED="1440661555366" MODIFIED="1440661558049"/>
+<node TEXT="* drum:5 = kick + cymbal" ID="ID_151053890" CREATED="1440661718495" MODIFIED="1440661747354"/>
+<node TEXT="* f = violinish" ID="ID_1005727988" CREATED="1440662017413" MODIFIED="1440662020777"/>
+<node TEXT="feel = percussive, diverse" ID="ID_844725388" CREATED="1440662057941" MODIFIED="1440662062792"/>
+<node TEXT="** feelfx = weird sustained scifi" ID="ID_1649848762" CREATED="1440662081739" MODIFIED="1440662093919"/>
+<node TEXT="* fire" ID="ID_688334242" CREATED="1440662118531" MODIFIED="1440662119606"/>
+<node TEXT="flick = 2 buzzes and a lot of echoey buckets" ID="ID_1257507219" CREATED="1440662154546" MODIFIED="1440662167860"/>
+<node TEXT="foo = breaks" ID="ID_1975147896" CREATED="1440662212208" MODIFIED="1440662214355"/>
+</node>
+<node TEXT="2" ID="ID_1145296467" CREATED="1440706481019" MODIFIED="1440706481358">
+<node TEXT="future = some good rubber bass" ID="ID_37586831" CREATED="1440662248645" MODIFIED="1440662252274"/>
+<node TEXT="** gab = saturated ringy percussive" ID="ID_1459187855" CREATED="1440662273733" MODIFIED="1440662284873"/>
+<node TEXT="glasstap = 2 taps of &amp; 1 breaking of glass, all quiet" ID="ID_1533587408" CREATED="1440662316468" MODIFIED="1440662342902"/>
+<node TEXT="glitch &amp; glitch2 = the last sound of each is a cool saturated noise hit" ID="ID_1826446163" CREATED="1440662398409" MODIFIED="1440662409925"/>
+<node TEXT="gretsch = an acoustic kit" ID="ID_1762147107" CREATED="1440662431376" MODIFIED="1440662441718"/>
+<node TEXT="h = a small child" ID="ID_1325187035" CREATED="1440662455495" MODIFIED="1440662458194"/>
+<node TEXT="haw = fighty" ID="ID_1999245636" CREATED="1440662497766" MODIFIED="1440662514065"/>
+<node TEXT="hit = weird electric ringy" ID="ID_1544169643" CREATED="1440662611243" MODIFIED="1440662618028"/>
+<node TEXT="if ~ gab" ID="ID_119395325" CREATED="1440662751151" MODIFIED="1440662753523"/>
+<node TEXT="* industrial = weird, unpitched" ID="ID_555588965" CREATED="1440662830966" MODIFIED="1440662845637"/>
+<node TEXT="* insect" ID="ID_1780403633" CREATED="1440662860894" MODIFIED="1440662862954"/>
+<node TEXT="* invaders = weird" ID="ID_1689436700" CREATED="1440662903245" MODIFIED="1440662909432"/>
+<node TEXT="* invaders 3, 10 = giant mech" ID="ID_1575303133" CREATED="1440662918245" MODIFIED="1440662950667"/>
+<node TEXT="* jungbass = ringy bass" ID="ID_852127637" CREATED="1440662997731" MODIFIED="1440663002471"/>
+<node TEXT="* koy = vox, low" ID="ID_58231821" CREATED="1440663076506" MODIFIED="1440663080117"/>
+<node TEXT="latibro = sustained, various pitches" ID="ID_759621819" CREATED="1440663131329" MODIFIED="1440663138212"/>
+<node TEXT="made2 = sustained, squonky" ID="ID_1354157187" CREATED="1440663214088" MODIFIED="1440663221611"/>
+<node TEXT="* metal = high, ringy" ID="ID_1018829769" CREATED="1440663253143" MODIFIED="1440663259650"/>
+<node TEXT="moan" ID="ID_261485566" CREATED="1440663281478" MODIFIED="1440663285233">
+<node TEXT="is female" ID="ID_501228956" CREATED="1440663290406" MODIFIED="1440663292537"/>
+</node>
+<node TEXT="monsterb:4 = human growl" ID="ID_994463270" CREATED="1440663337837" MODIFIED="1440663347425"/>
+</node>
+<node TEXT="3" ID="ID_1340210667" CREATED="1440706486275" MODIFIED="1440706486558">
+<node TEXT="* moog = thick sus" ID="ID_1169979042" CREATED="1440663376421" MODIFIED="1440663385280"/>
+<node TEXT="mp3 = 2 noise, 2 pitched noise" ID="ID_39532213" CREATED="1440663427444" MODIFIED="1440663434791"/>
+<node TEXT="ht, lt, mt" ID="ID_1343998131" CREATED="1440663473274" MODIFIED="1440663475278"/>
+<node TEXT="mute = trumpet" ID="ID_8805693" CREATED="1440663500842" MODIFIED="1440663502765"/>
+<node TEXT="notes &amp; newnotes = sinus" ID="ID_1926101488" CREATED="1440663549962" MODIFIED="1440663616392"/>
+<node TEXT="noise2 = some good ones; white" ID="ID_1812206494" CREATED="1440663588723" MODIFIED="1440663598072"/>
+<node TEXT="numbers = female, digits" ID="ID_164396633" CREATED="1440663633271" MODIFIED="1440663638859"/>
+<node TEXT="oc = open hat?" ID="ID_1019910205" CREATED="1440663667239" MODIFIED="1440663670682"/>
+<node TEXT="odx = diverse" ID="ID_1237009383" CREATED="1440663683327" MODIFIED="1440663685610"/>
+<node TEXT="off = clippy square" ID="ID_1032898868" CREATED="1440663693831" MODIFIED="1440663705150"/>
+<node TEXT="* pad 0 = many voice, roughly same pitch" ID="ID_102085735" CREATED="1440663735190" MODIFIED="1440663748978"/>
+<node TEXT="* padlong" ID="ID_483890651" CREATED="1440663783341" MODIFIED="1440663786384"/>
+<node TEXT="pebbles = long gravel kicking sample" ID="ID_183763221" CREATED="1440663812796" MODIFIED="1440663818592"/>
+<node TEXT="perc = diverse" ID="ID_1602510272" CREATED="1440663840596" MODIFIED="1440663842480"/>
+<node TEXT="peri = harsh" ID="ID_593068931" CREATED="1440663884308" MODIFIED="1440663886935"/>
+<node TEXT="pluck = cello" ID="ID_347393756" CREATED="1440663922347" MODIFIED="1440663947455"/>
+<node TEXT="* print" ID="ID_1311260219" CREATED="1440663987961" MODIFIED="1440663989045"/>
+<node TEXT="* proc:1 = gritty pitched" ID="ID_856406076" CREATED="1440664038649" MODIFIED="1440664048484"/>
+<node TEXT="rave = party-ish vox" ID="ID_1177359131" CREATED="1440664188934" MODIFIED="1440664192633"/>
+<node TEXT="rave2:3 = buzz" ID="ID_1520172788" CREATED="1440664223261" MODIFIED="1440664228625"/>
+<node TEXT="* sax" ID="ID_1775718194" CREATED="1440664257148" MODIFIED="1440664259293"/>
+</node>
+<node TEXT="4" ID="ID_139890391" CREATED="1440706491276" MODIFIED="1440706491974">
+<node TEXT="* seawolf = attack + noise decay, echoey" ID="ID_800498039" CREATED="1440664288444" MODIFIED="1440664306106"/>
+<node TEXT="sequential = diverse electric perc" ID="ID_712902850" CREATED="1440664327075" MODIFIED="1440664333486"/>
+<node TEXT="sf= diverse electric perc" ID="ID_127493500" CREATED="1440664327075" MODIFIED="1440664374445"/>
+<node TEXT="* sheffield = swarm" ID="ID_964004213" CREATED="1440664388193" MODIFIED="1440664402908"/>
+<node TEXT="short = div elec perc" ID="ID_1386039764" CREATED="1440664419393" MODIFIED="1440664422972"/>
+<node TEXT="* sid = pitched | perc, various" ID="ID_1742996883" CREATED="1440664443464" MODIFIED="1440664466520"/>
+<node TEXT="** sine" ID="ID_782460819" CREATED="1440664498807" MODIFIED="1440664500483"/>
+<node TEXT="sitar" ID="ID_561961115" CREATED="1440664532998" MODIFIED="1440664533810"/>
+<node TEXT="speechless = funny vox" ID="ID_942087478" CREATED="1440664627660" MODIFIED="1440664637000"/>
+<node TEXT="stab = ballsy, gritty pitched" ID="ID_1288458304" CREATED="1440664684043" MODIFIED="1440664691534"/>
+<node TEXT="* subroc3d = cool sus elec" ID="ID_1445917279" CREATED="1440664762353" MODIFIED="1440664773460"/>
+<node TEXT="sugar = funny" ID="ID_1958994033" CREATED="1440664826712" MODIFIED="1440664828755"/>
+<node TEXT="* tabla" ID="ID_108897303" CREATED="1440664850239" MODIFIED="1440664851755"/>
+<node TEXT="tacscan = a lot of flight (airplane) noises, other cool noises" ID="ID_3265974" CREATED="1440664933613" MODIFIED="1440664963084"/>
+<node TEXT="* tink = delicate pitched" ID="ID_752385905" CREATED="1440664994708" MODIFIED="1440665013546"/>
+<node TEXT="* tok = rubbery perc" ID="ID_1084810931" CREATED="1440665006781" MODIFIED="1440665011450"/>
+<node TEXT="* toys" ID="ID_768287672" CREATED="1440665038803" MODIFIED="1440665040390"/>
+<node TEXT="* trump(et)" ID="ID_709642862" CREATED="1440665056707" MODIFIED="1440665058982"/>
+<node TEXT="* wind = elec wind" ID="ID_269860167" CREATED="1440665108482" MODIFIED="1440665111549"/>
+<node TEXT="* wobble = deep rumble" ID="ID_1476877927" CREATED="1440665118977" MODIFIED="1440665122812"/>
+</node>
+</node>
+<node TEXT="samples by family (accrete random)" ID="ID_602301063" CREATED="1442302748794" MODIFIED="1442302820030">
+<node TEXT="short buzz" ID="ID_970292448" CREATED="1442302755258" MODIFIED="1442302757633">
+<node TEXT="insect 0" ID="ID_30264380" CREATED="1442302758340" MODIFIED="1442302762629"/>
+</node>
+<node TEXT="high unpitched flutter" ID="ID_1616705066" CREATED="1442302769163" MODIFIED="1442302797374">
+<node TEXT="insect 1-2" ID="ID_15594649" CREATED="1442302781002" MODIFIED="1442302783383"/>
+</node>
+</node>
+<node TEXT="challenge" ID="ID_376769649" CREATED="1441758302232" MODIFIED="1441758350220">
+<node TEXT="make a drum kit in Haskell, not the  file browser" ID="ID_1469590694" CREATED="1441758308631" MODIFIED="1441758319075">
+<node TEXT="user writes a string like tidal pitch seq, plugs into a lookup func" ID="ID_1578650487" CREATED="1441758322000" MODIFIED="1441758344962"/>
+</node>
+</node>
+</node>
 <node TEXT="do-ish" ID="ID_1601810671" CREATED="1418796957467" MODIFIED="1418804745369">
 <font BOLD="true"/>
-<node TEXT="ask" ID="ID_932268641" CREATED="1442125028862" MODIFIED="1442125033455">
-<node TEXT="no intercalate string?" ID="ID_1884141014" CREATED="1442125065156" MODIFIED="1442125068166">
+<node TEXT="asking : run multiple lines" ID="ID_579470305" CREATED="1442303345139" MODIFIED="1442304780128">
+<node TEXT="tidal-run-line is for one-line commands" ID="ID_1471153501" CREATED="1442303573979" MODIFIED="1442303588597">
+<node TEXT="(define-key map [?\C-c ?\C-c] &apos;tidal-run-line)" ID="ID_652026577" CREATED="1442303572332" MODIFIED="1442303572332"/>
+<node TEXT="(defun tidal-run-line ()" ID="ID_286727742" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="&quot;Send the current line to the interpreter.&quot;" ID="ID_150126615" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(interactive)" ID="ID_800806219" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(tidal-get-now)" ID="ID_1815858190" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(let* ((s (buffer-substring (line-beginning-position)" ID="ID_177516530" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="(line-end-position)))" ID="ID_304202730" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(s* (if tidal-literate-p" ID="ID_1642702610" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="(tidal-unlit s)" ID="ID_613363391" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="s)))" ID="ID_762369890" CREATED="1442303464814" MODIFIED="1442303464814"/>
+</node>
+<node TEXT="(tidal-send-string s*))" ID="ID_1182255407" CREATED="1442303464814" MODIFIED="1442303464814"/>
+</node>
+<node TEXT="(pulse-momentary-highlight-one-line (point))" ID="ID_811558126" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(next-line)" ID="ID_1641263642" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT=")" ID="ID_1588336302" CREATED="1442303464814" MODIFIED="1442303464814"/>
+</node>
+</node>
+<node TEXT="tidal-run-multiple-lines is for one command" ID="ID_322274169" CREATED="1442303480995" MODIFIED="1442303508150">
+<node TEXT="two key bindings" ID="ID_202841383" CREATED="1442303493427" MODIFIED="1442303615662">
+<node TEXT="(define-key map [?\C-c ?\C-e] &apos;tidal-run-multiple-lines)" ID="ID_1461708355" CREATED="1442303489866" MODIFIED="1442303489866"/>
+<node TEXT="(define-key map (kbd &quot;&lt;C-return&gt;&quot;) &apos;tidal-run-multiple-lines)" ID="ID_1065652472" CREATED="1442303489866" MODIFIED="1442303489866"/>
+</node>
+<node TEXT="(defun tidal-run-multiple-lines ()" ID="ID_808572469" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="&quot;Send the current region to the interpreter as a single line.&quot;" ID="ID_1815698373" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(interactive)" ID="ID_1002921123" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(tidal-get-now)" ID="ID_731983937" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(save-excursion" ID="ID_133868488" CREATED="1442303464818" MODIFIED="1442303464818">
+<node TEXT="(mark-paragraph)" ID="ID_869541872" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(let* ((s (buffer-substring-no-properties (region-beginning)" ID="ID_1451771404" CREATED="1442303464818" MODIFIED="1442303464818">
+<node TEXT="(region-end)))" ID="ID_323056790" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(s* (if tidal-literate-p" ID="ID_260321230" CREATED="1442303464818" MODIFIED="1442303464818">
+<node TEXT="(tidal-unlit s)" ID="ID_1171348293" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="s)))" ID="ID_1748707290" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+<node TEXT="(tidal-send-string &quot;:{&quot;)" ID="ID_909368636" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(tidal-send-string s*)" ID="ID_422817170" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(tidal-send-string &quot;:}&quot;)" ID="ID_641963513" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(mark-paragraph)" ID="ID_1316452680" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(pulse-momentary-highlight-region (mark) (point))" ID="ID_168463162" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT=")" ID="ID_139859494" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT=";(tidal-send-string (replace-regexp-in-string &quot;\n&quot; &quot; &quot; s*))" ID="ID_292730379" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+<node TEXT=")" ID="ID_1179910916" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+<node TEXT=")" ID="ID_1873454630" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+</node>
+<node TEXT="tidal-run-region only runs the last" ID="ID_719487055" CREATED="1442303600899" MODIFIED="1442303608681">
+<node TEXT="(define-key map [?\C-c ?\C-r] &apos;tidal-run-region)" ID="ID_1687252113" CREATED="1442303367599" MODIFIED="1442303367599"/>
+<node TEXT="(defun tidal-run-region ()" ID="ID_1351405304" CREATED="1442303404223" MODIFIED="1442303404223">
+<node TEXT="&quot;Place the region in a do block and compile.&quot;" ID="ID_1563303140" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(interactive)" ID="ID_1298422923" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(tidal-transform-and-store" ID="ID_1882461481" CREATED="1442303404223" MODIFIED="1442303404223">
+<node TEXT="&quot;/tmp/tidal.hs&quot;" ID="ID_1695723549" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(buffer-substring-no-properties (region-beginning) (region-end)))" ID="ID_853043326" CREATED="1442303404223" MODIFIED="1442303404223"/>
+</node>
+<node TEXT="(tidal-send-string &quot;:load \&quot;/tmp/tidal.hs\&quot;&quot;)" ID="ID_1018757785" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(tidal-send-string &quot;main&quot;))" ID="ID_1873749803" CREATED="1442303404223" MODIFIED="1442303404223"/>
+</node>
+<node TEXT="error: &quot;save-current-buffer: Symbol&apos;s value as variable is void: tidal-modules&quot;" ID="ID_1909333049" CREATED="1442303892251" MODIFIED="1442304004510"/>
+</node>
+</node>
+<node TEXT="ask : no intercalate string?" ID="ID_1884141014" CREATED="1442125065156" MODIFIED="1442304782194">
 <node TEXT="this works in GHCI" ID="ID_965128741" CREATED="1442125034445" MODIFIED="1442125037457">
 <node TEXT="Prelude&gt; import Data.List&#xa;Prelude Data.List&gt; import Data.String&#xa;Prelude Data.List Data.String&gt; intercalate &quot; &quot; [&quot;word&quot;, &quot;salad&quot;]&#xa;&quot;word salad&quot;&#xa;Prelude Data.List Data.String&gt;" ID="ID_1326195276" CREATED="1442125039117" MODIFIED="1442125040092"/>
 </node>
 <node TEXT="but not in Tidal" ID="ID_1662851177" CREATED="1442125050006" MODIFIED="1442125052260">
 <node TEXT="v\tidal&gt;&#xa;tidal&gt; import Data.List&#xa;tidal&gt; import Data.String&#xa;tidal&gt; inercalate &quot; &quot; [&quot;word&quot;, &quot;salad&quot;]&#xa;&#xa;&lt;interactive&gt;:515:1:&#xa;    Not in scope: &#x2018;inercalate&#x2019;&#xa;    Perhaps you meant one of these:&#xa;      &#x2018;intercalate&#x2019; (imported from Sound.Tidal.Context),&#xa;      &#x2018;unintercalate&#x2019; (imported from Data.List.Split.Internals)&#xa;tidal&gt; intercalate &quot; &quot; [&quot;word&quot;,&quot;salad&quot;]&#xa;&#xa;&lt;interactive&gt;:516:1:&#xa;    No instance for (IsString [a0]) arising from a use of &#x2018;it&#x2019;&#xa;    The type variable &#x2018;a0&#x2019; is ambiguous&#xa;    Note: there is a potential instance available:&#xa;      instance IsString [Char] -- Defined in &#x2018;Data.String&#x2019;&#xa;    In the first argument of &#x2018;print&#x2019;, namely &#x2018;it&#x2019;&#xa;    In a stmt of an interactive GHCi command: print it&#xa;tidal&gt;" ID="ID_1925544469" CREATED="1442125053199" MODIFIED="1442125060343"/>
-</node>
 </node>
 </node>
 <node TEXT="read" ID="ID_1335460872" CREATED="1418848224962" MODIFIED="1418848225997">
@@ -18003,6 +18185,114 @@
 <node TEXT="d1 $ (brak (sound &quot;bd sn:2 bd sn&quot;))&#xa;   |+| pan ((*) &lt;$&gt; sinewave1 &lt;*&gt; (slow 8 $ &quot;0 0.25 0.75&quot;))" ID="ID_1625875798" CREATED="1441824855771" MODIFIED="1441824857691"/>
 </node>
 </node>
+<node TEXT="tidal" ID="ID_1953992637" CREATED="1441864390028" MODIFIED="1441864390914">
+<node TEXT="some time-related functions, mysterious" ID="ID_1862916275" CREATED="1441864391860" MODIFIED="1441870090905">
+<node TEXT="working mysterious; effect seems clear from type sig" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_752239706" CREATED="1441870116119" MODIFIED="1441870134458"/>
+<node TEXT="Tidal.Time" ID="ID_423540654" CREATED="1441868048446" MODIFIED="1441870107122">
+<node TEXT="sam :: Time -&gt; Time" ID="ID_1195049873" CREATED="1441864451532" MODIFIED="1441864452474"/>
+<node TEXT="nextSam :: Time -&gt; Time" ID="ID_1886494681" CREATED="1441864440988" MODIFIED="1441864441818"/>
+<node TEXT="cyclePos :: Time -&gt; Time" ID="ID_412838566" CREATED="1441864448972" MODIFIED="1441864449971"/>
+</node>
+<node TEXT="Tidal.Stream.doAt" ID="ID_239636459" CREATED="1441868070935" MODIFIED="1441870103826">
+<node TEXT="doAt :: RealFrac s =&gt; s -&gt; IO () -&gt; IO ()" ID="ID_796711414" CREATED="1441868075166" MODIFIED="1441868075837"/>
+<node TEXT="uses Date.Time.getCurrentTime" ID="ID_68602424" CREATED="1441868315591" MODIFIED="1441870099086"/>
+</node>
+</node>
+<node TEXT="~ is pause" ID="ID_503507485" CREATED="1441870140407" MODIFIED="1441870142293"/>
+<node TEXT="&lt;-&gt; (?= prorate) =$ apply melody to rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_688104434" CREATED="1441874970923" MODIFIED="1441875717110">
+<node TEXT="quoting Lurk/Tidal, thread &quot;MIDI numbers easy system&quot;" ID="ID_846533568" CREATED="1441874980635" MODIFIED="1441875000649"/>
+<node TEXT="This also works nicely with the new prorate functions:&#xa;&#xa;k1 $ note (&quot;1 ~ [1 1] 1&quot; &lt;~&gt; ((+59) &lt;$&gt; (run 12)))&#xa;&#xa;Which applies the melody to the given rhythm." ID="ID_478717373" CREATED="1441874978794" MODIFIED="1441874979561"/>
+<node TEXT="... Mike,&#xa;&#xa; &lt;~&gt; is a shorthand syntax for preplace (1,1) so it assumes each pattern is one cycle long. So if you are using &quot;every 3&quot; you&apos;d want to use preplace (1,3) to make the rhythm pattern be applied over the cycles of the value pattern to make your &quot;change&quot; appear. Otherwise" ID="ID_1109800567" CREATED="1441875473227" MODIFIED="1441875475794"/>
+</node>
+<node TEXT="thread &quot;checking the time and scheduling in advance&quot;" ID="ID_1379763478" CREATED="1441914171354" MODIFIED="1441914177759"/>
+<node TEXT="tidal is in logic.mm, mus, where, git/{art, fresh, info}" ID="ID_1091797927" CREATED="1441909997612" MODIFIED="1441910038414"/>
+<node TEXT="tidal: markov chains?" ID="ID_1861545630" CREATED="1441852510493" MODIFIED="1441852513988">
+<node TEXT="random numbers?" ID="ID_442587779" CREATED="1441852526709" MODIFIED="1441852529220"/>
+</node>
+</node>
+<node TEXT="sounds I like" ID="ID_794323897" CREATED="1418803654933" MODIFIED="1418803656518">
+<node TEXT="striate" ID="ID_605700144" CREATED="1417909176254" MODIFIED="1417909177825">
+<node TEXT="d1 $ striate 3 $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_234478103" CREATED="1417909184037" MODIFIED="1417909184657"/>
+</node>
+<node TEXT="samples" ID="ID_1868619755" CREATED="1414545351848" MODIFIED="1418803663248">
+<font BOLD="false"/>
+<node TEXT="feel/sub" ID="ID_1018351101" CREATED="1414545355480" MODIFIED="1414545529091">
+<node TEXT="how to represent?" ID="ID_693099839" CREATED="1414545529349" MODIFIED="1414545531320"/>
+</node>
+<node TEXT="bleep/{bleep boip breathy-blip}={4-6}" ID="ID_1214852578" CREATED="1417847304016" MODIFIED="1417847377667">
+<node TEXT="that is, the folder and file have the same name" ID="ID_1482636579" CREATED="1417847320392" MODIFIED="1417847325396"/>
+</node>
+<node TEXT="d1 $ sound &quot;arpy arp feel*4 arpy*4&quot;" ID="ID_113612791" CREATED="1417905494079" MODIFIED="1417905494516"/>
+</node>
+</node>
+<node TEXT="tidal" ID="ID_1580842035" CREATED="1440655713209" MODIFIED="1440655714100">
+<node TEXT="melody, duration: use monopph cut groups" ID="ID_1378132513" CREATED="1440884770612" MODIFIED="1440884770612">
+<node TEXT="tidal sample duration problem ?solved : one waveform file, unnecj long (5s?), with choke*; use amplitude also. choke implies monophonic voices" ID="ID_353639670" CREATED="1440884770613" MODIFIED="1440884770613">
+<node TEXT="* choke = cut group" ID="ID_1711848491" CREATED="1440884770613" MODIFIED="1440884770613"/>
+<node TEXT="choke prev sample, avoid overlap notes" ID="ID_1566734493" CREATED="1440884770613" MODIFIED="1440884770613"/>
+</node>
+</node>
+<node TEXT="investigate : Pattern, OscPattern" ID="ID_759683431" CREATED="1441518570455" MODIFIED="1441518599094"/>
+<node TEXT="?s" ID="ID_284484712" CREATED="1440718083515" MODIFIED="1440718084158">
+<node TEXT="show current cycle number, position (within)" ID="ID_1006628836" CREATED="1441699306789" MODIFIED="1441699321682"/>
+<node TEXT="Pattern a -&gt; Pattern b" ID="ID_1961606630" CREATED="1441699295012" MODIFIED="1441699306439"/>
+<node TEXT="* how to retrieve the string expressions" ID="ID_1993159440" CREATED="1440756324918" MODIFIED="1440988654099">
+<node TEXT="when asking this, relate it to the question I already asked, about overlap" ID="ID_424798592" CREATED="1440988655096" MODIFIED="1440988668075"/>
+</node>
+<node TEXT="in |+| up &quot;0 4 7 4&quot; why are the overlapping tones of different pitch? does the pitch instruction take effect at the start of the note and the note stops listening to pitch info after? is this related to how event has two arcs?" ID="ID_1583808494" CREATED="1440884770612" MODIFIED="1440884770612"/>
+<node TEXT="* why does Event have two Arcs" ID="ID_1101644859" CREATED="1440757478608" MODIFIED="1440757493427"/>
+<node TEXT="addressing samples, waveforms" ID="ID_682851635" CREATED="1440961613626" MODIFIED="1440961624475">
+<font BOLD="true"/>
+<node TEXT="? how to address sample subfolder" ID="ID_1590230117" CREATED="1440658717197" MODIFIED="1440658730615"/>
+<node TEXT="? how to address nth sample by alphabetical order" ID="ID_1177127591" CREATED="1440659048171" MODIFIED="1440659056247"/>
+<node TEXT="how to evaluate a sinewave at, say, 45 degrees" ID="ID_743131421" CREATED="1440718086739" MODIFIED="1440718098478"/>
+</node>
+<node TEXT="my rig" ID="ID_805910524" CREATED="1440961563811" MODIFIED="1440961572410">
+<font BOLD="true"/>
+<node TEXT="? how to eval across multiple lines" ID="ID_61504377" CREATED="1440657063414" MODIFIED="1440657076521"/>
+<node TEXT="? how to install haskell-mode" ID="ID_1325224749" CREATED="1440658255549" MODIFIED="1440658260397">
+<node TEXT="without it, every time I insert a newline it says &quot;what is haskell-mode?&quot;" ID="ID_639563746" CREATED="1440658325996" MODIFIED="1440658336575"/>
+</node>
+</node>
+</node>
+<node TEXT="resources|how" ID="ID_346205192" CREATED="1440884819225" MODIFIED="1440884849143">
+<font BOLD="true"/>
+<node TEXT="supercollider &amp; mac" ID="ID_1646482763" CREATED="1440708442105" MODIFIED="1440708452501">
+<node TEXT="http://lurk.org/groups/tidal/messages/topic/3iBz4a0O1TQ1GM0UDQQfG0" ID="ID_541945897" CREATED="1440708447192" MODIFIED="1440708447193" LINK="http://lurk.org/groups/tidal/messages/topic/3iBz4a0O1TQ1GM0UDQQfG0"/>
+</node>
+<node TEXT="simultaneity" ID="ID_1920623381" CREATED="1440655611193" MODIFIED="1440655697696">
+<node TEXT="d1 $ stack [&#xa;  sound &quot;bd bd*2&quot;,&#xa;  sound &quot;hh*2 [sn cp] cp future*4&quot;,&#xa;  sound (samples &quot;arpy*8&quot;, (run 16))&#xa;]" ID="ID_641204390" CREATED="1440655700090" MODIFIED="1440655701125"/>
+</node>
+<node TEXT="* Pattern manip" ID="ID_1128197862" CREATED="1440713334962" MODIFIED="1440714091262">
+<node TEXT="append" ID="ID_1067046501" CREATED="1440713340306" MODIFIED="1440713357125">
+<node TEXT="append :: Pattern a -&gt; Pattern a -&gt; Pattern a&#xa;append a b = cat [a,b]" ID="ID_1077338993" CREATED="1440713358689" MODIFIED="1440713361905"/>
+<node TEXT="append&apos; :: Pattern a -&gt; Pattern a -&gt; Pattern a&#xa;append&apos; a b  = slow 2 $ cat [a,b]" ID="ID_1211933597" CREATED="1440713370224" MODIFIED="1440713371284">
+<node TEXT="so that they take two cycles, not one" ID="ID_1822409017" CREATED="1440713373873" MODIFIED="1440713379932"/>
+</node>
+</node>
+<node TEXT="* density | slow : allows non-uniform cyc lengths across dN voices" ID="ID_1037544801" CREATED="1440713996372" MODIFIED="1440714076136">
+<node TEXT=". for N some integer" ID="ID_1785741377" CREATED="1440714022556" MODIFIED="1440714025791"/>
+</node>
+<node TEXT="* &lt;- and -&gt;" ID="ID_802465734" CREATED="1440714094938" MODIFIED="1440714098973"/>
+<node TEXT="* -&gt;&gt; and &lt;&lt;- rotate by events, not time" ID="ID_465502509" CREATED="1440718596945" MODIFIED="1440718619110"/>
+<node TEXT="playWhen" ID="ID_1825637908" CREATED="1440717718426" MODIFIED="1440717721614"/>
+</node>
+<node TEXT="* Pattern gen" ID="ID_1994901083" CREATED="1440717973869" MODIFIED="1440717977392">
+<node TEXT="sinewave, sinewave1 = sine, sine1" ID="ID_341789749" CREATED="1440717978732" MODIFIED="1440718029354">
+<node TEXT="the latter is from [0,1] rather than [-1,1]" ID="ID_751962515" CREATED="1440717984501" MODIFIED="1440717991640"/>
+</node>
+<node TEXT="sineAmp n = sine1 + n" ID="ID_952146389" CREATED="1440718049584" MODIFIED="1440718056846"/>
+<node TEXT="saw, tri, square : like sine" ID="ID_1130738761" CREATED="1440718115978" MODIFIED="1440718135277"/>
+<node TEXT="envL = ramps 0 to 1, then stays at 1 for future cycles" ID="ID_1621514220" CREATED="1440718202625" MODIFIED="1440718216603"/>
+</node>
+<node TEXT="* groupByTime" ID="ID_746540709" CREATED="1440756963679" MODIFIED="1440756968026"/>
+<node TEXT="zoom &amp; compress  :: Arc -&gt; Pattern a -&gt; Pattern a" ID="ID_1230139280" CREATED="1440757011137" MODIFIED="1440757023148"/>
+<node TEXT="preplace ?" ID="ID_1077425706" CREATED="1440757210274" MODIFIED="1440757215752">
+<node TEXT="&#xa;@preplace (blen, plen) beats values@ combines the timing of @beats@ with the values&#xa;of @values@. Other ways of saying this are:&#xa;* sequential convolution&#xa;* @values@ quantized to @beats@.&#xa;&#xa;Examples:&#xa;@&#xa;d1 $ sound $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ preplace (1,1) &quot;x(3,8)&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ &quot;x(3,8)&quot; &lt;~&gt; &quot;bd sn&quot;&#xa;d1 $ sound &quot;[jvbass jvbass:5]*3&quot; |+| (shape $ &quot;1 1 1 1 1&quot; &lt;~&gt; &quot;0.2 0.9&quot;)&#xa;@" ID="ID_197038780" CREATED="1440757219028" MODIFIED="1440757220040"/>
+</node>
+<node TEXT="discretize" ID="ID_911906734" CREATED="1440757242581" MODIFIED="1440757244056"/>
+</node>
+</node>
 </node>
 <node TEXT="saved beats" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1229557733" CREATED="1442128899191" MODIFIED="1442129087354">
 <node TEXT="spacing herein important" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1641672905" CREATED="1442129163938" MODIFIED="1442129167906">
@@ -18047,32 +18337,87 @@
 </node>
 <node TEXT="more problems too" ID="ID_1540271351" CREATED="1441394423619" MODIFIED="1441394435488"/>
 </node>
-<node TEXT="Emacs" ID="ID_948194478" CREATED="1418797043898" MODIFIED="1441824844606">
+<node TEXT="Emacs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948194478" CREATED="1418797043898" MODIFIED="1442301918945">
 <node TEXT=".= Tidal/Emacs" ID="ID_638494108" CREATED="1418848240427" MODIFIED="1418848243167"/>
-<node TEXT="to stop cursor jumping after eval" ID="ID_182106053" CREATED="1415135559506" MODIFIED="1415151406876">
+<node TEXT="to stop cursor jumping after eval" LOCALIZED_STYLE_REF="default" ID="ID_182106053" CREATED="1415135559506" MODIFIED="1442340761918">
 <node TEXT="In &quot;tidal.el&quot; there is a function &quot;tidal-run-line&quot;, which is what&apos;s actually happening when you hit &quot;C-c C-c&quot;.  The last line of the function is &quot;(next-line)&quot;, you can just delete it (or comment it out), and the next time you start Emacs things should behave the way you want." ID="ID_161180168" CREATED="1415135567706" MODIFIED="1415135567989"/>
 </node>
-</node>
-<node TEXT="sounds I like" ID="ID_794323897" CREATED="1418803654933" MODIFIED="1418803656518">
-<node TEXT="striate" ID="ID_605700144" CREATED="1417909176254" MODIFIED="1417909177825">
-<node TEXT="d1 $ striate 3 $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_234478103" CREATED="1417909184037" MODIFIED="1417909184657"/>
-</node>
-<node TEXT="samples" ID="ID_1868619755" CREATED="1414545351848" MODIFIED="1418803663248">
-<font BOLD="false"/>
-<node TEXT="feel/sub" ID="ID_1018351101" CREATED="1414545355480" MODIFIED="1414545529091">
-<node TEXT="how to represent?" ID="ID_693099839" CREATED="1414545529349" MODIFIED="1414545531320"/>
-</node>
-<node TEXT="bleep/{bleep boip breathy-blip}={4-6}" ID="ID_1214852578" CREATED="1417847304016" MODIFIED="1417847377667">
-<node TEXT="that is, the folder and file have the same name" ID="ID_1482636579" CREATED="1417847320392" MODIFIED="1417847325396"/>
-</node>
-<node TEXT="d1 $ sound &quot;arpy arp feel*4 arpy*4&quot;" ID="ID_113612791" CREATED="1417905494079" MODIFIED="1417905494516"/>
+<node TEXT="run multiple lines separately" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1559297030" CREATED="1442340750575" MODIFIED="1442340760370">
+<node TEXT="wants them all grouped, no spaces between" ID="ID_689884373" CREATED="1442340763710" MODIFIED="1442340775653"/>
+<node TEXT="does not need them highlighted; just put the cursor in them" ID="ID_1354546073" CREATED="1442340773039" MODIFIED="1442340782501"/>
+<node TEXT="they must all be one-liners" ID="ID_615957359" CREATED="1442340782743" MODIFIED="1442340788285"/>
 </node>
 </node>
-<node TEXT="u" ID="ID_1123385818" CREATED="1442126771797" MODIFIED="1442126772424">
+<node TEXT="mus codg" ID="ID_1034836544" CREATED="1441923781633" MODIFIED="1441923792226">
+<font BOLD="true"/>
 <node TEXT="append&apos; preserves duration" ID="ID_1253390046" CREATED="1442126773312" MODIFIED="1442126773312"/>
+<node TEXT="partial rotations of (3+) in Z8" ID="ID_738040469" CREATED="1441851364781" MODIFIED="1441851747262">
+<node TEXT="1 4 . 2 5 . 3 6 ." ID="ID_1237776695" CREATED="1441851481173" MODIFIED="1441851542460"/>
+<node TEXT="0 1 2 3 4 5 6 7&#xa;1 4 7 2 5 8 3 6" ID="ID_1630087413" CREATED="1441851542980" MODIFIED="1441851623333">
+<node TEXT="1 . . 2 . . 3 ." ID="ID_178920728" CREATED="1441851542980" MODIFIED="1441851653403"/>
+<node TEXT="1 4 . 2 5 . 3 ." ID="ID_1472651953" CREATED="1441851542980" MODIFIED="1441851642866"/>
+</node>
+<node TEXT="3 params: Z_, duration, iterations" ID="ID_1158026140" CREATED="1441851686909" MODIFIED="1441851706090">
+<node TEXT="Z_ = meter duration, duration = note duration" ID="ID_411953042" CREATED="1441851715957" MODIFIED="1441851723532"/>
 </node>
 </node>
-<node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1409708369930">
+<node TEXT="how hide|stretch|rotate energy peaks while live-coding" ID="ID_566060824" CREATED="1441851820690" MODIFIED="1441851838228">
+<node TEXT="rotate, group mult changes so that, e.g., what would have been straight up becomes diagonal" ID="ID_1379672189" CREATED="1441851838998" MODIFIED="1441851853920"/>
+</node>
+<node TEXT="mus cod &amp; .mm" ID="ID_519084170" CREATED="1441923245870" MODIFIED="1441923255027">
+<font BOLD="true"/>
+<node TEXT="elec vox random graph traverse" ID="ID_1154442939" CREATED="1441852930398" MODIFIED="1441852946768">
+<node ID="ID_885958717" CREATED="1441852947202" MODIFIED="1441852947202"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      speak-n-spell
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="attach musical moods to graph regions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1811642355" CREATED="1441852965989" MODIFIED="1441852972305"/>
+</node>
+<node TEXT="execute code block :tidal emacs" ID="ID_819949276" CREATED="1441855182019" MODIFIED="1441855190355">
+<node TEXT="needed the phrase to google" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1072857861" CREATED="1441855201719" MODIFIED="1441855206346"/>
+</node>
+<node TEXT="why can&apos;t I dollar these parens?" ID="ID_1251618624" CREATED="1441761070906" MODIFIED="1441761075038">
+<node TEXT="d3 $ (0.8 &lt;~) $ density 2 $ sound &quot;bleep:1*4&quot; |+| (p $ (+10) &lt;$&gt; &quot;0 36 18 31&quot;)" ID="ID_655768521" CREATED="1441761069898" MODIFIED="1441761069898"/>
+</node>
+</node>
+<node TEXT="things I could fix" ID="ID_1294652366" CREATED="1442303777587" MODIFIED="1442303779841">
+<node TEXT="eval multi-line string literal fails; can&apos;t recog \n. tell it to treat that as another char." ID="ID_1492619618" CREATED="1442303780512" MODIFIED="1442303800793"/>
+</node>
+<node TEXT="comma in [] for simult" ID="ID_1821293072" CREATED="1442304903339" MODIFIED="1442304917680"/>
+<node TEXT="? how are {} polyrhythms repd" ID="ID_232533220" CREATED="1442305240227" MODIFIED="1442305247898">
+<node TEXT="sound &quot;{bd ht ~, insect cp cp cp}&quot;" ID="ID_756036036" CREATED="1442305248472" MODIFIED="1442305248472">
+<node TEXT="renders this (except as a single line)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_976134691" CREATED="1442305248472" MODIFIED="1442305253535"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))] 0 1/3)" ID="ID_1035894071" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;ht&quot;}))] 1/3 2/3)" ID="ID_476463420" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;insect&quot;}))] 0 1/3)" ID="ID_368202094" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;cp&quot;}))] 1/3 2/3)" ID="ID_671360398" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;cp&quot;}))] 2/3 1)" ID="ID_1432765117" CREATED="1442305248472" MODIFIED="1442305248472"/>
+</node>
+<node TEXT="what&apos;s displayed there is not enough information to construct its behavior -- it omits that the length of the cycle the first two notes are in is shorter (3/4 as long)" ID="ID_790730497" CREATED="1442305257459" MODIFIED="1442305298570"/>
+</node>
+<node TEXT="* and /" ID="ID_1244304203" CREATED="1442371399142" MODIFIED="1442371408437"/>
+<node TEXT="the numberic pair argument to preplace seems to do nothing" ID="ID_788442259" CREATED="1442372963582" MODIFIED="1442372972829">
+<node TEXT="d1 $ sound $ preplace (1,4) &quot;x [~ x] x&quot; &quot;bd sn&quot;" ID="ID_1643279709" CREATED="1442372979262" MODIFIED="1442372979262"/>
+</node>
+<node TEXT="bugs" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1312081489" CREATED="1442371496726" MODIFIED="1442371499330">
+<node TEXT="d1 $ sound &quot;if*2 bd/2&quot;" ID="ID_1776452371" CREATED="1442371500357" MODIFIED="1442371500357">
+<node TEXT="plays &quot;if if bd ~ if if ~ ~&quot;" ID="ID_291526261" CREATED="1442371505830" MODIFIED="1442371521453"/>
+</node>
+</node>
+</node>
+<node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1442345371870">
+<font SIZE="14"/>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="haskell-supercollider" ID="ID_539639786" CREATED="1416678098434" MODIFIED="1418783304549">
 <node ID="ID_912867391" CREATED="1418783304793" MODIFIED="1418783304793"><richcontent TYPE="NODE">

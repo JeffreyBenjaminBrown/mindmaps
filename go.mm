@@ -757,6 +757,10 @@
 <node TEXT="simply by recogg the power and joy of peace, one gains it, because behaving and thinking that way becomes what one wants" ID="ID_1935266803" CREATED="1440194605548" MODIFIED="1440194647824"/>
 </node>
 </node>
+<node TEXT="approach" ID="ID_680661125" CREATED="1442264173948" MODIFIED="1442264175594">
+<node TEXT="~ icebreaker" ID="ID_1326129572" CREATED="1442264176195" MODIFIED="1442264180051"/>
+<node TEXT="ask who about who" LOCALIZED_STYLE_REF="default" ID="ID_558058587" CREATED="1438132104562" MODIFIED="1442264190135"/>
+</node>
 <node TEXT="rhythm" ID="ID_1007354289" CREATED="1428897063776" MODIFIED="1437258944247">
 <font BOLD="true"/>
 <node TEXT="&lt;- feng + rhythm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_667429848" CREATED="1438131536585" MODIFIED="1438142929209">
