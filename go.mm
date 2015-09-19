@@ -284,6 +284,10 @@
 <node TEXT="scandal for viral" ID="ID_716512608" CREATED="1438147140141" MODIFIED="1438147154411">
 <node TEXT="To make popular, reveal on the .md page(s) that I write about marij, sex, fantasy, etc." LOCALIZED_STYLE_REF="default" ID="ID_158642691" CREATED="1438059126626" MODIFIED="1438147139747"/>
 </node>
+<node TEXT="8 13" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_579530591" CREATED="1442641064527" MODIFIED="1442641078853"/>
+<node TEXT="&amp; perfect truth comedy action" ID="ID_1388940671" CREATED="1442640914079" MODIFIED="1442640925409">
+<node TEXT="tell truth, tell time; all you have to do, it&apos;s funny, perfect" ID="ID_1837560603" CREATED="1439534130127" MODIFIED="1439534140452"/>
+</node>
 </node>
 <node TEXT="real : distant act" ID="ID_177517417" CREATED="1437249925355" MODIFIED="1437259708127">
 <node TEXT="= action at a distance" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_716234217" CREATED="1437249949203" MODIFIED="1437251217298"/>

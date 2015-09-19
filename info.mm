@@ -331,7 +331,10 @@
 </node>
 <node TEXT="? power (new!)" ID="ID_243784113" CREATED="1442617450674" MODIFIED="1442617498900">
 <font BOLD="true"/>
-<node TEXT="silence ~ punish" ID="ID_1464550209" CREATED="1442617426065" MODIFIED="1442617430440">
+<node TEXT="power ~ evolution, game equilib" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_730955564" CREATED="1442632570138" MODIFIED="1442632612576">
+<node TEXT="how a conversation, party-night develops" ID="ID_779967688" CREATED="1442632593970" MODIFIED="1442632609875"/>
+</node>
+<node TEXT="silence|mute ~ punish" ID="ID_1464550209" CREATED="1442617426065" MODIFIED="1442641231252">
 <node TEXT="&quot;those bad things deserve the &apos;punishment&apos; of having no consequences.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1514672025" CREATED="1438649976908" MODIFIED="1438715731484">
 <font BOLD="false"/>
 <node TEXT="\do not record" ID="ID_1125830992" CREATED="1438649988764" MODIFIED="1438649992077"/>
@@ -373,6 +376,111 @@
 <node TEXT="@ silence/restraint" ID="ID_430969275" CREATED="1438576785707" MODIFIED="1438576791617">
 <node TEXT="don&apos;t say $ thanks for not _" ID="ID_709752680" CREATED="1438566023213" MODIFIED="1438576742494"/>
 </node>
+</node>
+<node TEXT="surprise @ familiar" ID="ID_1802303202" CREATED="1442617860130" MODIFIED="1442617864353">
+<node TEXT="&quot;It sounds stupid and it&apos;s true!&quot;" ID="ID_438135098" CREATED="1438731171712" MODIFIED="1438731197045">
+<node TEXT="dare to really consider $ something that already feels ?familiar" ID="ID_925292507" CREATED="1438731201624" MODIFIED="1438731276484"/>
+</node>
+</node>
+<node TEXT="node node" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1414375028" CREATED="1438907511937" MODIFIED="1438907513803">
+<node TEXT="acoustics, graph" ID="ID_402281907" CREATED="1438907515017" MODIFIED="1438907518830"/>
+<node TEXT="looks like a thing, then vanishes as a result of external changes, waves misaligning so they no longer sum to something there" ID="ID_173881412" CREATED="1438907532201" MODIFIED="1438907571570"/>
+</node>
+<node TEXT="meme war : fire, music" ID="ID_1792471833" CREATED="1442620101475" MODIFIED="1442620137806">
+<node TEXT="fight a fire with music, like a news agency or tastemaker" ID="ID_1595583476" CREATED="1438833737327" MODIFIED="1442620079368"/>
+</node>
+<node TEXT="moment of truth|proof" ID="ID_925232979" CREATED="1439345386546" MODIFIED="1439345389635"/>
+<node TEXT="sancti ~ sover" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1742456286" CREATED="1442621931836" MODIFIED="1442621943700"/>
+<node TEXT="pain += fast" ID="ID_676273262" CREATED="1442621968924" MODIFIED="1442621984207">
+<node TEXT="&quot;pain is information rushing in to fill a gap. when you stub your toe, [that&apos;s what that is]&quot;" ID="ID_1170806569" CREATED="1439362799370" MODIFIED="1439362994355">
+<node TEXT="seinfeld" ID="ID_1686946319" CREATED="1439362808514" MODIFIED="1439362809670"/>
+</node>
+</node>
+<node TEXT="&quot;how is that good timing?&quot;" ID="ID_323146214" CREATED="1439363493526" MODIFIED="1439363498586">
+<node TEXT="assumption that miracle is ubiq" ID="ID_1485214479" CREATED="1439363499217" MODIFIED="1442622060431"/>
+</node>
+<node TEXT="negative part as rhyme" ID="ID_481076432" CREATED="1439428698862" MODIFIED="1439452216952"/>
+<node TEXT="belong ! tree" ID="ID_1148069800" CREATED="1439428869430" MODIFIED="1439452266364">
+<node TEXT="asymm belonging : parent is child&apos;s only, not necj reverse" ID="ID_1382408876" CREATED="1439452289286" MODIFIED="1439452329626"/>
+</node>
+<node TEXT="negative as?fold" ID="ID_1778159208" CREATED="1439505995273" MODIFIED="1442632366388">
+<node ID="ID_1581316538" CREATED="1442632366756" MODIFIED="1442632366756"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      to enclose its referent in a space|structure
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="change of subject ~ ?ulatimate justice" ID="ID_1369551204" CREATED="1439507018474" MODIFIED="1439583873756">
+<node TEXT="\comedy" ID="ID_334415009" CREATED="1439583891924" MODIFIED="1439583894627"/>
+</node>
+<node ID="ID_1303932299" CREATED="1439526015533" MODIFIED="1439526028374"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      power ? hard to reverse
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="see &quot;transmen pretty&quot;, likely elsewhere" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1327228967" CREATED="1442633725163" MODIFIED="1442633734326"/>
+</node>
+<node TEXT="chaos &amp; life opporm irrespo" ID="ID_1185051612" CREATED="1442633946219" MODIFIED="1442633997229"/>
+<node TEXT="beware empty types" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1107778128" CREATED="1442634031764" MODIFIED="1442634046889">
+<node TEXT="even if a type is empty people use it -- e.g. can treat someone as a student though it is not right for them" ID="ID_1832233622" CREATED="1439531154923" MODIFIED="1439531170608"/>
+</node>
+<node TEXT="&amp; herald cause remind" ID="ID_782569024" CREATED="1442643488418" MODIFIED="1442643494653">
+<node TEXT="not exactly that you caused it, ?heralded, but you reminded ?god" ID="ID_1080103010" CREATED="1439594509990" MODIFIED="1439594560357"/>
+<node TEXT="miracle until recog strateg" ID="ID_1067533934" CREATED="1442643502760" MODIFIED="1442643508502">
+<node TEXT="strateg when recog ag" ID="ID_674002524" CREATED="1442643512777" MODIFIED="1442643516782"/>
+</node>
+</node>
+<node TEXT="&quot;I won! Now let me out!&quot;" LOCALIZED_STYLE_REF="default" ID="ID_127697985" CREATED="1439608422795" MODIFIED="1442642899162">
+<node TEXT="~ ironic silence" ID="ID_152618472" CREATED="1442642460145" MODIFIED="1442642463343"/>
+</node>
+<node TEXT="neg as limit on power" LOCALIZED_STYLE_REF="default" ID="ID_1928242350" CREATED="1442642903777" MODIFIED="1442642924598">
+<node TEXT="&quot;yes but he cannot create, only destroy&quot;" LOCALIZED_STYLE_REF="default" ID="ID_614160380" CREATED="1439612204767" MODIFIED="1442642899165"/>
+</node>
+<node TEXT="effic chaos : respect all procs" ID="ID_934919716" CREATED="1442643605065" MODIFIED="1442643637715">
+<node TEXT="if I write a thing and don&apos;t know where it goes, then start reading through the places it could go, see what is natural. it is good work, and nearly the same work, so switching from the one task to the other [easy _]" ID="ID_1795024110" CREATED="1440128075816" MODIFIED="1440128119703"/>
+</node>
+<node TEXT="in-ag syner" ID="ID_260149967" CREATED="1442643839737" MODIFIED="1442643847290">
+<node TEXT="find a project that achieve mult goals" ID="ID_738926167" CREATED="1439767049814" MODIFIED="1439767060081">
+<node TEXT="find many such" ID="ID_236288231" CREATED="1439767060750" MODIFIED="1439767063116"/>
+</node>
+</node>
+<node TEXT="unframe" ID="ID_1146339045" CREATED="1439776059151" MODIFIED="1442645104944"/>
+<node TEXT="sleep ? negative" ID="ID_1429616181" CREATED="1439776284039" MODIFIED="1439776289341"/>
+<node TEXT="not handicapped by silence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_797381172" CREATED="1439783848871" MODIFIED="1442645771377">
+<font BOLD="false"/>
+</node>
+<node TEXT="print ~ try|use" ID="ID_1779045408" CREATED="1440129616402" MODIFIED="1442646116707">
+<node TEXT="print hype" ID="ID_1029997761" CREATED="1440129623896" MODIFIED="1440129626767"/>
+</node>
+<node TEXT="? power abuse, power crutch" ID="ID_1162443530" CREATED="1442646429026" MODIFIED="1442646478812">
+<node TEXT="does it resemble relying on [white, male, hetero] privilege to rely on [resource :: coding, money, networking] advantages" ID="ID_1770075014" CREATED="1440111141752" MODIFIED="1442646414719"/>
+</node>
+<node TEXT="recog a cost paid" ID="ID_632220872" CREATED="1442646742234" MODIFIED="1442646767349">
+<node TEXT="&quot;No, _ already got fucked up there for you!&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_192696805" CREATED="1440111914577" MODIFIED="1442646776891">
+<node TEXT="christ, power in recogg that a cost is paid" ID="ID_151820651" CREATED="1440193068228" MODIFIED="1440193077339">
+<node TEXT="is already" ID="ID_1742374862" CREATED="1440193085237" MODIFIED="1440193087290"/>
+</node>
+</node>
+</node>
+<node TEXT="justice, irony" ID="ID_1658414050" CREATED="1442646821779" MODIFIED="1442646840927">
+<node TEXT="to construct the idea of [gender] [for sex] and then regret it" ID="ID_560457857" CREATED="1440112542266" MODIFIED="1442646844940"/>
 </node>
 </node>
 <node TEXT="cyc (new!)" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_760793984" CREATED="1441942126514" MODIFIED="1441957908612">
