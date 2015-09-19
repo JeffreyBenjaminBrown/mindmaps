@@ -329,6 +329,52 @@
 </node>
 </node>
 </node>
+<node TEXT="? power (new!)" ID="ID_243784113" CREATED="1442617450674" MODIFIED="1442617498900">
+<font BOLD="true"/>
+<node TEXT="silence ~ punish" ID="ID_1464550209" CREATED="1442617426065" MODIFIED="1442617430440">
+<node TEXT="&quot;those bad things deserve the &apos;punishment&apos; of having no consequences.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1514672025" CREATED="1438649976908" MODIFIED="1438715731484">
+<font BOLD="false"/>
+<node TEXT="\do not record" ID="ID_1125830992" CREATED="1438649988764" MODIFIED="1438649992077"/>
+</node>
+</node>
+<node TEXT="work @ alone\silence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1272366489" CREATED="1438576576642" MODIFIED="1442615847576">
+<font BOLD="false"/>
+<node TEXT="~? group, 1 ag" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_187036514" CREATED="1442615940209" MODIFIED="1442616665059"/>
+<node TEXT="work @ be alone @ be without as frequent|any updates on _" ID="ID_1494722847" CREATED="1438498299688" MODIFIED="1438576566604">
+<node TEXT="down a mineshaft" ID="ID_843449111" CREATED="1438576567203" MODIFIED="1438576569897"/>
+</node>
+</node>
+<node TEXT="power @ silence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1287823213" CREATED="1438575485329" MODIFIED="1442615826944">
+<font BOLD="false"/>
+<node TEXT="~? group" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1390802301" CREATED="1442615940209" MODIFIED="1442616649216"/>
+<node TEXT="~? info sys" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_9176313" CREATED="1442615412729" MODIFIED="1442615418493"/>
+<node TEXT="@ silence/ignorance" ID="ID_1262579029" CREATED="1438576772106" MODIFIED="1438576776949">
+<node TEXT="what there is no time for is probably amazing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_394425042" CREATED="1438485001479" MODIFIED="1438575481866">
+<node TEXT="if you knew what everyone was capable of and how they were choosing other things" ID="ID_1994242118" CREATED="1438575448441" MODIFIED="1438575466057"/>
+</node>
+<node TEXT="[a thing chosen for its display effects] is the most _ _ imaginable, because you can&apos;t [hear] it" LOCALIZED_STYLE_REF="default" ID="ID_609289281" CREATED="1438485226236" MODIFIED="1438575687279">
+<node TEXT="? hear the details, but see faces talking, under conditions" ID="ID_37656114" CREATED="1438485273837" MODIFIED="1438485284079"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1947109144" CREATED="1438575681433" MODIFIED="1438575682910"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      jj abrams ted talk
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="@ silence/restraint" ID="ID_430969275" CREATED="1438576785707" MODIFIED="1438576791617">
+<node TEXT="don&apos;t say $ thanks for not _" ID="ID_709752680" CREATED="1438566023213" MODIFIED="1438576742494"/>
+</node>
+</node>
+</node>
 <node TEXT="cyc (new!)" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_760793984" CREATED="1441942126514" MODIFIED="1441957908612">
 <node TEXT="2015 09 10, only partially grep-collected" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1597969718" CREATED="1441957909873" MODIFIED="1441960169336">
 <node TEXT="cyc|circ|\Wloop|\Witer|repe|rotat|period|\Wseq|\Wseria|revol|chain|orbit" ID="ID_1613556284" CREATED="1441957921414" MODIFIED="1441958996615"/>

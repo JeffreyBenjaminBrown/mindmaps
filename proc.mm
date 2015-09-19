@@ -1134,6 +1134,9 @@
 <node TEXT="*as opposed to later" ID="ID_128828681" CREATED="1440215981348" MODIFIED="1440215984967"/>
 </node>
 </node>
+<node TEXT="fear of success =&gt; deflate E(chain reaction)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1735767417" CREATED="1442619101171" MODIFIED="1442619197062">
+<node TEXT="? for neutral, for motiv: do not ignore a task because|believing from its completion I will complete many others" ID="ID_424350525" CREATED="1438906043303" MODIFIED="1442619085428"/>
+</node>
 </node>
 <node TEXT="will" ID="ID_1020012862" CREATED="1426372556405" MODIFIED="1426372559080">
 <node TEXT="? why" ID="ID_1618551153" CREATED="1426372321350" MODIFIED="1426372337581">

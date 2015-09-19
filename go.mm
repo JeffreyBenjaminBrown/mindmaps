@@ -171,6 +171,7 @@
 <node TEXT="? can&apos;t sep info|proc" ID="ID_187124475" CREATED="1441411881526" MODIFIED="1441411886771">
 <node TEXT="can&apos;t | too costly" ID="ID_1416937483" CREATED="1441411897086" MODIFIED="1441411916628"/>
 </node>
+<node TEXT="together.mm" ID="ID_773771935" CREATED="1442519498481" MODIFIED="1442519501640"/>
 </node>
 <node TEXT="clarifications appear in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437272894602">
 <node TEXT="to clarify things I wrote short in the parent" ID="ID_1848181419" CREATED="1437250147899" MODIFIED="1437250162353"/>

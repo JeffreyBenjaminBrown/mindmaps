@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / art" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439319972126"><hook NAME="MapStyle" zoom="1.331">
+<node TEXT="git / art+" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1442519871022"><hook NAME="MapStyle" zoom="1.331">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -1016,6 +1016,22 @@
 <node TEXT="&quot;Door slowly closing ...&quot;" ID="ID_341095699" CREATED="1440537751465" MODIFIED="1440537758614"/>
 </node>
 </node>
+<node TEXT="mystery" POSITION="right" ID="ID_361048470" CREATED="1442617350351" MODIFIED="1442617351592">
+<node TEXT="? magic of another&apos;s _" LOCALIZED_STYLE_REF="default" ID="ID_1648249196" CREATED="1438649552587" MODIFIED="1442617353862">
+<node TEXT="magic of the unknown" ID="ID_467110421" CREATED="1438649558139" MODIFIED="1438649561761"/>
+<node TEXT="appreciation for money ~ appreciation for other, imagining how radically different something can be because it is someone else&apos;s story" ID="ID_1116302367" CREATED="1438649392291" MODIFIED="1438649419407"/>
+<node TEXT="while listening to them" ID="ID_751575147" CREATED="1438649420267" MODIFIED="1438649426567"/>
+<node TEXT="and their decision of how to present it" ID="ID_1435440463" CREATED="1438649436571" MODIFIED="1438649441401"/>
+<node TEXT="&quot;what they have&quot; is mysterious" ID="ID_565894971" CREATED="1438715709292" MODIFIED="1438715712946"/>
+<node TEXT="~ grass on other side of fence" ID="ID_720231562" CREATED="1438715713164" MODIFIED="1438715721450"/>
+</node>
+</node>
+<node TEXT="suspense" POSITION="right" ID="ID_1925391482" CREATED="1442519564906" MODIFIED="1442519566600">
+<node TEXT="&quot;since [time], [place] [pause] shit [starts over]&quot;" ID="ID_630629128" CREATED="1438211421076" MODIFIED="1442519536206">
+<node TEXT="nick offerman, white house corresp dinner" ID="ID_478908498" CREATED="1442519537426" MODIFIED="1442519546455"/>
+</node>
+<node TEXT="? news that sneaks up on you" ID="ID_975046419" CREATED="1438211568069" MODIFIED="1438211572064"/>
+</node>
 <node TEXT="music" POSITION="right" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
 <font BOLD="true"/>
 <node TEXT="cyc rep" LOCALIZED_STYLE_REF="default" ID="ID_676989560" CREATED="1434767807598" MODIFIED="1441961563216">
@@ -1855,6 +1871,16 @@
 </node>
 </node>
 </node>
+<node TEXT="relax &amp; aware" ID="ID_271979141" CREATED="1442519671210" MODIFIED="1442519673952">
+<node TEXT="was" ID="ID_1911333995" CREATED="1442519669465" MODIFIED="1442519669960">
+<node TEXT="relax eye, see shape before move to it" ID="ID_1043801003" CREATED="1438211881349" MODIFIED="1438211887579"/>
+</node>
+</node>
+</node>
+<node TEXT="action" POSITION="right" ID="ID_608190921" CREATED="1442617264513" MODIFIED="1442617384099">
+<node TEXT="wizard ~ gunslinger" ID="ID_522501596" CREATED="1438648690066" MODIFIED="1442617400184">
+<node TEXT="power slinger" ID="ID_1441223292" CREATED="1438648698346" MODIFIED="1438648700056"/>
+</node>
 </node>
 <node TEXT="art being|integ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_262668557" CREATED="1440539661057" MODIFIED="1440539707088">
 <font BOLD="false"/>
@@ -1919,6 +1945,9 @@
 <node TEXT="not organic ? performance absurd" ID="ID_1187185179" CREATED="1441387940818" MODIFIED="1441387948840">
 <node TEXT="if one disbelieves the organic hypothesis for conscious life and the creation of meaning, the idea of performance becomes absurd" ID="ID_1190957417" CREATED="1439369129727" MODIFIED="1441401574446"/>
 </node>
+</node>
+<node TEXT="wear green" POSITION="right" ID="ID_1569933311" CREATED="1438331558966" MODIFIED="1438457779874">
+<node TEXT="guessing at its average interpretation, use in statements" ID="ID_432039016" CREATED="1438331566910" MODIFIED="1438331577972"/>
 </node>
 </node>
 </map>
