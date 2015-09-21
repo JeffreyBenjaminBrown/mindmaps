@@ -14330,7 +14330,169 @@
 <node TEXT="G.Node s u t v -&gt; G.Index v v&apos; -&gt; tr s u t [G.Node s u t v&apos;]" ID="ID_196120532" CREATED="1432941862466" MODIFIED="1432941862466"/>
 </node>
 </node>
-<node TEXT="fgl - functional graph library" LOCALIZED_STYLE_REF="styles.topic" ID="ID_295423449" CREATED="1421528751058" MODIFIED="1422084530912"/>
+<node TEXT="FGL/" ID="ID_587886838" CREATED="1442785878861" MODIFIED="1442789636795">
+<node TEXT="?" ID="ID_1749504030" CREATED="1442800172003" MODIFIED="1442800173165">
+<node TEXT="find LNode by label" ID="ID_562974764" CREATED="1442800174829" MODIFIED="1442800197321"/>
+</node>
+<node TEXT="use" ID="ID_1141167127" CREATED="1442788809536" MODIFIED="1442788823980">
+<node TEXT="by name" ID="ID_1249474099" CREATED="1442788884639" MODIFIED="1442788889287">
+<node TEXT="the Decomp type" ID="ID_661740529" CREATED="1421649156344" MODIFIED="1421649159437">
+<node TEXT="in Data.Graph.Inductive.Graph" ID="ID_1065462260" CREATED="1421649162911" MODIFIED="1421649171269"/>
+</node>
+<node TEXT="? use fold, gfold" LOCALIZED_STYLE_REF="default" ID="ID_737246865" CREATED="1438850842445" MODIFIED="1438910343193">
+<node TEXT="gfold" ID="ID_1680735292" CREATED="1438910345244" MODIFIED="1438910346688">
+<node TEXT="source code" ID="ID_998649670" CREATED="1438850882436" MODIFIED="1438850884401">
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/src/Data-Graph-Inductive-Basic.html#gfold" ID="ID_265821076" CREATED="1438850857144" MODIFIED="1438850857144" LINK="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/src/Data-Graph-Inductive-Basic.html#gfold"/>
+<node TEXT="-- | Directed graph fold.&#xa;gfold :: (Graph gr) =&gt;   (Context a b -&gt; [Node])    -- ^ direction of fold&#xa;        -&gt; (Context a b -&gt; c -&gt; d)    -- ^ depth aggregation&#xa;        -&gt; (Maybe d -&gt; c -&gt; c, c)      -- ^ breadth\/level aggregation&#xa;        -&gt; [Node]&#xa;        -&gt; gr a b&#xa;        -&gt; c&#xa;gfold f d b l g = fst (gfoldn f d b l g)" ID="ID_590454330" CREATED="1438850846725" MODIFIED="1438850847734"/>
+</node>
+<node TEXT="it might say in the paper" ID="ID_1757313252" CREATED="1438850878734" MODIFIED="1438850881610"/>
+</node>
+<node TEXT="delNodes, uses foldl&apos;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1324215222" CREATED="1438849871012" MODIFIED="1438910358423">
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/src/Data-Graph-Inductive-Graph.html#delNode" ID="ID_1185817620" CREATED="1438849886474" MODIFIED="1438849886474" LINK="https://hackage.haskell.org/package/fgl-5.5.2.1/docs/src/Data-Graph-Inductive-Graph.html#delNode"/>
+<node ID="ID_194167626" CREATED="1438849873395" MODIFIED="1438849881806"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <pre http-equiv="content-type" style="letter-spacing: normal; text-indent: 0px; color: rgb(0, 0, 0); font-style: normal; word-spacing: 0px; line-height: normal; text-align: start; font-variant: normal; font-weight: normal; text-transform: none" content="text/html; charset=utf-8">-- | Remove multiple 'Node's from the 'Graph'.
+delNodes :: (Graph gr) =&gt; [Node] -&gt; gr a b -&gt; gr a b
+delNodes vs g = foldl' (snd .: flip match) g vs</pre>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="by operation" ID="ID_519798917" CREATED="1442788890771" MODIFIED="1442788892376">
+<node TEXT="add node to graph" ID="ID_1686288935" CREATED="1439150335338" MODIFIED="1439152018741">
+<node TEXT="insNode :: DynGraph gr =&gt; LNode a -&gt; gr a b -&gt; gr a b" ID="ID_1468837947" CREATED="1439151082324" MODIFIED="1439151083648"/>
+<node TEXT="insNodes :: DynGraph gr =&gt; [LNode a] -&gt; gr a b -&gt; gr a b" ID="ID_1802142914" CREATED="1439151291285" MODIFIED="1439151292307"/>
+</node>
+<node TEXT="change label of node in graph" ID="ID_1760605905" CREATED="1439152022283" MODIFIED="1439152255783">
+<node TEXT="use match and (&amp;)" ID="ID_1966180155" CREATED="1439151094332" MODIFIED="1439152027519"/>
+</node>
+<node TEXT="delete node from graph" ID="ID_1831039242" CREATED="1439151147844" MODIFIED="1439151155502">
+<node TEXT="delNode :: Graph gr =&gt; Node -&gt; gr a b -&gt; gr a b" ID="ID_297361601" CREATED="1439151151612" MODIFIED="1439151152779"/>
+<node TEXT="there&apos;s a fast way for plurals, too" ID="ID_930294772" CREATED="1439151363556" MODIFIED="1439151368171"/>
+</node>
+<node TEXT="add edge to graph" ID="ID_1109056168" CREATED="1439150351603" MODIFIED="1439150354657">
+<node TEXT="insEdge :: DynGraph gr =&gt; LEdge b -&gt; gr a b -&gt; gr a b" ID="ID_1048969566" CREATED="1439151115412" MODIFIED="1439151116617"/>
+<node TEXT="insEdges :: DynGraph gr =&gt; [LEdge b] -&gt; gr a b -&gt; gr a b" ID="ID_1819629719" CREATED="1439151272572" MODIFIED="1439151273563"/>
+</node>
+<node TEXT="change label of edge in graph" ID="ID_320716679" CREATED="1439152256762" MODIFIED="1439152260504">
+<node TEXT="could just delete and add again" ID="ID_259285915" CREATED="1439152268148" MODIFIED="1439152274076"/>
+</node>
+<node TEXT="delete edge from graph" ID="ID_350376603" CREATED="1439151162260" MODIFIED="1439151177366">
+<node TEXT="delNode :: Graph gr =&gt; Node -&gt; gr a b -&gt; gr a b" ID="ID_312691621" CREATED="1439151165252" MODIFIED="1439151171591"/>
+<node TEXT="there&apos;s a fast way for plurals, too" ID="ID_1714795124" CREATED="1439151363556" MODIFIED="1439151368171"/>
+</node>
+<node TEXT="get label at node, edge" ID="ID_1066526873" CREATED="1439150494851" MODIFIED="1439150499162">
+<node TEXT="edgeLabel :: LEdge b -&gt; b" ID="ID_686669911" CREATED="1439151020556" MODIFIED="1439151021347"/>
+<node TEXT="lab :: Graph gr =&gt; gr a b -&gt; Node -&gt; Maybe a" ID="ID_1260828140" CREATED="1439152483127" MODIFIED="1439152485628"/>
+</node>
+<node TEXT="lookup = lab" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1038191014" CREATED="1438909762268" MODIFIED="1442791735583">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1066526873" STARTINCLINATION="144;0;" ENDINCLINATION="144;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="get neighbors" ID="ID_413583720" CREATED="1439151525477" MODIFIED="1439151527601">
+<node TEXT="lsuc :: Graph gr =&gt; gr a b -&gt; Node -&gt; [(Node, b)]&#xa;lpre :: same" ID="ID_1975678770" CREATED="1439151529381" MODIFIED="1439151598291"/>
+<node TEXT="out :: Graph gr =&gt; gr a b -&gt; Node -&gt; [LEdge b]&#xa;inn :: same" ID="ID_1419749433" CREATED="1439151584461" MODIFIED="1439151594291"/>
+</node>
+<node TEXT="assignment|change label: seq( match, mod, &amp; )" LOCALIZED_STYLE_REF="default" ID="ID_1635343362" CREATED="1438909769780" MODIFIED="1442789242281">
+<node ID="ID_1790837165" CREATED="1438909797694" MODIFIED="1438909797694"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      match the node, then add it back to the rest of the graph (which is the other return value from the match) using &amp;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="&quot; The easiest way of changing the label of one node is to obtain its&#xa;Context using `match`, and update the label in the Context and then&#xa;put it back in the graph with (&amp;).&quot;" ID="ID_1450565154" CREATED="1442789191476" MODIFIED="1442789200295">
+<node ID="ID_1210609288" CREATED="1442789209681" MODIFIED="1442789214111"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <pre content="text/html; charset=utf-8" http-equiv="content-type" style="font-style: normal; text-indent: 0px; text-align: start; word-spacing: 0px; color: rgb(0, 0, 0); font-variant: normal; line-height: normal; text-transform: none; white-space: pre-wrap; letter-spacing: normal; font-weight: normal"><i>Ivan Lazar Miljenovic, Haskell-Cafe</i></pre>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="pattern matching" ID="ID_1010566090" CREATED="1442789328327" MODIFIED="1442789330688">
+<node TEXT="fgl: cannot pattern match on &amp;; rather, use isEmpty and matchAny" ID="ID_735579650" CREATED="1439232163480" MODIFIED="1439232190487"/>
+</node>
+</node>
+</node>
+<node TEXT="emul" ID="ID_1850338687" CREATED="1442788818387" MODIFIED="1442788819282">
+<node TEXT="can find FGL&apos;s reverse dependencies" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1862442968" CREATED="1439753605857" MODIFIED="1442789347854">
+<node TEXT="http://packdeps.haskellers.com/reverse/fgl" ID="ID_172286898" CREATED="1439753618869" MODIFIED="1439753618869" LINK="http://packdeps.haskellers.com/reverse/fgl"/>
+</node>
+<node TEXT="partial graph traversal" ID="ID_1579042159" CREATED="1439522086151" MODIFIED="1439522090529">
+<node TEXT="https://github.com/haskell/fgl/blob/master/fgl-arbitrary/test/TestSuite.hs#L50" ID="ID_184501666" CREATED="1439522088650" MODIFIED="1439522088650" LINK="https://github.com/haskell/fgl/blob/master/fgl-arbitrary/test/TestSuite.hs#L50"/>
+</node>
+</node>
+<node TEXT="implem" ID="ID_1617220420" CREATED="1442790423175" MODIFIED="1442790425266">
+<node TEXT="get selected edges" ID="ID_675253375" CREATED="1442789031555" MODIFIED="1442789033872">
+<node TEXT="I need to write this myself" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1185811357" CREATED="1442789117394" MODIFIED="1442790394045"/>
+<node TEXT="edgesOfKind :: String -&gt; Node -&gt; [LEdge]&#xa;edgesOfKind s n = edges with label s from n" ID="ID_1932764511" CREATED="1439150500235" MODIFIED="1439150575755"/>
+</node>
+</node>
+<node TEXT="dub (inc questions)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_497300679" CREATED="1442788733122" MODIFIED="1442788951925">
+<node TEXT="I think I know" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1765561445" CREATED="1442788763385" MODIFIED="1442788767536">
+<node TEXT="in a chain of contexts, does each have to refer only to nodes in the graph it is wrapped around?" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_352375346" CREATED="1421651191394" MODIFIED="1421651262172">
+<node TEXT="or can it point in the other direction?" ID="ID_1891020395" CREATED="1421651229963" MODIFIED="1421651234280"/>
+<node TEXT="this is testable on my own" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1224919709" CREATED="1421651252315" MODIFIED="1421651264580"/>
+</node>
+<node TEXT="how can FGL lookup be faster than O(n)?" ID="ID_82482630" CREATED="1439037090968" MODIFIED="1439037098159">
+<node TEXT="read paper" ID="ID_1100522704" CREATED="1439037099079" MODIFIED="1439037100334"/>
+<node TEXT="so said Tikhon Jelvis maybe; whoever answered my last email" ID="ID_684004316" CREATED="1439037101080" MODIFIED="1439037110816"/>
+<node TEXT="2015 08 07" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1418288138" CREATED="1439037111096" MODIFIED="1439037121529"/>
+</node>
+<node TEXT="in Graph a b, a is node label type, b edge label type" ID="ID_186641366" CREATED="1439150436379" MODIFIED="1439150451386"/>
+</node>
+<node TEXT="I doubt it matters" LOCALIZED_STYLE_REF="styles.topic" ID="ID_525250003" CREATED="1442788769227" MODIFIED="1442788774223">
+<node TEXT="&quot;context :: Graph gr =&gt; gr a b -&gt; Node -&gt; Context a b&quot;" ID="ID_343534977" CREATED="1421651308811" MODIFIED="1421651319811">
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.0.1/docs/src/Data-Graph-Inductive-Graph.html#context" ID="ID_1498853160" CREATED="1421651374812" MODIFIED="1421651374812" LINK="https://hackage.haskell.org/package/fgl-5.5.0.1/docs/src/Data-Graph-Inductive-Graph.html#context"/>
+<node TEXT="why not just write this?" ID="ID_1599993949" CREATED="1421651337955" MODIFIED="1421651346473"/>
+<node TEXT="&quot;context :: Graph a b -&gt; Node -&gt; Context a b&quot;" ID="ID_637984596" CREATED="1421651346851" MODIFIED="1421651354744"/>
+</node>
+</node>
+<node TEXT="I doubt it" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1860648762" CREATED="1442788775263" MODIFIED="1442788779477">
+<node TEXT="non-tree graphs not implemented?" ID="ID_304049351" CREATED="1421652050252" MODIFIED="1421714895179">
+<node TEXT="konsole transcript" ID="ID_1246261467" CREATED="1421652838029" MODIFIED="1421652841458">
+<node TEXT="Next? pwd" ID="ID_901811658" CREATED="1421652062049" MODIFIED="1421652062049"/>
+<node TEXT="/home/jeff/.cabal/packages/hackage.haskell.org/fgl/5.5.0.1/fgl-5.5.0.1, 2015 01 18/Data/Graph" ID="ID_199149340" CREATED="1421652062049" MODIFIED="1421652062049"/>
+<node TEXT="Next? egrep &quot;match.*=&quot; *.hs */*.hs */*/*.hs" ID="ID_518869663" CREATED="1421652062050" MODIFIED="1421652062050"/>
+<node TEXT="Inductive/Graph.hs:match      ::    Graph gr =&gt; Node -&gt; gr a b -&gt; Decomp gr a b" ID="ID_715245451" CREATED="1421652062054" MODIFIED="1421652062054"/>
+<node TEXT="Inductive/Graph.hs:matchAny   :: Graph gr =&gt; gr a b -&gt; GDecomp g a b" ID="ID_441183433" CREATED="1421652062055" MODIFIED="1421652062055"/>
+<node TEXT="Inductive/Graph.hs:  matchAny g = case labNodes g of" ID="ID_1491178921" CREATED="1421652062058" MODIFIED="1421652062058"/>
+<node TEXT="Inductive/Graph.hs:lab g v = fst (match v g) &gt;&gt;= return.lab&apos;" ID="ID_1318102679" CREATED="1421652062061" MODIFIED="1421652062061"/>
+<node TEXT="Inductive/Monad.hs:  matchAnyM g = do vs &lt;- labNodesM g" ID="ID_187377968" CREATED="1421652062062" MODIFIED="1421652062062"/>
+<node TEXT="Inductive/PatriciaTree.hs:    match           = matchGr" ID="ID_575045865" CREATED="1421652062063" MODIFIED="1421652062063"/>
+<node TEXT="Inductive/Tree.hs:  match           = matchGr" ID="ID_456999215" CREATED="1421652062064" MODIFIED="1421652062064"/>
+<node TEXT="Inductive/Tree.hs:  matchAny (Gr Empty)                = error &quot;Match Exception, Empty Graph&quot;" ID="ID_424438338" CREATED="1421652062064" MODIFIED="1421652062064"/>
+<node TEXT="Inductive/Tree.hs:  matchAny g@(Gr (Node _ _ (v,_) _)) = (c,g&apos;) where (Just c,g&apos;) = matchGr v g" ID="ID_606844469" CREATED="1421652062065" MODIFIED="1421652062065"/>
+<node TEXT="Inductive/Tree.hs:matchGr v (Gr g) =" ID="ID_1411359281" CREATED="1421652062068" MODIFIED="1421652062068"/>
+<node TEXT="Inductive/Monad/IOArray.hs:  matchM v g = do g&apos;@(SGr (n,a,m)) &lt;- g" ID="ID_1612577082" CREATED="1421652062072" MODIFIED="1421652062072"/>
+<node TEXT="Next?" ID="ID_346400831" CREATED="1421652062073" MODIFIED="1421652062073"/>
+</node>
+</node>
+<node TEXT="would it be good to use unlabeled graphs in FGL plus some dictionaries?" ID="ID_391222691" CREATED="1438850002828" MODIFIED="1442788916716"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="&lt; freq" LOCALIZED_STYLE_REF="default" ID="ID_126319615" CREATED="1418933126163" MODIFIED="1427780392130">
 <font BOLD="true"/>
@@ -17701,8 +17863,8 @@
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -18421,9 +18583,10 @@
 </node>
 </node>
 </node>
-<node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1442345371870">
-<font SIZE="14"/>
-<node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
+<node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
+<node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">
+<font BOLD="false"/>
+</node>
 <node TEXT="haskell-supercollider" ID="ID_539639786" CREATED="1416678098434" MODIFIED="1418783304549">
 <node ID="ID_912867391" CREATED="1418783304793" MODIFIED="1418783304793"><richcontent TYPE="NODE">
 
@@ -21908,6 +22071,7 @@
 </node>
 </node>
 </node>
+<node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1442689191486">
 <node TEXT="regex" ID="ID_49270633" CREATED="1426285962790" MODIFIED="1426285965067">
 <node TEXT="JEdit regex ref, possibly more general" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_51809091" CREATED="1409161633930" MODIFIED="1426286074274">
 <node TEXT="http://www.jedit.org/users-guide/regexps.html" ID="ID_1775372993" CREATED="1409161637739" MODIFIED="1409161637739" LINK="http://www.jedit.org/users-guide/regexps.html"/>

@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1439586329286"><hook NAME="MapStyle" zoom="1.33">
+<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" zoom="1.33">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -55,6 +55,7 @@
 </stylenode>
 </map_styles>
 </hook>
+<font SIZE="15"/>
 <node TEXT=". . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." POSITION="right" ID="ID_1955981617" CREATED="1346653063223" MODIFIED="1395887159895">
 <node TEXT=". . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1288966833" CREATED="1346653063223" MODIFIED="1385699527300">
 <node TEXT=". . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1793301063" CREATED="1346653063223" MODIFIED="1385699527300">
@@ -6109,10 +6110,17 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="among other things, it installed GHCI 7.6.3, even though stack ghci from dwt/git_hask/ gives me 7.10.2" ID="ID_527964420" CREATED="1440704949731" MODIFIED="1440704984507"/>
+</node>
+<node TEXT="2015 09 19: installed SuperCollider" ID="ID_1002601866" CREATED="1442685899025" MODIFIED="1442696752566">
+<node TEXT="11:05 am" ID="ID_658040936" CREATED="1442685909418" MODIFIED="1442696750312"/>
+<node TEXT="sudo add-apt-repository ppa:supercollider/ppa" ID="ID_464954427" CREATED="1442686624918" MODIFIED="1442686624918"/>
+<node TEXT="sudo apt-get update" ID="ID_145201349" CREATED="1442686624918" MODIFIED="1442686624918"/>
+<node TEXT="sudo apt-get install supercollider supercollider-gedit" ID="ID_807293509" CREATED="1442686624926" MODIFIED="1442686624926"/>
+<node TEXT="sudo apt-get install supercollider-ide" ID="ID_24632879" CREATED="1442686838707" MODIFIED="1442686839576"/>
+<node TEXT="did not install &quot;supercollider-plugins&quot;; instructions say to do so, but they are out of date, and that package does not (any longer?) exist" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1820391604" CREATED="1442686632415" MODIFIED="1442686654878"/>
 </node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
