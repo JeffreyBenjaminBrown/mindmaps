@@ -13334,6 +13334,7 @@
 <node TEXT="contiguous, all of one languages operators bind before all of another&apos;s, which collect similarly" ID="ID_1126925060" CREATED="1437006155712" MODIFIED="1437006181672"/>
 </node>
 <node TEXT="by text specify stmt (as rel)" ID="ID_1465324445" CREATED="1437006248920" MODIFIED="1437006319583"/>
+<node TEXT="emacs dwt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1189544364" CREATED="1443337354139" MODIFIED="1443337356399"/>
 <node TEXT="emacs dwt haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_304568731" CREATED="1437006371952" MODIFIED="1437006509672">
 <node TEXT="https://github.com/knupfer/haskell-emacs" ID="ID_1822197624" CREATED="1437006377022" MODIFIED="1437006377022" LINK="https://github.com/knupfer/haskell-emacs"/>
 </node>

@@ -16630,14 +16630,14 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 <node TEXT="8 8" ID="ID_1725819312" CREATED="1439085470522" MODIFIED="1439085472232">
-<node TEXT="can stack Error onto a monad" ID="ID_1628938942" CREATED="1439064842145" MODIFIED="1439064852935">
+<node TEXT="can stack Error onto a monad" LOCALIZED_STYLE_REF="default" ID="ID_1628938942" CREATED="1439064842145" MODIFIED="1443085243737">
 <node TEXT="https://hackage.haskell.org/package/mongoDB-0.9.5/docs/Control-Monad-Throw.html" ID="ID_731259923" CREATED="1439064853400" MODIFIED="1439064853400" LINK="https://hackage.haskell.org/package/mongoDB-0.9.5/docs/Control-Monad-Throw.html"/>
 <node TEXT="is like a more detailed Either, said someone" ID="ID_1835342918" CREATED="1439065076002" MODIFIED="1439065084834"/>
 </node>
-<node TEXT="&quot;trace logging&quot; ~ &quot;printf debugging&quot;" ID="ID_133922086" CREATED="1439065228026" MODIFIED="1439065235768">
+<node TEXT="&quot;trace logging&quot; ~ &quot;printf debugging&quot;" LOCALIZED_STYLE_REF="default" ID="ID_133922086" CREATED="1439065228026" MODIFIED="1443085243129">
 <node TEXT="https://www.reddit.com/r/haskell/comments/3g1488/debugging_monadic_code/" ID="ID_463961641" CREATED="1439065165087" MODIFIED="1439065165087" LINK="https://www.reddit.com/r/haskell/comments/3g1488/debugging_monadic_code/"/>
 </node>
-<node ID="ID_1971279727" CREATED="1439081896419" MODIFIED="1439081896419"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" ID="ID_1971279727" CREATED="1439081896419" MODIFIED="1443085241886"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16674,6 +16674,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="Hackage lists reverse dependencies" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_202183884" CREATED="1439753605857" MODIFIED="1439753618441">
 <node TEXT="http://packdeps.haskellers.com/reverse/fgl" ID="ID_21824578" CREATED="1439753618869" MODIFIED="1439753618869" LINK="http://packdeps.haskellers.com/reverse/fgl"/>
 </node>
+<node TEXT="float exponent (**), int exponent (^), and there&apos;s ^^ too" ID="ID_975699560" CREATED="1443084905239" MODIFIED="1443085055013"/>
 </node>
 <node TEXT="Json" POSITION="right" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
 <font BOLD="true"/>
@@ -17863,8 +17864,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -18580,6 +18581,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="u" ID="ID_1488768060" CREATED="1442552591982" MODIFIED="1442552592724">
 <node TEXT="overlay: concurrent" ID="ID_853201133" CREATED="1442552594078" MODIFIED="1442552599376">
 <node TEXT="Pattern -&gt; Pattern -&gt; Pattern" ID="ID_1631156414" CREATED="1442552601954" MODIFIED="1442552607491"/>
+</node>
+<node TEXT="there exists SuperDirt, written in SuperCollider" ID="ID_1792368323" CREATED="1443118085128" MODIFIED="1443118096056">
+<node TEXT="-- Alex on Lurk/Tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_77883230" CREATED="1443118135363" MODIFIED="1443118143895"/>
+<node TEXT="&quot;There&apos;s also Julian&apos;s dirt rewrite which is available as a quark package for the upcoming version of SuperCollider.&quot;" ID="ID_1356703427" CREATED="1443118130407" MODIFIED="1443118134844"/>
 </node>
 </node>
 </node>
