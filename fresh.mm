@@ -70,6 +70,9 @@
 <node TEXT="dwt (rep, rep proc, etc.)" LOCALIZED_STYLE_REF="default" ID="ID_1538765578" CREATED="1442800806368" MODIFIED="1442801066484"/>
 <node TEXT="group" ID="ID_289125611" CREATED="1442801066742" MODIFIED="1442801068139"/>
 </node>
+<node TEXT="regex-took rep|dwt from 2015 08 21 - 09 29" ID="ID_22172770" CREATED="1443597118144" MODIFIED="1443597174734">
+<node TEXT="but leaves not under categs and not including those words still in place" ID="ID_1597233291" CREATED="1443597175372" MODIFIED="1443597185089"/>
+</node>
 </node>
 <node TEXT="procg this" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_808119438" CREATED="1441922544974" MODIFIED="1441922547395">
 <node TEXT="dup fresh before sort" ID="ID_853567396" CREATED="1441411234236" MODIFIED="1441411237098"/>
@@ -1315,10 +1318,6 @@
 <node TEXT="trance - sort group|agent" ID="ID_1172910588" CREATED="1440566590936" MODIFIED="1440566602722">
 <node TEXT="not try to sort group|agent from trance; more important partitions should filter first and that&apos;s enough work already" ID="ID_98428812" CREATED="1440566539808" MODIFIED="1440566584978"/>
 </node>
-<node TEXT="colored edges are good for trance behavior separation" ID="ID_722216187" CREATED="1440793638591" MODIFIED="1440793668494">
-<node TEXT="rival @ rep not info" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1248218481" CREATED="1440795977445" MODIFIED="1440795995211"/>
-<node TEXT="know based on mood whether to follow which color or not" ID="ID_1450884056" CREATED="1440793684166" MODIFIED="1440793702228"/>
-</node>
 <node TEXT="record fewer (? explicit verbal) instrucs, for instance instead letting my experience of the mindmaps, the colors and placement of things, inform my plans for how to reshape" ID="ID_1878757736" CREATED="1440796294794" MODIFIED="1440796342682"/>
 <node TEXT="a filter could include a peer-middle &quot;freeze the next&quot; instruction" LOCALIZED_STYLE_REF="default" ID="ID_1359156777" CREATED="1440727670447" MODIFIED="1440754430360"/>
 </node>
@@ -1826,9 +1825,6 @@
 <node TEXT="don&apos;t practice; study" ID="ID_86664704" CREATED="1441327296140" MODIFIED="1441327299273"/>
 </node>
 <node TEXT="04 st, 1e" LOCALIZED_STYLE_REF="default" ID="ID_1750665269" CREATED="1441411560021" MODIFIED="1441838322655">
-<node TEXT="maybe only use unsorted as stack, because too many ideas arrived too quickly to hold all while serially processing without cogv-external memory" LOCALIZED_STYLE_REF="default" ID="ID_789332691" CREATED="1441411588301" MODIFIED="1441838294362">
-<node TEXT="\my rep proc" ID="ID_1936860657" CREATED="1441411658021" MODIFIED="1441411660298"/>
-</node>
 <node TEXT="toe is like a foot foot, the first part of _" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1080454622" CREATED="1441411849798" MODIFIED="1441838220796">
 <node TEXT="\recurs\info" ID="ID_1759107473" CREATED="1441411859445" MODIFIED="1441411867747"/>
 </node>
@@ -2068,10 +2064,6 @@
 <node TEXT="drama as architecture" ID="ID_522852153" CREATED="1424755966449" MODIFIED="1424756005337"/>
 </node>
 </node>
-<node TEXT="these categs" ID="ID_503270146" CREATED="1441835639837" MODIFIED="1441835644154">
-<node TEXT="rep! impract &gt; dub, both coldish, not to investigate without reason" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1949356146" CREATED="1441690067896" MODIFIED="1441835612385"/>
-<node TEXT="rep ~ lang" ID="ID_219260891" CREATED="1441689741448" MODIFIED="1441689743141"/>
-</node>
 <node TEXT="ratl proc / proc scarc strateg" ID="ID_1613605647" CREATED="1441835351053" MODIFIED="1441835372214">
 <node TEXT="&quot;you just completed a statement; why would you ruin it by continuing (with _)?&quot;" ID="ID_657694388" CREATED="1441415581360" MODIFIED="1441415597840"/>
 <node TEXT="\work rhtyhm" ID="ID_276674341" CREATED="1441835390646" MODIFIED="1441835392828"/>
@@ -2249,188 +2241,8 @@
 </node>
 </node>
 <node TEXT="10" ID="ID_774520236" CREATED="1441942616600" MODIFIED="1441942617303">
-<node TEXT="don&apos;t need perfect rep before read more" ID="ID_1252973252" CREATED="1441942619495" MODIFIED="1441942624975"/>
 <node TEXT="very superstitious: &quot;when you believe in things that you don&apos;t understand and you suffer&quot;" ID="ID_326105850" CREATED="1441942960344" MODIFIED="1441942981704"/>
 <node TEXT="&quot;breathing from head not heart, but I don&apos;t want to lose a good thing&quot; --kimbra, &quot;teen heat&quot;" ID="ID_868933004" CREATED="1441943093857" MODIFIED="1441943125586"/>
-</node>
-<node TEXT="11" ID="ID_286405719" CREATED="1442015489780" MODIFIED="1442015490213">
-<node TEXT="great people" ID="ID_1646923038" CREATED="1442014882956" MODIFIED="1442014884683">
-<node TEXT="ordering by principle but thining|listing from population" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1159094573" CREATED="1442015700412" MODIFIED="1442015727888"/>
-<node TEXT="representatives only where possible" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1403571660" CREATED="1442016275628" MODIFIED="1442016472889"/>
-<node TEXT="logic" ID="ID_1695147178" CREATED="1442016719436" MODIFIED="1442016721387">
-<node TEXT="lang, writ" ID="ID_497104922" CREATED="1442016721996" MODIFIED="1442016726851"/>
-<node TEXT="numbers" ID="ID_1300601955" CREATED="1442018172709" MODIFIED="1442018173777"/>
-<node TEXT="teachers" ID="ID_577781314" CREATED="1442016778100" MODIFIED="1442016779003">
-<node TEXT="Feynman" ID="ID_819770125" CREATED="1442017069501" MODIFIED="1442017071555"/>
-<node TEXT="all of them, particularly with younger aud" ID="ID_940920795" CREATED="1442017092812" MODIFIED="1442017100531">
-<node TEXT="a child&apos;s dearth of logic can be stunning, alien" ID="ID_1877550980" CREATED="1442017104532" MODIFIED="1442017118590"/>
-</node>
-</node>
-</node>
-<node TEXT="sci" ID="ID_863766314" CREATED="1442015767988" MODIFIED="1442015821348">
-<node TEXT="relativity" ID="ID_512268883" CREATED="1442015773428" MODIFIED="1442015779825"/>
-<node TEXT="quantum mechanics, computing" ID="ID_823530766" CREATED="1442015780028" MODIFIED="1442015791137"/>
-</node>
-<node TEXT="polit" ID="ID_1294003392" CREATED="1442014929236" MODIFIED="1442014955048">
-<node TEXT="equality" ID="ID_592727492" CREATED="1442015107972" MODIFIED="1442015534437">
-<node TEXT="Lincoln" ID="ID_1479754093" CREATED="1442014886460" MODIFIED="1442014888225"/>
-<node TEXT="workers for group* recog" ID="ID_282269777" CREATED="1442015548244" MODIFIED="1442015634817">
-<node TEXT="*gay activists" ID="ID_819369046" CREATED="1442015625994" MODIFIED="1442015627131"/>
-<node TEXT="beyond equality ? annoying" ID="ID_1657394450" CREATED="1442015646060" MODIFIED="1442015659836"/>
-</node>
-</node>
-<node TEXT="peacemakers" ID="ID_437157731" CREATED="1442015098244" MODIFIED="1442020077815">
-<node TEXT="Ghandi, King" ID="ID_1638873180" CREATED="1442014938572" MODIFIED="1442015093275"/>
-</node>
-<node TEXT="justice" ID="ID_1760969895" CREATED="1442015181300" MODIFIED="1442015182643"/>
-<node TEXT="news" ID="ID_1451057723" CREATED="1442015056708" MODIFIED="1442015057442"/>
-</node>
-<node TEXT="engin" ID="ID_1085811958" CREATED="1442014955804" MODIFIED="1442014957257">
-<node TEXT="comp sci" ID="ID_523307722" CREATED="1442015035476" MODIFIED="1442015037922"/>
-<node TEXT="stats" ID="ID_1572482831" CREATED="1442018153709" MODIFIED="1442018155995"/>
-</node>
-<node TEXT="games(formal)" ID="ID_1387257453" CREATED="1442016221228" MODIFIED="1442016223843">
-<node TEXT="board" ID="ID_1049894318" CREATED="1442016340380" MODIFIED="1442016341291"/>
-<node TEXT="physical puzzles" ID="ID_1217911631" CREATED="1442016341476" MODIFIED="1442016344499"/>
-<node TEXT="video" ID="ID_1401886771" CREATED="1442016335236" MODIFIED="1442016336387"/>
-<node TEXT="sport" ID="ID_406545131" CREATED="1442017257572" MODIFIED="1442017259499"/>
-</node>
-<node TEXT="art, lit" ID="ID_1392364603" CREATED="1442014968005" MODIFIED="1442015041928">
-<node TEXT="kinds, perform" ID="ID_38446433" CREATED="1442016257884" MODIFIED="1442016362940">
-<node TEXT="music, movies|theater, dance" LOCALIZED_STYLE_REF="default" ID="ID_1237169821" CREATED="1442016141820" MODIFIED="1442016301467"/>
-<node TEXT="juggling, mime" ID="ID_1830637344" CREATED="1442016321020" MODIFIED="1442016321668"/>
-</node>
-<node TEXT="kind, lit" ID="ID_770519751" CREATED="1442017137044" MODIFIED="1442017138673">
-<node TEXT="sociological" ID="ID_664939718" CREATED="1442017192988" MODIFIED="1442017195243"/>
-<node TEXT="romance, comedy" ID="ID_632758966" CREATED="1442017161116" MODIFIED="1442017164987"/>
-<node TEXT="mystery" ID="ID_318963086" CREATED="1442017158020" MODIFIED="1442017159395"/>
-<node TEXT="action, murder" ID="ID_1322346641" CREATED="1442017144540" MODIFIED="1442017157696"/>
-</node>
-<node TEXT="kinds, more" ID="ID_1306133592" CREATED="1442016364140" MODIFIED="1442016365379">
-<node TEXT="sculpture" ID="ID_1660693880" CREATED="1442016374589" MODIFIED="1442016378515">
-<node TEXT="elec" ID="ID_584242029" CREATED="1442016393884" MODIFIED="1442016394811"/>
-</node>
-<node TEXT="claymation, puppetry" ID="ID_1588991927" CREATED="1442016288875" MODIFIED="1442016320666"/>
-<node TEXT="weaving" ID="ID_1101833272" CREATED="1442016368156" MODIFIED="1442016373483"/>
-</node>
-<node TEXT="favs, lit[theater]" ID="ID_1196177254" CREATED="1442016987812" MODIFIED="1442016994427">
-<node TEXT="Seuss, Dahl" ID="ID_28502059" CREATED="1442015963444" MODIFIED="1442017236179"/>
-<node TEXT="Twain" ID="ID_1913720611" CREATED="1442015905708" MODIFIED="1442015906698"/>
-<node TEXT="Dune" ID="ID_481669819" CREATED="1442016968068" MODIFIED="1442016969226"/>
-</node>
-<node TEXT="favs, music" ID="ID_492349769" CREATED="1442017367036" MODIFIED="1442017368739">
-<node TEXT="classical" ID="ID_1052554055" CREATED="1442017542972" MODIFIED="1442017544243">
-<node TEXT="Bach" ID="ID_1154411926" CREATED="1442015920213" MODIFIED="1442015921179"/>
-<node TEXT="." ID="ID_30918940" CREATED="1442017742380" MODIFIED="1442017742860">
-<node TEXT="Prokofjev" ID="ID_1763927641" CREATED="1442017508892" MODIFIED="1442017512634"/>
-<node TEXT="Debussy" ID="ID_964591035" CREATED="1442017737684" MODIFIED="1442017739155"/>
-</node>
-<node TEXT="." ID="ID_399976918" CREATED="1442017553788" MODIFIED="1442017560299">
-<node TEXT="Rachmaninov" ID="ID_1749498355" CREATED="1442017562060" MODIFIED="1442017564794"/>
-<node TEXT="The Nutcracker Suite" ID="ID_16522890" CREATED="1442015943404" MODIFIED="1442015948083"/>
-<node TEXT="Chopin" ID="ID_1344404258" CREATED="1442017735061" MODIFIED="1442017737121"/>
-</node>
-</node>
-<node TEXT="dance" ID="ID_1034993213" CREATED="1442017481204" MODIFIED="1442017484070">
-<font BOLD="true"/>
-<node TEXT="Thriller" ID="ID_341625022" CREATED="1442016488588" MODIFIED="1442016490795"/>
-<node TEXT="Staying Alive" ID="ID_1368994498" CREATED="1442017671908" MODIFIED="1442017674012"/>
-<node TEXT="Prince" ID="ID_758429843" CREATED="1442017454868" MODIFIED="1442017456387"/>
-</node>
-<node TEXT="Pink Floyd" ID="ID_618300958" CREATED="1442016609156" MODIFIED="1442016611723"/>
-<node TEXT="Funkadelic" ID="ID_883913613" CREATED="1442017377980" MODIFIED="1442017379619"/>
-<node TEXT="Gentle Giant" ID="ID_1167051671" CREATED="1442017793764" MODIFIED="1442017795605"/>
-<node TEXT="Santana" ID="ID_641349871" CREATED="1442017385532" MODIFIED="1442017386723">
-<node TEXT="Hendrix, Clapton" ID="ID_1547622015" CREATED="1442017388548" MODIFIED="1442017491859"/>
-</node>
-<node TEXT="Marley" ID="ID_835642409" CREATED="1442017441172" MODIFIED="1442017442275"/>
-<node TEXT="jazz" ID="ID_120983802" CREATED="1442017931316" MODIFIED="1442017932306">
-<node TEXT="Ellington" ID="ID_1683347847" CREATED="1442017936972" MODIFIED="1442017937642"/>
-<node TEXT="Coltrane" ID="ID_948601990" CREATED="1442017941580" MODIFIED="1442017943163"/>
-<node TEXT="Monk" ID="ID_1010189747" CREATED="1442017924605" MODIFIED="1442017935987"/>
-<node TEXT="Gillespie" ID="ID_1016793460" CREATED="1442017937909" MODIFIED="1442017939339"/>
-</node>
-<node TEXT="Pearl Jam" ID="ID_346447769" CREATED="1442017835732" MODIFIED="1442017837953"/>
-</node>
-<node TEXT="favs" ID="ID_1157815962" CREATED="1442016259916" MODIFIED="1442017015577">
-<node TEXT="Picasso" ID="ID_39982559" CREATED="1442015903940" MODIFIED="1442015905515"/>
-<node TEXT="Labyrinth" ID="ID_815892381" CREATED="1442016524636" MODIFIED="1442016527675"/>
-<node TEXT="Spaceballs +" ID="ID_1204291101" CREATED="1442016550500" MODIFIED="1442016557386"/>
-<node TEXT="Pixar" ID="ID_1256754327" CREATED="1442016015919" MODIFIED="1442016017046"/>
-</node>
-</node>
-<node TEXT="philos" ID="ID_1655153902" CREATED="1442014969964" MODIFIED="1442014971458">
-<node TEXT="ethics[econ]" ID="ID_573485476" CREATED="1442019849037" MODIFIED="1442019854128"/>
-<node TEXT="democracy" ID="ID_1739157298" CREATED="1442016667636" MODIFIED="1442016669627"/>
-<node TEXT="losing the church" ID="ID_1871456962" CREATED="1442016670860" MODIFIED="1442016679899"/>
-</node>
-<node TEXT="relig" ID="ID_1833669908" CREATED="1442014897364" MODIFIED="1442019687075">
-<node TEXT="peace" ID="ID_809707232" CREATED="1442019405332" MODIFIED="1442019407244">
-<node TEXT="forgiv" ID="ID_309497113" CREATED="1442019408589" MODIFIED="1442019469891"/>
-<node TEXT="brave, magnan" ID="ID_546441774" CREATED="1442019461205" MODIFIED="1442019467494"/>
-<node TEXT="? grace(trance)" ID="ID_491396184" CREATED="1442019484701" MODIFIED="1442019564068">
-<node TEXT="socio-spiritual efficj; recog oneself part of a greater whole, relax|relinq some control to it" ID="ID_1416453060" CREATED="1442019488901" MODIFIED="1442019510261"/>
-</node>
-</node>
-<node TEXT="respect" ID="ID_883894580" CREATED="1442019721309" MODIFIED="1442019722130"/>
-<node TEXT="be weirdly" ID="ID_1015562831" CREATED="1442019589885" MODIFIED="1442019627781">
-<node TEXT="be nothing" ID="ID_335926500" CREATED="1442019581973" MODIFIED="1442019583260"/>
-<node TEXT="be fluid" ID="ID_596894313" CREATED="1442019583837" MODIFIED="1442019585164"/>
-<node TEXT="be other|transcend" ID="ID_1570965960" CREATED="1442019614733" MODIFIED="1442019618404"/>
-<node TEXT="faith, have" ID="ID_1184475002" CREATED="1442019733563" MODIFIED="1442019749737"/>
-</node>
-</node>
-<node TEXT="historians" ID="ID_307868890" CREATED="1442019884477" MODIFIED="1442019886812">
-<node TEXT="preservers of culture" ID="ID_1284401924" CREATED="1442019891573" MODIFIED="1442019894532">
-<node TEXT="enthusiasts? hobbyists? medieval dressup?" ID="ID_1459431592" CREATED="1442019897845" MODIFIED="1442019908986"/>
-</node>
-<node TEXT="tribal|family elders" ID="ID_893736466" CREATED="1442020059341" MODIFIED="1442020062572"/>
-</node>
-<node TEXT="business" ID="ID_1023624635" CREATED="1442014981404" MODIFIED="1442014982835"/>
-<node TEXT="?" ID="ID_1411143499" CREATED="1442021058013" MODIFIED="1442021058467">
-<node TEXT="rodeo" ID="ID_1725985563" CREATED="1442020853184" MODIFIED="1442020856143"/>
-<node TEXT="burning man" ID="ID_1006018037" CREATED="1442021080357" MODIFIED="1442021081946"/>
-<node TEXT="sermons" ID="ID_394950105" CREATED="1442021117462" MODIFIED="1442021119188"/>
-</node>
-</node>
-<node TEXT="great problems" ID="ID_1297003547" CREATED="1442015127940" MODIFIED="1442015130133">
-<node TEXT="fun" ID="ID_816778776" CREATED="1442015296476" MODIFIED="1442015297955">
-<node TEXT="physics" ID="ID_16017403" CREATED="1442015262896" MODIFIED="1442015266227"/>
-</node>
-<node TEXT="bio" ID="ID_1958303864" CREATED="1442018206109" MODIFIED="1442018207587">
-<node TEXT="x-organism, in-organism" ID="ID_520039660" CREATED="1442018219620" MODIFIED="1442018236290"/>
-</node>
-<node TEXT="soc" ID="ID_939644720" CREATED="1442015309804" MODIFIED="1442015390411">
-<node TEXT="soc efficj" ID="ID_34592288" CREATED="1442015394660" MODIFIED="1442015397075">
-<node TEXT="coop, -fight" ID="ID_1673632523" CREATED="1442015413636" MODIFIED="1442015416978">
-<node TEXT="open source, -copyright" ID="ID_1164153954" CREATED="1442015398131" MODIFIED="1442015410795"/>
-</node>
-<node TEXT="love all equal" ID="ID_340209830" CREATED="1442015434044" MODIFIED="1442015436250">
-<node TEXT="no mostly-unused [yachts]" ID="ID_1780178362" CREATED="1442015436868" MODIFIED="1442015472515"/>
-</node>
-<node TEXT="matching" ID="ID_1979483301" CREATED="1442020251125" MODIFIED="1442020252244">
-<node TEXT="\justice" ID="ID_377820363" CREATED="1442020257317" MODIFIED="1442020270140"/>
-</node>
-<node TEXT="finance" ID="ID_874816378" CREATED="1442018286957" MODIFIED="1442018287715"/>
-<node TEXT="? -ownership" LOCALIZED_STYLE_REF="styles.topic" ID="ID_883674304" CREATED="1442018293661" MODIFIED="1442018352265">
-<node TEXT="to have ideas here would be to get up in other peoples&apos; shit; no fun" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1798107062" CREATED="1442018338765" MODIFIED="1442018350494"/>
-<node TEXT="even if (as econ often suggests) it&apos;s necessary, could we do with less of it" ID="ID_1081660612" CREATED="1442018310116" MODIFIED="1442018333979"/>
-</node>
-</node>
-<node TEXT="prejud" ID="ID_898237125" CREATED="1442018422965" MODIFIED="1442018426043">
-<node TEXT="identiofy, not just fight" ID="ID_173343543" CREATED="1442018427637" MODIFIED="1442018433227"/>
-</node>
-<node TEXT="justice" ID="ID_899808182" CREATED="1442015287852" MODIFIED="1442015292491">
-<node TEXT="ineq" ID="ID_1414794183" CREATED="1442018397100" MODIFIED="1442018398979">
-<node TEXT="birth should determine less" ID="ID_1919949636" CREATED="1442018403629" MODIFIED="1442018407283"/>
-</node>
-</node>
-<node TEXT="health care" ID="ID_645141549" CREATED="1442015133260" MODIFIED="1442015134450"/>
-</node>
-</node>
-<node TEXT="god, dream rec to prove" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1204752989" CREATED="1442018505981" MODIFIED="1442018756864">
-<node TEXT="If you kept good data on your dreams, found how many times someone called you shortly after you had dreamed of them, and compared the the fraction to the theoretical probability, you could disprove a kind of randomness(a shrugging off of the (causal)process deciding events to unknown and unrelated processes), prove a kind of magic(something deserving of further study)" ID="ID_1203511179" CREATED="1442013912333" MODIFIED="1442014034213"/>
-</node>
 </node>
 <node TEXT="09 10-15, s" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_989494303" CREATED="1442442039082" MODIFIED="1443344169011">
 <node TEXT="?" ID="ID_1288263923" CREATED="1442443026819" MODIFIED="1442443027359">
@@ -3000,19 +2812,6 @@
 </node>
 </node>
 <node TEXT="17, p/2" ID="ID_310707038" CREATED="1442510490415" MODIFIED="1442542520348">
-<node TEXT="dwt" ID="ID_418286846" CREATED="1442517907744" MODIFIED="1442517909930">
-<node TEXT="file format can be a list of statements" ID="ID_192021958" CREATED="1442517955097" MODIFIED="1442517960582">
-<node TEXT="stmt 1: the dog is fat" ID="ID_763200359" CREATED="1442517961457" MODIFIED="1442517967518"/>
-<node TEXT="stmt 2: dog" ID="ID_178893424" CREATED="1442517967761" MODIFIED="1442517976071"/>
-</node>
-<node TEXT="stmt v. expr" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1256369917" CREATED="1442517984737" MODIFIED="1442518001070">
-<node TEXT="stmts stand on their own" ID="ID_405587715" CREATED="1442517992633" MODIFIED="1442518000079"/>
-<node TEXT="expr used in them but not expected to be useful to reader on their own" ID="ID_1703796781" CREATED="1442518056889" MODIFIED="1442518069742">
-<node TEXT="they are like leaves" ID="ID_1499027053" CREATED="1442518082033" MODIFIED="1442518090174"/>
-</node>
-<node TEXT="exception: some exprs elevated, serving double duty as parents|categories and elements of stmts" ID="ID_680256846" CREATED="1442518093905" MODIFIED="1442518114952"/>
-</node>
-</node>
 <node TEXT="random for endurance" ID="ID_1431806577" CREATED="1442521833194" MODIFIED="1442521837207">
 <node TEXT="as soon as a proc (e.g. collecting for group.mm) feels tedious, I can abandon it, and well return to traversing fresh.mm, same order, but different proc; both valid procs. If accum dates in group.mm for some dates visited and not others, no problem." ID="ID_1113507569" CREATED="1442521746890" MODIFIED="1442521829795"/>
 </node>
@@ -3056,9 +2855,6 @@
 <node TEXT="&quot;Ugh, I&apos;m covered in noobs.&quot;" ID="ID_123283781" CREATED="1442628758024" MODIFIED="1442628763797"/>
 <node TEXT="? more youtube, active surfing, less static over-months listening habits" ID="ID_1865041774" CREATED="1442629380337" MODIFIED="1442629392248"/>
 <node TEXT="? busy because little coop" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1364819830" CREATED="1442631149314" MODIFIED="1442631155520"/>
-<node TEXT="my abbrevs could be property of my dwt, but not another&apos;s" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1289947724" CREATED="1442631179866" MODIFIED="1442631194972">
-<node TEXT="data is stored in full english format, for x-user portability" ID="ID_583052521" CREATED="1442631199442" MODIFIED="1442631225639"/>
-</node>
 <node TEXT="try tidal like piano, for|as investig not record" ID="ID_619437290" CREATED="1442631324858" MODIFIED="1442631342671"/>
 <node TEXT="&quot;be careful who you free&quot;" ID="ID_1606604703" CREATED="1442632191394" MODIFIED="1442632195321"/>
 <node TEXT="approach | know (tr)" ID="ID_860407137" CREATED="1442637816262" MODIFIED="1442637827725">
@@ -3224,20 +3020,10 @@
 <node TEXT="motiv &amp; peace" ID="ID_1750454784" CREATED="1442726524057" MODIFIED="1442726525959">
 <node TEXT="respect pain|fatigue" ID="ID_600155848" CREATED="1442726536769" MODIFIED="1442726548299"/>
 </node>
-<node TEXT="dwt because until I can mindmap faster I will be unwilling to return to labor market and I must return" ID="ID_1843768905" CREATED="1442727237192" MODIFIED="1442727254258">
-<node TEXT="and maybe with it I can line up a job and then spend the rest of my money traveling before starting it" ID="ID_646925323" CREATED="1442727285544" MODIFIED="1442727300989"/>
-</node>
-<node TEXT="the rule that the serial relation be a list" ID="ID_1097338016" CREATED="1442728189465" MODIFIED="1442728235410">
-<node TEXT="e.g. no branches in it" ID="ID_631194779" CREATED="1442728239017" MODIFIED="1442728246671"/>
-<node TEXT="does haskell offer a good canned way to encode" ID="ID_608895682" CREATED="1442728208940" MODIFIED="1442728214124">
-<node TEXT="the better test suite, with properties -- QuickCheck?" ID="ID_1247381917" CREATED="1442728255265" MODIFIED="1442728274988"/>
-</node>
-</node>
 <node TEXT="sunday : hot, santa monica clay &amp; lib, dwt" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1979152212" CREATED="1442728317297" MODIFIED="1442728577433"/>
 <node TEXT="female meetup: &quot;master your emotions&quot;" ID="ID_1853824362" CREATED="1442766049656" MODIFIED="1442766057759">
 <node TEXT="https://us-mg5.mail.yahoo.com/neo/launch?.rand=6j71k9d1lnjtv#624731035" ID="ID_1613801768" CREATED="1442766058708" MODIFIED="1442766058708" LINK="https://us-mg5.mail.yahoo.com/neo/launch?.rand=6j71k9d1lnjtv#624731035"/>
 </node>
-<node TEXT="suggest Lauren needs no photoshop" ID="ID_104712734" CREATED="1442871225700" MODIFIED="1442871232042"/>
 </node>
 <node TEXT="21 st 1, u" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1302381901" CREATED="1442894835120" MODIFIED="1443344127127">
 <node TEXT="letter|syllable|.. omission =&gt; mult interps" ID="ID_1040536056" CREATED="1442894787432" MODIFIED="1442894813931"/>
@@ -3252,7 +3038,9 @@
 <node TEXT="women fooling fatherhood" ID="ID_1027465949" CREATED="1442895356112" MODIFIED="1442895363726">
 <node TEXT="you thought you made what" ID="ID_756719" CREATED="1442895364816" MODIFIED="1442895367960"/>
 </node>
-<node TEXT="I am reprogramming my mind publicly.&#xa;Github/ Jeffrey Benjamin Brown/ Mindmaps" ID="ID_808741935" CREATED="1442895490256" MODIFIED="1442895511381"/>
+<node TEXT="I am reprogramming my mind publicly.&#xa;Github/ Jeffrey Benjamin Brown/ Mindmaps" ID="ID_808741935" CREATED="1442895490256" MODIFIED="1442895511381">
+<node TEXT="shared, g+ &amp; maybe fb" ID="ID_1927151722" CREATED="1443596889409" MODIFIED="1443596895662"/>
+</node>
 <node TEXT="&quot;All I can do is replace.&quot;" ID="ID_1814554059" CREATED="1442895675512" MODIFIED="1442895680152"/>
 <node TEXT="silence the only way to retain" ID="ID_1497934835" CREATED="1442896070536" MODIFIED="1442896076415">
 <node TEXT="immediate?" ID="ID_1278746124" CREATED="1442896084209" MODIFIED="1442896086207"/>
@@ -3325,10 +3113,6 @@
 <node TEXT="forst aid to car" ID="ID_1794764955" CREATED="1442946817705" MODIFIED="1442946821458"/>
 </node>
 <node TEXT="22 st" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1900364217" CREATED="1442947316546" MODIFIED="1443344127142">
-<node TEXT="happy face is one word" ID="ID_117212081" CREATED="1442947484122" MODIFIED="1442947488272">
-<node TEXT="&quot;music is rotted one note&quot;" ID="ID_1708096644" CREATED="1442947489073" MODIFIED="1442947500588"/>
-<node TEXT="squarepusher?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_878252282" CREATED="1442947509754" MODIFIED="1442947514097"/>
-</node>
 <node TEXT="seems effective" ID="ID_151169109" CREATED="1442947891674" MODIFIED="1442947893898">
 <node TEXT="transcribe all the ideas|lyrics|instructions I see in someone&apos;s song, stare at them concurrent, play" ID="ID_1143955474" CREATED="1442947894449" MODIFIED="1442947912183"/>
 </node>
@@ -3511,53 +3295,6 @@
 <node TEXT="lunch" ID="ID_1553223447" CREATED="1443122741094" MODIFIED="1443122742287">
 <node TEXT="1001 N Alameda St, Los Angeles, CA 90012" ID="ID_48340367" CREATED="1443122743346" MODIFIED="1443122743346"/>
 </node>
-<node TEXT="install history" ID="ID_1765672055" CREATED="1443143874595" MODIFIED="1443148972837">
-<font BOLD="true"/>
-<node TEXT=".serial (so far)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1525803579" CREATED="1443148527728" MODIFIED="1443148532504"/>
-<node ID="ID_115171740" CREATED="1443148496071" MODIFIED="1443148496071"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      realtime jack
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Thu Sep 24 19:00:11 PDT 2015" ID="ID_1209371737" CREATED="1443148519116" MODIFIED="1443148525950"/>
-<node TEXT="emailing lurk/tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_277465770" CREATED="1443148393726" MODIFIED="1443148398173"/>
-<node TEXT="http://jackaudio.org/faq/linux_rt_config.html" ID="ID_748347151" CREATED="1443144493499" MODIFIED="1443144493499" LINK="http://jackaudio.org/faq/linux_rt_config.html"/>
-<node TEXT="tricky bit" ID="ID_1240380734" CREATED="1443145978952" MODIFIED="1443145980337">
-<node TEXT="You need to carry out 3 steps to be able to run JACK with RT scheduling. In what follows, several references are made to the &quot;realtime&quot; group. If this group name already exists, pick a different name and use it instead of &quot;realtime&quot; when following the rest of these instructions. The actual name of the group is completely irrelevant." ID="ID_752623518" CREATED="1443143880787" MODIFIED="1443143881661"/>
-</node>
-<node TEXT="what I did" ID="ID_128302876" CREATED="1443145996373" MODIFIED="1443145997758">
-<node TEXT=".serial &quot;it|that&quot; refs" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1095330079" CREATED="1443146061288" MODIFIED="1443146072792"/>
-<node TEXT="/etc/security/limits.d/ already existed" ID="ID_1024583659" CREATED="1443146011440" MODIFIED="1443146022588"/>
-<node TEXT="in it I made 99-realtime.conf" ID="ID_1222907916" CREATED="1443146024149" MODIFIED="1443146056237"/>
-<node TEXT="in that I added first this text" ID="ID_168562951" CREATED="1443146056518" MODIFIED="1443146133630">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_953012359" STARTINCLINATION="205;0;" ENDINCLINATION="205;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="@realtime   -  rtprio     99&#xa;@realtime   -  memlock    unlimited" ID="ID_1434278103" CREATED="1443146086084" MODIFIED="1443146086990"/>
-</node>
-<node TEXT="I added a &quot;realtime&quot; group, and added myself to it." ID="ID_788700622" CREATED="1443146094339" MODIFIED="1443146111179"/>
-<node TEXT="I found the &quot;audio&quot; group, and added myself to it." ID="ID_1822044429" CREATED="1443146099708" MODIFIED="1443146107073"/>
-<node TEXT="still skips" ID="ID_267418019" CREATED="1443146120300" MODIFIED="1443146124225"/>
-<node TEXT="then I changed the text of that file: realtime -&gt; audio" ID="ID_953012359" CREATED="1443146124427" MODIFIED="1443146145059"/>
-</node>
-</node>
-<node TEXT="low latency kernel (installed but not using)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_949031693" CREATED="1443148499430" MODIFIED="1443148939637">
-<node TEXT="installed" ID="ID_1988577030" CREATED="1443148951335" MODIFIED="1443148952478">
-<node TEXT="Thu Sep 24 19:35:11 PDT 2015" ID="ID_44458030" CREATED="1443148516885" MODIFIED="1443148516885"/>
-<node TEXT="sudo apt-get install linux-lowlatency" ID="ID_1510930047" CREATED="1443148490782" MODIFIED="1443148491820"/>
-</node>
-<node TEXT="not using" ID="ID_1615802032" CREATED="1443148953583" MODIFIED="1443148954804">
-<node TEXT="https://help.ubuntu.com/community/UbuntuStudioPreparation" ID="ID_325535380" CREATED="1443148948045" MODIFIED="1443148948045" LINK="https://help.ubuntu.com/community/UbuntuStudioPreparation"/>
-<node TEXT="see section &quot;Starting with the right Kernel (GRUB 2)&quot;" ID="ID_1673201333" CREATED="1443148961207" MODIFIED="1443148967983"/>
-</node>
-</node>
-</node>
 <node TEXT="strategic graciousness" ID="ID_1063472789" CREATED="1443150669026" MODIFIED="1443150672720"/>
 <node TEXT="errors (simple interesting common)" ID="ID_266777029" CREATED="1443150741970" MODIFIED="1443158222209">
 <node ID="ID_1270434811" CREATED="1443150918724" MODIFIED="1443150918724"><richcontent TYPE="NODE">
@@ -3578,13 +3315,6 @@
 </node>
 <node TEXT="faith ::there is a right way to (handle) _" ID="ID_1376237045" CREATED="1443150966975" MODIFIED="1443343203235">
 <node TEXT="class ::instance" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1751008699" CREATED="1443343221899" MODIFIED="1443343236548"/>
-</node>
-<node TEXT="sound optimization" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560510169" CREATED="1443126903436" MODIFIED="1443134212489">
-<node TEXT="https://help.ubuntu.com/community/UbuntuStudioPreparation" ID="ID_1072662791" CREATED="1443126908379" MODIFIED="1443126908379" LINK="https://help.ubuntu.com/community/UbuntuStudioPreparation"/>
-<node TEXT="&quot;optimizing your audio device (realtime Jack config) will make a larger difference&quot; --hodnick, tidal\lurk, 2015 09 24" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_871120302" CREATED="1443134213041" MODIFIED="1443134255405"/>
-<node TEXT="lists lots of apps (starting* with Ardour)" ID="ID_1095790079" CREATED="1443149082583" MODIFIED="1443149108971">
-<node TEXT="actually with Audacity but it can&apos;t do realtime|latency" ID="ID_1678957173" CREATED="1443149096975" MODIFIED="1443149106028"/>
-</node>
 </node>
 <node TEXT="any time you wish you had _ on camera, don&apos;t worry, you are|carry {that same _, ..} to the others" ID="ID_488316883" CREATED="1443150785250" MODIFIED="1443150825810"/>
 <node TEXT="&quot;what would stupid see&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1004191654" CREATED="1443151239768" MODIFIED="1443151245170"/>
@@ -3691,7 +3421,9 @@
 <node TEXT="26" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_802910472" CREATED="1443319424980" MODIFIED="1443344127169">
 <node TEXT="st 1" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_591750663" CREATED="1443343807980" MODIFIED="1443343809470"/>
 <node TEXT="focus less on the words, more on the (words, speaker) pair" ID="ID_170797363" CREATED="1443315902488" MODIFIED="1443315910397"/>
-<node TEXT="can&apos;t work all day. must interperse with calls, that night be good" ID="ID_977865341" CREATED="1443316013800" MODIFIED="1443316027364"/>
+<node TEXT="can&apos;t work all day. must interperse with calls, that night be good" ID="ID_977865341" CREATED="1443316013800" MODIFIED="1443316027364">
+<node TEXT="dupd to choi" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_665668459" CREATED="1443420349297" MODIFIED="1443420356415"/>
+</node>
 <node TEXT="if _ only helped those who had _" ID="ID_440719092" CREATED="1443316309672" MODIFIED="1443316329714">
 <node TEXT="_s maybe both the same" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1137205772" CREATED="1443316330312" MODIFIED="1443316336773"/>
 </node>
@@ -3805,6 +3537,182 @@
 <node TEXT="maybe don&apos;t process it completely but at least enough to recognize what of mine was bad*" ID="ID_1139165070" CREATED="1443337271099" MODIFIED="1443337289606">
 <node TEXT="* wrong belief, bad choice, unfinished problem" ID="ID_918554868" CREATED="1443337290209" MODIFIED="1443337307066"/>
 </node>
+</node>
+<node TEXT="27" ID="ID_1206586777" CREATED="1443409135162" MODIFIED="1443409136512">
+<node TEXT="harsh!" ID="ID_280561818" CREATED="1443588840668" MODIFIED="1443588842266"/>
+<node TEXT="safe to ignore - st 1, 1.5p" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1759884779" CREATED="1443420055776" MODIFIED="1443420380373">
+<node TEXT="giant music instrums" ID="ID_1346773074" CREATED="1443409142212" MODIFIED="1443409147650">
+<node TEXT="how does a plucked 100 foot cable sound" ID="ID_1209254359" CREATED="1443409148560" MODIFIED="1443409159710"/>
+<node TEXT="a drum so big the middle can fall apart before the edge stops vibrating" ID="ID_95801457" CREATED="1443409172069" MODIFIED="1443409186702"/>
+</node>
+<node TEXT="scale v. coherence" ID="ID_112760927" CREATED="1443409257618" MODIFIED="1443409270254">
+<node TEXT="at large scales, like playdoh, incoherent, falling apart at attempts to move ? parts too massive rel each other" ID="ID_1478219451" CREATED="1443409192982" MODIFIED="1443409233409"/>
+</node>
+<node TEXT="three word nodes, whether punctuation or not" ID="ID_278746780" CREATED="1443409280122" MODIFIED="1443409294140"/>
+<node TEXT="perfect melody @ &quot;was lost but now I&apos;m found&quot;" ID="ID_906544606" CREATED="1443409360293" MODIFIED="1443409377437"/>
+<node TEXT="musical overshoot" ID="ID_547672182" CREATED="1443409434170" MODIFIED="1443409436609"/>
+<node TEXT="not only do they exist, they want to coexist like that again" ID="ID_935301263" CREATED="1443409523154" MODIFIED="1443409533261">
+<node TEXT="\already there" ID="ID_1309418587" CREATED="1443409544363" MODIFIED="1443409552348"/>
+</node>
+<node TEXT="maybe I don&apos;t really know how to describe root        fmr leaf, but all you have to do is find one category-direction" ID="ID_1961899540" CREATED="1443409566497" MODIFIED="1443409585808"/>
+<node TEXT="n balls in a square &quot;waste&quot; some experience" ID="ID_886126100" CREATED="1443409612162" MODIFIED="1443409624176"/>
+<node TEXT="not get &lt;- waste" ID="ID_1118773633" CREATED="1443409638290" MODIFIED="1443409640983"/>
+<node TEXT="fun @ reckless" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_455293330" CREATED="1443409710233" MODIFIED="1443420097638"/>
+<node TEXT="chaos death-risk" ID="ID_1710399280" CREATED="1443409758818" MODIFIED="1443409759408"/>
+<node TEXT="healed with|as the jews" ID="ID_403809326" CREATED="1443409840922" MODIFIED="1443409862019">
+<node TEXT="paralleling over time" ID="ID_1210637554" CREATED="1443409845690" MODIFIED="1443419915457"/>
+</node>
+<node TEXT="7 /&gt; 0&apos; :sound : finding(earlier)" ID="ID_875006242" CREATED="1443410021695" MODIFIED="1443410072668"/>
+<node TEXT="? now space reliably indicates one word" ID="ID_1352003078" CREATED="1443410075192" MODIFIED="1443410082519"/>
+<node TEXT="disbelieve + resent" ID="ID_1322316493" CREATED="1443410234350" MODIFIED="1443410243340">
+<node TEXT="&quot;I don&apos;t think you can show me evidence of that. But I don&apos;t want to see any either!&quot;" ID="ID_148852439" CREATED="1443410182379" MODIFIED="1443410203597"/>
+</node>
+<node TEXT="+ as real but investigation-optional bundle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1115354799" CREATED="1443410248837" MODIFIED="1443419955586"/>
+<node TEXT="art" ID="ID_109423153" CREATED="1443410386994" MODIFIED="1443410387465">
+<node TEXT="testing $ blueberries, bubbles, coffee-traces" ID="ID_517778936" CREATED="1443410383373" MODIFIED="1443410454148">
+<node TEXT="butterfly effect" ID="ID_966656048" CREATED="1443410485495" MODIFIED="1443410490353"/>
+<node TEXT="invested from and perceived from limited vocabularies" ID="ID_1613548059" CREATED="1443410490567" MODIFIED="1443410503927"/>
+</node>
+</node>
+<node TEXT="on the verge of a 5\&gt;4 over a sustained 0, change directions" ID="ID_139356643" CREATED="1443410561483" MODIFIED="1443410589280"/>
+<node TEXT="would not teach you to perceive that you suck" ID="ID_1059117425" CREATED="1443410896141" MODIFIED="1443410908347">
+<node TEXT="and better that way" ID="ID_1125354617" CREATED="1443410922016" MODIFIED="1443410924614"/>
+</node>
+<node TEXT="dairy homogenizes" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1050987272" CREATED="1443411711897" MODIFIED="1443411715267">
+<node TEXT="peach yogurt, blueberry yogurt, ... that&apos;s just cow salesmen riding on the work of plants. and that the plants together without it accomplish as much as yogurt-used plants do $ is much cooler than the nutrit accomplishment of yogurt" ID="ID_450316907" CREATED="1443411716868" MODIFIED="1443411798762">
+<node TEXT="building an animal from ex-animal cheats the beauty of otherwise" ID="ID_1646224826" CREATED="1443420023670" MODIFIED="1443420043800"/>
+</node>
+</node>
+<node TEXT="choice paralysis" ID="ID_58969919" CREATED="1443414460125" MODIFIED="1443414463491"/>
+</node>
+</node>
+<node TEXT="29" ID="ID_938599463" CREATED="1443588474539" MODIFIED="1443588476193">
+<node TEXT="cs to study" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1546958581" CREATED="1443588491155" MODIFIED="1443588768203">
+<node TEXT="dependent types" ID="ID_1859479135" CREATED="1443501303092" MODIFIED="1443501310471"/>
+<node TEXT="type provider" ID="ID_130132390" CREATED="1443501516178" MODIFIED="1443501517893"/>
+</node>
+<node TEXT="fun things" ID="ID_1190608726" CREATED="1443580489914" MODIFIED="1443580491489">
+<node TEXT="when is it fun* to write these" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_355709064" CREATED="1443588779387" MODIFIED="1443588790627">
+<node TEXT="*helpful" ID="ID_1573294880" CREATED="1443588791406" MODIFIED="1443588794434">
+<node TEXT="\rhythm" ID="ID_250781848" CREATED="1443588798683" MODIFIED="1443588807047"/>
+</node>
+</node>
+<node TEXT="haskell" ID="ID_1135580431" CREATED="1443580492390" MODIFIED="1443580494782"/>
+<node TEXT="talking" ID="ID_1428479226" CREATED="1443580496538" MODIFIED="1443580497729"/>
+</node>
+<node TEXT="&quot;money might be leaving the room too&quot;" ID="ID_636591810" CREATED="1443581270516" MODIFIED="1443587255735">
+<node TEXT="attempted to name before reading" ID="ID_517674021" CREATED="1443581358780" MODIFIED="1443581364159">
+<node TEXT="female on political 2 gabfest" ID="ID_1519446232" CREATED="1443581276830" MODIFIED="1443581292374">
+<node TEXT="firest was political gabfest, second america-flavored something" ID="ID_92379006" CREATED="1443581296619" MODIFIED="1443581307585"/>
+</node>
+<node TEXT="female on podcast for america" ID="ID_1174023078" CREATED="1443581366058" MODIFIED="1443581370575">
+<node TEXT="unique this week" ID="ID_174858058" CREATED="1443581371923" MODIFIED="1443581374252"/>
+</node>
+</node>
+<node TEXT="-- alex wagner (nbc)" ID="ID_974551169" CREATED="1443581389306" MODIFIED="1443581394690"/>
+</node>
+<node TEXT="in absentius deum" ID="ID_1467228405" CREATED="1443581647555" MODIFIED="1443581648377"/>
+<node TEXT="balanced in a cycle, moments of unfairness" ID="ID_1179761323" CREATED="1443581693059" MODIFIED="1443587288288"/>
+<node TEXT="free by teaching|learning to hear [oneself] mumble through|in objects" ID="ID_1040923116" CREATED="1443581749587" MODIFIED="1443595784764"/>
+<node TEXT="peace, respect, generosity, humility" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1782342451" CREATED="1443588540691" MODIFIED="1443595973822">
+<font BOLD="false"/>
+<node TEXT="peace, respect, generosity, humility : in person" ID="ID_872220753" CREATED="1443582217859" MODIFIED="1443588572931">
+<node TEXT=": symmetrical" ID="ID_1955662885" CREATED="1443587363019" MODIFIED="1443587365376"/>
+</node>
+<node TEXT="in art : funny bellig, funny half-heard metaph" ID="ID_609348320" CREATED="1443588573236" MODIFIED="1443588575441"/>
+<node TEXT="comedy entrapment" ID="ID_955190769" CREATED="1443588596363" MODIFIED="1443588601603">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_609348320" STARTINCLINATION="374;0;" ENDINCLINATION="374;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="was" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1724845821" CREATED="1443588558267" MODIFIED="1443588561927">
+<node TEXT="peace, respect, generosity, humility : in person ,, in art : funny bellig, funny half-heard metaph" ID="ID_477198157" CREATED="1443582217859" MODIFIED="1443587357514">
+<node TEXT=": symmetrical" ID="ID_1147869295" CREATED="1443587363019" MODIFIED="1443587365376"/>
+<node TEXT="comedy" ID="ID_238024887" CREATED="1443588533069" MODIFIED="1443588537473"/>
+</node>
+</node>
+</node>
+<node TEXT="rel cyc v. abs" ID="ID_1677816766" CREATED="1443582688046" MODIFIED="1443587422862">
+<node TEXT="was|disambig" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1836773451" CREATED="1443582694284" MODIFIED="1443582700262">
+<node TEXT="relationship cycles (in people)" ID="ID_147628567" CREATED="1443582639028" MODIFIED="1443582673968">
+<node TEXT="v. absolute measures like money" ID="ID_423684649" CREATED="1443582652612" MODIFIED="1443582659730"/>
+</node>
+</node>
+<node TEXT="abs =&gt; (comparison)tree" ID="ID_1623294271" CREATED="1443582719716" MODIFIED="1443587425012"/>
+</node>
+<node TEXT="anthropic pricniple ~for speed of thought-progress" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1416403431" CREATED="1443582814139" MODIFIED="1443595964183">
+<font BOLD="false"/>
+</node>
+<node TEXT="only mine , beauty|dream|?underst" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_710075531" CREATED="1443583395324" MODIFIED="1443595957351">
+<font BOLD="false"/>
+<node TEXT="?sad" ID="ID_1468156012" CREATED="1443585178090" MODIFIED="1443585179096"/>
+<node TEXT="&quot;this beauty is only mine&quot;, cry" ID="ID_1948671280" CREATED="1443583384268" MODIFIED="1443583392989">
+<node TEXT="but onself realize nobody sees, a dream, crying in|for|(to make) it" ID="ID_1431219876" CREATED="1443583334110" MODIFIED="1443583363366"/>
+</node>
+<node TEXT="not give up on share underst" ID="ID_731930898" CREATED="1443585114084" MODIFIED="1443585118839"/>
+</node>
+<node TEXT="war on bullshit , role extension" ID="ID_473232906" CREATED="1443585443097" MODIFIED="1443588671661">
+<node TEXT="^first is daily show quote" ID="ID_1030863787" CREATED="1443588674427" MODIFIED="1443588689709"/>
+</node>
+<node TEXT="&quot;crazy like a river bends&quot;" ID="ID_406236322" CREATED="1443588224819" MODIFIED="1443595940062">
+<node TEXT="--dave mathews" ID="ID_267941339" CREATED="1443588229459" MODIFIED="1443588234081"/>
+</node>
+<node TEXT="justice in entropy, non-disappearance of core info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_749829137" CREATED="1443589695500" MODIFIED="1443595949856">
+<font BOLD="false"/>
+</node>
+<node TEXT="winner&apos;s vortex|curse" ID="ID_842048070" CREATED="1443596090503" MODIFIED="1443596106813">
+<node TEXT="from a very young age knowing whatever group they join, they will own, dominate in _&apos;s attention" ID="ID_1908175182" CREATED="1443589780108" MODIFIED="1443596038369"/>
+<node TEXT="beauty, money, talent, wisdom[love]" ID="ID_922632571" CREATED="1443596045410" MODIFIED="1443596083627">
+<node TEXT="love as a wisdom" ID="ID_328700186" CREATED="1443596065024" MODIFIED="1443596076284"/>
+</node>
+</node>
+<node TEXT="you were with them as the police" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1956431523" CREATED="1443589928804" MODIFIED="1443596128712">
+<font BOLD="false"/>
+<node TEXT="depicted as, to _ as" ID="ID_202060709" CREATED="1443589937429" MODIFIED="1443589942748"/>
+</node>
+<node TEXT="caged by another&apos;s selection of what to publish" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_273929864" CREATED="1443589994028" MODIFIED="1443596147031">
+<font BOLD="false"/>
+</node>
+<node TEXT="know what to make fun of and you&apos;re invincible" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_987001218" CREATED="1443590281284" MODIFIED="1443596154144">
+<font BOLD="false"/>
+</node>
+<node TEXT="flatter in reality, joke metaphor attack, repeat" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1357306457" CREATED="1443590289156" MODIFIED="1443596204607">
+<font BOLD="false"/>
+<node TEXT="to give self-awareness" ID="ID_78936251" CREATED="1443596168280" MODIFIED="1443596187189"/>
+</node>
+<node TEXT="dealing with childish" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1388506220" CREATED="1443590909980" MODIFIED="1443596209820">
+<node TEXT="places|groups" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_701751695" CREATED="1443590976502" MODIFIED="1443590980890"/>
+<node TEXT="on both sides" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_461053163" CREATED="1443591034484" MODIFIED="1443591036872"/>
+<node ID="ID_786329207" CREATED="1443590927970" MODIFIED="1443590927970"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      family
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="jail" ID="ID_1196882417" CREATED="1443590928444" MODIFIED="1443590929661"/>
+<node TEXT="school" ID="ID_727180617" CREATED="1443590934333" MODIFIED="1443590936483"/>
+<node TEXT="sport" ID="ID_1019591562" CREATED="1443590951877" MODIFIED="1443590953138"/>
+<node TEXT="business" ID="ID_1313285750" CREATED="1443590953364" MODIFIED="1443590954412"/>
+<node TEXT="relig" ID="ID_1945737001" CREATED="1443591029037" MODIFIED="1443591065462"/>
+</node>
+<node TEXT="childish" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_454031100" CREATED="1443591135548" MODIFIED="1443596253708">
+<node TEXT="love wrong, feel(believe) bad good" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_959764511" CREATED="1443591171597" MODIFIED="1443591265498"/>
+<node TEXT="pain as pleasure, love wrong thing" ID="ID_899480346" CREATED="1443591218522" MODIFIED="1443591602582"/>
+<node TEXT="love wrong person = judge wrong" ID="ID_717307863" CREATED="1443591141693" MODIFIED="1443591588170"/>
+</node>
+<node TEXT="transcribe the drums" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_89842579" CREATED="1443591747031" MODIFIED="1443596263148">
+<font BOLD="false"/>
+<node TEXT="https://www.youtube.com/watch?v=Qd1-pkdi5BI" ID="ID_43253838" CREATED="1443591751345" MODIFIED="1443591751345" LINK="https://www.youtube.com/watch?v=Qd1-pkdi5BI"/>
+<node TEXT="sea and cake, weekend" ID="ID_547503916" CREATED="1443591751878" MODIFIED="1443591759714"/>
+</node>
+<node TEXT="pedestal the beard" ID="ID_1595132756" CREATED="1443592806518" MODIFIED="1443592809222"/>
 </node>
 </node>
 </node>

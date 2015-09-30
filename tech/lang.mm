@@ -16675,6 +16675,24 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="http://packdeps.haskellers.com/reverse/fgl" ID="ID_21824578" CREATED="1439753618869" MODIFIED="1439753618869" LINK="http://packdeps.haskellers.com/reverse/fgl"/>
 </node>
 <node TEXT="float exponent (**), int exponent (^), and there&apos;s ^^ too" ID="ID_975699560" CREATED="1443084905239" MODIFIED="1443085055013"/>
+<node TEXT="type declarations can mask each other" ID="ID_77952530" CREATED="1443407831004" MODIFIED="1443407843182">
+<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1109741872" CREATED="1443407883969" MODIFIED="1443407886049"/>
+<node ID="ID_1365511905" CREATED="1443407881095" MODIFIED="1443407881095"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font size="23.66px" color="rgb(78, 98, 114)" face="sans-serif"><span http-equiv="content-type" style="color: rgb(78, 98, 114); text-transform: none; float: none; line-height: 13.2496px; font-weight: bold; word-spacing: 0px; display: inline !important; background-color: rgb(255, 255, 255); font-size: 23.66px; text-indent: 0px; white-space: normal; font-style: normal; font-family: sans-serif; text-align: left; font-variant: normal; letter-spacing: normal" content="text/html; charset=utf-8"><b>Data.Attoparsec.ByteString.Char8</b></span></font> 
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="type Parser = Parser ByteString" ID="ID_1882713373" CREATED="1443407844472" MODIFIED="1443407845412"/>
+</node>
+<node TEXT="? parse: infexes, precedence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1908789644" CREATED="1443423968786" MODIFIED="1443423984761"/>
 </node>
 <node TEXT="Json" POSITION="right" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
 <font BOLD="true"/>
@@ -18586,6 +18604,59 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="-- Alex on Lurk/Tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_77883230" CREATED="1443118135363" MODIFIED="1443118143895"/>
 <node TEXT="&quot;There&apos;s also Julian&apos;s dirt rewrite which is available as a quark package for the upcoming version of SuperCollider.&quot;" ID="ID_1356703427" CREATED="1443118130407" MODIFIED="1443118134844"/>
 </node>
+</node>
+<node TEXT="Tidal: tutorial on Git (unread)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_178476156" CREATED="1443378356243" MODIFIED="1443398307138">
+<font BOLD="false"/>
+<node TEXT="https://github.com/tidalcycles/Tidal/blob/master/tutorial/tutorial.md" ID="ID_1284051164" CREATED="1443378361813" MODIFIED="1443378361813" LINK="https://github.com/tidalcycles/Tidal/blob/master/tutorial/tutorial.md"/>
+</node>
+<node TEXT="finite duration" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1908261699" CREATED="1443378839197" MODIFIED="1443398306611">
+<font BOLD="false"/>
+<node TEXT="This will play the new pattern for 8 cycles and then degrade it&#xa;(increasingly filter out events) over 4 cycles until there&apos;s nothing&#xa;left&#xa;&#xa;  t1 (mortal 8 4) $ sound &quot;bd(5,8)&quot;" ID="ID_1366919809" CREATED="1443387148786" MODIFIED="1443387149649"/>
+</node>
+<node TEXT="Parser notes" ID="ID_497510138" CREATED="1443398301331" MODIFIED="1443398309722">
+<font BOLD="true"/>
+<node TEXT="imports" ID="ID_857054638" CREATED="1443398347421" MODIFIED="1443398348440">
+<node TEXT="Parsec" ID="ID_30100385" CREATED="1443398335955" MODIFIED="1443398343515">
+<node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec.html" ID="ID_201899254" CREATED="1443398334655" MODIFIED="1443398334655" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec.html"/>
+</node>
+<node TEXT="Parsec.Token as P" ID="ID_1644913352" CREATED="1443398357867" MODIFIED="1443398363035">
+<node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec-Token.html" ID="ID_599296724" CREATED="1443398357195" MODIFIED="1443398357195" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec-Token.html"/>
+</node>
+<node TEXT="Parsec.Language (haskellDef)" ID="ID_230314776" CREATED="1443398393347" MODIFIED="1443398409952">
+<node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec-Language.html" ID="ID_1795061923" CREATED="1443398397407" MODIFIED="1443398397407" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec-Language.html"/>
+</node>
+<node TEXT="GHC.Exts( IsString(..) )" ID="ID_1342624014" CREATED="1443398437299" MODIFIED="1443398439698"/>
+<node TEXT="more" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_573894791" CREATED="1443398456251" MODIFIED="1443398458138"/>
+</node>
+<node TEXT="Parseable a" ID="ID_1775324341" CREATED="1443398500695" MODIFIED="1443398502938">
+<node TEXT="class Parseable a where&#xa;  p :: String -&gt; Pattern a" ID="ID_1778777405" CREATED="1443398507723" MODIFIED="1443398508465"/>
+<node TEXT="p is always ParseRhythm" ID="ID_1273189412" CREATED="1443398510387" MODIFIED="1443398555242"/>
+<node TEXT="Parseable =&gt;* IsString" ID="ID_1622267816" CREATED="1443398588091" MODIFIED="1443398599730">
+<node TEXT="instance (Parseable a) =&gt; IsString (Pattern a) where&#xa;  fromString = p" ID="ID_1964616685" CREATED="1443398600347" MODIFIED="1443398601450"/>
+<node TEXT="read carefully: Parseable !! Pattern" ID="ID_1301427906" CREATED="1443398603370" MODIFIED="1443398622399"/>
+</node>
+</node>
+<node TEXT="the? lexer" ID="ID_418057314" CREATED="1443402490278" MODIFIED="1443402500323">
+<node TEXT="? it&apos;s just Haskell" ID="ID_691800221" CREATED="1443402515203" MODIFIED="1443402521804">
+<node TEXT="lexer   = P.makeTokenParser haskellDef" ID="ID_119511977" CREATED="1443402511741" MODIFIED="1443402512651"/>
+</node>
+<node TEXT="? the lexer is a parser" ID="ID_768545372" CREATED="1443402554638" MODIFIED="1443402562435"/>
+<node TEXT="? other parsers are made from the lexer" ID="ID_1114722146" CREATED="1443402568575" MODIFIED="1443402573621">
+<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_851233623" CREATED="1443402591506" MODIFIED="1443402592785"/>
+<node TEXT="angles = P.angles lexer" ID="ID_1647644065" CREATED="1443402587175" MODIFIED="1443402591069"/>
+</node>
+</node>
+<node TEXT="r?" ID="ID_282133661" CREATED="1443404830222" MODIFIED="1443404834264">
+<node TEXT="it is defined (search &quot;r ::&quot;) in Parse.hs, but used nowhere" ID="ID_1708107669" CREATED="1443404835083" MODIFIED="1443404852524"/>
+<node TEXT="egrep &quot;(^|\W)r($|\W)&quot; *" ID="ID_1136289521" CREATED="1443404916532" MODIFIED="1443404916532">
+<node TEXT="was" ID="ID_137497547" CREATED="1443404917919" MODIFIED="1443404918292">
+<node TEXT="egrep &quot;(^|[^a-zA-Z])r([^a-zA-Z]|$)&quot; *" ID="ID_208976308" CREATED="1443404863911" MODIFIED="1443404883700"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="surely haskell emacs multi-line eval is already written" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1562334572" CREATED="1443419036354" MODIFIED="1443419094691">
+<node TEXT="dup to git" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_219155015" CREATED="1443419043471" MODIFIED="1443419045852"/>
 </node>
 </node>
 <node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">

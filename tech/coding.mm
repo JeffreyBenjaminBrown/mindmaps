@@ -2671,8 +2671,10 @@
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="dwt &amp; dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1673927663" CREATED="1438458705692" MODIFIED="1438458717696">
+<node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_696247046" CREATED="1443488242550" MODIFIED="1443488244738">
 <node TEXT="my codg proc" LOCALIZED_STYLE_REF="default" ID="ID_1236446785" CREATED="1437941171963" MODIFIED="1438458722393">
 <node TEXT="when about to git commit, review the svn commits since last git commit; can that way do it less oft" ID="ID_702786372" CREATED="1437700452131" MODIFIED="1437700468250"/>
+</node>
 </node>
 <node TEXT="dwt" LOCALIZED_STYLE_REF="default" ID="ID_918928412" CREATED="1426288791025" MODIFIED="1438458722391">
 <node TEXT="! considering: coding/dwt just for code, but with pointers into rep.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_484209221" CREATED="1435011713330" MODIFIED="1435011780093"/>
@@ -14755,9 +14757,12 @@
 </node>
 <node TEXT="25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_22559301" CREATED="1440549269268" MODIFIED="1440549271106"/>
 <node TEXT="in svn don&apos;t label just the work; explain the problems, if they fit, for evid of which matter" ID="ID_650095595" CREATED="1440135357187" MODIFIED="1440135380366"/>
+<node TEXT="colored edges are good for trance behavior separation" ID="ID_722216187" CREATED="1440793638591" MODIFIED="1440793668494">
+<node TEXT="rival @ rep not info" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1248218481" CREATED="1440795977445" MODIFIED="1440795995211"/>
+<node TEXT="know based on mood whether to follow which color or not" ID="ID_1450884056" CREATED="1440793684166" MODIFIED="1440793702228"/>
 </node>
-<node TEXT="09 .." ID="ID_191928290" CREATED="1441395038867" MODIFIED="1441395040457">
-<node TEXT="2015 09 02" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_521694504" CREATED="1441395042627" MODIFIED="1441395045842"/>
+</node>
+<node TEXT="2015 09 02" LOCALIZED_STYLE_REF="default" ID="ID_521694504" CREATED="1441395042627" MODIFIED="1443596379210">
 <node TEXT="rename dwt Branches!, make identifiable" ID="ID_1473677244" CREATED="1441237630252" MODIFIED="1441237649231"/>
 <node TEXT="nesting sentence diagrams" ID="ID_423312667" CREATED="1441844221712" MODIFIED="1441844229255">
 <node TEXT="display as collections of -s that group the above-them, each lower on the page being rootward in the graph, the lowest omittable because it&apos;s just one pair of parens" ID="ID_1224415640" CREATED="1441844246600" MODIFIED="1441844304875"/>
@@ -14788,6 +14793,27 @@
 </node>
 </node>
 </node>
+<node TEXT="maybe only use unsorted as stack, because too many ideas arrived too quickly to hold all while serially processing without cogv-external memory" LOCALIZED_STYLE_REF="default" ID="ID_789332691" CREATED="1441411588301" MODIFIED="1441838294362">
+<node TEXT="\my rep proc" ID="ID_1936860657" CREATED="1441411658021" MODIFIED="1441411660298"/>
+</node>
+</node>
+<node TEXT="17" ID="ID_418286846" CREATED="1442517907744" MODIFIED="1443596375166">
+<node TEXT="file format can be a list of statements" ID="ID_192021958" CREATED="1442517955097" MODIFIED="1442517960582">
+<node TEXT="stmt 1: the dog is fat" ID="ID_763200359" CREATED="1442517961457" MODIFIED="1442517967518"/>
+<node TEXT="stmt 2: dog" ID="ID_178893424" CREATED="1442517967761" MODIFIED="1442517976071"/>
+</node>
+<node TEXT="stmt v. expr" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1256369917" CREATED="1442517984737" MODIFIED="1442518001070">
+<node TEXT="stmts stand on their own" ID="ID_405587715" CREATED="1442517992633" MODIFIED="1442518000079"/>
+<node TEXT="expr used in them but not expected to be useful to reader on their own" ID="ID_1703796781" CREATED="1442518056889" MODIFIED="1442518069742">
+<node TEXT="they are like leaves" ID="ID_1499027053" CREATED="1442518082033" MODIFIED="1442518090174"/>
+</node>
+<node TEXT="exception: some exprs elevated, serving double duty as parents|categories and elements of stmts" ID="ID_680256846" CREATED="1442518093905" MODIFIED="1442518114952"/>
+</node>
+<node TEXT="these categs" ID="ID_503270146" CREATED="1441835639837" MODIFIED="1441835644154">
+<node TEXT="rep! impract &gt; dub, both coldish, not to investigate without reason" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1949356146" CREATED="1441690067896" MODIFIED="1441835612385"/>
+<node TEXT="rep ~ lang" ID="ID_219260891" CREATED="1441689741448" MODIFIED="1441689743141"/>
+</node>
+<node TEXT="don&apos;t need perfect rep before read more" ID="ID_1252973252" CREATED="1441942619495" MODIFIED="1441942624975"/>
 </node>
 <node TEXT="acc from fresh" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_367868615" CREATED="1442800228127" MODIFIED="1442801098214">
 <node TEXT="fresh 2015 07 28 - 08 20: took dwt(rep, rep proc, etc.)" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_914363259" CREATED="1442800806368" MODIFIED="1442800907835"/>
@@ -15086,6 +15112,101 @@
 <node TEXT="word(punct) and &gt;(word) prevents punct(resp|)word from modifying what is right of it" ID="ID_1641516955" CREATED="1442360859268" MODIFIED="1442360918353">
 <node TEXT="marij &gt;(I) music" ID="ID_182854908" CREATED="1442360818924" MODIFIED="1442360856637"/>
 </node>
+</node>
+</node>
+<node TEXT="text parse" ID="ID_468196363" CREATED="1443487508560" MODIFIED="1443487535765">
+<node TEXT="word" ID="ID_947597508" CREATED="1443487771352" MODIFIED="1443487772581">
+<node TEXT="is any sequence of non-whitespace characters bounded by nothing but start of line, end of line or whitespace" ID="ID_1963286466" CREATED="1443487553176" MODIFIED="1443487786599"/>
+</node>
+<node TEXT="NodeText" ID="ID_1568364237" CREATED="1443487774652" MODIFIED="1443487776622">
+<node TEXT="is" ID="ID_1165865943" CREATED="1443487788248" MODIFIED="1443487789340">
+<node TEXT="NodeText is the text content of a node." ID="ID_1184548470" CREATED="1443487667532" MODIFIED="1443487717603">
+<node TEXT="whether that node is Stmt or Rel" ID="ID_1523992070" CREATED="1443487726661" MODIFIED="1443487750066"/>
+</node>
+</node>
+<node TEXT="detecting" ID="ID_596315687" CREATED="1443487792898" MODIFIED="1443487794617">
+<node TEXT="any contiguous collection of non-Rel words, bounded by  nothing but end of line, start of line or a Rel, is NodeText for a Stmt" ID="ID_52542975" CREATED="1443487830504" MODIFIED="1443487912429"/>
+<node TEXT="any word starting with punct is a Rel" ID="ID_1842263380" CREATED="1443487915609" MODIFIED="1443487966906"/>
+<node TEXT="any parenthetical prefixed with punct is a Rel" ID="ID_43494460" CREATED="1443487941108" MODIFIED="1443487951676"/>
+</node>
+</node>
+<node TEXT="experiments" ID="ID_1667861131" CREATED="1443487976535" MODIFIED="1443487978385">
+<node TEXT="cat : dog :: horse : goat" ID="ID_1186719737" CREATED="1443487979684" MODIFIED="1443487988536">
+<node TEXT=":: after :" ID="ID_1548177337" CREATED="1443487991429" MODIFIED="1443488003278"/>
+</node>
+<node TEXT="cat : dog :$ Hutus : Tutsis" ID="ID_1105023158" CREATED="1443487979684" MODIFIED="1443488166076">
+<node TEXT=":: after :" ID="ID_225031414" CREATED="1443487991429" MODIFIED="1443488003278"/>
+</node>
+<node TEXT="&quot;x argues $ not y&quot; = &quot;x argues against y&quot;" ID="ID_1680686343" CREATED="1443488081158" MODIFIED="1443488104436"/>
+</node>
+</node>
+<node TEXT="2015 09 29" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1792327987" CREATED="1443588704227" MODIFIED="1443596297628">
+<node TEXT="^ for outside" ID="ID_624442271" CREATED="1443588697555" MODIFIED="1443588700810">
+<node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1119518969" CREATED="1443588708043" MODIFIED="1443588709673"/>
+<node TEXT="war on bullshit , role extension" ID="ID_337239115" CREATED="1443585443097" MODIFIED="1443588671661">
+<node TEXT="^first is daily show quote" ID="ID_485804491" CREATED="1443588674427" MODIFIED="1443588689709"/>
+</node>
+</node>
+<node TEXT="if word-outer punct is paren and matching one interior, in like interior" ID="ID_1189748970" CREATED="1443591271692" MODIFIED="1443591296130">
+<node TEXT="whereas word-trailing . so far always word-outer, property of sentence(s)" ID="ID_634537602" CREATED="1443591311477" MODIFIED="1443591329584">
+<node TEXT="plural sentences where . divides two" ID="ID_692665980" CREATED="1443591333973" MODIFIED="1443591354821"/>
+</node>
+</node>
+<node TEXT="3 x-sentence &quot;.&quot;" ID="ID_267361641" CREATED="1443582066652" MODIFIED="1443595813060">
+<node TEXT="terminality x-sentence" ID="ID_1936374881" CREATED="1443582111059" MODIFIED="1443582121188">
+<node TEXT="these three words down.." ID="ID_1587482330" CREATED="1443581889195" MODIFIED="1443581933922">
+<node TEXT="these" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1207910716" CREATED="1443582101572" MODIFIED="1443582103491"/>
+<node TEXT="word. . word" ID="ID_1640001237" CREATED="1443581892726" MODIFIED="1443581897001"/>
+<node TEXT="word . word" ID="ID_489551410" CREATED="1443581898218" MODIFIED="1443581901610"/>
+<node TEXT="word . .word" ID="ID_85603456" CREATED="1443581907787" MODIFIED="1443581913561"/>
+</node>
+<node TEXT="..up allow vary terminality x-sentences" ID="ID_151691489" CREATED="1443582001458" MODIFIED="1443582018975">
+<node TEXT="..up allow one sentence, through one of its words, to (begin or end, decided as which side it&apos;s on) be more terminal" ID="ID_1274135137" CREATED="1443581925114" MODIFIED="1443581997526"/>
+</node>
+</node>
+<node TEXT="is new rule, breaking change" ID="ID_6289049" CREATED="1443582147235" MODIFIED="1443582152393">
+<node TEXT="For sentence separator I reject the immedj-trailing period." ID="ID_288361557" CREATED="1443581806315" MODIFIED="1443581832756">
+<node TEXT="because" ID="ID_112898976" CREATED="1443581870412" MODIFIED="1443581871362">
+<node TEXT="it&apos;s not about one of them" ID="ID_1000459956" CREATED="1443581874004" MODIFIED="1443581879156"/>
+</node>
+</node>
+</node>
+<node TEXT="maybe this terminality thing not so omnipresent choi" ID="ID_279655397" CREATED="1443582863483" MODIFIED="1443582878903"/>
+</node>
+<node TEXT="precedence + symmetry.v.order" ID="ID_898486150" CREATED="1443587370699" MODIFIED="1443587389469">
+<node TEXT="for its child" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1358058550" CREATED="1443588614243" MODIFIED="1443588623009"/>
+<node TEXT="peace, respect, generosity, humility : in person ,, in art : funny bellig, funny half-heard metaph" ID="ID_913366860" CREATED="1443582217859" MODIFIED="1443587357514">
+<node TEXT=": symmetrical" ID="ID_326601688" CREATED="1443587363019" MODIFIED="1443587365376"/>
+</node>
+</node>
+<node TEXT="maybe ending punct as detached from word even if no space" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_590643363" CREATED="1443585463234" MODIFIED="1443595931449">
+<font BOLD="false"/>
+<node TEXT="because . and , are already like that" ID="ID_358510872" CREATED="1443585483554" MODIFIED="1443585489051"/>
+<node TEXT="in word ?- for ? on left, also - alone as alpha connector" ID="ID_1161621242" CREATED="1443585500266" MODIFIED="1443585538093"/>
+</node>
+<node TEXT="diplom includes how write" ID="ID_1538918411" CREATED="1443596743632" MODIFIED="1443596751861">
+<node TEXT="example, dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1016875872" CREATED="1443596757161" MODIFIED="1443596760242"/>
+<node TEXT="prepend deflation to scary" LOCALIZED_STYLE_REF="default" ID="ID_1403762530" CREATED="1442442449915" MODIFIED="1442445181149">
+<node TEXT="before interviewing stephen king, who might disturb some audience, colbert reports on|takes the piss from &quot;lizardman&quot; reports" ID="ID_1852252891" CREATED="1442442452293" MODIFIED="1442442476928"/>
+</node>
+</node>
+<node TEXT="my abbrevs could be property of my dwt, but not another&apos;s" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1289947724" CREATED="1442631179866" MODIFIED="1442631194972">
+<node TEXT="data is stored in full english format, for x-user portability" ID="ID_583052521" CREATED="1442631199442" MODIFIED="1442631225639"/>
+</node>
+<node TEXT="dwt / motiv" ID="ID_818618200" CREATED="1443596807417" MODIFIED="1443596812350">
+<node TEXT="dwt because until I can mindmap faster I will be unwilling to return to labor market and I must return" ID="ID_1843768905" CREATED="1442727237192" MODIFIED="1442727254258">
+<node TEXT="and maybe with it I can line up a job and then spend the rest of my money traveling before starting it" ID="ID_646925323" CREATED="1442727285544" MODIFIED="1442727300989"/>
+</node>
+</node>
+<node TEXT="the rule that the serial relation be a list" ID="ID_1097338016" CREATED="1442728189465" MODIFIED="1442728235410">
+<node TEXT="e.g. no branches in it" ID="ID_631194779" CREATED="1442728239017" MODIFIED="1442728246671"/>
+<node TEXT="does haskell offer a good canned way to encode" ID="ID_608895682" CREATED="1442728208940" MODIFIED="1442728214124">
+<node TEXT="the better test suite, with properties -- QuickCheck?" ID="ID_1247381917" CREATED="1442728255265" MODIFIED="1442728274988"/>
+</node>
+</node>
+<node TEXT="happy face is one word" ID="ID_117212081" CREATED="1442947484122" MODIFIED="1442947488272">
+<node TEXT="&quot;music is rotted one note&quot;" ID="ID_1708096644" CREATED="1442947489073" MODIFIED="1442947500588"/>
+<node TEXT="squarepusher?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_878252282" CREATED="1442947509754" MODIFIED="1442947514097"/>
 </node>
 </node>
 </node>

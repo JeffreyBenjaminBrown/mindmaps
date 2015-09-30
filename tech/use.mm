@@ -6109,6 +6109,56 @@
 <node TEXT="sudo apt-get install supercollider-ide" ID="ID_24632879" CREATED="1442686838707" MODIFIED="1442686839576"/>
 <node TEXT="did not install &quot;supercollider-plugins&quot;; instructions say to do so, but they are out of date, and that package does not (any longer?) exist" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1820391604" CREATED="1442686632415" MODIFIED="1442686654878"/>
 </node>
+<node TEXT="realtime (incomplete)" ID="ID_1765672055" CREATED="1443143874595" MODIFIED="1443596989017">
+<font BOLD="true"/>
+<node TEXT=".serial (so far)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1525803579" CREATED="1443148527728" MODIFIED="1443148532504"/>
+<node ID="ID_115171740" CREATED="1443148496071" MODIFIED="1443148496071"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      realtime jack
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Thu Sep 24 19:00:11 PDT 2015" ID="ID_1209371737" CREATED="1443148519116" MODIFIED="1443148525950"/>
+<node TEXT="emailing lurk/tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_277465770" CREATED="1443148393726" MODIFIED="1443148398173"/>
+<node TEXT="http://jackaudio.org/faq/linux_rt_config.html" ID="ID_748347151" CREATED="1443144493499" MODIFIED="1443144493499" LINK="http://jackaudio.org/faq/linux_rt_config.html"/>
+<node TEXT="tricky bit" ID="ID_1240380734" CREATED="1443145978952" MODIFIED="1443145980337">
+<node TEXT="You need to carry out 3 steps to be able to run JACK with RT scheduling. In what follows, several references are made to the &quot;realtime&quot; group. If this group name already exists, pick a different name and use it instead of &quot;realtime&quot; when following the rest of these instructions. The actual name of the group is completely irrelevant." ID="ID_752623518" CREATED="1443143880787" MODIFIED="1443143881661"/>
+</node>
+<node TEXT="what I did" ID="ID_128302876" CREATED="1443145996373" MODIFIED="1443145997758">
+<node TEXT=".serial &quot;it|that&quot; refs" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1095330079" CREATED="1443146061288" MODIFIED="1443146072792"/>
+<node TEXT="/etc/security/limits.d/ already existed" ID="ID_1024583659" CREATED="1443146011440" MODIFIED="1443146022588"/>
+<node TEXT="in it I made 99-realtime.conf" ID="ID_1222907916" CREATED="1443146024149" MODIFIED="1443146056237"/>
+<node TEXT="in that I added first this text" ID="ID_168562951" CREATED="1443146056518" MODIFIED="1443146133630">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_953012359" STARTINCLINATION="205;0;" ENDINCLINATION="205;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="@realtime   -  rtprio     99&#xa;@realtime   -  memlock    unlimited" ID="ID_1434278103" CREATED="1443146086084" MODIFIED="1443146086990"/>
+</node>
+<node TEXT="I added a &quot;realtime&quot; group, and added myself to it." ID="ID_788700622" CREATED="1443146094339" MODIFIED="1443146111179"/>
+<node TEXT="I found the &quot;audio&quot; group, and added myself to it." ID="ID_1822044429" CREATED="1443146099708" MODIFIED="1443146107073"/>
+<node TEXT="still skips" ID="ID_267418019" CREATED="1443146120300" MODIFIED="1443146124225"/>
+<node TEXT="then I changed the text of that file: realtime -&gt; audio" ID="ID_953012359" CREATED="1443146124427" MODIFIED="1443146145059"/>
+</node>
+</node>
+<node TEXT="installed maybe, tested not" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1325354814" CREATED="1443597005200" MODIFIED="1443597013359">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_115171740" STARTINCLINATION="185;0;" ENDINCLINATION="185;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="low latency kernel (installed but not using)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_949031693" CREATED="1443148499430" MODIFIED="1443597021155">
+<node TEXT="installed" ID="ID_1988577030" CREATED="1443148951335" MODIFIED="1443148952478">
+<node TEXT="Thu Sep 24 19:35:11 PDT 2015" ID="ID_44458030" CREATED="1443148516885" MODIFIED="1443148516885"/>
+<node TEXT="sudo apt-get install linux-lowlatency" ID="ID_1510930047" CREATED="1443148490782" MODIFIED="1443148491820"/>
+</node>
+<node TEXT="not using" ID="ID_1615802032" CREATED="1443148953583" MODIFIED="1443148954804">
+<node TEXT="https://help.ubuntu.com/community/UbuntuStudioPreparation" ID="ID_325535380" CREATED="1443148948045" MODIFIED="1443148948045" LINK="https://help.ubuntu.com/community/UbuntuStudioPreparation"/>
+<node TEXT="see section &quot;Starting with the right Kernel (GRUB 2)&quot;" ID="ID_1673201333" CREATED="1443148961207" MODIFIED="1443148967983"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
@@ -6142,7 +6192,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -6208,6 +6257,14 @@
 <node TEXT="catch . this" ID="ID_1580155361" CREATED="1443161062847" MODIFIED="1443161065365"/>
 <node TEXT="? catch=this?" ID="ID_683433909" CREATED="1443161065566" MODIFIED="1443161072854"/>
 <node TEXT="not ! this though" ID="ID_677922610" CREATED="1443161193046" MODIFIED="1443161195758"/>
+</node>
+</node>
+<node TEXT="sound optimization" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1560510169" CREATED="1443126903436" MODIFIED="1443597076584">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1765672055" STARTINCLINATION="80;0;" ENDINCLINATION="80;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="https://help.ubuntu.com/community/UbuntuStudioPreparation" ID="ID_1072662791" CREATED="1443126908379" MODIFIED="1443126908379" LINK="https://help.ubuntu.com/community/UbuntuStudioPreparation"/>
+<node TEXT="&quot;optimizing your audio device (realtime Jack config) will make a larger difference&quot; --hodnick, tidal\lurk, 2015 09 24" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_871120302" CREATED="1443134213041" MODIFIED="1443134255405"/>
+<node TEXT="lists lots of apps (starting* with Ardour)" ID="ID_1095790079" CREATED="1443149082583" MODIFIED="1443149108971">
+<node TEXT="actually with Audacity but it can&apos;t do realtime|latency" ID="ID_1678957173" CREATED="1443149096975" MODIFIED="1443149106028"/>
 </node>
 </node>
 </node>
