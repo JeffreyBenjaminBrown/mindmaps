@@ -56,7 +56,8 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="comedy" POSITION="right" ID="ID_635000623" CREATED="1439235193195" MODIFIED="1439333800994">
+<node TEXT="s" POSITION="right" ID="ID_1088040237" CREATED="1443635032915" MODIFIED="1443635033289">
+<node TEXT="comedy" ID="ID_635000623" CREATED="1439235193195" MODIFIED="1439333800994">
 <font BOLD="true"/>
 <node TEXT="grep for these words" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_851540085" CREATED="1439323218128" MODIFIED="1439323229557">
 <node TEXT="comed|laug|jok|funn|humo|[^v]iron|satir|hilar|hyster" ID="ID_80177868" CREATED="1439323231072" MODIFIED="1439330623815">
@@ -1016,7 +1017,7 @@
 <node TEXT="&quot;Door slowly closing ...&quot;" ID="ID_341095699" CREATED="1440537751465" MODIFIED="1440537758614"/>
 </node>
 </node>
-<node TEXT="mystery" POSITION="right" ID="ID_361048470" CREATED="1442617350351" MODIFIED="1442617351592">
+<node TEXT="mystery" ID="ID_361048470" CREATED="1442617350351" MODIFIED="1442617351592">
 <node TEXT="? magic of another&apos;s _" LOCALIZED_STYLE_REF="default" ID="ID_1648249196" CREATED="1438649552587" MODIFIED="1442617353862">
 <node TEXT="magic of the unknown" ID="ID_467110421" CREATED="1438649558139" MODIFIED="1438649561761"/>
 <node TEXT="appreciation for money ~ appreciation for other, imagining how radically different something can be because it is someone else&apos;s story" ID="ID_1116302367" CREATED="1438649392291" MODIFIED="1438649419407"/>
@@ -1026,13 +1027,13 @@
 <node TEXT="~ grass on other side of fence" ID="ID_720231562" CREATED="1438715713164" MODIFIED="1438715721450"/>
 </node>
 </node>
-<node TEXT="suspense" POSITION="right" ID="ID_1925391482" CREATED="1442519564906" MODIFIED="1442519566600">
+<node TEXT="suspense" ID="ID_1925391482" CREATED="1442519564906" MODIFIED="1442519566600">
 <node TEXT="&quot;since [time], [place] [pause] shit [starts over]&quot;" ID="ID_630629128" CREATED="1438211421076" MODIFIED="1442519536206">
 <node TEXT="nick offerman, white house corresp dinner" ID="ID_478908498" CREATED="1442519537426" MODIFIED="1442519546455"/>
 </node>
 <node TEXT="? news that sneaks up on you" ID="ID_975046419" CREATED="1438211568069" MODIFIED="1438211572064"/>
 </node>
-<node TEXT="music" POSITION="right" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
+<node TEXT="music" ID="ID_1430076826" CREATED="1439452476542" MODIFIED="1439452513338">
 <font BOLD="true"/>
 <node TEXT="cyc rep" LOCALIZED_STYLE_REF="default" ID="ID_676989560" CREATED="1434767807598" MODIFIED="1441961563216">
 <node TEXT="= representation of cycles" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_479735717" CREATED="1441957981353" MODIFIED="1441957985872"/>
@@ -1390,11 +1391,11 @@
 <node TEXT="tidal&gt;" ID="ID_888421145" CREATED="1441971218007" MODIFIED="1441971218007"/>
 </node>
 </node>
-<node TEXT="rhyme" POSITION="right" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
+<node TEXT="rhyme" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>
 <node TEXT="form sentence toward what seems a natural rhyme, then deviate" ID="ID_104384863" CREATED="1439509195653" MODIFIED="1439509206642"/>
 </node>
-<node TEXT="diplom" POSITION="right" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1439416832908">
+<node TEXT="diplom" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1439416832908">
 <node TEXT="!! grep-collected" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_58176212" CREATED="1439417311055" MODIFIED="1439422053558">
 <font BOLD="true"/>
 <node TEXT="ongoing : diplom" ID="ID_984478289" CREATED="1439417320095" MODIFIED="1439417330621"/>
@@ -1689,17 +1690,17 @@
 <node TEXT="even not showing outward signs of it, someone might dislike talking about something they are embarrassed about and avoid talking at all because of it" ID="ID_1630848169" CREATED="1438984687183" MODIFIED="1438984710341"/>
 <node TEXT="Can I ask someone else to repair my relationship with _? to ask them whether it is damaged?" ID="ID_780604883" CREATED="1426819019551" MODIFIED="1441389693241"/>
 </node>
-<node TEXT="camera" POSITION="right" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440649064066">
+<node TEXT="camera" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440649064066">
 <font BOLD="false"/>
 <node TEXT="was photog|film" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_562916017" CREATED="1440649067230" MODIFIED="1440649071369"/>
 <node TEXT="camera v. star" ID="ID_532298338" CREATED="1440224945996" MODIFIED="1440538386653">
 <node TEXT="when star mentions problem, zoom in on star as if to say &quot;it&apos;s here&quot;" ID="ID_705656297" CREATED="1440224953548" MODIFIED="1440224965214"/>
 </node>
 </node>
-<node TEXT="mic" POSITION="right" ID="ID_1442014852" CREATED="1440649072742" MODIFIED="1440649076589">
+<node TEXT="mic" ID="ID_1442014852" CREATED="1440649072742" MODIFIED="1440649076589">
 <node TEXT="turn, moe relv mic $ head $ to introduce a new char" ID="ID_1325532513" CREATED="1440649077390" MODIFIED="1440649111778"/>
 </node>
-<node TEXT="medit" POSITION="right" ID="ID_1584023975" CREATED="1441395138956" MODIFIED="1441396863749">
+<node TEXT="medit" ID="ID_1584023975" CREATED="1441395138956" MODIFIED="1441396863749">
 <font BOLD="true"/>
 <node TEXT="meditation : identify question-response cycles" ID="ID_1304887601" CREATED="1441310322373" MODIFIED="1441310330610"/>
 <node TEXT="meditation &gt;? to do list" ID="ID_446751497" CREATED="1441318929486" MODIFIED="1441318937084"/>
@@ -1877,12 +1878,12 @@
 </node>
 </node>
 </node>
-<node TEXT="action" POSITION="right" ID="ID_608190921" CREATED="1442617264513" MODIFIED="1442617384099">
+<node TEXT="action" ID="ID_608190921" CREATED="1442617264513" MODIFIED="1442617384099">
 <node TEXT="wizard ~ gunslinger" ID="ID_522501596" CREATED="1438648690066" MODIFIED="1442617400184">
 <node TEXT="power slinger" ID="ID_1441223292" CREATED="1438648698346" MODIFIED="1438648700056"/>
 </node>
 </node>
-<node TEXT="art being|integ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_262668557" CREATED="1440539661057" MODIFIED="1440539707088">
+<node TEXT="art being|integ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_262668557" CREATED="1440539661057" MODIFIED="1440539707088">
 <font BOLD="false"/>
 <node TEXT="= the (? presentation of) self as public service" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1967560582" CREATED="1440539678872" MODIFIED="1440539696094"/>
 <node TEXT="I could unharsh my vocal &quot;a&quot; sounds." ID="ID_1228934955" CREATED="1440217104768" MODIFIED="1440539647984"/>
@@ -1893,7 +1894,7 @@
 </node>
 <node TEXT="? pay for the film to see the people who buy the film" ID="ID_847291582" CREATED="1440135396030" MODIFIED="1440135413452"/>
 </node>
-<node TEXT="bundles" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_533607381" CREATED="1439416813526" MODIFIED="1439416816417">
+<node TEXT="bundles" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_533607381" CREATED="1439416813526" MODIFIED="1439416816417">
 <node TEXT="musical bargaining over being" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_697832405" CREATED="1439429271142" MODIFIED="1439452537169">
 <node TEXT="over the work of being" ID="ID_1899471601" CREATED="1439429300766" MODIFIED="1439429303181"/>
 <node TEXT="over time-density, density, difficulty" ID="ID_585419917" CREATED="1439429303487" MODIFIED="1439429318724"/>
@@ -1935,7 +1936,7 @@
 </node>
 <node TEXT="music ? race" ID="ID_1810577110" CREATED="1439505380152" MODIFIED="1439583368910"/>
 </node>
-<node TEXT="performance genj" POSITION="right" ID="ID_1758193247" CREATED="1439424596073" MODIFIED="1439424603990">
+<node TEXT="performance genj" ID="ID_1758193247" CREATED="1439424596073" MODIFIED="1439424603990">
 <node TEXT="performance influenced by audience" ID="ID_1770180792" CREATED="1359614608507" MODIFIED="1359614621662">
 <node TEXT="example: empathic storytelling" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_985907773" CREATED="1358232118497" MODIFIED="1359614643539"/>
 <node TEXT="in recounting a story, perhaps a dream, how should one use what one knows about one&apos;s audience to choose which details to report? to engage them? to lead them to find analogies between themselves and elements of it?" ID="ID_1283825517" CREATED="1358230778378" MODIFIED="1358230837606"/>
@@ -1946,8 +1947,97 @@
 <node TEXT="if one disbelieves the organic hypothesis for conscious life and the creation of meaning, the idea of performance becomes absurd" ID="ID_1190957417" CREATED="1439369129727" MODIFIED="1441401574446"/>
 </node>
 </node>
-<node TEXT="wear green" POSITION="right" ID="ID_1569933311" CREATED="1438331558966" MODIFIED="1438457779874">
+<node TEXT="wear green" ID="ID_1569933311" CREATED="1438331558966" MODIFIED="1438457779874">
 <node TEXT="guessing at its average interpretation, use in statements" ID="ID_432039016" CREATED="1438331566910" MODIFIED="1438331577972"/>
+</node>
+</node>
+<node TEXT="d" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_309435370" CREATED="1443635026227" MODIFIED="1443635037238">
+<node TEXT="07 28" ID="ID_1342150508" CREATED="1438139627188" MODIFIED="1443635019664">
+<node TEXT="the fetal position $ an itunes autodisplay to accompany music" ID="ID_1027633689" CREATED="1438138075339" MODIFIED="1438139613071"/>
+</node>
+<node TEXT="8 5-7" ID="ID_1556781022" CREATED="1442619397947" MODIFIED="1443635190977">
+<node TEXT="buildings as art interior to a room" ID="ID_770591781" CREATED="1438842658123" MODIFIED="1438842663293"/>
+<node TEXT="&quot;star-wipe&quot;" ID="ID_147023190" CREATED="1438838179844" MODIFIED="1438910732981">
+<node TEXT="is a thing in film where a star containing the next scene expands from the center of the screen" ID="ID_1011657361" CREATED="1438910741109" MODIFIED="1438910761243"/>
+</node>
+</node>
+<node TEXT="8 11-12 art" ID="ID_757277064" CREATED="1442621480388" MODIFIED="1443635214345">
+<node TEXT="energy ride @ music, comedy" ID="ID_1142598524" CREATED="1439360575589" MODIFIED="1442621476253">
+<node TEXT="a motif repeats with variations like &quot;energy just comes from somewhere, it is reliable&quot; as if speaker rides that" ID="ID_781363293" CREATED="1439360578631" MODIFIED="1439360613567"/>
+</node>
+<node TEXT="reasons for" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1014683784" CREATED="1442622142692" MODIFIED="1442622146183">
+<node TEXT="music|tech-familiar patterns for perceptual dropout" ID="ID_1682321463" CREATED="1439365835851" MODIFIED="1442622135600"/>
+</node>
+</node>
+<node TEXT="8 13 art / why" ID="ID_1458059805" CREATED="1442640856159" MODIFIED="1443635240683">
+<node TEXT="death and sparkles equally valid work" ID="ID_1577428230" CREATED="1439532410468" MODIFIED="1439532418729">
+<node TEXT="death : perhaps I meant the work of recogg it" ID="ID_903913122" CREATED="1439532428004" MODIFIED="1439584865897"/>
+</node>
+</node>
+<node TEXT="8 14-15, art / expr" ID="ID_1750129637" CREATED="1442641471592" MODIFIED="1443635258778">
+<node TEXT="paint ideal using its oppos" ID="ID_178658301" CREATED="1442641435544" MODIFIED="1442641447974">
+<node TEXT="louis ck usefully explains when he considers a woman an adult. one could usefully do similar for men, and as easily by ridicuing the early as by explaining maturity" ID="ID_1694641564" CREATED="1439593345630" MODIFIED="1439593389821"/>
+</node>
+<node TEXT="makeup ~ art" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_554113774" CREATED="1439594181126" MODIFIED="1439594188066">
+<node TEXT="both internal to something, ?oft indirect engagement" ID="ID_695408664" CREATED="1439594194230" MODIFIED="1439594230489"/>
+</node>
+<node TEXT="consider partial interps" ID="ID_1007200916" CREATED="1442641801999" MODIFIED="1442641805030">
+<node TEXT="heads(nested) of a stmt" ID="ID_113655013" CREATED="1442641808168" MODIFIED="1442641825078">
+<node TEXT="because there is time" ID="ID_1122115189" CREATED="1442641827544" MODIFIED="1442641830332"/>
+</node>
+</node>
+<node TEXT="frowny bricks" ID="ID_368844062" CREATED="1442642216240" MODIFIED="1442642219134">
+<node TEXT="&quot;it kind of smiled, yes, mostly it was being square&quot;" ID="ID_1570712860" CREATED="1439775587015" MODIFIED="1442644912431"/>
+<node TEXT="being in space, extend in every direction, implicit ?recurs work" ID="ID_512018178" CREATED="1439775605079" MODIFIED="1439775625504"/>
+<node TEXT="CGI, cartoon" ID="ID_1689413717" CREATED="1440185938458" MODIFIED="1442644904936"/>
+</node>
+</node>
+<node TEXT="2015 08 16 art / why" ID="ID_541330362" CREATED="1442644109585" MODIFIED="1443635275447">
+<node TEXT="need? feeling" ID="ID_1752857435" CREATED="1442644112153" MODIFIED="1442644142939">
+<node TEXT="one can believe one needs to feel _" ID="ID_1678637833" CREATED="1439767418439" MODIFIED="1439767422734">
+<node TEXT="and even that a group needs to feel _" ID="ID_391004928" CREATED="1439767427015" MODIFIED="1439767436526"/>
+<node TEXT="or that matter must permit the feeling of it(the _) by providing conditions ?near it" ID="ID_1102849887" CREATED="1439767442159" MODIFIED="1439767482092"/>
+</node>
+</node>
+</node>
+<node TEXT="2015 08 25-29, o.f. / projs / art" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_289486915" CREATED="1440796759043" MODIFIED="1443635314759">
+<node TEXT="tidal" LOCALIZED_STYLE_REF="default" ID="ID_1555509764" CREATED="1440796107338" MODIFIED="1440796820538">
+<node TEXT="does Tidal ? prefer, for memory|speed purposes, the encoding &quot;bd*4&quot; to &quot;bd bd bd bd&quot;" ID="ID_1004084175" CREATED="1440795517545" MODIFIED="1440795549233"/>
+</node>
+<node TEXT="comedy" LOCALIZED_STYLE_REF="default" ID="ID_522029820" CREATED="1440563734233" MODIFIED="1440796820532">
+<node TEXT="? roast += comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_128739971" CREATED="1440563720785" MODIFIED="1440796176310"/>
+<node TEXT="&quot;I&apos;ll bet you half my shit I&apos;ll never cheat on you.&quot;" ID="ID_841214909" CREATED="1440561331407" MODIFIED="1440561339670">
+<node TEXT="michael che, on rich men proposing marriage" ID="ID_162994360" CREATED="1440561340350" MODIFIED="1440561347742"/>
+</node>
+<node TEXT="&quot;and then after that seemed to end [pause] ..&quot;" ID="ID_1380648240" CREATED="1440565222673" MODIFIED="1440565229343">
+<node TEXT="howard stern" ID="ID_1361928600" CREATED="1440565230336" MODIFIED="1440565232437"/>
+</node>
+<node TEXT="&quot;_. Now, I don&apos;t know what to do with that information ...&quot;" ID="ID_550993036" CREATED="1440567911232" MODIFIED="1440567921262">
+<node TEXT="his bit on if we hated child molesters less, less kids would die from it, was like that" ID="ID_612900501" CREATED="1440567882488" MODIFIED="1440567902486"/>
+</node>
+</node>
+<node TEXT="art gen" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1365272784" CREATED="1440796145410" MODIFIED="1440796205583">
+<font BOLD="false"/>
+<node TEXT="ck recommends retesting something that bombs" ID="ID_1123367433" CREATED="1440567831914" MODIFIED="1440567878154">
+<node TEXT="his bit on if we hated child molesters less, less kids would die from it, was like that" ID="ID_967831483" CREATED="1440567882488" MODIFIED="1440567902486"/>
+</node>
+</node>
+<node TEXT="- go" LOCALIZED_STYLE_REF="default" ID="ID_591653195" CREATED="1440633265554" MODIFIED="1440796818431">
+<node TEXT="v2 use the chorus, to set up|explain|motivate|use c2" ID="ID_1637106636" CREATED="1440644789247" MODIFIED="1440644820544">
+<node TEXT="chorus state a premise*, second verse uses it, such that the chorus has more purpose the secon dtime" ID="ID_1751817562" CREATED="1440641803207" MODIFIED="1440641836537">
+<node TEXT="e.g. &quot;I think I owe you an apology&quot; (Korn) is chorus, usefully|(interpretable as) apologizing after ?gratuitous neg in second verse" ID="ID_665330744" CREATED="1440641837127" MODIFIED="1440641884242"/>
+</node>
+<node TEXT="is dup, main at info not rep" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_348216678" CREATED="1440644862988" MODIFIED="1440644871594"/>
+</node>
+<node TEXT=".? play piano for a comedian" LOCALIZED_STYLE_REF="default" ID="ID_350090156" CREATED="1440630253796" MODIFIED="1440630995019"/>
+<node TEXT="fun ? choose sound effects for (others&apos;) vocals" ID="ID_929837931" CREATED="1440633011105" MODIFIED="1440633030482"/>
+</node>
+</node>
+<node TEXT="29" ID="ID_1441243333" CREATED="1441051232353" MODIFIED="1443635341468">
+<node TEXT="humor more?cerebral than music" ID="ID_619806345" CREATED="1440900330324" MODIFIED="1440900343507"/>
+<node TEXT="artist want to express ~ want others to work with _ data" ID="ID_1160860507" CREATED="1440910879381" MODIFIED="1440910887935"/>
+<node TEXT="jeff ross studied a jail from inside for days before performing to them" ID="ID_637903756" CREATED="1440908228846" MODIFIED="1440908245053"/>
+</node>
 </node>
 </node>
 </map>

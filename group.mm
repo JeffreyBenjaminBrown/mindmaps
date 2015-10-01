@@ -1590,10 +1590,6 @@
 </node>
 </node>
 <node TEXT="Love someone before asking them to change" ID="ID_1335878777" CREATED="1420832534401" MODIFIED="1420832534401"/>
-<node TEXT="divide to persuade" ID="ID_401051946" CREATED="1420607836642" MODIFIED="1420607849112">
-<node TEXT="&quot;divide and conquer&quot;" ID="ID_1166770751" CREATED="1420607849353" MODIFIED="1420607857830"/>
-<node TEXT="can ask, &quot;What if we ...?&quot; to many separately" ID="ID_126674924" CREATED="1419823065298" MODIFIED="1419823081952"/>
-</node>
 <node TEXT="to change another&apos;s wants: consent problem" ID="ID_1236788765" CREATED="1419660372962" MODIFIED="1430114837973">
 <node TEXT="influence" ID="ID_1270577691" CREATED="1419838165427" MODIFIED="1430114842941"/>
 </node>
@@ -1661,9 +1657,6 @@
 </node>
 <node TEXT="schoolchildren try to be astronauts" ID="ID_1055991404" CREATED="1424411311925" MODIFIED="1424411330087"/>
 <node TEXT="2015 03 04" ID="ID_1092274142" CREATED="1425540355606" MODIFIED="1425540844276"/>
-<node TEXT="&quot;only by loving me can you have that&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_571893332" CREATED="1422920904983" MODIFIED="1439257965033">
-<node TEXT="\persua\yuck" ID="ID_918357117" CREATED="1439257966119" MODIFIED="1439257971356"/>
-</node>
 <node TEXT="&quot;to love me is to [love, hate, see lots of] _&quot;" ID="ID_1937202920" CREATED="1425540325189" MODIFIED="1425540339284"/>
 <node TEXT="some bonds intentional, chosen" ID="ID_1906305619" CREATED="1434937023218" MODIFIED="1434937027752"/>
 </node>
@@ -1686,11 +1679,6 @@
 <node TEXT="meet in serial, not parallel" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_103004420" CREATED="1389029619818" MODIFIED="1439258174591">
 <font BOLD="false"/>
 <node TEXT="Do not turn away from someone I just met to meet the people they came with. I have no obligation to pursue all my introductions at once, and I cannot establish a bond with more than one person at a time anyway." ID="ID_734804803" CREATED="1388615742482" MODIFIED="1388615780878"/>
-</node>
-<node TEXT="bond, persuade toward" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1004145555" CREATED="1422867874888" MODIFIED="1439258172978">
-<font BOLD="false"/>
-<node TEXT="rel invest" ID="ID_1319205362" CREATED="1425955416423" MODIFIED="1425955420942"/>
-<node TEXT="argue early &quot;our bond is unbreakably unique&quot;, with examples" ID="ID_392650326" CREATED="1425955058999" MODIFIED="1434937133826"/>
 </node>
 <node TEXT="a two phase awareness, search for bond (actually skipping some here) and then parenting" ID="ID_1620318571" CREATED="1426742829475" MODIFIED="1426742858738">
 <node TEXT="it would change the way you feel most of the time, your concerns, what you spend your time imagining" ID="ID_500966946" CREATED="1426742859060" MODIFIED="1426742872978"/>

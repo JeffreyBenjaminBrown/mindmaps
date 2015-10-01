@@ -15210,6 +15210,16 @@
 </node>
 </node>
 </node>
+<node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1443638669948">
+<node TEXT="fp complete" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1443638662983">
+<node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_514995313" CREATED="1443637160838" MODIFIED="1443637160838" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
+<node TEXT="&quot;Following this specification, we can easily write the parser as follows&quot; ..." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1100284346" CREATED="1443637171261" MODIFIED="1443637181453"/>
+</node>
+<node TEXT="stephen diehl" ID="ID_1424020252" CREATED="1443638560573" MODIFIED="1443638659676">
+<node TEXT="http://dev.stephendiehl.com/fun/002_parsers.html" ID="ID_68560217" CREATED="1443638561787" MODIFIED="1443638561787" LINK="http://dev.stephendiehl.com/fun/002_parsers.html"/>
+<node TEXT="around &quot;option :: Parser a -&gt; Parser a -&gt; Parser a&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1683290201" CREATED="1443638604269" MODIFIED="1443638612897"/>
+</node>
+</node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1436776474141">
 <font BOLD="false"/>
 <node TEXT="use OverloadedStrings" ID="ID_1142289805" CREATED="1436819673097" MODIFIED="1436819677197">
@@ -15682,6 +15692,10 @@
 <node TEXT="biased toward|based on that many char per line" ID="ID_130912016" CREATED="1436604233237" MODIFIED="1436604243570"/>
 <node TEXT="from Aeson.hs/TH.hs" ID="ID_290691486" CREATED="1436604221597" MODIFIED="1436604247494"/>
 </node>
+</node>
+<node TEXT="study" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1443671959622">
+<node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
+<node TEXT="semantic net" ID="ID_1072407917" CREATED="1443671949382" MODIFIED="1443671951285"/>
 </node>
 <node TEXT="loop" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1730897790" CREATED="1407000260013" MODIFIED="1407050898981">
 <node TEXT="links out" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1566064264" CREATED="1407000261901" MODIFIED="1407000275470">

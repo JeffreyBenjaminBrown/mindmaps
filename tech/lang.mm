@@ -16687,7 +16687,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
     <font size="23.66px" color="rgb(78, 98, 114)" face="sans-serif"><span http-equiv="content-type" style="color: rgb(78, 98, 114); text-transform: none; float: none; line-height: 13.2496px; font-weight: bold; word-spacing: 0px; display: inline !important; background-color: rgb(255, 255, 255); font-size: 23.66px; text-indent: 0px; white-space: normal; font-style: normal; font-family: sans-serif; text-align: left; font-variant: normal; letter-spacing: normal" content="text/html; charset=utf-8"><b>Data.Attoparsec.ByteString.Char8</b></span></font> 
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="type Parser = Parser ByteString" ID="ID_1882713373" CREATED="1443407844472" MODIFIED="1443407845412"/>
@@ -18657,6 +18656,22 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="surely haskell emacs multi-line eval is already written" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1562334572" CREATED="1443419036354" MODIFIED="1443419094691">
 <node TEXT="dup to git" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_219155015" CREATED="1443419043471" MODIFIED="1443419045852"/>
+</node>
+<node TEXT="live coders|tidalers on &quot;slack&quot; (irc?)" ID="ID_949977542" CREATED="1443725324568" MODIFIED="1443725334523">
+<node TEXT="quoting alex" ID="ID_1177934844" CREATED="1443725338754" MODIFIED="1443725341563"/>
+<node ID="ID_732005527" CREATED="1443725335556" MODIFIED="1443725335556" LINK="https://livecode.slack.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font size="12.8px" face="arial, sans-serif" color="rgb(34, 34, 34)"><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start" content="text/html; charset=utf-8" http-equiv="content-type"/>
+    <span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">There's a livecode slack channel that Mike Hodnick and I made:</span><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start"/><span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">&#160;</span></font><a target="_blank" style="line-height: normal; font-weight: normal; letter-spacing: normal; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(17, 85, 204); white-space: normal; text-indent: 0px; font-family: arial, sans-serif" href="https://livecode.slack.com/" rel="noreferrer"><font size="12.8px" face="arial, sans-serif" color="rgb(17, 85, 204)">https://livecode.slack.com</font></a> 
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
