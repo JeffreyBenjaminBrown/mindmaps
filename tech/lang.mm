@@ -17881,8 +17881,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -18670,6 +18670,20 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
     <span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">There's a livecode slack channel that Mike Hodnick and I made:</span><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start"/><span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">&#160;</span></font><a target="_blank" style="line-height: normal; font-weight: normal; letter-spacing: normal; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(17, 85, 204); white-space: normal; text-indent: 0px; font-family: arial, sans-serif" href="https://livecode.slack.com/" rel="noreferrer"><font size="12.8px" face="arial, sans-serif" color="rgb(17, 85, 204)">https://livecode.slack.com</font></a> 
   </body>
 </html>
+</richcontent>
+</node>
+<node ID="ID_219202507" CREATED="1443809159740" MODIFIED="1443809159740" LINK="http://livecode.slack.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><br http-equiv="content-type" content="text/html; charset=utf-8" style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/>
+    <span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">If you'd like to join</span><span class="Apple-converted-space">&#160;</span></font><a target="_blank" rel="noreferrer" style="font-size: 12.8px; word-spacing: 0px; color: rgb(17, 85, 204); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; font-family: arial, sans-serif; font-style: normal" href="http://livecode.slack.com/"><font size="12.8px" color="rgb(17, 85, 204)" face="arial, sans-serif">livecode.slack.com</font></a><font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><span class="Apple-converted-space">&#160;</span><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">and the tidal channels please</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">email me (or Anny or Mike).</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/></font> 
+  </body>
+</html>
+
 </richcontent>
 </node>
 </node>
