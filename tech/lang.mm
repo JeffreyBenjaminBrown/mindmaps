@@ -16692,6 +16692,16 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="type Parser = Parser ByteString" ID="ID_1882713373" CREATED="1443407844472" MODIFIED="1443407845412"/>
 </node>
 <node TEXT="? parse: infexes, precedence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1908789644" CREATED="1443423968786" MODIFIED="1443423984761"/>
+<node TEXT="haskell / OverloadedStrings" ID="ID_1085468986" CREATED="1443982278948" MODIFIED="1443982300139">
+<node TEXT="demonstration" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1393180886" CREATED="1443982403286" MODIFIED="1443982406394"/>
+<node TEXT=":set -XOverloadedStrings" ID="ID_1086905657" CREATED="1443982486794" MODIFIED="1443982506720"/>
+<node TEXT="import GHC.Exts( IsString(..) )" ID="ID_607349728" CREATED="1443982301927" MODIFIED="1443982323997"/>
+<node TEXT="data X = X" ID="ID_1192612684" CREATED="1443982344415" MODIFIED="1443982346585"/>
+<node TEXT="instance Show X where show = const &quot;X&quot;" ID="ID_1392599388" CREATED="1443982337365" MODIFIED="1443982603002"/>
+<node TEXT="instance IsString X where fromString = const X" ID="ID_1134851754" CREATED="1443982355215" MODIFIED="1443982367639"/>
+<node TEXT="X" ID="ID_474843878" CREATED="1443982391998" MODIFIED="1443982392620"/>
+<node TEXT="&quot;nerp&quot; :: X" ID="ID_1710876256" CREATED="1443982392881" MODIFIED="1443982400019"/>
+</node>
 </node>
 <node TEXT="Json" POSITION="right" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
 <font BOLD="true"/>
@@ -17515,6 +17525,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="http://www.emacswiki.org/emacs/EmacsLispMode" ID="ID_788143078" CREATED="1417937552049" MODIFIED="1417937552049" LINK="http://www.emacswiki.org/emacs/EmacsLispMode"/>
 <node TEXT="(define-key flyspell-mode-map &quot;\M-\t&quot; nil)" ID="ID_952161789" CREATED="1417937533315" MODIFIED="1417937554718"/>
 </node>
+</node>
+<node TEXT="emacs haskell mode" POSITION="right" ID="ID_1116620833" CREATED="1443926800174" MODIFIED="1443926813867">
+<node TEXT="inferior-haskell-send-command" ID="ID_472467863" CREATED="1443926814284" MODIFIED="1443926814284"/>
 </node>
 <node TEXT="Tidal +" POSITION="right" ID="ID_370683564" CREATED="1414195719623" MODIFIED="1418802873363">
 <node TEXT="init, short" ID="ID_1532390043" CREATED="1439930067933" MODIFIED="1442301747617">
@@ -18683,9 +18696,25 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
     <span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">If you'd like to join</span><span class="Apple-converted-space">&#160;</span></font><a target="_blank" rel="noreferrer" style="font-size: 12.8px; word-spacing: 0px; color: rgb(17, 85, 204); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; font-family: arial, sans-serif; font-style: normal" href="http://livecode.slack.com/"><font size="12.8px" color="rgb(17, 85, 204)" face="arial, sans-serif">livecode.slack.com</font></a><font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><span class="Apple-converted-space">&#160;</span><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">and the tidal channels please</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">email me (or Anny or Mike).</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/></font> 
   </body>
 </html>
-
 </richcontent>
 </node>
+</node>
+<node TEXT="compressor off" ID="ID_1181821930" CREATED="1443898168094" MODIFIED="1443898173098">
+<node TEXT="$ ./dirt --channels 4 --no-dirty-compressor" ID="ID_579319107" CREATED="1443898164642" MODIFIED="1443898166524"/>
+</node>
+<node TEXT="edit two distinct sets of code, toggle" ID="ID_127546861" CREATED="1443923999076" MODIFIED="1443924014842"/>
+<node TEXT="focus :: time -&gt; voice id -&gt; number" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1567536739" CREATED="1443924092212" MODIFIED="1443924276336">
+<node TEXT="/ do / write the list" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_731272557" CREATED="1443924277124" MODIFIED="1443924296945"/>
+<node TEXT="sidechain compressors" ID="ID_1463942344" CREATED="1443924204673" MODIFIED="1443924204673"/>
+</node>
+<node TEXT="shift wave" ID="ID_1350356020" CREATED="1443950094709" MODIFIED="1443950096153">
+<node TEXT="((+0.2)&lt;$&gt;slow 8 sine1))" ID="ID_1311642605" CREATED="1443950096592" MODIFIED="1443950096592"/>
+</node>
+<node TEXT="--" ID="ID_898732906" CREATED="1443982320462" MODIFIED="1443982527616"/>
+<node TEXT="spread" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1110764950" CREATED="1443950345284" MODIFIED="1443950346504">
+<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1446112430" CREATED="1443950383908" MODIFIED="1443950385373"/>
+<node TEXT="d1 $ spread slow [2,4%3] $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_255202491" CREATED="1443950366732" MODIFIED="1443950367694"/>
+<node TEXT="alternate slowing by 2 and by 4/3" ID="ID_119047200" CREATED="1443950369980" MODIFIED="1443950379815"/>
 </node>
 </node>
 <node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
