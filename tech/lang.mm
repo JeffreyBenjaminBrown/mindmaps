@@ -18710,11 +18710,18 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="shift wave" ID="ID_1350356020" CREATED="1443950094709" MODIFIED="1443950096153">
 <node TEXT="((+0.2)&lt;$&gt;slow 8 sine1))" ID="ID_1311642605" CREATED="1443950096592" MODIFIED="1443950096592"/>
 </node>
-<node TEXT="--" ID="ID_898732906" CREATED="1443982320462" MODIFIED="1443982527616"/>
 <node TEXT="spread" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1110764950" CREATED="1443950345284" MODIFIED="1443950346504">
-<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1446112430" CREATED="1443950383908" MODIFIED="1443950385373"/>
+<node TEXT="example" LOCALIZED_STYLE_REF="default" ID="ID_1446112430" CREATED="1443950383908" MODIFIED="1444115137595">
 <node TEXT="d1 $ spread slow [2,4%3] $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_255202491" CREATED="1443950366732" MODIFIED="1443950367694"/>
-<node TEXT="alternate slowing by 2 and by 4/3" ID="ID_119047200" CREATED="1443950369980" MODIFIED="1443950379815"/>
+</node>
+<node TEXT="type" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_650636036" CREATED="1444115138125" MODIFIED="1444115151243">
+<node TEXT="spread :: (a -&gt; t -&gt; Pattern b) -&gt; [a] -&gt; t -&gt; Pattern b" ID="ID_1771193344" CREATED="1444114901325" MODIFIED="1444114902179"/>
+<node TEXT="the t will usually be a Pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1013140105" CREATED="1444115153842" MODIFIED="1444115170428"/>
+</node>
+</node>
+<node TEXT="divide by zero?" ID="ID_1491856554" CREATED="1444119982009" MODIFIED="1444119984302">
+<node TEXT="d3 $ sound &quot;f&quot;  |+| (pit 0 $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;0 10 18&quot;)" ID="ID_238542800" CREATED="1444119984763" MODIFIED="1444120163002"/>
+<node TEXT="up = speed . ((step**) &lt;$&gt;) where step = 2**(1/31)" ID="ID_1781980203" CREATED="1444120202912" MODIFIED="1444120203831"/>
 </node>
 </node>
 <node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">

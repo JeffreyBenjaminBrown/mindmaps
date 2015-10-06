@@ -14497,6 +14497,11 @@
 <node TEXT="? not need consistent across depths" ID="ID_1781464755" CREATED="1438582448716" MODIFIED="1438582449612"/>
 </node>
 </node>
+<node TEXT="3d tree" ID="ID_83578161" CREATED="1441157511390" MODIFIED="1441157600312">
+<node TEXT="3d depth = succession depth" ID="ID_1659036136" CREATED="1441157600653" MODIFIED="1441157624726"/>
+<node TEXT="rotation around depth axis" ID="ID_184064492" CREATED="1441157630703" MODIFIED="1441157662912"/>
+<node TEXT="move camera to depth axis, roots appear as radiating things" ID="ID_1347165301" CREATED="1441157666655" MODIFIED="1441157689726"/>
+</node>
 </node>
 <node TEXT="03" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1323924406" CREATED="1438715489076" MODIFIED="1438755044568">
 <font BOLD="false"/>
