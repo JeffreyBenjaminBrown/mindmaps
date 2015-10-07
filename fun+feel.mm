@@ -56,6 +56,7 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="file began 2015 10 06" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_943114127" CREATED="1444192201612" MODIFIED="1444192217423"/>
 <node TEXT="grep-collecting (IN PROGRESS)" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_154656866" CREATED="1444161973153" MODIFIED="1444180507996">
 <node TEXT="tags to use" ID="ID_7635923" CREATED="1444163267953" MODIFIED="1444163569500">
 <node TEXT="enthu|innoc|cheer|happ[yi]|fun|hype|sun|optim|posit|posv|play|smile|warm|humor|comed|game|dance|chao|passio|curio|fickl|chall|dare|friend|drama|jugg|iron[iy]|perform|mime|puzz|integ|peace|pleas[au]|mood|feel|sex[iy]" ID="ID_309188383" CREATED="1444162184487" MODIFIED="1444170346652"/>
@@ -204,6 +205,9 @@
 <node TEXT="recursive hedonic curiosity" ID="ID_1810090475" CREATED="1440916491017" MODIFIED="1440916521890">
 <node TEXT="e.g. of wine, part of the experience is the experience, one enjoys|is curious about the curiosity" ID="ID_229785743" CREATED="1440916523569" MODIFIED="1440916548456"/>
 </node>
+</node>
+<node TEXT="faith ! curiosity" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_125497436" CREATED="1444201253122" MODIFIED="1444201256452">
+<node TEXT="faith that study will be fun" ID="ID_1643269793" CREATED="1444201259370" MODIFIED="1444201263080"/>
 </node>
 <node TEXT="altruism : The type of happiness provided matters." LOCALIZED_STYLE_REF="default" ID="ID_1684125706" CREATED="1381096560320" MODIFIED="1440916613249">
 <node TEXT="helping people find love&#xa;is ? better than&#xa;helping them find hedonism" ID="ID_1503168765" CREATED="1381096570976" MODIFIED="1444169846779"/>
@@ -1350,7 +1354,8 @@
 <font BOLD="false"/>
 <node TEXT="rebut ? make them feel it, or (more directly) value them" ID="ID_1675435397" CREATED="1444170684054" MODIFIED="1444170703748"/>
 </node>
-<node TEXT="show care" ID="ID_56370945" CREATED="1427702288268" MODIFIED="1438657708084">
+<node TEXT="? show care" ID="ID_56370945" CREATED="1427702288268" MODIFIED="1444202171606">
+<node TEXT="rebut : care &gt; show" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_669428855" CREATED="1444202174899" MODIFIED="1444202184555"/>
 <node TEXT="not too much?" ID="ID_818434558" CREATED="1425340332634" MODIFIED="1427702297268">
 <node TEXT="it can [scare] someone" ID="ID_1859243769" CREATED="1425340348218" MODIFIED="1438657690612"/>
 </node>
@@ -1446,7 +1451,7 @@
 <node TEXT="train, grow skill" ID="ID_678625121" CREATED="1436418539377" MODIFIED="1436418543974">
 <node TEXT="grow a traversible graph of [states such as dunking]" ID="ID_1544032039" CREATED="1436418547232" MODIFIED="1436418576187"/>
 </node>
-<node ID="ID_1123365588" CREATED="1438226880081" MODIFIED="1438226888016"><richcontent TYPE="NODE">
+<node ID="ID_1123365588" CREATED="1438226880081" MODIFIED="1444202227491"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1459,6 +1464,7 @@
   </body>
 </html>
 </richcontent>
+<font BOLD="false"/>
 </node>
 <node TEXT="push limit" ID="ID_1121040152" CREATED="1436418633384" MODIFIED="1436418658464">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_710400466" STARTINCLINATION="47;0;" ENDINCLINATION="47;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>

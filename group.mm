@@ -603,8 +603,9 @@
 <node TEXT="the empathy-short: avoid, not negotiate" ID="ID_178127629" CREATED="1434575785076" MODIFIED="1434575833735">
 <node TEXT="if someone asks you to agree to hurt yourself (e.g.in a contract) don&apos;t nit-pick the contract, rather explain they have to learn to anticipate and care appropriately about consequences to your person before you will [engage them again?]" ID="ID_1077518866" CREATED="1434575574073" MODIFIED="1434575639775"/>
 </node>
-<node TEXT="effect of change of background on partner" LOCALIZED_STYLE_REF="default" ID="ID_894096490" CREATED="1432797984678" MODIFIED="1439425131683">
+<node TEXT="effect of change of background|setting on partner" LOCALIZED_STYLE_REF="default" ID="ID_894096490" CREATED="1432797984678" MODIFIED="1444202703115">
 <node TEXT="\solipsism" ID="ID_625547561" CREATED="1432801179432" MODIFIED="1432801181775"/>
+<node TEXT="\dj" ID="ID_1971714131" CREATED="1444202707715" MODIFIED="1444202709073"/>
 <node TEXT="\empathy" ID="ID_434152926" CREATED="1432801181985" MODIFIED="1432801184150"/>
 </node>
 <node TEXT="Empathy as a concept may have started around 1909." ID="ID_1000950516" CREATED="1427522163545" MODIFIED="1427522172037">

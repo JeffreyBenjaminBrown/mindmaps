@@ -462,6 +462,7 @@
 <node TEXT="= forgivish" ID="ID_1103910594" CREATED="1432354112480" MODIFIED="1432354116363"/>
 <node TEXT="yes _ but you can lead|teach it specifyingly" ID="ID_1544345679" CREATED="1426968795876" MODIFIED="1432353944536"/>
 <node TEXT="yes _ but you know it" ID="ID_29900656" CREATED="1426976525708" MODIFIED="1432354029440">
+<node TEXT="&quot;yes it&apos;s hard to define but&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_868218236" CREATED="1444192360820" MODIFIED="1444192366122"/>
 <node TEXT="b/c your feelings are dependable" ID="ID_71841520" CREATED="1427004018156" MODIFIED="1432353995507"/>
 </node>
 <node TEXT="_s for use in those" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1165282228" CREATED="1432353965158" MODIFIED="1438153555156">
@@ -769,6 +770,9 @@
 <node TEXT="not spend large fraction of time planning time" LOCALIZED_STYLE_REF="default" ID="ID_1804605154" CREATED="1425347572308" MODIFIED="1426372076226"/>
 </node>
 <node TEXT="aware" ID="ID_896939126" CREATED="1435024611194" MODIFIED="1435024611878">
+<node TEXT="? \prog v. \quality" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1860240722" CREATED="1444192642677" MODIFIED="1444192670181">
+<node TEXT="awareness could be an emergent feeling, produced nowhere" ID="ID_1920880987" CREATED="1444192671020" MODIFIED="1444192679906"/>
+</node>
 <node TEXT="&gt; respond" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1766109461" CREATED="1435024826067" MODIFIED="1435024828862"/>
 <node TEXT="track conditions" ID="ID_465338750" CREATED="1426371858204" MODIFIED="1440921919006"/>
 <node TEXT="laziness requires it" ID="ID_1927786903" CREATED="1425365476752" MODIFIED="1426371857956">
@@ -1089,26 +1093,10 @@
 </node>
 <node TEXT="half-action, expect other to complete" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1269316979" CREATED="1425028687695" MODIFIED="1440887947977">
 <font BOLD="false"/>
-<node TEXT="bond" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_347067129" CREATED="1436834884127" MODIFIED="1436834904649"/>
-<node TEXT="depend" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1051999441" CREATED="1436834894704" MODIFIED="1436834904639"/>
-<node TEXT="provoc" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_219544730" CREATED="1436834914984" MODIFIED="1436834919838">
-<node TEXT="flirt" ID="ID_1377178806" CREATED="1436834924056" MODIFIED="1436834924838"/>
-</node>
+<node TEXT="\bond \depend" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_347067129" CREATED="1436834884127" MODIFIED="1444192937164"/>
+<node TEXT="\provoc {flirt}" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_219544730" CREATED="1436834914984" MODIFIED="1444192947473"/>
 <node TEXT="flirting, _ provokes but wants the other to complete" ID="ID_1053884790" CREATED="1425028699671" MODIFIED="1440887966503"/>
-<node ID="ID_51483202" CREATED="1440887948302" MODIFIED="1440887948302"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      abnegation of follow-through
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="abnegate follow-through" ID="ID_51483202" CREATED="1440887948302" MODIFIED="1444192964717"/>
 </node>
 <node TEXT="consistency opportunism" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_548386470" CREATED="1440904870339" MODIFIED="1440904885740">
 <node TEXT="as long as can&apos;t buy, might as well act like not want" ID="ID_232564922" CREATED="1440904821042" MODIFIED="1440904830185"/>
@@ -1464,7 +1452,7 @@
 <node TEXT="married to the devices you implement in your own behavior" ID="ID_1454151874" CREATED="1433129037290" MODIFIED="1433143819529"/>
 </node>
 <node TEXT="2015 08 26" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1364112286" CREATED="1440623455049" MODIFIED="1440623457419"/>
-<node TEXT="if _ knew my imagination" ID="ID_1884176376" CREATED="1434246206197" MODIFIED="1434246234972"/>
+<node TEXT="if _ knew your imagination" ID="ID_1884176376" CREATED="1434246206197" MODIFIED="1444193278644"/>
 <node TEXT="&quot;I need you to understand how much I need you&quot;" ID="ID_216487809" CREATED="1434184226561" MODIFIED="1440623287311"/>
 </node>
 <node TEXT="-&gt; my work" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_876584907" CREATED="1434402550295" MODIFIED="1434402584971">
@@ -1565,6 +1553,23 @@
 </node>
 <node TEXT="ambition @ virality" ID="ID_1725644160" CREATED="1438198808450" MODIFIED="1438198812136"/>
 <node TEXT="should failure notice be total?" ID="ID_1102141981" CREATED="1427261844034" MODIFIED="1427261844034">
+<node TEXT="keep tag" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_186144466" CREATED="1444193361582" MODIFIED="1444193363231">
+<node ID="ID_637566816" CREATED="1444193363587" MODIFIED="1444193363587"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      should failure notice be total?
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 <node TEXT="\coop &gt; \comm" ID="ID_548613663" CREATED="1427696219961" MODIFIED="1427696225854"/>
 <node TEXT="report not difficulty unless I need help or think I might be doing them some good by preparing them for my failure. Consider such conditions an exception under which it is correct to ignore the otherwise implicit demand a friend would have to know how your work is going." ID="ID_849620091" CREATED="1427261844034" MODIFIED="1427261844034"/>
 <node TEXT="perhaps within-team, share partial, but up the chain of command only total" ID="ID_675116607" CREATED="1433748026903" MODIFIED="1433748044688"/>
@@ -1832,6 +1837,7 @@
 <node TEXT="what if dwt" ID="ID_766245926" CREATED="1436422438204" MODIFIED="1436422439618">
 <node TEXT="perhaps I do not think I deserve dwt, and should think more about the consequences of getting it" ID="ID_639962387" CREATED="1430030842309" MODIFIED="1430108759038"/>
 </node>
+<node TEXT="what if community" ID="ID_445742716" CREATED="1444193421284" MODIFIED="1444193434302"/>
 <node TEXT="what if woman" ID="ID_681619934" CREATED="1436422441076" MODIFIED="1436422442611"/>
 <node TEXT="what if happy" ID="ID_716742071" CREATED="1436422450828" MODIFIED="1436422452658"/>
 </node>

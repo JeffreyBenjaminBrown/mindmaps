@@ -78,6 +78,21 @@
 <node TEXT="~ demog, who are; stereot, preconc" ID="ID_872089518" CREATED="1439329119927" MODIFIED="1439329143998"/>
 <node TEXT="~ justice" ID="ID_337775426" CREATED="1439334892181" MODIFIED="1439334894197"/>
 </node>
+<node TEXT="humor enum" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1661401914" CREATED="1444200263610" MODIFIED="1444200500342">
+<node TEXT="just" ID="ID_1708538157" CREATED="1444200452202" MODIFIED="1444200453048"/>
+<node TEXT="observational" ID="ID_1640816942" CREATED="1444200286810" MODIFIED="1444200288447"/>
+<node TEXT="transgressive" ID="ID_912757897" CREATED="1444200440034" MODIFIED="1444200441744"/>
+<node TEXT="narrative" ID="ID_1645354042" CREATED="1444200273491" MODIFIED="1444200286223"/>
+<node TEXT="goofy" ID="ID_388394357" CREATED="1444200266866" MODIFIED="1444200292003"/>
+<node TEXT="absurd" ID="ID_887705002" CREATED="1444200381834" MODIFIED="1444200382816"/>
+<node TEXT="verbal" ID="ID_564652312" CREATED="1444200348002" MODIFIED="1444200348872"/>
+<node TEXT="worse .." LOCALIZED_STYLE_REF="default" ID="ID_1155563503" CREATED="1444200350218" MODIFIED="1444200367464">
+<font BOLD="false"/>
+<node TEXT="lewd" LOCALIZED_STYLE_REF="default" ID="ID_1477939373" CREATED="1444200298666" MODIFIED="1444200357453"/>
+<node TEXT="mean" LOCALIZED_STYLE_REF="default" ID="ID_1057539731" CREATED="1444200332970" MODIFIED="1444200357459"/>
+<node TEXT="bitter" LOCALIZED_STYLE_REF="default" ID="ID_1880134401" CREATED="1444200340618" MODIFIED="1444200357461"/>
+</node>
+</node>
 <node TEXT="underst &gt; ridic" ID="ID_572949281" CREATED="1439323089864" MODIFIED="1439323092766">
 <node TEXT="delay comedy to teach?" ID="ID_653866051" CREATED="1421049843401" MODIFIED="1421049856823"/>
 <node TEXT="comedy can wait until recog same world" ID="ID_661266058" CREATED="1421049812793" MODIFIED="1421049825494"/>
@@ -106,6 +121,7 @@
 <node TEXT="having missed that it was chosen, that they would want it that way" ID="ID_663585940" CREATED="1395896291760" MODIFIED="1400565062999">
 <node TEXT="benevolently tried and sentenced without notice" ID="ID_1824043692" CREATED="1395896312701" MODIFIED="1400565083190"/>
 </node>
+<node TEXT="irony ! recurs" ID="ID_1262735560" CREATED="1444200223265" MODIFIED="1444200227623"/>
 </node>
 <node TEXT="break categories" LOCALIZED_STYLE_REF="default" ID="ID_268125407" CREATED="1359704243038" MODIFIED="1439323909755">
 <node TEXT="e.g. the third item in the list below" ID="ID_1409474714" CREATED="1359704989314" MODIFIED="1359704994493"/>
@@ -965,7 +981,7 @@
 <node TEXT=". trailing # has music" ID="ID_794116828" CREATED="1440487653402" MODIFIED="1440487670515"/>
 <node TEXT="whether you&apos;re at peace is self-invented to each" ID="ID_991380764" CREATED="1440483322162" MODIFIED="1440483341801">
 <node TEXT="? can I give an example" ID="ID_1053822905" CREATED="1440483380357" MODIFIED="1440483384752"/>
-<node TEXT="I mean, it&apos;s one thing to have problems externaly, and totally different to be at war internally. A problem can be just a thing you have, like a kneecap or a memory of believing in the tooth fairy." ID="ID_1768297154" CREATED="1440483392253" MODIFIED="1440483619476">
+<node TEXT="I mean, it&apos;s one thing to have problems externaly, and totally different to be at war internally. A problem can be just a thing you have, like a kneecap, or a memory of believing in the tooth fairy." ID="ID_1768297154" CREATED="1440483392253" MODIFIED="1444191513277">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1352767771" STARTINCLINATION="559;0;" ENDINCLINATION="559;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="You could frame your dependency on Vitamin A as an addiction. You don&apos;t because you think staying healthy is legitimate work. If you proved to yourself, by making a lot of recordings stoned and sober, that marijuana makes you make better music, you might consider the marijuana legitimate, and not call it an addiction." ID="ID_914500588" CREATED="1440485965207" MODIFIED="1442346130497"/>
@@ -991,7 +1007,7 @@
 </node>
 <node TEXT="I like watching people. Sometimes I ruin their vibe though, just by seeing them. Like when we&apos;re standing in a circle after a show and someone asked me a question and I&apos;m still staring at everyone because I wasn&apos;t listening." ID="ID_1651505221" CREATED="1440487769246" MODIFIED="1440487863674"/>
 </node>
-<node TEXT="I don&apos;t know why to check in." ID="ID_448703179" CREATED="1440484351168" MODIFIED="1440484355082"/>
+<node TEXT="I don&apos;t know why to check in." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_448703179" CREATED="1440484351168" MODIFIED="1444191556001"/>
 <node TEXT="But maybe it&apos;s because otherwise they&apos;ll imagine stuff about me." ID="ID_477145326" CREATED="1440484356663" MODIFIED="1440484422702"/>
 <node TEXT="For some reason it&apos;s easy for music to feel like it&apos;s trying to go somewhere." ID="ID_101580661" CREATED="1440484465760" MODIFIED="1440484475578"/>
 <node TEXT="dolphins have a sense of humor. a girl standing on her hands can make one laugh. I saw it on youtube." ID="ID_1666179579" CREATED="1440487980969" MODIFIED="1440488016128"/>
@@ -1395,7 +1411,8 @@
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>
 <node TEXT="form sentence toward what seems a natural rhyme, then deviate" ID="ID_104384863" CREATED="1439509195653" MODIFIED="1439509206642"/>
 </node>
-<node TEXT="diplom" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1439416832908">
+<node TEXT="diplom" ID="ID_656677512" CREATED="1439416831806" MODIFIED="1444201047150">
+<font BOLD="true"/>
 <node TEXT="!! grep-collected" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_58176212" CREATED="1439417311055" MODIFIED="1439422053558">
 <font BOLD="true"/>
 <node TEXT="ongoing : diplom" ID="ID_984478289" CREATED="1439417320095" MODIFIED="1439417330621"/>
@@ -1865,6 +1882,11 @@
 <node TEXT="an intl problem : solving an extl problem brings not satisfaction, just the next extl problem" ID="ID_1265576462" CREATED="1441748377157" MODIFIED="1441748399570"/>
 <node TEXT="not feeling whole : &quot;the root problem&quot;" ID="ID_1857042210" CREATED="1441748468477" MODIFIED="1441748512244"/>
 <node TEXT="claim : needing people interferes with knowing them" ID="ID_1816745252" CREATED="1441748615629" MODIFIED="1441748622754"/>
+<node TEXT="want clouds percep" ID="ID_768390559" CREATED="1444191982780" MODIFIED="1444191993497">
+<node TEXT="it generalizes this" ID="ID_771591581" CREATED="1444191995140" MODIFIED="1444192001844">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1816745252" STARTINCLINATION="412;0;" ENDINCLINATION="412;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
 <node TEXT="&quot;stop telling your mind that its job is to fix ...&quot;" ID="ID_1439542154" CREATED="1441748767469" MODIFIED="1441748776123"/>
 <node TEXT="self ?v. mind" ID="ID_1786995785" CREATED="1441749698807" MODIFIED="1441749819900"/>
 <node TEXT="appoint objects|experiences as reminder-triggers" ID="ID_656330677" CREATED="1441750029479" MODIFIED="1441750041245">
