@@ -1069,7 +1069,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 <node TEXT="animals read minds" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1687084171" CREATED="1443740038235" MODIFIED="1443740047330">
@@ -1283,7 +1282,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1360,12 +1358,6 @@
 <font BOLD="true"/>
 <node TEXT="partition" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_215140369" CREATED="1440892714643" MODIFIED="1440892723737"/>
 <node TEXT="info -rep" LOCALIZED_STYLE_REF="default" ID="ID_169902094" CREATED="1440633683680" MODIFIED="1440892841117">
-<node TEXT="* read|notes" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1979447011" CREATED="1442632069162" MODIFIED="1442632075750">
-<node TEXT="began Thu Oct  1 15:29:11 PDT 2015" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_899923502" CREATED="1443738575962" MODIFIED="1443738578758"/>
-<node TEXT="to prev" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_932794779" CREATED="1443738539058" MODIFIED="1443738549755">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1841363177" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-</node>
 <node TEXT="dub &amp;X scary" ID="ID_948578453" CREATED="1440633659881" MODIFIED="1444153878819">
 <node TEXT="= &amp;X as in cross-product; all 4 possibilities" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1915877187" CREATED="1444153880345" MODIFIED="1444153893113"/>
 <node TEXT="it might look like they should sep but that&apos;s hard; there are dub &amp; scary, dub &amp; -scary, etc." ID="ID_1440306701" CREATED="1440571548688" MODIFIED="1440571569590"/>
@@ -1387,6 +1379,12 @@
 </node>
 <node TEXT="to hide that one had studied more for it than time allowed" ID="ID_1614920458" CREATED="1440627590054" MODIFIED="1440627598643">
 <node TEXT="sounds like it&apos;s about people but really it&apos;s about the world conditions that would lead them to it" ID="ID_1237236969" CREATED="1440636346609" MODIFIED="1440636357766"/>
+</node>
+<node TEXT="* read|notes" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1979447011" CREATED="1442632069162" MODIFIED="1442632075750">
+<node TEXT="began Thu Oct  1 15:29:11 PDT 2015" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_899923502" CREATED="1443738575962" MODIFIED="1443738578758"/>
+<node TEXT="to prev" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_932794779" CREATED="1443738539058" MODIFIED="1443738549755">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1841363177" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 </node>
 <node TEXT="eyes|(day)signal flutter at terminals" ID="ID_1390452102" CREATED="1440564927201" MODIFIED="1440636500786">
 <node TEXT="| binding after ()" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1394098845" CREATED="1440564944168" MODIFIED="1440636512186"/>
@@ -3992,7 +3990,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4054,6 +4051,9 @@
 <node TEXT="interrupt, &quot;you did not show me that, you can&apos;t build on it yet&quot;" ID="ID_555298323" CREATED="1444097117402" MODIFIED="1444097130232"/>
 </node>
 <node TEXT="like ? arg" ID="ID_1939111665" CREATED="1444097495211" MODIFIED="1444097501464"/>
+<node TEXT="patern ! hide" ID="ID_752025725" CREATED="1444168500548" MODIFIED="1444168545685">
+<node TEXT="paternalism works better if its object(child) does not recog" ID="ID_1844312765" CREATED="1444168518668" MODIFIED="1444168531843"/>
+</node>
 </node>
 <node TEXT="who" ID="ID_175930461" CREATED="1444108816713" MODIFIED="1444108817718">
 <node TEXT="broadcasters" ID="ID_115883652" CREATED="1444108818681" MODIFIED="1444108829867">
@@ -4086,7 +4086,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
