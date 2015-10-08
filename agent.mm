@@ -235,6 +235,23 @@
 <node TEXT="no guilt by assoc" ID="ID_1343555079" CREATED="1425546567447" MODIFIED="1425546569931">
 <node TEXT="don&apos;t let my antipathy toward a platform slop onto the people using or in it" LOCALIZED_STYLE_REF="default" ID="ID_847490291" CREATED="1423687835261" MODIFIED="1438205727785"/>
 </node>
+<node TEXT="listen: grace | faith" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_323041542" CREATED="1430460593343" MODIFIED="1438206162134">
+<node TEXT="recognize why they ]writers] considered a change of subject as important as what preceded it" LOCALIZED_STYLE_REF="default" ID="ID_1495256094" CREATED="1430251458234" MODIFIED="1430460624646"/>
+<node TEXT="believe that a comedian believes all his|her work is justified" ID="ID_895029116" CREATED="1430450368579" MODIFIED="1430450379250">
+<node TEXT="or at least try it" ID="ID_232640596" CREATED="1438206138724" MODIFIED="1438206142865"/>
+<node TEXT="and if not, perhaps wonder what econ force led them to it" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1400258181" CREATED="1438206143116" MODIFIED="1438206153213"/>
+</node>
+<node TEXT="more generally, rather than question another&apos;s actions, find their reasons" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_358458059" CREATED="1432164567660" MODIFIED="1432164586491"/>
+</node>
+<node TEXT="? person-specific perception" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_117892649" CREATED="1438206242780" MODIFIED="1438206253487">
+<node TEXT="for [person], what should I have a good vision of" LOCALIZED_STYLE_REF="default" ID="ID_1859633174" CREATED="1433144102942" MODIFIED="1438206254623"/>
+</node>
+<node TEXT="find not my own ideal for someone; rather, find their own, and encourage that in them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_94614848" CREATED="1434442260318" MODIFIED="1434442273154"/>
+<node TEXT="withhold neg judg at least initj" LOCALIZED_STYLE_REF="default" ID="ID_173586200" CREATED="1425362724551" MODIFIED="1438206339516">
+<node TEXT="I suspect I am unwilling to thumb-down something on first listen if it means discontinuing permanently enough." ID="ID_817104683" CREATED="1425361253094" MODIFIED="1425361290747"/>
+<node TEXT="e.g. pandora" ID="ID_37466141" CREATED="1434957596865" MODIFIED="1434957598351"/>
+</node>
+</node>
 <node TEXT="respect|kind" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1592338447" CREATED="1424418680002" MODIFIED="1428610450801">
 <node TEXT="+= kind, gentle, restraint" ID="ID_343760567" CREATED="1424585204113" MODIFIED="1426365882989"/>
 <node TEXT="ask &gt; tell" ID="ID_495222194" CREATED="1425198713657" MODIFIED="1426365431198">
@@ -297,25 +314,6 @@
 <node TEXT="? as rappers with bling inspire children" ID="ID_1319182630" CREATED="1438206087236" MODIFIED="1438206096570"/>
 </node>
 </node>
-</node>
-<node TEXT="listen: grace | faith" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_323041542" CREATED="1430460593343" MODIFIED="1438206162134">
-<node TEXT="recognize why they ]writers] considered a change of subject as important as what preceded it" LOCALIZED_STYLE_REF="default" ID="ID_1495256094" CREATED="1430251458234" MODIFIED="1430460624646"/>
-<node TEXT="believe that a comedian believes all his|her work is justified" ID="ID_895029116" CREATED="1430450368579" MODIFIED="1430450379250">
-<node TEXT="or at least try it" ID="ID_232640596" CREATED="1438206138724" MODIFIED="1438206142865"/>
-<node TEXT="and if not, perhaps wonder what econ force led them to it" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1400258181" CREATED="1438206143116" MODIFIED="1438206153213"/>
-</node>
-<node TEXT="more generally, rather than question another&apos;s actions, find their reasons" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_358458059" CREATED="1432164567660" MODIFIED="1432164586491"/>
-</node>
-<node TEXT="? person-specific perception" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_117892649" CREATED="1438206242780" MODIFIED="1438206253487">
-<node TEXT="for [person], what should I have a good vision of" LOCALIZED_STYLE_REF="default" ID="ID_1859633174" CREATED="1433144102942" MODIFIED="1438206254623"/>
-</node>
-<node TEXT="find not my own ideal for someone; rather, find their own, and encourage that in them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_94614848" CREATED="1434442260318" MODIFIED="1434442273154"/>
-<node TEXT="withhold neg judg at least initj" LOCALIZED_STYLE_REF="default" ID="ID_173586200" CREATED="1425362724551" MODIFIED="1438206339516">
-<node TEXT="I suspect I am unwilling to thumb-down something on first listen if it means discontinuing permanently enough." ID="ID_817104683" CREATED="1425361253094" MODIFIED="1425361290747"/>
-<node TEXT="e.g. pandora" ID="ID_37466141" CREATED="1434957596865" MODIFIED="1434957598351"/>
-</node>
-</node>
-<node TEXT="respect" ID="ID_1306140374" CREATED="1434959176177" MODIFIED="1434959177037">
 <node TEXT="norms about feelings : bad" ID="ID_285725814" CREATED="1430465252210" MODIFIED="1432164627661">
 <node TEXT="= normative as in x-person" ID="ID_18736347" CREATED="1430465269090" MODIFIED="1430465287292"/>
 <node TEXT="I thought, &quot;They should feel bad.&quot; It is not my choice." ID="ID_1331436573" CREATED="1430450645364" MODIFIED="1430450657034"/>
@@ -327,6 +325,21 @@
 <node TEXT="had he instead chosen cancer he might have bummed out a lot of the audience by reminding them" ID="ID_1191515164" CREATED="1438206530308" MODIFIED="1438206541994"/>
 </node>
 </node>
+</node>
+<node ID="ID_149921416" CREATED="1444268182649" MODIFIED="1444268182649"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      optim ! respect
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
 <node TEXT="? respect changes in local popul" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1263549557" CREATED="1438223864320" MODIFIED="1438223909259">

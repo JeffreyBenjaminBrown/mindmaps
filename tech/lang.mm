@@ -18723,6 +18723,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="d3 $ sound &quot;f&quot;  |+| (pit 0 $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;0 10 18&quot;)" ID="ID_238542800" CREATED="1444119984763" MODIFIED="1444120163002"/>
 <node TEXT="up = speed . ((step**) &lt;$&gt;) where step = 2**(1/31)" ID="ID_1781980203" CREATED="1444120202912" MODIFIED="1444120203831"/>
 </node>
+<node TEXT="a [b c]/2 = a b a c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1907136982" CREATED="1444241990523" MODIFIED="1444242002807"/>
 </node>
 <node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">

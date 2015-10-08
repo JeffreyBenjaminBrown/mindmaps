@@ -59,6 +59,9 @@
 <node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_166883662" CREATED="1444102821445" MODIFIED="1444102827061">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1857368578" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
+<node TEXT="resume mining for fresh/positives here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_994424581" CREATED="1444202797571" MODIFIED="1444266938372">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_991435499" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 <node TEXT="= already big enough to sort within" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1924405427" CREATED="1435017939496" MODIFIED="1439426508243">
 <font ITALIC="false"/>
 </node>
@@ -193,6 +196,14 @@
 <node TEXT="results" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_420730726" CREATED="1439426752043" MODIFIED="1439426759226">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1784991765" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
+</node>
+<node TEXT="enum emp skills" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1801929053" CREATED="1444262790905" MODIFIED="1444262797618">
+<node TEXT="= data skills" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1895230147" CREATED="1444262803785" MODIFIED="1444262807770"/>
+<node TEXT="predict (response)" ID="ID_635708033" CREATED="1444262741073" MODIFIED="1444263116409">
+<node TEXT="response to [convl topic]" ID="ID_1488764357" CREATED="1444263033521" MODIFIED="1444263125418"/>
+</node>
+<node TEXT="recog" ID="ID_735508985" CREATED="1444262742880" MODIFIED="1444262743575"/>
+<node TEXT="remember" ID="ID_1987151266" CREATED="1444262743761" MODIFIED="1444262744655"/>
 </node>
 <node TEXT="= emp sens kind | how people are" ID="ID_97150676" CREATED="1421047650171" MODIFIED="1435021446422"/>
 <node TEXT="-&gt; is largely agent, not group" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_390653989" CREATED="1435022660048" MODIFIED="1435022674403"/>
@@ -408,7 +419,7 @@
 </node>
 <node TEXT="? history-burden of external pressures" LOCALIZED_STYLE_REF="default" ID="ID_322442728" CREATED="1424853362040" MODIFIED="1438585808470">
 <node TEXT="~ devnull, ~ christ" ID="ID_297741020" CREATED="1438585811398" MODIFIED="1438585831945"/>
-<node TEXT="that I might resemble" ID="ID_1178202882" CREATED="1424853383193" MODIFIED="1424853390600"/>
+<node TEXT="that its bearer might resemble" ID="ID_1178202882" CREATED="1424853383193" MODIFIED="1444265632196"/>
 </node>
 <node TEXT="unaware of having hurt another" ID="ID_1330785844" CREATED="1425203061811" MODIFIED="1425203065169"/>
 <node TEXT="I did not see myself choosing one over the other. The other may have." ID="ID_1227306869" CREATED="1425132945291" MODIFIED="1438585880295">
@@ -428,9 +439,7 @@
 <node TEXT="for empathy" ID="ID_1524051429" CREATED="1423450717930" MODIFIED="1423450719617"/>
 </node>
 </node>
-<node TEXT="? when with female, do not imagine winning her" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1838167222" CREATED="1420432092365" MODIFIED="1438586263991">
-<node TEXT="doing so just takes me away from her" LOCALIZED_STYLE_REF="default" ID="ID_1752094658" CREATED="1420432109181" MODIFIED="1438586266353"/>
-</node>
+<node TEXT="? distracted from _ by thoughts of winning them" ID="ID_394456710" CREATED="1444265687563" MODIFIED="1444265694192"/>
 <node TEXT="2015 05 18" ID="ID_1246050686" CREATED="1431997471410" MODIFIED="1431997474254"/>
 <node TEXT="Imagine people procg others." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1198688952" CREATED="1427489004440" MODIFIED="1427493356254">
 <node TEXT="processing, referring to" ID="ID_1225496755" CREATED="1427493358704" MODIFIED="1427493361613"/>
@@ -597,7 +606,7 @@
 <node TEXT="wandering focus as skill" ID="ID_21351999" CREATED="1358695740659" MODIFIED="1358695757678">
 <node TEXT="to let the focus of one&apos;s empathic focus wander among self and others" ID="ID_1805903061" CREATED="1358666748104" MODIFIED="1358666780210"/>
 </node>
-<node TEXT="As an exercise in empathy, talking about the weather actually *is* interesting." ID="ID_1594012936" CREATED="1358236405813" MODIFIED="1358236418037"/>
+<node TEXT="As an exercise in empathy, talking about the weather actually *is* interesting." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1594012936" CREATED="1358236405813" MODIFIED="1444266049746"/>
 <node TEXT="intuit the partner|leader|confidant someone wants or needs, and be it" ID="ID_578976147" CREATED="1360648205300" MODIFIED="1439424653297"/>
 <node TEXT="anticipate interpretation ~ empathy" ID="ID_833077203" CREATED="1360177689678" MODIFIED="1360177694505"/>
 <node TEXT="the empathy-short: avoid, not negotiate" ID="ID_178127629" CREATED="1434575785076" MODIFIED="1434575833735">
@@ -617,7 +626,9 @@
 </node>
 <node TEXT="3p" ID="ID_1352356952" CREATED="1439425170872" MODIFIED="1439425177646">
 <node TEXT="a story with different characters designed to be empathizable|identifiable-with to certain demogs" ID="ID_1598260377" CREATED="1436828052385" MODIFIED="1436828073076"/>
+<node TEXT="maybe @ teachg" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1573695696" CREATED="1444266140451" MODIFIED="1444266195614">
 <node TEXT="&quot;You may have made people better at empathy.&quot;" ID="ID_368967819" CREATED="1412399844578" MODIFIED="1412399851878"/>
+</node>
 <node TEXT="see data from someone else&apos;s perspective" ID="ID_1918291585" CREATED="1391898606763" MODIFIED="1439425431123"/>
 <node TEXT="Does understanding usually (always?) engender empathy?" ID="ID_1500960941" CREATED="1402467383181" MODIFIED="1402508841538"/>
 <node TEXT="lies with good intentions" ID="ID_561480560" CREATED="1401568262976" MODIFIED="1403050347934">
@@ -655,12 +666,15 @@
 <node TEXT="license not to empathize" ID="ID_1506983300" CREATED="1405127327004" MODIFIED="1405127422974">
 <node TEXT="aliens give a film audience this -- skip empathy for action" ID="ID_516198059" CREATED="1405127355846" MODIFIED="1439425622914"/>
 <node TEXT="not all the aliens, but the scary-looking ones" ID="ID_1415173445" CREATED="1405127360073" MODIFIED="1405127369221"/>
-<node TEXT="license not to empathize" ID="ID_1197547123" CREATED="1405127327004" MODIFIED="1405127422974">
-<node TEXT="aliens give audience this -- skip empathy for action" ID="ID_562934099" CREATED="1405127355846" MODIFIED="1405132519981"/>
-<node TEXT="not all the aliens, but the scary-looking ones" ID="ID_954910875" CREATED="1405127360073" MODIFIED="1405127369221"/>
+</node>
+<node TEXT="empathy &amp; fine_print" ID="ID_339623951" CREATED="1444266247186" MODIFIED="1444266270504">
+<node TEXT="fine print in empathy" ID="ID_1089861568" CREATED="1444266273755" MODIFIED="1444266278279"/>
+<node TEXT="empathy as fine print" ID="ID_313128343" CREATED="1444266278475" MODIFIED="1444266280967">
+<node TEXT="verbose" LOCALIZED_STYLE_REF="default" ID="ID_459180706" CREATED="1444266258027" MODIFIED="1444266291227">
+<node TEXT="each of them so insignificant that to empathize was to read fine print" LOCALIZED_STYLE_REF="default" ID="ID_778910758" CREATED="1405317458448" MODIFIED="1444266287052"/>
 </node>
 </node>
-<node TEXT="each of them so insignificant that to empathize was to read fine print" ID="ID_778910758" CREATED="1405317458448" MODIFIED="1405317511478"/>
+</node>
 <node TEXT="refactor for empathy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_230417653" CREATED="1410237583930" MODIFIED="1410382622874">
 <node TEXT="find alternate structures (beliefs, processing habits ...) generating familiar choices" ID="ID_1963474735" CREATED="1410382589596" MODIFIED="1410382617679"/>
 </node>
@@ -674,7 +688,9 @@
 </node>
 </node>
 <node TEXT="4p" ID="ID_993864318" CREATED="1439425858418" MODIFIED="1439425859432">
+<node TEXT="emp !!needs feedback" ID="ID_993058917" CREATED="1444266315971" MODIFIED="1444266333796">
 <node TEXT="empathy without feedback gets not nearly as far" ID="ID_695508653" CREATED="1380866757586" MODIFIED="1380866765782"/>
+</node>
 <node TEXT="could not empathize properly without recognizing how bad they|their conditions were." ID="ID_497853821" CREATED="1398277589398" MODIFIED="1439425901514"/>
 <node TEXT="Empathize for the enthusiasm of performers of secondary work." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1994102245" CREATED="1375237494359" MODIFIED="1439426018850">
 <node TEXT="? morbid empathy not helpful" ID="ID_253844398" CREATED="1439426019794" MODIFIED="1439426038459"/>
@@ -741,10 +757,13 @@
 </node>
 </node>
 </node>
-<node TEXT="? princess-purchase syndrome" LOCALIZED_STYLE_REF="default" ID="ID_395346506" CREATED="1434955464583" MODIFIED="1438659271365">
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1745723509" CREATED="1444266868564" MODIFIED="1444266869726">
+<node TEXT="princess-purchase syndrome" LOCALIZED_STYLE_REF="default" ID="ID_395346506" CREATED="1434955464583" MODIFIED="1444266872154">
 <node TEXT="frustrated, &quot;would you just [pay the cost of?] me already?&quot;" ID="ID_1029756497" CREATED="1427490095594" MODIFIED="1438659211390"/>
 </node>
 </node>
+</node>
+<node TEXT="resume mining for fresh/positives here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_991435499" CREATED="1444202797571" MODIFIED="1444266938376"/>
 <node TEXT="proc, phen" POSITION="right" ID="ID_1761101393" CREATED="1435019257140" MODIFIED="1435306991528">
 <node TEXT="comm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1638990991" CREATED="1434957330468" MODIFIED="1438730658625">
 <node TEXT=". should layer exist" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1121743221" CREATED="1435307225500" MODIFIED="1435307231206"/>
