@@ -338,7 +338,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -838,6 +837,58 @@
 <node TEXT="variation in interpretation reveal a listener&apos;s interests" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1806627879" CREATED="1385778718388" MODIFIED="1438226849178">
 <font BOLD="false"/>
 <node TEXT="incg errors" ID="ID_454162048" CREATED="1424641361350" MODIFIED="1424641366292"/>
+</node>
+</node>
+<node TEXT="err|evil" LOCALIZED_STYLE_REF="default" ID="ID_93894965" CREATED="1420882476826" MODIFIED="1423551206210">
+<node TEXT=". relative: log/err" ID="ID_1688076692" CREATED="1421047963523" MODIFIED="1421047970929"/>
+<node TEXT="pessim" ID="ID_449101184" CREATED="1421050345769" MODIFIED="1421050346902">
+<node TEXT=". inc despair" ID="ID_740770613" CREATED="1421050365593" MODIFIED="1421050368598"/>
+<node TEXT="smart kids&apos; showing off might discourage others from learning" ID="ID_1007992206" CREATED="1414464474307" MODIFIED="1421050300548"/>
+</node>
+<node TEXT="aggress" ID="ID_36950879" CREATED="1420883767634" MODIFIED="1420883775111">
+<node TEXT="\: falls under (one/proc/err) because its expression is social, but as a mystery and a process, it is internal to one agent" ID="ID_100869694" CREATED="1420883777090" MODIFIED="1420883853379"/>
+</node>
+<node TEXT="stress" ID="ID_1054744113" CREATED="1421048421315" MODIFIED="1421048422280"/>
+<node TEXT="more insts" ID="ID_418617334" CREATED="1423551177627" MODIFIED="1423551186362">
+<font BOLD="true"/>
+<node TEXT="schiz, delus" ID="ID_976895029" CREATED="1420882521698" MODIFIED="1421047905464"/>
+<node TEXT="self-sabotage" ID="ID_743475020" CREATED="1420883169250" MODIFIED="1420883173263"/>
+<node TEXT="optim" ID="ID_1032467568" CREATED="1420882620554" MODIFIED="1421050345574"/>
+</node>
+<node TEXT="u" ID="ID_508000870" CREATED="1421362055389" MODIFIED="1421362055913">
+<node TEXT="bargain with my body, &quot;if you&apos;re not going to make something of that time I will spend money until you&apos;re forced to&quot;" ID="ID_1909819374" CREATED="1421293736524" MODIFIED="1421293784002"/>
+<node TEXT="Seeing beauty that hurts?" ID="ID_1311115047" CREATED="1422956201856" MODIFIED="1422956215989">
+<node TEXT="&quot;That good thing happens and you feel bad about it?&quot;" ID="ID_1727338558" CREATED="1420433368901" MODIFIED="1420433375596"/>
+<node TEXT="see a beautiful woman" ID="ID_827642886" CREATED="1422688490474" MODIFIED="1422688494455"/>
+</node>
+</node>
+<node TEXT="is there something useful they have in common" ID="ID_303010416" CREATED="1415204683135" MODIFIED="1415205124115">
+<node TEXT="they make promises" ID="ID_617625866" CREATED="1415204675792" MODIFIED="1415204679108"/>
+<node TEXT="they cheat for power, making it legal" ID="ID_1891963146" CREATED="1415204670888" MODIFIED="1415209619813">
+<node ID="ID_1236054111" CREATED="1415209620051" MODIFIED="1415209620051"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      e.g. gerrymandering
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="was" ID="ID_845732887" CREATED="1415333282025" MODIFIED="1415333282483">
+<node TEXT="The Republican party wants government to be for sale, and American voters are dumb." ID="ID_1220327475" CREATED="1415177289386" MODIFIED="1415177321389"/>
+</node>
+</node>
+<node TEXT="they avoid questions" ID="ID_1183407847" CREATED="1415204679409" MODIFIED="1415204682053"/>
+<node TEXT="they lie, and not just about the future" ID="ID_795794563" CREATED="1415204708495" MODIFIED="1415209615950">
+<node TEXT="e.g. &quot;I was late to this debate because I believed you were not here.&quot;" ID="ID_1068575941" CREATED="1415209616227" MODIFIED="1415209625078"/>
+</node>
+<node TEXT="they include more (all?) of the psychopaths" ID="ID_756055199" CREATED="1415204819157" MODIFIED="1415209652247"/>
+<node TEXT="they take secret payment, making it legal" ID="ID_781846223" CREATED="1415209507964" MODIFIED="1415209587694"/>
 </node>
 </node>
 </node>

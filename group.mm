@@ -740,6 +740,33 @@
 </node>
 <node TEXT="the arbitrary of upset is funny : you have to get with another&apos;s, and it&apos;s fickle, diverse" ID="ID_39461409" CREATED="1440224856522" MODIFIED="1440224871700"/>
 </node>
+<node TEXT="find dignity for those I consider failing at the impossible" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_973630470" CREATED="1416990268743" MODIFIED="1421365062657"/>
+<node TEXT="love is" ID="ID_843386734" CREATED="1374972467586" MODIFIED="1374972470206">
+<node TEXT="fascination" ID="ID_632271801" CREATED="1374972470594" MODIFIED="1374972474429"/>
+<node TEXT="trust" ID="ID_1039077242" CREATED="1374972474674" MODIFIED="1374972475324"/>
+<node TEXT="caring" ID="ID_1851460879" CREATED="1374972515129" MODIFIED="1374972521099">
+<node ID="ID_998707616" CREATED="1374972521305" MODIFIED="1374972521305"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      and pride deriving from it
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="hypnosis, self- and other-" ID="ID_1532436023" CREATED="1376026577226" MODIFIED="1376026583824"/>
+<node TEXT="? fulfillment" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_658480470" CREATED="1409695578875" MODIFIED="1424643262989">
+<node TEXT="I want it to be a great oppor, but not for everything to ride on it, given how many people don&apos;t find it?" ID="ID_998283574" CREATED="1424643237610" MODIFIED="1424643257166"/>
+</node>
+<node TEXT="biology, family, culture, religion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_862981672" CREATED="1409695580986" MODIFIED="1424643209158"/>
+<node TEXT="something long discussed with friends" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1356051733" CREATED="1409695611616" MODIFIED="1424643221999"/>
+</node>
 </node>
 <node TEXT="privacy" ID="ID_214005926" CREATED="1438658792559" MODIFIED="1438658800004">
 <node TEXT="introduce ? by default not by (full) name" ID="ID_258699839" CREATED="1433374973756" MODIFIED="1444170788595">
@@ -1516,6 +1543,29 @@
 </node>
 <node TEXT="? does anybody want to be won" LOCALIZED_STYLE_REF="default" ID="ID_1494308178" CREATED="1422657900901" MODIFIED="1439262843314">
 <node TEXT="does anybody see themselves that way" ID="ID_1171367405" CREATED="1438569402846" MODIFIED="1438569411755"/>
+</node>
+<node TEXT="respond fast" ID="ID_343571201" CREATED="1420602956609" MODIFIED="1421363745523">
+<node ID="ID_1307981136" CREATED="1421363745947" MODIFIED="1421363745947"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      even if just a promise of response later
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="more" ID="ID_1120381607" CREATED="1421363748405" MODIFIED="1421363749346">
+<node TEXT="beware internal-external tension" LOCALIZED_STYLE_REF="default" ID="ID_1369519261" CREATED="1420602907697" MODIFIED="1422323686256">
+<node TEXT="e,g, mark&apos;s post, on that video game -- I overvalued responding correctly, the internals, rather than responding on time and cheerfully, the externals" ID="ID_1152474950" CREATED="1420602758974" MODIFIED="1422323697954"/>
+</node>
+<node TEXT="maybe private" ID="ID_711690730" CREATED="1420609902514" MODIFIED="1420609905729"/>
+<node TEXT="maybe a facebook like" ID="ID_1617329461" CREATED="1420609898330" MODIFIED="1424763067070"/>
+</node>
 </node>
 </node>
 </node>
@@ -2454,6 +2504,87 @@
 </node>
 <node TEXT="subjug" ID="ID_1440518032" CREATED="1436427435545" MODIFIED="1436427437584">
 <node TEXT="happiness of betrayal-receiver" ID="ID_403294326" CREATED="1430353156189" MODIFIED="1430353162285"/>
+</node>
+</node>
+<node TEXT="&amp; polit econ" POSITION="right" ID="ID_659326500" CREATED="1420861950871" MODIFIED="1444292655970">
+<node TEXT="= strangers; how to treat everyone" ID="ID_1686536110" CREATED="1421047869445" MODIFIED="1421049952892"/>
+<node TEXT=". potential intermed tags" ID="ID_947659560" CREATED="1421049901329" MODIFIED="1421049919085">
+<node TEXT="cons&apos;tut" ID="ID_682524343" CREATED="1420881400681" MODIFIED="1420881404134"/>
+<node TEXT="polit" ID="ID_815815143" CREATED="1420882083226" MODIFIED="1420882084294"/>
+<node TEXT="polic" ID="ID_896304935" CREATED="1420882092338" MODIFIED="1420882101737"/>
+</node>
+<node TEXT="polit" ID="ID_1241919363" CREATED="1421050980664" MODIFIED="1421050981709">
+<node TEXT="= interest groups" ID="ID_771067924" CREATED="1421050983768" MODIFIED="1421050986669"/>
+<node TEXT="if they recognized their common interest they could vote away liars" ID="ID_1599217816" CREATED="1415251581808" MODIFIED="1415251599794"/>
+</node>
+<node TEXT="for trust, state bar &gt; PhD committee" ID="ID_663218951" CREATED="1418162347460" MODIFIED="1422325903637">
+<node TEXT="I have more faith in a state bar exam, a single entity and a large number of people, than I do in the university system dercision to grant PhDs, which is handled by roughly three people." LOCALIZED_STYLE_REF="styles.topic" ID="ID_253082407" CREATED="1418162275213" MODIFIED="1422325889587"/>
+</node>
+<node TEXT="filing less crit" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1474694452" CREATED="1421051070176" MODIFIED="1421051090861">
+<node TEXT="no person without polit state" ID="ID_1077339256" CREATED="1413612892024" MODIFIED="1421051055425">
+<node TEXT="I would not exist without the state (poli sci sense)." ID="ID_825678056" CREATED="1413612851197" MODIFIED="1421051042847"/>
+</node>
+</node>
+<node TEXT="uu" ID="ID_139278481" CREATED="1413784838065" MODIFIED="1422325989873">
+<font BOLD="true"/>
+<node TEXT=".= civic duty, identity" LOCALIZED_STYLE_REF="default" ID="ID_224700098" CREATED="1413612933604" MODIFIED="1414727108310"/>
+<node TEXT="? change, within-system and other" ID="ID_1690135865" CREATED="1415930163034" MODIFIED="1417233534519">
+<node TEXT="Desires for another system are typically met with, at most, within-system changes." ID="ID_1062073039" CREATED="1414614820390" MODIFIED="1415930190547"/>
+</node>
+<node TEXT="ought as person" ID="ID_1211815670" CREATED="1415929952333" MODIFIED="1415930022994">
+<font BOLD="true"/>
+<node TEXT="vote v. care" ID="ID_525134927" CREATED="1415929629731" MODIFIED="1415929796786">
+<node TEXT="Is the problem whether Americans vote, or whether they care?" LOCALIZED_STYLE_REF="default" ID="ID_195421226" CREATED="1412912024337" MODIFIED="1415929652598"/>
+<node TEXT="Can caring be disentangled from feeling like one&apos;s vote contributes to the outcome?" ID="ID_1579764953" CREATED="1415929657323" MODIFIED="1415929677742"/>
+<node TEXT="Does more information -&gt; more or less apathy?" ID="ID_1135905153" CREATED="1415929696562" MODIFIED="1415929733869"/>
+</node>
+<node TEXT="Could I afford to rescue a beautiful woman from mexico." ID="ID_1041063783" CREATED="1413604993228" MODIFIED="1413605003094"/>
+</node>
+<node TEXT="ought as interest group" ID="ID_335679079" CREATED="1417228109670" MODIFIED="1417241673460">
+<font BOLD="true"/>
+<node TEXT=".= + union" ID="ID_1361269584" CREATED="1417241658621" MODIFIED="1417241666904"/>
+<node TEXT="Staff, singly or together, can collect their own productivity data, and bargain with it." ID="ID_1325785959" CREATED="1385700004583" MODIFIED="1385700060751">
+<node TEXT="I could find contract prices and measure hours myself. We workers could do it together. Then we could bargain with management. It would involve recognizing who gets paid more." ID="ID_1662977849" CREATED="1385604773594" MODIFIED="1385604818037"/>
+</node>
+</node>
+<node TEXT="ought as nation" ID="ID_1519905921" CREATED="1414727705845" MODIFIED="1415930008095">
+<node TEXT="the most important vote to count correctly is whether to intervene (militarily) for the voters" LOCALIZED_STYLE_REF="default" ID="ID_1612646230" CREATED="1412571729362" MODIFIED="1413147094526"/>
+<node TEXT="Why do we embargo [country]?" ID="ID_1655952514" CREATED="1413514842948" MODIFIED="1413612765021">
+<node ID="ID_198102686" CREATED="1413514861354" MODIFIED="1413514861354"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cuba
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="native Arabs we hired" ID="ID_794257354" CREATED="1415930072515" MODIFIED="1415930088111">
+<node TEXT="We should treat the iraquis who risked their lives to help us better than the soldiers we paid. At least trust them enough to let them live here." ID="ID_893434871" CREATED="1413950727438" MODIFIED="1414727557894"/>
+</node>
+</node>
+<node TEXT="ugly" ID="ID_1535911788" CREATED="1415930099123" MODIFIED="1415930100061">
+<node TEXT="power" ID="ID_236464519" CREATED="1421051226080" MODIFIED="1421051226797">
+<node TEXT="unless you find sufficient land for them, not allowed kids" ID="ID_803551906" CREATED="1415419943062" MODIFIED="1421051121304"/>
+<node TEXT="Soldiers hold countries together." LOCALIZED_STYLE_REF="default" ID="ID_1358527840" CREATED="1412913294563" MODIFIED="1415929869161"/>
+</node>
+<node TEXT="paid &#x2260; volunt" ID="ID_721070062" CREATED="1418624338827" MODIFIED="1418624346958">
+<node TEXT="They don&apos;t volunteer; they are paid. They don&apos;t want to do it." LOCALIZED_STYLE_REF="default" ID="ID_1387008203" CREATED="1412571833193" MODIFIED="1415927622631">
+<node TEXT="army" ID="ID_819927917" CREATED="1413147101560" MODIFIED="1413147102724"/>
+<node TEXT="most labor?" ID="ID_990691273" CREATED="1414728303946" MODIFIED="1414728306749"/>
+</node>
+</node>
+<node TEXT="web hype" ID="ID_1967448755" CREATED="1413057553678" MODIFIED="1417231565834">
+<node TEXT="Its audience now sophisticated, what matters in web design is clarity, not beauty or novelty. The underlying product, not its presentation, will drive interest." ID="ID_1164152621" CREATED="1412364442129" MODIFIED="1417231552620"/>
+</node>
+<node TEXT="church as thief and liar" ID="ID_88544216" CREATED="1416272919666" MODIFIED="1416272925415"/>
+</node>
 </node>
 </node>
 <node TEXT="dates" POSITION="right" ID="ID_488724657" CREATED="1442521031738" MODIFIED="1442522152919">

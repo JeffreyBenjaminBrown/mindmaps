@@ -1406,6 +1406,7 @@
 <node TEXT="tidal&gt; x" ID="ID_337144973" CREATED="1441971218005" MODIFIED="1441971218005"/>
 <node TEXT="tidal&gt;" ID="ID_888421145" CREATED="1441971218007" MODIFIED="1441971218007"/>
 </node>
+<node TEXT="when make melody delicate" ID="ID_353244064" CREATED="1428982005204" MODIFIED="1428982010002"/>
 </node>
 <node TEXT="rhyme" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>
@@ -1924,6 +1925,14 @@
 <node TEXT="dub: \art" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_410428056" CREATED="1444157927184" MODIFIED="1444157945860"/>
 <node TEXT="\intim" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_602932112" CREATED="1444157939798" MODIFIED="1444157946474"/>
 </node>
+<node TEXT="fiction: make natural through soc ctx aware" ID="ID_439023242" CREATED="1422338087094" MODIFIED="1422338114543">
+<node TEXT="fiction more interesting if seen not divorced from reality, but as a natural* extension of it" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1042182039" CREATED="1421868802580" MODIFIED="1422322516497">
+<node TEXT="natural if one can understand the mind of its creators and the audience they are serving" ID="ID_927088610" CREATED="1421868827500" MODIFIED="1421868848769"/>
+</node>
+</node>
+<node TEXT="keep (art) goals flexible" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_11124908" CREATED="1358831816414" MODIFIED="1444292159483">
+<node TEXT="art better if started without easily verbalized intentions" ID="ID_281548373" CREATED="1358817764496" MODIFIED="1358817774529"/>
+</node>
 </node>
 <node TEXT="art proc" LOCALIZED_STYLE_REF="default" ID="ID_1853803906" CREATED="1444076055052" MODIFIED="1444076064844">
 <node TEXT="rep searching meaning, and the reverse" LOCALIZED_STYLE_REF="default" ID="ID_1488880434" CREATED="1424053129005" MODIFIED="1426306604845"/>
@@ -2071,6 +2080,11 @@
 <node TEXT="humor more?cerebral than music" ID="ID_619806345" CREATED="1440900330324" MODIFIED="1440900343507"/>
 <node TEXT="artist want to express ~ want others to work with _ data" ID="ID_1160860507" CREATED="1440910879381" MODIFIED="1440910887935"/>
 <node TEXT="jeff ross studied a jail from inside for days before performing to them" ID="ID_637903756" CREATED="1440908228846" MODIFIED="1440908245053"/>
+<node TEXT="pose|posing as art" ID="ID_1082680736" CREATED="1428259330136" MODIFIED="1432089768007">
+<node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_281590772" CREATED="1428259335912" MODIFIED="1428259340268">
+<node TEXT="the subject of photography can be more artistic than the photographer" LOCALIZED_STYLE_REF="default" ID="ID_393815191" CREATED="1428201512365" MODIFIED="1432089758541"/>
+</node>
+</node>
 </node>
 </node>
 </node>

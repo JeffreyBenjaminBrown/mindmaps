@@ -179,6 +179,43 @@
 </node>
 </node>
 <node TEXT="agree" ID="ID_141316842" CREATED="1444099911020" MODIFIED="1444099912082"/>
+<node TEXT="methods" LOCALIZED_STYLE_REF="default" ID="ID_880356554" CREATED="1405133068415" MODIFIED="1444288648058">
+<node TEXT="match happiness of companions" ID="ID_711174619" CREATED="1405133084421" MODIFIED="1409694914168">
+<node TEXT="Appear neither happier nor sadder than who I&apos;m with." LOCALIZED_STYLE_REF="default" ID="ID_639980420" CREATED="1405129968769" MODIFIED="1405130313796"/>
+<node TEXT="If possible, perhaps, after determining how to appear to feel, actually feel that way." ID="ID_1300443063" CREATED="1405130100728" MODIFIED="1422383875371"/>
+<node TEXT="why : to avoid inducing both jealousy|depression" ID="ID_899661121" CREATED="1405130080355" MODIFIED="1424639927682"/>
+</node>
+<node TEXT="tread lightliy on others&apos; beliefs" ID="ID_5161172" CREATED="1405130383827" MODIFIED="1405130391976">
+<node TEXT="detect them without questioning them" ID="ID_161573273" CREATED="1405130393073" MODIFIED="1405130398048"/>
+<node TEXT="reinforce them? avoid reinforcing, without contradicting them?" ID="ID_1609383811" CREATED="1405130398250" MODIFIED="1421368627354"/>
+</node>
+</node>
+<node TEXT="why" LOCALIZED_STYLE_REF="styles.topic" ID="ID_604785473" CREATED="1405133075655" MODIFIED="1424640075161">
+<node ID="ID_546040912" CREATED="1405133210618" MODIFIED="1405133210618"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      altruism
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="avoid jealousy and downerism" ID="ID_1247681422" CREATED="1405133117331" MODIFIED="1405133138488"/>
+<node TEXT="because belief change is uncomfortable?" ID="ID_1046246651" CREATED="1405133158817" MODIFIED="1405133210042"/>
+</node>
+<node TEXT="provide for an unobservable computation" ID="ID_1784576531" CREATED="1404698427049" MODIFIED="1404698443658">
+<node TEXT="r" ID="ID_1570085725" CREATED="1405134164479" MODIFIED="1405134164962">
+<node TEXT="gambling djs" ID="ID_833050583" CREATED="1404698412755" MODIFIED="1404698416747"/>
+</node>
+</node>
+</node>
+<node TEXT="r" LOCALIZED_STYLE_REF="styles.topic" ID="ID_394713125" CREATED="1405130825292" MODIFIED="1424640075155">
+<node TEXT="support a mirror facade" ID="ID_582023836" CREATED="1405130782766" MODIFIED="1405130816351"/>
+</node>
 </node>
 <node TEXT="seek who" LOCALIZED_STYLE_REF="default" ID="ID_657148170" CREATED="1444099793228" MODIFIED="1444102593881">
 <node TEXT="unlock a demog" ID="ID_1424360183" CREATED="1436673676800" MODIFIED="1436673678933"/>

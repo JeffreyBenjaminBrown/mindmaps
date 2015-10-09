@@ -734,6 +734,11 @@
 </node>
 </node>
 </node>
+<node TEXT="&quot;relax, someone already does&quot;" ID="ID_516090175" CREATED="1417239944989" MODIFIED="1444291877629">
+<node TEXT="e.g. don&apos;t punish, the police already exist" ID="ID_98624809" CREATED="1426310065277" MODIFIED="1426310070163">
+<node TEXT="The motivation to become and to make others safe is helpful. The one to avenge, taunt, or otherwise punish seems unlikely to help and likely to provoke. Police and others who specialize in that stuff are already in place." ID="ID_106978646" CREATED="1417239949809" MODIFIED="1417240103288"/>
+</node>
+</node>
 </node>
 <node TEXT="integ" ID="ID_1850403301" CREATED="1444167848092" MODIFIED="1444167849276">
 <font BOLD="true"/>

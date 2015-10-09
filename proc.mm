@@ -1186,9 +1186,28 @@
 <node TEXT="abnegate follow-through" ID="ID_51483202" CREATED="1440887948302" MODIFIED="1444192964717"/>
 </node>
 </node>
+<node TEXT="subjug | group irrat" LOCALIZED_STYLE_REF="default" ID="ID_1189450278" CREATED="1427776426392" MODIFIED="1444289572644">
+<node TEXT="quotes" ID="ID_308850238" CREATED="1427776473928" MODIFIED="1432088283602">
+<font BOLD="true"/>
+<node TEXT="http://www.huffingtonpost.com/melanie-curtin/10-easy-ways-to-deal-with-me-when-im-being-a-bitch_b_3676315.html" ID="ID_385574387" CREATED="1427776422495" MODIFIED="1427776422495" LINK="http://www.huffingtonpost.com/melanie-curtin/10-easy-ways-to-deal-with-me-when-im-being-a-bitch_b_3676315.html"/>
+<node TEXT="? paraph: &quot;Please disregard my moment of wishing ill on your|the power structure.&quot;" ID="ID_937859350" CREATED="1427776947232" MODIFIED="1432088097569"/>
+<node TEXT="&quot;The more you can hold off on shaming me for being upset over something &apos;illogical,&apos; the more we can work as a team to figure out what&apos;s really going on.&quot;" ID="ID_1562591164" CREATED="1427776413240" MODIFIED="1427776415622"/>
+<node TEXT="&quot;Pretend my storm is an actual storm&quot;" ID="ID_1693995677" CREATED="1427776472160" MODIFIED="1427776473575"/>
+<node TEXT="When I act like a child, think of me like a child" ID="ID_1581052831" CREATED="1427776546224" MODIFIED="1427776546846"/>
+<node TEXT="&quot;5. Call me out (gently)&#xa;&#xa;For me personally, this works best when you give a nickname to my bitchy side.&quot;" ID="ID_1325393001" CREATED="1427776632088" MODIFIED="1427776633623"/>
+</node>
+<node TEXT="&quot;Now I am something irreconcilable with what I was before!&quot;, as if proud, defiant." ID="ID_1721466728" CREATED="1427848563780" MODIFIED="1444289547266"/>
+</node>
+<node TEXT="reluctant to send" ID="ID_1906002847" CREATED="1426570677180" MODIFIED="1426570704234">
+<node TEXT="fear of alienation" ID="ID_415104662" CREATED="1426570706106" MODIFIED="1426570711548"/>
+</node>
+<node TEXT="reluct: intl conflict" ID="ID_412526565" CREATED="1444291230961" MODIFIED="1444291240790"/>
 </node>
 <node TEXT="! sort,transfer head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_5806327" CREATED="1434952871608" MODIFIED="1435028033864"/>
 <node TEXT="metaratl, applic, me" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948476798" CREATED="1436589737975" MODIFIED="1436589795018">
+<node TEXT="keep (art) goals flexible" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_11124908" CREATED="1358831816414" MODIFIED="1444292159483">
+<node TEXT="art better if started without easily verbalized intentions" ID="ID_281548373" CREATED="1358817764496" MODIFIED="1358817774529"/>
+</node>
 <node TEXT="against detachment" ID="ID_77563504" CREATED="1423778167125" MODIFIED="1436589783228">
 <node TEXT="was &quot;why act blind?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_123803033" CREATED="1436589784391" MODIFIED="1436589788546"/>
 <node TEXT="at least participate enough to joke about it?" ID="ID_359774758" CREATED="1423807724997" MODIFIED="1423807760127">
@@ -1306,6 +1325,7 @@
 <node TEXT="help many people in a big way" ID="ID_1308960481" CREATED="1440916641441" MODIFIED="1440916647500">
 <node TEXT="gdb ? music" ID="ID_1233457075" CREATED="1440916657169" MODIFIED="1440916664472"/>
 </node>
+<node TEXT="&quot;Is there now anything bad about [being, trying] _?&quot;" ID="ID_1987303985" CREATED="1421297262903" MODIFIED="1444292366668"/>
 </node>
 <node TEXT="? plod (new)" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1783119112" CREATED="1432087692742" MODIFIED="1432095210278">
 <node TEXT="\rhythm, \mood" ID="ID_1922367593" CREATED="1432443497765" MODIFIED="1432443509752"/>
@@ -1826,7 +1846,7 @@
 <node TEXT="&lt;- extractions 2015 07 08" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_177450436" CREATED="1427689144076" MODIFIED="1438200909845">
 <node TEXT="extracted from 2015 4 26 to (so far) 05 19" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_459597514" CREATED="1436424650494" MODIFIED="1436428514887"/>
 <node TEXT="applic" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_358795631" CREATED="1436423549046" MODIFIED="1436425365152">
-<node TEXT="life rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1552260591" CREATED="1436421960956" MODIFIED="1436422051812">
+<node TEXT="bond rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1552260591" CREATED="1436421960956" MODIFIED="1444287072446">
 <font BOLD="false"/>
 <node TEXT="togetherness better after longer* away, more new data, econ of scale" ID="ID_1545182288" CREATED="1429147052975" MODIFIED="1436423560957">
 <node TEXT="* longer at least at some scale" ID="ID_179968443" CREATED="1436423561605" MODIFIED="1436423569013">
