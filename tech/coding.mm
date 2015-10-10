@@ -2668,6 +2668,25 @@
 <node TEXT="e.g. only construct backreferences when reading data from file to make file simpler; perhaps (is it possible?) construct backreferences only on the fly, not persistently, during operation." ID="ID_762426966" CREATED="1431766231281" MODIFIED="1431766279951"/>
 </node>
 </node>
+<node TEXT="ratl codg" LOCALIZED_STYLE_REF="default" ID="ID_1386557439" CREATED="1435026690961" MODIFIED="1444451631568">
+<node TEXT="codg: bfs &gt; dfs for domains, but&#xa;      dfs &gt; bfs for features" ID="ID_800509264" CREATED="1438155306704" MODIFIED="1438155342334">
+<node TEXT="bfs &gt; dfs for domains =$ structure|domains before features" LOCALIZED_STYLE_REF="default" ID="ID_1949501960" CREATED="1406268318291" MODIFIED="1438155395814">
+<node TEXT="e.g. before going deep into view, adding features there, cover other domains, like file io" ID="ID_591714792" CREATED="1426537952514" MODIFIED="1426537973720"/>
+</node>
+<node TEXT="dfs &gt; bfs for features =$ working code &gt; anything else" ID="ID_1139168569" CREATED="1438155350428" MODIFIED="1438155369375"/>
+</node>
+<node TEXT="2, cyclic" ID="ID_1911369138" CREATED="1435026573059" MODIFIED="1435026575554">
+<node TEXT="cyclic b/c output ~ interface" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_489951085" CREATED="1435026466358" MODIFIED="1435026475936"/>
+<node TEXT="internal|model before (detailed) interface" ID="ID_1134531276" CREATED="1415827629879" MODIFIED="1431587809122">
+<node TEXT="as data, interface with no model is less memory-worthy than model with no interface. the former is just things to want, not how to do it." ID="ID_1395665962" CREATED="1412576934568" MODIFIED="1412576984826"/>
+</node>
+<node TEXT="output before detailed model" ID="ID_1160051850" CREATED="1426536290561" MODIFIED="1426536296822">
+<node TEXT="? do not make (code) investments that do not soon result in tangible output" ID="ID_397302537" CREATED="1398217126397" MODIFIED="1431587487701"/>
+<node TEXT="next: responding later" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1705847686" CREATED="1431587514674" MODIFIED="1431587522613"/>
+<node TEXT="minimal goal yes; high beta in preferences no" ID="ID_1382606423" CREATED="1431587504033" MODIFIED="1431587541224"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="dwt &amp; dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1673927663" CREATED="1438458705692" MODIFIED="1438458717696">
