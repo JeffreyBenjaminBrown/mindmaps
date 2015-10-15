@@ -6159,6 +6159,7 @@
 </node>
 </node>
 </node>
+<node TEXT="2015 10 14: XMind" ID="ID_545277539" CREATED="1444865760570" MODIFIED="1444865771408"/>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
