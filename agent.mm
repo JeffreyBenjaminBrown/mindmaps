@@ -1277,6 +1277,13 @@
 <node TEXT="avoidance of considering something" ID="ID_1884878725" CREATED="1438224883112" MODIFIED="1438224903057"/>
 </node>
 </node>
+<node TEXT="milestone ! stop" ID="ID_728292477" CREATED="1444937184297" MODIFIED="1444937186872">
+<node TEXT="~ work rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1957126944" CREATED="1444937199182" MODIFIED="1444937204163"/>
+<node TEXT="after having just gotten very far|reached a milestone in something, is perhaps hedonically irrational to keep working in that groove, with the highest oppor cost, useful self-reflection|discovery" ID="ID_341743464" CREATED="1444886973166" MODIFIED="1444887046712"/>
+</node>
+<node TEXT="rescue skill|knowledge: fun" ID="ID_18320841" CREATED="1444871239466" MODIFIED="1444937511182">
+<node TEXT="&quot;here&apos;s a way you could use that!&quot;" ID="ID_587447573" CREATED="1444871213198" MODIFIED="1444871219423"/>
+</node>
 </node>
 </node>
 </node>

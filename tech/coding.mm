@@ -15259,6 +15259,71 @@
 <node TEXT="squarepusher?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_878252282" CREATED="1442947509754" MODIFIED="1442947514097"/>
 </node>
 </node>
+<node TEXT="graph text &amp; community" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1011963067" CREATED="1444937109185" MODIFIED="1444937132200">
+<node TEXT="keep this tag" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_989922256" CREATED="1444944964861" MODIFIED="1444944967728">
+<node ID="ID_1179745802" CREATED="1444944966945" MODIFIED="1444944966945"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      graph text &amp; community
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="truth v. influence" ID="ID_1659777320" CREATED="1444893387005" MODIFIED="1444937215562">
+<node TEXT="cannot edit wiki without being in the community, talking, regular touring tests to detect corp influ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560328408" CREATED="1444889082336" MODIFIED="1444889115147"/>
+</node>
+<node TEXT="if a rich person can lie in the wiki, it is no authority" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1036993446" CREATED="1444889053863" MODIFIED="1444889064085"/>
+<node TEXT="Wikidata!" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1199249459" CREATED="1444874309383" MODIFIED="1444938994968">
+<node TEXT="https://www.wikidata.org/wiki/Wikidata:Main_Page" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_335447472" CREATED="1444873606137" MODIFIED="1444937303602" LINK="https://www.wikidata.org/wiki/Wikidata:Main_Page"/>
+<node TEXT="They are based in SF." ID="ID_487045714" CREATED="1444876210713" MODIFIED="1444876215553"/>
+<node TEXT="Meet them." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_150390028" CREATED="1444876215777" MODIFIED="1444876227644">
+<node TEXT="Twitter?" ID="ID_106947917" CREATED="1444876231600" MODIFIED="1444876233083"/>
+</node>
+<node TEXT="Is its graph lang weak." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_296733179" CREATED="1444876563048" MODIFIED="1444876640932">
+<node TEXT="https://www.wikidata.org/wiki/Wikidata:Introduction" ID="ID_1684799945" CREATED="1444876570745" MODIFIED="1444876570745" LINK="https://www.wikidata.org/wiki/Wikidata:Introduction"/>
+</node>
+<node TEXT="Try working with their stuff." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1127929139" CREATED="1444877200433" MODIFIED="1444877205117">
+<node TEXT="online" ID="ID_1781500656" CREATED="1444877205505" MODIFIED="1444877210342"/>
+<node TEXT="in Haskell" ID="ID_875289040" CREATED="1444877210554" MODIFIED="1444877211976"/>
+<node TEXT="in R" ID="ID_44576879" CREATED="1444877216289" MODIFIED="1444877217177"/>
+</node>
+</node>
+<node TEXT="! read indivs&apos; mindmaps" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1490473234" CREATED="1444813350869" MODIFIED="1444938971585">
+<node ID="ID_807370577" CREATED="1444868351347" MODIFIED="1444868351347"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      github/*/mindmaps
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93" ID="ID_817745215" CREATED="1444867452337" MODIFIED="1444867452337" LINK="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93"/>
+<node TEXT="I read the first 30 of 333, they were all* tech, low." ID="ID_1839233960" CREATED="1444867454029" MODIFIED="1444867479164">
+<node TEXT="* or in a language (Chinese?) I can&apos;t read" ID="ID_528713718" CREATED="1444867479771" MODIFIED="1444867494534"/>
+</node>
+</node>
+<node TEXT="xmind.net" ID="ID_46050942" CREATED="1444868370103" MODIFIED="1444868375061">
+<node TEXT="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30" ID="ID_191062576" CREATED="1444868346123" MODIFIED="1444868346123" LINK="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30"/>
+<node TEXT="I looked over the first 40 from the search &quot;everything&quot; (returned about 1000), there was only one that tried to be high, and it was less than 200 words, maybe only 50." ID="ID_1927900898" CREATED="1444868384750" MODIFIED="1444868448872"/>
+</node>
+</node>
+</node>
+<node TEXT="rep text" ID="ID_76008602" CREATED="1444937390928" MODIFIED="1444937399304">
+<node TEXT="add space at punct" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1330020860" CREATED="1444871372000" MODIFIED="1444871382082"/>
+<node TEXT="lininess : font for punct" ID="ID_769537010" CREATED="1444795147332" MODIFIED="1444795167215"/>
+</node>
 </node>
 <node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1443638669948">
 <node TEXT="fp complete" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1443638662983">

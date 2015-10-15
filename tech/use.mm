@@ -243,10 +243,30 @@
 </node>
 <node TEXT="internalizg" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_97865472" CREATED="1424211529405" MODIFIED="1427423947519">
 <node TEXT="silently, when successful, apt-get sometimes suggests more packages" ID="ID_797640275" CREATED="1424151561675" MODIFIED="1424151577364"/>
-<node TEXT="test keyboard input before using any potentially destructive commands. use string &quot;ttki&quot;, so that I can then grep for it to find where it went." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1347484767" CREATED="1424292463853" MODIFIED="1425709159748"/>
-<node TEXT="ls *.hs: can then leave the directory flat, even if pop&apos;d with .h, .o, etc." ID="ID_1437878083" CREATED="1424844766925" MODIFIED="1424844783643"/>
+<node TEXT="keyboard not recogd" ID="ID_283750639" CREATED="1444945264485" MODIFIED="1444945272597">
+<font BOLD="true"/>
+<node TEXT="test keyboard input before using any potentially destructive commands. use string &quot;ttki&quot;, so that I can then grep for it to find where it went." LOCALIZED_STYLE_REF="default" ID="ID_1347484767" CREATED="1424292463853" MODIFIED="1444945277985">
+<node TEXT="&quot;testing the keyboard input&quot;?" ID="ID_794816064" CREATED="1444945193757" MODIFIED="1444945199989"/>
+</node>
 <node TEXT="if stuck without keyboard response when super-tabbing, try changing desktops in the workspace where the repsonse lacks" ID="ID_873897440" CREATED="1425616498938" MODIFIED="1425616539864">
 <node TEXT="worked once" ID="ID_290814144" CREATED="1425616547426" MODIFIED="1425616548912"/>
+</node>
+</node>
+<node TEXT="selective ls \for\ bloat" ID="ID_1863275969" CREATED="1444945228894" MODIFIED="1444945253444">
+<node TEXT="ls *.hs: can then leave the directory flat, even if pop&apos;d with .h, .o, etc." ID="ID_1437878083" CREATED="1424844766925" MODIFIED="1424844783643"/>
+</node>
+<node TEXT="keep &quot;sites that memorized this password&quot;" ID="ID_1547115377" CREATED="1444623743556" MODIFIED="1444623756378">
+<node TEXT="is rival" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1100232194" CREATED="1444681997570" MODIFIED="1444681999469"/>
+<node TEXT="twitter password: twitter, tweetdeck" ID="ID_1280499016" CREATED="1444623757139" MODIFIED="1444682264746"/>
+</node>
+<node TEXT=".mm du proc" LOCALIZED_STYLE_REF="styles.topic" ID="ID_325186336" CREATED="1444405730636" MODIFIED="1444945145585">
+<node TEXT="one of 2 observed motiv" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1937627517" CREATED="1444405792515" MODIFIED="1444405821515">
+<node TEXT="right is now, left earlier" ID="ID_1068245165" CREATED="1444405825307" MODIFIED="1444405830467"/>
+</node>
+<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_292295087" CREATED="1444499287242" MODIFIED="1444499289866"/>
+<node TEXT="first run du in wc, from (us) mm/git" ID="ID_1663185589" CREATED="1444405742387" MODIFIED="1444405768670"/>
+<node TEXT="then from [last rev]/git" ID="ID_753267467" CREATED="1444405762819" MODIFIED="1444405788127"/>
+<node TEXT="then split screen, scroll" ID="ID_531906115" CREATED="1444405788374" MODIFIED="1444499284325"/>
 </node>
 </node>
 <node TEXT="rig" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1649426033" CREATED="1408172913808" MODIFIED="1418871251412">
@@ -1298,6 +1318,9 @@
 </node>
 </node>
 <node TEXT="Git" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1000066554" CREATED="1421901446158" MODIFIED="1421958782099">
+<node TEXT="&quot;git bisect&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_7644246" CREATED="1444935798737" MODIFIED="1444945113368">
+<node TEXT="find the commit where a test starts failing" ID="ID_962761568" CREATED="1444935807700" MODIFIED="1444935822502"/>
+</node>
 <node TEXT="git status" ID="ID_1542434695" CREATED="1421901460087" MODIFIED="1421901461272"/>
 <node TEXT="git log" ID="ID_1501469800" CREATED="1421901464956" MODIFIED="1421901465850">
 <node TEXT="git log -p" ID="ID_1239054538" CREATED="1421901468793" MODIFIED="1421901475392">

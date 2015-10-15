@@ -16725,6 +16725,20 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="X" ID="ID_474843878" CREATED="1443982391998" MODIFIED="1443982392620"/>
 <node TEXT="&quot;nerp&quot; :: X" ID="ID_1710876256" CREATED="1443982392881" MODIFIED="1443982400019"/>
 </node>
+<node TEXT="2015 10 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_212702083" CREATED="1444945056742" MODIFIED="1444945059074"/>
+<node TEXT="error messages state class before (invalid)member" ID="ID_507926272" CREATED="1444936762828" MODIFIED="1444936788145">
+<node TEXT="in error messages it will say &quot;can&apos;t deduce (Class InstanceMember)&quot;. If I forget the order ask for 3 + &quot;X&quot;" ID="ID_2001928" CREATED="1444904845018" MODIFIED="1444904883148"/>
+</node>
+<node TEXT="think of &lt;$&gt; as a lift" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_992828206" CREATED="1444894645492" MODIFIED="1444936752940">
+<node TEXT="maybe it is literally" ID="ID_524768698" CREATED="1444936754076" MODIFIED="1444936757672"/>
+<node TEXT="its first|LHS input is not a functor" ID="ID_1964448195" CREATED="1444894651931" MODIFIED="1444894677709"/>
+</node>
+<node TEXT="parsing, infixes &amp; precedence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1448826668" CREATED="1443423949343" MODIFIED="1443423954180">
+<node TEXT="recs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1428363617" CREATED="1443461834944" MODIFIED="1443461838040">
+<node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-Parsec-Expr.html" ID="ID_1430838824" CREATED="1443461827666" MODIFIED="1443461827666" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-Parsec-Expr.html"/>
+<node TEXT="https://en.wikipedia.org/wiki/Operator-precedence_grammar" ID="ID_534668150" CREATED="1443461833625" MODIFIED="1443461833625" LINK="https://en.wikipedia.org/wiki/Operator-precedence_grammar"/>
+</node>
+</node>
 </node>
 <node TEXT="Emacs" POSITION="right" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -18743,6 +18757,32 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="? what is OscShape or (instance) kriole" ID="ID_842548640" CREATED="1444787974825" MODIFIED="1444788005904">
 <node TEXT="it has a different type sig from pan, yet this is valid: d1 $ slow 2 $ up p1 |*| up &quot;[24]&quot; |*| sound &quot;[wobble,metal]&quot; |+| kriole &quot;1&quot;" ID="ID_1294080538" CREATED="1444788021994" MODIFIED="1444788048791"/>
+</node>
+<node TEXT="tidal" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1156635387" CREATED="1444936881725" MODIFIED="1444945724450">
+<node TEXT="features, want" ID="ID_511147618" CREATED="1444937342985" MODIFIED="1444937360862">
+<node TEXT="keyboard for fast pitch data : tone set, root, melody" ID="ID_1619441734" CREATED="1444893644362" MODIFIED="1444936851180">
+<node TEXT="melody repd scale stepwise or chromatic" ID="ID_586066083" CREATED="1444936852162" MODIFIED="1444936874762"/>
+</node>
+<node TEXT="Tidal : give x-voice instructions at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_421404407" CREATED="1444871763229" MODIFIED="1444871779209">
+<node TEXT="e.g. pan, existence" ID="ID_899370166" CREATED="1444871784360" MODIFIED="1444872595795"/>
+</node>
+<node TEXT="tidal: into-theme substitution" ID="ID_159832567" CREATED="1444871016555" MODIFIED="1444871029383">
+<node TEXT="dur data across patterns" ID="ID_1591134033" CREATED="1444871030276" MODIFIED="1444871047093"/>
+</node>
+<node TEXT="emacs ? multi-line single-command eval" ID="ID_1097973221" CREATED="1444269192445" MODIFIED="1444940123131">
+<node TEXT="MH thinks can do" ID="ID_49106029" CREATED="1444269211117" MODIFIED="1444269214433"/>
+<node TEXT="surely haskell emacs multi-line eval is already written" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1743136721" CREATED="1443419036354" MODIFIED="1444940128881"/>
+</node>
+</node>
+<node TEXT="music &amp; try" ID="ID_1140839402" CREATED="1444937345068" MODIFIED="1444939413926">
+<node TEXT="a sparse drum loop nearly as long as the speed-setter" ID="ID_555769593" CREATED="1444872130530" MODIFIED="1444872145531"/>
+<node TEXT="mus ! white noise" ID="ID_1678075711" CREATED="1444787218623" MODIFIED="1444787229721"/>
+</node>
+<node TEXT="coding &amp; try" ID="ID_1918021904" CREATED="1444939930108" MODIFIED="1444939931859">
+<node TEXT="mike hodnick asks about writing a variation of stut" LOCALIZED_STYLE_REF="default" ID="ID_658425886" CREATED="1443809631546" MODIFIED="1444939929450">
+<node TEXT="https://mail.google.com/mail/u/0/#inbox/15028cca7bb82e5f" ID="ID_629050819" CREATED="1443809646620" MODIFIED="1443809646620" LINK="https://mail.google.com/mail/u/0/#inbox/15028cca7bb82e5f"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">

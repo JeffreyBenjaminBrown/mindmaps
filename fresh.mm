@@ -4717,9 +4717,9 @@
 <node TEXT="something was certain(to me) but imaginary; it escaped me while I looked for a categ" ID="ID_1181348103" CREATED="1444095436802" MODIFIED="1444095460687"/>
 </node>
 </node>
-<node TEXT="u 4 .." ID="ID_1015099962" CREATED="1444125283716" MODIFIED="1444200097483">
+<node TEXT="u 4 .." ID="ID_1015099962" CREATED="1444125283716" MODIFIED="1444945563269">
 <font BOLD="true"/>
-<node TEXT="earlier" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_436600210" CREATED="1444694596247" MODIFIED="1444694597587">
+<node TEXT="earlier" LOCALIZED_STYLE_REF="default" ID="ID_436600210" CREATED="1444694596247" MODIFIED="1444945560520">
 <node TEXT="1p" ID="ID_910146400" CREATED="1444327838873" MODIFIED="1444682943798">
 <node TEXT="&quot;[the problem is] He&apos;s been fed on doggerel verses!&quot;" ID="ID_419926751" CREATED="1444112477323" MODIFIED="1444112494217">
 <node TEXT="--prokofiev, oranges" ID="ID_1128618743" CREATED="1444112495227" MODIFIED="1444112501809"/>
@@ -4976,7 +4976,7 @@
 </node>
 </node>
 </node>
-<node TEXT="12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_309700416" CREATED="1444499355283" MODIFIED="1444682911598"/>
+<node TEXT="12" LOCALIZED_STYLE_REF="default" ID="ID_309700416" CREATED="1444499355283" MODIFIED="1444945560507">
 <node TEXT="another entitled _" ID="ID_62784066" CREATED="1444679494136" MODIFIED="1444679496998">
 <node TEXT="I thought I was special. I wanted to be another death-king?mass-reprodr." ID="ID_1137284726" CREATED="1444679416032" MODIFIED="1444679437793"/>
 </node>
@@ -4991,7 +4991,8 @@
 <node TEXT="conquer an information $ plan to, never complete" ID="ID_1231817219" CREATED="1444681593929" MODIFIED="1444681627203">
 <node TEXT="countries" ID="ID_853455396" CREATED="1444681646721" MODIFIED="1444681648878"/>
 </node>
-<node TEXT="13" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1288063405" CREATED="1444785563146" MODIFIED="1444785565594"/>
+</node>
+<node TEXT="13" LOCALIZED_STYLE_REF="default" ID="ID_1288063405" CREATED="1444785563146" MODIFIED="1444945560503">
 <node TEXT="hearing aids -&gt; genny + sid" ID="ID_306183648" CREATED="1444785424351" MODIFIED="1444785430478"/>
 <node TEXT="influ / consent" ID="ID_44257827" CREATED="1444785710199" MODIFIED="1444785746499"/>
 <node TEXT="solutions(contrad) already encoded" ID="ID_773309269" CREATED="1444785813287" MODIFIED="1444785844733">
@@ -5043,6 +5044,53 @@
 <node TEXT="proving self _ by proving env _" ID="ID_1195186498" CREATED="1444797266172" MODIFIED="1444797276939"/>
 </node>
 <node TEXT="quantum" ID="ID_884185404" CREATED="1444797315204" MODIFIED="1444797316859"/>
+</node>
+</node>
+<node TEXT="14" LOCALIZED_STYLE_REF="default" ID="ID_1614933548" CREATED="1444936891882" MODIFIED="1444945560495">
+<node TEXT="? bond follow-through" ID="ID_1863149699" CREATED="1444939271356" MODIFIED="1444939319645">
+<node TEXT="always ?! follow up" ID="ID_999887147" CREATED="1444795229771" MODIFIED="1444795236058">
+<node TEXT="why would I choose staying" ID="ID_1320334176" CREATED="1444795240267" MODIFIED="1444795247985"/>
+</node>
+</node>
+<node TEXT="polit" ID="ID_1409808960" CREATED="1444939047476" MODIFIED="1444939048514">
+<node TEXT="american black incarceration is recent" ID="ID_575507719" CREATED="1444801590581" MODIFIED="1444801596068">
+<node TEXT="and crime trends mirror other countries, which don&apos;t have recent or ever mass incarcertation" ID="ID_315263198" CREATED="1444801597035" MODIFIED="1444801609934">
+<node TEXT="not mass like ours at least" ID="ID_442240857" CREATED="1444801610673" MODIFIED="1444801614166"/>
+</node>
+</node>
+<node TEXT="underlying &gt;causal&gt; race" ID="ID_1816525465" CREATED="1444939077316" MODIFIED="1444939121272">
+<node TEXT="problems blamed on race, solutions defined in terms of it, when the problems are rather things like antagonistic self-escalating fear" ID="ID_336754090" CREATED="1444801116719" MODIFIED="1444801160250"/>
+</node>
+</node>
+<node TEXT="god ? x-orgm unity" ID="ID_812686797" CREATED="1444937444776" MODIFIED="1444937483705">
+<node TEXT="are plants one with our thoughts" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_473326520" CREATED="1444890110512" MODIFIED="1444937054872">
+<node TEXT="~ mirac, god, science" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1674562789" CREATED="1444937069322" MODIFIED="1444937081122"/>
+<node TEXT="http://www.newyorker.com/magazine/2013/12/23/the-intelligent-plant" ID="ID_1079637158" CREATED="1444890119003" MODIFIED="1444890119003" LINK="http://www.newyorker.com/magazine/2013/12/23/the-intelligent-plant"/>
+<node TEXT="mythbusters say yes, plants respond to thought" ID="ID_1595473772" CREATED="1444890213416" MODIFIED="1444890228838">
+<node TEXT="https://www.youtube.com/watch?v=fStmk7e9lJo" ID="ID_1501400367" CREATED="1444890210136" MODIFIED="1444890210136" LINK="https://www.youtube.com/watch?v=fStmk7e9lJo"/>
+</node>
+<node TEXT="http://mad-science.wonderhowto.com/how-to/diy-polygraph-machine-detect-lies-with-tin-foil-wire-and-arduino-0134599/" ID="ID_709177926" CREATED="1444890136298" MODIFIED="1444890136298" LINK="http://mad-science.wonderhowto.com/how-to/diy-polygraph-machine-detect-lies-with-tin-foil-wire-and-arduino-0134599/"/>
+</node>
+<node TEXT="trust  \for\  env self-aware" ID="ID_862334288" CREATED="1444871348070" MODIFIED="1444871365074">
+<node TEXT="an envl self-awareness that could not be without organisms sharing openly" ID="ID_1060764572" CREATED="1444871315543" MODIFIED="1444937433733"/>
+</node>
+</node>
+<node TEXT="anything possible   &amp;   I am" ID="ID_170979506" CREATED="1444795110019" MODIFIED="1444871895230"/>
+<node TEXT="indiv water use @ food" ID="ID_874955435" CREATED="1444939020220" MODIFIED="1444939031210">
+<node TEXT="food chain propog, exponential top, 40 gallons per head of lettuce" ID="ID_1047034382" CREATED="1444802067840" MODIFIED="1444802091346">
+<node TEXT="one&apos;s own water intake dwarfed by one&apos;s food&apos;s" ID="ID_93331850" CREATED="1444802096960" MODIFIED="1444802111310"/>
+</node>
+</node>
+<node TEXT="a bred inferior-dependent [milk cow]" ID="ID_1467116" CREATED="1444870757510" MODIFIED="1444937578832">
+<node TEXT="smaller choices" ID="ID_452681457" CREATED="1444870772905" MODIFIED="1444937563700"/>
+</node>
+<node TEXT="pwer ?? sensitive &amp; dangerous" ID="ID_587457821" CREATED="1444794914363" MODIFIED="1444794939286"/>
+<node TEXT="wack" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1011566712" CREATED="1444937543103" MODIFIED="1444937549743">
+<node TEXT="zombies" ID="ID_1908742593" CREATED="1444889760840" MODIFIED="1444889762343">
+<node TEXT="creatives v. plants" ID="ID_1124119987" CREATED="1444889741072" MODIFIED="1444889750367"/>
+</node>
+<node TEXT="conqueror (made)of hat-wearing" ID="ID_32076433" CREATED="1444870925729" MODIFIED="1444870931804"/>
+</node>
 </node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">
