@@ -541,8 +541,8 @@
 <node TEXT="free code, but the data costs money" ID="ID_1281617920" CREATED="1396641183410" MODIFIED="1396641191361"/>
 </node>
 </node>
-<node TEXT="general" POSITION="right" ID="ID_1960297552" CREATED="1424127276693" MODIFIED="1431554669657">
-<font BOLD="true"/>
+<node TEXT="general" POSITION="right" ID="ID_1960297552" CREATED="1424127276693" MODIFIED="1445314907135">
+<font BOLD="false"/>
 <node TEXT="casting from int to float is expensive" ID="ID_557036057" CREATED="1424127278661" MODIFIED="1424127284909"/>
 <node TEXT="&quot;every application should have a menubar and a statusbar&quot;" ID="ID_1354809626" CREATED="1424157602841" MODIFIED="1424157612954">
 <node TEXT="http://wiki.wxpython.org/Getting%20Started" ID="ID_1391564133" CREATED="1424157634552" MODIFIED="1424157634552" LINK="http://wiki.wxpython.org/Getting%20Started"/>
@@ -552,7 +552,15 @@
 <node TEXT="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf" ID="ID_1915328013" CREATED="1438498570377" MODIFIED="1438498570377" LINK="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf"/>
 </node>
 </node>
-<node TEXT="Python +" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1939224739" CREATED="1409708337095" MODIFIED="1433283969017">
+<node TEXT="to do" POSITION="right" ID="ID_1525341159" CREATED="1445314052375" MODIFIED="1445314053157">
+<node TEXT="&quot;stack upgrade&quot;" ID="ID_1284328300" CREATED="1445314054611" MODIFIED="1445314058027">
+<node TEXT="upgrades Stack itself" ID="ID_1454753744" CREATED="1445314058892" MODIFIED="1445314070137"/>
+</node>
+</node>
+<node TEXT="by lang" POSITION="right" ID="ID_1864816165" CREATED="1445314044031" MODIFIED="1445314905101">
+<font BOLD="true"/>
+<node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" ID="ID_312333934" CREATED="1445329610576" MODIFIED="1445329612787">
+<node TEXT="Python +" LOCALIZED_STYLE_REF="default" ID="ID_1939224739" CREATED="1409708337095" MODIFIED="1433283969017">
 <font BOLD="true"/>
 <node TEXT="= + gui, monome" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1364250115" CREATED="1433281371430" MODIFIED="1433281377414"/>
 <node TEXT="for most of it, see where.mm" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_975806077" CREATED="1433281447034" MODIFIED="1433281457135"/>
@@ -5802,7 +5810,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Scala" POSITION="right" ID="ID_1657348094" CREATED="1428520953020" MODIFIED="1429165246100">
+<node TEXT="Scala" ID="ID_1657348094" CREATED="1428520953020" MODIFIED="1429165246100">
 <node TEXT="rather than keep my book notes organized by book shape, keep the notes and an image of (my reading history of) the book" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_178761388" CREATED="1429856424557" MODIFIED="1429856464032">
 <node TEXT="! is dup; main currently at live.mm" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1795382986" CREATED="1429856474885" MODIFIED="1429856485067"/>
 </node>
@@ -7613,7 +7621,7 @@
 <node TEXT="https://www.google.com/search?q=how+to+read+scala+api+documentation&amp;ie=UTF-8&amp;sa=Search&amp;channel=fe&amp;client=browser-ubuntu&amp;hl=en&amp;gws_rd=ssl" ID="ID_543564320" CREATED="1430466996684" MODIFIED="1430466996684" LINK="https://www.google.com/search?q=how+to+read+scala+api+documentation&amp;ie=UTF-8&amp;sa=Search&amp;channel=fe&amp;client=browser-ubuntu&amp;hl=en&amp;gws_rd=ssl"/>
 </node>
 </node>
-<node TEXT="OCaml" POSITION="right" ID="ID_1432862807" CREATED="1424124498757" MODIFIED="1424124501333">
+<node TEXT="OCaml" ID="ID_1432862807" CREATED="1424124498757" MODIFIED="1424124501333">
 <node TEXT="lang" ID="ID_771284828" CREATED="1424126043052" MODIFIED="1424126043726">
 <node TEXT="pitfalls" ID="ID_731560577" CREATED="1424126064533" MODIFIED="1424126065780">
 <node TEXT="duplicates" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_788056917" CREATED="1424126071765" MODIFIED="1424126073967"/>
@@ -7731,7 +7739,8 @@
 </node>
 </node>
 </node>
-<node TEXT="Json" POSITION="right" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
+</node>
+<node TEXT="Json" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
 <font BOLD="true"/>
 <node TEXT="https://hackage.haskell.org/package/json" ID="ID_1042708665" CREATED="1431553648003" MODIFIED="1431553648003" LINK="https://hackage.haskell.org/package/json"/>
 <node TEXT="types" ID="ID_1012561656" CREATED="1431552851421" MODIFIED="1431552853907">
@@ -7754,7 +7763,7 @@
 <node TEXT="backslash to escape" ID="ID_1520934767" CREATED="1431552975364" MODIFIED="1431552984303"/>
 <node TEXT="no comments" ID="ID_1093200840" CREATED="1431552845294" MODIFIED="1431552847114"/>
 </node>
-<node TEXT="Haskell" POSITION="right" ID="ID_609152376" CREATED="1416531718605" MODIFIED="1431554664482">
+<node TEXT="Haskell" ID="ID_609152376" CREATED="1416531718605" MODIFIED="1431554664482">
 <font BOLD="true"/>
 <node TEXT="? if I sort this, and ?s percolated up only as high as deserved, would be good, no?" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1993268907" CREATED="1430469249892" MODIFIED="1430469271713"/>
 <node TEXT="u, gui toolkits" ID="ID_511225353" CREATED="1418783130204" MODIFIED="1422670333028">
@@ -14730,6 +14739,146 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="including from &quot;:&quot;" ID="ID_149808720" CREATED="1413230132525" MODIFIED="1413230138576"/>
 </node>
 </node>
+<node TEXT="ghc, cabal, stack(age), graph-db" LOCALIZED_STYLE_REF="default" ID="ID_1539939586" CREATED="1432690583044" MODIFIED="1445313043589">
+<font BOLD="true"/>
+<node TEXT="2015 05 25, via Elliot" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_50092190" CREATED="1432690600476" MODIFIED="1432692294203">
+<node TEXT="via Elliot circa 2015 05 15" LOCALIZED_STYLE_REF="default" ID="ID_1815726634" CREATED="1432692286956" MODIFIED="1432692312064"/>
+</node>
+<node TEXT="ghc" ID="ID_59311671" CREATED="1432539570651" MODIFIED="1432539571496">
+<node TEXT="Installing GHC from source (https://www.haskell.org/ghc/download_ghc_7_8_4#x86_64linux    INSTALL file tells you what to do, might need to sudo apt-get install libgmp-devel or something)" ID="ID_652238953" CREATED="1431737442590" MODIFIED="1431737442590" LINK="https://www.haskell.org/ghc/download_ghc_7_8_4#x86_64linux">
+<node TEXT="--elliot" ID="ID_1954107562" CREATED="1432576915052" MODIFIED="1432576917184"/>
+</node>
+<node TEXT="https://gist.github.com/wting/8498731" ID="ID_84614192" CREATED="1432576882231" MODIFIED="1432576882231" LINK="https://gist.github.com/wting/8498731">
+<node TEXT="--google" ID="ID_1445584177" CREATED="1432576918467" MODIFIED="1432576920095"/>
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_986139868" CREATED="1432541198756" MODIFIED="1432541201910">
+<node TEXT="sudo aptitude install -y libgmp3-dev" ID="ID_860513293" CREATED="1432541184108" MODIFIED="1432541245954"/>
+</node>
+</node>
+<node TEXT="cabal" ID="ID_409690704" CREATED="1431737442585" MODIFIED="1432539580232">
+<node TEXT="(=?) sandboxes" ID="ID_786374738" CREATED="1432539580585" MODIFIED="1432539602769"/>
+<node TEXT="install" ID="ID_539658657" CREATED="1432539592643" MODIFIED="1432539593783">
+<node TEXT="Installing Cabal from source (https://www.haskell.org/cabal/release/cabal-install-1.22.4.0/cabal-install-1.22.4.0.tar.gz    then run ./bootstrap.sh)" ID="ID_64183181" CREATED="1431737442591" MODIFIED="1431737442591" LINK="https://www.haskell.org/cabal/release/cabal-install-1.22.4.0/cabal-install-1.22.4.0.tar.gz"/>
+</node>
+<node TEXT="using" ID="ID_83811311" CREATED="1432539611731" MODIFIED="1432539613624">
+<node TEXT="cabal init -- for YOUR projects" ID="ID_1772394915" CREATED="1431737442593" MODIFIED="1431737442593"/>
+<node TEXT="cabal sandbox init" ID="ID_1168309173" CREATED="1431737442595" MODIFIED="1431737442595"/>
+<node TEXT="cabal install --only-dependencies" ID="ID_72462561" CREATED="1431737442596" MODIFIED="1431737442596"/>
+<node TEXT="cabal repl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1042115446" CREATED="1431737442598" MODIFIED="1433465579163">
+<node TEXT="straight from command line to ghci with needed libs loaded" ID="ID_1458689433" CREATED="1432701440933" MODIFIED="1432701459363"/>
+</node>
+<node TEXT="cabal build" ID="ID_117755337" CREATED="1432701671197" MODIFIED="1432701672748"/>
+<node TEXT="cabal run [program]" ID="ID_1265428580" CREATED="1431737442599" MODIFIED="1432846253287"/>
+<node TEXT="cabal run" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_579710389" CREATED="1432701601021" MODIFIED="1432701603234">
+<node TEXT="if the executable is named in the (root (always?)) .cabal file, can run from top level, as # cabal run filename" ID="ID_5906169" CREATED="1432701603931" MODIFIED="1432701646076"/>
+</node>
+</node>
+</node>
+<node TEXT="graph-db" ID="ID_630092114" CREATED="1432694469839" MODIFIED="1432694471341">
+<node TEXT="using it with cabal" ID="ID_1798999236" CREATED="1432769233971" MODIFIED="1432852277504">
+<node TEXT="from Elliot" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_677099853" CREATED="1432852278638" MODIFIED="1432852281170"/>
+<node TEXT="commands that execute without complaint" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_636174221" CREATED="1432701344909" MODIFIED="1432852327592"/>
+<node TEXT="only run once" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1231249592" CREATED="1432852311103" MODIFIED="1432852321069">
+<node TEXT="cabal sandbox init" ID="ID_3467846" CREATED="1431737442595" MODIFIED="1431737442595"/>
+<node TEXT="cabal install --only-dependencies" ID="ID_169078701" CREATED="1431737442596" MODIFIED="1431737442596"/>
+</node>
+<node TEXT="cabal build" ID="ID_447886534" CREATED="1431737442598" MODIFIED="1432701342301"/>
+<node TEXT="cabal repl" ID="ID_1151432221" CREATED="1432701386157" MODIFIED="1432852306932"/>
+<node TEXT="cabal run graph-db-demo" ID="ID_994668504" CREATED="1432846255988" MODIFIED="1432846257778"/>
+</node>
+<node TEXT="known" ID="ID_1628434014" CREATED="1432769241579" MODIFIED="1432852345890">
+<node TEXT="not all nodes connectible" ID="ID_1680088996" CREATED="1432769247763" MODIFIED="1432769251905">
+<node TEXT="class Edge v v&apos; where" ID="ID_389268121" CREATED="1432769245721" MODIFIED="1432769245721"/>
+<node TEXT="if an edge class is not defined from v to v&apos;, then nodes of type v cannot be connected to nodes of type v&apos;" ID="ID_1152234524" CREATED="1432769255699" MODIFIED="1432769277937"/>
+</node>
+</node>
+<node TEXT="unknown" ID="ID_1873814813" CREATED="1432852346495" MODIFIED="1432852348972">
+<node TEXT="how to" ID="ID_963715355" CREATED="1432852672815" MODIFIED="1432852674061">
+<node TEXT="label an edge" ID="ID_489389069" CREATED="1432852361439" MODIFIED="1432852363644"/>
+<node TEXT="edge an edge" ID="ID_256814330" CREATED="1432852366535" MODIFIED="1432852369725"/>
+</node>
+<node TEXT="what is" ID="ID_581170525" CREATED="1432852675127" MODIFIED="1432852677021">
+<node TEXT="Index" ID="ID_1903779015" CREATED="1432852683927" MODIFIED="1432852685285">
+<node TEXT="two separate types, I think" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1502929209" CREATED="1432852692639" MODIFIED="1432852708321"/>
+<node TEXT="defined in Graph.hs, under class Setup s" ID="ID_1731981000" CREATED="1432852689247" MODIFIED="1432852786381">
+<node TEXT="complex" ID="ID_290300300" CREATED="1432852791633" MODIFIED="1432852796522"/>
+</node>
+<node TEXT="defined in Model.hs, under class Edge v v&apos;" ID="ID_1336914235" CREATED="1432852710111" MODIFIED="1432852784786"/>
+</node>
+</node>
+</node>
+<node TEXT="graph-db" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_110234256" CREATED="1432805064157" MODIFIED="1432852255997">
+<node TEXT="mmedge = node" ID="ID_1688808463" CREATED="1432805279205" MODIFIED="1432805282801">
+<node TEXT="to label a mmedge (mindmap edge), it must be a node" ID="ID_335403141" CREATED="1432805248317" MODIFIED="1432805275022"/>
+<node TEXT="that node can carry a text label" ID="ID_68416356" CREATED="1432805483453" MODIFIED="1432805487171"/>
+</node>
+<node TEXT="Demo.hs" ID="ID_505081001" CREATED="1432802558594" MODIFIED="1432802561528">
+<node TEXT="addTarget" ID="ID_606806971" CREATED="1432802568250" MODIFIED="1432802569952">
+<node TEXT="\ library/GraphDB/Graph.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1549175843" CREATED="1432802702945" MODIFIED="1432802738180"/>
+<node TEXT="addTarget :: (Setup s) =&gt; Node s -&gt; Node s -&gt; IO ()" ID="ID_1866991787" CREATED="1432802675876" MODIFIED="1432802675876"/>
+<node TEXT="adds an edge to the graph, I think" ID="ID_967013640" CREATED="1432802649435" MODIFIED="1432802684072"/>
+</node>
+<node TEXT="goals" ID="ID_1374249770" CREATED="1432804137780" MODIFIED="1432804139456">
+<node TEXT="make, change a text graph" ID="ID_1888333945" CREATED="1432804170212" MODIFIED="1432804180813"/>
+<node TEXT="label an edge" ID="ID_830847727" CREATED="1432804159692" MODIFIED="1432804161665"/>
+<node TEXT="traverse|search the graph" ID="ID_574062629" CREATED="1432804246844" MODIFIED="1432804255308"/>
+</node>
+<node TEXT="to write a Write" ID="ID_1578839899" CREATED="1432803569203" MODIFIED="1432803571617">
+<node TEXT="this is how Demo.hs does it" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_576717472" CREATED="1432803596779" MODIFIED="1432803619459"/>
+<node TEXT="execute this in a do loop" ID="ID_1883795642" CREATED="1432803580531" MODIFIED="1432803583729">
+<node TEXT="G.write $ populate" ID="ID_1049975274" CREATED="1432803571994" MODIFIED="1432803571994"/>
+</node>
+<node TEXT="where" ID="ID_1067690014" CREATED="1432803585043" MODIFIED="1432803585897">
+<node TEXT="populate :: G.Write s Catalogue t ()" ID="ID_58782324" CREATED="1432803586259" MODIFIED="1432803586259"/>
+</node>
+</node>
+<node TEXT="mysteries" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1071623712" CREATED="1432802771355" MODIFIED="1432804133922">
+<node TEXT="first see goals" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_152565647" CREATED="1432804144228" MODIFIED="1432804147390"/>
+<node TEXT="s u t r" ID="ID_240789562" CREATED="1432802773218" MODIFIED="1432802776008"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="stack" ID="ID_1585465269" CREATED="1441386916441" MODIFIED="1441386917735">
+<node TEXT="good instructions \ Github" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_605152260" CREATED="1445313659446" MODIFIED="1445313666917">
+<node TEXT="https://github.com/commercialhaskell/stack" ID="ID_579495824" CREATED="1445313662421" MODIFIED="1445313662421" LINK="https://github.com/commercialhaskell/stack"/>
+</node>
+<node TEXT="change resolver to &quot;nightly-[date]&quot; to use a more recent, then run &quot;stack build&quot;" ID="ID_585126758" CREATED="1438719681785" MODIFIED="1438719919118">
+<node TEXT="http://www.stackage.org/nightly-2015-08-04" ID="ID_349176245" CREATED="1438719698584" MODIFIED="1438719698584" LINK="http://www.stackage.org/nightly-2015-08-04"/>
+</node>
+<node TEXT="if stack complains I don&apos;t have 7.10 setup, then I can run &quot;stack setup&quot; to install 7.10" ID="ID_753593946" CREATED="1438719710017" MODIFIED="1438719747072"/>
+<node TEXT="stack ghci &lt;- cabal repl" ID="ID_1935584072" CREATED="1438719796026" MODIFIED="1438719802703">
+<node TEXT="loads my library" ID="ID_1684608036" CREATED="1438719803529" MODIFIED="1438719806089"/>
+</node>
+<node TEXT="stack snapshots are immutable" ID="ID_34618554" CREATED="1438719137311" MODIFIED="1441386813630"/>
+</node>
+<node TEXT="stackage" ID="ID_791274206" CREATED="1431737442585" MODIFIED="1432539554924">
+<node ID="ID_1283760042" CREATED="1432539555319" MODIFIED="1432539555319"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (look at installing the stackage-cli suite of tools for heling with this)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="project structure" ID="ID_572237522" CREATED="1432761579976" MODIFIED="1432761582182">
+<node TEXT="https://wiki.haskell.org/Structure_of_a_Haskell_project" ID="ID_1471178616" CREATED="1432761582859" MODIFIED="1432761582859" LINK="https://wiki.haskell.org/Structure_of_a_Haskell_project"/>
+</node>
+<node TEXT="vague" LOCALIZED_STYLE_REF="styles.topic" ID="ID_752119837" CREATED="1445313271542" MODIFIED="1445313278420">
+<node TEXT="stackage &amp; hackage" ID="ID_1843863543" CREATED="1445313255679" MODIFIED="1445313259613">
+<node TEXT="they are &quot;two [distinct] levels&quot;" ID="ID_21665364" CREATED="1418765135097" MODIFIED="1445313264708">
+<node TEXT="writes Dan Burton, &quot;[Haskell-cafe] Haskell Polishing [was: Missing `$` like operators in Haskell]&quot;" ID="ID_1540256092" CREATED="1418765175784" MODIFIED="1418765183235"/>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="above: main &quot;how by part&quot; br&apos;s" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1582419897" CREATED="1420962445597" MODIFIED="1420962465360"/>
 <node TEXT="pitfalls" ID="ID_1845441084" CREATED="1418936622051" MODIFIED="1418936623159">
 <node TEXT="-&gt; see also &quot;eval/pitfalls&quot;" ID="ID_1135252344" CREATED="1418936623364" MODIFIED="1418936629462"/>
@@ -15916,9 +16065,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="unfold: opposite of fold" ID="ID_719123296" CREATED="1418671236635" MODIFIED="1418671240615">
 <node TEXT="build a list from a seed" ID="ID_1327212020" CREATED="1418671241309" MODIFIED="1418671245428"/>
 </node>
-<node TEXT="stackage and hackage are &quot;two [distinct] levels&quot;" ID="ID_21665364" CREATED="1418765135097" MODIFIED="1418765174390">
-<node TEXT="writes Dan Burton, &quot;[Haskell-cafe] Haskell Polishing [was: Missing `$` like operators in Haskell]&quot;" ID="ID_1540256092" CREATED="1418765175784" MODIFIED="1418765183235"/>
-</node>
 <node TEXT="OO (an ambitious proj)" ID="ID_1455639710" CREATED="1418757998790" MODIFIED="1418758024335">
 <node TEXT="https://gist.github.com/deech/6528a75e480378182052" ID="ID_285529577" CREATED="1418757997649" MODIFIED="1418757997649" LINK="https://gist.github.com/deech/6528a75e480378182052"/>
 <node TEXT="[Haskell-cafe] Request For Feedback: Emulating OO-style dispatch for binding" ID="ID_38496582" CREATED="1418758015582" MODIFIED="1418758016378"/>
@@ -16148,136 +16294,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="the alternative to record syntax" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1570637759" CREATED="1433834535819" MODIFIED="1433834560276">
 <node TEXT="? in a data statement|declaration, is the difference between Object a and Object {fieldname :: a}" ID="ID_131551579" CREATED="1433833975298" MODIFIED="1433834555597"/>
 </node>
-</node>
-</node>
-<node TEXT="u: ghc, cabal, stack(age), graph-db" LOCALIZED_STYLE_REF="default" ID="ID_1539939586" CREATED="1432690583044" MODIFIED="1441401126667">
-<font BOLD="true"/>
-<node TEXT="2015 05 25, via Elliot" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_50092190" CREATED="1432690600476" MODIFIED="1432692294203">
-<node TEXT="via Elliot circa 2015 05 15" LOCALIZED_STYLE_REF="default" ID="ID_1815726634" CREATED="1432692286956" MODIFIED="1432692312064"/>
-</node>
-<node TEXT="ghc" ID="ID_59311671" CREATED="1432539570651" MODIFIED="1432539571496">
-<node TEXT="Installing GHC from source (https://www.haskell.org/ghc/download_ghc_7_8_4#x86_64linux    INSTALL file tells you what to do, might need to sudo apt-get install libgmp-devel or something)" ID="ID_652238953" CREATED="1431737442590" MODIFIED="1431737442590" LINK="https://www.haskell.org/ghc/download_ghc_7_8_4#x86_64linux">
-<node TEXT="--elliot" ID="ID_1954107562" CREATED="1432576915052" MODIFIED="1432576917184"/>
-</node>
-<node TEXT="https://gist.github.com/wting/8498731" ID="ID_84614192" CREATED="1432576882231" MODIFIED="1432576882231" LINK="https://gist.github.com/wting/8498731">
-<node TEXT="--google" ID="ID_1445584177" CREATED="1432576918467" MODIFIED="1432576920095"/>
-</node>
-<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_986139868" CREATED="1432541198756" MODIFIED="1432541201910">
-<node TEXT="sudo aptitude install -y libgmp3-dev" ID="ID_860513293" CREATED="1432541184108" MODIFIED="1432541245954"/>
-</node>
-</node>
-<node TEXT="cabal" ID="ID_409690704" CREATED="1431737442585" MODIFIED="1432539580232">
-<node TEXT="(=?) sandboxes" ID="ID_786374738" CREATED="1432539580585" MODIFIED="1432539602769"/>
-<node TEXT="install" ID="ID_539658657" CREATED="1432539592643" MODIFIED="1432539593783">
-<node TEXT="Installing Cabal from source (https://www.haskell.org/cabal/release/cabal-install-1.22.4.0/cabal-install-1.22.4.0.tar.gz    then run ./bootstrap.sh)" ID="ID_64183181" CREATED="1431737442591" MODIFIED="1431737442591" LINK="https://www.haskell.org/cabal/release/cabal-install-1.22.4.0/cabal-install-1.22.4.0.tar.gz"/>
-</node>
-<node TEXT="using" ID="ID_83811311" CREATED="1432539611731" MODIFIED="1432539613624">
-<node TEXT="cabal init -- for YOUR projects" ID="ID_1772394915" CREATED="1431737442593" MODIFIED="1431737442593"/>
-<node TEXT="cabal sandbox init" ID="ID_1168309173" CREATED="1431737442595" MODIFIED="1431737442595"/>
-<node TEXT="cabal install --only-dependencies" ID="ID_72462561" CREATED="1431737442596" MODIFIED="1431737442596"/>
-<node TEXT="cabal repl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1042115446" CREATED="1431737442598" MODIFIED="1433465579163">
-<node TEXT="straight from command line to ghci with needed libs loaded" ID="ID_1458689433" CREATED="1432701440933" MODIFIED="1432701459363"/>
-</node>
-<node TEXT="cabal build" ID="ID_117755337" CREATED="1432701671197" MODIFIED="1432701672748"/>
-<node TEXT="cabal run [program]" ID="ID_1265428580" CREATED="1431737442599" MODIFIED="1432846253287"/>
-<node TEXT="cabal run" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_579710389" CREATED="1432701601021" MODIFIED="1432701603234">
-<node TEXT="if the executable is named in the (root (always?)) .cabal file, can run from top level, as # cabal run filename" ID="ID_5906169" CREATED="1432701603931" MODIFIED="1432701646076"/>
-</node>
-</node>
-</node>
-<node TEXT="graph-db" ID="ID_630092114" CREATED="1432694469839" MODIFIED="1432694471341">
-<node TEXT="using it with cabal" ID="ID_1798999236" CREATED="1432769233971" MODIFIED="1432852277504">
-<node TEXT="from Elliot" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_677099853" CREATED="1432852278638" MODIFIED="1432852281170"/>
-<node TEXT="commands that execute without complaint" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_636174221" CREATED="1432701344909" MODIFIED="1432852327592"/>
-<node TEXT="only run once" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1231249592" CREATED="1432852311103" MODIFIED="1432852321069">
-<node TEXT="cabal sandbox init" ID="ID_3467846" CREATED="1431737442595" MODIFIED="1431737442595"/>
-<node TEXT="cabal install --only-dependencies" ID="ID_169078701" CREATED="1431737442596" MODIFIED="1431737442596"/>
-</node>
-<node TEXT="cabal build" ID="ID_447886534" CREATED="1431737442598" MODIFIED="1432701342301"/>
-<node TEXT="cabal repl" ID="ID_1151432221" CREATED="1432701386157" MODIFIED="1432852306932"/>
-<node TEXT="cabal run graph-db-demo" ID="ID_994668504" CREATED="1432846255988" MODIFIED="1432846257778"/>
-</node>
-<node TEXT="known" ID="ID_1628434014" CREATED="1432769241579" MODIFIED="1432852345890">
-<node TEXT="not all nodes connectible" ID="ID_1680088996" CREATED="1432769247763" MODIFIED="1432769251905">
-<node TEXT="class Edge v v&apos; where" ID="ID_389268121" CREATED="1432769245721" MODIFIED="1432769245721"/>
-<node TEXT="if an edge class is not defined from v to v&apos;, then nodes of type v cannot be connected to nodes of type v&apos;" ID="ID_1152234524" CREATED="1432769255699" MODIFIED="1432769277937"/>
-</node>
-</node>
-<node TEXT="unknown" ID="ID_1873814813" CREATED="1432852346495" MODIFIED="1432852348972">
-<node TEXT="how to" ID="ID_963715355" CREATED="1432852672815" MODIFIED="1432852674061">
-<node TEXT="label an edge" ID="ID_489389069" CREATED="1432852361439" MODIFIED="1432852363644"/>
-<node TEXT="edge an edge" ID="ID_256814330" CREATED="1432852366535" MODIFIED="1432852369725"/>
-</node>
-<node TEXT="what is" ID="ID_581170525" CREATED="1432852675127" MODIFIED="1432852677021">
-<node TEXT="Index" ID="ID_1903779015" CREATED="1432852683927" MODIFIED="1432852685285">
-<node TEXT="two separate types, I think" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1502929209" CREATED="1432852692639" MODIFIED="1432852708321"/>
-<node TEXT="defined in Graph.hs, under class Setup s" ID="ID_1731981000" CREATED="1432852689247" MODIFIED="1432852786381">
-<node TEXT="complex" ID="ID_290300300" CREATED="1432852791633" MODIFIED="1432852796522"/>
-</node>
-<node TEXT="defined in Model.hs, under class Edge v v&apos;" ID="ID_1336914235" CREATED="1432852710111" MODIFIED="1432852784786"/>
-</node>
-</node>
-</node>
-<node TEXT="graph-db" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_110234256" CREATED="1432805064157" MODIFIED="1432852255997">
-<node TEXT="mmedge = node" ID="ID_1688808463" CREATED="1432805279205" MODIFIED="1432805282801">
-<node TEXT="to label a mmedge (mindmap edge), it must be a node" ID="ID_335403141" CREATED="1432805248317" MODIFIED="1432805275022"/>
-<node TEXT="that node can carry a text label" ID="ID_68416356" CREATED="1432805483453" MODIFIED="1432805487171"/>
-</node>
-<node TEXT="Demo.hs" ID="ID_505081001" CREATED="1432802558594" MODIFIED="1432802561528">
-<node TEXT="addTarget" ID="ID_606806971" CREATED="1432802568250" MODIFIED="1432802569952">
-<node TEXT="\ library/GraphDB/Graph.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1549175843" CREATED="1432802702945" MODIFIED="1432802738180"/>
-<node TEXT="addTarget :: (Setup s) =&gt; Node s -&gt; Node s -&gt; IO ()" ID="ID_1866991787" CREATED="1432802675876" MODIFIED="1432802675876"/>
-<node TEXT="adds an edge to the graph, I think" ID="ID_967013640" CREATED="1432802649435" MODIFIED="1432802684072"/>
-</node>
-<node TEXT="goals" ID="ID_1374249770" CREATED="1432804137780" MODIFIED="1432804139456">
-<node TEXT="make, change a text graph" ID="ID_1888333945" CREATED="1432804170212" MODIFIED="1432804180813"/>
-<node TEXT="label an edge" ID="ID_830847727" CREATED="1432804159692" MODIFIED="1432804161665"/>
-<node TEXT="traverse|search the graph" ID="ID_574062629" CREATED="1432804246844" MODIFIED="1432804255308"/>
-</node>
-<node TEXT="to write a Write" ID="ID_1578839899" CREATED="1432803569203" MODIFIED="1432803571617">
-<node TEXT="this is how Demo.hs does it" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_576717472" CREATED="1432803596779" MODIFIED="1432803619459"/>
-<node TEXT="execute this in a do loop" ID="ID_1883795642" CREATED="1432803580531" MODIFIED="1432803583729">
-<node TEXT="G.write $ populate" ID="ID_1049975274" CREATED="1432803571994" MODIFIED="1432803571994"/>
-</node>
-<node TEXT="where" ID="ID_1067690014" CREATED="1432803585043" MODIFIED="1432803585897">
-<node TEXT="populate :: G.Write s Catalogue t ()" ID="ID_58782324" CREATED="1432803586259" MODIFIED="1432803586259"/>
-</node>
-</node>
-<node TEXT="mysteries" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1071623712" CREATED="1432802771355" MODIFIED="1432804133922">
-<node TEXT="first see goals" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_152565647" CREATED="1432804144228" MODIFIED="1432804147390"/>
-<node TEXT="s u t r" ID="ID_240789562" CREATED="1432802773218" MODIFIED="1432802776008"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="stack" ID="ID_1585465269" CREATED="1441386916441" MODIFIED="1441386917735">
-<node TEXT="change resolver to &quot;nightly-[date]&quot; to use a more recent, then run &quot;stack build&quot;" ID="ID_585126758" CREATED="1438719681785" MODIFIED="1438719919118">
-<node TEXT="http://www.stackage.org/nightly-2015-08-04" ID="ID_349176245" CREATED="1438719698584" MODIFIED="1438719698584" LINK="http://www.stackage.org/nightly-2015-08-04"/>
-</node>
-<node TEXT="if stack complains I don&apos;t have 7.10 setup, then I can run &quot;stack setup&quot; to install 7.10" ID="ID_753593946" CREATED="1438719710017" MODIFIED="1438719747072"/>
-<node TEXT="stack ghci &lt;- cabal repl" ID="ID_1935584072" CREATED="1438719796026" MODIFIED="1438719802703">
-<node TEXT="loads my library" ID="ID_1684608036" CREATED="1438719803529" MODIFIED="1438719806089"/>
-</node>
-<node TEXT="stack snapshots are immutable" ID="ID_34618554" CREATED="1438719137311" MODIFIED="1441386813630"/>
-</node>
-<node TEXT="stackage" ID="ID_791274206" CREATED="1431737442585" MODIFIED="1432539554924">
-<node ID="ID_1283760042" CREATED="1432539555319" MODIFIED="1432539555319"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (look at installing the stackage-cli suite of tools for heling with this)
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="project structure" ID="ID_572237522" CREATED="1432761579976" MODIFIED="1432761582182">
-<node TEXT="https://wiki.haskell.org/Structure_of_a_Haskell_project" ID="ID_1471178616" CREATED="1432761582859" MODIFIED="1432761582859" LINK="https://wiki.haskell.org/Structure_of_a_Haskell_project"/>
 </node>
 </node>
 <node TEXT="cabal|svn futz 06 05" LOCALIZED_STYLE_REF="default" ID="ID_1790693529" CREATED="1433531772013" MODIFIED="1436762776684"/>
@@ -16735,12 +16751,36 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="parsing, infixes &amp; precedence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1448826668" CREATED="1443423949343" MODIFIED="1443423954180">
 <node TEXT="recs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1428363617" CREATED="1443461834944" MODIFIED="1443461838040">
-<node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-Parsec-Expr.html" ID="ID_1430838824" CREATED="1443461827666" MODIFIED="1443461827666" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-Parsec-Expr.html"/>
+<node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-Parsec-Expr.html" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1430838824" CREATED="1443461827666" MODIFIED="1445286139536" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-Parsec-Expr.html"/>
 <node TEXT="https://en.wikipedia.org/wiki/Operator-precedence_grammar" ID="ID_534668150" CREATED="1443461833625" MODIFIED="1443461833625" LINK="https://en.wikipedia.org/wiki/Operator-precedence_grammar"/>
+<node TEXT="a paper on local fixity" ID="ID_170918170" CREATED="1445286042171" MODIFIED="1445286050052">
+<node TEXT="http://www.cse.chalmers.se/~nad/publications/danielsson-norell-mixfix.pdf" ID="ID_1466449215" CREATED="1445286050507" MODIFIED="1445286050507" LINK="http://www.cse.chalmers.se/~nad/publications/danielsson-norell-mixfix.pdf"/>
+</node>
+</node>
+<node TEXT="two Haskell Cafe threads I started" ID="ID_1596900947" CREATED="1445286056651" MODIFIED="1445286119627">
+<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_265499574" CREATED="1445286121476" MODIFIED="1445286123285"/>
+<node TEXT="https://mail.google.com/mail/u/0/#search/Operator-precedence_grammar/15012da0a4c2ba65" ID="ID_205503150" CREATED="1445286120377" MODIFIED="1445286120377" LINK="https://mail.google.com/mail/u/0/#search/Operator-precedence_grammar/15012da0a4c2ba65"/>
+<node TEXT="https://mail.google.com/mail/u/0/#inbox/150819cbd1045fa9" ID="ID_727435203" CREATED="1445286064429" MODIFIED="1445286064429" LINK="https://mail.google.com/mail/u/0/#inbox/150819cbd1045fa9"/>
+</node>
+<node TEXT="Haskell&apos;s fixity table" ID="ID_1555319723" CREATED="1445286145699" MODIFIED="1445286154419">
+<node TEXT="9 = !! and ." ID="ID_1346170534" CREATED="1445286160435" MODIFIED="1445286165283"/>
+<node TEXT="8-6 = arithmetic" ID="ID_619745035" CREATED="1445286176723" MODIFIED="1445286185025"/>
+<node TEXT="5 = list construction" ID="ID_1927406594" CREATED="1445286190459" MODIFIED="1445286194714"/>
+<node TEXT="4 = comparison, `elem`" ID="ID_470644573" CREATED="1445286198531" MODIFIED="1445286245646"/>
+<node TEXT="3 = &amp;&amp;" ID="ID_211758723" CREATED="1445286211348" MODIFIED="1445286213809"/>
+<node TEXT="2 = ||" ID="ID_349222143" CREATED="1445286213987" MODIFIED="1445286215816"/>
+<node TEXT="1 = monad" ID="ID_12470999" CREATED="1445286216019" MODIFIED="1445286221627"/>
+<node TEXT="0 = $, $!, `seq`" ID="ID_1409569966" CREATED="1445286224564" MODIFIED="1445286235985"/>
+</node>
+<node TEXT="ideas" ID="ID_1374331602" CREATED="1445286326483" MODIFIED="1445286327322">
+<node TEXT="valid set operations" ID="ID_1877178195" CREATED="1445286328177" MODIFIED="1445286338505">
+<node TEXT="set construction" ID="ID_1313080724" CREATED="1445286339265" MODIFIED="1445286341930"/>
+<node TEXT="set comparison" ID="ID_1460988352" CREATED="1445286343443" MODIFIED="1445286345082"/>
 </node>
 </node>
 </node>
-<node TEXT="Emacs" POSITION="right" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
+</node>
+<node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
 <node TEXT="adaptive-wrap" ID="ID_1954328534" CREATED="1414896271280" MODIFIED="1423720302098">
 <node TEXT="http://www.emacswiki.org/emacs/LineWrap" ID="ID_682156282" CREATED="1414896275870" MODIFIED="1414896275870" LINK="http://www.emacswiki.org/emacs/LineWrap"/>
@@ -17045,7 +17085,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="on each line" ID="ID_1429262133" CREATED="1414892021636" MODIFIED="1414892022839"/>
 </node>
-<node TEXT="C-x &lt;space&gt;: highlight as rectangle" ID="ID_169603297" CREATED="1414892073043" MODIFIED="1414892084046"/>
+<node TEXT="C-x &lt;space&gt;: highlight as rectangle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_169603297" CREATED="1414892073043" MODIFIED="1445137158088">
+<font BOLD="false"/>
+</node>
 <node TEXT="M-x string-insert-rectangle &lt;RET&gt; string &lt;RET&gt;" ID="ID_860917634" CREATED="1414892033075" MODIFIED="1414892036111">
 <node TEXT="insert string" ID="ID_621237979" CREATED="1414892047895" MODIFIED="1414892054040"/>
 <node TEXT="on each line" ID="ID_13983847" CREATED="1414892021636" MODIFIED="1414892022839"/>
@@ -17544,10 +17586,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="(define-key flyspell-mode-map &quot;\M-\t&quot; nil)" ID="ID_952161789" CREATED="1417937533315" MODIFIED="1417937554718"/>
 </node>
 </node>
-<node TEXT="emacs haskell mode" POSITION="right" ID="ID_1116620833" CREATED="1443926800174" MODIFIED="1443926813867">
+<node TEXT="&amp; emacs haskell mode" ID="ID_1116620833" CREATED="1443926800174" MODIFIED="1445329587709">
 <node TEXT="inferior-haskell-send-command" ID="ID_472467863" CREATED="1443926814284" MODIFIED="1443926814284"/>
 </node>
-<node TEXT="Dirt" POSITION="right" ID="ID_550072709" CREATED="1440655384921" MODIFIED="1442301955290">
+<node TEXT="Dirt" ID="ID_550072709" CREATED="1440655384921" MODIFIED="1442301955290">
 <node TEXT="samples by folder" LOCALIZED_STYLE_REF="default" ID="ID_96697644" CREATED="1440706498195" MODIFIED="1442302748482">
 <node TEXT="1" ID="ID_812502899" CREATED="1440706476380" MODIFIED="1440706476791">
 <node TEXT="bd" ID="ID_273407036" CREATED="1440655393410" MODIFIED="1440655394156"/>
@@ -17584,7 +17626,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="* insect" ID="ID_1780403633" CREATED="1440662860894" MODIFIED="1440662862954"/>
 <node TEXT="* invaders = weird" ID="ID_1689436700" CREATED="1440662903245" MODIFIED="1440662909432"/>
 <node TEXT="* invaders 3, 10 = giant mech" ID="ID_1575303133" CREATED="1440662918245" MODIFIED="1440662950667"/>
-<node TEXT="* jungbass = ringy bass" ID="ID_852127637" CREATED="1440662997731" MODIFIED="1440663002471"/>
+<node TEXT="* jungbass = brief ringy bass" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_852127637" CREATED="1440662997731" MODIFIED="1445052411141"/>
 <node TEXT="* koy = vox, low" ID="ID_58231821" CREATED="1440663076506" MODIFIED="1440663080117"/>
 <node TEXT="latibro = sustained, various pitches" ID="ID_759621819" CREATED="1440663131329" MODIFIED="1440663138212"/>
 <node TEXT="made2 = sustained, squonky" ID="ID_1354157187" CREATED="1440663214088" MODIFIED="1440663221611"/>
@@ -17640,342 +17682,31 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="* wobble = deep rumble" ID="ID_1476877927" CREATED="1440665118977" MODIFIED="1440665122812"/>
 </node>
 </node>
-<node TEXT="samples by family (accrete random)" ID="ID_602301063" CREATED="1442302748794" MODIFIED="1442302820030">
+<node TEXT="samples by use  $  accrete random" ID="ID_602301063" CREATED="1442302748794" MODIFIED="1445143330599">
 <node TEXT="short buzz" ID="ID_970292448" CREATED="1442302755258" MODIFIED="1442302757633">
 <node TEXT="insect 0" ID="ID_30264380" CREATED="1442302758340" MODIFIED="1442302762629"/>
 </node>
 <node TEXT="high unpitched flutter" ID="ID_1616705066" CREATED="1442302769163" MODIFIED="1442302797374">
 <node TEXT="insect 1-2" ID="ID_15594649" CREATED="1442302781002" MODIFIED="1442302783383"/>
 </node>
+<node TEXT="perc" ID="ID_206789357" CREATED="1445143285198" MODIFIED="1445143286055">
+<node TEXT="cp:1" ID="ID_1094587109" CREATED="1445143286777" MODIFIED="1445143290594">
+<node TEXT="meshes better, less aggressive than cp:0" ID="ID_1243016518" CREATED="1445143291241" MODIFIED="1445143302239"/>
 </node>
-<node TEXT="challenge" ID="ID_376769649" CREATED="1441758302232" MODIFIED="1441758350220">
-<node TEXT="make a drum kit in Haskell, not the  file browser" ID="ID_1469590694" CREATED="1441758308631" MODIFIED="1441758319075">
-<node TEXT="user writes a string like tidal pitch seq, plugs into a lookup func" ID="ID_1578650487" CREATED="1441758322000" MODIFIED="1441758344962"/>
 </node>
+<node TEXT="thick low buzz" ID="ID_518489278" CREATED="1445143919180" MODIFIED="1445143944460">
+<node TEXT="invaders:5-8 (pitch-lower are bigger indices)" ID="ID_288858131" CREATED="1445143935838" MODIFIED="1445143993548"/>
 </node>
 </node>
-<node TEXT="Tidal +" POSITION="right" ID="ID_370683564" CREATED="1414195719623" MODIFIED="1418802873363">
-<node TEXT="init, short" ID="ID_1532390043" CREATED="1439930067933" MODIFIED="1442301747617">
-<node TEXT="jackd -d coreaudio &amp;" ID="ID_277996398" CREATED="1439930070061" MODIFIED="1439930070061"/>
-<node TEXT="cd ~/Dirt" ID="ID_807359330" CREATED="1439930083860" MODIFIED="1439930083860"/>
-<node TEXT="./dirt &amp;" ID="ID_1962366651" CREATED="1439930083860" MODIFIED="1439930083860"/>
-<node TEXT="open a .tidal file" ID="ID_243253769" CREATED="1439930109249" MODIFIED="1439930113870">
-<font ITALIC="true"/>
+<node TEXT="not params" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1703549268" CREATED="1444787875401" MODIFIED="1444787877964">
+<node TEXT="tried, no effect detected" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_680754936" CREATED="1444787882128" MODIFIED="1444787912896"/>
+<node TEXT="velocity" ID="ID_311069962" CREATED="1444787910241" MODIFIED="1444787912168"/>
 </node>
-<node TEXT="Ctrl-C then Ctrl-S." ID="ID_807972310" CREATED="1439930129440" MODIFIED="1439930132674">
-<node TEXT="starts Tidal, from within Emacs" ID="ID_376417769" CREATED="1439930136007" MODIFIED="1439930142938"/>
 </node>
-<node TEXT="d1 $ brak $ sound &quot;bd sn/2&quot;" ID="ID_1676408002" CREATED="1439930121944" MODIFIED="1439930122795"/>
-</node>
-<node TEXT="do-ish" ID="ID_1601810671" CREATED="1418796957467" MODIFIED="1418804745369">
-<font BOLD="true"/>
-<node TEXT="asking : run multiple lines" ID="ID_579470305" CREATED="1442303345139" MODIFIED="1442304780128">
-<node TEXT="tidal-run-line is for one-line commands" ID="ID_1471153501" CREATED="1442303573979" MODIFIED="1442303588597">
-<node TEXT="(define-key map [?\C-c ?\C-c] &apos;tidal-run-line)" ID="ID_652026577" CREATED="1442303572332" MODIFIED="1442303572332"/>
-<node TEXT="(defun tidal-run-line ()" ID="ID_286727742" CREATED="1442303464814" MODIFIED="1442303464814">
-<node TEXT="&quot;Send the current line to the interpreter.&quot;" ID="ID_150126615" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT="(interactive)" ID="ID_800806219" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT="(tidal-get-now)" ID="ID_1815858190" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT="(let* ((s (buffer-substring (line-beginning-position)" ID="ID_177516530" CREATED="1442303464814" MODIFIED="1442303464814">
-<node TEXT="(line-end-position)))" ID="ID_304202730" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT="(s* (if tidal-literate-p" ID="ID_1642702610" CREATED="1442303464814" MODIFIED="1442303464814">
-<node TEXT="(tidal-unlit s)" ID="ID_613363391" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT="s)))" ID="ID_762369890" CREATED="1442303464814" MODIFIED="1442303464814"/>
-</node>
-<node TEXT="(tidal-send-string s*))" ID="ID_1182255407" CREATED="1442303464814" MODIFIED="1442303464814"/>
-</node>
-<node TEXT="(pulse-momentary-highlight-one-line (point))" ID="ID_811558126" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT="(next-line)" ID="ID_1641263642" CREATED="1442303464814" MODIFIED="1442303464814"/>
-<node TEXT=")" ID="ID_1588336302" CREATED="1442303464814" MODIFIED="1442303464814"/>
-</node>
-</node>
-<node TEXT="tidal-run-multiple-lines is for one command" ID="ID_322274169" CREATED="1442303480995" MODIFIED="1442303508150">
-<node TEXT="two key bindings" ID="ID_202841383" CREATED="1442303493427" MODIFIED="1442303615662">
-<node TEXT="(define-key map [?\C-c ?\C-e] &apos;tidal-run-multiple-lines)" ID="ID_1461708355" CREATED="1442303489866" MODIFIED="1442303489866"/>
-<node TEXT="(define-key map (kbd &quot;&lt;C-return&gt;&quot;) &apos;tidal-run-multiple-lines)" ID="ID_1065652472" CREATED="1442303489866" MODIFIED="1442303489866"/>
-</node>
-<node TEXT="(defun tidal-run-multiple-lines ()" ID="ID_808572469" CREATED="1442303464814" MODIFIED="1442303464814">
-<node TEXT="&quot;Send the current region to the interpreter as a single line.&quot;" ID="ID_1815698373" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(interactive)" ID="ID_1002921123" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(tidal-get-now)" ID="ID_731983937" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(save-excursion" ID="ID_133868488" CREATED="1442303464818" MODIFIED="1442303464818">
-<node TEXT="(mark-paragraph)" ID="ID_869541872" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(let* ((s (buffer-substring-no-properties (region-beginning)" ID="ID_1451771404" CREATED="1442303464818" MODIFIED="1442303464818">
-<node TEXT="(region-end)))" ID="ID_323056790" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(s* (if tidal-literate-p" ID="ID_260321230" CREATED="1442303464818" MODIFIED="1442303464818">
-<node TEXT="(tidal-unlit s)" ID="ID_1171348293" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="s)))" ID="ID_1748707290" CREATED="1442303464818" MODIFIED="1442303464818"/>
-</node>
-<node TEXT="(tidal-send-string &quot;:{&quot;)" ID="ID_909368636" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(tidal-send-string s*)" ID="ID_422817170" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(tidal-send-string &quot;:}&quot;)" ID="ID_641963513" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(mark-paragraph)" ID="ID_1316452680" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT="(pulse-momentary-highlight-region (mark) (point))" ID="ID_168463162" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT=")" ID="ID_139859494" CREATED="1442303464818" MODIFIED="1442303464818"/>
-<node TEXT=";(tidal-send-string (replace-regexp-in-string &quot;\n&quot; &quot; &quot; s*))" ID="ID_292730379" CREATED="1442303464818" MODIFIED="1442303464818"/>
-</node>
-<node TEXT=")" ID="ID_1179910916" CREATED="1442303464818" MODIFIED="1442303464818"/>
-</node>
-<node TEXT=")" ID="ID_1873454630" CREATED="1442303464818" MODIFIED="1442303464818"/>
-</node>
-</node>
-<node TEXT="tidal-run-region only runs the last" ID="ID_719487055" CREATED="1442303600899" MODIFIED="1442303608681">
-<node TEXT="(define-key map [?\C-c ?\C-r] &apos;tidal-run-region)" ID="ID_1687252113" CREATED="1442303367599" MODIFIED="1442303367599"/>
-<node TEXT="(defun tidal-run-region ()" ID="ID_1351405304" CREATED="1442303404223" MODIFIED="1442303404223">
-<node TEXT="&quot;Place the region in a do block and compile.&quot;" ID="ID_1563303140" CREATED="1442303404223" MODIFIED="1442303404223"/>
-<node TEXT="(interactive)" ID="ID_1298422923" CREATED="1442303404223" MODIFIED="1442303404223"/>
-<node TEXT="(tidal-transform-and-store" ID="ID_1882461481" CREATED="1442303404223" MODIFIED="1442303404223">
-<node TEXT="&quot;/tmp/tidal.hs&quot;" ID="ID_1695723549" CREATED="1442303404223" MODIFIED="1442303404223"/>
-<node TEXT="(buffer-substring-no-properties (region-beginning) (region-end)))" ID="ID_853043326" CREATED="1442303404223" MODIFIED="1442303404223"/>
-</node>
-<node TEXT="(tidal-send-string &quot;:load \&quot;/tmp/tidal.hs\&quot;&quot;)" ID="ID_1018757785" CREATED="1442303404223" MODIFIED="1442303404223"/>
-<node TEXT="(tidal-send-string &quot;main&quot;))" ID="ID_1873749803" CREATED="1442303404223" MODIFIED="1442303404223"/>
-</node>
-<node TEXT="error: &quot;save-current-buffer: Symbol&apos;s value as variable is void: tidal-modules&quot;" ID="ID_1909333049" CREATED="1442303892251" MODIFIED="1442304004510"/>
-</node>
-</node>
-<node TEXT="ask : no intercalate string?" ID="ID_1884141014" CREATED="1442125065156" MODIFIED="1442304782194">
-<node TEXT="this works in GHCI" ID="ID_965128741" CREATED="1442125034445" MODIFIED="1442125037457">
-<node TEXT="Prelude&gt; import Data.List&#xa;Prelude Data.List&gt; import Data.String&#xa;Prelude Data.List Data.String&gt; intercalate &quot; &quot; [&quot;word&quot;, &quot;salad&quot;]&#xa;&quot;word salad&quot;&#xa;Prelude Data.List Data.String&gt;" ID="ID_1326195276" CREATED="1442125039117" MODIFIED="1442125040092"/>
-</node>
-<node TEXT="but not in Tidal" ID="ID_1662851177" CREATED="1442125050006" MODIFIED="1442125052260">
-<node TEXT="v\tidal&gt;&#xa;tidal&gt; import Data.List&#xa;tidal&gt; import Data.String&#xa;tidal&gt; inercalate &quot; &quot; [&quot;word&quot;, &quot;salad&quot;]&#xa;&#xa;&lt;interactive&gt;:515:1:&#xa;    Not in scope: &#x2018;inercalate&#x2019;&#xa;    Perhaps you meant one of these:&#xa;      &#x2018;intercalate&#x2019; (imported from Sound.Tidal.Context),&#xa;      &#x2018;unintercalate&#x2019; (imported from Data.List.Split.Internals)&#xa;tidal&gt; intercalate &quot; &quot; [&quot;word&quot;,&quot;salad&quot;]&#xa;&#xa;&lt;interactive&gt;:516:1:&#xa;    No instance for (IsString [a0]) arising from a use of &#x2018;it&#x2019;&#xa;    The type variable &#x2018;a0&#x2019; is ambiguous&#xa;    Note: there is a potential instance available:&#xa;      instance IsString [Char] -- Defined in &#x2018;Data.String&#x2019;&#xa;    In the first argument of &#x2018;print&#x2019;, namely &#x2018;it&#x2019;&#xa;    In a stmt of an interactive GHCi command: print it&#xa;tidal&gt;" ID="ID_1925544469" CREATED="1442125053199" MODIFIED="1442125060343"/>
-</node>
-</node>
-<node TEXT="read" ID="ID_1335460872" CREATED="1418848224962" MODIFIED="1418848225997">
-<node TEXT="see Tidal/src" ID="ID_1862075157" CREATED="1418848226266" MODIFIED="1418848229263"/>
-</node>
-<node TEXT="use" ID="ID_1652201235" CREATED="1417927142418" MODIFIED="1418796341834">
-<node TEXT="define functions" ID="ID_1484818223" CREATED="1417926873023" MODIFIED="1417927147773"/>
-<node TEXT="use string functions" ID="ID_1255347946" CREATED="1417926984909" MODIFIED="1417927145854"/>
-<node TEXT="** study to modify: tidal.el" ID="ID_1496424863" CREATED="1417929194863" MODIFIED="1417929209137"/>
-</node>
-<node TEXT="learn, write" ID="ID_1017893927" CREATED="1417931284473" MODIFIED="1418802904346">
-<node TEXT="change one param without changing or restating others?" ID="ID_1215730980" CREATED="1417927129034" MODIFIED="1417927141773"/>
-<node TEXT="note repeat, not subdivide" ID="ID_5623598" CREATED="1417848236512" MODIFIED="1417901219238">
-<node TEXT="if I don&apos;t find documentation about it, start a thread with that title" ID="ID_1358681643" CREATED="1417848250536" MODIFIED="1417848260564"/>
-<node TEXT="sample wish-code" ID="ID_1667209627" CREATED="1417901158892" MODIFIED="1417929118330">
-<node TEXT="-- Rhythm training!&#xa;cps 0.33&#xa;d1 $ sound &quot;[bd sn]*3&quot;&#xa;d2 $ sound &quot;h bleep:4 h h h bleep:4    h h h h h bleep:6   h bleep:6 h h h h&quot;&#xa;&#xa;{- I would like to be able to write that as&#xa; &quot;h bd 5*h bd | h*8&quot;,&#xa; the | ignored but an indication to viewer that it divides evenly the time.&#xa; Written on two lines, it&apos;s clear what I&apos;m doing:&#xa; &quot;h b h h h h h bd &#xa; h h h h h h h h&quot;&#xa; That is, leading the snare in the other voice first, then following it.&#xa;-}" ID="ID_791963347" CREATED="1417901194250" MODIFIED="1417901194687"/>
-</node>
-</node>
-<node TEXT="loop sample ?" ID="ID_330720319" CREATED="1417989810860" MODIFIED="1417989855495">
-<node TEXT="then use gain and up (speed)" ID="ID_1757517457" CREATED="1417989806140" MODIFIED="1418796984350"/>
-</node>
-<node TEXT="phase" ID="ID_1124231588" CREATED="1418802996301" MODIFIED="1418802996945">
-<node TEXT="to send to list" ID="ID_1182159366" CREATED="1417836489017" MODIFIED="1418802995905">
-<node TEXT="Regarding phase, I am imagining some kind of language device that generalizes the concept of swing, for instructions like &quot;every other beat, delay by an eighth of a beat&quot;. Recursion seems likely to have particularly cool effects, e.g. &quot;Delay the outer thirds by 10%, then to each of those thirds delay their outer thirds by 10%, ...&quot;&#xa;&#xa;Flying Lotus uses a lot of concurrent beats with the same tempo but slight and maybe evolving phase mismatches; it&apos;s a sound I love.&#xa;&#xa;Am I correct that in Tidal phase remains so far unaddressed?" ID="ID_436866943" CREATED="1417836492313" MODIFIED="1417836492724"/>
-</node>
-</node>
-<node TEXT="schedule changes in advance" ID="ID_474868086" CREATED="1417481091552" MODIFIED="1418803604305">
-<node TEXT="a way to describe the clock-state of a pattern, to schedule changes in it" ID="ID_1160105434" CREATED="1417481075248" MODIFIED="1417481090660"/>
-</node>
-<node TEXT="control input" ID="ID_1696182223" CREATED="1417849895612" MODIFIED="1417850113022">
-<node TEXT="something to display during which past cycles control input was present, so able to refer to it" ID="ID_190493343" CREATED="1417850120311" MODIFIED="1417850169938"/>
-<node TEXT="program the voice rendering midi instructions to next cycle retain all from this one, in perpetuity or for a finite number of repeats" ID="ID_826492490" CREATED="1417850188894" MODIFIED="1417850229300">
-<node TEXT="discrete delay" ID="ID_1804094556" CREATED="1417850235205" MODIFIED="1417850247353"/>
-</node>
-<node TEXT="thread title?" ID="ID_81135773" CREATED="1417850115247" MODIFIED="1417850117779">
-<node TEXT="control signal input and analysis (e.g. find metric subdivisions for external midi, osc)" ID="ID_629113028" CREATED="1417849897643" MODIFIED="1417850038608"/>
-</node>
-</node>
-<node TEXT="zoom style" ID="ID_797481488" CREATED="1417925192373" MODIFIED="1417925193960">
-<node TEXT="use a small font, and zoom out to ordinary when not editing but rather choosing. can that way more afford lines of emptiness delineating blocks." ID="ID_1455950129" CREATED="1417925089550" MODIFIED="1417925186344"/>
-</node>
-<node TEXT="assoc freq to sample" ID="ID_393309043" CREATED="1418804695734" MODIFIED="1418804703169">
-<node TEXT="best to associate frequencies to files using non-name data" ID="ID_690490514" CREATED="1417925270755" MODIFIED="1417925285566">
-<node TEXT="if that can exist per file" ID="ID_1671871353" CREATED="1418804673614" MODIFIED="1418804681650"/>
-</node>
-</node>
-<node TEXT="Emacs" ID="ID_1299222358" CREATED="1418848621932" MODIFIED="1418849137389">
-<font BOLD="true"/>
-<node TEXT="replace standard shortcuts" ID="ID_577433095" CREATED="1418848708003" MODIFIED="1418849002555">
-<node TEXT="many not working -- e.g. C-v (though M-v does)" ID="ID_537111217" CREATED="1417904720108" MODIFIED="1418848628346"/>
-</node>
-<node TEXT="insert newline bypassing autoindent" ID="ID_763177703" CREATED="1417907467525" MODIFIED="1418848695785">
-<node ID="ID_1404391536" CREATED="1418849008747" MODIFIED="1418849008747"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      shortcut to
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="unrequire bounding space for block eval" ID="ID_536213895" CREATED="1418848975593" MODIFIED="1418849016537">
-<node TEXT="how to remove the restriction that C-c C-e only evaluates a block if the block has a space on either side?" ID="ID_1179798224" CREATED="1417832954847" MODIFIED="1417832982130"/>
-</node>
-</node>
-</node>
-<node TEXT="myst" ID="ID_1750947655" CREATED="1418848304819" MODIFIED="1418848305550">
-<node TEXT="* ask" ID="ID_1710074687" CREATED="1418848391959" MODIFIED="1418849456633">
-<font BOLD="true"/>
-<node TEXT="how to concatenate concisely?" ID="ID_736845810" CREATED="1417913766782" MODIFIED="1417913780465">
-<node TEXT="this works but is verbose" ID="ID_1114986458" CREATED="1417913782854" MODIFIED="1417913795473"/>
-<node TEXT="cat [ &quot;bd&quot; :: Pattern String, &quot;sn&quot; :: Pattern String, &quot;sn&quot; :: Pattern String ]" ID="ID_377141133" CREATED="1417913780821" MODIFIED="1417913781321"/>
-</node>
-<node TEXT="why ($)?" ID="ID_1029082615" CREATED="1417911045869" MODIFIED="1417911049089">
-<node TEXT="d1 $ slowspread ($) [density 2, rev, slow 2, striate 3, (|+| speed &quot;0.8&quot;)]&#xa;    $ sound &quot;[bd*2 [~ bd]] [sn future]*2 cp jvbass*4&quot;" ID="ID_655234045" CREATED="1417911049733" MODIFIED="1417911050281"/>
-</node>
-<node TEXT="why does mapFsts use map when mapSnds uses fmap?" ID="ID_1649700053" CREATED="1417813448646" MODIFIED="1417813470479">
-<node TEXT="http://hackage.haskell.org/package/tidal-0.4.21/docs/src/Sound-Tidal-Utils.html#enumerate" ID="ID_103316258" CREATED="1417813474001" MODIFIED="1417813474001" LINK="http://hackage.haskell.org/package/tidal-0.4.21/docs/src/Sound-Tidal-Utils.html#enumerate"/>
-</node>
-<node TEXT="&lt; press" ID="ID_1403778171" CREATED="1418848509312" MODIFIED="1418848512162">
-<node TEXT="every: when does it start?" ID="ID_1483972381" CREATED="1417901854063" MODIFIED="1417901861227">
-<node TEXT="if you say &quot;every 4th rep, do something else&quot;, when does it start counting? does it depend on when you execute the command?" ID="ID_975447801" CREATED="1417901861542" MODIFIED="1417901891099"/>
-</node>
-<node TEXT="why does sometimesBy introduce gaps?" ID="ID_169513335" CREATED="1417907967491" MODIFIED="1417907974023">
-<node TEXT="in this:" ID="ID_645708165" CREATED="1417907978643" MODIFIED="1417907980239"/>
-<node TEXT="d1 $ sometimesBy 0.25 (density 2) $ sound &quot;bd*8&quot;" ID="ID_129211954" CREATED="1417907977348" MODIFIED="1417907978135"/>
-<node TEXT="Sometimes, as intended, the density rises. But sometimes it falls. Why?" ID="ID_1058341995" CREATED="1417907982467" MODIFIED="1417908082069"/>
-</node>
-</node>
-</node>
-<node TEXT="archi" ID="ID_459909736" CREATED="1418849101543" MODIFIED="1418849111459">
-<font BOLD="true"/>
-<node TEXT="how is .Context used? why does/how can it dump everything into the same namespace (&quot;C&quot;)?" ID="ID_819497063" CREATED="1417812588437" MODIFIED="1417812622097">
-<node TEXT="http://hackage.haskell.org/package/tidal-0.4.21/docs/src/Sound-Tidal-Context.html" ID="ID_251534997" CREATED="1417812614536" MODIFIED="1417812614536" LINK="http://hackage.haskell.org/package/tidal-0.4.21/docs/src/Sound-Tidal-Context.html"/>
-</node>
-</node>
-<node TEXT="note sustain" ID="ID_1442769095" CREATED="1414570140109" MODIFIED="1418848773863">
-<node TEXT="src" ID="ID_1849540026" CREATED="1418848795452" MODIFIED="1418848797879">
-<node TEXT="[tidal] continuous and cps-independent sample loop" ID="ID_126471244" CREATED="1418848790891" MODIFIED="1418848791447"/>
-</node>
-<node TEXT="use supercollider?" ID="ID_1630453416" CREATED="1418848800243" MODIFIED="1418848806327"/>
-</node>
-<node TEXT="combining patterns" ID="ID_583964001" CREATED="1417911657371" MODIFIED="1417911660039">
-<node TEXT="see .md tutorial, section &quot;Combining patterns&quot;" ID="ID_1188195672" CREATED="1417911630780" MODIFIED="1417911638398"/>
-</node>
-<node TEXT="x-pttn, x-cyc seq&apos;g" ID="ID_930537345" CREATED="1418848434088" MODIFIED="1418848450939">
-<node TEXT="seqP" ID="ID_1630022106" CREATED="1417912581377" MODIFIED="1417912583126">
-<node TEXT="define start and end times for each of a list of patterns" ID="ID_1707637009" CREATED="1417912589937" MODIFIED="1417912607757"/>
-<node TEXT="d1 $ seqP [&#xa;  (0, 128, sound &quot;bd bd*2&quot;),&#xa;  (8, 128, sound &quot;hh*2 [sn cp] cp future*4&quot;)&#xa;]" ID="ID_1037029280" CREATED="1417912613561" MODIFIED="1417912613973"/>
-<node TEXT="I can&apos;t get it to work" ID="ID_1646661439" CREATED="1417912614529" MODIFIED="1417912617309"/>
-</node>
-</node>
-<node TEXT="sinewave representation" ID="ID_317202794" CREATED="1417911699970" MODIFIED="1417911703438">
-<node TEXT="tidal&gt; sinewave&#xa;[((0 % 1,1 % 1),(0 % 1,1 % 1),0.0)]&#xa;tidal&gt; sinewave1&#xa;[((0 % 1,1 % 1),(0 % 1,1 % 1),0.5)]&#xa;tidal&gt;" ID="ID_1762047792" CREATED="1417911725714" MODIFIED="1417911726261"/>
-</node>
-<node TEXT="reload in Emacs" ID="ID_969560780" CREATED="1417931320144" MODIFIED="1418848922237">
-<node TEXT="reload Tidal lib&apos;s" ID="ID_1696529280" CREATED="1417931326688" MODIFIED="1417931329076">
-<node TEXT="if I modify them, which maybe I won&apos;t" ID="ID_619496194" CREATED="1418848929633" MODIFIED="1418848934077"/>
-</node>
-<node TEXT="reload extensions" ID="ID_828783733" CREATED="1418848934634" MODIFIED="1418848936606">
-<node TEXT="i.e. extensions to Tidal, like &quot;pitch&quot;" ID="ID_1817846072" CREATED="1418848937642" MODIFIED="1418848951924"/>
-</node>
-<node TEXT="reload tidal.el" ID="ID_1997353376" CREATED="1417931329296" MODIFIED="1417931331803"/>
-</node>
-<node TEXT="syntax, functions" ID="ID_38388722" CREATED="1418849060912" MODIFIED="1418849112574">
-<font BOLD="true"/>
-<node TEXT="spread&apos;" ID="ID_646207027" CREATED="1417908458243" MODIFIED="1418848598378">
-<node TEXT="takes a pattern instead of a list of param&apos;s to cycle the transf&apos;n through" ID="ID_1081743166" CREATED="1417908462841" MODIFIED="1417908474399"/>
-</node>
-<node TEXT="smash" ID="ID_1259538360" CREATED="1417907659800" MODIFIED="1417907662045"/>
-<node TEXT="%" ID="ID_1729941361" CREATED="1414544895848" MODIFIED="1418848678081">
-<node TEXT="d1 $ sound &quot;{bd [ht sn, lt mt ht] lt, sn cp}&quot;&#xa;By default, the number of steps in the first part (in this case, 3) is taken as the number of events per cycle used for the other parts. To specify a different number of steps per cycle, you can use %, like this:&#xa;&#xa;d1 $ sound &quot;{bd [ht sn, lt mt ht] lt, sn cp}%5&quot;&#xa;In the above example, five events will be played from each part, in rotation, every cycle." ID="ID_1355110364" CREATED="1414544892536" MODIFIED="1414544893476"/>
-</node>
-</node>
-<node TEXT="&lt; press" ID="ID_1172289139" CREATED="1417909520870" MODIFIED="1418848518529">
-<font BOLD="false"/>
-<node TEXT="striate&apos;" ID="ID_707636560" CREATED="1417909519240" MODIFIED="1417909520643"/>
-<node TEXT="is &quot;vowel&quot; really a param?" ID="ID_1008460064" CREATED="1417833730976" MODIFIED="1417833736836"/>
-</node>
-</node>
-<node TEXT="sh" ID="ID_1421581807" CREATED="1417930084519" MODIFIED="1418802277770">
-<node TEXT="Tidal on Hackage: suggested reading order" ID="ID_1741158990" CREATED="1417930032903" MODIFIED="1417930094505">
-<node TEXT="are these the most important?" ID="ID_515336972" CREATED="1417930117318" MODIFIED="1417930130969">
-<node TEXT="Sound.Tidal.Parse&#xa;Sound.Tidal.Pattern&#xa;Sound.Tidal.Strategies&#xa;Sound.Tidal.Stream" ID="ID_1390719067" CREATED="1417930113110" MODIFIED="1417930113393"/>
-</node>
-<node TEXT="which depends on the fewest of the others, and is that a reasonable place to start?" ID="ID_1645855162" CREATED="1417930132917" MODIFIED="1417930145944"/>
-<node TEXT="I understood Time and Utils enough to feel justified moving on. Among Tidal libraries, Pattern imports only them, so I tackled Pattern next." ID="ID_433077512" CREATED="1417930199613" MODIFIED="1417930305905"/>
-</node>
-<node TEXT="report missing link" ID="ID_1866518797" CREATED="1417914027634" MODIFIED="1418802982089">
-<node TEXT="that this exists" ID="ID_1542572149" CREATED="1417914051793" MODIFIED="1417914058212">
-<node TEXT="https://github.com/yaxu/Tidal/wiki/Compression" ID="ID_1713281747" CREATED="1417914030108" MODIFIED="1417914030108" LINK="https://github.com/yaxu/Tidal/wiki/Compression"/>
-</node>
-<node TEXT="is not visible from here" ID="ID_1937722429" CREATED="1417914053840" MODIFIED="1417914061804">
-<node TEXT="https://github.com/yaxu/Tidal/wiki" ID="ID_1303739221" CREATED="1417914050685" MODIFIED="1417914050685" LINK="https://github.com/yaxu/Tidal/wiki"/>
-</node>
-</node>
-<node TEXT="Suggest a duration syntax" ID="ID_72777214" CREATED="1416269436328" MODIFIED="1418885751624"/>
-</node>
-</node>
-<node TEXT="Tidal" ID="ID_1589740955" CREATED="1418798390504" MODIFIED="1418804745367">
-<font BOLD="true"/>
-<node TEXT="src&apos;s" ID="ID_433485157" CREATED="1418796355827" MODIFIED="1418796421304">
-<node TEXT="lib&apos;s" ID="ID_673376974" CREATED="1417929914258" MODIFIED="1418796359102">
-<node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
-<node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
-<node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-<node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
-<node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
-</node>
-<node TEXT="Sound.Tidal.Strategies" ID="ID_1147139443" CREATED="1417820974516" MODIFIED="1417820974516">
-<node TEXT="imports many" ID="ID_551391629" CREATED="1418805413092" MODIFIED="1418805414936"/>
-<node TEXT="import Sound.Tidal.Dirt&#xa;import Sound.Tidal.Pattern&#xa;import Sound.Tidal.Stream&#xa;import Sound.Tidal.Time&#xa;import Sound.Tidal.Utils" ID="ID_1973456483" CREATED="1418805415540" MODIFIED="1418805416120"/>
-</node>
-</node>
-<node TEXT="skipped" ID="ID_1425800116" CREATED="1417820963450" MODIFIED="1417820964565">
-<node TEXT="b/c/ they look like implementation, not interface" ID="ID_478020215" CREATED="1417820084265" MODIFIED="1417820291281"/>
-<node TEXT="Dirt" ID="ID_1684672036" CREATED="1417820292758" MODIFIED="1417820293449"/>
-<node TEXT="Stream" ID="ID_91519689" CREATED="1417820461698" MODIFIED="1417820464710"/>
-<node TEXT="Tempo" ID="ID_1127457523" CREATED="1417820054882" MODIFIED="1417820055861"/>
-</node>
-</node>
-<node TEXT="lib&apos;s" ID="ID_982262612" CREATED="1418796404411" MODIFIED="1418796901314">
-<node TEXT="https://hackage.haskell.org/package/tidal" ID="ID_1776905132" CREATED="1417929562191" MODIFIED="1417929562191" LINK="https://hackage.haskell.org/package/tidal"/>
-<node TEXT="Stream" ID="ID_937819266" CREATED="1417929912001" MODIFIED="1417929914068">
-<node TEXT="defines |+|" ID="ID_1933516369" CREATED="1417929918833" MODIFIED="1417929927965"/>
-</node>
-<node TEXT="Pattern (ready)" ID="ID_532932728" CREATED="1417929945129" MODIFIED="1418420292070">
-<node TEXT="req&apos;s Util and Time, which I have read" ID="ID_1830867346" CREATED="1418420292555" MODIFIED="1418420302558"/>
-</node>
-<node TEXT="Parse" ID="ID_1036252633" CREATED="1417929946416" MODIFIED="1417929948212"/>
-<node TEXT="Strategies" ID="ID_1767880097" CREATED="1417929948417" MODIFIED="1417929949732">
-<node TEXT="defines stutter and sinewave" ID="ID_650711967" CREATED="1417929972032" MODIFIED="1417929976715"/>
-</node>
-</node>
-</node>
-<node TEXT="github/.md (main tutorial)" ID="ID_1714286820" CREATED="1417821323414" MODIFIED="1417929590226">
-<node TEXT="resume at section called &quot;Pattern transformers&quot;" ID="ID_1263321820" CREATED="1414570810371" MODIFIED="1417902342610"/>
-<node TEXT="https://github.com/yaxu/Tidal/blob/master/doc/tidal.md" ID="ID_1259767770" CREATED="1417821301934" MODIFIED="1417821301934" LINK="https://github.com/yaxu/Tidal/blob/master/doc/tidal.md"/>
-</node>
-<node TEXT="wiki" ID="ID_487247861" CREATED="1417821628886" MODIFIED="1417821630754">
-<node TEXT="https://github.com/yaxu/Tidal/wiki" ID="ID_1647424779" CREATED="1417821631040" MODIFIED="1417821631040" LINK="https://github.com/yaxu/Tidal/wiki"/>
-</node>
-<node TEXT="sample code" ID="ID_1952483856" CREATED="1417822737476" MODIFIED="1417822746561">
-<node TEXT="http://365tidalpatterns.tumblr.com/" ID="ID_604896852" CREATED="1417822737476" MODIFIED="1417822737476" LINK="http://365tidalpatterns.tumblr.com/"/>
-<node TEXT="http://tidalexperiments.tumblr.com/" ID="ID_1094197411" CREATED="1417822737476" MODIFIED="1417822737476" LINK="http://tidalexperiments.tumblr.com/"/>
-<node TEXT="https://twitter.com/tidalcycles" ID="ID_1066807947" CREATED="1417822737476" MODIFIED="1417822737476" LINK="https://twitter.com/tidalcycles"/>
-<node TEXT="album: I am a computer, with audio" ID="ID_21234752" CREATED="1417822757947" MODIFIED="1417822782520">
-<node TEXT="https://xylemrecords.bandcamp.com/album/i-am-a-computer" ID="ID_245034775" CREATED="1417822773723" MODIFIED="1417822773723" LINK="https://xylemrecords.bandcamp.com/album/i-am-a-computer"/>
-<node TEXT="https://github.com/kindohm/i-am-a-computer/blob/master/10-my-maker-frees-me.tidal" ID="ID_305275218" CREATED="1417822763444" MODIFIED="1417822763444" LINK="https://github.com/kindohm/i-am-a-computer/blob/master/10-my-maker-frees-me.tidal"/>
-</node>
-</node>
-</node>
-<node TEXT="pattern lib" ID="ID_1725833546" CREATED="1418805436797" MODIFIED="1418805438743"/>
-<node TEXT="to start" ID="ID_1136680374" CREATED="1414195724893" MODIFIED="1418802912813">
-<node TEXT="jackd -d coreaudio &amp;" ID="ID_1165078649" CREATED="1414195741388" MODIFIED="1414195741654"/>
-<node TEXT="from Applications/Dirt, run &quot;./dirt &amp;&quot;" ID="ID_727209581" CREATED="1414195767145" MODIFIED="1417811534927"/>
-<node TEXT="from emacs, C-c C-s" ID="ID_438410500" CREATED="1414537593283" MODIFIED="1414537621698"/>
-<node TEXT="then evaluate a command: C-c C-c" ID="ID_1851617278" CREATED="1414537622379" MODIFIED="1414537629143"/>
-<node TEXT="&lt; freq" ID="ID_223243416" CREATED="1418848877457" MODIFIED="1418848881470">
-<node TEXT="to load Tidal in GHCI, outside of Emacs" ID="ID_575257131" CREATED="1418421094484" MODIFIED="1418848841854">
-<node TEXT=":m Sound.Tidal fails" ID="ID_1829947754" CREATED="1418848842147" MODIFIED="1418848851798"/>
-<node TEXT=":m Sound.Tidal.[suffix] succeeds" ID="ID_7782929" CREATED="1418848853050" MODIFIED="1418848865470"/>
-</node>
-</node>
-</node>
-<node TEXT="lang" ID="ID_564603404" CREATED="1417833677370" MODIFIED="1418797982241">
-<font BOLD="false"/>
+<node TEXT="Tidal +" ID="ID_370683564" CREATED="1414195719623" MODIFIED="1418802873363">
+<node TEXT="extd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1589740955" CREATED="1418798390504" MODIFIED="1445329508286">
+<node TEXT="extracted only once but surely enough" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1714914073" CREATED="1445329509472" MODIFIED="1445329516242"/>
+<node TEXT="lang" LOCALIZED_STYLE_REF="styles.topic" ID="ID_564603404" CREATED="1417833677370" MODIFIED="1445326891158">
 <node TEXT="eval" ID="ID_1273876501" CREATED="1418797694739" MODIFIED="1418797695382">
 <node TEXT="no recog -&gt; silence" ID="ID_639922502" CREATED="1418797708169" MODIFIED="1418797712782">
 <node TEXT="in a (sequence? string), anything it does not recognize renders as silence" ID="ID_1282807017" CREATED="1414538598787" MODIFIED="1414538622199"/>
@@ -18291,7 +18022,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="d1 $ slowspread ($) [density 2, rev, slow 2, striate 3, (|+| speed &quot;0.8&quot;)]&#xa;    $ sound &quot;[bd*2 [~ bd]] [sn future]*2 cp jvbass*4&quot;" ID="ID_1752994505" CREATED="1417907538939" MODIFIED="1417907539543"/>
 </node>
 </node>
-<node TEXT="archi" ID="ID_1143414713" CREATED="1418797984494" MODIFIED="1418797988657">
+<node TEXT="archi" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1143414713" CREATED="1418797984494" MODIFIED="1445326891156">
 <node TEXT="Pattern is a type constr" ID="ID_995736547" CREATED="1417904568855" MODIFIED="1417904583667">
 <node TEXT="&quot;Pattern a&quot; is a concrete type; &quot;Pattern&quot; is not" ID="ID_88912237" CREATED="1417904575151" MODIFIED="1417904602094"/>
 </node>
@@ -18299,11 +18030,11 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="OscPattern = &quot;Pattern OscMap&quot;" ID="ID_690816812" CREATED="1417913613312" MODIFIED="1417913619699"/>
 <node TEXT="sound :: Pattern String -&gt; OscPattern" ID="ID_282402175" CREATED="1417913636944" MODIFIED="1418802968033"/>
 </node>
-<node TEXT="param&apos;s" ID="ID_692644033" CREATED="1417833707450" MODIFIED="1417833729540">
+<node TEXT="param&apos;s" LOCALIZED_STYLE_REF="styles.topic" ID="ID_692644033" CREATED="1417833707450" MODIFIED="1445326891154">
 <node TEXT="vowel" ID="ID_1193098746" CREATED="1417833708721" MODIFIED="1417833709453"/>
 <node TEXT="pan" ID="ID_1643479402" CREATED="1417833709657" MODIFIED="1417833710709"/>
 </node>
-<node TEXT="func&apos;s" ID="ID_1442000044" CREATED="1418796814037" MODIFIED="1418802332674">
+<node TEXT="func&apos;s" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1442000044" CREATED="1418796814037" MODIFIED="1445326891146">
 <node TEXT="cps" ID="ID_1951393779" CREATED="1414566535362" MODIFIED="1414566536006">
 <node TEXT="tempo" ID="ID_843784934" CREATED="1414566536649" MODIFIED="1414566538038"/>
 </node>
@@ -18323,6 +18054,535 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="evaluate them in GHCI" ID="ID_1918086154" CREATED="1417913564769" MODIFIED="1417913581583"/>
 <node TEXT="tidal&gt; brak $ sound &quot;sn bd&quot;&#xa;[((1 % 4,1 % 2),(1 % 4,1 % 2),fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;sn&quot;}))]),((1 % 2,3 % 4),(1 % 2,3 % 4),fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))])]" ID="ID_873059860" CREATED="1417913561448" MODIFIED="1417913562093"/>
 </node>
+</node>
+<node TEXT="exten" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1355079712" CREATED="1418798415712" MODIFIED="1445326914250">
+<node TEXT=".= mod&apos;s to Tidal, not built-in" ID="ID_1013723731" CREATED="1418802358623" MODIFIED="1418802828051"/>
+<node TEXT="pitch" ID="ID_962636113" CREATED="1417836830042" MODIFIED="1417929100383">
+<node TEXT="I do this all the time (thanks to Alex for teaching part of it to me!):&#xa;let up = speed . ((1.059466**) &lt;$&gt;)&#xa;&#xa;Then you can do:&#xa;d1 $ sound &quot;arpy*4&quot; |+| up &quot;0 4 7 4&quot;" ID="ID_1205438549" CREATED="1417836832770" MODIFIED="1417836833055"/>
+</node>
+</node>
+<node TEXT="u, 2014 12 31" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1909538855" CREATED="1417982642203" MODIFIED="1445327046468">
+<node TEXT="efficient to ask" ID="ID_355913618" CREATED="1417924442562" MODIFIED="1417924464828">
+<node TEXT="how to modify language in use in Emacs" ID="ID_1359855000" CREATED="1417924465144" MODIFIED="1417924494364"/>
+</node>
+<node TEXT="cho" ID="ID_746343759" CREATED="1417983108850" MODIFIED="1417983109414">
+<node TEXT="much is possible with tidal that I have little concept of" ID="ID_1218180246" CREATED="1417924341579" MODIFIED="1417983105606">
+<node TEXT="without lang mods" ID="ID_935872836" CREATED="1417924353043" MODIFIED="1417924355431"/>
+</node>
+</node>
+<node TEXT="tidal has many functions in spec and not tut" ID="ID_1594571706" CREATED="1415843183484" MODIFIED="1415843200799"/>
+</node>
+</node>
+<node TEXT="more @ logic.mm, mus, where, git/{art, fresh, info}" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1091797927" CREATED="1441909997612" MODIFIED="1445329495153"/>
+<node TEXT="init, short" ID="ID_1532390043" CREATED="1439930067933" MODIFIED="1442301747617">
+<node TEXT=".altvs" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_298575269" CREATED="1445329208824" MODIFIED="1445329210978"/>
+<node TEXT="emacs" ID="ID_576207776" CREATED="1445329193848" MODIFIED="1445329194662">
+<node TEXT="jackd -d coreaudio &amp;" ID="ID_277996398" CREATED="1439930070061" MODIFIED="1439930070061"/>
+<node TEXT="cd ~/Dirt" ID="ID_807359330" CREATED="1439930083860" MODIFIED="1439930083860"/>
+<node TEXT="./dirt &amp;" ID="ID_1962366651" CREATED="1439930083860" MODIFIED="1439930083860"/>
+<node TEXT="open a .tidal file" ID="ID_243253769" CREATED="1439930109249" MODIFIED="1439930113870">
+<font ITALIC="true"/>
+</node>
+<node TEXT="Ctrl-C then Ctrl-S." ID="ID_807972310" CREATED="1439930129440" MODIFIED="1439930132674">
+<node TEXT="starts Tidal, from within Emacs" ID="ID_376417769" CREATED="1439930136007" MODIFIED="1439930142938"/>
+</node>
+<node TEXT="d1 $ brak $ sound &quot;bd sn/2&quot;" ID="ID_1676408002" CREATED="1439930121944" MODIFIED="1439930122795"/>
+</node>
+<node TEXT="no editor" LOCALIZED_STYLE_REF="default" ID="ID_218270308" CREATED="1445313809055" MODIFIED="1445329198962">
+<node TEXT="= using it straight from commad-line GHCI" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_376028480" CREATED="1445313818415" MODIFIED="1445313830891"/>
+<node TEXT="init" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_515845150" CREATED="1445312705199" MODIFIED="1445325366297">
+<node TEXT="ghci -XOverloadedStrings&#xa;:m Sound.Tidal.Context&#xa;d1 &lt;- dirtStream&#xa;d1 $ sound &quot;bd sn sn sn&quot;" ID="ID_1176400976" CREATED="1445312710454" MODIFIED="1445312711910"/>
+</node>
+<node TEXT="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs" ID="ID_1305611360" CREATED="1445313817930" MODIFIED="1445313817930" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"/>
+</node>
+</node>
+<node TEXT="do-ish" ID="ID_1601810671" CREATED="1418796957467" MODIFIED="1445328702963">
+<font BOLD="true"/>
+<node TEXT="not urg, could mine" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1001364368" CREATED="1445326026222" MODIFIED="1445326035530">
+<node TEXT="asking : run multiple lines" ID="ID_579470305" CREATED="1442303345139" MODIFIED="1442304780128">
+<node TEXT="tidal-run-line is for one-line commands" ID="ID_1471153501" CREATED="1442303573979" MODIFIED="1442303588597">
+<node TEXT="(define-key map [?\C-c ?\C-c] &apos;tidal-run-line)" ID="ID_652026577" CREATED="1442303572332" MODIFIED="1442303572332"/>
+<node TEXT="(defun tidal-run-line ()" ID="ID_286727742" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="&quot;Send the current line to the interpreter.&quot;" ID="ID_150126615" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(interactive)" ID="ID_800806219" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(tidal-get-now)" ID="ID_1815858190" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(let* ((s (buffer-substring (line-beginning-position)" ID="ID_177516530" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="(line-end-position)))" ID="ID_304202730" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(s* (if tidal-literate-p" ID="ID_1642702610" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="(tidal-unlit s)" ID="ID_613363391" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="s)))" ID="ID_762369890" CREATED="1442303464814" MODIFIED="1442303464814"/>
+</node>
+<node TEXT="(tidal-send-string s*))" ID="ID_1182255407" CREATED="1442303464814" MODIFIED="1442303464814"/>
+</node>
+<node TEXT="(pulse-momentary-highlight-one-line (point))" ID="ID_811558126" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT="(next-line)" ID="ID_1641263642" CREATED="1442303464814" MODIFIED="1442303464814"/>
+<node TEXT=")" ID="ID_1588336302" CREATED="1442303464814" MODIFIED="1442303464814"/>
+</node>
+</node>
+<node TEXT="tidal-run-multiple-lines is for one command" ID="ID_322274169" CREATED="1442303480995" MODIFIED="1442303508150">
+<node TEXT="two key bindings" ID="ID_202841383" CREATED="1442303493427" MODIFIED="1442303615662">
+<node TEXT="(define-key map [?\C-c ?\C-e] &apos;tidal-run-multiple-lines)" ID="ID_1461708355" CREATED="1442303489866" MODIFIED="1442303489866"/>
+<node TEXT="(define-key map (kbd &quot;&lt;C-return&gt;&quot;) &apos;tidal-run-multiple-lines)" ID="ID_1065652472" CREATED="1442303489866" MODIFIED="1442303489866"/>
+</node>
+<node TEXT="(defun tidal-run-multiple-lines ()" ID="ID_808572469" CREATED="1442303464814" MODIFIED="1442303464814">
+<node TEXT="&quot;Send the current region to the interpreter as a single line.&quot;" ID="ID_1815698373" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(interactive)" ID="ID_1002921123" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(tidal-get-now)" ID="ID_731983937" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(save-excursion" ID="ID_133868488" CREATED="1442303464818" MODIFIED="1442303464818">
+<node TEXT="(mark-paragraph)" ID="ID_869541872" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(let* ((s (buffer-substring-no-properties (region-beginning)" ID="ID_1451771404" CREATED="1442303464818" MODIFIED="1442303464818">
+<node TEXT="(region-end)))" ID="ID_323056790" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(s* (if tidal-literate-p" ID="ID_260321230" CREATED="1442303464818" MODIFIED="1442303464818">
+<node TEXT="(tidal-unlit s)" ID="ID_1171348293" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="s)))" ID="ID_1748707290" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+<node TEXT="(tidal-send-string &quot;:{&quot;)" ID="ID_909368636" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(tidal-send-string s*)" ID="ID_422817170" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(tidal-send-string &quot;:}&quot;)" ID="ID_641963513" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(mark-paragraph)" ID="ID_1316452680" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT="(pulse-momentary-highlight-region (mark) (point))" ID="ID_168463162" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT=")" ID="ID_139859494" CREATED="1442303464818" MODIFIED="1442303464818"/>
+<node TEXT=";(tidal-send-string (replace-regexp-in-string &quot;\n&quot; &quot; &quot; s*))" ID="ID_292730379" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+<node TEXT=")" ID="ID_1179910916" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+<node TEXT=")" ID="ID_1873454630" CREATED="1442303464818" MODIFIED="1442303464818"/>
+</node>
+</node>
+<node TEXT="tidal-run-region only runs the last" ID="ID_719487055" CREATED="1442303600899" MODIFIED="1442303608681">
+<node TEXT="(define-key map [?\C-c ?\C-r] &apos;tidal-run-region)" ID="ID_1687252113" CREATED="1442303367599" MODIFIED="1442303367599"/>
+<node TEXT="(defun tidal-run-region ()" ID="ID_1351405304" CREATED="1442303404223" MODIFIED="1442303404223">
+<node TEXT="&quot;Place the region in a do block and compile.&quot;" ID="ID_1563303140" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(interactive)" ID="ID_1298422923" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(tidal-transform-and-store" ID="ID_1882461481" CREATED="1442303404223" MODIFIED="1442303404223">
+<node TEXT="&quot;/tmp/tidal.hs&quot;" ID="ID_1695723549" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(buffer-substring-no-properties (region-beginning) (region-end)))" ID="ID_853043326" CREATED="1442303404223" MODIFIED="1442303404223"/>
+</node>
+<node TEXT="(tidal-send-string &quot;:load \&quot;/tmp/tidal.hs\&quot;&quot;)" ID="ID_1018757785" CREATED="1442303404223" MODIFIED="1442303404223"/>
+<node TEXT="(tidal-send-string &quot;main&quot;))" ID="ID_1873749803" CREATED="1442303404223" MODIFIED="1442303404223"/>
+</node>
+<node TEXT="error: &quot;save-current-buffer: Symbol&apos;s value as variable is void: tidal-modules&quot;" ID="ID_1909333049" CREATED="1442303892251" MODIFIED="1442304004510"/>
+</node>
+</node>
+<node TEXT="asked : no intercalate string?" ID="ID_1884141014" CREATED="1442125065156" MODIFIED="1445326049076">
+<node TEXT="this works in GHCI" ID="ID_965128741" CREATED="1442125034445" MODIFIED="1442125037457">
+<node TEXT="Prelude&gt; import Data.List&#xa;Prelude Data.List&gt; import Data.String&#xa;Prelude Data.List Data.String&gt; intercalate &quot; &quot; [&quot;word&quot;, &quot;salad&quot;]&#xa;&quot;word salad&quot;&#xa;Prelude Data.List Data.String&gt;" ID="ID_1326195276" CREATED="1442125039117" MODIFIED="1442125040092"/>
+</node>
+<node TEXT="but not in Tidal" ID="ID_1662851177" CREATED="1442125050006" MODIFIED="1442125052260">
+<node TEXT="v\tidal&gt;&#xa;tidal&gt; import Data.List&#xa;tidal&gt; import Data.String&#xa;tidal&gt; inercalate &quot; &quot; [&quot;word&quot;, &quot;salad&quot;]&#xa;&#xa;&lt;interactive&gt;:515:1:&#xa;    Not in scope: &#x2018;inercalate&#x2019;&#xa;    Perhaps you meant one of these:&#xa;      &#x2018;intercalate&#x2019; (imported from Sound.Tidal.Context),&#xa;      &#x2018;unintercalate&#x2019; (imported from Data.List.Split.Internals)&#xa;tidal&gt; intercalate &quot; &quot; [&quot;word&quot;,&quot;salad&quot;]&#xa;&#xa;&lt;interactive&gt;:516:1:&#xa;    No instance for (IsString [a0]) arising from a use of &#x2018;it&#x2019;&#xa;    The type variable &#x2018;a0&#x2019; is ambiguous&#xa;    Note: there is a potential instance available:&#xa;      instance IsString [Char] -- Defined in &#x2018;Data.String&#x2019;&#xa;    In the first argument of &#x2018;print&#x2019;, namely &#x2018;it&#x2019;&#xa;    In a stmt of an interactive GHCi command: print it&#xa;tidal&gt;" ID="ID_1925544469" CREATED="1442125053199" MODIFIED="1442125060343"/>
+</node>
+</node>
+<node TEXT="read" ID="ID_1335460872" CREATED="1418848224962" MODIFIED="1418848225997">
+<node TEXT="see Tidal/src" ID="ID_1862075157" CREATED="1418848226266" MODIFIED="1418848229263"/>
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_775213531" CREATED="1445326230406" MODIFIED="1445326348561">
+<node TEXT="zoom style" ID="ID_797481488" CREATED="1417925192373" MODIFIED="1417925193960">
+<node TEXT="use a small font, and zoom out to ordinary when not editing but rather choosing. can that way more afford lines of emptiness delineating blocks." ID="ID_1455950129" CREATED="1417925089550" MODIFIED="1417925186344"/>
+</node>
+<node TEXT="Emacs" LOCALIZED_STYLE_REF="default" ID="ID_796891081" CREATED="1445326316878" MODIFIED="1445326347626">
+<node TEXT="replace standard shortcuts" ID="ID_577433095" CREATED="1418848708003" MODIFIED="1418849002555">
+<node TEXT="many not working -- e.g. C-v (though M-v does)" ID="ID_537111217" CREATED="1417904720108" MODIFIED="1418848628346"/>
+</node>
+<node TEXT="insert newline bypassing autoindent" ID="ID_763177703" CREATED="1417907467525" MODIFIED="1418848695785">
+<node ID="ID_1404391536" CREATED="1418849008747" MODIFIED="1418849008747"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      shortcut to
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="historically amusing" LOCALIZED_STYLE_REF="styles.topic" ID="ID_807443663" CREATED="1445326535934" MODIFIED="1445326541570">
+<node TEXT="Tidal on Hackage: suggested reading order" ID="ID_1741158990" CREATED="1417930032903" MODIFIED="1417930094505">
+<node TEXT="are these the most important?" ID="ID_515336972" CREATED="1417930117318" MODIFIED="1417930130969">
+<node TEXT="Sound.Tidal.Parse&#xa;Sound.Tidal.Pattern&#xa;Sound.Tidal.Strategies&#xa;Sound.Tidal.Stream" ID="ID_1390719067" CREATED="1417930113110" MODIFIED="1417930113393"/>
+</node>
+<node TEXT="which depends on the fewest of the others, and is that a reasonable place to start?" ID="ID_1645855162" CREATED="1417930132917" MODIFIED="1417930145944"/>
+<node TEXT="I understood Time and Utils enough to feel justified moving on. Among Tidal libraries, Pattern imports only them, so I tackled Pattern next." ID="ID_433077512" CREATED="1417930199613" MODIFIED="1417930305905"/>
+</node>
+</node>
+</node>
+<node TEXT="**feas, to try" ID="ID_1958756680" CREATED="1445328822319" MODIFIED="1445329098011">
+<node TEXT="edit two distinct sets of code, toggle" ID="ID_127546861" CREATED="1443923999076" MODIFIED="1443924014842"/>
+<node TEXT="a sparse drum loop nearly as long as the speed-setter" ID="ID_555769593" CREATED="1444872130530" MODIFIED="1444872145531"/>
+<node TEXT="mus ! white noise" ID="ID_1678075711" CREATED="1444787218623" MODIFIED="1444787229721"/>
+<node TEXT="? does this run an expression from d1" LOCALIZED_STYLE_REF="default" ID="ID_135332319" CREATED="1445304633882" MODIFIED="1445329154965">
+<node TEXT="(define-key map [?\C-c ?\C-1] &apos;tidal-run-d1)" ID="ID_1433516634" CREATED="1445304641986" MODIFIED="1445304641986"/>
+</node>
+</node>
+<node TEXT="mike hodnick asks about writing a variation of stut" LOCALIZED_STYLE_REF="default" ID="ID_658425886" CREATED="1443809631546" MODIFIED="1444939929450">
+<node TEXT="https://mail.google.com/mail/u/0/#inbox/15028cca7bb82e5f" ID="ID_629050819" CREATED="1443809646620" MODIFIED="1443809646620" LINK="https://mail.google.com/mail/u/0/#inbox/15028cca7bb82e5f"/>
+</node>
+<node TEXT="wishes, Tidal functions" ID="ID_1921840854" CREATED="1445326135846" MODIFIED="1445329121796">
+<font BOLD="true"/>
+<node TEXT="note sustain" ID="ID_1442769095" CREATED="1414570140109" MODIFIED="1418848773863">
+<node TEXT="thread: [tidal] continuous and cps-independent sample loop" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_126471244" CREATED="1418848790891" MODIFIED="1445327569918"/>
+<node TEXT="loop sample ?" ID="ID_330720319" CREATED="1417989810860" MODIFIED="1417989855495">
+<node TEXT="then use gain and up (speed)" ID="ID_1757517457" CREATED="1417989806140" MODIFIED="1418796984350"/>
+</node>
+<node TEXT="use supercollider?" ID="ID_1630453416" CREATED="1418848800243" MODIFIED="1418848806327"/>
+</node>
+<node TEXT="swing|phase" ID="ID_1124231588" CREATED="1418802996301" MODIFIED="1445326147033">
+<node TEXT="to send to list" ID="ID_1182159366" CREATED="1417836489017" MODIFIED="1418802995905">
+<node TEXT="Regarding phase, I am imagining some kind of language device that generalizes the concept of swing, for instructions like &quot;every other beat, delay by an eighth of a beat&quot;. Recursion seems likely to have particularly cool effects, e.g. &quot;Delay the outer thirds by 10%, then to each of those thirds delay their outer thirds by 10%, ...&quot;&#xa;&#xa;Flying Lotus uses a lot of concurrent beats with the same tempo but slight and maybe evolving phase mismatches; it&apos;s a sound I love.&#xa;&#xa;Am I correct that in Tidal phase remains so far unaddressed?" ID="ID_436866943" CREATED="1417836492313" MODIFIED="1417836492724"/>
+</node>
+</node>
+<node TEXT="control input (vague)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1696182223" CREATED="1417849895612" MODIFIED="1445327535666">
+<node TEXT="something to display during which past cycles control input was present, so able to refer to it" ID="ID_190493343" CREATED="1417850120311" MODIFIED="1417850169938"/>
+<node TEXT="program the voice rendering midi instructions to next cycle retain all from this one, in perpetuity or for a finite number of repeats" ID="ID_826492490" CREATED="1417850188894" MODIFIED="1417850229300">
+<node TEXT="discrete delay" ID="ID_1804094556" CREATED="1417850235205" MODIFIED="1417850247353"/>
+</node>
+<node TEXT="thread title?" ID="ID_81135773" CREATED="1417850115247" MODIFIED="1417850117779">
+<node TEXT="control signal input and analysis (e.g. find metric subdivisions for external midi, osc)" ID="ID_629113028" CREATED="1417849897643" MODIFIED="1417850038608"/>
+</node>
+</node>
+<node TEXT="concatenate concisely" ID="ID_736845810" CREATED="1417913766782" MODIFIED="1445326464553">
+<node TEXT="this works but is verbose" ID="ID_1114986458" CREATED="1417913782854" MODIFIED="1417913795473"/>
+<node TEXT="cat [ &quot;bd&quot; :: Pattern String, &quot;sn&quot; :: Pattern String, &quot;sn&quot; :: Pattern String ]" ID="ID_377141133" CREATED="1417913780821" MODIFIED="1417913781321"/>
+</node>
+<node TEXT="shared mem (monad?)" LOCALIZED_STYLE_REF="default" ID="ID_102285424" CREATED="1417843484132" MODIFIED="1445326960111">
+<node TEXT="suggest and imagine implementing a monad-like shared memory structure such that instructions to one param could refer to, say, subsequences defined by/in terms of the other param&apos;s" ID="ID_1480968768" CREATED="1417843508368" MODIFIED="1417843593002">
+<node TEXT="need a dependency graph inlet" ID="ID_1138356113" CREATED="1417843594930" MODIFIED="1417843608430">
+<node TEXT="and something I&apos;m calling complete execution, which implies among other things an inlet" ID="ID_1659091848" CREATED="1417843616106" MODIFIED="1417843634317"/>
+</node>
+</node>
+</node>
+<node TEXT="loop length" ID="ID_1358063669" CREATED="1445327021678" MODIFIED="1445327026221"/>
+<node TEXT="show current cycle number, position (within)" ID="ID_1006628836" CREATED="1441699306789" MODIFIED="1441699321682"/>
+<node TEXT="show melody  (better, mult ways)" ID="ID_1553921956" CREATED="1445327393527" MODIFIED="1445327412035"/>
+<node TEXT="address sample subfolders" ID="ID_1490729868" CREATED="1445327448910" MODIFIED="1445327453501"/>
+<node TEXT="discretize" ID="ID_911906734" CREATED="1440757242581" MODIFIED="1440757244056"/>
+<node TEXT="focus :: time -&gt; voice id -&gt; number" LOCALIZED_STYLE_REF="default" ID="ID_1567536739" CREATED="1443924092212" MODIFIED="1445328862040">
+<node TEXT="sidechain compressors" ID="ID_1463942344" CREATED="1443924204673" MODIFIED="1443924204673"/>
+</node>
+<node TEXT="Tidal : give x-voice instructions at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_421404407" CREATED="1444871763229" MODIFIED="1444871779209">
+<node TEXT="e.g. pan, existence" ID="ID_899370166" CREATED="1444871784360" MODIFIED="1444872595795"/>
+</node>
+<node TEXT="tidal: into-theme substitution" ID="ID_159832567" CREATED="1444871016555" MODIFIED="1444871029383">
+<node TEXT="dur data across patterns" ID="ID_1591134033" CREATED="1444871030276" MODIFIED="1444871047093"/>
+</node>
+<node TEXT="distribute a collection of changes" ID="ID_1607694052" CREATED="1445329243608" MODIFIED="1445329255773">
+<node TEXT="rotate, group mult changes so that, e.g., what would have been straight up becomes diagonal" ID="ID_1379672189" CREATED="1441851838998" MODIFIED="1441851853920"/>
+</node>
+<node TEXT="intzd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1294622508" CREATED="1445327487902" MODIFIED="1445327490177">
+<node TEXT="keyboard for fast pitch data : tone set, root, melody" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1619441734" CREATED="1444893644362" MODIFIED="1445329059665">
+<node TEXT="melody repd scale stepwise or chromatic" ID="ID_586066083" CREATED="1444936852162" MODIFIED="1444936874762"/>
+</node>
+<node TEXT="? how to eval across multiple lines" ID="ID_61504377" CREATED="1440657063414" MODIFIED="1440657076521"/>
+<node TEXT="sample lib" ID="ID_51110727" CREATED="1445326986718" MODIFIED="1445326995014">
+<node TEXT="learn it" ID="ID_1282007242" CREATED="1445327002382" MODIFIED="1445327457505"/>
+<node TEXT="shorten names" ID="ID_991544171" CREATED="1445327457747" MODIFIED="1445327462062"/>
+</node>
+<node TEXT="assoc freq to sample" ID="ID_393309043" CREATED="1418804695734" MODIFIED="1418804703169">
+<node TEXT="best to associate frequencies to files using non-name data" ID="ID_690490514" CREATED="1417925270755" MODIFIED="1417925285566">
+<node TEXT="if that can exist per file" ID="ID_1671871353" CREATED="1418804673614" MODIFIED="1418804681650"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="wishes, emacs" ID="ID_804412843" CREATED="1445328551999" MODIFIED="1445328554630">
+<node TEXT="Emacs : unrequire bounding space for block eval" ID="ID_536213895" CREATED="1418848975593" MODIFIED="1445326326996">
+<node TEXT="how to remove the restriction that C-c C-e only evaluates a block if the block has a space on either side?" ID="ID_1179798224" CREATED="1417832954847" MODIFIED="1417832982130"/>
+</node>
+<node TEXT="Emacs : to stop cursor jumping after eval" LOCALIZED_STYLE_REF="default" ID="ID_182106053" CREATED="1415135559506" MODIFIED="1445328171701">
+<node TEXT="In &quot;tidal.el&quot; there is a function &quot;tidal-run-line&quot;, which is what&apos;s actually happening when you hit &quot;C-c C-c&quot;.  The last line of the function is &quot;(next-line)&quot;, you can just delete it (or comment it out), and the next time you start Emacs things should behave the way you want." ID="ID_161180168" CREATED="1415135567706" MODIFIED="1415135567989"/>
+</node>
+<node TEXT="Emacs : run multiple lines separately" LOCALIZED_STYLE_REF="default" ID="ID_1559297030" CREATED="1442340750575" MODIFIED="1445328174283">
+<node TEXT="wants them all grouped, no spaces between" ID="ID_689884373" CREATED="1442340763710" MODIFIED="1442340775653"/>
+<node TEXT="does not need them highlighted; just put the cursor in them" ID="ID_1354546073" CREATED="1442340773039" MODIFIED="1442340782501"/>
+<node TEXT="they must all be one-liners" ID="ID_615957359" CREATED="1442340782743" MODIFIED="1442340788285"/>
+<node TEXT="execute code block :tidal emacs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_819949276" CREATED="1441855182019" MODIFIED="1445328349298">
+<node TEXT="needed the phrase to google" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1072857861" CREATED="1441855201719" MODIFIED="1441855206346"/>
+</node>
+</node>
+<node TEXT="surely haskell emacs multi-line eval is already written" LOCALIZED_STYLE_REF="default" ID="ID_1562334572" CREATED="1443419036354" MODIFIED="1445328743962">
+<node TEXT="dup to git" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_219155015" CREATED="1443419043471" MODIFIED="1443419045852"/>
+</node>
+</node>
+<node TEXT="wish : Jack realtime" ID="ID_709152274" CREATED="1445328566943" MODIFIED="1445328572061"/>
+<node TEXT="exist, to learn" ID="ID_1541057476" CREATED="1445326158710" MODIFIED="1445328442815">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_181646663" STARTINCLINATION="48;0;" ENDINCLINATION="48;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="schedule changes in advance" ID="ID_474868086" CREATED="1417481091552" MODIFIED="1418803604305">
+<node TEXT="a way to describe the clock-state of a pattern, to schedule changes in it" ID="ID_1160105434" CREATED="1417481075248" MODIFIED="1417481090660"/>
+</node>
+<node TEXT="there exists SuperDirt, written in SuperCollider" ID="ID_1792368323" CREATED="1443118085128" MODIFIED="1443118096056">
+<node TEXT="-- Alex on Lurk/Tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_77883230" CREATED="1443118135363" MODIFIED="1443118143895"/>
+<node TEXT="&quot;There&apos;s also Julian&apos;s dirt rewrite which is available as a quark package for the upcoming version of SuperCollider.&quot;" ID="ID_1356703427" CREATED="1443118130407" MODIFIED="1443118134844"/>
+</node>
+</node>
+<node TEXT="myst" ID="ID_1750947655" CREATED="1418848304819" MODIFIED="1445329126479">
+<font BOLD="true"/>
+<node TEXT="* ask" ID="ID_1710074687" CREATED="1418848391959" MODIFIED="1418849456633">
+<font BOLD="true"/>
+<node TEXT="why ($)?" ID="ID_1029082615" CREATED="1417911045869" MODIFIED="1417911049089">
+<node TEXT="d1 $ slowspread ($) [density 2, rev, slow 2, striate 3, (|+| speed &quot;0.8&quot;)]&#xa;    $ sound &quot;[bd*2 [~ bd]] [sn future]*2 cp jvbass*4&quot;" ID="ID_655234045" CREATED="1417911049733" MODIFIED="1417911050281"/>
+</node>
+<node TEXT="why does mapFsts use map when mapSnds uses fmap?" ID="ID_1649700053" CREATED="1417813448646" MODIFIED="1417813470479">
+<node TEXT="http://hackage.haskell.org/package/tidal-0.4.21/docs/src/Sound-Tidal-Utils.html#enumerate" ID="ID_103316258" CREATED="1417813474001" MODIFIED="1417813474001" LINK="http://hackage.haskell.org/package/tidal-0.4.21/docs/src/Sound-Tidal-Utils.html#enumerate"/>
+</node>
+<node TEXT="&lt; press" ID="ID_1403778171" CREATED="1418848509312" MODIFIED="1418848512162">
+<node TEXT="every: when does it start?" ID="ID_1483972381" CREATED="1417901854063" MODIFIED="1417901861227">
+<node TEXT="if you say &quot;every 4th rep, do something else&quot;, when does it start counting? does it depend on when you execute the command?" ID="ID_975447801" CREATED="1417901861542" MODIFIED="1417901891099"/>
+</node>
+<node TEXT="why does sometimesBy introduce gaps?" ID="ID_169513335" CREATED="1417907967491" MODIFIED="1417907974023">
+<node TEXT="in this:" ID="ID_645708165" CREATED="1417907978643" MODIFIED="1417907980239"/>
+<node TEXT="d1 $ sometimesBy 0.25 (density 2) $ sound &quot;bd*8&quot;" ID="ID_129211954" CREATED="1417907977348" MODIFIED="1417907978135"/>
+<node TEXT="Sometimes, as intended, the density rises. But sometimes it falls. Why?" ID="ID_1058341995" CREATED="1417907982467" MODIFIED="1417908082069"/>
+</node>
+</node>
+</node>
+<node TEXT="combining patterns" ID="ID_583964001" CREATED="1417911657371" MODIFIED="1417911660039">
+<node TEXT="see .md tutorial, section &quot;Combining patterns&quot;" ID="ID_1188195672" CREATED="1417911630780" MODIFIED="1417911638398"/>
+</node>
+<node TEXT="x-pttn, x-cyc seq&apos;g" ID="ID_930537345" CREATED="1418848434088" MODIFIED="1418848450939">
+<node TEXT="seqP" ID="ID_1630022106" CREATED="1417912581377" MODIFIED="1417912583126">
+<node TEXT="define start and end times for each of a list of patterns" ID="ID_1707637009" CREATED="1417912589937" MODIFIED="1417912607757"/>
+<node TEXT="d1 $ seqP [&#xa;  (0, 128, sound &quot;bd bd*2&quot;),&#xa;  (8, 128, sound &quot;hh*2 [sn cp] cp future*4&quot;)&#xa;]" ID="ID_1037029280" CREATED="1417912613561" MODIFIED="1417912613973"/>
+<node TEXT="I can&apos;t get it to work" ID="ID_1646661439" CREATED="1417912614529" MODIFIED="1417912617309"/>
+</node>
+</node>
+<node TEXT="sinewave representation" ID="ID_317202794" CREATED="1417911699970" MODIFIED="1417911703438">
+<node TEXT="tidal&gt; sinewave&#xa;[((0 % 1,1 % 1),(0 % 1,1 % 1),0.0)]&#xa;tidal&gt; sinewave1&#xa;[((0 % 1,1 % 1),(0 % 1,1 % 1),0.5)]&#xa;tidal&gt;" ID="ID_1762047792" CREATED="1417911725714" MODIFIED="1417911726261"/>
+</node>
+<node TEXT="reload in Emacs" ID="ID_969560780" CREATED="1417931320144" MODIFIED="1418848922237">
+<node TEXT="reload Tidal lib&apos;s" ID="ID_1696529280" CREATED="1417931326688" MODIFIED="1417931329076">
+<node TEXT="if I modify them, which maybe I won&apos;t" ID="ID_619496194" CREATED="1418848929633" MODIFIED="1418848934077"/>
+</node>
+<node TEXT="reload extensions" ID="ID_828783733" CREATED="1418848934634" MODIFIED="1418848936606">
+<node TEXT="i.e. extensions to Tidal, like &quot;pitch&quot;" ID="ID_1817846072" CREATED="1418848937642" MODIFIED="1418848951924"/>
+</node>
+<node TEXT="reload tidal.el" ID="ID_1997353376" CREATED="1417931329296" MODIFIED="1417931331803"/>
+</node>
+<node TEXT="syntax, functions" ID="ID_38388722" CREATED="1418849060912" MODIFIED="1418849112574">
+<font BOLD="true"/>
+<node TEXT="spread&apos;" ID="ID_646207027" CREATED="1417908458243" MODIFIED="1418848598378">
+<node TEXT="takes a pattern instead of a list of param&apos;s to cycle the transf&apos;n through" ID="ID_1081743166" CREATED="1417908462841" MODIFIED="1417908474399"/>
+</node>
+<node TEXT="smash" ID="ID_1259538360" CREATED="1417907659800" MODIFIED="1417907662045"/>
+<node TEXT="%" ID="ID_1729941361" CREATED="1414544895848" MODIFIED="1418848678081">
+<node TEXT="d1 $ sound &quot;{bd [ht sn, lt mt ht] lt, sn cp}&quot;&#xa;By default, the number of steps in the first part (in this case, 3) is taken as the number of events per cycle used for the other parts. To specify a different number of steps per cycle, you can use %, like this:&#xa;&#xa;d1 $ sound &quot;{bd [ht sn, lt mt ht] lt, sn cp}%5&quot;&#xa;In the above example, five events will be played from each part, in rotation, every cycle." ID="ID_1355110364" CREATED="1414544892536" MODIFIED="1414544893476"/>
+</node>
+</node>
+<node TEXT="&lt; press" ID="ID_1172289139" CREATED="1417909520870" MODIFIED="1418848518529">
+<font BOLD="false"/>
+<node TEXT="striate&apos;" ID="ID_707636560" CREATED="1417909519240" MODIFIED="1417909520643"/>
+<node TEXT="is &quot;vowel&quot; really a param?" ID="ID_1008460064" CREATED="1417833730976" MODIFIED="1417833736836"/>
+</node>
+<node TEXT="why does Event have two Arcs" ID="ID_1101644859" CREATED="1440757478608" MODIFIED="1445327351802"/>
+<node TEXT="markov chains?" ID="ID_1861545630" CREATED="1441852510493" MODIFIED="1445327245866">
+<node TEXT="is Lurk thread" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_962056520" CREATED="1445327247638" MODIFIED="1445327252410"/>
+<node TEXT="random numbers?" ID="ID_442587779" CREATED="1441852526709" MODIFIED="1441852529220"/>
+</node>
+<node TEXT="? how are {} polyrhythms repd" ID="ID_232533220" CREATED="1442305240227" MODIFIED="1442305247898">
+<node TEXT="sound &quot;{bd ht ~, insect cp cp cp}&quot;" ID="ID_756036036" CREATED="1442305248472" MODIFIED="1442305248472">
+<node TEXT="renders this (except as a single line)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_976134691" CREATED="1442305248472" MODIFIED="1442305253535"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))] 0 1/3)" ID="ID_1035894071" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;ht&quot;}))] 1/3 2/3)" ID="ID_476463420" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;insect&quot;}))] 0 1/3)" ID="ID_368202094" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;cp&quot;}))] 1/3 2/3)" ID="ID_671360398" CREATED="1442305248472" MODIFIED="1442305248472"/>
+<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;cp&quot;}))] 2/3 1)" ID="ID_1432765117" CREATED="1442305248472" MODIFIED="1442305248472"/>
+</node>
+<node TEXT="what&apos;s displayed there is not enough information to construct its behavior -- it omits that the length of the cycle the first two notes are in is shorter (3/4 as long)" ID="ID_790730497" CREATED="1442305257459" MODIFIED="1442305298570"/>
+</node>
+<node TEXT="Tidal.strategies v. .pattern" ID="ID_910333847" CREATED="1444605139952" MODIFIED="1444605150516"/>
+<node TEXT="? what is OscShape or (instance) kriole" ID="ID_842548640" CREATED="1444787974825" MODIFIED="1444788005904">
+<node TEXT="it has a different type sig from pan, yet this is valid: d1 $ slow 2 $ up p1 |*| up &quot;[24]&quot; |*| sound &quot;[wobble,metal]&quot; |+| kriole &quot;1&quot;" ID="ID_1294080538" CREATED="1444788021994" MODIFIED="1444788048791"/>
+</node>
+</node>
+</node>
+<node TEXT="sources" LOCALIZED_STYLE_REF="default" ID="ID_433485157" CREATED="1418796355827" MODIFIED="1445326906686">
+<node TEXT="lib&apos;s" ID="ID_673376974" CREATED="1417929914258" MODIFIED="1418796359102">
+<node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
+<node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
+<node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
+<node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
+</node>
+<node TEXT="Sound.Tidal.Strategies" ID="ID_1147139443" CREATED="1417820974516" MODIFIED="1417820974516">
+<node TEXT="imports many" ID="ID_551391629" CREATED="1418805413092" MODIFIED="1418805414936"/>
+<node TEXT="import Sound.Tidal.Dirt&#xa;import Sound.Tidal.Pattern&#xa;import Sound.Tidal.Stream&#xa;import Sound.Tidal.Time&#xa;import Sound.Tidal.Utils" ID="ID_1973456483" CREATED="1418805415540" MODIFIED="1418805416120"/>
+</node>
+</node>
+<node TEXT="skipped" ID="ID_1425800116" CREATED="1417820963450" MODIFIED="1417820964565">
+<node TEXT="b/c/ they look like implementation, not interface" ID="ID_478020215" CREATED="1417820084265" MODIFIED="1417820291281"/>
+<node TEXT="Dirt" ID="ID_1684672036" CREATED="1417820292758" MODIFIED="1417820293449"/>
+<node TEXT="Stream" ID="ID_91519689" CREATED="1417820461698" MODIFIED="1417820464710"/>
+<node TEXT="Tempo" ID="ID_1127457523" CREATED="1417820054882" MODIFIED="1417820055861"/>
+</node>
+</node>
+<node TEXT="lib&apos;s" ID="ID_982262612" CREATED="1418796404411" MODIFIED="1418796901314">
+<node TEXT="https://hackage.haskell.org/package/tidal" ID="ID_1776905132" CREATED="1417929562191" MODIFIED="1417929562191" LINK="https://hackage.haskell.org/package/tidal"/>
+<node TEXT="Stream" ID="ID_937819266" CREATED="1417929912001" MODIFIED="1417929914068">
+<node TEXT="defines |+|" ID="ID_1933516369" CREATED="1417929918833" MODIFIED="1417929927965"/>
+</node>
+<node TEXT="Pattern (ready)" ID="ID_532932728" CREATED="1417929945129" MODIFIED="1418420292070">
+<node TEXT="req&apos;s Util and Time, which I have read" ID="ID_1830867346" CREATED="1418420292555" MODIFIED="1418420302558"/>
+</node>
+<node TEXT="Parse" ID="ID_1036252633" CREATED="1417929946416" MODIFIED="1417929948212"/>
+<node TEXT="Strategies" ID="ID_1767880097" CREATED="1417929948417" MODIFIED="1417929949732">
+<node TEXT="defines stutter and sinewave" ID="ID_650711967" CREATED="1417929972032" MODIFIED="1417929976715"/>
+</node>
+</node>
+</node>
+<node TEXT="github/.md (main tutorial)" ID="ID_1714286820" CREATED="1417821323414" MODIFIED="1417929590226">
+<node TEXT="resume at section called &quot;Pattern transformers&quot;" ID="ID_1263321820" CREATED="1414570810371" MODIFIED="1417902342610"/>
+<node TEXT="https://github.com/yaxu/Tidal/blob/master/doc/tidal.md" ID="ID_1259767770" CREATED="1417821301934" MODIFIED="1417821301934" LINK="https://github.com/yaxu/Tidal/blob/master/doc/tidal.md"/>
+</node>
+<node TEXT="live coders|tidalers on &quot;slack&quot; (irc?)" ID="ID_949977542" CREATED="1443725324568" MODIFIED="1443725334523">
+<node TEXT="quoting alex" ID="ID_1177934844" CREATED="1443725338754" MODIFIED="1443725341563"/>
+<node ID="ID_732005527" CREATED="1443725335556" MODIFIED="1443725335556" LINK="https://livecode.slack.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font size="12.8px" face="arial, sans-serif" color="rgb(34, 34, 34)"><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start" content="text/html; charset=utf-8" http-equiv="content-type"/>
+    <span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">There's a livecode slack channel that Mike Hodnick and I made:</span><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start"/><span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">&#160;</span></font><a target="_blank" style="line-height: normal; font-weight: normal; letter-spacing: normal; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(17, 85, 204); white-space: normal; text-indent: 0px; font-family: arial, sans-serif" href="https://livecode.slack.com/" rel="noreferrer"><font size="12.8px" face="arial, sans-serif" color="rgb(17, 85, 204)">https://livecode.slack.com</font></a> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_219202507" CREATED="1443809159740" MODIFIED="1443809159740" LINK="http://livecode.slack.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><br http-equiv="content-type" content="text/html; charset=utf-8" style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/>
+    <span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">If you'd like to join</span><span class="Apple-converted-space">&#160;</span></font><a target="_blank" rel="noreferrer" style="font-size: 12.8px; word-spacing: 0px; color: rgb(17, 85, 204); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; font-family: arial, sans-serif; font-style: normal" href="http://livecode.slack.com/"><font size="12.8px" color="rgb(17, 85, 204)" face="arial, sans-serif">livecode.slack.com</font></a><font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><span class="Apple-converted-space">&#160;</span><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">and the tidal channels please</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">email me (or Anny or Mike).</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/></font> 
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="wiki" ID="ID_487247861" CREATED="1417821628886" MODIFIED="1417821630754">
+<node TEXT="https://github.com/yaxu/Tidal/wiki" ID="ID_1647424779" CREATED="1417821631040" MODIFIED="1417821631040" LINK="https://github.com/yaxu/Tidal/wiki"/>
+</node>
+<node TEXT="tutorial on Git (unread)" LOCALIZED_STYLE_REF="default" ID="ID_178476156" CREATED="1443378356243" MODIFIED="1445328613262">
+<node TEXT="https://github.com/tidalcycles/Tidal/blob/master/tutorial/tutorial.md" ID="ID_1284051164" CREATED="1443378361813" MODIFIED="1443378361813" LINK="https://github.com/tidalcycles/Tidal/blob/master/tutorial/tutorial.md"/>
+</node>
+<node TEXT="sample code" ID="ID_1952483856" CREATED="1417822737476" MODIFIED="1417822746561">
+<node TEXT="i am a computer: music + source" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1134564436" CREATED="1417809177466" MODIFIED="1445328606322">
+<node TEXT="https://github.com/kindohm/i-am-a-computer" ID="ID_1981166236" CREATED="1417809179757" MODIFIED="1417809179757" LINK="https://github.com/kindohm/i-am-a-computer"/>
+<node TEXT="https://xylemrecords.bandcamp.com/album/i-am-a-computer" ID="ID_358593029" CREATED="1417809192443" MODIFIED="1417809192443" LINK="https://xylemrecords.bandcamp.com/album/i-am-a-computer"/>
+</node>
+<node TEXT="http://365tidalpatterns.tumblr.com/" ID="ID_604896852" CREATED="1417822737476" MODIFIED="1417822737476" LINK="http://365tidalpatterns.tumblr.com/"/>
+<node TEXT="http://tidalexperiments.tumblr.com/" ID="ID_1094197411" CREATED="1417822737476" MODIFIED="1417822737476" LINK="http://tidalexperiments.tumblr.com/"/>
+<node TEXT="https://twitter.com/tidalcycles" ID="ID_1066807947" CREATED="1417822737476" MODIFIED="1417822737476" LINK="https://twitter.com/tidalcycles"/>
+<node TEXT="album: I am a computer, with audio" ID="ID_21234752" CREATED="1417822757947" MODIFIED="1417822782520">
+<node TEXT="https://xylemrecords.bandcamp.com/album/i-am-a-computer" ID="ID_245034775" CREATED="1417822773723" MODIFIED="1417822773723" LINK="https://xylemrecords.bandcamp.com/album/i-am-a-computer"/>
+<node TEXT="https://github.com/kindohm/i-am-a-computer/blob/master/10-my-maker-frees-me.tidal" ID="ID_305275218" CREATED="1417822763444" MODIFIED="1417822763444" LINK="https://github.com/kindohm/i-am-a-computer/blob/master/10-my-maker-frees-me.tidal"/>
+</node>
+</node>
+<node TEXT="supercollider &amp; mac" ID="ID_1646482763" CREATED="1440708442105" MODIFIED="1440708452501">
+<node TEXT="http://lurk.org/groups/tidal/messages/topic/3iBz4a0O1TQ1GM0UDQQfG0" ID="ID_541945897" CREATED="1440708447192" MODIFIED="1440708447193" LINK="http://lurk.org/groups/tidal/messages/topic/3iBz4a0O1TQ1GM0UDQQfG0"/>
+</node>
+</node>
+<node TEXT="functions, u" ID="ID_181646663" CREATED="1445327084607" MODIFIED="1445328212611">
+<font BOLD="true"/>
+<node TEXT="sounds I like" ID="ID_794323897" CREATED="1418803654933" MODIFIED="1445328076615">
+<font BOLD="true"/>
+<node TEXT="intzd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_609727923" CREATED="1445327275927" MODIFIED="1445327277888">
+<node TEXT="striate" ID="ID_605700144" CREATED="1417909176254" MODIFIED="1417909177825">
+<node TEXT="d1 $ striate 3 $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_234478103" CREATED="1417909184037" MODIFIED="1417909184657"/>
+</node>
+</node>
+<node TEXT="samples" ID="ID_1868619755" CREATED="1414545351848" MODIFIED="1418803663248">
+<font BOLD="false"/>
+<node TEXT="feel/sub" ID="ID_1018351101" CREATED="1414545355480" MODIFIED="1414545529091">
+<node TEXT="how to represent?" ID="ID_693099839" CREATED="1414545529349" MODIFIED="1414545531320"/>
+</node>
+<node TEXT="bleep/{bleep boip breathy-blip}={4-6}" ID="ID_1214852578" CREATED="1417847304016" MODIFIED="1417847377667">
+<node TEXT="that is, the folder and file have the same name" ID="ID_1482636579" CREATED="1417847320392" MODIFIED="1417847325396"/>
+</node>
+<node TEXT="d1 $ sound &quot;arpy arp feel*4 arpy*4&quot;" ID="ID_113612791" CREATED="1417905494079" MODIFIED="1417905494516"/>
+</node>
+</node>
+<node TEXT="use (generalize!) Bjorklund|Euclid patterns" ID="ID_1768986779" CREATED="1441824391408" MODIFIED="1445327078905">
+<node TEXT="Bjorklund and Euclid Patterns&#xa;If you give two numbers in parenthesis after an element in a pattern, then Tidal will distribute the first number of sounds equally across the second number of steps:&#xa;&#xa;d1 $ sound &quot;can(5,8)&quot;" ID="ID_732113421" CREATED="1441824418208" MODIFIED="1441824420409"/>
+</node>
+<node TEXT="solo" ID="ID_1522026692" CREATED="1441824454228" MODIFIED="1441824457555">
+<node TEXT="solo $ d1 $ sound &quot;bd sn&quot;" ID="ID_1195067016" CREATED="1441824475270" MODIFIED="1441824476137"/>
+<node TEXT="not avail in plain ghci" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1698884810" CREATED="1445327114966" MODIFIED="1445327120073"/>
+</node>
+<node TEXT="silence needs no $" ID="ID_1665673337" CREATED="1441824484235" MODIFIED="1441824487411">
+<node TEXT="d1 silence" ID="ID_777644586" CREATED="1441824488670" MODIFIED="1441824490702"/>
+</node>
+<node TEXT="multiply sinewave by pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_996367847" CREATED="1441824859668" MODIFIED="1445327184642">
+<node TEXT="d1 $ (brak (sound &quot;bd sn:2 bd sn&quot;))&#xa;   |+| pan ((*) &lt;$&gt; sinewave1 &lt;*&gt; (slow 8 $ &quot;0 0.25 0.75&quot;))" ID="ID_1625875798" CREATED="1441824855771" MODIFIED="1441824857691"/>
+</node>
+<node TEXT="preplace ?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1077425706" CREATED="1440757210274" MODIFIED="1445328479186">
+<node TEXT="&lt;-&gt; (?= prorate) =$ apply melody to rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_688104434" CREATED="1441874970923" MODIFIED="1441875717110">
+<node TEXT="quoting Lurk/Tidal, thread &quot;MIDI numbers easy system&quot;" ID="ID_846533568" CREATED="1441874980635" MODIFIED="1441875000649"/>
+<node TEXT="This also works nicely with the new prorate functions:&#xa;&#xa;k1 $ note (&quot;1 ~ [1 1] 1&quot; &lt;~&gt; ((+59) &lt;$&gt; (run 12)))&#xa;&#xa;Which applies the melody to the given rhythm." ID="ID_478717373" CREATED="1441874978794" MODIFIED="1441874979561"/>
+<node TEXT="... Mike,&#xa;&#xa; &lt;~&gt; is a shorthand syntax for preplace (1,1) so it assumes each pattern is one cycle long. So if you are using &quot;every 3&quot; you&apos;d want to use preplace (1,3) to make the rhythm pattern be applied over the cycles of the value pattern to make your &quot;change&quot; appear. Otherwise" ID="ID_1109800567" CREATED="1441875473227" MODIFIED="1441875475794"/>
+</node>
+<node TEXT="more" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_157676914" CREATED="1445328484391" MODIFIED="1445328487473">
+<node TEXT="&#xa;@preplace (blen, plen) beats values@ combines the timing of @beats@ with the values&#xa;of @values@. Other ways of saying this are:&#xa;* sequential convolution&#xa;* @values@ quantized to @beats@.&#xa;&#xa;Examples:&#xa;@&#xa;d1 $ sound $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ preplace (1,1) &quot;x(3,8)&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ &quot;x(3,8)&quot; &lt;~&gt; &quot;bd sn&quot;&#xa;d1 $ sound &quot;[jvbass jvbass:5]*3&quot; |+| (shape $ &quot;1 1 1 1 1&quot; &lt;~&gt; &quot;0.2 0.9&quot;)&#xa;@" ID="ID_197038780" CREATED="1440757219028" MODIFIED="1440757220040"/>
+</node>
+<node TEXT="the numberic pair argument to preplace seems to do nothing" ID="ID_788442259" CREATED="1442372963582" MODIFIED="1442372972829">
+<node TEXT="d1 $ sound $ preplace (1,4) &quot;x [~ x] x&quot; &quot;bd sn&quot;" ID="ID_1643279709" CREATED="1442372979262" MODIFIED="1442372979262"/>
+</node>
+</node>
+<node TEXT="Tidal.Time (doAt)" ID="ID_1862916275" CREATED="1441864391860" MODIFIED="1445328032030">
+<node TEXT="thread &quot;checking the time and scheduling in advance&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1379763478" CREATED="1441914171354" MODIFIED="1445327217792"/>
+<node TEXT="working mysterious; effect seems clear from type sig" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_752239706" CREATED="1441870116119" MODIFIED="1441870134458"/>
+<node TEXT="Tidal.Time" ID="ID_423540654" CREATED="1441868048446" MODIFIED="1441870107122">
+<node TEXT="sam :: Time -&gt; Time" ID="ID_1195049873" CREATED="1441864451532" MODIFIED="1441864452474"/>
+<node TEXT="nextSam :: Time -&gt; Time" ID="ID_1886494681" CREATED="1441864440988" MODIFIED="1441864441818"/>
+<node TEXT="cyclePos :: Time -&gt; Time" ID="ID_412838566" CREATED="1441864448972" MODIFIED="1441864449971"/>
+</node>
+<node TEXT="Tidal.Stream.doAt" ID="ID_239636459" CREATED="1441868070935" MODIFIED="1441870103826">
+<node TEXT="doAt :: RealFrac s =&gt; s -&gt; IO () -&gt; IO ()" ID="ID_796711414" CREATED="1441868075166" MODIFIED="1441868075837"/>
+<node TEXT="uses Date.Time.getCurrentTime" ID="ID_68602424" CREATED="1441868315591" MODIFIED="1441870099086"/>
+</node>
+</node>
+<node TEXT="for melody, duration : monopph cut groups" ID="ID_1378132513" CREATED="1440884770612" MODIFIED="1445327310922">
+<node TEXT="tidal sample duration problem ?solved : one waveform file, unnecj long (5s?), with choke*; use amplitude also. choke implies monophonic voices" ID="ID_353639670" CREATED="1440884770613" MODIFIED="1440884770613">
+<node TEXT="* choke = cut group" ID="ID_1711848491" CREATED="1440884770613" MODIFIED="1440884770613"/>
+<node TEXT="choke prev sample, avoid overlap notes" ID="ID_1566734493" CREATED="1440884770613" MODIFIED="1440884770613"/>
+</node>
+</node>
+<node TEXT="* Pattern manip" LOCALIZED_STYLE_REF="default" ID="ID_1128197862" CREATED="1440713334962" MODIFIED="1445327734721">
+<node TEXT="simultaneity" ID="ID_1920623381" CREATED="1440655611193" MODIFIED="1440655697696">
+<node TEXT="d1 $ stack [&#xa;  sound &quot;bd bd*2&quot;,&#xa;  sound &quot;hh*2 [sn cp] cp future*4&quot;,&#xa;  sound (samples &quot;arpy*8&quot;, (run 16))&#xa;]" ID="ID_641204390" CREATED="1440655700090" MODIFIED="1440655701125"/>
+</node>
+<node TEXT="append varys" ID="ID_1067046501" CREATED="1440713340306" MODIFIED="1445327655643">
+<node TEXT="append :: Pattern a -&gt; Pattern a -&gt; Pattern a&#xa;append a b = cat [a,b]" ID="ID_1077338993" CREATED="1440713358689" MODIFIED="1440713361905"/>
+<node TEXT="append&apos; :: Pattern a -&gt; Pattern a -&gt; Pattern a&#xa;append&apos; a b  = slow 2 $ cat [a,b]" ID="ID_1211933597" CREATED="1440713370224" MODIFIED="1440713371284">
+<node TEXT="so that they take two cycles, not one" ID="ID_1822409017" CREATED="1440713373873" MODIFIED="1440713379932"/>
+</node>
+</node>
+<node TEXT="playWhen" ID="ID_1825637908" CREATED="1440717718426" MODIFIED="1440717721614"/>
+<node TEXT="* -&gt;&gt; and &lt;&lt;- rotate by events, not time" ID="ID_465502509" CREATED="1440718596945" MODIFIED="1440718619110"/>
+</node>
+<node TEXT="* Pattern gen (sine, env)" ID="ID_1994901083" CREATED="1440717973869" MODIFIED="1445327749438">
+<node TEXT="sinewave, sinewave1 = sine, sine1" ID="ID_341789749" CREATED="1440717978732" MODIFIED="1440718029354">
+<node TEXT="the latter is from [0,1] rather than [-1,1]" ID="ID_751962515" CREATED="1440717984501" MODIFIED="1440717991640"/>
+</node>
+<node TEXT="sineAmp n = sine1 + n" ID="ID_952146389" CREATED="1440718049584" MODIFIED="1440718056846"/>
+<node TEXT="saw, tri, square : like sine" ID="ID_1130738761" CREATED="1440718115978" MODIFIED="1440718135277"/>
+<node TEXT="envL = ramps 0 to 1, then stays at 1 for future cycles" ID="ID_1621514220" CREATED="1440718202625" MODIFIED="1440718216603"/>
+</node>
+<node TEXT="* groupByTime" ID="ID_746540709" CREATED="1440756963679" MODIFIED="1440756968026">
+<node TEXT="note: Event /= Pattern" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_842138333" CREATED="1445327858135" MODIFIED="1445327893934"/>
+<node TEXT="groupByTime :: [Event a] -&gt; [Event [a]]" ID="ID_1389443640" CREATED="1445327855456" MODIFIED="1445327856309"/>
+</node>
+<node TEXT="zoom &amp; compress  :: Arc -&gt; Pattern a -&gt; Pattern a" ID="ID_1230139280" CREATED="1440757011137" MODIFIED="1440757023148"/>
 <node TEXT="? obscure" ID="ID_1705065319" CREATED="1414566533882" MODIFIED="1418848340398">
 <node TEXT=". = I saw these not in the doc&apos;n, but elsewhere" ID="ID_1790029382" CREATED="1414570375153" MODIFIED="1414570399668">
 <font BOLD="false"/>
@@ -18338,313 +18598,30 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="*Main&gt; wordsBy (&lt; 3) [1,4,6,1,4,5,1,6,6]&#xa;[[4,6],[4,5],[6,6]]" ID="ID_91754956" CREATED="1417816363602" MODIFIED="1417816364174"/>
 </node>
 </node>
-</node>
-<node TEXT="exten" ID="ID_1355079712" CREATED="1418798415712" MODIFIED="1418802819963">
-<node TEXT=".= mod&apos;s to Tidal, not built-in" ID="ID_1013723731" CREATED="1418802358623" MODIFIED="1418802828051"/>
-<node TEXT="pitch" ID="ID_962636113" CREATED="1417836830042" MODIFIED="1417929100383">
-<node TEXT="I do this all the time (thanks to Alex for teaching part of it to me!):&#xa;let up = speed . ((1.059466**) &lt;$&gt;)&#xa;&#xa;Then you can do:&#xa;d1 $ sound &quot;arpy*4&quot; |+| up &quot;0 4 7 4&quot;" ID="ID_1205438549" CREATED="1417836832770" MODIFIED="1417836833055"/>
-</node>
-</node>
-<node TEXT="u, 2014 12 31" ID="ID_1909538855" CREATED="1417982642203" MODIFIED="1420485536857">
-<node TEXT="efficient to ask" ID="ID_355913618" CREATED="1417924442562" MODIFIED="1417924464828">
-<node TEXT="how to modify language in use in Emacs" ID="ID_1359855000" CREATED="1417924465144" MODIFIED="1417924494364"/>
-</node>
-<node TEXT="cho" ID="ID_746343759" CREATED="1417983108850" MODIFIED="1417983109414">
-<node TEXT="much is possible with tidal that I have little concept of" ID="ID_1218180246" CREATED="1417924341579" MODIFIED="1417983105606">
-<node TEXT="without lang mods" ID="ID_935872836" CREATED="1417924353043" MODIFIED="1417924355431"/>
-</node>
-</node>
-<node TEXT="i am a computer: music + source" ID="ID_1134564436" CREATED="1417809177466" MODIFIED="1417809184045">
-<node TEXT="https://github.com/kindohm/i-am-a-computer" ID="ID_1981166236" CREATED="1417809179757" MODIFIED="1417809179757" LINK="https://github.com/kindohm/i-am-a-computer"/>
-<node TEXT="https://xylemrecords.bandcamp.com/album/i-am-a-computer" ID="ID_358593029" CREATED="1417809192443" MODIFIED="1417809192443" LINK="https://xylemrecords.bandcamp.com/album/i-am-a-computer"/>
-</node>
-<node TEXT="extend, suggest" ID="ID_102285424" CREATED="1417843484132" MODIFIED="1417982972810">
-<node TEXT="suggest and imagine implementing a monad-like shared memory structure such that instructions to one param could refer to, say, subsequences defined by/in terms of the other param&apos;s" ID="ID_1480968768" CREATED="1417843508368" MODIFIED="1417843593002">
-<node TEXT="need a dependency graph inlet" ID="ID_1138356113" CREATED="1417843594930" MODIFIED="1417843608430">
-<node TEXT="and something I&apos;m calling complete execution, which implies among other things an inlet" ID="ID_1659091848" CREATED="1417843616106" MODIFIED="1417843634317"/>
-</node>
-</node>
-</node>
-<node TEXT="could I not write an append function?" ID="ID_578966265" CREATED="1417924437089" MODIFIED="1417924441917"/>
-<node TEXT="put the entire tidal sound lib in itunes, order in song view by folder of origin (or if that&apos;s not possible, date of add, assuming I can open them all in order)" ID="ID_752949058" CREATED="1418368746268" MODIFIED="1418368789769"/>
-<node TEXT="extend tidal" ID="ID_723332487" CREATED="1415843030423" MODIFIED="1415843032794">
-<node TEXT="change some loops&apos; lengths" ID="ID_1674346251" CREATED="1415843035247" MODIFIED="1415843038986">
-<node TEXT="ordinarily each fits inside the same duration" ID="ID_840394206" CREATED="1415843041367" MODIFIED="1415843049406"/>
-</node>
-</node>
-<node TEXT="* read tidal spec, source" ID="ID_358305251" CREATED="1415843094086" MODIFIED="1415843103849">
-<node TEXT="https://hackage.haskell.org/package/tidal-0.4.8/docs/Sound-Tidal-Pattern.html" ID="ID_1726505573" CREATED="1415843091866" MODIFIED="1415843091866" LINK="https://hackage.haskell.org/package/tidal-0.4.8/docs/Sound-Tidal-Pattern.html"/>
-</node>
-<node TEXT="tidal has many functions in spec and not tut" ID="ID_1594571706" CREATED="1415843183484" MODIFIED="1415843200799"/>
-</node>
-<node TEXT="_ int&apos;zed" ID="ID_1533026494" CREATED="1418797181960" MODIFIED="1418797211438">
-<node TEXT="var&apos;s work" ID="ID_983447016" CREATED="1417916275186" MODIFIED="1417916280981">
-<node TEXT="let x = sound &quot;ho ~ ho:3 hc&quot;&#xa;d1 $ x" ID="ID_421487123" CREATED="1417916281457" MODIFIED="1417916281948"/>
-</node>
-</node>
-<node TEXT="2015 09 09" ID="ID_235453189" CREATED="1441824848758" MODIFIED="1441824853353">
-<node TEXT="use Bjorklund|Euclid patterns" ID="ID_1768986779" CREATED="1441824391408" MODIFIED="1441824453041">
-<node TEXT="Bjorklund and Euclid Patterns&#xa;If you give two numbers in parenthesis after an element in a pattern, then Tidal will distribute the first number of sounds equally across the second number of steps:&#xa;&#xa;d1 $ sound &quot;can(5,8)&quot;" ID="ID_732113421" CREATED="1441824418208" MODIFIED="1441824420409"/>
-</node>
-<node TEXT="solo" ID="ID_1522026692" CREATED="1441824454228" MODIFIED="1441824457555">
-<node TEXT="solo $ d1 $ sound &quot;bd sn&quot;" ID="ID_1195067016" CREATED="1441824475270" MODIFIED="1441824476137"/>
-</node>
-<node TEXT="silence needs no $" ID="ID_1665673337" CREATED="1441824484235" MODIFIED="1441824487411">
-<node TEXT="d1 silence" ID="ID_777644586" CREATED="1441824488670" MODIFIED="1441824490702"/>
-</node>
-<node TEXT="multiply sinewave by pattern" ID="ID_996367847" CREATED="1441824859668" MODIFIED="1441824864905">
-<node TEXT="d1 $ (brak (sound &quot;bd sn:2 bd sn&quot;))&#xa;   |+| pan ((*) &lt;$&gt; sinewave1 &lt;*&gt; (slow 8 $ &quot;0 0.25 0.75&quot;))" ID="ID_1625875798" CREATED="1441824855771" MODIFIED="1441824857691"/>
-</node>
-</node>
-<node TEXT="tidal" ID="ID_1953992637" CREATED="1441864390028" MODIFIED="1441864390914">
-<node TEXT="some time-related functions, mysterious" ID="ID_1862916275" CREATED="1441864391860" MODIFIED="1441870090905">
-<node TEXT="working mysterious; effect seems clear from type sig" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_752239706" CREATED="1441870116119" MODIFIED="1441870134458"/>
-<node TEXT="Tidal.Time" ID="ID_423540654" CREATED="1441868048446" MODIFIED="1441870107122">
-<node TEXT="sam :: Time -&gt; Time" ID="ID_1195049873" CREATED="1441864451532" MODIFIED="1441864452474"/>
-<node TEXT="nextSam :: Time -&gt; Time" ID="ID_1886494681" CREATED="1441864440988" MODIFIED="1441864441818"/>
-<node TEXT="cyclePos :: Time -&gt; Time" ID="ID_412838566" CREATED="1441864448972" MODIFIED="1441864449971"/>
-</node>
-<node TEXT="Tidal.Stream.doAt" ID="ID_239636459" CREATED="1441868070935" MODIFIED="1441870103826">
-<node TEXT="doAt :: RealFrac s =&gt; s -&gt; IO () -&gt; IO ()" ID="ID_796711414" CREATED="1441868075166" MODIFIED="1441868075837"/>
-<node TEXT="uses Date.Time.getCurrentTime" ID="ID_68602424" CREATED="1441868315591" MODIFIED="1441870099086"/>
-</node>
-</node>
-<node TEXT="~ is pause" ID="ID_503507485" CREATED="1441870140407" MODIFIED="1441870142293"/>
-<node TEXT="&lt;-&gt; (?= prorate) =$ apply melody to rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_688104434" CREATED="1441874970923" MODIFIED="1441875717110">
-<node TEXT="quoting Lurk/Tidal, thread &quot;MIDI numbers easy system&quot;" ID="ID_846533568" CREATED="1441874980635" MODIFIED="1441875000649"/>
-<node TEXT="This also works nicely with the new prorate functions:&#xa;&#xa;k1 $ note (&quot;1 ~ [1 1] 1&quot; &lt;~&gt; ((+59) &lt;$&gt; (run 12)))&#xa;&#xa;Which applies the melody to the given rhythm." ID="ID_478717373" CREATED="1441874978794" MODIFIED="1441874979561"/>
-<node TEXT="... Mike,&#xa;&#xa; &lt;~&gt; is a shorthand syntax for preplace (1,1) so it assumes each pattern is one cycle long. So if you are using &quot;every 3&quot; you&apos;d want to use preplace (1,3) to make the rhythm pattern be applied over the cycles of the value pattern to make your &quot;change&quot; appear. Otherwise" ID="ID_1109800567" CREATED="1441875473227" MODIFIED="1441875475794"/>
-</node>
-<node TEXT="thread &quot;checking the time and scheduling in advance&quot;" ID="ID_1379763478" CREATED="1441914171354" MODIFIED="1441914177759"/>
-<node TEXT="tidal is in logic.mm, mus, where, git/{art, fresh, info}" ID="ID_1091797927" CREATED="1441909997612" MODIFIED="1441910038414"/>
-<node TEXT="tidal: markov chains?" ID="ID_1861545630" CREATED="1441852510493" MODIFIED="1441852513988">
-<node TEXT="random numbers?" ID="ID_442587779" CREATED="1441852526709" MODIFIED="1441852529220"/>
-</node>
-</node>
-<node TEXT="sounds I like" ID="ID_794323897" CREATED="1418803654933" MODIFIED="1418803656518">
-<node TEXT="striate" ID="ID_605700144" CREATED="1417909176254" MODIFIED="1417909177825">
-<node TEXT="d1 $ striate 3 $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_234478103" CREATED="1417909184037" MODIFIED="1417909184657"/>
-</node>
-<node TEXT="samples" ID="ID_1868619755" CREATED="1414545351848" MODIFIED="1418803663248">
-<font BOLD="false"/>
-<node TEXT="feel/sub" ID="ID_1018351101" CREATED="1414545355480" MODIFIED="1414545529091">
-<node TEXT="how to represent?" ID="ID_693099839" CREATED="1414545529349" MODIFIED="1414545531320"/>
-</node>
-<node TEXT="bleep/{bleep boip breathy-blip}={4-6}" ID="ID_1214852578" CREATED="1417847304016" MODIFIED="1417847377667">
-<node TEXT="that is, the folder and file have the same name" ID="ID_1482636579" CREATED="1417847320392" MODIFIED="1417847325396"/>
-</node>
-<node TEXT="d1 $ sound &quot;arpy arp feel*4 arpy*4&quot;" ID="ID_113612791" CREATED="1417905494079" MODIFIED="1417905494516"/>
-</node>
-</node>
-<node TEXT="tidal" ID="ID_1580842035" CREATED="1440655713209" MODIFIED="1440655714100">
-<node TEXT="melody, duration: use monopph cut groups" ID="ID_1378132513" CREATED="1440884770612" MODIFIED="1440884770612">
-<node TEXT="tidal sample duration problem ?solved : one waveform file, unnecj long (5s?), with choke*; use amplitude also. choke implies monophonic voices" ID="ID_353639670" CREATED="1440884770613" MODIFIED="1440884770613">
-<node TEXT="* choke = cut group" ID="ID_1711848491" CREATED="1440884770613" MODIFIED="1440884770613"/>
-<node TEXT="choke prev sample, avoid overlap notes" ID="ID_1566734493" CREATED="1440884770613" MODIFIED="1440884770613"/>
-</node>
-</node>
-<node TEXT="investigate : Pattern, OscPattern" ID="ID_759683431" CREATED="1441518570455" MODIFIED="1441518599094"/>
-<node TEXT="?s" ID="ID_284484712" CREATED="1440718083515" MODIFIED="1440718084158">
-<node TEXT="show current cycle number, position (within)" ID="ID_1006628836" CREATED="1441699306789" MODIFIED="1441699321682"/>
-<node TEXT="Pattern a -&gt; Pattern b" ID="ID_1961606630" CREATED="1441699295012" MODIFIED="1441699306439"/>
-<node TEXT="* how to retrieve the string expressions" ID="ID_1993159440" CREATED="1440756324918" MODIFIED="1440988654099">
-<node TEXT="when asking this, relate it to the question I already asked, about overlap" ID="ID_424798592" CREATED="1440988655096" MODIFIED="1440988668075"/>
-</node>
-<node TEXT="in |+| up &quot;0 4 7 4&quot; why are the overlapping tones of different pitch? does the pitch instruction take effect at the start of the note and the note stops listening to pitch info after? is this related to how event has two arcs?" ID="ID_1583808494" CREATED="1440884770612" MODIFIED="1440884770612"/>
-<node TEXT="* why does Event have two Arcs" ID="ID_1101644859" CREATED="1440757478608" MODIFIED="1440757493427"/>
-<node TEXT="addressing samples, waveforms" ID="ID_682851635" CREATED="1440961613626" MODIFIED="1440961624475">
-<font BOLD="true"/>
-<node TEXT="? how to address sample subfolder" ID="ID_1590230117" CREATED="1440658717197" MODIFIED="1440658730615"/>
-<node TEXT="? how to address nth sample by alphabetical order" ID="ID_1177127591" CREATED="1440659048171" MODIFIED="1440659056247"/>
-<node TEXT="how to evaluate a sinewave at, say, 45 degrees" ID="ID_743131421" CREATED="1440718086739" MODIFIED="1440718098478"/>
-</node>
-<node TEXT="my rig" ID="ID_805910524" CREATED="1440961563811" MODIFIED="1440961572410">
-<font BOLD="true"/>
-<node TEXT="? how to eval across multiple lines" ID="ID_61504377" CREATED="1440657063414" MODIFIED="1440657076521"/>
-<node TEXT="? how to install haskell-mode" ID="ID_1325224749" CREATED="1440658255549" MODIFIED="1440658260397">
-<node TEXT="without it, every time I insert a newline it says &quot;what is haskell-mode?&quot;" ID="ID_639563746" CREATED="1440658325996" MODIFIED="1440658336575"/>
-</node>
-</node>
-</node>
-<node TEXT="resources|how" ID="ID_346205192" CREATED="1440884819225" MODIFIED="1440884849143">
-<font BOLD="true"/>
-<node TEXT="supercollider &amp; mac" ID="ID_1646482763" CREATED="1440708442105" MODIFIED="1440708452501">
-<node TEXT="http://lurk.org/groups/tidal/messages/topic/3iBz4a0O1TQ1GM0UDQQfG0" ID="ID_541945897" CREATED="1440708447192" MODIFIED="1440708447193" LINK="http://lurk.org/groups/tidal/messages/topic/3iBz4a0O1TQ1GM0UDQQfG0"/>
-</node>
-<node TEXT="simultaneity" ID="ID_1920623381" CREATED="1440655611193" MODIFIED="1440655697696">
-<node TEXT="d1 $ stack [&#xa;  sound &quot;bd bd*2&quot;,&#xa;  sound &quot;hh*2 [sn cp] cp future*4&quot;,&#xa;  sound (samples &quot;arpy*8&quot;, (run 16))&#xa;]" ID="ID_641204390" CREATED="1440655700090" MODIFIED="1440655701125"/>
-</node>
-<node TEXT="* Pattern manip" ID="ID_1128197862" CREATED="1440713334962" MODIFIED="1440714091262">
-<node TEXT="append" ID="ID_1067046501" CREATED="1440713340306" MODIFIED="1440713357125">
-<node TEXT="append :: Pattern a -&gt; Pattern a -&gt; Pattern a&#xa;append a b = cat [a,b]" ID="ID_1077338993" CREATED="1440713358689" MODIFIED="1440713361905"/>
-<node TEXT="append&apos; :: Pattern a -&gt; Pattern a -&gt; Pattern a&#xa;append&apos; a b  = slow 2 $ cat [a,b]" ID="ID_1211933597" CREATED="1440713370224" MODIFIED="1440713371284">
-<node TEXT="so that they take two cycles, not one" ID="ID_1822409017" CREATED="1440713373873" MODIFIED="1440713379932"/>
-</node>
-</node>
-<node TEXT="* density | slow : allows non-uniform cyc lengths across dN voices" ID="ID_1037544801" CREATED="1440713996372" MODIFIED="1440714076136">
-<node TEXT=". for N some integer" ID="ID_1785741377" CREATED="1440714022556" MODIFIED="1440714025791"/>
-</node>
-<node TEXT="* &lt;- and -&gt;" ID="ID_802465734" CREATED="1440714094938" MODIFIED="1440714098973"/>
-<node TEXT="* -&gt;&gt; and &lt;&lt;- rotate by events, not time" ID="ID_465502509" CREATED="1440718596945" MODIFIED="1440718619110"/>
-<node TEXT="playWhen" ID="ID_1825637908" CREATED="1440717718426" MODIFIED="1440717721614"/>
-</node>
-<node TEXT="* Pattern gen" ID="ID_1994901083" CREATED="1440717973869" MODIFIED="1440717977392">
-<node TEXT="sinewave, sinewave1 = sine, sine1" ID="ID_341789749" CREATED="1440717978732" MODIFIED="1440718029354">
-<node TEXT="the latter is from [0,1] rather than [-1,1]" ID="ID_751962515" CREATED="1440717984501" MODIFIED="1440717991640"/>
-</node>
-<node TEXT="sineAmp n = sine1 + n" ID="ID_952146389" CREATED="1440718049584" MODIFIED="1440718056846"/>
-<node TEXT="saw, tri, square : like sine" ID="ID_1130738761" CREATED="1440718115978" MODIFIED="1440718135277"/>
-<node TEXT="envL = ramps 0 to 1, then stays at 1 for future cycles" ID="ID_1621514220" CREATED="1440718202625" MODIFIED="1440718216603"/>
-</node>
-<node TEXT="* groupByTime" ID="ID_746540709" CREATED="1440756963679" MODIFIED="1440756968026"/>
-<node TEXT="zoom &amp; compress  :: Arc -&gt; Pattern a -&gt; Pattern a" ID="ID_1230139280" CREATED="1440757011137" MODIFIED="1440757023148"/>
-<node TEXT="preplace ?" ID="ID_1077425706" CREATED="1440757210274" MODIFIED="1440757215752">
-<node TEXT="&#xa;@preplace (blen, plen) beats values@ combines the timing of @beats@ with the values&#xa;of @values@. Other ways of saying this are:&#xa;* sequential convolution&#xa;* @values@ quantized to @beats@.&#xa;&#xa;Examples:&#xa;@&#xa;d1 $ sound $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ preplace (1,1) &quot;x(3,8)&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ &quot;x(3,8)&quot; &lt;~&gt; &quot;bd sn&quot;&#xa;d1 $ sound &quot;[jvbass jvbass:5]*3&quot; |+| (shape $ &quot;1 1 1 1 1&quot; &lt;~&gt; &quot;0.2 0.9&quot;)&#xa;@" ID="ID_197038780" CREATED="1440757219028" MODIFIED="1440757220040"/>
-</node>
-<node TEXT="discretize" ID="ID_911906734" CREATED="1440757242581" MODIFIED="1440757244056"/>
-</node>
-</node>
-</node>
-<node TEXT="saved beats" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1229557733" CREATED="1442128899191" MODIFIED="1442129087354">
-<node TEXT="spacing herein important" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1641672905" CREATED="1442129163938" MODIFIED="1442129167906">
-<node TEXT="and looks fucked up until in another editor" ID="ID_1073614644" CREATED="1442129168777" MODIFIED="1442129174364"/>
-</node>
-<node TEXT="2 * 34344" ID="ID_1260293413" CREATED="1442129026704" MODIFIED="1442129070508">
-<node TEXT="spacing important; the if:1 and if:2 should align, on separate lines, making everything else align too" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_282680829" CREATED="1442128930028" MODIFIED="1442129016593"/>
-<node TEXT="that&apos;s 2 groups of 34344" ID="ID_1357901632" CREATED="1442129057192" MODIFIED="1442129064085"/>
-<node TEXT="d1 $ slow 4 $ sound&#xa;  &quot;if:1 sn sn   cp sn ht sn   if sn sn   cp sn ht sn   cp sn ht sn                   if:2 sn sn   cp sn ht sn   cp sn sn   if sn ht sn   if sn ht sn&quot;" ID="ID_877522931" CREATED="1442128903154" MODIFIED="1442128995885"/>
-</node>
-<node TEXT="34344 34334" ID="ID_180244740" CREATED="1442129147396" MODIFIED="1442129155027">
-<node TEXT="d1 $ slow 4 $ sound &quot;if:1 sn sn cp sn ht sn if sn sn cp sn ht sn cp sn ht sn                           if   sn sn cp sn ht sn if sn sn if sn sn    cp sn ht sn&quot;" ID="ID_442505859" CREATED="1442129146079" MODIFIED="1442129146079"/>
-</node>
-<node TEXT="triplets disco" ID="ID_1381382029" CREATED="1442131754690" MODIFIED="1442131757088">
-<node TEXT="d4 $ slow 8 $ sound &quot;if&quot;" ID="ID_377885435" CREATED="1442131763374" MODIFIED="1442131763374"/>
-<node TEXT="d1 $ slow 4 $ sound &quot;bd cp&quot;" ID="ID_1939540068" CREATED="1442131763374" MODIFIED="1442131763374"/>
-<node TEXT="d2 $ slow 2 $ sound &quot;lt ht ht&quot;" ID="ID_22817394" CREATED="1442131763376" MODIFIED="1442131763376"/>
-<node TEXT="d3 $ slow 0.5 $ sound &quot;ho ~ ho:1&quot; |+| gain &quot;0.7&quot;" ID="ID_363325500" CREATED="1442131763378" MODIFIED="1442131817079">
-<node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_203124009" CREATED="1442131832700" MODIFIED="1442131835179">
-<node TEXT="d3 $ slow 0.5 $ 0.05 &lt;~ sound &quot;ho ~ ho:1&quot; |+| gain &quot;0.7&quot;" ID="ID_188808918" CREATED="1442131763378" MODIFIED="1442131763378"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="tidal \ kubuntu" ID="ID_568409367" CREATED="1440702669722" MODIFIED="1441394451420">
-<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1780947299" CREATED="1441394399887" MODIFIED="1441394432516"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      2015 08 26-ish
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="? why uses ghc 7.6.3.10" ID="ID_1585851515" CREATED="1440702660083" MODIFIED="1441394404464">
-<node TEXT="when I already have 7.10._ somewhere" ID="ID_851973916" CREATED="1441394406386" MODIFIED="1441394416959"/>
-</node>
-<node TEXT="more problems too" ID="ID_1540271351" CREATED="1441394423619" MODIFIED="1441394435488"/>
-</node>
-<node TEXT="Emacs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_948194478" CREATED="1418797043898" MODIFIED="1442301918945">
-<node TEXT=".= Tidal/Emacs" ID="ID_638494108" CREATED="1418848240427" MODIFIED="1418848243167"/>
-<node TEXT="to stop cursor jumping after eval" LOCALIZED_STYLE_REF="default" ID="ID_182106053" CREATED="1415135559506" MODIFIED="1442340761918">
-<node TEXT="In &quot;tidal.el&quot; there is a function &quot;tidal-run-line&quot;, which is what&apos;s actually happening when you hit &quot;C-c C-c&quot;.  The last line of the function is &quot;(next-line)&quot;, you can just delete it (or comment it out), and the next time you start Emacs things should behave the way you want." ID="ID_161180168" CREATED="1415135567706" MODIFIED="1415135567989"/>
-</node>
-<node TEXT="run multiple lines separately" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1559297030" CREATED="1442340750575" MODIFIED="1442340760370">
-<node TEXT="wants them all grouped, no spaces between" ID="ID_689884373" CREATED="1442340763710" MODIFIED="1442340775653"/>
-<node TEXT="does not need them highlighted; just put the cursor in them" ID="ID_1354546073" CREATED="1442340773039" MODIFIED="1442340782501"/>
-<node TEXT="they must all be one-liners" ID="ID_615957359" CREATED="1442340782743" MODIFIED="1442340788285"/>
-</node>
-</node>
-<node TEXT="mus codg" ID="ID_1034836544" CREATED="1441923781633" MODIFIED="1441923792226">
-<font BOLD="true"/>
 <node TEXT="append&apos; preserves duration" ID="ID_1253390046" CREATED="1442126773312" MODIFIED="1442126773312"/>
-<node TEXT="partial rotations of (3+) in Z8" ID="ID_738040469" CREATED="1441851364781" MODIFIED="1441851747262">
-<node TEXT="1 4 . 2 5 . 3 6 ." ID="ID_1237776695" CREATED="1441851481173" MODIFIED="1441851542460"/>
-<node TEXT="0 1 2 3 4 5 6 7&#xa;1 4 7 2 5 8 3 6" ID="ID_1630087413" CREATED="1441851542980" MODIFIED="1441851623333">
-<node TEXT="1 . . 2 . . 3 ." ID="ID_178920728" CREATED="1441851542980" MODIFIED="1441851653403"/>
-<node TEXT="1 4 . 2 5 . 3 ." ID="ID_1472651953" CREATED="1441851542980" MODIFIED="1441851642866"/>
-</node>
-<node TEXT="3 params: Z_, duration, iterations" ID="ID_1158026140" CREATED="1441851686909" MODIFIED="1441851706090">
-<node TEXT="Z_ = meter duration, duration = note duration" ID="ID_411953042" CREATED="1441851715957" MODIFIED="1441851723532"/>
-</node>
-</node>
-<node TEXT="how hide|stretch|rotate energy peaks while live-coding" ID="ID_566060824" CREATED="1441851820690" MODIFIED="1441851838228">
-<node TEXT="rotate, group mult changes so that, e.g., what would have been straight up becomes diagonal" ID="ID_1379672189" CREATED="1441851838998" MODIFIED="1441851853920"/>
-</node>
-<node TEXT="mus cod &amp; .mm" ID="ID_519084170" CREATED="1441923245870" MODIFIED="1441923255027">
-<font BOLD="true"/>
-<node TEXT="elec vox random graph traverse" ID="ID_1154442939" CREATED="1441852930398" MODIFIED="1441852946768">
-<node ID="ID_885958717" CREATED="1441852947202" MODIFIED="1441852947202"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      speak-n-spell
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="attach musical moods to graph regions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1811642355" CREATED="1441852965989" MODIFIED="1441852972305"/>
-</node>
-<node TEXT="execute code block :tidal emacs" ID="ID_819949276" CREATED="1441855182019" MODIFIED="1441855190355">
-<node TEXT="needed the phrase to google" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1072857861" CREATED="1441855201719" MODIFIED="1441855206346"/>
-</node>
-<node TEXT="why can&apos;t I dollar these parens?" ID="ID_1251618624" CREATED="1441761070906" MODIFIED="1441761075038">
-<node TEXT="d3 $ (0.8 &lt;~) $ density 2 $ sound &quot;bleep:1*4&quot; |+| (p $ (+10) &lt;$&gt; &quot;0 36 18 31&quot;)" ID="ID_655768521" CREATED="1441761069898" MODIFIED="1441761069898"/>
-</node>
-</node>
-<node TEXT="things I could fix" ID="ID_1294652366" CREATED="1442303777587" MODIFIED="1442303779841">
-<node TEXT="eval multi-line string literal fails; can&apos;t recog \n. tell it to treat that as another char." ID="ID_1492619618" CREATED="1442303780512" MODIFIED="1442303800793"/>
-</node>
-<node TEXT="comma in [] for simult" ID="ID_1821293072" CREATED="1442304903339" MODIFIED="1442304917680"/>
-<node TEXT="? how are {} polyrhythms repd" ID="ID_232533220" CREATED="1442305240227" MODIFIED="1442305247898">
-<node TEXT="sound &quot;{bd ht ~, insect cp cp cp}&quot;" ID="ID_756036036" CREATED="1442305248472" MODIFIED="1442305248472">
-<node TEXT="renders this (except as a single line)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_976134691" CREATED="1442305248472" MODIFIED="1442305253535"/>
-<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))] 0 1/3)" ID="ID_1035894071" CREATED="1442305248472" MODIFIED="1442305248472"/>
-<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;ht&quot;}))] 1/3 2/3)" ID="ID_476463420" CREATED="1442305248472" MODIFIED="1442305248472"/>
-<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;insect&quot;}))] 0 1/3)" ID="ID_368202094" CREATED="1442305248472" MODIFIED="1442305248472"/>
-<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;cp&quot;}))] 1/3 2/3)" ID="ID_671360398" CREATED="1442305248472" MODIFIED="1442305248472"/>
-<node TEXT="(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;cp&quot;}))] 2/3 1)" ID="ID_1432765117" CREATED="1442305248472" MODIFIED="1442305248472"/>
-</node>
-<node TEXT="what&apos;s displayed there is not enough information to construct its behavior -- it omits that the length of the cycle the first two notes are in is shorter (3/4 as long)" ID="ID_790730497" CREATED="1442305257459" MODIFIED="1442305298570"/>
-</node>
-<node TEXT="* and /" ID="ID_1244304203" CREATED="1442371399142" MODIFIED="1442371408437"/>
-<node TEXT="the numberic pair argument to preplace seems to do nothing" ID="ID_788442259" CREATED="1442372963582" MODIFIED="1442372972829">
-<node TEXT="d1 $ sound $ preplace (1,4) &quot;x [~ x] x&quot; &quot;bd sn&quot;" ID="ID_1643279709" CREATED="1442372979262" MODIFIED="1442372979262"/>
-</node>
-<node TEXT="bugs" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1312081489" CREATED="1442371496726" MODIFIED="1442371499330">
-<node TEXT="d1 $ sound &quot;if*2 bd/2&quot;" ID="ID_1776452371" CREATED="1442371500357" MODIFIED="1442371500357">
-<node TEXT="plays &quot;if if bd ~ if if ~ ~&quot;" ID="ID_291526261" CREATED="1442371505830" MODIFIED="1442371521453"/>
-</node>
-</node>
-<node TEXT="u" ID="ID_1488768060" CREATED="1442552591982" MODIFIED="1442552592724">
 <node TEXT="overlay: concurrent" ID="ID_853201133" CREATED="1442552594078" MODIFIED="1442552599376">
 <node TEXT="Pattern -&gt; Pattern -&gt; Pattern" ID="ID_1631156414" CREATED="1442552601954" MODIFIED="1442552607491"/>
 </node>
-<node TEXT="there exists SuperDirt, written in SuperCollider" ID="ID_1792368323" CREATED="1443118085128" MODIFIED="1443118096056">
-<node TEXT="-- Alex on Lurk/Tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_77883230" CREATED="1443118135363" MODIFIED="1443118143895"/>
-<node TEXT="&quot;There&apos;s also Julian&apos;s dirt rewrite which is available as a quark package for the upcoming version of SuperCollider.&quot;" ID="ID_1356703427" CREATED="1443118130407" MODIFIED="1443118134844"/>
-</node>
-</node>
-<node TEXT="Tidal: tutorial on Git (unread)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_178476156" CREATED="1443378356243" MODIFIED="1443398307138">
-<font BOLD="false"/>
-<node TEXT="https://github.com/tidalcycles/Tidal/blob/master/tutorial/tutorial.md" ID="ID_1284051164" CREATED="1443378361813" MODIFIED="1443378361813" LINK="https://github.com/tidalcycles/Tidal/blob/master/tutorial/tutorial.md"/>
-</node>
-<node TEXT="finite duration" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1908261699" CREATED="1443378839197" MODIFIED="1443398306611">
+<node TEXT="mortal : finite duration" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1908261699" CREATED="1443378839197" MODIFIED="1445328628107">
 <font BOLD="false"/>
 <node TEXT="This will play the new pattern for 8 cycles and then degrade it&#xa;(increasingly filter out events) over 4 cycles until there&apos;s nothing&#xa;left&#xa;&#xa;  t1 (mortal 8 4) $ sound &quot;bd(5,8)&quot;" ID="ID_1366919809" CREATED="1443387148786" MODIFIED="1443387149649"/>
 </node>
-<node TEXT="Parser notes" ID="ID_497510138" CREATED="1443398301331" MODIFIED="1443398309722">
+<node TEXT="shift wave" ID="ID_1350356020" CREATED="1443950094709" MODIFIED="1443950096153">
+<node TEXT="((+0.2)&lt;$&gt;slow 8 sine1))" ID="ID_1311642605" CREATED="1443950096592" MODIFIED="1443950096592"/>
+</node>
+<node TEXT="spread" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1110764950" CREATED="1443950345284" MODIFIED="1443950346504">
+<node TEXT="example" LOCALIZED_STYLE_REF="default" ID="ID_1446112430" CREATED="1443950383908" MODIFIED="1444115137595">
+<node TEXT="d1 $ spread slow [2,4%3] $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_255202491" CREATED="1443950366732" MODIFIED="1443950367694"/>
+</node>
+<node TEXT="type" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_650636036" CREATED="1444115138125" MODIFIED="1444115151243">
+<node TEXT="spread :: (a -&gt; t -&gt; Pattern b) -&gt; [a] -&gt; t -&gt; Pattern b" ID="ID_1771193344" CREATED="1444114901325" MODIFIED="1444114902179"/>
+<node TEXT="the t will usually be a Pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1013140105" CREATED="1444115153842" MODIFIED="1444115170428"/>
+</node>
+</node>
+</node>
+<node TEXT="components" ID="ID_792550530" CREATED="1445328782903" MODIFIED="1445328785887">
 <font BOLD="true"/>
+<node TEXT="**Parse.hs" LOCALIZED_STYLE_REF="default" ID="ID_497510138" CREATED="1443398301331" MODIFIED="1445329402825">
 <node TEXT="imports" ID="ID_857054638" CREATED="1443398347421" MODIFIED="1443398348440">
 <node TEXT="Parsec" ID="ID_30100385" CREATED="1443398335955" MODIFIED="1443398343515">
 <node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec.html" ID="ID_201899254" CREATED="1443398334655" MODIFIED="1443398334655" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec.html"/>
@@ -18684,108 +18661,269 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+<node TEXT="in pReplicate, what builds the list &quot;extras&quot;?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1870750447" CREATED="1445042581423" MODIFIED="1445325808377"/>
 </node>
-<node TEXT="surely haskell emacs multi-line eval is already written" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1562334572" CREATED="1443419036354" MODIFIED="1443419094691">
-<node TEXT="dup to git" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_219155015" CREATED="1443419043471" MODIFIED="1443419045852"/>
+<node TEXT="compressor" ID="ID_487267122" CREATED="1445326764886" MODIFIED="1445326766269">
+<node TEXT="radium compressor: free!" ID="ID_1523032244" CREATED="1445326741926" MODIFIED="1445326747509">
+<node TEXT="https://packages.debian.org/sid/radium-compressor" ID="ID_1266922846" CREATED="1445326747977" MODIFIED="1445326747977" LINK="https://packages.debian.org/sid/radium-compressor"/>
 </node>
-<node TEXT="live coders|tidalers on &quot;slack&quot; (irc?)" ID="ID_949977542" CREATED="1443725324568" MODIFIED="1443725334523">
-<node TEXT="quoting alex" ID="ID_1177934844" CREATED="1443725338754" MODIFIED="1443725341563"/>
-<node ID="ID_732005527" CREATED="1443725335556" MODIFIED="1443725335556" LINK="https://livecode.slack.com/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <font size="12.8px" face="arial, sans-serif" color="rgb(34, 34, 34)"><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start" content="text/html; charset=utf-8" http-equiv="content-type"/>
-    <span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">There's a livecode slack channel that Mike Hodnick and I made:</span><br style="line-height: normal; letter-spacing: normal; word-spacing: 0px; font-variant: normal; background-color: rgb(255, 255, 255); text-transform: none; white-space: normal; text-indent: 0px" align="start"/><span style="line-height: normal; display: inline !important; font-weight: normal; letter-spacing: normal; float: none; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(34, 34, 34); white-space: normal; text-indent: 0px; font-family: arial, sans-serif">&#160;</span></font><a target="_blank" style="line-height: normal; font-weight: normal; letter-spacing: normal; font-variant: normal; word-spacing: 0px; text-align: start; background-color: rgb(255, 255, 255); font-style: normal; font-size: 12.8px; text-transform: none; color: rgb(17, 85, 204); white-space: normal; text-indent: 0px; font-family: arial, sans-serif" href="https://livecode.slack.com/" rel="noreferrer"><font size="12.8px" face="arial, sans-serif" color="rgb(17, 85, 204)">https://livecode.slack.com</font></a> 
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_219202507" CREATED="1443809159740" MODIFIED="1443809159740" LINK="http://livecode.slack.com/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><br http-equiv="content-type" content="text/html; charset=utf-8" style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/>
-    <span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">If you'd like to join</span><span class="Apple-converted-space">&#160;</span></font><a target="_blank" rel="noreferrer" style="font-size: 12.8px; word-spacing: 0px; color: rgb(17, 85, 204); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; font-family: arial, sans-serif; font-style: normal" href="http://livecode.slack.com/"><font size="12.8px" color="rgb(17, 85, 204)" face="arial, sans-serif">livecode.slack.com</font></a><font size="12.8px" color="rgb(34, 34, 34)" face="arial, sans-serif"><span class="Apple-converted-space">&#160;</span><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">and the tidal channels please</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/><span style="font-size: 12.8px; word-spacing: 0px; color: rgb(34, 34, 34); font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; text-align: start; float: none; background-color: rgb(255, 255, 255); letter-spacing: normal; font-weight: normal; text-transform: none; display: inline !important; font-family: arial, sans-serif; font-style: normal">email me (or Anny or Mike).</span><br style="word-spacing: 0px; font-variant: normal; line-height: normal; white-space: normal; text-indent: 0px; background-color: rgb(255, 255, 255); letter-spacing: normal; text-transform: none" align="start"/></font> 
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
+<node TEXT="subg for Dirt&apos;s" ID="ID_614809978" CREATED="1445326768318" MODIFIED="1445326780613">
+<node TEXT="https://github.com/tidalcycles/Tidal/wiki/Compression" ID="ID_1938107788" CREATED="1445326767661" MODIFIED="1445326767661" LINK="https://github.com/tidalcycles/Tidal/wiki/Compression"/>
 <node TEXT="compressor off" ID="ID_1181821930" CREATED="1443898168094" MODIFIED="1443898173098">
 <node TEXT="$ ./dirt --channels 4 --no-dirty-compressor" ID="ID_579319107" CREATED="1443898164642" MODIFIED="1443898166524"/>
 </node>
-<node TEXT="edit two distinct sets of code, toggle" ID="ID_127546861" CREATED="1443923999076" MODIFIED="1443924014842"/>
-<node TEXT="focus :: time -&gt; voice id -&gt; number" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1567536739" CREATED="1443924092212" MODIFIED="1443924276336">
-<node TEXT="/ do / write the list" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_731272557" CREATED="1443924277124" MODIFIED="1443924296945"/>
-<node TEXT="sidechain compressors" ID="ID_1463942344" CREATED="1443924204673" MODIFIED="1443924204673"/>
 </node>
-<node TEXT="shift wave" ID="ID_1350356020" CREATED="1443950094709" MODIFIED="1443950096153">
-<node TEXT="((+0.2)&lt;$&gt;slow 8 sine1))" ID="ID_1311642605" CREATED="1443950096592" MODIFIED="1443950096592"/>
 </node>
-<node TEXT="spread" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1110764950" CREATED="1443950345284" MODIFIED="1443950346504">
-<node TEXT="example" LOCALIZED_STYLE_REF="default" ID="ID_1446112430" CREATED="1443950383908" MODIFIED="1444115137595">
-<node TEXT="d1 $ spread slow [2,4%3] $ sound &quot;ho ho:2 ho:3 hc&quot;" ID="ID_255202491" CREATED="1443950366732" MODIFIED="1443950367694"/>
 </node>
-<node TEXT="type" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_650636036" CREATED="1444115138125" MODIFIED="1444115151243">
-<node TEXT="spread :: (a -&gt; t -&gt; Pattern b) -&gt; [a] -&gt; t -&gt; Pattern b" ID="ID_1771193344" CREATED="1444114901325" MODIFIED="1444114902179"/>
-<node TEXT="the t will usually be a Pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1013140105" CREATED="1444115153842" MODIFIED="1444115170428"/>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1133483424" CREATED="1445328249311" MODIFIED="1445328802063">
+<node TEXT="? maybe problems" ID="ID_127912478" CREATED="1445328916839" MODIFIED="1445328929292">
+<node TEXT="tidal\kubuntu" ID="ID_568409367" CREATED="1440702669722" MODIFIED="1445328916510">
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1780947299" CREATED="1441394399887" MODIFIED="1441394432516"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2015 08 26-ish
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+<node TEXT="? why uses ghc 7.6.3.10" ID="ID_1585851515" CREATED="1440702660083" MODIFIED="1441394404464">
+<node TEXT="when I already have 7.10._ somewhere" ID="ID_851973916" CREATED="1441394406386" MODIFIED="1441394416959"/>
+</node>
+<node TEXT="more problems too" ID="ID_1540271351" CREATED="1441394423619" MODIFIED="1441394435488"/>
 </node>
 <node TEXT="divide by zero?" ID="ID_1491856554" CREATED="1444119982009" MODIFIED="1444119984302">
 <node TEXT="d3 $ sound &quot;f&quot;  |+| (pit 0 $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;0 10 18&quot;)" ID="ID_238542800" CREATED="1444119984763" MODIFIED="1444120163002"/>
 <node TEXT="up = speed . ((step**) &lt;$&gt;) where step = 2**(1/31)" ID="ID_1781980203" CREATED="1444120202912" MODIFIED="1444120203831"/>
 </node>
-<node TEXT="a [b c]/2 = a b a c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1907136982" CREATED="1444241990523" MODIFIED="1444242002807"/>
-<node TEXT="ask" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1284819370" CREATED="1444605133217" MODIFIED="1444605134264">
-<node TEXT="Tidal.strategies v. .pattern" ID="ID_910333847" CREATED="1444605139952" MODIFIED="1444605150516"/>
 </node>
+<node TEXT="intzd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1178550910" CREATED="1445328404567" MODIFIED="1445329301506">
+<node TEXT="comma in [] for simult" ID="ID_1821293072" CREATED="1442304903339" MODIFIED="1442304917680"/>
+<node TEXT="a [b c]/2 = a b a c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1907136982" CREATED="1444241990523" MODIFIED="1444242002807"/>
 <node TEXT="compoase like-param patterns" ID="ID_1696902112" CREATED="1444672716612" MODIFIED="1444672779221">
 <node TEXT="|+|, |*|, |!|" ID="ID_256888381" CREATED="1444672780748" MODIFIED="1444672788963"/>
 <node TEXT="(+) &lt;$&gt; &quot;1 2&quot; &lt;*&gt; &quot;2 3&quot;" ID="ID_1484895415" CREATED="1444672756789" MODIFIED="1444672759549"/>
 <node TEXT="(+) &lt;$&gt; &quot;2 3&quot; &lt;*&gt; &quot;[5,10]&quot;" ID="ID_727558298" CREATED="1444672721236" MODIFIED="1444672724163"/>
 </node>
-<node TEXT="Tidal/compose gain patterns : emul &lt;*&gt; and preplace" ID="ID_225716389" CREATED="1444623999764" MODIFIED="1444624034473"/>
-<node TEXT="not params" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1703549268" CREATED="1444787875401" MODIFIED="1444787877964">
-<node TEXT="tried, no effect detected" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_680754936" CREATED="1444787882128" MODIFIED="1444787912896"/>
-<node TEXT="velocity" ID="ID_311069962" CREATED="1444787910241" MODIFIED="1444787912168"/>
 </node>
-<node TEXT="? what is OscShape or (instance) kriole" ID="ID_842548640" CREATED="1444787974825" MODIFIED="1444788005904">
-<node TEXT="it has a different type sig from pan, yet this is valid: d1 $ slow 2 $ up p1 |*| up &quot;[24]&quot; |*| sound &quot;[wobble,metal]&quot; |+| kriole &quot;1&quot;" ID="ID_1294080538" CREATED="1444788021994" MODIFIED="1444788048791"/>
+<node TEXT="music" LOCALIZED_STYLE_REF="default" ID="ID_1229557733" CREATED="1442128899191" MODIFIED="1445328239895">
+<node TEXT="spacing herein important" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1641672905" CREATED="1442129163938" MODIFIED="1442129167906">
+<node TEXT="and looks fucked up until in another editor" ID="ID_1073614644" CREATED="1442129168777" MODIFIED="1442129174364"/>
 </node>
-<node TEXT="tidal" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1156635387" CREATED="1444936881725" MODIFIED="1444945724450">
-<node TEXT="features, want" ID="ID_511147618" CREATED="1444937342985" MODIFIED="1444937360862">
-<node TEXT="keyboard for fast pitch data : tone set, root, melody" ID="ID_1619441734" CREATED="1444893644362" MODIFIED="1444936851180">
-<node TEXT="melody repd scale stepwise or chromatic" ID="ID_586066083" CREATED="1444936852162" MODIFIED="1444936874762"/>
+<node TEXT="2 * 34344" ID="ID_1260293413" CREATED="1442129026704" MODIFIED="1442129070508">
+<node TEXT="spacing important; the if:1 and if:2 should align, on separate lines, making everything else align too" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_282680829" CREATED="1442128930028" MODIFIED="1442129016593"/>
+<node TEXT="that&apos;s 2 groups of 34344" ID="ID_1357901632" CREATED="1442129057192" MODIFIED="1442129064085"/>
+<node TEXT="d1 $ slow 4 $ sound&#xa;  &quot;if:1 sn sn   cp sn ht sn   if sn sn   cp sn ht sn   cp sn ht sn                   if:2 sn sn   cp sn ht sn   cp sn sn   if sn ht sn   if sn ht sn&quot;" ID="ID_877522931" CREATED="1442128903154" MODIFIED="1442128995885"/>
 </node>
-<node TEXT="Tidal : give x-voice instructions at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_421404407" CREATED="1444871763229" MODIFIED="1444871779209">
-<node TEXT="e.g. pan, existence" ID="ID_899370166" CREATED="1444871784360" MODIFIED="1444872595795"/>
+<node TEXT="34344 34334" ID="ID_180244740" CREATED="1442129147396" MODIFIED="1442129155027">
+<node TEXT="d1 $ slow 4 $ sound &quot;if:1 sn sn cp sn ht sn if sn sn cp sn ht sn cp sn ht sn                           if   sn sn cp sn ht sn if sn sn if sn sn    cp sn ht sn&quot;" ID="ID_442505859" CREATED="1442129146079" MODIFIED="1442129146079"/>
 </node>
-<node TEXT="tidal: into-theme substitution" ID="ID_159832567" CREATED="1444871016555" MODIFIED="1444871029383">
-<node TEXT="dur data across patterns" ID="ID_1591134033" CREATED="1444871030276" MODIFIED="1444871047093"/>
-</node>
-<node TEXT="emacs ? multi-line single-command eval" ID="ID_1097973221" CREATED="1444269192445" MODIFIED="1444940123131">
-<node TEXT="MH thinks can do" ID="ID_49106029" CREATED="1444269211117" MODIFIED="1444269214433"/>
-<node TEXT="surely haskell emacs multi-line eval is already written" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1743136721" CREATED="1443419036354" MODIFIED="1444940128881"/>
-</node>
-</node>
-<node TEXT="music &amp; try" ID="ID_1140839402" CREATED="1444937345068" MODIFIED="1444939413926">
-<node TEXT="a sparse drum loop nearly as long as the speed-setter" ID="ID_555769593" CREATED="1444872130530" MODIFIED="1444872145531"/>
-<node TEXT="mus ! white noise" ID="ID_1678075711" CREATED="1444787218623" MODIFIED="1444787229721"/>
-</node>
-<node TEXT="coding &amp; try" ID="ID_1918021904" CREATED="1444939930108" MODIFIED="1444939931859">
-<node TEXT="mike hodnick asks about writing a variation of stut" LOCALIZED_STYLE_REF="default" ID="ID_658425886" CREATED="1443809631546" MODIFIED="1444939929450">
-<node TEXT="https://mail.google.com/mail/u/0/#inbox/15028cca7bb82e5f" ID="ID_629050819" CREATED="1443809646620" MODIFIED="1443809646620" LINK="https://mail.google.com/mail/u/0/#inbox/15028cca7bb82e5f"/>
+<node TEXT="triplets disco" ID="ID_1381382029" CREATED="1442131754690" MODIFIED="1442131757088">
+<node TEXT="d4 $ slow 8 $ sound &quot;if&quot;" ID="ID_377885435" CREATED="1442131763374" MODIFIED="1442131763374"/>
+<node TEXT="d1 $ slow 4 $ sound &quot;bd cp&quot;" ID="ID_1939540068" CREATED="1442131763374" MODIFIED="1442131763374"/>
+<node TEXT="d2 $ slow 2 $ sound &quot;lt ht ht&quot;" ID="ID_22817394" CREATED="1442131763376" MODIFIED="1442131763376"/>
+<node TEXT="d3 $ slow 0.5 $ sound &quot;ho ~ ho:1&quot; |+| gain &quot;0.7&quot;" ID="ID_363325500" CREATED="1442131763378" MODIFIED="1442131817079">
+<node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_203124009" CREATED="1442131832700" MODIFIED="1442131835179">
+<node TEXT="d3 $ slow 0.5 $ 0.05 &lt;~ sound &quot;ho ~ ho:1&quot; |+| gain &quot;0.7&quot;" ID="ID_188808918" CREATED="1442131763378" MODIFIED="1442131763378"/>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="SuperCollider" POSITION="right" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
+<node TEXT="theory" ID="ID_547853920" CREATED="1445328240871" MODIFIED="1445328241837">
+<node TEXT="partial rotations of (3+) in Z8" ID="ID_738040469" CREATED="1441851364781" MODIFIED="1441851747262">
+<node TEXT="1 4 . 2 5 . 3 6 ." ID="ID_1237776695" CREATED="1441851481173" MODIFIED="1441851542460"/>
+<node TEXT="0 1 2 3 4 5 6 7&#xa;1 4 7 2 5 8 3 6" ID="ID_1630087413" CREATED="1441851542980" MODIFIED="1441851623333">
+<node TEXT="1 . . 2 . . 3 ." ID="ID_178920728" CREATED="1441851542980" MODIFIED="1441851653403"/>
+<node TEXT="1 4 . 2 5 . 3 ." ID="ID_1472651953" CREATED="1441851542980" MODIFIED="1441851642866"/>
+</node>
+<node TEXT="3 params: Z_, duration, iterations" ID="ID_1158026140" CREATED="1441851686909" MODIFIED="1441851706090">
+<node TEXT="Z_ = meter duration, duration = note duration" ID="ID_411953042" CREATED="1441851715957" MODIFIED="1441851723532"/>
+</node>
+</node>
+</node>
+<node TEXT="ambit" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1034836544" CREATED="1441923781633" MODIFIED="1445329287681">
+<node TEXT="elec vox random graph traverse" ID="ID_1154442939" CREATED="1441852930398" MODIFIED="1441852946768">
+<node ID="ID_885958717" CREATED="1441852947202" MODIFIED="1441852947202"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      speak-n-spell
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="2015 10 20, mus rep, u" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1628550230" CREATED="1445329419400" MODIFIED="1445329433798">
+<node TEXT="notns for a mel" LOCALIZED_STYLE_REF="default" ID="ID_171568016" CREATED="1445322993772" MODIFIED="1445325488109">
+<font BOLD="true"/>
+<node TEXT="working haskell" LOCALIZED_STYLE_REF="default" ID="ID_718139902" CREATED="1445236964768" MODIFIED="1445237083371">
+<node TEXT="let p1 = &quot;~ 15    ~     [15 12 7 3]&quot;" ID="ID_1478060737" CREATED="1445236963619" MODIFIED="1445236963619"/>
+<node TEXT="let p2 = &quot;~ [~ 0] [3 7] [12 15]&quot;" ID="ID_666296038" CREATED="1445236963619" MODIFIED="1445236963619"/>
+<node TEXT="let p3 = append p1 p2 -- could be as easy as .." ID="ID_1595528862" CREATED="1445236963620" MODIFIED="1445236963620"/>
+<node TEXT="d5 $ fast 2 $. up p3 |+| sound &quot;jvbass&quot;" ID="ID_946848380" CREATED="1445236963622" MODIFIED="1445236963622"/>
+</node>
+<node TEXT="sparse rep 1" LOCALIZED_STYLE_REF="default" ID="ID_537801633" CREATED="1445237095912" MODIFIED="1445322593535">
+<node TEXT="&quot;the 3 runs&quot;" ID="ID_558571872" CREATED="1445237643680" MODIFIED="1445238572966">
+<node TEXT="style 1" ID="ID_356322247" CREATED="1445238597625" MODIFIED="1445238613115">
+<node TEXT="t.1 s.4" ID="ID_1044916675" CREATED="1445236937266" MODIFIED="1445238333969">
+<node TEXT="just one note" ID="ID_727553715" CREATED="1445238574722" MODIFIED="1445238577551"/>
+</node>
+<node TEXT="t.3 s.+4.rd.4(d_)" ID="ID_1947813290" CREATED="1445237384656" MODIFIED="1445238378624">
+<node TEXT="I put the d_ in parens because don&apos;t need to write it." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_134644809" CREATED="1445238209944" MODIFIED="1445238220011"/>
+<node ID="ID_1904449412" CREATED="1445237627661" MODIFIED="1445237627661"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      run down 4, add 4 to those (so they're now 4 3 2 1), do the scale function to them, that starts at time 3 (and ends on time 4, because the d value is unspecified, and defaults to 1/n where n = beat len (8 here)).
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="t.5.1/2 s.ru.5 d.2.1/2" ID="ID_1728267408" CREATED="1445237633744" MODIFIED="1445238404894"/>
+<node TEXT="where s = scale [0,3,7]" ID="ID_1333029525" CREATED="1445238684945" MODIFIED="1445238719727">
+<node TEXT="where s x = sc(ale) [0,3,7] x" LOCALIZED_STYLE_REF="styles.topic" ID="ID_795061871" CREATED="1445238684945" MODIFIED="1445238723658"/>
+</node>
+</node>
+<node TEXT="style 2" ID="ID_825504410" CREATED="1445238595777" MODIFIED="1445238617439">
+<node TEXT="t 1 | s 4" ID="ID_328329346" CREATED="1445237633744" MODIFIED="1445238678560"/>
+<node TEXT="t 3 | s $ +4 $ rd 4" ID="ID_483496521" CREATED="1445237633744" MODIFIED="1445238655811"/>
+<node TEXT="t 5 1/2 | s $ ru 5 | d 2 1/2" ID="ID_861322020" CREATED="1445237633744" MODIFIED="1445238527119"/>
+<node TEXT="where s = scale [0,3,7]" ID="ID_1907884742" CREATED="1445238684945" MODIFIED="1445238719727"/>
+</node>
+</node>
+<node TEXT="problems" ID="ID_329816411" CREATED="1445237660048" MODIFIED="1445237661103">
+<node TEXT="how rep subdivided time?" ID="ID_537097830" CREATED="1445237664954" MODIFIED="1445237668646">
+<node TEXT="t5.5: not pretty" LOCALIZED_STYLE_REF="default" ID="ID_696463947" CREATED="1445237545896" MODIFIED="1445237662933">
+<node TEXT="better 11%2 ?" ID="ID_1331326758" CREATED="1445237556521" MODIFIED="1445237581006"/>
+</node>
+</node>
+</node>
+<node TEXT="operator precedence" ID="ID_29787063" CREATED="1445237945640" MODIFIED="1445237949335">
+<node TEXT="immedj after t, numbers read a/b.c/d as (a + c/d)/b" ID="ID_1922597857" CREATED="1445237949936" MODIFIED="1445237990887"/>
+<node TEXT="something starting at 0 time needs no t" ID="ID_1288946663" CREATED="1445238285425" MODIFIED="1445238292031"/>
+</node>
+<node TEXT="vocab" ID="ID_1658541876" CREATED="1445236998352" MODIFIED="1445237107698">
+<node TEXT="t: time" LOCALIZED_STYLE_REF="styles.topic" ID="ID_724268646" CREATED="1445236937266" MODIFIED="1445237112279">
+<node TEXT="=" ID="ID_150850384" CREATED="1445237017975" MODIFIED="1445237018622">
+<node TEXT="t= start time, n in [0,max observed)" ID="ID_1596561324" CREATED="1445237005521" MODIFIED="1445237011599"/>
+</node>
+<node TEXT="variations" ID="ID_1743746951" CREATED="1445237013008" MODIFIED="1445237016263">
+<node TEXT="or use a division symbol" ID="ID_1638350728" CREATED="1445236937267" MODIFIED="1445236937267"/>
+<node TEXT="can indicate max time empty with, say, t8~" ID="ID_818045337" CREATED="1445236937267" MODIFIED="1445236937267">
+<node TEXT="would indicate an 8-count;" ID="ID_680231606" CREATED="1445236937267" MODIFIED="1445236937267"/>
+</node>
+</node>
+</node>
+<node TEXT="p: pitch" ID="ID_587668984" CREATED="1445237119144" MODIFIED="1445237123224"/>
+<node TEXT="$." LOCALIZED_STYLE_REF="styles.topic" ID="ID_1472596042" CREATED="1445236937267" MODIFIED="1445237111549">
+<node ID="ID_1546759644" CREATED="1445237034627" MODIFIED="1445237034627"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      so that | can bind later, separate params
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="rd = run down; rd4 = 0 -1 -2 -3" ID="ID_1301806439" CREATED="1445237174938" MODIFIED="1445237191034"/>
+<node TEXT="d = duration" ID="ID_1628647490" CREATED="1445237316776" MODIFIED="1445237318590">
+<node TEXT="d_ = need not specify d, because by default the duration of the run is 1/n where n is the number of beats, in this case 8" ID="ID_1724456990" CREATED="1445237304711" MODIFIED="1445237348237"/>
+</node>
+</node>
+</node>
+<node TEXT="sparse rep 2" ID="ID_1823998528" CREATED="1445322584653" MODIFIED="1445322591282">
+<node TEXT="d8 :&#xa;  t1 s4 ,, t3 s[4..1] ,, t5.1/2 s[4..0] d2.1/2" ID="ID_566517481" CREATED="1445322606428" MODIFIED="1445322860794"/>
+</node>
+</node>
+<node TEXT="meter notns" LOCALIZED_STYLE_REF="default" ID="ID_1183492388" CREATED="1445323028804" MODIFIED="1445325488114">
+<font BOLD="true"/>
+<node TEXT="altvs" LOCALIZED_STYLE_REF="default" ID="ID_1189455179" CREATED="1445323394684" MODIFIED="1445323443929">
+<node TEXT="num" ID="ID_169196201" CREATED="1445323226860" MODIFIED="1445323394313">
+<node TEXT="= specify only number of top-level intervals" ID="ID_1198469013" CREATED="1445323046204" MODIFIED="1445323240962"/>
+<node TEXT="works if top-level equal" ID="ID_312315629" CREATED="1445323235229" MODIFIED="1445323236842"/>
+</node>
+<node TEXT="dur seq" ID="ID_1221644950" CREATED="1445323244748" MODIFIED="1445323355083">
+<node TEXT="the total duration and the number of parts inferred from the seq" ID="ID_335738157" CREATED="1445323356788" MODIFIED="1445323372114"/>
+<node TEXT="where the durs are numbers" ID="ID_611704358" CREATED="1445323315029" MODIFIED="1445323327616"/>
+</node>
+</node>
+<node TEXT="problems" ID="ID_665384546" CREATED="1445323445572" MODIFIED="1445323446683">
+<node TEXT="= problems that a meter notation answers" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1897880131" CREATED="1445323448340" MODIFIED="1445323461009"/>
+<node TEXT="how does one represent a position in the meter?" ID="ID_1577486894" CREATED="1445323455604" MODIFIED="1445323480285"/>
+<node TEXT="how does one map a melody onto a meter?" ID="ID_228887814" CREATED="1445323481108" MODIFIED="1445323487258">
+<node TEXT="two ? ways" ID="ID_1726346406" CREATED="1445323625796" MODIFIED="1445323630539"/>
+<node TEXT="verbose, early" LOCALIZED_STYLE_REF="styles.topic" ID="ID_259639346" CREATED="1445323619813" MODIFIED="1445323623394">
+<node TEXT="for instance there could be, among 8 quarter-notes, one of them that is fat, say twice as big. in that case a melody consisting of a sequence of the meter&apos;s quarter-notes would play one note per quarter-note of the meter, meaning one note was fat; by contrast a melody written in terms of the absolute unit of time that is the duration of the non-fat quarter notes would spend two of its notes in the meter&apos;s one fat interval." LOCALIZED_STYLE_REF="default" ID="ID_1935787836" CREATED="1445323501020" MODIFIED="1445323624110"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Events should be parameter dictionaries" LOCALIZED_STYLE_REF="default" ID="ID_1194755932" CREATED="1445233560806" MODIFIED="1445325486523"/>
+<node TEXT="zip meter measurements, names into the Events in an [Event]" LOCALIZED_STYLE_REF="default" ID="ID_554790204" CREATED="1445233264014" MODIFIED="1445325486527">
+<node TEXT="so that // can fmap ops filtering on meter conditions" ID="ID_1585778045" CREATED="1445233292805" MODIFIED="1445233340461"/>
+</node>
+<node TEXT="mel, sil, mel, mel*2" ID="ID_1739350154" CREATED="1445233210150" MODIFIED="1445329334182">
+<node TEXT="sil(ence)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1010154312" CREATED="1445329334672" MODIFIED="1445329338046"/>
+</node>
+<node TEXT="apply _ to what predicate admits" ID="ID_661320236" CREATED="1445233147190" MODIFIED="1445233179279">
+<node TEXT="is lens?" ID="ID_509484981" CREATED="1445233182013" MODIFIED="1445233184188"/>
+</node>
+<node TEXT="composer drag|sense aggregate variables" ID="ID_449523732" CREATED="1445310616912" MODIFIED="1445310637709">
+<node TEXT="define a point in time by its acceleration, change of direction" ID="ID_1072963610" CREATED="1445310638830" MODIFIED="1445310652158"/>
+</node>
+<node TEXT="like patterns but displayable as instructions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_518308058" CREATED="1445311215664" MODIFIED="1445329346760">
+<node TEXT="LabPattern or Lab(_ -&gt; Pattern) = Pattern with display information" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_601843596" CREATED="1445311149951" MODIFIED="1445311211146"/>
+<node TEXT="data LP a = LabPat {show :: String, thePattern :: Pattern a}&#xa;  | LabFunc {show, theFunction :: whatever slow is}" ID="ID_1818898842" CREATED="1445311223055" MODIFIED="1445311341482"/>
+</node>
+<node TEXT="make a list of lists where each level-2 elt is the same duration, then concat, then pass to Tidal&apos;s parser" LOCALIZED_STYLE_REF="default" ID="ID_1981520356" CREATED="1445226748643" MODIFIED="1445325577353"/>
+<node TEXT="want" ID="ID_687442348" CREATED="1445205460539" MODIFIED="1445205533666">
+<node TEXT="duration as part of a pattern" ID="ID_353519917" CREATED="1445205464580" MODIFIED="1445205475502"/>
+<node TEXT="sub pattern into pattern" ID="ID_1701985985" CREATED="1445205503476" MODIFIED="1445205508322"/>
+<node TEXT="Pattern (String,String)" ID="ID_858144853" CREATED="1445205479931" MODIFIED="1445205497782"/>
+</node>
+<node TEXT="argue durations in patterns" LOCALIZED_STYLE_REF="default" ID="ID_852684958" CREATED="1445217767269" MODIFIED="1445325898945">
+<node TEXT="song-global vars  &gt;= {durs, patterns, voices, ..}" LOCALIZED_STYLE_REF="default" ID="ID_1480387865" CREATED="1445217682860" MODIFIED="1445217774166"/>
+<node TEXT="p ++ fast 2 $. p2 ++ const &quot;~&quot; &lt;$&gt; p2" ID="ID_1716114038" CREATED="1445217789637" MODIFIED="1445217907078">
+<node TEXT="++ last" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1563377539" CREATED="1445217913317" MODIFIED="1445217929496"/>
+</node>
+</node>
+<node TEXT="dur, defined in terms of cps : can&apos;t in TidalCustom.hs, can in open code" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1845766418" CREATED="1445204222947" MODIFIED="1445325816161">
+<node TEXT="I think it is because cps is defined nowhere in the Tidal libraries, but rather at &quot;interactive&quot;" ID="ID_1572647218" CREATED="1445204249203" MODIFIED="1445204304010"/>
+<node TEXT="tidal&gt; :i cps&#xa;cps :: Double -&gt; IO () -- Defined at &lt;interactive&gt;:5:2&#xa;tidal&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1093660769" CREATED="1445204372067" MODIFIED="1445204382219"/>
+</node>
+<node TEXT="zip 0 into a run" ID="ID_1934921117" CREATED="1445228282387" MODIFIED="1445325774939">
+<node TEXT="serial : one tone (many voi) ,, many &amp; inharm ,, one ,, harm" ID="ID_422506471" CREATED="1445227742507" MODIFIED="1445227797602"/>
+</node>
+<node TEXT="fgl + tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1181178594" CREATED="1444958940878" MODIFIED="1444958943544">
+<node TEXT="attach musical moods to graph regions" LOCALIZED_STYLE_REF="default" ID="ID_1811642355" CREATED="1441852965989" MODIFIED="1445329380602"/>
+</node>
+</node>
+</node>
+<node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">
 <font BOLD="false"/>
 </node>
@@ -22273,7 +22411,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
-<node TEXT="infreq" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1442689191486">
+<node TEXT="infreq (more)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_929386143" CREATED="1398301034011" MODIFIED="1445329626563">
 <node TEXT="regex" ID="ID_49270633" CREATED="1426285962790" MODIFIED="1426285965067">
 <node TEXT="JEdit regex ref, possibly more general" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_51809091" CREATED="1409161633930" MODIFIED="1426286074274">
 <node TEXT="http://www.jedit.org/users-guide/regexps.html" ID="ID_1775372993" CREATED="1409161637739" MODIFIED="1409161637739" LINK="http://www.jedit.org/users-guide/regexps.html"/>
@@ -40510,6 +40648,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <font NAME="Liberation Sans" SIZE="12" BOLD="true"/>
 </node>
 <node TEXT="http://www.latex-community.org/forum/viewtopic.php?f=24&amp;t=12863" ID="ID_923492543" CREATED="1303482565124" MODIFIED="1303482565124" LINK="http://www.latex-community.org/forum/viewtopic.php?f=24&amp;t=12863"/>
+</node>
 </node>
 </node>
 </node>

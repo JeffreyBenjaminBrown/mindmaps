@@ -1413,6 +1413,8 @@
 </node>
 <node TEXT="when make melody delicate" ID="ID_353244064" CREATED="1428982005204" MODIFIED="1428982010002"/>
 <node TEXT="mix x-song" ID="ID_1785416334" CREATED="1444871628378" MODIFIED="1444871630997"/>
+<node TEXT="pan , isolate a weirdo" ID="ID_1357000926" CREATED="1444954556371" MODIFIED="1444954561737"/>
+<node TEXT="when at root slightly out of tune, to reinforce root" ID="ID_137252878" CREATED="1444954643939" MODIFIED="1444954658978"/>
 </node>
 <node TEXT="rhyme" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>
@@ -1922,6 +1924,9 @@
 <node TEXT="e.g. timing opportunities, harmony opportunities, external to music" ID="ID_1320529426" CREATED="1440539521418" MODIFIED="1440539531381"/>
 </node>
 <node TEXT="? pay for the film to see the people who buy the film" ID="ID_847291582" CREATED="1440135396030" MODIFIED="1440135413452"/>
+<node TEXT="rhythm,commit, use something that is more than enough" ID="ID_1626374292" CREATED="1444954826507" MODIFIED="1444954880944">
+<node TEXT="marijuana" ID="ID_48905055" CREATED="1444954881563" MODIFIED="1444954883219"/>
+</node>
 </node>
 <node TEXT="art motiv|express" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_836147645" CREATED="1444027852456" MODIFIED="1444157952408">
 <node TEXT="help someone make their case" LOCALIZED_STYLE_REF="default" ID="ID_1340790542" CREATED="1438657056653" MODIFIED="1444157913588">

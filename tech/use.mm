@@ -5872,7 +5872,8 @@
 </node>
 </node>
 </node>
-<node TEXT="recent installs" POSITION="right" ID="ID_1352924132" CREATED="1427834542168" MODIFIED="1427834555468">
+<node TEXT="recent installs" POSITION="right" ID="ID_1352924132" CREATED="1427834542168" MODIFIED="1444948160410">
+<font BOLD="true"/>
 <node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1435348936" CREATED="1427908544747" MODIFIED="1427908546724"/>
 <node TEXT="2015 03 31" ID="ID_1461111153" CREATED="1430110317591" MODIFIED="1430110323055">
 <node TEXT="cabal install parsec-extra" ID="ID_1295883942" CREATED="1427834558304" MODIFIED="1427834565158">
@@ -6121,7 +6122,7 @@
 <node TEXT="2015 08 27: tidal, lots of things" ID="ID_1011655174" CREATED="1440704854250" MODIFIED="1440704947889">
 <font BOLD="true"/>
 <node TEXT="I ran the install script" ID="ID_606993710" CREATED="1440704867770" MODIFIED="1440704873235"/>
-<node TEXT="https://raw.githubusercontent.com/tidalcycles/Tidal/master/doc/install-linux.sh" ID="ID_232954171" CREATED="1440704932512" MODIFIED="1442945461991" LINK="https://raw.githubusercontent.com/tidalcycles/Tidal/master/doc/install-linux.sh"/>
+<node TEXT="https://github.com/tidalcycles/Tidal/blob/master/doc/install-linux.sh" ID="ID_97746014" CREATED="1444948210582" MODIFIED="1444948210582" LINK="https://github.com/tidalcycles/Tidal/blob/master/doc/install-linux.sh"/>
 <node TEXT="among other things, it installed GHCI 7.6.3, even though stack ghci from dwt/git_hask/ gives me 7.10.2" ID="ID_527964420" CREATED="1440704949731" MODIFIED="1440704984507"/>
 </node>
 <node TEXT="2015 09 19: installed SuperCollider" ID="ID_1002601866" CREATED="1442685899025" MODIFIED="1442696752566">
@@ -6183,6 +6184,9 @@
 </node>
 </node>
 <node TEXT="2015 10 14: XMind" ID="ID_545277539" CREATED="1444865760570" MODIFIED="1444865771408"/>
+<node TEXT="2015 10 20: stack upgrade" ID="ID_867761083" CREATED="1445315242335" MODIFIED="1445315248236">
+<node TEXT="because &quot;stack upgrade&quot; was not automatically retrying, and I read that lately it does" ID="ID_697631053" CREATED="1445315249295" MODIFIED="1445315267831"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">

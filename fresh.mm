@@ -4565,6 +4565,10 @@
 <node TEXT="&gt;&gt; mus types" ID="ID_1328564875" CREATED="1444808886251" MODIFIED="1444810442468"/>
 <node TEXT="tidal : define|locate pivot notes in scale, can hold across chord change" ID="ID_1309285720" CREATED="1444810400241" MODIFIED="1444810417853"/>
 <node TEXT="tidal : chord graph" ID="ID_1591485271" CREATED="1444810420070" MODIFIED="1444810436487"/>
+<node TEXT="Tidal &amp; chord rhythms" ID="ID_1067223571" CREATED="1445119026367" MODIFIED="1445120118730">
+<node TEXT="t0 b[0 3] . [t10 t10] [. t3] . b[0 0] ." ID="ID_1812043449" CREATED="1445119033559" MODIFIED="1445119222108"/>
+<node TEXT="where t0 = 0min, t10 = 10 maj&#xa;      t = treble, b = bass&#xa;      . = rest" ID="ID_1659594260" CREATED="1445119176010" MODIFIED="1445119208473"/>
+</node>
 </node>
 </node>
 <node TEXT="bhv ? more|outer" ID="ID_1915240363" CREATED="1444678742224" MODIFIED="1444678807602">
@@ -5092,6 +5096,122 @@
 <node TEXT="conqueror (made)of hat-wearing" ID="ID_32076433" CREATED="1444870925729" MODIFIED="1444870931804"/>
 </node>
 </node>
+<node TEXT="15" ID="ID_416033149" CREATED="1444954987699" MODIFIED="1444954988249">
+<node TEXT="external -computer -crosseye" ID="ID_738894224" CREATED="1444954989211" MODIFIED="1444955012694"/>
+<node TEXT="Tidal easy $ just drawing pretty pictures in the code causes it to draw pretty sounds" ID="ID_649161629" CREATED="1444955055676" MODIFIED="1444955072505"/>
+</node>
+<node TEXT="16" ID="ID_778645870" CREATED="1445047061618" MODIFIED="1445047062096">
+<node TEXT="danger of overwait recontact" ID="ID_1405761847" CREATED="1445046986931" MODIFIED="1445046998577">
+<node TEXT="rival?" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1272506083" CREATED="1445047049963" MODIFIED="1445047054199">
+<node TEXT="that is, this might not be the primary branch of that title" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1183236505" CREATED="1445047070491" MODIFIED="1445047091903"/>
+</node>
+<node TEXT="dupd anon" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1606570398" CREATED="1445047028259" MODIFIED="1445047031086"/>
+</node>
+<node TEXT="waiting judgment hyp, functionally" ID="ID_86697441" CREATED="1445051807038" MODIFIED="1445051849097">
+<node TEXT="what does it accomplish to cause people to believe that, after death, god will answer for things left unanswered in life?" ID="ID_623263629" CREATED="1445051819414" MODIFIED="1445051839111"/>
+</node>
+<node TEXT="&quot;How are you?&quot; &quot;Still working hard.&quot; These." ID="ID_1249432999" CREATED="1445047152131" MODIFIED="1445047330108">
+<node TEXT="responses" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1354700472" CREATED="1445047267595" MODIFIED="1445047269557"/>
+<node ID="ID_153844247" CREATED="1445047256535" MODIFIED="1445047256535"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &quot;How often do you [have fun, be social]?&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="&quot;Would you like to talk about [work, fun, family] or something outside that [system, cycle]?&quot;" ID="ID_199318324" CREATED="1445047284411" MODIFIED="1445047315584"/>
+</node>
+<node TEXT="does everything consist?" ID="ID_1183127690" CREATED="1445046797619" MODIFIED="1445046802817">
+<node TEXT="is to be validly traversible from the concept to its elements, rather than say to another [bundle]" ID="ID_892499487" CREATED="1445046829237" MODIFIED="1445046854825"/>
+</node>
+</node>
+<node TEXT="17" ID="ID_675027738" CREATED="1445151990196" MODIFIED="1445151991412">
+<node TEXT="sacrificing lang, viewing other cultures on youtube, can know all" ID="ID_771568957" CREATED="1445151959422" MODIFIED="1445151972109"/>
+<node TEXT="plants thinking" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1860006887" CREATED="1445192737153" MODIFIED="1445192745798">
+<node TEXT="diy eeg" ID="ID_1874621696" CREATED="1445192730206" MODIFIED="1445192732368">
+<node TEXT="eeg from &quot;open eeg hardware standard&quot;: eeg analog asm, by olimex.com" ID="ID_1596390997" CREATED="1444967298668" MODIFIED="1444967338086"/>
+</node>
+<node TEXT="I didn&apos;t see the whole episode" ID="ID_1756543091" CREATED="1444967458659" MODIFIED="1444967464815">
+<node TEXT="pReplicate ? pRand" ID="ID_1067892631" CREATED="1445034952307" MODIFIED="1445034952307"/>
+</node>
+</node>
+<node TEXT="transc oblig" ID="ID_20937763" CREATED="1445192773603" MODIFIED="1445192780366">
+<node TEXT="cooper: &quot;I don&apos;t see why &quot;I have lots of goodies; I am a winner; I have an obligation to use that for good&quot; is a negative frame.&quot;" ID="ID_1742892233" CREATED="1445035861045" MODIFIED="1445035876459"/>
+<node TEXT="I responded, &quot;there is a happier way; think about the other until giving feels better than keeping&quot;" ID="ID_181002903" CREATED="1445192789363" MODIFIED="1445192815050"/>
+</node>
+<node TEXT="sanctity -power" ID="ID_17030373" CREATED="1445045798506" MODIFIED="1445045803439">
+<node TEXT="Anybody&apos;s mind|any rel* has the right to be, say, an econ-free zone." ID="ID_1136765893" CREATED="1445045791506" MODIFIED="1445045844104">
+<node TEXT="*x-ag" ID="ID_247999154" CREATED="1445045819530" MODIFIED="1445045849801"/>
+</node>
+<node ID="ID_1230471426" CREATED="1445192888557" MODIFIED="1445192888557"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      escapism&#160;&#160;. privilege
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="everyone . skeptic" ID="ID_643515770" CREATED="1445046037170" MODIFIED="1445046040992">
+<node TEXT="[group] will turn out to have been perfect skeptics" ID="ID_122167326" CREATED="1445046017722" MODIFIED="1445192921637">
+<node TEXT="rawls veil" ID="ID_1103987102" CREATED="1445046053250" MODIFIED="1445046056241"/>
+</node>
+</node>
+<node TEXT="record ! function" ID="ID_61462133" CREATED="1445192944384" MODIFIED="1445192965858">
+<node TEXT="memorable ?(only if)? useful way to feel" ID="ID_1292487144" CREATED="1445046371882" MODIFIED="1445046386713"/>
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_332910724" CREATED="1445193007440" MODIFIED="1445193012854">
+<node TEXT="ultimate disconnect, all of one&apos;s energy channeled into the other, like* the big bang" ID="ID_1989708689" CREATED="1445046718331" MODIFIED="1445192979071">
+<node TEXT="afterlife as a different life form, bearing conseq, info rad diff yet somehow consistent" ID="ID_754809091" CREATED="1445046745202" MODIFIED="1445046806318"/>
+<node TEXT="*if something preceded the big bang" ID="ID_1471418325" CREATED="1445192982483" MODIFIED="1445192989198"/>
+</node>
+<node TEXT="&quot;Whatever you decide the world is, we will have been here always.&quot;" ID="ID_1281960507" CREATED="1445128639499" MODIFIED="1445128650810"/>
+</node>
+<node TEXT="calm -expect" ID="ID_77786128" CREATED="1445193085007" MODIFIED="1445193087127">
+<node TEXT="to calm when presenting, imagine $ this is it|no future &lt;- naked aud" ID="ID_775853370" CREATED="1445117295877" MODIFIED="1445193061612"/>
+</node>
+<node TEXT="&quot;there must be some fun memories there&quot;" ID="ID_1315587855" CREATED="1445116502668" MODIFIED="1445116508212">
+<node TEXT="dr katz (comedy tv)" ID="ID_1192569473" CREATED="1445116508548" MODIFIED="1445116512954"/>
+</node>
+<node TEXT="open-source, history" ID="ID_887561988" CREATED="1445128245083" MODIFIED="1445128249146">
+<node TEXT="what art|literature has been open-sourced?" ID="ID_321936241" CREATED="1445128202875" MODIFIED="1445128213962"/>
+<node TEXT="what makers shared their methods freely?" ID="ID_598906428" CREATED="1445128214626" MODIFIED="1445128222530"/>
+</node>
+<node TEXT="who  $$  know v. teach  $  observe v. particip" ID="ID_1345394047" CREATED="1445129267867" MODIFIED="1445193364383"/>
+<node TEXT="undo arrogance" LOCALIZED_STYLE_REF="default" ID="ID_1705447399" CREATED="1445134247072" MODIFIED="1445193408036">
+<node TEXT="is primary, dupd elsewhere" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1499531252" CREATED="1445134247072" MODIFIED="1445193434544"/>
+</node>
+<node TEXT="exclu . caus" ID="ID_1642083576" CREATED="1445193466660" MODIFIED="1445193474138">
+<node TEXT="groups having real effects in-group on each other" ID="ID_537275725" CREATED="1445135225031" MODIFIED="1445135232113"/>
+</node>
+<node TEXT="circa 3:00: morning sound?" ID="ID_1995331526" CREATED="1445135486950" MODIFIED="1445135491294">
+<node TEXT="https://www.youtube.com/watch?v=j_sxv1Dxoas" ID="ID_567828426" CREATED="1445135501109" MODIFIED="1445135501109" LINK="https://www.youtube.com/watch?v=j_sxv1Dxoas"/>
+<node TEXT="maybe godel-imposs to record usefulj" ID="ID_440911587" CREATED="1445135492016" MODIFIED="1445193517209"/>
+</node>
+<node TEXT="rather than learn english, sancti-pedest own _" ID="ID_1156305795" CREATED="1445135991727" MODIFIED="1445136004916">
+<node TEXT="for diversity, (local)cooperation" ID="ID_1127202890" CREATED="1445136010520" MODIFIED="1445136026359"/>
+</node>
+</node>
+<node TEXT="18" ID="ID_1920036242" CREATED="1445232074005" MODIFIED="1445232074663">
+<node TEXT="marij ? colder always, or only in summer" ID="ID_528727558" CREATED="1445232075142" MODIFIED="1445232084428"/>
+<node TEXT="if you can&apos;t find a definition to be, but can find one to dance, is valid" ID="ID_1207287617" CREATED="1445232120358" MODIFIED="1445232130006"/>
+</node>
+<node TEXT="20" ID="ID_1241789950" CREATED="1445323833189" MODIFIED="1445323834062">
+<node TEXT="&quot;How does that make you feel?&quot;: alert someone to that they don&apos;t like something about themselves, without saying that to them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_942299748" CREATED="1445323796540" MODIFIED="1445323824304"/>
+</node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">
 <node TEXT="seps" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_628470965" CREATED="1444683976846" MODIFIED="1444683980267">
@@ -5336,6 +5456,21 @@
 <node TEXT="dot" POSITION="right" ID="ID_116463662" CREATED="1444711023758" MODIFIED="1444711024485"/>
 <node TEXT="semantic web" POSITION="right" ID="ID_1629050878" CREATED="1444711357022" MODIFIED="1444711358738">
 <node TEXT="wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1444711453556"/>
+<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </map>
