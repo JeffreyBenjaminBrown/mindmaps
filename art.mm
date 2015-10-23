@@ -1415,6 +1415,19 @@
 <node TEXT="mix x-song" ID="ID_1785416334" CREATED="1444871628378" MODIFIED="1444871630997"/>
 <node TEXT="pan , isolate a weirdo" ID="ID_1357000926" CREATED="1444954556371" MODIFIED="1444954561737"/>
 <node TEXT="when at root slightly out of tune, to reinforce root" ID="ID_137252878" CREATED="1444954643939" MODIFIED="1444954658978"/>
+<node TEXT="music fractals" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1477581304" CREATED="1445459877957" MODIFIED="1445541842090"/>
+<node TEXT="-&gt; interps" ID="ID_1566383131" CREATED="1445541866794" MODIFIED="1445541876955">
+<font BOLD="true"/>
+<node TEXT="&quot;I believe it is related to the distinction between&quot; ~ reverb" ID="ID_1827944244" CREATED="1445459455667" MODIFIED="1445541849704">
+<node TEXT="coincidence, observed, beachhouse" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1257957118" CREATED="1445459475276" MODIFIED="1445541857926"/>
+</node>
+</node>
+<node TEXT="a high voice of a certain timbre freer to be inharmonic" ID="ID_112167719" CREATED="1445459081746" MODIFIED="1445541944816">
+<node TEXT="trusted to be that timbre among the high voices" ID="ID_1681030817" CREATED="1445459094010" MODIFIED="1445459101225"/>
+</node>
+<node TEXT="31et minimal demo" ID="ID_1660999244" CREATED="1445383115185" MODIFIED="1445383120760">
+<node TEXT="(0 14) (3 15) (6 16)" ID="ID_1400080176" CREATED="1445383159595" MODIFIED="1445383330467"/>
+</node>
 </node>
 <node TEXT="rhyme" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>
@@ -1715,6 +1728,12 @@
 <node TEXT="2015 09 03" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_585061595" CREATED="1441401528107" MODIFIED="1441401532206"/>
 <node TEXT="even not showing outward signs of it, someone might dislike talking about something they are embarrassed about and avoid talking at all because of it" ID="ID_1630848169" CREATED="1438984687183" MODIFIED="1438984710341"/>
 <node TEXT="Can I ask someone else to repair my relationship with _? to ask them whether it is damaged?" ID="ID_780604883" CREATED="1426819019551" MODIFIED="1441389693241"/>
+<node TEXT="get on top of a controversy?" ID="ID_1075612282" CREATED="1445459297556" MODIFIED="1445479733544">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_379565666" STARTINCLINATION="439;0;" ENDINCLINATION="439;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="&quot;Alex, good news! The parser can be simpler and more powerful! At least that&apos;s what the guys at the meetup promised me.&quot;" LOCALIZED_STYLE_REF="default" ID="ID_379565666" CREATED="1445459302475" MODIFIED="1445541930665"/>
+<node TEXT="before he sees the youtube" ID="ID_905222704" CREATED="1445541919842" MODIFIED="1445541924620"/>
+</node>
+<node TEXT="if someone(?pulral) excluded, turn to them, explain to others, &quot;you are uniquely _, talk about _ for us&quot;" ID="ID_475172119" CREATED="1445458182466" MODIFIED="1445458216055"/>
 </node>
 <node TEXT="camera" ID="ID_865347295" CREATED="1440538403577" MODIFIED="1440649064066">
 <font BOLD="false"/>
@@ -1944,6 +1963,7 @@
 <node TEXT="keep (art) goals flexible" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_11124908" CREATED="1358831816414" MODIFIED="1444292159483">
 <node TEXT="art better if started without easily verbalized intentions" ID="ID_281548373" CREATED="1358817764496" MODIFIED="1358817774529"/>
 </node>
+<node TEXT="art ? how repressed things express" ID="ID_722106455" CREATED="1445460988804" MODIFIED="1445461002164"/>
 </node>
 <node TEXT="art proc" LOCALIZED_STYLE_REF="default" ID="ID_1853803906" CREATED="1444076055052" MODIFIED="1444076064844">
 <node TEXT="rep searching meaning, and the reverse" LOCALIZED_STYLE_REF="default" ID="ID_1488880434" CREATED="1424053129005" MODIFIED="1426306604845"/>

@@ -16779,6 +16779,12 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+<node TEXT="Gary explains how to Hoogle in GHCI" ID="ID_1717129004" CREATED="1445478094071" MODIFIED="1445478101060">
+<node TEXT="http://www.meetup.com/santa-monica-haskell/events/225732250/comments/456466660/?a=uc1_rd&amp;read=1&amp;_af=event&amp;_af_eid=225732250&amp;itemTypeToken=COMMENT&amp;https=off" ID="ID_1990375669" CREATED="1445478101483" MODIFIED="1445478101483" LINK="http://www.meetup.com/santa-monica-haskell/events/225732250/comments/456466660/?a=uc1_rd&amp;read=1&amp;_af=event&amp;_af_eid=225732250&amp;itemTypeToken=COMMENT&amp;https=off"/>
+<node TEXT="his (so far) top two top-level comments" ID="ID_102477309" CREATED="1445478103943" MODIFIED="1445478115661">
+<node TEXT="posted Oct 21, 2015" ID="ID_520438985" CREATED="1445478153143" MODIFIED="1445478158102"/>
+</node>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -18073,6 +18079,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="tidal has many functions in spec and not tut" ID="ID_1594571706" CREATED="1415843183484" MODIFIED="1415843200799"/>
 </node>
 </node>
+<node TEXT="beware : Hoogle can &quot;mislead&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_95665198" CREATED="1445501989425" MODIFIED="1445502066464">
+<node TEXT="Alex uses Text.ParserCombinators.Parsec" ID="ID_427826020" CREATED="1445502009137" MODIFIED="1445502012863"/>
+<node TEXT="if I ask Hoogle about a name from that library, other parser libraries are sometimes returned above it, e.g. GenParser -- and they are not equivalent; different number of type args, for instance" ID="ID_450007545" CREATED="1445502013785" MODIFIED="1445502062953"/>
+</node>
 <node TEXT="more @ logic.mm, mus, where, git/{art, fresh, info}" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1091797927" CREATED="1441909997612" MODIFIED="1445329495153"/>
 <node TEXT="init, short" ID="ID_1532390043" CREATED="1439930067933" MODIFIED="1442301747617">
 <node TEXT=".altvs" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_298575269" CREATED="1445329208824" MODIFIED="1445329210978"/>
@@ -18091,7 +18101,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="no editor" LOCALIZED_STYLE_REF="default" ID="ID_218270308" CREATED="1445313809055" MODIFIED="1445329198962">
 <node TEXT="= using it straight from commad-line GHCI" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_376028480" CREATED="1445313818415" MODIFIED="1445313830891"/>
 <node TEXT="init" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_515845150" CREATED="1445312705199" MODIFIED="1445325366297">
-<node TEXT="ghci -XOverloadedStrings&#xa;:m Sound.Tidal.Context&#xa;d1 &lt;- dirtStream&#xa;d1 $ sound &quot;bd sn sn sn&quot;" ID="ID_1176400976" CREATED="1445312710454" MODIFIED="1445312711910"/>
+<node TEXT="stack ghci" ID="ID_1797781294" CREATED="1445387548193" MODIFIED="1445387549614"/>
+<node TEXT=":set -XOverloadedStrings&#xa;:m Sound.Tidal.Context&#xa;d1 &lt;- dirtStream&#xa;d1 $ sound &quot;bd sn sn sn&quot;" ID="ID_1176400976" CREATED="1445312710454" MODIFIED="1445387555906"/>
 </node>
 <node TEXT="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs" ID="ID_1305611360" CREATED="1445313817930" MODIFIED="1445313817930" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"/>
 </node>
@@ -18273,6 +18284,13 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="distribute a collection of changes" ID="ID_1607694052" CREATED="1445329243608" MODIFIED="1445329255773">
 <node TEXT="rotate, group mult changes so that, e.g., what would have been straight up becomes diagonal" ID="ID_1379672189" CREATED="1441851838998" MODIFIED="1441851853920"/>
 </node>
+<node TEXT="meta-parameters, |+|-able" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1741283797" CREATED="1445541783981" MODIFIED="1445541797078">
+<node TEXT=".redun?" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1683238806" CREATED="1445542048673" MODIFIED="1445542051021"/>
+<node TEXT="tidal / |+|, |*| etc include a meta-parameter command (like sound) maybe called meta, and a function from meta-params to actual params (evals after all the |*|, evalg their result)" LOCALIZED_STYLE_REF="default" ID="ID_453353156" CREATED="1445461591748" MODIFIED="1445541787193"/>
+<node TEXT="carry meta-instructions across |+|" ID="ID_1020750610" CREATED="1445386529826" MODIFIED="1445386565247">
+<node TEXT="eventually interpreted into Dirt instructions" ID="ID_1344537694" CREATED="1445386566426" MODIFIED="1445386571783"/>
+</node>
+</node>
 <node TEXT="intzd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1294622508" CREATED="1445327487902" MODIFIED="1445327490177">
 <node TEXT="keyboard for fast pitch data : tone set, root, melody" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1619441734" CREATED="1444893644362" MODIFIED="1445329059665">
 <node TEXT="melody repd scale stepwise or chromatic" ID="ID_586066083" CREATED="1444936852162" MODIFIED="1444936874762"/>
@@ -18399,13 +18417,24 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+<node TEXT="Devon" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1501781769" CREATED="1445543333194" MODIFIED="1445550790163">
+<node TEXT="comment out entire file" ID="ID_442144031" CREATED="1445543335905" MODIFIED="1445543343192"/>
+<node TEXT="what is show, arc" ID="ID_1482297985" CREATED="1445543765971" MODIFIED="1445544076679"/>
+<node TEXT="nested show (pattern -&gt; event|arc|time" ID="ID_1100793091" CREATED="1445544077324" MODIFIED="1445544084010"/>
+<node TEXT="fmapping into parser &quot;feels dirty&quot;" ID="ID_164334785" CREATED="1445548606191" MODIFIED="1445548611789"/>
+<node TEXT="from Devon 2015 10 21" ID="ID_722408818" CREATED="1445542714354" MODIFIED="1445542721705">
+<node TEXT="parseTest (choice [char &apos;a&apos;, char &apos;b&apos;, char &apos;c&apos;]) &quot;c&quot;" ID="ID_530171323" CREATED="1445542744810" MODIFIED="1445542746050"/>
+<node TEXT="parseTest (choice [char &apos;a&apos;, string , string &quot;foo&quot;]) &quot;b&quot;" ID="ID_1860627948" CREATED="1445542733698" MODIFIED="1445542734865"/>
+<node TEXT="parseTest (choice [string &quot;a&quot;, string &quot;b&quot;, string &quot;foo&quot;]) &quot;foo&quot;" ID="ID_1528191158" CREATED="1445542722122" MODIFIED="1445542722122"/>
+</node>
+</node>
 <node TEXT="sources" LOCALIZED_STYLE_REF="default" ID="ID_433485157" CREATED="1418796355827" MODIFIED="1445326906686">
 <node TEXT="lib&apos;s" ID="ID_673376974" CREATED="1417929914258" MODIFIED="1418796359102">
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -18619,9 +18648,32 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+<node TEXT="learned at smhug" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_382316797" CREATED="1445401315384" MODIFIED="1445462876141">
+<node TEXT="algebraic data types" ID="ID_1541107317" CREATED="1445401318692" MODIFIED="1445401323037"/>
+<node TEXT="pogo: audio-video mashup" ID="ID_669125445" CREATED="1445402615168" MODIFIED="1445402634365"/>
+<node TEXT="*Sound.Tidal.Context&gt; :script init.hs&#xa;Prelude Sound.Tidal.Context&gt;" ID="ID_364041274" CREATED="1445403569570" MODIFIED="1445403571545"/>
+<node TEXT="Prelude Text.ParserCombinators.Parsec&gt; parseTest (char &apos;a&apos;) &quot;a&quot;&#xa;&apos;a&apos;&#xa;Prelude Text.ParserCombinators.Parsec&gt;" ID="ID_33129016" CREATED="1445409512564" MODIFIED="1445409515498"/>
+</node>
 <node TEXT="components" ID="ID_792550530" CREATED="1445328782903" MODIFIED="1445328785887">
 <font BOLD="true"/>
 <node TEXT="**Parse.hs" LOCALIZED_STYLE_REF="default" ID="ID_497510138" CREATED="1443398301331" MODIFIED="1445329402825">
+<node TEXT="myst" ID="ID_706622089" CREATED="1445465980679" MODIFIED="1445465981589">
+<node TEXT="instance Functor Pattern where" ID="ID_951239088" CREATED="1445465982113" MODIFIED="1445465982113">
+<node TEXT="fmap f (Pattern a) = Pattern $ fmap (fmap (mapThd&apos; f)) a" ID="ID_1032594880" CREATED="1445465982113" MODIFIED="1445465982113"/>
+</node>
+<node TEXT="GenParser Char () (Int, Pattern a)" ID="ID_238264484" CREATED="1445502364985" MODIFIED="1445502366655">
+<node TEXT="example" ID="ID_1761739035" CREATED="1445502380473" MODIFIED="1445502381800">
+<node TEXT="pSequenceN :: Parser (Pattern a) -&gt; GenParser Char () (Int, Pattern a)" ID="ID_1673258742" CREATED="1445502382631" MODIFIED="1445502382631"/>
+</node>
+<node TEXT="in what sense is Char a stream?" ID="ID_736865490" CREATED="1445502395185" MODIFIED="1445502402695"/>
+</node>
+<node TEXT="&quot;stream&quot; is not a class?" ID="ID_1763219902" CREATED="1445502487793" MODIFIED="1445502493240">
+<node TEXT="are there no restrictions on the sort of thing (stream) a parser reads from? I was expecting a class restriction like &quot;Stream s =&gt; ParserT s u m a ...&quot; but see non e" ID="ID_1107587548" CREATED="1445502494095" MODIFIED="1445502549688"/>
+</node>
+<node TEXT="I removed an unused function def, &quot;r&quot;." ID="ID_1744590844" CREATED="1445499391231" MODIFIED="1445541330506">
+<node TEXT="r :: Parseable a =&gt; String -&gt; Pattern a -&gt; IO (Pattern a) -- unused!&#xa;r s orig = do E.handle&#xa;                (\err -&gt; do putStrLn (show (err :: E.SomeException))&#xa;                            return orig&#xa;                )&#xa;                (return $ p s)" ID="ID_256971005" CREATED="1445499404616" MODIFIED="1445499405852"/>
+</node>
+</node>
 <node TEXT="imports" ID="ID_857054638" CREATED="1443398347421" MODIFIED="1443398348440">
 <node TEXT="Parsec" ID="ID_30100385" CREATED="1443398335955" MODIFIED="1443398343515">
 <node TEXT="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec.html" ID="ID_201899254" CREATED="1443398334655" MODIFIED="1443398334655" LINK="https://hackage.haskell.org/package/parsec-3.1.9/docs/Text-ParserCombinators-Parsec.html"/>
@@ -18662,6 +18714,54 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 <node TEXT="in pReplicate, what builds the list &quot;extras&quot;?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1870750447" CREATED="1445042581423" MODIFIED="1445325808377"/>
+</node>
+<node TEXT="Stream.hs" LOCALIZED_STYLE_REF="default" ID="ID_1680559044" CREATED="1445463386485" MODIFIED="1445465970483">
+<node TEXT="? data TimeStamp" ID="ID_1549264845" CREATED="1445463398022" MODIFIED="1445463408557">
+<node TEXT="data TimeStamp = BundleStamp | MessageStamp | NoStamp" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1738191508" CREATED="1445463396679" MODIFIED="1445463708843"/>
+<node TEXT="all, grepped" ID="ID_785861540" CREATED="1445463877389" MODIFIED="1445463882044">
+<node TEXT="jeff@jeffLenovUbu:~/tidal/git_Tidal_dev/Sound/Tidal$ egrep -i &quot;TimeStamp|NoStamp|MessageStamp|BundleStamp&quot; *hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1639166263" CREATED="1445463882488" MODIFIED="1445463969534" LINK="mailto:jeff@jeffLenovUbu"/>
+<node TEXT="Dirt.hs:                 timestamp = MessageStamp," ID="ID_454382220" CREATED="1445463882488" MODIFIED="1445463882488">
+<node TEXT="in this" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_35131438" CREATED="1445463917958" MODIFIED="1445463921074"/>
+<node TEXT="dirt :: OscShape&#xa;dirt = OscShape {path = &quot;/play&quot;,&#xa;                 params,&#xa;                 cpsStamp = True,&#xa;                 timestamp = MessageStamp,&#xa;                 latency = 0.04,&#xa;                 namedParams = False,&#xa;                 preamble = []&#xa;                }" ID="ID_1944224846" CREATED="1445463924358" MODIFIED="1445464002321"/>
+<node TEXT="where params =" ID="ID_1624556586" CREATED="1445464002942" MODIFIED="1445464005085">
+<node TEXT="                 params = [ sound_p,&#xa;                            offset_p,&#xa;                            begin_p,&#xa;                            end_p,&#xa;                            speed_p,&#xa;                            pan_p,&#xa;                            velocity_p,&#xa;                            vowel_p,&#xa;                            cutoff_p,&#xa;                            resonance_p,&#xa;                            accelerate_p,&#xa;                            shape_p,&#xa;                            kriole_p,&#xa;                            gain_p,&#xa;                            cut_p,&#xa;                            delay_p,&#xa;                            delaytime_p,&#xa;                            delayfeedback_p,&#xa;                            crush_p,&#xa;                            coarse_p,&#xa;                            hcutoff_p,&#xa;                            hresonance_p,&#xa;                            bandf_p,&#xa;                            bandq_p,&#xa;                            unit_p,&#xa;                            loop_p&#xa;                          ]," ID="ID_1294616996" CREATED="1445464008478" MODIFIED="1445464009499"/>
+</node>
+</node>
+<node TEXT="Stream.hs:data TimeStamp = BundleStamp | MessageStamp | NoStamp" ID="ID_1335052463" CREATED="1445463882492" MODIFIED="1445463882492"/>
+<node TEXT="Stream.hs:                          timestamp :: TimeStamp," ID="ID_1590969365" CREATED="1445463882494" MODIFIED="1445463882494">
+<node TEXT="in this" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1384154384" CREATED="1445464136358" MODIFIED="1445464137714"/>
+<node TEXT="data OscShape = OscShape {path :: String,&#xa;                          params :: [Param],&#xa;                          cpsStamp :: Bool,&#xa;                          timestamp :: TimeStamp,&#xa;                          latency :: Double,&#xa;                          namedParams :: Bool,&#xa;                          preamble :: [Datum]&#xa;                         }" ID="ID_1310115056" CREATED="1445464109382" MODIFIED="1445464110642"/>
+</node>
+<node TEXT="Stream.hs:         osc | timestamp shape == BundleStamp = sendOSC s $ Bundle (ut_to_ntpr logicalOnset) [Message (path shape) oscdata]" ID="ID_1505278961" CREATED="1445463882498" MODIFIED="1445463882498">
+<node TEXT="toMessage :: UDP -&gt; OscShape -&gt; Tempo -&gt; Int -&gt; (Double, OscMap) -&gt; Maybe (IO ())&#xa;toMessage s shape change tick (o, m) =&#xa;  do m&apos; &lt;- applyShape&apos; shape m&#xa;     let cycleD = ((fromIntegral tick) / (fromIntegral ticksPerCycle)) :: Double&#xa;         logicalNow = (logicalTime change cycleD)&#xa;         logicalPeriod = (logicalTime change (cycleD + (1/(fromIntegral ticksPerCycle)))) - logicalNow&#xa;         logicalOnset = logicalNow + (logicalPeriod * o) + (latency shape) + nudge&#xa;         sec = floor logicalOnset&#xa;         usec = floor $ 1000000 * (logicalOnset - (fromIntegral sec))&#xa;         oscdata = cpsPrefix ++ preamble shape ++ (parameterise $ catMaybes $ mapMaybe (\x -&gt; Map.lookup x m&apos;) (params shape))&#xa;         oscdata&apos; = ((int32 sec):(int32 usec):oscdata)&#xa;         osc | timestamp shape == BundleStamp = sendOSC s $ Bundle (ut_to_ntpr logicalOnset) [Message (path shape) oscdata]&#xa;             | timestamp shape == MessageStamp = sendOSC s $ Message (path shape) oscdata&apos;&#xa;             | otherwise = doAt logicalOnset $ sendOSC s $ Message (path shape) oscdata&#xa;     return osc&#xa;     where&#xa;       parameterise :: [Datum] -&gt; [Datum]&#xa;       parameterise ds | namedParams shape =&#xa;                               mergelists (map (string . name) (params shape)) ds&#xa;                       | otherwise = ds&#xa;       cpsPrefix | cpsStamp shape = [float (cps change)]&#xa;                 | otherwise = []&#xa;       nudge = maybe 0 (toF) (Map.lookup (F &quot;nudge&quot; (Just 0)) m)&#xa;       toF (Just (Float f)) = float2Double f&#xa;       toF _ = 0" ID="ID_1673486010" CREATED="1445464220390" MODIFIED="1445464221490"/>
+</node>
+<node TEXT="Stream.hs:             | timestamp shape == MessageStamp = sendOSC s $ Message (path shape) oscdata&apos;" ID="ID_1550376002" CREATED="1445463882499" MODIFIED="1445463882499"/>
+<node TEXT="SuperCollider.hs:  timestamp = BundleStamp," LOCALIZED_STYLE_REF="styles.topic" ID="ID_69133724" CREATED="1445463882504" MODIFIED="1445464172419"/>
+<node TEXT="VolcaKeys.hs:                 timestamp = NoStamp," LOCALIZED_STYLE_REF="styles.topic" ID="ID_71862539" CREATED="1445463882508" MODIFIED="1445464172426"/>
+</node>
+<node TEXT="annoying" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1126868747" CREATED="1445463873318" MODIFIED="1445463875572">
+<node TEXT="MessageStamp used twice, in Dirt and Stream" ID="ID_779750612" CREATED="1445463417053" MODIFIED="1445463595621">
+<node TEXT="Dirt.hs:                 timestamp = MessageStamp,&#xa;Stream.hs:             | timestamp shape == MessageStamp = sendOSC s $ Message (path shape) oscdata&apos;" ID="ID_1038046870" CREATED="1445463469437" MODIFIED="1445463588021"/>
+</node>
+<node TEXT="BundleStamp only used once, in Stream" ID="ID_876947353" CREATED="1445463563798" MODIFIED="1445463570612">
+<node TEXT="Stream.hs:         osc | timestamp shape == BundleStamp = sendOSC s $ Bundle (ut_to_ntpr logicalOnset) [Message (path shape) oscdata]" ID="ID_783645756" CREATED="1445463571830" MODIFIED="1445463572899"/>
+</node>
+<node TEXT="NoStamp only used once, in VolcaKeys" LOCALIZED_STYLE_REF="styles.topic" ID="ID_975101769" CREATED="1445463518150" MODIFIED="1445463609034">
+<node TEXT="jeff@jeffLenovUbu:~/tidal/git_Tidal_dev/Sound/Tidal$ egrep -i &quot;NoStamp&quot; *hs&#xa;Stream.hs:data TimeStamp = BundleStamp | MessageStamp | NoStamp&#xa;VolcaKeys.hs:                 timestamp = NoStamp," ID="ID_1254773495" CREATED="1445463486645" MODIFIED="1445463487724"/>
+</node>
+<node TEXT="TimeStamp class little referred to" ID="ID_573323830" CREATED="1445463659110" MODIFIED="1445463664580">
+<node TEXT="blue = already mentioned outside of here" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_780542246" CREATED="1445463794446" MODIFIED="1445463802912">
+<node TEXT="maybe as low as here" ID="ID_233477133" CREATED="1445463804039" MODIFIED="1445463806451"/>
+</node>
+<node TEXT="Dirt.hs:                 timestamp = MessageStamp," LOCALIZED_STYLE_REF="styles.topic" ID="ID_1479362866" CREATED="1445463672718" MODIFIED="1445463677500"/>
+<node TEXT="Stream.hs:                          timestamp :: TimeStamp,&#xa;  in data OscShape = OscShape { ... }" ID="ID_1201568640" CREATED="1445463694060" MODIFIED="1445463765407"/>
+<node TEXT="Stream.hs:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;osc | timestamp shape == BundleStamp = sendOSC s $ Bundle (ut_to_ntpr logicalOnset) [Message (path shape) oscdata]" ID="ID_172975071" CREATED="1445463694065" MODIFIED="1445463694065"/>
+<node TEXT="Stream.hs:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;| timestamp shape == MessageStamp = sendOSC s $ Message (path shape) oscdata&apos;" ID="ID_1370756503" CREATED="1445463694067" MODIFIED="1445463694067"/>
+<node TEXT="SuperCollider.hs:&#xa0;&#xa0;timestamp = BundleStamp," ID="ID_1511929716" CREATED="1445463694072" MODIFIED="1445463694072"/>
+<node TEXT="VolcaKeys.hs:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;timestamp = NoStamp," ID="ID_1671855910" CREATED="1445463694077" MODIFIED="1445463694077"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="compressor" ID="ID_487267122" CREATED="1445326764886" MODIFIED="1445326766269">
 <node TEXT="radium compressor: free!" ID="ID_1523032244" CREATED="1445326741926" MODIFIED="1445326747509">

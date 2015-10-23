@@ -5211,6 +5211,95 @@
 </node>
 <node TEXT="20" ID="ID_1241789950" CREATED="1445323833189" MODIFIED="1445323834062">
 <node TEXT="&quot;How does that make you feel?&quot;: alert someone to that they don&apos;t like something about themselves, without saying that to them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_942299748" CREATED="1445323796540" MODIFIED="1445323824304"/>
+<node TEXT="piano music illustrated" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_259415814" CREATED="1445048953412" MODIFIED="1445193016311">
+<node TEXT="https://www.youtube.com/watch?v=LlvUepMa31o" ID="ID_205016911" CREATED="1445048963103" MODIFIED="1445048963103" LINK="https://www.youtube.com/watch?v=LlvUepMa31o"/>
+</node>
+<node TEXT="? surrounded by so much world, touching so little" LOCALIZED_STYLE_REF="default" ID="ID_652968199" CREATED="1445227041123" MODIFIED="1445542409607"/>
+<node TEXT="write &amp; compress  ?  premature optimization" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_643885261" CREATED="1445228632891" MODIFIED="1445542391565">
+<node TEXT="I had saved this, of Evan&apos;s script." ID="ID_1865815952" CREATED="1445227729410" MODIFIED="1445228646715">
+<node TEXT=". serial" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1980149703" CREATED="1445227462874" MODIFIED="1445228033970"/>
+<node TEXT="night, pack" LOCALIZED_STYLE_REF="default" ID="ID_1295209830" CREATED="1445227239452" MODIFIED="1445228552299">
+<node TEXT="moods" ID="ID_1108763472" CREATED="1445228544563" MODIFIED="1445228545432">
+<node TEXT="prot : mystery, pressure" LOCALIZED_STYLE_REF="default" ID="ID_1123470484" CREATED="1445227251786" MODIFIED="1445228542952"/>
+<node TEXT="ghost : confused, silent" LOCALIZED_STYLE_REF="default" ID="ID_1689342078" CREATED="1445227355450" MODIFIED="1445228542947"/>
+</node>
+<node TEXT="climax @ ghost reach, prot escape" LOCALIZED_STYLE_REF="default" ID="ID_1218573700" CREATED="1445227333698" MODIFIED="1445228511127"/>
+</node>
+<node TEXT="day, talk" ID="ID_670142136" CREATED="1445227498610" MODIFIED="1445227503417"/>
+<node TEXT="night (.. ser)" LOCALIZED_STYLE_REF="default" ID="ID_1061812449" CREATED="1445228158555" MODIFIED="1445228617198">
+<node TEXT="dinner  !!  climax @ ghost try underst" ID="ID_29430417" CREATED="1445227535914" MODIFIED="1445228583914"/>
+<node TEXT="dinner ~ bed" ID="ID_1069857400" CREATED="1445228075939" MODIFIED="1445228454127">
+<node TEXT="ser: [door, clothes]" ID="ID_1779230902" CREATED="1445228454517" MODIFIED="1445228458965"/>
+</node>
+<node TEXT="bed, then ghosts" ID="ID_1852315822" CREATED="1445228121747" MODIFIED="1445228603794"/>
+</node>
+</node>
+<node TEXT="I was compressing it at the same time as writing it. Compression, less important, should come after writing it, if at all -- for another lesser reason, because I might not display it in Freeplane, in which case it compresses different." ID="ID_1861564148" CREATED="1445228646931" MODIFIED="1445228697394"/>
+</node>
+<node TEXT="only if they *have* a motive is it(motive) necessarily simple" ID="ID_388291450" CREATED="1445232403637" MODIFIED="1445542329737"/>
+<node TEXT="biosphere: thin" ID="ID_1784251445" CREATED="1445295335280" MODIFIED="1445295346695"/>
+<node TEXT="to want to study each country: trap, past the sale" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_285876446" CREATED="1445295476353" MODIFIED="1445542282654">
+<node TEXT="[topper, more deserving] question is countries v. what, not which countries" ID="ID_1987014098" CREATED="1445295497849" MODIFIED="1445295523355"/>
+</node>
+<node TEXT="valbl ? facebook notif hist" ID="ID_1026067639" CREATED="1445379443430" MODIFIED="1445542262802">
+<node TEXT="what do we discuss" ID="ID_487256243" CREATED="1445379450295" MODIFIED="1445379452925"/>
+</node>
+</node>
+<node TEXT="21" ID="ID_1676826313" CREATED="1445541366046" MODIFIED="1445542561199">
+<node TEXT="hid ? stoned" ID="ID_204103327" CREATED="1445379863535" MODIFIED="1445379866781"/>
+<node TEXT="aversion ? fun" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1961402673" CREATED="1445379956927" MODIFIED="1445542159270">
+<node TEXT="need to hide|dodge" ID="ID_1284595627" CREATED="1445379939159" MODIFIED="1445379944157">
+<node TEXT="is rival" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1433716952" CREATED="1445379965807" MODIFIED="1445379983779"/>
+</node>
+</node>
+<node TEXT="soc hist of ideas  :  +sex, -death" ID="ID_928293902" CREATED="1445479688273" MODIFIED="1445541997776">
+<node TEXT="&quot;[victorians: ] cool with death, but could not talk about sex .. and [now] we live in the anti-victorian era&quot;" ID="ID_850933304" CREATED="1445458308091" MODIFIED="1445479685335">
+<node TEXT="colbert, night of kimmel" ID="ID_1563552798" CREATED="1445458336407" MODIFIED="1445458340282"/>
+</node>
+</node>
+<node TEXT="devnull / &quot;how intense is that&quot; has no answer" ID="ID_1013037025" CREATED="1445458957362" MODIFIED="1445479710897">
+<node TEXT="esp. height-awareness?" ID="ID_598257343" CREATED="1445479717336" MODIFIED="1445479726461"/>
+</node>
+<node TEXT="small damage  ?to  wake up" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1803876642" CREATED="1445460363916" MODIFIED="1445542167258">
+<node TEXT="e.g. pinch, slap face" ID="ID_654227569" CREATED="1445460443385" MODIFIED="1445460448559">
+<node TEXT="own face" ID="ID_239024302" CREATED="1445460397140" MODIFIED="1445460399620"/>
+</node>
+</node>
+<node TEXT="It&apos;s too easy to get a dog." ID="ID_1613968739" CREATED="1445490167919" MODIFIED="1445490171205"/>
+<node TEXT="physical elements from memory" ID="ID_1053547019" CREATED="1445379725387" MODIFIED="1445379730469">
+<node TEXT="=? things one might learn, in order" ID="ID_1603569421" CREATED="1445379759695" MODIFIED="1445379766917"/>
+<node TEXT="soil" ID="ID_493249200" CREATED="1445379731967" MODIFIED="1445379736381"/>
+<node TEXT="physics" ID="ID_1934086748" CREATED="1445379738935" MODIFIED="1445379740197">
+<node TEXT="predictive rules" ID="ID_1598761431" CREATED="1445379740863" MODIFIED="1445379743677"/>
+</node>
+<node TEXT="feel" ID="ID_1951400164" CREATED="1445379781151" MODIFIED="1445379782461">
+<node TEXT="want" ID="ID_63507654" CREATED="1445380006735" MODIFIED="1445380007429">
+<node TEXT="appetite" ID="ID_1988589888" CREATED="1445379924255" MODIFIED="1445379927029"/>
+</node>
+<node TEXT="need to hide|dodge" ID="ID_1060796240" CREATED="1445379939159" MODIFIED="1445379944157">
+<node TEXT="is rival" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1675868993" CREATED="1445379965807" MODIFIED="1445379983002"/>
+</node>
+<node TEXT=". about those two, an asymmetry" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_254682095" CREATED="1445380018687" MODIFIED="1445380035269">
+<node TEXT="want it v. need to _ it" ID="ID_1741473618" CREATED="1445380036567" MODIFIED="1445380054978"/>
+</node>
+</node>
+</node>
+<node TEXT="pica" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1247016071" CREATED="1445542090017" MODIFIED="1445542092205">
+<node TEXT="an ignorance distortion: nobody explains that you&apos;re losing" ID="ID_113243406" CREATED="1445381524656" MODIFIED="1445381534133">
+<node TEXT="that its a game" ID="ID_1343822849" CREATED="1445381546920" MODIFIED="1445381551431"/>
+</node>
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1718215654" CREATED="1445541420429" MODIFIED="1445541422406">
+<node TEXT="&quot;Is he cutting you in on some money?&quot;" ID="ID_1929881485" CREATED="1445216678109" MODIFIED="1445216683883">
+<node TEXT="whoopi goldberg, last dr katz (81)" ID="ID_1403988811" CREATED="1445216684496" MODIFIED="1445216691586"/>
+<node TEXT="in v. out" ID="ID_1134051297" CREATED="1445221651457" MODIFIED="1445221653261"/>
+</node>
+<node TEXT="tv and viewer fight for primacy" ID="ID_1273551643" CREATED="1445232738006" MODIFIED="1445232744140"/>
+<node TEXT="electronic, unnaturally great wisdom" ID="ID_327255694" CREATED="1445541414350" MODIFIED="1445541444355">
+<node TEXT="steal the all-knowing like hbo" ID="ID_239762507" CREATED="1445488103733" MODIFIED="1445488109331"/>
+<node TEXT="unify information gathered across space that (from organic life without (mass tech)electronic broadcast)is too unimaginable" ID="ID_368080421" CREATED="1445488118806" MODIFIED="1445488165860"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">
@@ -5468,7 +5557,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
