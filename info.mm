@@ -392,6 +392,21 @@
 <node TEXT="sibling, co-grower" ID="ID_379609737" CREATED="1438056271304" MODIFIED="1438056275230"/>
 <node TEXT="perhaps only slightly better, because suffering from your same framing, though getting a head start from your learning in that frame" ID="ID_788869925" CREATED="1438147987206" MODIFIED="1438148193956"/>
 </node>
+<node ID="ID_1075853803" CREATED="1440572098824" MODIFIED="1440572098824"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      CK: [&quot;I'm proud of raising my kids. That's where all my self-worth comes from ...&quot;]
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="roast the crowd, the (entertainment)business" ID="ID_1477541827" CREATED="1440572181744" MODIFIED="1440572191218"/>
 </node>
 </node>
 <node TEXT="? power (new!)" ID="ID_243784113" CREATED="1442617450674" MODIFIED="1442617498900">
@@ -1793,6 +1808,47 @@
 </node>
 <node TEXT="notes written and golded in serial deflate for inflation" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1206621061" CREATED="1438981039505" MODIFIED="1441401500539">
 <font BOLD="false"/>
+</node>
+<node TEXT="info -rep  :  2015 08 25-29, o.f." ID="ID_585007868" CREATED="1445741361966" MODIFIED="1445741442365">
+<font BOLD="true"/>
+<node TEXT="dub &amp;X scary" ID="ID_948578453" CREATED="1440633659881" MODIFIED="1444153878819">
+<node TEXT="= &amp;X as in cross-product; all 4 possibilities" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1915877187" CREATED="1444153880345" MODIFIED="1444153893113"/>
+<node TEXT="it might look like they should sep but that&apos;s hard; there are dub &amp; scary, dub &amp; -scary, etc." ID="ID_1440306701" CREATED="1440571548688" MODIFIED="1440571569590"/>
+</node>
+<node TEXT="power @ cyc habits" ID="ID_1080552327" CREATED="1440628691678" MODIFIED="1440636306709">
+<node TEXT="e.g. review first-destination categs before trance" ID="ID_1468740955" CREATED="1440628704295" MODIFIED="1440628722550"/>
+<node TEXT="habits a graph with the &quot;then do&quot; relation" ID="ID_1597081045" CREATED="1440636309024" MODIFIED="1440636320103"/>
+</node>
+<node TEXT="?" ID="ID_645637749" CREATED="1440636942000" MODIFIED="1440636942398">
+<node TEXT="&quot;It&apos;s fun for me because I know what it is!&quot;" ID="ID_1697313383" CREATED="1440564740672" MODIFIED="1440564749095"/>
+</node>
+<node TEXT="=? dub &amp; pretty" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1786069798" CREATED="1440636285208" MODIFIED="1440636292343"/>
+<node TEXT="trans-organism" ID="ID_328728510" CREATED="1445741091986" MODIFIED="1445741096895">
+<node TEXT="projectors as organisms" ID="ID_11233709" CREATED="1440635037352" MODIFIED="1440635050679">
+<node TEXT="= as extant, responsib for world, and" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_50901625" CREATED="1440635056777" MODIFIED="1440635066231"/>
+<node TEXT="was" ID="ID_1266389537" CREATED="1440635042520" MODIFIED="1440635042829">
+<node TEXT="almost, but the humans are the projectors" ID="ID_1448891079" CREATED="1440565330313" MODIFIED="1440565335974"/>
+</node>
+</node>
+</node>
+<node TEXT="time contrad" ID="ID_1190834341" CREATED="1445741102850" MODIFIED="1445741104552">
+<node TEXT="to hide that one had studied more for it than time allowed" ID="ID_1614920458" CREATED="1440627590054" MODIFIED="1440627598643">
+<node TEXT="sounds like it&apos;s about people but really it&apos;s about the world conditions that would lead them to it" ID="ID_1237236969" CREATED="1440636346609" MODIFIED="1440636357766"/>
+</node>
+</node>
+<node TEXT="flutter @ terminal" LOCALIZED_STYLE_REF="default" ID="ID_1944651783" CREATED="1445741139018" MODIFIED="1445741159586">
+<node TEXT="=" LOCALIZED_STYLE_REF="default" ID="ID_1300051476" CREATED="1445741162906" MODIFIED="1445741172147">
+<node TEXT="eyes|(day)signal flutter at terminals" ID="ID_1390452102" CREATED="1440564927201" MODIFIED="1440636500786">
+<node TEXT="| binding after ()" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1394098845" CREATED="1440564944168" MODIFIED="1440636512186"/>
+<node TEXT="at start and end" ID="ID_104605564" CREATED="1440636501104" MODIFIED="1440636504005"/>
+</node>
+</node>
+</node>
+<node TEXT="devnull / self-aware" ID="ID_279888876" CREATED="1440642741583" MODIFIED="1445741183445">
+<node TEXT="once you realize you&apos;re doing that, you stop" ID="ID_295652254" CREATED="1440642747767" MODIFIED="1440642752918"/>
+</node>
+<node TEXT="soln v. info dens" ID="ID_757310598" CREATED="1440648983998" MODIFIED="1440648997117"/>
+<node TEXT="double graph search from $ me/* and $ big pop/*" LOCALIZED_STYLE_REF="default" ID="ID_231560255" CREATED="1441164971048" MODIFIED="1445741314724"/>
 </node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">

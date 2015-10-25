@@ -1,0 +1,30 @@
+In this document I tested which characters are escaped in Freeplane.
+
+Test data, input into Freeplane:
+
+  ~!@#$%^&*()_+
+  `1234567890-=
+  
+  {}|
+  []\
+  
+  :"
+  ;'
+  
+  <>?
+  ,./
+  
+How it rendered in the .mm file as text:
+
+  ~!@#$%^&amp;*()_+
+  `1234567890-=
+  
+  {}|
+  []\
+  
+  :&quot;
+  ;&apos;
+  
+  &lt;&gt;?
+  ;,./" 
+

@@ -874,41 +874,62 @@
 </node>
 </node>
 <node TEXT="trance groove" ID="ID_601512027" CREATED="1424302926895" MODIFIED="1432443921393">
-<node TEXT="\groove, \rhythm" ID="ID_234428253" CREATED="1432443910022" MODIFIED="1434421694069"/>
-<node TEXT=". &quot;half acting&quot;?" ID="ID_1703829622" CREATED="1426374985274" MODIFIED="1426375002486">
-<node TEXT="as in performance for audience" ID="ID_787343051" CREATED="1426375003333" MODIFIED="1426375013347"/>
-</node>
+<node TEXT="\groove, \rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_234428253" CREATED="1432443910022" MODIFIED="1445741731330"/>
+<node TEXT="sleep-perform" ID="ID_494229014" CREATED="1445741702905" MODIFIED="1445741706895">
+<node TEXT="is thing" ID="ID_1413975554" CREATED="1445741711994" MODIFIED="1445741713153"/>
+<node TEXT="=" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1400318877" CREATED="1445741710002" MODIFIED="1445741772496">
+<node TEXT="collected" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_464548707" CREATED="1445741777066" MODIFIED="1445741780685"/>
 <node TEXT="? is thing: half sleep, half display" LOCALIZED_STYLE_REF="default" ID="ID_739979783" CREATED="1424117421240" MODIFIED="1426374964482">
 <node TEXT="? sleep feas because the display requires little cog procg" ID="ID_943219675" CREATED="1424847939743" MODIFIED="1424847970487"/>
 </node>
-<node TEXT="to consciously enter trance" ID="ID_1235609898" CREATED="1424756229689" MODIFIED="1424756233014"/>
+<node TEXT="&quot;half acting&quot;?" ID="ID_1703829622" CREATED="1426374985274" MODIFIED="1445741722209">
+<node TEXT="as in performance for audience" ID="ID_787343051" CREATED="1426375003333" MODIFIED="1426375013347"/>
+</node>
 <node TEXT="between ordinary action and performance" ID="ID_1016105143" CREATED="1424253687232" MODIFIED="1424756213183">
 <node TEXT="performance conscious|unconscious" ID="ID_222855581" CREATED="1424756213952" MODIFIED="1424756217848"/>
 </node>
-<node TEXT="to choose feeling over choice" ID="ID_1704002270" CREATED="1424725070975" MODIFIED="1425202648921">
-<node TEXT="\metaratl" ID="ID_860668191" CREATED="1438196566993" MODIFIED="1438196572239"/>
 </node>
+</node>
+<node TEXT="conscj enter trance" ID="ID_1235609898" CREATED="1424756229689" MODIFIED="1445741745464"/>
+<node TEXT="feeling &gt; choice :: choice" ID="ID_1704002270" CREATED="1424725070975" MODIFIED="1445741820334">
+<node TEXT="\intuition, \metaratl, \antiratl" ID="ID_860668191" CREATED="1438196566993" MODIFIED="1445741878156"/>
+<node TEXT="= to choose feeling over choice is a choice" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1490225078" CREATED="1445741837441" MODIFIED="1445741852462"/>
+</node>
+<node TEXT="ignore (external) questions" ID="ID_1165993098" CREATED="1445741912772" MODIFIED="1445741925769">
+<node TEXT="was" ID="ID_1583918855" CREATED="1445741910418" MODIFIED="1445741911273">
 <node TEXT="Ignoring external questions, including complaints that would distract." ID="ID_1733763070" CREATED="1423035845790" MODIFIED="1426374935658"/>
+</node>
+</node>
+<node TEXT="ignore internal|self" ID="ID_502678757" CREATED="1445741959650" MODIFIED="1445741995133"/>
+<node TEXT="supernatural" ID="ID_228377154" CREATED="1445742015986" MODIFIED="1445742017824">
+<node TEXT="= outside the system" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1977108590" CREATED="1445742020202" MODIFIED="1445742034758"/>
 <node TEXT="seance, contact &quot;the|our externals&quot;" ID="ID_277492203" CREATED="1427001721931" MODIFIED="1427001741533"/>
-<node TEXT="= cog rhythm" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_483637217" CREATED="1427698543020" MODIFIED="1427698551672"/>
-<node TEXT="is thing" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_953105331" CREATED="1426374789697" MODIFIED="1427698553063"/>
-<node TEXT="start each day living for the future, end otherwise" ID="ID_1171940440" CREATED="1423775524924" MODIFIED="1438196647443">
-<node TEXT="living for, believing in" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1993472948" CREATED="1438196648153" MODIFIED="1438196654068"/>
-<node TEXT="otherwise, living for the present" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_400373076" CREATED="1438196632249" MODIFIED="1438196654073"/>
-<node TEXT="~ marij" ID="ID_1687998162" CREATED="1424386566800" MODIFIED="1438196665228"/>
 </node>
-<node TEXT="semivoluntary: &quot;I take this regularly.&quot;" ID="ID_1903625036" CREATED="1425276501946" MODIFIED="1426375236454">
-<node TEXT="It is voluntary and helpful." ID="ID_214203252" CREATED="1425276604196" MODIFIED="1425276621486"/>
-<node TEXT="I do not deviate from [scheduling? pattern]." ID="ID_364195599" CREATED="1425276612282" MODIFIED="1425276618832"/>
-<node TEXT="e.g. breathing" ID="ID_269893594" CREATED="1432443857886" MODIFIED="1432443864459"/>
-</node>
-<node TEXT="creativity wanes near sleep: happens? useful?" ID="ID_1678965254" CREATED="1415520480166" MODIFIED="1426373277974">
+<node TEXT="awake &amp; creative  ??  cyc" ID="ID_580675494" CREATED="1445742063618" MODIFIED="1445742093859">
+<node TEXT="= creativity wanes near sleep: happens? useful?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1678965254" CREATED="1415520480166" MODIFIED="1445742084950">
 <node TEXT="so plan for it" ID="ID_91592277" CREATED="1421362828300" MODIFIED="1421362833181"/>
 <node TEXT="examples" ID="ID_1429149188" CREATED="1421362838117" MODIFIED="1421362839267">
 <node TEXT="execute, rather than plan?" ID="ID_848125643" CREATED="1415520495837" MODIFIED="1415520521270"/>
 <node TEXT="e.g. piano improv, or mopping up coding problems, but not starting new ones" ID="ID_1699468001" CREATED="1415520508149" MODIFIED="1415520534827"/>
 </node>
 </node>
+</node>
+<node TEXT="invest-plan devns" ID="ID_855726315" CREATED="1445742124546" MODIFIED="1445742132409">
+<node TEXT="start each day living for the future, end otherwise" ID="ID_1171940440" CREATED="1423775524924" MODIFIED="1438196647443">
+<node TEXT="living for, believing in" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1993472948" CREATED="1438196648153" MODIFIED="1438196654068"/>
+<node TEXT="otherwise, living for the present" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_400373076" CREATED="1438196632249" MODIFIED="1438196654073"/>
+<node TEXT="~ marij" ID="ID_1687998162" CREATED="1424386566800" MODIFIED="1438196665228"/>
+</node>
+</node>
+<node TEXT="trance  ~~integ  banter" ID="ID_1025716570" CREATED="1445742193050" MODIFIED="1445742215866">
+<node TEXT="&quot;the basic stuff that I&apos;m working on, it&apos;s up there [in his head, as opposed to written] all the time&quot; --ck to stern" ID="ID_873651266" CREATED="1440567367329" MODIFIED="1440567389022"/>
+</node>
+<node TEXT="focus(digraph) narrow, deep" ID="ID_1125296527" CREATED="1445742303555" MODIFIED="1445742355036">
+<node TEXT="when write a thing, read|aware its lineage, but not compare it to siblings" ID="ID_1098801027" CREATED="1440567446808" MODIFIED="1445742279638">
+<node TEXT="lineage, path to root" ID="ID_626845254" CREATED="1445742331666" MODIFIED="1445742338233"/>
+</node>
+</node>
+<node TEXT="-&gt; medit" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1275954073" CREATED="1445742229771" MODIFIED="1445742236379"/>
 </node>
 <node TEXT="pain" LOCALIZED_STYLE_REF="default" ID="ID_1839508644" CREATED="1424472294708" MODIFIED="1426373381384">
 <node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_363429063" CREATED="1425279660444" MODIFIED="1425279663983">
@@ -958,6 +979,17 @@
 <node TEXT="&quot;No, it&apos;s just my _ that wants _.&quot;" ID="ID_852473380" CREATED="1428207857202" MODIFIED="1428897494568"/>
 </node>
 <node TEXT="belief is semivol" ID="ID_1129541366" CREATED="1438196839985" MODIFIED="1438196844423"/>
+<node TEXT="semivoluntary: &quot;I take this regularly.&quot;" ID="ID_1903625036" CREATED="1425276501946" MODIFIED="1426375236454">
+<node TEXT="It is voluntary and helpful." ID="ID_214203252" CREATED="1425276604196" MODIFIED="1425276621486"/>
+<node TEXT="I do not deviate from [scheduling? pattern]." ID="ID_364195599" CREATED="1425276612282" MODIFIED="1425276618832"/>
+<node TEXT="e.g. breathing" ID="ID_269893594" CREATED="1432443857886" MODIFIED="1432443864459"/>
+</node>
+<node TEXT="yield to procg time" ID="ID_437596087" CREATED="1445742383282" MODIFIED="1445742388961">
+<node TEXT="\effic, \tranc, ?duh" ID="ID_1473779209" CREATED="1445742416498" MODIFIED="1445742427379"/>
+<node TEXT="example : yield urge to reshape" ID="ID_550932111" CREATED="1445742391546" MODIFIED="1445742395849">
+<node TEXT="if it came to me as one collection perhaps it is not easily cleaved so plan that way" ID="ID_1813540851" CREATED="1440567841944" MODIFIED="1440567860414"/>
+</node>
+</node>
 </node>
 <node TEXT="inward escape avoid" LOCALIZED_STYLE_REF="default" ID="ID_1537343243" CREATED="1425544814319" MODIFIED="1432445264785">
 <node TEXT="= includes dissoc, endog happiness" ID="ID_436228665" CREATED="1425087348206" MODIFIED="1425547586573"/>

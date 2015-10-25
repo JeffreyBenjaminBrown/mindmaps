@@ -1444,6 +1444,11 @@
 <node TEXT="apply some function of type t to [the first repetition in each contiguous block of] each state-interval" ID="ID_1825056639" CREATED="1445663145722" MODIFIED="1445663198304"/>
 </node>
 </node>
+<node TEXT="v2 use the chorus, to set up|explain|motivate|use c2" ID="ID_1047028212" CREATED="1440644789247" MODIFIED="1440644820544">
+<node TEXT="chorus state a premise*, second verse uses it, such that the chorus has more purpose the second time" ID="ID_553460957" CREATED="1440641803207" MODIFIED="1445741208808">
+<node TEXT="e.g. &quot;I think I owe you an apology&quot; (Korn) is chorus, usefully|(interpretable as) apologizing after ?gratuitous neg in second verse" ID="ID_645049071" CREATED="1440641837127" MODIFIED="1440641884242"/>
+</node>
+</node>
 </node>
 <node TEXT="rhyme" ID="ID_646391407" CREATED="1439584082956" MODIFIED="1439584083892">
 <node TEXT="rhyme ~$ music, comedy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745769503" CREATED="1439584084836" MODIFIED="1439584115035"/>

@@ -1348,76 +1348,19 @@
 <node TEXT="info | rep" ID="ID_1747105227" CREATED="1440796750779" MODIFIED="1440796849700">
 <font BOLD="true"/>
 <node TEXT="partition" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_215140369" CREATED="1440892714643" MODIFIED="1440892723737"/>
-<node TEXT="info -rep" LOCALIZED_STYLE_REF="default" ID="ID_169902094" CREATED="1440633683680" MODIFIED="1440892841117">
-<node TEXT="dub &amp;X scary" ID="ID_948578453" CREATED="1440633659881" MODIFIED="1444153878819">
-<node TEXT="= &amp;X as in cross-product; all 4 possibilities" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1915877187" CREATED="1444153880345" MODIFIED="1444153893113"/>
-<node TEXT="it might look like they should sep but that&apos;s hard; there are dub &amp; scary, dub &amp; -scary, etc." ID="ID_1440306701" CREATED="1440571548688" MODIFIED="1440571569590"/>
+<node TEXT="info -rep" LOCALIZED_STYLE_REF="default" ID="ID_169902094" CREATED="1440633683680" MODIFIED="1440892841117"/>
+<node TEXT="info / endogy" ID="ID_921474329" CREATED="1440572097088" MODIFIED="1440892805258"/>
 </node>
-<node TEXT="power @ cyc habits" ID="ID_1080552327" CREATED="1440628691678" MODIFIED="1440636306709">
-<node TEXT="e.g. review first-destination categs before trance" ID="ID_1468740955" CREATED="1440628704295" MODIFIED="1440628722550"/>
-<node TEXT="habits a graph with the &quot;then do&quot; relation" ID="ID_1597081045" CREATED="1440636309024" MODIFIED="1440636320103"/>
-</node>
-<node TEXT="?" ID="ID_645637749" CREATED="1440636942000" MODIFIED="1440636942398">
-<node TEXT="&quot;It&apos;s fun for me because I know what it is!&quot;" ID="ID_1697313383" CREATED="1440564740672" MODIFIED="1440564749095"/>
-</node>
-<node TEXT="?art" ID="ID_1397831913" CREATED="1440636270456" MODIFIED="1440636341115">
-<node TEXT="=? dub &amp; pretty" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1786069798" CREATED="1440636285208" MODIFIED="1440636292343"/>
-<node TEXT="projectors as organisms" ID="ID_11233709" CREATED="1440635037352" MODIFIED="1440635050679">
-<node TEXT="= as extant, responsib for world, and" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_50901625" CREATED="1440635056777" MODIFIED="1440635066231"/>
-<node TEXT="was" ID="ID_1266389537" CREATED="1440635042520" MODIFIED="1440635042829">
-<node TEXT="almost, but the humans are the projectors" ID="ID_1448891079" CREATED="1440565330313" MODIFIED="1440565335974"/>
-</node>
-</node>
-<node TEXT="to hide that one had studied more for it than time allowed" ID="ID_1614920458" CREATED="1440627590054" MODIFIED="1440627598643">
-<node TEXT="sounds like it&apos;s about people but really it&apos;s about the world conditions that would lead them to it" ID="ID_1237236969" CREATED="1440636346609" MODIFIED="1440636357766"/>
-</node>
+<node TEXT="rad" ID="ID_273007710" CREATED="1440796774867" MODIFIED="1440796849696">
+<font BOLD="true"/>
 <node TEXT="* read|notes" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1979447011" CREATED="1442632069162" MODIFIED="1442632075750">
 <node TEXT="began Thu Oct  1 15:29:11 PDT 2015" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_899923502" CREATED="1443738575962" MODIFIED="1443738578758"/>
 <node TEXT="to prev" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_932794779" CREATED="1443738539058" MODIFIED="1443738549755">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1841363177" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
-<node TEXT="eyes|(day)signal flutter at terminals" ID="ID_1390452102" CREATED="1440564927201" MODIFIED="1440636500786">
-<node TEXT="| binding after ()" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1394098845" CREATED="1440564944168" MODIFIED="1440636512186"/>
-<node TEXT="at start and end" ID="ID_104605564" CREATED="1440636501104" MODIFIED="1440636504005"/>
-</node>
-</node>
-<node TEXT="a devnull of self-awareness" ID="ID_279888876" CREATED="1440642741583" MODIFIED="1440642745166">
-<node TEXT="once you realize you&apos;re doing that, you stop" ID="ID_295652254" CREATED="1440642747767" MODIFIED="1440642752918"/>
-</node>
-<node TEXT="v2 use the chorus, to set up|explain|motivate|use c2" ID="ID_1047028212" CREATED="1440644789247" MODIFIED="1440644820544">
-<node TEXT="chorus state a premise*, second verse uses it, such that the chorus has more purpose the secon dtime" ID="ID_553460957" CREATED="1440641803207" MODIFIED="1440641836537">
-<node TEXT="e.g. &quot;I think I owe you an apology&quot; (Korn) is chorus, usefully|(interpretable as) apologizing after ?gratuitous neg in second verse" ID="ID_645049071" CREATED="1440641837127" MODIFIED="1440641884242"/>
-</node>
-</node>
-<node TEXT="soln v. info dens" ID="ID_757310598" CREATED="1440648983998" MODIFIED="1440648997117"/>
-<node TEXT="double graph search from $ me/* and $ big pop/*" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_231560255" CREATED="1441164971048" MODIFIED="1441394921278"/>
-</node>
-<node TEXT="info / endogy" ID="ID_921474329" CREATED="1440572097088" MODIFIED="1440892805258">
-<node ID="ID_1075853803" CREATED="1440572098824" MODIFIED="1440572098824"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      CK: [&quot;I'm proud of raising my kids. That's where all my self-worth comes from ...&quot;]
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="roast the crowd, the (entertainment)business" ID="ID_1477541827" CREATED="1440572181744" MODIFIED="1440572191218"/>
-</node>
-</node>
-<node TEXT="rad" ID="ID_273007710" CREATED="1440796774867" MODIFIED="1440796849696">
-<font BOLD="true"/>
 <node TEXT="trance" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_289826922" CREATED="1440567428456" MODIFIED="1440796257890">
 <node TEXT="= tv-freeplane | comedy(standup)" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1297880617" CREATED="1440574219805" MODIFIED="1440574250727"/>
-<node TEXT="&quot;the basic stuff that I&apos;m working on, it&apos;s up there [in his head, as opposed to written] all the time&quot; --ck to stern" ID="ID_873651266" CREATED="1440567367329" MODIFIED="1440567389022"/>
-<node TEXT="when write a thing, read through the categs filtering it, but not compare it to other leaves" ID="ID_1098801027" CREATED="1440567446808" MODIFIED="1440567458838"/>
-<node TEXT="if it came to me as one collection perhaps it is not easily cleaved so plan that way" ID="ID_1813540851" CREATED="1440567841944" MODIFIED="1440567860414"/>
 <node TEXT="trance - sort group|agent" ID="ID_1172910588" CREATED="1440566590936" MODIFIED="1440566602722">
 <node TEXT="not try to sort group|agent from trance; more important partitions should filter first and that&apos;s enough work already" ID="ID_98428812" CREATED="1440566539808" MODIFIED="1440566584978"/>
 </node>
@@ -4077,6 +4020,7 @@
 <node TEXT="distinguish sleep" ID="ID_1937925864" CREATED="1426312692023" MODIFIED="1444289018854">
 <node TEXT="perhaps sleep, internal alone phase, I would gain more from if I had a more distinct regular alternative" LOCALIZED_STYLE_REF="default" ID="ID_1909839204" CREATED="1426236141460" MODIFIED="1444288976425"/>
 </node>
+<node TEXT="adventure athlete  ~~  comedy" ID="ID_1975501138" CREATED="1445752931632" MODIFIED="1445752967411"/>
 </node>
 <node TEXT="info" ID="ID_258425072" CREATED="1444073243321" MODIFIED="1444073244406">
 <node TEXT="sort on varying compare" ID="ID_921310303" CREATED="1444073219951" MODIFIED="1444073223631">
@@ -4099,6 +4043,17 @@
 <node TEXT="eftly within project and across project sexily dodging some opportunities" ID="ID_397159157" CREATED="1422946431695" MODIFIED="1422946482464"/>
 </node>
 <node TEXT="vowels as audio &amp; (choosing?) (brief) rep" ID="ID_1516812644" CREATED="1444678827215" MODIFIED="1444678875793"/>
+<node TEXT="metaphysics ? escape from logic" ID="ID_990739687" CREATED="1445743783899" MODIFIED="1445743789394"/>
+<node TEXT="how wingsuit users learn a path" ID="ID_439456403" CREATED="1445753079720" MODIFIED="1445753106728">
+<node TEXT="successively closer to grooves in a mountain" ID="ID_1950478150" CREATED="1445753107944" MODIFIED="1445753114806"/>
+</node>
+</node>
+<node TEXT="group  &amp;&amp;  info/ trasc" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1300502584" CREATED="1445751414275" MODIFIED="1445751470201">
+<node TEXT="&quot;in my day we used to&quot;" LOCALIZED_STYLE_REF="default" ID="ID_678177181" CREATED="1445751338536" MODIFIED="1445751427720">
+<node TEXT="fear competitors" ID="ID_524743716" CREATED="1445751353328" MODIFIED="1445751358396"/>
+<node TEXT="count things too often" ID="ID_1319409556" CREATED="1445751361631" MODIFIED="1445751364420"/>
+<node TEXT="be bored" ID="ID_38286286" CREATED="1445751370687" MODIFIED="1445751372263"/>
+</node>
 </node>
 <node TEXT="aware" ID="ID_1772780701" CREATED="1444096984460" MODIFIED="1444097549179">
 <node TEXT="= info aware" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1343469897" CREATED="1444097552771" MODIFIED="1444097560360"/>
@@ -5539,35 +5494,8 @@
 <node TEXT="rep : sort" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_376020822" CREATED="1445654790162" MODIFIED="1445654835100">
 <node TEXT="is mess: relative to ag, group, art, maybe even proc" ID="ID_941243739" CREATED="1445654799570" MODIFIED="1445654851296"/>
 </node>
-</node>
-<node TEXT="Turtles can&apos;t remove rust." POSITION="right" ID="ID_167481783" CREATED="1444703039739" MODIFIED="1444703053002"/>
-<node TEXT="free jazz" POSITION="right" ID="ID_352299264" CREATED="1444708679365" MODIFIED="1444708693407">
-<node TEXT="greg does web for The Jazz Bakery.org" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1173370570" CREATED="1444708741567" MODIFIED="1444708933253"/>
-<node TEXT="charles lloyd" ID="ID_1684290131" CREATED="1444708665157" MODIFIED="1444708679149"/>
-<node TEXT="billy higgins" ID="ID_283421842" CREATED="1444708683926" MODIFIED="1444708689795"/>
-<node TEXT="gerald clayton" ID="ID_845208674" CREATED="1444708699801" MODIFIED="1444708702190"/>
-<node TEXT="kurt rosenwinkel" ID="ID_102779771" CREATED="1444708924202" MODIFIED="1444708930517"/>
-<node TEXT="snarky puppy" ID="ID_584203186" CREATED="1444708949604" MODIFIED="1444708953308"/>
-<node TEXT="pharoah sanders" ID="ID_1861834077" CREATED="1444708966574" MODIFIED="1444708970852"/>
-<node TEXT="john beasley" ID="ID_1116329632" CREATED="1444708997416" MODIFIED="1444708999673"/>
-<node TEXT="antonio sanchez" ID="ID_19223746" CREATED="1444709013722" MODIFIED="1444709016060"/>
-</node>
-<node TEXT="dot" POSITION="right" ID="ID_116463662" CREATED="1444711023758" MODIFIED="1444711024485"/>
-<node TEXT="semantic web" POSITION="right" ID="ID_1629050878" CREATED="1444711357022" MODIFIED="1444711358738">
-<node TEXT="wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1444711453556"/>
-<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="always say &quot;good to see you&quot;" ID="ID_803083052" CREATED="1445750764567" MODIFIED="1445750774294">
+<node TEXT="between nice to meet you and good to see you again" ID="ID_592332394" CREATED="1445750774935" MODIFIED="1445750783285"/>
 </node>
 </node>
 </node>
