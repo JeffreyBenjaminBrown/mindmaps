@@ -16772,17 +16772,64 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="1 = monad" ID="ID_12470999" CREATED="1445286216019" MODIFIED="1445286221627"/>
 <node TEXT="0 = $, $!, `seq`" ID="ID_1409569966" CREATED="1445286224564" MODIFIED="1445286235985"/>
 </node>
-<node TEXT="ideas" ID="ID_1374331602" CREATED="1445286326483" MODIFIED="1445286327322">
-<node TEXT="valid set operations" ID="ID_1877178195" CREATED="1445286328177" MODIFIED="1445286338505">
+<node TEXT="set operations" ID="ID_1877178195" CREATED="1445286328177" MODIFIED="1445738516844">
+<node TEXT="= things to have levels for" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1333980677" CREATED="1445738517277" MODIFIED="1445738519853"/>
+<node TEXT="composition" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_617021638" CREATED="1445738550617" MODIFIED="1445738553471">
+<node TEXT=". is first, $ last" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1343502116" CREATED="1445738554008" MODIFIED="1445738563734">
+<node TEXT=". takes two functions" ID="ID_423348178" CREATED="1445738572216" MODIFIED="1445738575230"/>
+</node>
+</node>
+<node TEXT="set retrieval" ID="ID_257329509" CREATED="1445738526737" MODIFIED="1445738536588"/>
 <node TEXT="set construction" ID="ID_1313080724" CREATED="1445286339265" MODIFIED="1445286341930"/>
 <node TEXT="set comparison" ID="ID_1460988352" CREATED="1445286343443" MODIFIED="1445286345082"/>
 </node>
 </node>
+<node TEXT="use ### = $, ## = $., .." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_210559615" CREATED="1445738626512" MODIFIED="1445738644984"/>
+<node TEXT="read head, upward" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1012840145" CREATED="1445738704280" MODIFIED="1445738720752"/>
+<node TEXT="MultiParamTypeClasses and FunctionalDependencies" ID="ID_706017157" CREATED="1445645404418" MODIFIED="1445645428095">
+<node TEXT="surprisingly easy" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1100431222" CREATED="1445645552194" MODIFIED="1445645556241"/>
+<node TEXT="MPTC : whereas classes describe individual types, MPTCs are relations on sets of types" ID="ID_1459406286" CREATED="1445645507834" MODIFIED="1445645544761"/>
+<node TEXT="FunDep : indicates that one type determines another" ID="ID_771982990" CREATED="1445645499249" MODIFIED="1445645545840"/>
+<node TEXT="example" ID="ID_14428534" CREATED="1445645495386" MODIFIED="1445645496526">
+<node TEXT="quote" ID="ID_1644849714" CREATED="1445645436098" MODIFIED="1445645436864">
+<node TEXT="class Monad m =&gt; Stream s m t | s -&gt; t where Source&#xa;&#xa;An instance of Stream has stream type s, underlying monad m and token type t determined by the stream" ID="ID_515265921" CREATED="1445645430905" MODIFIED="1445645431724"/>
 </node>
+<node TEXT="interp" ID="ID_151120362" CREATED="1445645441689" MODIFIED="1445645442543">
+<node TEXT="Stream is an MPTC relating s, m, and t" ID="ID_770707305" CREATED="1445645443454" MODIFIED="1445645460104"/>
+<node TEXT="the FD &quot;| s -&gt; t&quot; indicates that t is determined by s" ID="ID_870902467" CREATED="1445645460338" MODIFIED="1445645481040"/>
+</node>
+</node>
+</node>
+<node TEXT="for speed" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1589899112" CREATED="1445738389465" MODIFIED="1445738397622">
 <node TEXT="Gary explains how to Hoogle in GHCI" ID="ID_1717129004" CREATED="1445478094071" MODIFIED="1445478101060">
 <node TEXT="http://www.meetup.com/santa-monica-haskell/events/225732250/comments/456466660/?a=uc1_rd&amp;read=1&amp;_af=event&amp;_af_eid=225732250&amp;itemTypeToken=COMMENT&amp;https=off" ID="ID_1990375669" CREATED="1445478101483" MODIFIED="1445478101483" LINK="http://www.meetup.com/santa-monica-haskell/events/225732250/comments/456466660/?a=uc1_rd&amp;read=1&amp;_af=event&amp;_af_eid=225732250&amp;itemTypeToken=COMMENT&amp;https=off"/>
 <node TEXT="his (so far) top two top-level comments" ID="ID_102477309" CREATED="1445478103943" MODIFIED="1445478115661">
 <node TEXT="posted Oct 21, 2015" ID="ID_520438985" CREATED="1445478153143" MODIFIED="1445478158102"/>
+</node>
+</node>
+</node>
+<node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_513288278" CREATED="1445738704280" MODIFIED="1445738727111">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1012840145" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+<node TEXT="parse \ {Haskell, Tidal}" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1853198162" CREATED="1445639721006" MODIFIED="1445640387192">
+<node TEXT="mysteries" ID="ID_1733422596" CREATED="1445639792542" MODIFIED="1445639793744">
+<node TEXT="do notation" ID="ID_529840884" CREATED="1445639798368" MODIFIED="1445639800085">
+<node TEXT="in a do loop in a parser, what is &quot;return&quot;?" ID="ID_240294230" CREATED="1445639809342" MODIFIED="1445639838566"/>
+</node>
+<node TEXT="GenTokenParser : naturalOrFloat, lexeme" LOCALIZED_STYLE_REF="default" ID="ID_1405554113" CREATED="1445720591923" MODIFIED="1445720725111">
+<node TEXT="http://hackage.haskell.org/package/parsec-3.1.6/docs/Text-ParserCombinators-Parsec-Token.html" ID="ID_1014950276" CREATED="1445720732450" MODIFIED="1445720732450" LINK="http://hackage.haskell.org/package/parsec-3.1.6/docs/Text-ParserCombinators-Parsec-Token.html"/>
+</node>
+<node TEXT="Tidal" ID="ID_627416528" CREATED="1445643544352" MODIFIED="1445643545369">
+<node TEXT="intOrFloat" ID="ID_575469543" CREATED="1445640401663" MODIFIED="1445643548403">
+<node TEXT="it is only ever used to get a float" ID="ID_1117634928" CREATED="1445640403754" MODIFIED="1445640419559"/>
+</node>
+<node TEXT="pVocable" ID="ID_87108538" CREATED="1445640577931" MODIFIED="1445643549726">
+<node TEXT="is this the same as pString?" ID="ID_1240558099" CREATED="1445640581888" MODIFIED="1445640588045"/>
+</node>
+<node TEXT="degrade ? invisible" ID="ID_387882575" CREATED="1445643520297" MODIFIED="1445643552421">
+<node TEXT="Prelude Sound.Tidal.Context&gt; sound &quot;bd?&quot;&#xa;(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))] 0 1)&#xa;Prelude Sound.Tidal.Context&gt;" ID="ID_1711024916" CREATED="1445643563936" MODIFIED="1445643565327"/>
+</node>
 </node>
 </node>
 </node>
@@ -17688,7 +17735,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="* wobble = deep rumble" ID="ID_1476877927" CREATED="1440665118977" MODIFIED="1440665122812"/>
 </node>
 </node>
-<node TEXT="samples by use  $  accrete random" ID="ID_602301063" CREATED="1442302748794" MODIFIED="1445143330599">
+<node TEXT="samples by use|quality  $  accrete random" ID="ID_602301063" CREATED="1442302748794" MODIFIED="1445669996985">
 <node TEXT="short buzz" ID="ID_970292448" CREATED="1442302755258" MODIFIED="1442302757633">
 <node TEXT="insect 0" ID="ID_30264380" CREATED="1442302758340" MODIFIED="1442302762629"/>
 </node>
@@ -17699,6 +17746,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cp:1" ID="ID_1094587109" CREATED="1445143286777" MODIFIED="1445143290594">
 <node TEXT="meshes better, less aggressive than cp:0" ID="ID_1243016518" CREATED="1445143291241" MODIFIED="1445143302239"/>
 </node>
+<node TEXT="can" ID="ID_1344048629" CREATED="1445670001762" MODIFIED="1445670002448"/>
 </node>
 <node TEXT="thick low buzz" ID="ID_518489278" CREATED="1445143919180" MODIFIED="1445143944460">
 <node TEXT="invaders:5-8 (pitch-lower are bigger indices)" ID="ID_288858131" CREATED="1445143935838" MODIFIED="1445143993548"/>
@@ -18416,6 +18464,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="it has a different type sig from pan, yet this is valid: d1 $ slow 2 $ up p1 |*| up &quot;[24]&quot; |*| sound &quot;[wobble,metal]&quot; |+| kriole &quot;1&quot;" ID="ID_1294080538" CREATED="1444788021994" MODIFIED="1444788048791"/>
 </node>
 </node>
+<node TEXT="fractals!" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1632763491" CREATED="1445660673409" MODIFIED="1445660676806"/>
 </node>
 <node TEXT="Devon" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1501781769" CREATED="1445543333194" MODIFIED="1445550790163">
 <node TEXT="comment out entire file" ID="ID_442144031" CREATED="1445543335905" MODIFIED="1445543343192"/>
@@ -18433,8 +18482,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>

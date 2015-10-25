@@ -1782,6 +1782,33 @@
 <node TEXT="mine / ?" ID="ID_1494206773" CREATED="1426817470792" MODIFIED="1441393278292">
 <node TEXT="how did my information flow change, that I used to read books (by others) and now trees (by me)" ID="ID_482871993" CREATED="1426816321304" MODIFIED="1441393257204"/>
 </node>
+<node TEXT="devel, fresh.mm, 2015 7 28 - 10 4" LOCALIZED_STYLE_REF="default" ID="ID_1372217843" CREATED="1445737500313" MODIFIED="1445740712006">
+<node TEXT="= devel | char change" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1266276823" CREATED="1442645747972" MODIFIED="1445737578499"/>
+<node TEXT="religulous: what was I when I watched" ID="ID_785725157" CREATED="1439783245654" MODIFIED="1442645747722">
+<node TEXT="I loved that movie, thought he was doing great things. Now Maher strikes me as gratuitously negative." ID="ID_1378620151" CREATED="1440186571449" MODIFIED="1440186588275"/>
+</node>
+<node TEXT="gift-mystery:  precursor" ID="ID_971698424" CREATED="1440573525944" MODIFIED="1445739389738">
+<node TEXT="an interest in | sense of mystery about gift-giving signaling a deeper deficit" ID="ID_334160384" CREATED="1440573529680" MODIFIED="1440573570637"/>
+</node>
+<node TEXT="balance asymmetry with peerness" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_303567652" CREATED="1441051093769" MODIFIED="1445739363289">
+<node TEXT="for children, a defense|balance between child with parent, learning high things, and child with children, community, being one of many similar" ID="ID_534819361" CREATED="1440891331672" MODIFIED="1445739264625"/>
+<node TEXT="for parents, a balance between leadership and cocreation*" ID="ID_451202333" CREATED="1445739259936" MODIFIED="1445739283366">
+<node TEXT="* &amp; volun arbit art" ID="ID_59487450" CREATED="1445739284929" MODIFIED="1445739315014"/>
+</node>
+</node>
+<node TEXT="imag" ID="ID_1878582433" CREATED="1445739412417" MODIFIED="1445739418534">
+<node TEXT="pre-existence devel" ID="ID_366777435" CREATED="1442643985529" MODIFIED="1442643988463">
+<node TEXT="&quot;It&apos;s already changing and it (time?) has not even started yet.&quot;" ID="ID_1116869344" CREATED="1439767198471" MODIFIED="1439767214805"/>
+<node TEXT="dwt, changing it(s plans) before it exists" ID="ID_809706928" CREATED="1439767215566" MODIFIED="1442643977153"/>
+</node>
+</node>
+<node TEXT="? homeschooling" ID="ID_1726389928" CREATED="1445739450121" MODIFIED="1445739454415">
+<node TEXT="homeschooling an interesting experiment, we already have data on a generation, parents of both types seeing the other and how they develop" ID="ID_811723373" CREATED="1440890997424" MODIFIED="1440891023407">
+<node TEXT="southpark s3, they are let into a school spelling bee, other parents consider it unfair; generalize" ID="ID_944107460" CREATED="1440891027240" MODIFIED="1440891049247"/>
+</node>
+</node>
+<node TEXT="life evolve-from water, character devel-from games" ID="ID_1026247929" CREATED="1444026070816" MODIFIED="1444026144743"/>
+</node>
 </node>
 <node TEXT="heal" ID="ID_819179399" CREATED="1434954148210" MODIFIED="1434954149296">
 <node TEXT="forgive self" ID="ID_1351282434" CREATED="1432095575858" MODIFIED="1432095577943">
