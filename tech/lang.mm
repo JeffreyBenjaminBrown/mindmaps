@@ -16812,27 +16812,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1012840145" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
-<node TEXT="parse \ {Haskell, Tidal}" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1853198162" CREATED="1445639721006" MODIFIED="1445640387192">
-<node TEXT="mysteries" ID="ID_1733422596" CREATED="1445639792542" MODIFIED="1445639793744">
-<node TEXT="do notation" ID="ID_529840884" CREATED="1445639798368" MODIFIED="1445639800085">
-<node TEXT="in a do loop in a parser, what is &quot;return&quot;?" ID="ID_240294230" CREATED="1445639809342" MODIFIED="1445639838566"/>
-</node>
-<node TEXT="GenTokenParser : naturalOrFloat, lexeme" LOCALIZED_STYLE_REF="default" ID="ID_1405554113" CREATED="1445720591923" MODIFIED="1445720725111">
-<node TEXT="http://hackage.haskell.org/package/parsec-3.1.6/docs/Text-ParserCombinators-Parsec-Token.html" ID="ID_1014950276" CREATED="1445720732450" MODIFIED="1445720732450" LINK="http://hackage.haskell.org/package/parsec-3.1.6/docs/Text-ParserCombinators-Parsec-Token.html"/>
-</node>
-<node TEXT="Tidal" ID="ID_627416528" CREATED="1445643544352" MODIFIED="1445643545369">
-<node TEXT="intOrFloat" ID="ID_575469543" CREATED="1445640401663" MODIFIED="1445643548403">
-<node TEXT="it is only ever used to get a float" ID="ID_1117634928" CREATED="1445640403754" MODIFIED="1445640419559"/>
-</node>
-<node TEXT="pVocable" ID="ID_87108538" CREATED="1445640577931" MODIFIED="1445643549726">
-<node TEXT="is this the same as pString?" ID="ID_1240558099" CREATED="1445640581888" MODIFIED="1445640588045"/>
-</node>
-<node TEXT="degrade ? invisible" ID="ID_387882575" CREATED="1445643520297" MODIFIED="1445643552421">
-<node TEXT="Prelude Sound.Tidal.Context&gt; sound &quot;bd?&quot;&#xa;(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))] 0 1)&#xa;Prelude Sound.Tidal.Context&gt;" ID="ID_1711024916" CREATED="1445643563936" MODIFIED="1445643565327"/>
-</node>
-</node>
-</node>
-</node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
 <node TEXT="adaptive-wrap" ID="ID_1954328534" CREATED="1414896271280" MODIFIED="1423720302098">
@@ -18466,15 +18445,179 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="fractals!" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1632763491" CREATED="1445660673409" MODIFIED="1445660676806"/>
 </node>
-<node TEXT="Devon" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1501781769" CREATED="1445543333194" MODIFIED="1445550790163">
-<node TEXT="comment out entire file" ID="ID_442144031" CREATED="1445543335905" MODIFIED="1445543343192"/>
-<node TEXT="what is show, arc" ID="ID_1482297985" CREATED="1445543765971" MODIFIED="1445544076679"/>
+<node TEXT="new" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1937478361" CREATED="1445892304813" MODIFIED="1445892306222">
+<node TEXT="with Devon" ID="ID_1822654968" CREATED="1445892628077" MODIFIED="1445892842891">
+<font BOLD="true"/>
+<node TEXT="mysteries" ID="ID_991662418" CREATED="1445892661909" MODIFIED="1445892663036">
+<node TEXT="Tidal" ID="ID_1641215929" CREATED="1445892697141" MODIFIED="1445892697933">
+<node TEXT="this/these use this/*/these" ID="ID_1374298947" CREATED="1445895638006" MODIFIED="1445895708573">
+<font BOLD="true"/>
+<node TEXT="parseRhythm" ID="ID_395942445" CREATED="1445895658814" MODIFIED="1445895716119">
+<node ID="ID_79085301" CREATED="1445895716477" MODIFIED="1445895716477"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pSequence
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="pPolyIn" ID="ID_430530141" CREATED="1445895686502" MODIFIED="1445895687484">
+<node TEXT="P.brackets" ID="ID_1315340227" CREATED="1445895743702" MODIFIED="1445895745796"/>
+<node TEXT="pSequence" ID="ID_950650758" CREATED="1445895751870" MODIFIED="1445895752485"/>
+<node TEXT="pMult" ID="ID_1657682504" CREATED="1445895756821" MODIFIED="1445895757443"/>
+</node>
+<node TEXT="pPolyOut" ID="ID_1655045429" CREATED="1445895786870" MODIFIED="1445895787492">
+<node TEXT="P.braces" ID="ID_1197362926" CREATED="1445895799454" MODIFIED="1445895801325"/>
+<node TEXT="pSequenceN" ID="ID_188062722" CREATED="1445895751870" MODIFIED="1445895807516"/>
+<node TEXT="pMult" ID="ID_1913126440" CREATED="1445895819279" MODIFIED="1445895819279"/>
+<node TEXT="density" ID="ID_1711726485" CREATED="1445895948382" MODIFIED="1445895948916"/>
+</node>
+<node TEXT="pSequenceN" ID="ID_1803214619" CREATED="1445895977494" MODIFIED="1445895986800">
+<node TEXT="density" ID="ID_1190012119" CREATED="1445895986806" MODIFIED="1445895988458"/>
+</node>
+</node>
+<node TEXT="[], (), &lt;&gt;, {}" ID="ID_1799792922" CREATED="1445894667662" MODIFIED="1445894672770">
+<node TEXT="angle brackets in pattern string?" ID="ID_1531750425" CREATED="1445894580782" MODIFIED="1445894590067">
+<node TEXT="search for &quot;angl&quot; in Parse.hs" ID="ID_843678972" CREATED="1445894594285" MODIFIED="1445894599516"/>
+</node>
+<node TEXT="brace = polyrhythm" ID="ID_677503084" CREATED="1445894601605" MODIFIED="1445894719737"/>
+<node TEXT="(,) = bjorklund" ID="ID_388722766" CREATED="1445894747341" MODIFIED="1445894763217">
+<node TEXT="all of that punctuation but the = is part of it -- paren, number, comma, number, end paren" ID="ID_1927895140" CREATED="1445894764044" MODIFIED="1445894783821"/>
+</node>
+</node>
+<node TEXT="show" ID="ID_1482297985" CREATED="1445543765971" MODIFIED="1445892670716"/>
+<node TEXT="Event, 2nd arc" ID="ID_209549872" CREATED="1445892670958" MODIFIED="1445892686629"/>
+<node TEXT="varts of Parser sigs" LOCALIZED_STYLE_REF="default" ID="ID_903592014" CREATED="1445886989274" MODIFIED="1445892739829">
+<node TEXT="pSequenceN :: Parser (Pattern a) -&gt; GenParser Char () (Int, Pattern a)&#xa;parseRhythm :: Parser (Pattern a) -&gt; String -&gt; (Pattern a)&#xa;pRational :: Parser (Pattern Rational)" ID="ID_602593471" CREATED="1445887001338" MODIFIED="1445887028396"/>
+</node>
+<node TEXT="degrade ? invisible" ID="ID_387882575" CREATED="1445643520297" MODIFIED="1445643552421">
+<node TEXT="Prelude Sound.Tidal.Context&gt; sound &quot;bd?&quot;&#xa;(fromList [(sound,Just (ASCII_String {d_ascii_string = &quot;bd&quot;}))] 0 1)&#xa;Prelude Sound.Tidal.Context&gt;" ID="ID_1711024916" CREATED="1445643563936" MODIFIED="1445643565327"/>
+</node>
+<node TEXT="intOrFloat" LOCALIZED_STYLE_REF="default" ID="ID_575469543" CREATED="1445640401663" MODIFIED="1445893200828">
+<node TEXT="it is only ever used to get a float" ID="ID_1117634928" CREATED="1445640403754" MODIFIED="1445640419559"/>
+</node>
+<node TEXT="pVocable" LOCALIZED_STYLE_REF="default" ID="ID_87108538" CREATED="1445640577931" MODIFIED="1445893200823">
+<node TEXT="is this the same as pString?" ID="ID_1240558099" CREATED="1445640581888" MODIFIED="1445640588045"/>
+</node>
+</node>
+<node TEXT="haskell" ID="ID_1073967455" CREATED="1445893169877" MODIFIED="1445893170820">
+<node TEXT="ParsecT data declaration" ID="ID_698237443" CREATED="1445889682923" MODIFIED="1445889701416">
+<node TEXT="http://hackage.haskell.org/package/parsec-3.1.9/docs/src/Text-Parsec-Prim.html#ParsecT" ID="ID_81333517" CREATED="1445889696245" MODIFIED="1445889696245" LINK="http://hackage.haskell.org/package/parsec-3.1.9/docs/src/Text-Parsec-Prim.html#ParsecT"/>
+</node>
+<node TEXT="do notation" ID="ID_529840884" CREATED="1445639798368" MODIFIED="1445639800085">
+<node TEXT="in a do loop in a parser, what is &quot;return&quot;?" ID="ID_240294230" CREATED="1445639809342" MODIFIED="1445639838566"/>
+</node>
+<node TEXT="GenTokenParser : naturalOrFloat, lexeme" LOCALIZED_STYLE_REF="default" ID="ID_1405554113" CREATED="1445720591923" MODIFIED="1445720725111">
+<node TEXT="http://hackage.haskell.org/package/parsec-3.1.6/docs/Text-ParserCombinators-Parsec-Token.html" ID="ID_1014950276" CREATED="1445720732450" MODIFIED="1445720732450" LINK="http://hackage.haskell.org/package/parsec-3.1.6/docs/Text-ParserCombinators-Parsec-Token.html"/>
+</node>
+</node>
+</node>
+<node TEXT="want to implem" ID="ID_601950384" CREATED="1445892594685" MODIFIED="1445892596628">
 <node TEXT="nested show (pattern -&gt; event|arc|time" ID="ID_1100793091" CREATED="1445544077324" MODIFIED="1445544084010"/>
+</node>
+<node TEXT="Parser types" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1913463814" CREATED="1445887579586" MODIFIED="1445893233140">
+<node TEXT="\Text.Parsec  !=  \Text.ParserCombinators.Parsec" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_641660640" CREATED="1445893384045" MODIFIED="1445893884316">
+<font BOLD="true"/>
+<node TEXT="that is" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_901269362" CREATED="1445893476069" MODIFIED="1445893477927">
+<node TEXT="the shortcuts from Text.Parsec are NOT the same as the ones from Text.ParserCombinators.Parsec" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_198350674" CREATED="1445893384045" MODIFIED="1445893421517">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="type Parsec s u = ParsecT s u Identity" ID="ID_723273364" CREATED="1445893678470" MODIFIED="1445893679221">
+<node TEXT="this is common to Text.Parsec and T.PC.Parsec" ID="ID_1392231493" CREATED="1445893684877" MODIFIED="1445893697027">
+<node TEXT="defined only in the former, but the latter refers to it" ID="ID_444662426" CREATED="1445893702029" MODIFIED="1445893708997"/>
+</node>
+</node>
+<node TEXT="Text.ParserCombinators.Parsec" ID="ID_187309573" CREATED="1445893620341" MODIFIED="1445893620972">
+<node TEXT="type Parser      = Parsec String ()&#xa;                 = ParsecT String () Identity&#xa;=&gt; type Parser a = ParsecT String () Identity a" ID="ID_307170497" CREATED="1445893644246" MODIFIED="1445893853774"/>
+<node TEXT="GenParser tok st      = Parsec [tok] st&#xa;                      = ParsecT [tok] st Identity&#xa;=&gt; GenParser tok st a = ParsecT [tok] Identity a" ID="ID_949165699" CREATED="1445893509925" MODIFIED="1445893864053"/>
+</node>
+<node TEXT="Text.Parsec" ID="ID_1886303422" CREATED="1445893605445" MODIFIED="1445893615221">
+<node TEXT="Parser a = ParsecT Text () Identity a" ID="ID_418320530" CREATED="1445887583337" MODIFIED="1445887662703">
+<node TEXT="because" ID="ID_1530739399" CREATED="1445887812323" MODIFIED="1445887813272">
+<node TEXT="Parser = Parsec Text () = ParsecT Text () Identity" ID="ID_1413175954" CREATED="1445887649943" MODIFIED="1445887652894"/>
+</node>
+</node>
+<node TEXT="GenParser st a = ParsecT Text st Identity a" ID="ID_1711688719" CREATED="1445893527269" MODIFIED="1445893624835">
+<node TEXT="because" ID="ID_149387987" CREATED="1445893539732" MODIFIED="1445893544537">
+<node TEXT="GenParser st = Parsec Text st" ID="ID_1705070032" CREATED="1445893539737" MODIFIED="1445893545706"/>
+<node TEXT="Parsec s u = ParsecT s u Identity" ID="ID_1192157304" CREATED="1445893539746" MODIFIED="1445893547194"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="there&apos;s a Dirt that uses Pulse" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1206628748" CREATED="1445898273897" MODIFIED="1445898279199">
+<node TEXT="no need to switch" ID="ID_823962616" CREATED="1445898285664" MODIFIED="1445898289442"/>
+</node>
+<node TEXT="git with ssh, no need for pwd every time" ID="ID_85852019" CREATED="1445899048406" MODIFIED="1445899054458"/>
+<node TEXT="want to implem" ID="ID_771341115" CREATED="1445892762956" MODIFIED="1445892764898">
+<node TEXT="count beats away from euclid" LOCALIZED_STYLE_REF="default" ID="ID_340340855" CREATED="1445885701234" MODIFIED="1445892774933">
+<node TEXT="give it a measure like income inequality for duration" ID="ID_1726488204" CREATED="1445885709258" MODIFIED="1445885729227"/>
+</node>
+</node>
+<node TEXT="want to use" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_342138973" CREATED="1445892780277" MODIFIED="1445905694618">
+<node TEXT="reminders, what stuff is" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1891090572" CREATED="1445884331330" MODIFIED="1445892810090">
+<node TEXT="|/|, |-|" ID="ID_645809" CREATED="1445884332929" MODIFIED="1445884337395"/>
+<node TEXT="% {} is same length" ID="ID_673640020" CREATED="1445884537570" MODIFIED="1445884548383"/>
+</node>
+<node TEXT="stut&apos;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1259566984" CREATED="1445885563675" MODIFIED="1445892786297">
+<node TEXT="generalizes echo" ID="ID_1937507135" CREATED="1445905700554" MODIFIED="1445905705601">
+<node TEXT="each echo applies an operator again" ID="ID_1824872952" CREATED="1445885572659" MODIFIED="1445885580707"/>
+</node>
+<node TEXT="can cycle through operators" ID="ID_662826176" CREATED="1445905707250" MODIFIED="1445905710024">
+<node TEXT="d1 $ slowspread (stut&apos; 8 (0.125/2)) [(|*| up &quot;2&quot;), (|*| shape &quot;0.9&quot;),&#xa;(|*| speed &quot;-0.9&quot;)] $ sound &quot;drum(3,8)&quot;" ID="ID_1014788313" CREATED="1445905696709" MODIFIED="1445905697506"/>
+</node>
+</node>
+<node TEXT="as opposed to coding it" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_54363499" CREATED="1445892266149" MODIFIED="1445892270192"/>
+<node TEXT="successively *add* something to a frequency" ID="ID_534692102" CREATED="1445885640490" MODIFIED="1445885650026">
+<node TEXT="something relatively prime" ID="ID_549161731" CREATED="1445885664321" MODIFIED="1445885667690"/>
+</node>
+<node TEXT="vim  :  fast, more instrument-like" ID="ID_1448078045" CREATED="1445885791873" MODIFIED="1445892907588"/>
+<node TEXT="a minor scale with one narrow of two halfsteps" ID="ID_1115831448" CREATED="1445886389218" MODIFIED="1445886415427"/>
+</node>
+<node TEXT="how to document" LOCALIZED_STYLE_REF="default" ID="ID_138316808" CREATED="1445887173409" MODIFIED="1445892635195">
+<node TEXT="&quot;document all the functions! (and yes, we&apos;re working on it, please send pull requests if you can explain something that isn&apos;t yet documented https://github.com/tidalcycles/tidalcycles.github.io/issues/20)" ID="ID_1374239096" CREATED="1445887167770" MODIFIED="1445887172520"/>
+</node>
+<node TEXT="reprog self" ID="ID_1452931113" CREATED="1445892925013" MODIFIED="1445892933719">
+<node TEXT="program &amp; ~know" ID="ID_933505664" CREATED="1445885419946" MODIFIED="1445885429727">
+<node TEXT="If I loosened the threshold of understanding at which I will code something" ID="ID_1535085293" CREATED="1445885431634" MODIFIED="1445885518287"/>
+<node ID="ID_691784671" CREATED="1445885520018" MODIFIED="1445885520018"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      playing polyrhythms in two chords a major second apart, not knowing exactly when which sounds will harmonize but knowing it will sound pretty good)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="" ID="ID_201106711" CREATED="1445885521986" MODIFIED="1445885521986"/>
+</node>
+</node>
+<node TEXT="intzd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_644355724" CREATED="1445892551845" MODIFIED="1445892555917">
 <node TEXT="fmapping into parser &quot;feels dirty&quot;" ID="ID_164334785" CREATED="1445548606191" MODIFIED="1445548611789"/>
+</node>
+<node TEXT="lost" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1068681632" CREATED="1445892539414" MODIFIED="1445892542611">
+<node TEXT="can&apos;t figure out how to run" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_109827771" CREATED="1445892543157" MODIFIED="1445892546228"/>
 <node TEXT="from Devon 2015 10 21" ID="ID_722408818" CREATED="1445542714354" MODIFIED="1445542721705">
 <node TEXT="parseTest (choice [char &apos;a&apos;, char &apos;b&apos;, char &apos;c&apos;]) &quot;c&quot;" ID="ID_530171323" CREATED="1445542744810" MODIFIED="1445542746050"/>
 <node TEXT="parseTest (choice [char &apos;a&apos;, string , string &quot;foo&quot;]) &quot;b&quot;" ID="ID_1860627948" CREATED="1445542733698" MODIFIED="1445542734865"/>
 <node TEXT="parseTest (choice [string &quot;a&quot;, string &quot;b&quot;, string &quot;foo&quot;]) &quot;foo&quot;" ID="ID_1528191158" CREATED="1445542722122" MODIFIED="1445542722122"/>
+</node>
 </node>
 </node>
 <node TEXT="sources" LOCALIZED_STYLE_REF="default" ID="ID_433485157" CREATED="1418796355827" MODIFIED="1445326906686">
@@ -18696,12 +18839,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="the t will usually be a Pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1013140105" CREATED="1444115153842" MODIFIED="1444115170428"/>
 </node>
 </node>
-</node>
-<node TEXT="learned at smhug" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_382316797" CREATED="1445401315384" MODIFIED="1445462876141">
-<node TEXT="algebraic data types" ID="ID_1541107317" CREATED="1445401318692" MODIFIED="1445401323037"/>
-<node TEXT="pogo: audio-video mashup" ID="ID_669125445" CREATED="1445402615168" MODIFIED="1445402634365"/>
-<node TEXT="*Sound.Tidal.Context&gt; :script init.hs&#xa;Prelude Sound.Tidal.Context&gt;" ID="ID_364041274" CREATED="1445403569570" MODIFIED="1445403571545"/>
-<node TEXT="Prelude Text.ParserCombinators.Parsec&gt; parseTest (char &apos;a&apos;) &quot;a&quot;&#xa;&apos;a&apos;&#xa;Prelude Text.ParserCombinators.Parsec&gt;" ID="ID_33129016" CREATED="1445409512564" MODIFIED="1445409515498"/>
 </node>
 <node TEXT="components" ID="ID_792550530" CREATED="1445328782903" MODIFIED="1445328785887">
 <font BOLD="true"/>

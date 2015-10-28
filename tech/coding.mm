@@ -2689,7 +2689,7 @@
 </node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
-<node TEXT="dwt &amp; dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1673927663" CREATED="1438458705692" MODIFIED="1438458717696">
+<node TEXT="dwt &amp; dwt+" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1673927663" CREATED="1438458705692" MODIFIED="1445763955234">
 <node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_696247046" CREATED="1443488242550" MODIFIED="1443488244738">
 <node TEXT="my codg proc" LOCALIZED_STYLE_REF="default" ID="ID_1236446785" CREATED="1437941171963" MODIFIED="1438458722393">
 <node TEXT="when about to git commit, review the svn commits since last git commit; can that way do it less oft" ID="ID_702786372" CREATED="1437700452131" MODIFIED="1437700468250"/>
@@ -15325,30 +15325,39 @@
 <node TEXT="lininess : font for punct" ID="ID_769537010" CREATED="1444795147332" MODIFIED="1444795167215"/>
 </node>
 </node>
-<node TEXT="parse Freeplane" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1445755845906">
+<node TEXT="the .mm format" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1445763953065">
+<node TEXT="text rep (observed)" ID="ID_772765326" CREATED="1445763574103" MODIFIED="1445763580576">
+<node TEXT="types" LOCALIZED_STYLE_REF="default" ID="ID_1442937063" CREATED="1445756692267" MODIFIED="1445761018361">
+<node TEXT="ignorable" LOCALIZED_STYLE_REF="default" ID="ID_1729889347" CREATED="1445755894546" MODIFIED="1445763838422">
 <font BOLD="true"/>
-<node TEXT="types in the .mm format" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1442937063" CREATED="1445756692267" MODIFIED="1445756719436">
-<node TEXT="ignorable" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1729889347" CREATED="1445755894546" MODIFIED="1445757191836">
 <node TEXT="_s herein rep omitted info" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1394873824" CREATED="1445755909562" MODIFIED="1445755933414"/>
 <node TEXT="&lt;map version=&quot;freeplane 1.3.0&quot;&gt;" ID="ID_1294597072" CREATED="1445757961746" MODIFIED="1445757961746"/>
 <node TEXT="&lt;!-- [comment] --&gt;" ID="ID_112830830" CREATED="1445755942856" MODIFIED="1445758003750"/>
-<node TEXT="&lt;map_styles&gt;_&lt;/map_styles&gt;" ID="ID_398538857" CREATED="1445756475738" MODIFIED="1445756481815"/>
 <node TEXT="&lt;/map&gt;" ID="ID_1767762591" CREATED="1445757951683" MODIFIED="1445757951683"/>
-</node>
-<node TEXT="ignorable * pretty sure" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1244723813" CREATED="1445756328939" MODIFIED="1445757211812">
-<node TEXT="&lt;hook&gt; _ &lt;/hook&gt;" ID="ID_1207090890" CREATED="1445757067995" MODIFIED="1445757076234">
-<node TEXT="&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1872114717" CREATED="1445756326530" MODIFIED="1445756326530">
-<node TEXT="observed once, immedj after and indented rel to first Textnode" ID="ID_1065778081" CREATED="1445756357227" MODIFIED="1445756377162"/>
-</node>
-<node TEXT="[then lots of style_nodes and /style_nodes" ID="ID_157539127" CREATED="1445756555383" MODIFIED="1445756568642"/>
-<node TEXT="&lt;/hook&gt;" ID="ID_195890012" CREATED="1445756538784" MODIFIED="1445756538784"/>
-</node>
 <node TEXT="&quot;properties&quot; node" ID="ID_1831305387" CREATED="1445756403163" MODIFIED="1445757085949">
 <node TEXT="example" ID="ID_1858547278" CREATED="1445757087571" MODIFIED="1445757089386">
 <node TEXT="&lt;properties show_icon_for_attributes=&quot;true&quot; show_note_icons=&quot;true&quot;/&gt;" ID="ID_229533782" CREATED="1445756406012" MODIFIED="1445756406012"/>
 </node>
 <node TEXT="I see zero or one per document." ID="ID_8142725" CREATED="1445757091275" MODIFIED="1445757182854">
 <node TEXT="tested two documents" ID="ID_186698655" CREATED="1445757183203" MODIFIED="1445757185882"/>
+</node>
+</node>
+<node TEXT="hook( map_styles( _ ) )" ID="ID_1211382556" CREATED="1445763774143" MODIFIED="1445763812241">
+<font BOLD="true"/>
+<node TEXT="&lt;hook&gt; _ &lt;/hook&gt;" ID="ID_1207090890" CREATED="1445757067995" MODIFIED="1445763788129">
+<font BOLD="false"/>
+<node TEXT="&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1872114717" CREATED="1445756326530" MODIFIED="1445756326530">
+<node TEXT="observed once, immedj after and indented rel to first Textnode" ID="ID_1065778081" CREATED="1445756357227" MODIFIED="1445756377162"/>
+</node>
+<node TEXT="[then lots of style_nodes and /style_nodes" ID="ID_157539127" CREATED="1445756555383" MODIFIED="1445756568642"/>
+<node TEXT="&lt;/hook&gt;" ID="ID_195890012" CREATED="1445756538784" MODIFIED="1445756538784"/>
+</node>
+<node TEXT="&lt;map_styles&gt;_&lt;/map_styles&gt;" ID="ID_398538857" CREATED="1445756475738" MODIFIED="1445763788126">
+<font BOLD="false"/>
+<node TEXT="includes these kind of things" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_952573217" CREATED="1445763694207" MODIFIED="1445763698891"/>
+<node TEXT="&lt;stylenode LOCALIZED_TEXT=&quot;defaultstyle.floating&quot; MAX_WIDTH=&quot;800&quot;&gt;" ID="ID_1066843603" CREATED="1445763622985" MODIFIED="1445763654464"/>
+<node TEXT="&lt;edge STYLE=&quot;hide_edge&quot;/&gt;" ID="ID_946279982" CREATED="1445763646183" MODIFIED="1445763648214"/>
+<node TEXT="&lt;cloud COLOR=&quot;#f0f0f0&quot; SHAPE=&quot;ROUND_RECT&quot;/&gt;" ID="ID_852548211" CREATED="1445763662815" MODIFIED="1445763664158"/>
 </node>
 </node>
 </node>
@@ -15369,8 +15378,23 @@
 <node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1620696079" CREATED="1445755974410" MODIFIED="1445757006134">
 <node TEXT="&lt;node TEXT=&quot;root&quot; LOCALIZED_STYLE_REF=&quot;default&quot; ID=&quot;ID_1201843186&quot; CREATED=&quot;1336484964936&quot; MODIFIED=&quot;1445755341881&quot;&gt;&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1423715739" CREATED="1445755973601" MODIFIED="1445755973601"/>
 </node>
-<node TEXT="four VarSets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_528468599" CREATED="1445756213483" MODIFIED="1445757371727">
+<node TEXT="five VarSets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_528468599" CREATED="1445756213483" MODIFIED="1445763433794">
 <node TEXT="all useful, easy to keep" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_422749904" CREATED="1445757373083" MODIFIED="1445757379711"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1515597198" CREATED="1445763428527" MODIFIED="1445763436078"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      TEXT=&quot;root&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="false"/>
+</node>
 <node TEXT="LOCALIZED_STYLE_REF=&quot;default&quot;" ID="ID_1453957414" CREATED="1445756224427" MODIFIED="1445756274898"/>
 <node TEXT="ID=&quot;ID_1201843186&quot;" ID="ID_1520139828" CREATED="1445756238128" MODIFIED="1445756271658"/>
 <node TEXT="CREATED=&quot;1336484964936&quot;" ID="ID_804936380" CREATED="1445756267837" MODIFIED="1445756267837"/>
@@ -15392,7 +15416,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -15431,6 +15454,9 @@
 </node>
 </node>
 </node>
+<node TEXT="branches nest like &lt;node&gt; _ &lt;/node&gt;" ID="ID_1585682135" CREATED="1445762066052" MODIFIED="1445762077726">
+<node TEXT="and fonts and arrows are always immedj after the node they apply to, before the next node" LOCALIZED_STYLE_REF="default" ID="ID_424116081" CREATED="1445762080637" MODIFIED="1445762118728"/>
+</node>
 <node TEXT="escape characters" LOCALIZED_STYLE_REF="default" ID="ID_1857605411" CREATED="1445756985147" MODIFIED="1445759594888">
 <node TEXT="small test" LOCALIZED_STYLE_REF="styles.topic" ID="ID_943855792" CREATED="1445759600733" MODIFIED="1445760617826">
 <node TEXT="the node that tested them" ID="ID_886544846" CREATED="1445759587613" MODIFIED="1445759592387">
@@ -15462,7 +15488,39 @@
 </node>
 </node>
 </node>
-<node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1445755838127">
+<node TEXT="/&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1398251704" CREATED="1445807846840" MODIFIED="1445808529144">
+<node TEXT="&lt;&gt;s ending with that have no outside &lt;&gt; that ends them" ID="ID_95605721" CREATED="1445808463264" MODIFIED="1445808483154"/>
+<node TEXT="that is, there are these two options" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1309053557" CREATED="1445808483386" MODIFIED="1445808507742">
+<node TEXT="&lt;node _ /&gt;" ID="ID_1644085157" CREATED="1445808486161" MODIFIED="1445808493533"/>
+<node TEXT="&lt;node _&gt; _ &lt;/node&gt;" ID="ID_995772351" CREATED="1445808499486" MODIFIED="1445808505518"/>
+</node>
+</node>
+<node TEXT="haskell rep (planned)" ID="ID_1761484128" CREATED="1445763365119" MODIFIED="1445763584084">
+<node TEXT="Node" ID="ID_1951439036" CREATED="1445763407799" MODIFIED="1445763517285">
+<node TEXT="text" ID="ID_497451626" CREATED="1445763442671" MODIFIED="1445763447413"/>
+<node TEXT="style" ID="ID_1636575046" CREATED="1445763447615" MODIFIED="1445763448477"/>
+<node TEXT="id" ID="ID_1747711943" CREATED="1445763448679" MODIFIED="1445763449197"/>
+<node TEXT="created" ID="ID_584372886" CREATED="1445763449415" MODIFIED="1445763451461">
+<node TEXT="two varieties, Freeplane or native Haskell measure" ID="ID_1194200772" CREATED="1445763456271" MODIFIED="1445763481838"/>
+</node>
+<node TEXT="modified" ID="ID_1896166281" CREATED="1445763451711" MODIFIED="1445763452749">
+<node TEXT="two varieties, Freeplane or native Haskell measure" ID="ID_503289272" CREATED="1445763456271" MODIFIED="1445763481838"/>
+</node>
+<node TEXT="fonts" ID="ID_1920506163" CREATED="1445763521910" MODIFIED="1445763522741"/>
+<node TEXT="arrows" ID="ID_1908849704" CREATED="1445763528790" MODIFIED="1445763529732"/>
+</node>
+<node TEXT="Branch" ID="ID_753813754" CREATED="1445763496278" MODIFIED="1445763518438">
+<node TEXT="top :: Node" ID="ID_1611350982" CREATED="1445763498799" MODIFIED="1445763515546"/>
+<node TEXT="successors :: [Branch]" ID="ID_1989432479" CREATED="1445763502199" MODIFIED="1445763539985"/>
+</node>
+<node TEXT="? need escape characters" ID="ID_1378995764" CREATED="1445763864703" MODIFIED="1445763868285">
+<node TEXT="surely not to store, only if at all for UI" ID="ID_1615449523" CREATED="1445763872535" MODIFIED="1445763899527"/>
+</node>
+</node>
+</node>
+<node TEXT="the natural tidal would use functions, have a monoid that is a cycle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1222238007" CREATED="1445930769443" MODIFIED="1445930788601"/>
+<node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1445763978975">
+<font BOLD="false"/>
 <node TEXT="fp complete" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1443638662983">
 <node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_514995313" CREATED="1443637160838" MODIFIED="1443637160838" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
 <node TEXT="&quot;Following this specification, we can easily write the parser as follows&quot; ..." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1100284346" CREATED="1443637171261" MODIFIED="1443637181453"/>
@@ -15944,13 +16002,15 @@
 <node TEXT="from Aeson.hs/TH.hs" ID="ID_290691486" CREATED="1436604221597" MODIFIED="1436604247494"/>
 </node>
 </node>
-<node TEXT="study" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1443671959622">
+<node TEXT="study" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1445763959136">
 <node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
 <node TEXT="semantic net" ID="ID_1072407917" CREATED="1443671949382" MODIFIED="1443671951285"/>
+<node TEXT="&quot;finely tagless&quot;" ID="ID_123617266" CREATED="1443756430157" MODIFIED="1445763971037">
+<node TEXT="phil freeman" ID="ID_471617539" CREATED="1443751687834" MODIFIED="1445763966478"/>
 </node>
-<node TEXT="hartman" POSITION="right" ID="ID_471617539" CREATED="1443751687834" MODIFIED="1443751689736">
-<node TEXT="&quot;finely tagless" ID="ID_123617266" CREATED="1443756430157" MODIFIED="1443756436272"/>
-<node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683"/>
+<node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683">
+<node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
+</node>
 </node>
 <node TEXT="loop" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1730897790" CREATED="1407000260013" MODIFIED="1407050898981">
 <node TEXT="links out" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1566064264" CREATED="1407000261901" MODIFIED="1407000275470">

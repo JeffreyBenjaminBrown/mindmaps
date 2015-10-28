@@ -5262,6 +5262,9 @@
 <node TEXT="quoting Wikipedia" ID="ID_705710706" CREATED="1445739966905" MODIFIED="1445739969295"/>
 <node TEXT="&quot;the percentage of children ages 5 through 17 who are homeschooled increased from 1.7% in 1999 to 2.9% in 2007&quot;" ID="ID_826319507" CREATED="1445739964673" MODIFIED="1445739966032"/>
 </node>
+<node TEXT="science v. quantum" ID="ID_1544627309" CREATED="1445848680463" MODIFIED="1445848685404">
+<node TEXT="one story|logic v. many" ID="ID_8914982" CREATED="1445848685815" MODIFIED="1445848691473"/>
+</node>
 </node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">

@@ -6295,5 +6295,12 @@
 <node TEXT="actually with Audacity but it can&apos;t do realtime|latency" ID="ID_1678957173" CREATED="1443149096975" MODIFIED="1443149106028"/>
 </node>
 </node>
+<node TEXT="Tidal Jack Audacity" POSITION="right" ID="ID_348969370" CREATED="1445926130639" MODIFIED="1445926137312">
+<node TEXT="dependencies" ID="ID_143505634" CREATED="1445926118998" MODIFIED="1445926121336">
+<node TEXT="start Jack before Tidal" ID="ID_304651424" CREATED="1445926141975" MODIFIED="1445926145919"/>
+<node TEXT="not need to mess with Jack/setup" ID="ID_1008530809" CREATED="1445926177111" MODIFIED="1445926182159"/>
+<node TEXT="start Dirt and then Audacity sees it" ID="ID_1135097336" CREATED="1445926191310" MODIFIED="1445926199064"/>
+</node>
+</node>
 </node>
 </map>
