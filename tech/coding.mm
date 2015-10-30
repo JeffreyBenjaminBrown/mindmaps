@@ -2687,6 +2687,10 @@
 </node>
 </node>
 </node>
+<node TEXT="LA locals recd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_262718912" CREATED="1445892331149" MODIFIED="1446240793103">
+<node TEXT="algebraic data types" ID="ID_1541107317" CREATED="1445401318692" MODIFIED="1445401323037"/>
+<node TEXT="pogo: audio-video mashup" ID="ID_669125445" CREATED="1445402615168" MODIFIED="1445402634365"/>
+</node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="dwt &amp; dwt+" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1673927663" CREATED="1438458705692" MODIFIED="1445763955234">
@@ -15323,6 +15327,31 @@
 <node TEXT="rep text" ID="ID_76008602" CREATED="1444937390928" MODIFIED="1444937399304">
 <node TEXT="add space at punct" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1330020860" CREATED="1444871372000" MODIFIED="1444871382082"/>
 <node TEXT="lininess : font for punct" ID="ID_769537010" CREATED="1444795147332" MODIFIED="1444795167215"/>
+</node>
+<node TEXT="graph" ID="ID_236782818" CREATED="1446238848945" MODIFIED="1446238849838">
+<node TEXT="Tikhon Jelvis presents functional graphs" ID="ID_1757240917" CREATED="1445901807591" MODIFIED="1445901813897">
+<node TEXT="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html" ID="ID_880485973" CREATED="1445901814399" MODIFIED="1445901814399" LINK="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html"/>
+</node>
+<node TEXT="locals recd" ID="ID_231251210" CREATED="1446238857312" MODIFIED="1446238859103">
+<node TEXT="dot (is name of?) graph framework" ID="ID_116463662" CREATED="1444711023758" MODIFIED="1445740949396"/>
+<node TEXT="semantic web" ID="ID_1629050878" CREATED="1444711357022" MODIFIED="1444711358738">
+<node TEXT="wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1444711453556"/>
+<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="the .mm format" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1445763953065">

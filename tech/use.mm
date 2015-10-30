@@ -6187,6 +6187,35 @@
 <node TEXT="2015 10 20: stack upgrade" ID="ID_867761083" CREATED="1445315242335" MODIFIED="1445315248236">
 <node TEXT="because &quot;stack upgrade&quot; was not automatically retrying, and I read that lately it does" ID="ID_697631053" CREATED="1445315249295" MODIFIED="1445315267831"/>
 </node>
+<node TEXT="2015 10 26" ID="ID_1311837583" CREATED="1445900209184" MODIFIED="1446238800562">
+<font BOLD="true"/>
+<node TEXT="libpulse-dev" ID="ID_1314316835" CREATED="1445909474249" MODIFIED="1445909477288">
+<node TEXT="2015 10 26 4 pm" ID="ID_1376569111" CREATED="1445900213492" MODIFIED="1445900231556"/>
+<node TEXT="sudo apt-get install libpulse-dev" ID="ID_553553176" CREATED="1445900211364" MODIFIED="1445900211364"/>
+</node>
+<node TEXT="dirt versions" ID="ID_407604305" CREATED="1445899986744" MODIFIED="1445899988717">
+<node TEXT="the older, pulse-audio-friendly Dirt" ID="ID_275097273" CREATED="1445899965619" MODIFIED="1445909506146">
+<node TEXT="this is a git revision number" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1437617482" CREATED="1445909507707" MODIFIED="1445909515862"/>
+<node TEXT="4106dbda63f516d1e1bec15231eee62a581d5fe7" ID="ID_59743560" CREATED="1445899972511" MODIFIED="1445899973663"/>
+</node>
+<node TEXT="master = newest" ID="ID_1519868112" CREATED="1445899996419" MODIFIED="1445899998580">
+<node TEXT="to update to the newest, don&apos;t need the revision number, just call it master" ID="ID_160555267" CREATED="1445909519830" MODIFIED="1445909534020"/>
+</node>
+<node TEXT="dirt and dirt-pulse are both &quot;installed&quot;" ID="ID_981100435" CREATED="1445900363015" MODIFIED="1445900371447"/>
+</node>
+<node TEXT="audacity" ID="ID_1950371467" CREATED="1445910168800" MODIFIED="1445910171891">
+<node TEXT="apt-get: installed, removed" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_637718931" CREATED="1445913228824" MODIFIED="1445913239576">
+<node TEXT="sudo apt-get install audacity" ID="ID_516978570" CREATED="1445910175437" MODIFIED="1445910179713"/>
+<node TEXT="sudo apt-get remove audacity" ID="ID_1511628450" CREATED="1445910175437" MODIFIED="1445913237594"/>
+</node>
+<node TEXT="sudo add-apt-repository ppa:ubuntuhandbook1/audacity" ID="ID_317678557" CREATED="1445913254799" MODIFIED="1445913309777"/>
+<node TEXT="sudo apt-get update" ID="ID_1983260345" CREATED="1445913278328" MODIFIED="1445913279134"/>
+<node TEXT="sudo apt-get install audacity" ID="ID_1650122437" CREATED="1445910175437" MODIFIED="1445910179713"/>
+</node>
+</node>
+<node TEXT="2015 10 28: VLC / Jack" ID="ID_1564440551" CREATED="1446063636967" MODIFIED="1446063658393">
+<node TEXT="sudo apt-get install vlc-plugin-jack" ID="ID_1792259083" CREATED="1446063649879" MODIFIED="1446063650965"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">

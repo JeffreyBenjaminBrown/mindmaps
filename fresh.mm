@@ -5266,6 +5266,79 @@
 <node TEXT="one story|logic v. many" ID="ID_8914982" CREATED="1445848685815" MODIFIED="1445848691473"/>
 </node>
 </node>
+<node TEXT="30" ID="ID_1148564851" CREATED="1446240667834" MODIFIED="1446240668626">
+<node TEXT="? am await char change" ID="ID_1652160970" CREATED="1445737392768" MODIFIED="1445737407496">
+<node TEXT="char changes" ID="ID_1824062147" CREATED="1445737449400" MODIFIED="1445737450969">
+<node TEXT="adulthood" ID="ID_418449064" CREATED="1445737453487" MODIFIED="1445737454879"/>
+<node TEXT="? search for them" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1322003263" CREATED="1445737456160" MODIFIED="1445737459796">
+<node TEXT="devel, rolf" ID="ID_1567866651" CREATED="1445737542488" MODIFIED="1445737544734"/>
+</node>
+</node>
+</node>
+<node TEXT="Are we the happiest?" ID="ID_170797820" CREATED="1446155483030" MODIFIED="1446155495152"/>
+<node TEXT="wolverine seduces bear" ID="ID_335357398" CREATED="1446155797768" MODIFIED="1446239297431">
+<node TEXT="https://www.youtube.com/watch?v=QJ4tyowlVUM" ID="ID_1114011457" CREATED="1446155832815" MODIFIED="1446155832815" LINK="https://www.youtube.com/watch?v=QJ4tyowlVUM"/>
+<node TEXT="wasthe wolverine sending fear the bear could sense and enjoyed (egoj) and thereby bought the safety to bite at bear&apos;s face?" ID="ID_282871396" CREATED="1446155925894" MODIFIED="1446155957567"/>
+</node>
+<node TEXT="cute halloween possum" ID="ID_100790249" CREATED="1446156208142" MODIFIED="1446156213223">
+<node TEXT="big eyes, small mouth, angular face" ID="ID_1930756543" CREATED="1446156219455" MODIFIED="1446156231855"/>
+</node>
+<node TEXT="!! retreat categoryward" LOCALIZED_STYLE_REF="styles.topic" ID="ID_672480432" CREATED="1446156383870" MODIFIED="1446156407508"/>
+<node TEXT="to declare for oneself opportunities mirages" ID="ID_131551900" CREATED="1446174481490" MODIFIED="1446174482570"/>
+<node TEXT="stories" ID="ID_782965560" CREATED="1446174574138" MODIFIED="1446239335002">
+<font BOLD="true"/>
+<node TEXT="_ wants _ and needs _ for it but thinks _" ID="ID_453732008" CREATED="1446174585298" MODIFIED="1446174661189"/>
+<node TEXT="_ finds a promised deliverable, must reconstruct the promise" ID="ID_95946723" CREATED="1446174641363" MODIFIED="1446174659585"/>
+<node TEXT="_ needs _, thinks _ and can _,, while someone else _." ID="ID_77492607" CREATED="1446174708467" MODIFIED="1446174769077"/>
+<node TEXT="_ needs _ to be careful, is afraid to explain it" ID="ID_1401697690" CREATED="1446174803803" MODIFIED="1446174830696"/>
+<node TEXT="_ preconceives _, then they meet" ID="ID_1900987400" CREATED="1446174877899" MODIFIED="1446174889130">
+<node TEXT="and preconceptions adjust" ID="ID_1734759962" CREATED="1446174895939" MODIFIED="1446174901600"/>
+</node>
+<node TEXT="A wants to know _, interrogates B, who reads A." ID="ID_1035196682" CREATED="1446174993148" MODIFIED="1446175074989">
+<node TEXT="read, infer motive" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1033315270" CREATED="1446175025864" MODIFIED="1446175084215"/>
+</node>
+<node TEXT="_ was an illusion|real" ID="ID_474754608" CREATED="1446175112251" MODIFIED="1446175138680">
+<node TEXT="was the whole time" ID="ID_1713383538" CREATED="1446175139402" MODIFIED="1446175142967"/>
+</node>
+<node TEXT="_ never needed _" ID="ID_1267270019" CREATED="1446175184218" MODIFIED="1446175187753">
+<node TEXT="varts" LOCALIZED_STYLE_REF="default" ID="ID_48531580" CREATED="1446175244955" MODIFIED="1446175282008">
+<node TEXT="_ was always able _" ID="ID_332277341" CREATED="1446175218875" MODIFIED="1446175233905"/>
+<node TEXT="overestimated the value" ID="ID_39879335" CREATED="1446175241467" MODIFIED="1446175269163"/>
+</node>
+</node>
+</node>
+<node TEXT="sudoku, the dead look alive" ID="ID_1309700549" CREATED="1446175334987" MODIFIED="1446175341584"/>
+<node TEXT="social ambition" ID="ID_1633090138" CREATED="1446179793340" MODIFIED="1446179796460">
+<node TEXT="is main, dupd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1015623641" CREATED="1446239354824" MODIFIED="1446239359651"/>
+</node>
+<node TEXT="? accountability partner because I make better decisions if they rather than I choose when I experience reward." ID="ID_376615364" CREATED="1446182040917" MODIFIED="1446239389322"/>
+<node TEXT="dropout :: music, drugs" ID="ID_145935785" CREATED="1446187113182" MODIFIED="1446240380165">
+<node TEXT="certainly at least most drug and music experiences seem like escape.  however the music experience can be a socially engaged one.  (even drugs, one can imagine doing in a socially engaged way, ala Timothy Leary ... but it&apos;s certainly rare.)" ID="ID_1284901035" CREATED="1446240385697" MODIFIED="1446240473709"/>
+</node>
+<node TEXT="does it feel fiery, having been born?" ID="ID_536035139" CREATED="1446187532431" MODIFIED="1446187539949">
+<node TEXT="self as fire" ID="ID_787847687" CREATED="1446187548039" MODIFIED="1446187552797"/>
+<node TEXT="structures (e.g. preconceptions) imposed under pressure, conseqs not fully recogd" ID="ID_1488790936" CREATED="1446187553006" MODIFIED="1446240490563"/>
+</node>
+<node TEXT="imagine &lt; observe &lt; engage" ID="ID_739654616" CREATED="1446188126870" MODIFIED="1446188136109">
+<node TEXT="in maximum expected return, maximizing across all objects of observation|the other two" ID="ID_72340476" CREATED="1446188170254" MODIFIED="1446188221525">
+<node TEXT="that is, for a given experience observation is often better than engagement, perhaps initially, perhaps always" ID="ID_898080540" CREATED="1446188231734" MODIFIED="1446188252651"/>
+</node>
+</node>
+<node TEXT="remember, people are awesome" ID="ID_1059790120" CREATED="1446188533542" MODIFIED="1446188538259">
+<node TEXT="other ways of knowing" ID="ID_1676410859" CREATED="1446188549478" MODIFIED="1446188553037">
+<node TEXT="most (specific) ethnicities I know little about" ID="ID_195862344" CREATED="1446188633670" MODIFIED="1446188655556">
+<node TEXT="specific a measure in which filipino &gt; asian" ID="ID_784929357" CREATED="1446188659741" MODIFIED="1446188681469"/>
+</node>
+<node TEXT="surprise everywhere" ID="ID_1961599327" CREATED="1446188706998" MODIFIED="1446188710571"/>
+<node TEXT="art" ID="ID_1907960763" CREATED="1446188740231" MODIFIED="1446188740924"/>
+</node>
+<node TEXT="selflessness" ID="ID_812554210" CREATED="1446188560045" MODIFIED="1446188602213"/>
+<node TEXT="synergy" ID="ID_825302033" CREATED="1446188617718" MODIFIED="1446188619244">
+<node TEXT="interdiscipline" ID="ID_1511042200" CREATED="1446188898038" MODIFIED="1446188903581"/>
+</node>
+<node TEXT="dancing" ID="ID_199486418" CREATED="1446188865150" MODIFIED="1446188872502"/>
+</node>
+</node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">
 <node TEXT="seps" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_628470965" CREATED="1444683976846" MODIFIED="1444683980267">
