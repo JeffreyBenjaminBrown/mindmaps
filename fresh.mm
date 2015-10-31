@@ -4015,6 +4015,9 @@
 <node TEXT="&quot;/&quot; can split a word" ID="ID_961092347" CREATED="1444679285168" MODIFIED="1444679292006">
 <node TEXT="b/c" ID="ID_1281543245" CREATED="1444679298560" MODIFIED="1444679299238"/>
 </node>
+<node TEXT="if the whole doc purple, purple not useful to indicate problematic" ID="ID_1006759600" CREATED="1446270499743" MODIFIED="1446270517765">
+<node TEXT="is main, dupd" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_602180140" CREATED="1446271581575" MODIFIED="1446271590137"/>
+</node>
 </node>
 <node TEXT="rhythm" ID="ID_342538834" CREATED="1444289008339" MODIFIED="1444289009545">
 <node TEXT="distinguish sleep" ID="ID_1937925864" CREATED="1426312692023" MODIFIED="1444289018854">
@@ -5265,8 +5268,12 @@
 <node TEXT="science v. quantum" ID="ID_1544627309" CREATED="1445848680463" MODIFIED="1445848685404">
 <node TEXT="one story|logic v. many" ID="ID_8914982" CREATED="1445848685815" MODIFIED="1445848691473"/>
 </node>
+<node TEXT="? always say &quot;good to see you&quot;" ID="ID_803083052" CREATED="1445750764567" MODIFIED="1446311829809">
+<node TEXT="between nice to meet you and good to see you again" ID="ID_592332394" CREATED="1445750774935" MODIFIED="1445750783285"/>
 </node>
-<node TEXT="30" ID="ID_1148564851" CREATED="1446240667834" MODIFIED="1446240668626">
+</node>
+<node TEXT="28?-29" ID="ID_1148564851" CREATED="1446240667834" MODIFIED="1446269387034">
+<node TEXT="transported here then" ID="ID_1560992742" CREATED="1446269368190" MODIFIED="1446269372281"/>
 <node TEXT="? am await char change" ID="ID_1652160970" CREATED="1445737392768" MODIFIED="1445737407496">
 <node TEXT="char changes" ID="ID_1824062147" CREATED="1445737449400" MODIFIED="1445737450969">
 <node TEXT="adulthood" ID="ID_418449064" CREATED="1445737453487" MODIFIED="1445737454879"/>
@@ -5320,7 +5327,7 @@
 <node TEXT="structures (e.g. preconceptions) imposed under pressure, conseqs not fully recogd" ID="ID_1488790936" CREATED="1446187553006" MODIFIED="1446240490563"/>
 </node>
 <node TEXT="imagine &lt; observe &lt; engage" ID="ID_739654616" CREATED="1446188126870" MODIFIED="1446188136109">
-<node TEXT="in maximum expected return, maximizing across all objects of observation|the other two" ID="ID_72340476" CREATED="1446188170254" MODIFIED="1446188221525">
+<node TEXT="in maximum expected return, maximizing across all objects of [imag?|observation|engagement|.]" ID="ID_72340476" CREATED="1446188170254" MODIFIED="1446269446179">
 <node TEXT="that is, for a given experience observation is often better than engagement, perhaps initially, perhaps always" ID="ID_898080540" CREATED="1446188231734" MODIFIED="1446188252651"/>
 </node>
 </node>
@@ -5338,6 +5345,21 @@
 </node>
 <node TEXT="dancing" ID="ID_199486418" CREATED="1446188865150" MODIFIED="1446188872502"/>
 </node>
+</node>
+<node TEXT="30" ID="ID_1464818564" CREATED="1446269572477" MODIFIED="1446269573271">
+<node TEXT="&quot;no. maybe.&quot;" ID="ID_1768334361" CREATED="1446269574046" MODIFIED="1446269577448"/>
+<node TEXT="karma the longest lived" ID="ID_1463232998" CREATED="1446269662718" MODIFIED="1446269667888"/>
+<node TEXT="perhaps you(in particular) chaos" ID="ID_1525113621" CREATED="1446269838862" MODIFIED="1446269849186">
+<node TEXT="~self,other ~asymm" ID="ID_1338645159" CREATED="1446269866846" MODIFIED="1446269899451"/>
+</node>
+<node TEXT="comma should include all rels" ID="ID_1648890592" CREATED="1446269901029" MODIFIED="1446269904821"/>
+<node TEXT="what can I learn from _ about (my effects on) the other _ in our common _ experience?" ID="ID_1105365059" CREATED="1446270029955" MODIFIED="1446270065188"/>
+<node TEXT="a dumb ?art market in motivational(so intended by the consumer) sadness(sold), korn" ID="ID_1854387217" CREATED="1446270224485" MODIFIED="1446270276128"/>
+<node TEXT="church, insur, exclusive begging oppor if disaster" ID="ID_712579280" CREATED="1446270533256" MODIFIED="1446270552597">
+<node TEXT="selection process" ID="ID_1807889399" CREATED="1446270584480" MODIFIED="1446270587280"/>
+</node>
+<node TEXT="sober ~ angry, aware" ID="ID_1331444769" CREATED="1446277941018" MODIFIED="1446277948649"/>
+<node TEXT="stretch @ start, not end" ID="ID_1706779518" CREATED="1446278726934" MODIFIED="1446278730624"/>
 </node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">
@@ -5569,9 +5591,6 @@
 <node TEXT="(I) : incomplete" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_776012559" CREATED="1444262576968" MODIFIED="1444262585270"/>
 <node TEXT="rep : sort" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_376020822" CREATED="1445654790162" MODIFIED="1445654835100">
 <node TEXT="is mess: relative to ag, group, art, maybe even proc" ID="ID_941243739" CREATED="1445654799570" MODIFIED="1445654851296"/>
-</node>
-<node TEXT="always say &quot;good to see you&quot;" ID="ID_803083052" CREATED="1445750764567" MODIFIED="1445750774294">
-<node TEXT="between nice to meet you and good to see you again" ID="ID_592332394" CREATED="1445750774935" MODIFIED="1445750783285"/>
 </node>
 </node>
 </node>

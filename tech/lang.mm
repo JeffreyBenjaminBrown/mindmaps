@@ -19260,6 +19260,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="in a rhythm on 31et pitches 17-19 class 17 and 19 similar" ID="ID_826552244" CREATED="1446183890124" MODIFIED="1446183904899"/>
 </node>
+<node TEXT="speed(procg)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_311069048" CREATED="1446316271007" MODIFIED="1446316286012">
+<node TEXT="does Tidal ? prefer, for memory|speed purposes, the encoding &quot;bd*4&quot; to &quot;bd bd bd bd&quot;" ID="ID_1004084175" CREATED="1440795517545" MODIFIED="1440795549233"/>
+</node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">
