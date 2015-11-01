@@ -3898,6 +3898,9 @@
 <node TEXT="filter 10 4 .." LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1387473446" CREATED="1440563730721" MODIFIED="1444034672590">
 <node TEXT="topics" ID="ID_1044057121" CREATED="1440796828866" MODIFIED="1444099369024">
 <font BOLD="true" ITALIC="false"/>
+<node TEXT="info being &amp; motiv" ID="ID_855376018" CREATED="1446326442291" MODIFIED="1446326445121">
+<node TEXT="as a memory, motivation problems reduce to &quot;processing [object]&quot;" ID="ID_805905750" CREATED="1446326407723" MODIFIED="1446326458692"/>
+</node>
 <node TEXT="rep / haskell" ID="ID_523622818" CREATED="1444095124089" MODIFIED="1444097620649">
 <node TEXT="Having loaded (with &quot;:l) some code, how to load more, keeping it?" ID="ID_1698997388" CREATED="1444095128609" MODIFIED="1444095146118"/>
 </node>
@@ -3929,6 +3932,9 @@
 <node TEXT="e.g. a logical flaw" ID="ID_1052503595" CREATED="1444188611882" MODIFIED="1444188617211"/>
 </node>
 </node>
+</node>
+<node TEXT="a rel : &quot;were once connected&quot;" ID="ID_115561306" CREATED="1446332921287" MODIFIED="1446332925566">
+<node TEXT="like comma, is projected to form many rels the info of which is otherwise destroyed" ID="ID_1097320709" CREATED="1446332926350" MODIFIED="1446332939381"/>
 </node>
 </node>
 <node TEXT="rep" ID="ID_1723775814" CREATED="1444034622741" MODIFIED="1444263223458">
@@ -4050,6 +4056,8 @@
 <node TEXT="how wingsuit users learn a path" ID="ID_439456403" CREATED="1445753079720" MODIFIED="1445753106728">
 <node TEXT="successively closer to grooves in a mountain" ID="ID_1950478150" CREATED="1445753107944" MODIFIED="1445753114806"/>
 </node>
+<node TEXT="all statements are relationships" ID="ID_1689085779" CREATED="1446324775010" MODIFIED="1446324778168"/>
+<node TEXT="harmonics generalized from cycles to patterns" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1699782931" CREATED="1413779673762" MODIFIED="1446336084417"/>
 </node>
 <node TEXT="group  &amp;&amp;  info/ trasc" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1300502584" CREATED="1445751414275" MODIFIED="1445751470201">
 <node TEXT="&quot;in my day we used to&quot;" LOCALIZED_STYLE_REF="default" ID="ID_678177181" CREATED="1445751338536" MODIFIED="1445751427720">
@@ -5360,6 +5368,9 @@
 </node>
 <node TEXT="sober ~ angry, aware" ID="ID_1331444769" CREATED="1446277941018" MODIFIED="1446277948649"/>
 <node TEXT="stretch @ start, not end" ID="ID_1706779518" CREATED="1446278726934" MODIFIED="1446278730624"/>
+</node>
+<node TEXT="31" ID="ID_1499013138" CREATED="1446324548242" MODIFIED="1446324548655">
+<node TEXT="dispatch a pair to process each other" ID="ID_1365135442" CREATED="1446324543594" MODIFIED="1446324548017"/>
 </node>
 </node>
 <node TEXT="who &amp; power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_955218473" CREATED="1444630022007" MODIFIED="1444683895542">
