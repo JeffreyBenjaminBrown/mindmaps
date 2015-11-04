@@ -15353,6 +15353,21 @@
 </node>
 </node>
 </node>
+<node TEXT="2015 11 04" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_655494282" CREATED="1446673840963" MODIFIED="1446673849187">
+<node TEXT="jelvis on fgl" ID="ID_1712729005" CREATED="1446420977541" MODIFIED="1446673809738">
+<node TEXT="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html" ID="ID_1793956757" CREATED="1446420990651" MODIFIED="1446420990651" LINK="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html"/>
+<node TEXT="? what is the haskell extension that gives you pattern matching for graphs" ID="ID_564910657" CREATED="1446420962712" MODIFIED="1446420976733">
+<node TEXT="view patterns?" ID="ID_828674470" CREATED="1446420986519" MODIFIED="1446420988918"/>
+</node>
+</node>
+<node TEXT="view patterns" ID="ID_1658568702" CREATED="1446421888048" MODIFIED="1446673811048">
+<node TEXT="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns" ID="ID_549538962" CREATED="1446421892055" MODIFIED="1446421892055" LINK="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns"/>
+</node>
+<node TEXT="fgl + random + monad transf + view patt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1142625638" CREATED="1446421898680" MODIFIED="1446673812616">
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_1678242844" CREATED="1446421910805" MODIFIED="1446421910805" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="Tikhon Jelvis" ID="ID_334708065" CREATED="1446422281336" MODIFIED="1446422286558"/>
+</node>
+</node>
 </node>
 <node TEXT="the .mm format" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1445763953065">
 <node TEXT="text rep (observed)" ID="ID_772765326" CREATED="1445763574103" MODIFIED="1445763580576">
