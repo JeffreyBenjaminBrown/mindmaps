@@ -6216,6 +6216,9 @@
 <node TEXT="2015 10 28: VLC / Jack" ID="ID_1564440551" CREATED="1446063636967" MODIFIED="1446063658393">
 <node TEXT="sudo apt-get install vlc-plugin-jack" ID="ID_1792259083" CREATED="1446063649879" MODIFIED="1446063650965"/>
 </node>
+<node TEXT="2015 11 10: R" ID="ID_1936005432" CREATED="1447185918351" MODIFIED="1447185923210">
+<node TEXT="sudo apt-get install r-base" ID="ID_970209957" CREATED="1447185924142" MODIFIED="1447185928491"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">

@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="lang" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1433835911056"><hook NAME="MapStyle" zoom="1.241">
+<node TEXT="lang" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1433835911056"><hook NAME="MapStyle" zoom="1.365">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -19314,6 +19314,77 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="tidal &amp; graph" ID="ID_1037857247" CREATED="1446671030482" MODIFIED="1446671034017">
 <node TEXT="Might I have to parse a graph into instructions, and then those instructions into Tidal messages?" ID="ID_1338256089" CREATED="1446533217277" MODIFIED="1446533231907"/>
+</node>
+<node TEXT="Pattern(s) -&gt; (OscPattern = Pattern OscMap)" LOCALIZED_STYLE_REF="default" ID="ID_1216177203" CREATED="1446937396688" MODIFIED="1447108150073">
+<node TEXT="type OscMap = Map Param (Maybe Datum)" LOCALIZED_STYLE_REF="default" ID="ID_1101205032" CREATED="1446937510950" MODIFIED="1447107870694">
+<node TEXT=". defined at Stream.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1768282417" CREATED="1446937741894" MODIFIED="1446937746541"/>
+<node TEXT="Datum = Sound.OSC.Type.Datum" ID="ID_686262991" CREATED="1446937537065" MODIFIED="1446937539387"/>
+<node TEXT="Map = Data.Map" ID="ID_53141691" CREATED="1446937539894" MODIFIED="1446937559165"/>
+</node>
+<node TEXT="data Pattern a = Pattern {arc :: Arc -&gt; [Event a]}" LOCALIZED_STYLE_REF="default" ID="ID_154297501" CREATED="1446937719430" MODIFIED="1447107868231">
+<node TEXT=". defined at Pattern.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_34197177" CREATED="1446937721238" MODIFIED="1446937728605"/>
+</node>
+<node TEXT="type OscPattern = Pattern OscMap" ID="ID_1567909426" CREATED="1446937461062" MODIFIED="1446937462405">
+<node TEXT=". defined at Stream.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1492667192" CREATED="1446937741894" MODIFIED="1446937746541"/>
+</node>
+<node TEXT="sound :: Pattern String -&gt; OscPattern" LOCALIZED_STYLE_REF="default" ID="ID_253448661" CREATED="1446937428134" MODIFIED="1447107880210">
+<node TEXT="@ Params.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1784632505" CREATED="1446937780637" MODIFIED="1446937786228"/>
+</node>
+<node TEXT="sound &quot;bd sn&quot;" ID="ID_767805985" CREATED="1447108047799" MODIFIED="1447108056967"/>
+</node>
+<node TEXT="solved" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1518268650" CREATED="1447107740303" MODIFIED="1447107741671">
+<node TEXT="Pattern.arc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_581772183" CREATED="1446938981997" MODIFIED="1446960359916">
+<node TEXT="tests" ID="ID_1371231160" CREATED="1446938996621" MODIFIED="1446938998292">
+<node TEXT=".ordered" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1870739377" CREATED="1446939000949" MODIFIED="1446939002896"/>
+<node TEXT="def" ID="ID_920347956" CREATED="1446939007612" MODIFIED="1446939008434">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; let x = &quot;bd sn&quot; :: Pattern String" ID="ID_1927343914" CREATED="1446938994168" MODIFIED="1446938994168"/>
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; x" ID="ID_522795611" CREATED="1446938994168" MODIFIED="1446938994168"/>
+<node TEXT="(&quot;bd&quot; 0 1/2) (&quot;sn&quot; 1/2 1)" ID="ID_290212627" CREATED="1446938994176" MODIFIED="1446938994176"/>
+</node>
+<node TEXT="queries" ID="ID_1226294302" CREATED="1446939018877" MODIFIED="1446939020612">
+<node TEXT="(0,1/2) =&gt; bd" ID="ID_113253515" CREATED="1446939025276" MODIFIED="1446939144755">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (0,1/2)" ID="ID_1320816176" CREATED="1446938994177" MODIFIED="1446938994177"/>
+<node TEXT="[((0 % 1,1 % 2),(0 % 1,1 % 2),&quot;bd&quot;)]" ID="ID_1096568415" CREATED="1446938994179" MODIFIED="1446938994179"/>
+</node>
+<node TEXT="(0,2/3) =&gt; both events" ID="ID_587101315" CREATED="1446939027165" MODIFIED="1446939170635">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (0,2/3)" ID="ID_820119540" CREATED="1446938994186" MODIFIED="1446938994186"/>
+<node TEXT="[((0 % 1,1 % 2),(0 % 1,1 % 2),&quot;bd&quot;),((1 % 2,1 % 1),(1 % 2,1 % 1),&quot;sn&quot;)]" ID="ID_772925023" CREATED="1446938994188" MODIFIED="1446938994188"/>
+</node>
+<node TEXT="len 0 =&gt; []" ID="ID_84943812" CREATED="1446939029476" MODIFIED="1446939185118">
+<node TEXT="1/2,1/2" ID="ID_1926764978" CREATED="1446939187468" MODIFIED="1446939190075">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (1/2,1/2)" ID="ID_876154526" CREATED="1446938994195" MODIFIED="1446938994195"/>
+<node TEXT="[]" ID="ID_271159620" CREATED="1446938994203" MODIFIED="1446938994203"/>
+</node>
+</node>
+<node TEXT="(1/5,1/4) =&gt; bd" ID="ID_268359810" CREATED="1446939033181" MODIFIED="1446939213719">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (1/5,1/4)" ID="ID_279576558" CREATED="1446938994230" MODIFIED="1446938994230"/>
+<node TEXT="[((0 % 1,1 % 2),(0 % 1,1 % 2),&quot;bd&quot;)]" ID="ID_1611046443" CREATED="1446938994232" MODIFIED="1446938994232"/>
+</node>
+<node TEXT="" ID="ID_1555978214" CREATED="1446939031325" MODIFIED="1446939031325">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (1/2,2/3)" ID="ID_1227905273" CREATED="1446938994212" MODIFIED="1446938994212"/>
+<node TEXT="[((1 % 2,1 % 1),(1 % 2,1 % 1),&quot;sn&quot;)]" ID="ID_1577644672" CREATED="1446938994217" MODIFIED="1446938994217"/>
+</node>
+<node TEXT="" ID="ID_324545709" CREATED="1446939088772" MODIFIED="1446939088772">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (1/5,1/5)" ID="ID_1916826579" CREATED="1446939087299" MODIFIED="1446939087299"/>
+<node TEXT="[]" ID="ID_34804692" CREATED="1446939087299" MODIFIED="1446939087299"/>
+</node>
+<node TEXT="" ID="ID_1792755867" CREATED="1446939090676" MODIFIED="1446939090676">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (1/5,1/6)" ID="ID_1851689330" CREATED="1446939087302" MODIFIED="1446939087302"/>
+<node TEXT="[]" ID="ID_916000016" CREATED="1446939087304" MODIFIED="1446939087304"/>
+</node>
+<node TEXT="" ID="ID_748533303" CREATED="1446939118420" MODIFIED="1446939118420">
+<node TEXT="*Sound.Tidal.Context Text.ParserCombinators.Parsec&gt; (arc x) (3/4,1/4)" ID="ID_894030095" CREATED="1446939119389" MODIFIED="1446939119389"/>
+<node TEXT="[]" ID="ID_1948972393" CREATED="1446939119389" MODIFIED="1446939119389"/>
+</node>
+</node>
+</node>
+<node TEXT="belief" ID="ID_1713603949" CREATED="1446939222660" MODIFIED="1446939223675">
+<node TEXT="arc len 0 =&gt; no events returned" ID="ID_1619573910" CREATED="1446939224445" MODIFIED="1446939240398"/>
+<node TEXT="arc len &lt; 0 =&gt; no events returned" ID="ID_1408969783" CREATED="1446939240740" MODIFIED="1446939248515"/>
+<node TEXT="arc len &gt; 0 =&gt; all overlapping events returned" ID="ID_1063745949" CREATED="1446939255844" MODIFIED="1446939266889"/>
+</node>
+<node TEXT="how ? elegj generate such a function" ID="ID_1152029708" CREATED="1446939320061" MODIFIED="1446939338337"/>
+</node>
 </node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">

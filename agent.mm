@@ -1978,5 +1978,22 @@
 <node TEXT="27" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_471410061" CREATED="1440754454454" MODIFIED="1440754455811"/>
 <node TEXT="lazy . selfish" ID="ID_1227234827" CREATED="1440754394405" MODIFIED="1440754397892"/>
 </node>
+<node TEXT="import from fresh / _" POSITION="right" ID="ID_1581238567" CREATED="1446853197086" MODIFIED="1446853216104">
+<node ID="ID_488651788" CREATED="1446853204363" MODIFIED="1446853204363"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      filt 2015 10 4 ..
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 </node>
 </map>
