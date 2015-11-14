@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.334">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.213">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -15366,6 +15366,154 @@
 <node TEXT="fgl + random + monad transf + view patt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1142625638" CREATED="1446421898680" MODIFIED="1446673812616">
 <node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_1678242844" CREATED="1446421910805" MODIFIED="1446421910805" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
 <node TEXT="Tikhon Jelvis" ID="ID_334708065" CREATED="1446422281336" MODIFIED="1446422286558"/>
+</node>
+</node>
+<node TEXT="window" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_274644809" CREATED="1447310630033" MODIFIED="1447310636066">
+<node TEXT="now linux-feas" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1234074928" CREATED="1447310649195" MODIFIED="1447310655316"/>
+<node TEXT="not move to new desktop until across-app menu long" LOCALIZED_STYLE_REF="default" ID="ID_1707621818" CREATED="1447310603402" MODIFIED="1447310637818"/>
+<node TEXT="can the across-window within-desktop menu show only one window|rep from each app" ID="ID_1925681692" CREATED="1447310682625" MODIFIED="1447310719254"/>
+</node>
+<node TEXT="rep" ID="ID_1971332367" CREATED="1447378307395" MODIFIED="1447378307962">
+<node TEXT="maybe-free : branch property" ID="ID_136441189" CREATED="1447282551114" MODIFIED="1447282573859">
+<node TEXT="= free of maybes" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1779691373" CREATED="1447282560209" MODIFIED="1447282569694"/>
+<node TEXT="* = nothing the successor of which is &quot;the&quot; maybe" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_243614041" CREATED="1447282589081" MODIFIED="1447282613435"/>
+</node>
+<node TEXT="fgl next : Sum|TidalSeq" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1865428965" CREATED="1447492362423" MODIFIED="1447494420460">
+<node TEXT="| meaning alternatives" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1071537439" CREATED="1447494374515" MODIFIED="1447494390931"/>
+<node TEXT="data Sum = Sum {sum1 :: Sum, sum2 :: Sum} | SumConst Int" ID="ID_1548645041" CREATED="1447492478524" MODIFIED="1447492542816"/>
+<node TEXT="in either case, having to recurse, test for cycles" ID="ID_1398271655" CREATED="1447494354516" MODIFIED="1447494416651"/>
+</node>
+</node>
+<node TEXT="fresh 2015 07 28-11 13 / rep" LOCALIZED_STYLE_REF="default" ID="ID_8499228" CREATED="1446852536863" MODIFIED="1447531565319">
+<font BOLD="true"/>
+<node TEXT="shimmer would not interfere with font" ID="ID_1011808958" CREATED="1446852025991" MODIFIED="1446852031879"/>
+<node TEXT="web-traversing : don&apos;t throw away the queue, it feels good often to return to" ID="ID_99706731" CREATED="1446425985992" MODIFIED="1446426000143"/>
+<node TEXT="rep / haskell" ID="ID_523622818" CREATED="1444095124089" MODIFIED="1444097620649">
+<node TEXT="Having loaded (with &quot;:l) some code, how to load more, keeping it?" ID="ID_1698997388" CREATED="1444095128609" MODIFIED="1444095146118"/>
+</node>
+<node TEXT="rep / dwt" ID="ID_1532426038" CREATED="1444189372220" MODIFIED="1444189375031">
+<node TEXT="dwt will help" ID="ID_1662826625" CREATED="1444187687937" MODIFIED="1444187689687">
+<node TEXT="responsblt" ID="ID_445391052" CREATED="1444187690346" MODIFIED="1444187692568">
+<node TEXT="traverse the right things" ID="ID_259519976" CREATED="1444187695393" MODIFIED="1444187705951">
+<node TEXT="links that should be one-way will be" ID="ID_805051980" CREATED="1444187718778" MODIFIED="1444187729105"/>
+<node TEXT="priorities will not get lost" ID="ID_1205531692" CREATED="1444187736890" MODIFIED="1444187752749"/>
+</node>
+</node>
+<node TEXT="grow _" ID="ID_1340349083" CREATED="1444187787138" MODIFIED="1444187789368">
+<node TEXT="these &quot;topics&quot; are too diverse to be navigable if top" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_539054270" CREATED="1444187801530" MODIFIED="1444187816585"/>
+<node TEXT="fun" ID="ID_329529996" CREATED="1444187790065" MODIFIED="1444187790737"/>
+<node TEXT="love" ID="ID_1556733242" CREATED="1444187794706" MODIFIED="1444187795455"/>
+<node TEXT="awe" ID="ID_673570121" CREATED="1444187829890" MODIFIED="1444187830664"/>
+</node>
+<node TEXT="? add &quot;slow&quot; signs" ID="ID_427757986" CREATED="1444188408010" MODIFIED="1444188414961">
+<node TEXT="is there anything I want to grow but slowly" ID="ID_1695175159" CREATED="1444188417755" MODIFIED="1444188428744"/>
+<node TEXT="mark &quot;specul&quot;" ID="ID_1018556966" CREATED="1444188497274" MODIFIED="1444188500311"/>
+</node>
+<node TEXT="mark &quot;specul&quot;, &quot;observed&quot;" ID="ID_1697646510" CREATED="1444188457914" MODIFIED="1444188483371">
+<node TEXT="even &quot;specul &amp; observed&quot;" ID="ID_1139457294" CREATED="1444188518594" MODIFIED="1444188526480">
+<node TEXT="observed another speculg" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_492388685" CREATED="1444188527756" MODIFIED="1444188546233"/>
+</node>
+</node>
+<node TEXT="recog underlyg patterns" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1146412910" CREATED="1444188557923" MODIFIED="1444188567041">
+<node TEXT="e.g. if topics linked to X shared a flaw" ID="ID_1708801274" CREATED="1444188567923" MODIFIED="1444188610152">
+<node TEXT="e.g. a logical flaw" ID="ID_1052503595" CREATED="1444188611882" MODIFIED="1444188617211"/>
+</node>
+</node>
+</node>
+<node TEXT="a rel : &quot;were once connected&quot;" ID="ID_115561306" CREATED="1446332921287" MODIFIED="1446332925566">
+<node TEXT="like comma, is projected to form many rels the info of which is otherwise destroyed" ID="ID_1097320709" CREATED="1446332926350" MODIFIED="1446332939381"/>
+</node>
+</node>
+<node TEXT="rep" ID="ID_1723775814" CREATED="1444034622741" MODIFIED="1444263223458">
+<font BOLD="false"/>
+<node TEXT="a lot of the punctuation I use lately is just to indicate that the middle of three words is a connector" ID="ID_1041876586" CREATED="1444034631389" MODIFIED="1444034651469"/>
+<node TEXT=":@ for &quot;as at&quot;" ID="ID_819373803" CREATED="1444035579909" MODIFIED="1444035583723">
+<node TEXT="surprise :@ familiar" ID="ID_1802303202" CREATED="1442617860130" MODIFIED="1444035569091">
+<node TEXT="&quot;It sounds stupid and it&apos;s true!&quot;" ID="ID_438135098" CREATED="1438731171712" MODIFIED="1438731197045">
+<node TEXT="dare to really consider $ something that already feels ?familiar" ID="ID_925292507" CREATED="1438731201624" MODIFIED="1438731276484"/>
+</node>
+</node>
+<node TEXT="because @ = &quot;is at&quot;" ID="ID_979734156" CREATED="1444035604949" MODIFIED="1444035617487"/>
+</node>
+<node TEXT="as at ?= as" ID="ID_1329344567" CREATED="1444095316873" MODIFIED="1444095323383"/>
+<node TEXT="one-sided graph rel ? colon" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_507158352" CREATED="1444095627465" MODIFIED="1444095770409">
+<node TEXT="&quot;I know what this relation does to [side] but not to the other.&quot;" ID="ID_225509881" CREATED="1444095641274" MODIFIED="1444095664016"/>
+<node TEXT="colon (attached to the LHS) clarifies what it attaches to" ID="ID_1034309735" CREATED="1444095714890" MODIFIED="1444095736423">
+<node ID="ID_1560170424" CREATED="1444095752699" MODIFIED="1444095752699"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      generally good, but effect and norm on other harder to calc
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="make a font in which punct stands out" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1176959021" CREATED="1444109036770" MODIFIED="1444109072877"/>
+<node TEXT="less re-sort, more grep-read" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1796337759" CREATED="1444189548586" MODIFIED="1444189574106">
+<node TEXT="sorting in place" ID="ID_1778868170" CREATED="1444189577547" MODIFIED="1444189579559"/>
+</node>
+<node TEXT="shields of(like from) the feet for dirt" ID="ID_439217127" CREATED="1444261729664" MODIFIED="1444261770424">
+<node TEXT="current ordinary english uses for, then from" ID="ID_251097757" CREATED="1444261734568" MODIFIED="1444261788288"/>
+</node>
+<node TEXT="to what extent do I have to choose among files" LOCALIZED_STYLE_REF="default" ID="ID_315276590" CREATED="1444261944625" MODIFIED="1444261963739">
+<node TEXT="If I knew I needed it, I could gather information on their differences, such as the yield from grepping love in proc v. info" ID="ID_1864488998" CREATED="1444261970168" MODIFIED="1444261989454"/>
+</node>
+<node TEXT="The purpose in a mindmap category, tree nexus is ultimately not the concept it indicates, but its user effect." ID="ID_806921616" CREATED="1444262329993" MODIFIED="1444262353775"/>
+<node TEXT="light blue: visible, not open" ID="ID_214834756" CREATED="1444263150025" MODIFIED="1444263169695">
+<node TEXT="the alternative I was trying, invisible, makes no sense" ID="ID_1844862271" CREATED="1444263170561" MODIFIED="1444263181374"/>
+</node>
+<node TEXT="? punct sidedness for english traversal order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_104793395" CREATED="1444266365211" MODIFIED="1444266409445">
+<node TEXT="sidedness of punctuation on a link can indicate which one does it to the other" ID="ID_1773101241" CREATED="1444266348083" MODIFIED="1444266364921"/>
+<node TEXT="water needs!! dog" ID="ID_1666158382" CREATED="1444266387443" MODIFIED="1444266392136">
+<node TEXT="= dog needs water" ID="ID_888445835" CREATED="1444266395403" MODIFIED="1444266398008"/>
+</node>
+</node>
+<node TEXT="comp choose order in sentence" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1793291982" CREATED="1444266465547" MODIFIED="1444266478446">
+<node TEXT="(as I do by hand now)" ID="ID_1337722867" CREATED="1444266513483" MODIFIED="1444266514024"/>
+<node TEXT="order the ideas in a sentence by priority" ID="ID_1223627137" CREATED="1444266480475" MODIFIED="1444266513165"/>
+</node>
+<node TEXT="network repn of apps" ID="ID_1832126701" CREATED="1427513777574" MODIFIED="1428386337335">
+<node TEXT="/~ window" ID="ID_1728090302" CREATED="1427513784982" MODIFIED="1427513787428"/>
+<node TEXT="row for project, col for tool" ID="ID_390975882" CREATED="1427513788222" MODIFIED="1427513805099">
+<node TEXT="kde" ID="ID_1474219525" CREATED="1427513806799" MODIFIED="1427513807892"/>
+</node>
+</node>
+<node TEXT="trailing &quot;!..&quot; for &quot;read this but children opt&quot;" ID="ID_219212563" CREATED="1444416786864" MODIFIED="1444416801082">
+<node TEXT="like ice font" ID="ID_20143705" CREATED="1444416811191" MODIFIED="1444416813777"/>
+</node>
+<node TEXT="2015 09 10-11" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1409628626" CREATED="1444499355283" MODIFIED="1444678906390"/>
+<node TEXT="purple for &quot;hard to decide whether to keep&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_246658300" CREATED="1444678711448" MODIFIED="1444679115880"/>
+<node TEXT="indicate is punct for// punct outside a paren-bound word" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1468517259" CREATED="1444678898119" MODIFIED="1444679115887"/>
+<node TEXT="punct on side of attached word for which word binds (grammj?)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1901340340" CREATED="1444678983544" MODIFIED="1444679115889">
+<node TEXT="example" ID="ID_1582466695" CREATED="1444679008469" MODIFIED="1444679009333">
+<node TEXT="indicate is punct for// punct outside a paren-bound word" ID="ID_299634220" CREATED="1444678898119" MODIFIED="1444679030643">
+<node TEXT="for the &quot;/&quot;-higher one" ID="ID_1056608402" CREATED="1444679041440" MODIFIED="1444679063798"/>
+</node>
+</node>
+</node>
+<node TEXT="&quot; &quot; is escape" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1411764360" CREATED="1444679065687" MODIFIED="1444679115891">
+<node TEXT="example" ID="ID_73094151" CREATED="1444679074728" MODIFIED="1444679075612">
+<node TEXT="indicate is punct for// punct outside a paren-bound word" ID="ID_836452916" CREATED="1444678898119" MODIFIED="1444679030643">
+<node TEXT="for the &quot;/&quot;-higher one" ID="ID_1769180849" CREATED="1444679041440" MODIFIED="1444679063798"/>
+</node>
+</node>
+</node>
+<node TEXT="&quot;/&quot; can split a word" ID="ID_961092347" CREATED="1444679285168" MODIFIED="1444679292006">
+<node TEXT="b/c" ID="ID_1281543245" CREATED="1444679298560" MODIFIED="1444679299238"/>
+</node>
+<node TEXT="if the whole doc purple, purple not useful to indicate problematic" ID="ID_1006759600" CREATED="1446270499743" MODIFIED="1446270517765">
+<node TEXT="is main, dupd" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_602180140" CREATED="1446271581575" MODIFIED="1446271590137"/>
+</node>
+</node>
+<node TEXT="to hunt short tags is easy" ID="ID_1262788554" CREATED="1443635544164" MODIFIED="1443635547715">
+<node TEXT="cogvj fast b/c discard long before read" ID="ID_916810050" CREATED="1443635548775" MODIFIED="1443635576813"/>
 </node>
 </node>
 </node>

@@ -7740,8 +7740,8 @@
 </node>
 </node>
 </node>
-<node TEXT="Json" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1431554664486">
-<font BOLD="true"/>
+<node TEXT="Json" ID="ID_1961096634" CREATED="1431552641836" MODIFIED="1447530215958">
+<font BOLD="false"/>
 <node TEXT="https://hackage.haskell.org/package/json" ID="ID_1042708665" CREATED="1431553648003" MODIFIED="1431553648003" LINK="https://hackage.haskell.org/package/json"/>
 <node TEXT="types" ID="ID_1012561656" CREATED="1431552851421" MODIFIED="1431552853907">
 <node TEXT="numbers: as imagined" LOCALIZED_STYLE_REF="styles.topic" ID="ID_804983531" CREATED="1431552657173" MODIFIED="1431552665367">
@@ -10735,7 +10735,9 @@
 <node TEXT="ex&apos;l" ID="ID_997320344" CREATED="1412992524930" MODIFIED="1412992525725">
 <node TEXT="main = do &#xa;    putStrLn &quot;Hello, what&apos;s your name?&quot; &#xa;    name &lt;- getLine &#xa;    putStrLn (&quot;Hey &quot; ++ name ++ &quot;, you rock!&quot;)" ID="ID_1044086706" CREATED="1412991418072" MODIFIED="1412991418771"/>
 </node>
-<node TEXT="&quot;a &lt;- b&quot; evaluates b and binds it to a" ID="ID_555219133" CREATED="1412992520018" MODIFIED="1412992536518"/>
+<node TEXT="&quot;a &lt;- b&quot; evaluates b and binds* it to a" ID="ID_555219133" CREATED="1412992520018" MODIFIED="1447484097198">
+<node TEXT="binding, I believe, only in the context of that do-block" ID="ID_1101310193" CREATED="1447484087560" MODIFIED="1447484102766"/>
+</node>
 <node TEXT="&quot;a = b&quot; would do neither" ID="ID_1295622767" CREATED="1412992537265" MODIFIED="1413183112036"/>
 </node>
 <node TEXT="let" ID="ID_1590667687" CREATED="1412992676772" MODIFIED="1412992677295">
@@ -10771,9 +10773,9 @@
 <node TEXT="main = do &#xa;    a &lt;- return &quot;hell&quot; &#xa;    b &lt;- return &quot;yeah!&quot; &#xa;    putStrLn $ a ++ &quot; &quot; ++ b" ID="ID_1387717072" CREATED="1413069607192" MODIFIED="1413069608316"/>
 <node TEXT="but let is easier, avoiding a box/unbox cycle" ID="ID_1276376205" CREATED="1413069693592" MODIFIED="1421803538197"/>
 </node>
-<node TEXT="is like the opposite of &lt;-" ID="ID_867553212" CREATED="1413069629990" MODIFIED="1413069635049">
-<node TEXT="&quot;While return takes a value and wraps it up in a box, &lt;- takes a box (and performs it) and takes the value out of it, binding it to a name.&quot;" ID="ID_1873498395" CREATED="1413069635742" MODIFIED="1413069637073"/>
 </node>
+<node TEXT="return  !opposite!  &lt;-" ID="ID_867553212" CREATED="1413069629990" MODIFIED="1447484193929">
+<node TEXT="&quot;While return takes a value and wraps it up in a box, &lt;- takes a box (and performs it) and takes the value out of it, binding it to a name.&quot;" ID="ID_1873498395" CREATED="1413069635742" MODIFIED="1413069637073"/>
 </node>
 <node TEXT="() can be of type IO x" ID="ID_644629752" CREATED="1413069923500" MODIFIED="1413151348645">
 <node TEXT="often used for actions that return nothing, e.g. writing to screen" ID="ID_44246279" CREATED="1413408238257" MODIFIED="1413408257355"/>
@@ -19386,6 +19388,58 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="how ? elegj generate such a function" ID="ID_1152029708" CREATED="1446939320061" MODIFIED="1446939338337"/>
 </node>
 </node>
+<node TEXT="mv git_play/tidal to tidal/git" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_959702908" CREATED="1447310936775" MODIFIED="1447310960486"/>
+<node TEXT="reprogram Ctrl-b, Ctrl-f to skip to space&#xa;.have something like them for next|(?only skip) punct|alpha" ID="ID_1396206352" CREATED="1447453680798" MODIFIED="1447453759005"/>
+<node TEXT="big &amp; feas" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_342985025" CREATED="1447453888662" MODIFIED="1447455740610">
+<node TEXT="=? Tidal.Overlarchy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1959322215" CREATED="1447454326350" MODIFIED="1447454336302"/>
+<node TEXT="rep parallelism" ID="ID_1214116094" CREATED="1447455749775" MODIFIED="1447455753591">
+<node TEXT="must duplicate rhythm from sample name to pitch" ID="ID_1549012100" CREATED="1447453894198" MODIFIED="1447453903766"/>
+<node ID="ID_181598560" CREATED="1447454105030" MODIFIED="1447454285781"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      two parallel voices (can be notes in the same Tidal-&quot;&quot;-expr<font color="#0000ff">) if designed to move together, do not recog the correspondence. for instance, if I want over a tonic of 8 the pitch(just, not eq temp) seq(12,7) to play synced to seq(10,8*(7/6)), I write each in that order and know myself the 8*7/6 sounds good with 7 and bad with 10, but Tidal does not</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="show parallelism" ID="ID_981082287" CREATED="1447455755655" MODIFIED="1447455757846">
+<node TEXT="show patterns together, like properties aligned" ID="ID_370591597" CREATED="1447455580639" MODIFIED="1447455594035">
+<node TEXT="like meaning equal" ID="ID_392781181" CREATED="1447455598943" MODIFIED="1447455601637"/>
+</node>
+<node TEXT="example" ID="ID_1051251376" CREATED="1447455758743" MODIFIED="1447455759563">
+<node TEXT="in these" ID="ID_1855523092" CREATED="1447455764872" MODIFIED="1447455766439">
+<node TEXT="let rhy n = sound &quot;f f ~ ~&quot; |*|  speed &quot;0.07&quot; |*| cut $. return n" ID="ID_1502264063" CREATED="1447455778910" MODIFIED="1447455778910"/>
+<node TEXT="d1 $ (&lt;~) (1/2) $ rhy 1 |*|           speed &quot;8          [7  15 ]/2!!&quot;" ID="ID_1263083244" CREATED="1447455760040" MODIFIED="1447455760040"/>
+<node TEXT="d2 $              rhy 2 |*|           speed &quot;[13 12]/2  [10 9.33]/2!!&quot;" ID="ID_543406260" CREATED="1447455760040" MODIFIED="1447455760040"/>
+<node TEXT="d3 $              rhy 3 |*| slow 2 $. speed &quot;[5 3]/2 4&quot;" ID="ID_1026741248" CREATED="1447455760048" MODIFIED="1447455760048"/>
+</node>
+<node TEXT="the three lowest speed commands align, and (intentionally) not the first" ID="ID_1254768609" CREATED="1447455781767" MODIFIED="1447455792605"/>
+<node TEXT="the pitch groups largly align, but (intentionally) the (one that (unlike the others that would be parallel to it) is not appended by &quot;!!&quot;) is not aligned to those would-bes" ID="ID_531671910" CREATED="1447455797414" MODIFIED="1447455859701"/>
+</node>
+</node>
+</node>
+<node TEXT="want ? voice states &quot;I have a unique-among-_ cut group value&quot;" LOCALIZED_STYLE_REF="default" ID="ID_689666591" CREATED="1447455442015" MODIFIED="1447455488184"/>
+<node TEXT="learn harmonics around 8: 9, 10, 9.6=8*6/5, .." ID="ID_1638107394" CREATED="1447454037750" MODIFIED="1447454061072"/>
+<node TEXT="&quot;what are all the notes anyone&apos;s using? If there are n of those, I need to see them in order so that I can write in corresponding order the new scale, which might be fewer than n but if so will when I write it nevertheless contain each of the n values that the original n map to&quot;" ID="ID_1567600003" CREATED="1447456280440" MODIFIED="1447456349524"/>
+<node TEXT="in OvyPattern lift rep from pitch to (scale, position)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_380844861" CREATED="1447456518420" MODIFIED="1447456564470">
+<node TEXT="implem, not quite right" ID="ID_1387970224" CREATED="1447456506970" MODIFIED="1447456517091">
+<node TEXT="Pattern a -&gt; (b -&gt; a) -&gt; Pattern b" ID="ID_1264888459" CREATED="1447456379346" MODIFIED="1447456410567"/>
+<node TEXT="example: b :: (Scale -&gt; Position -&gt; Pitch, Scale, Position)&#xa;         a :: Pitch" ID="ID_814202269" CREATED="1447456416813" MODIFIED="1447456485972"/>
+</node>
+</node>
+<node TEXT="assign ranges to voices (which voice sounds best in which range), assign melodies to voice groups, auto figure out which parts played by which voices" ID="ID_1540753660" CREATED="1447459016865" MODIFIED="1447459055720"/>
+<node TEXT="11 13" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1110564158" CREATED="1447483336392" MODIFIED="1447483339160"/>
+<node TEXT="imag graph lang" ID="ID_161781439" CREATED="1447483340715" MODIFIED="1447483343480">
+<node TEXT="import Graph|Dwt as G" ID="ID_747458888" CREATED="1447483368336" MODIFIED="1447483390792"/>
+<node TEXT="g &lt;- g.add" ID="ID_1002581619" CREATED="1447483346977" MODIFIED="1447483531300"/>
+</node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">
@@ -22872,6 +22926,104 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="deterministic but the timbre depends ery nonlinearly on the input pair" ID="ID_1000905382" CREATED="1416728087712" MODIFIED="1416728100259">
 <node TEXT="{ LFGauss.ar(MouseX.kr(1/8000, 0.1, 1), MouseY.kr(0.001, 0.1, 1)) * 0.1 }.play;" ID="ID_989684805" CREATED="1416728102512" MODIFIED="1416728103011"/>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="R" ID="ID_928746245" CREATED="1447268720491" MODIFIED="1447268721270">
+<node TEXT="an intro, incomplete" ID="ID_1532179587" CREATED="1447297855352" MODIFIED="1447357012969">
+<font BOLD="true"/>
+<node TEXT="&gt;&gt;&gt; resume here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1496534779" CREATED="1447271381099" MODIFIED="1447271413097">
+<node TEXT="this section" ID="ID_1705767618" CREATED="1447271397738" MODIFIED="1447271399248">
+<node ID="ID_657064029" CREATED="1447271384848" MODIFIED="1447271384848"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 http-equiv="content-type" content="text/html; charset=utf-8" class="section" style="background-image: null; font-size: large; white-space: normal; font-style: normal; background-repeat: repeat; background-attachment: scroll; font-variant: normal; background-position: null; word-spacing: 0px; line-height: normal; font-family: monospace; text-indent: 0px; color: rgb(102, 102, 102); letter-spacing: normal; text-align: start; text-transform: none; background-color: white">
+      Index vectors; selecting and modifying subsets of a data set
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="this page" ID="ID_308340663" CREATED="1447271395341" MODIFIED="1447271396717">
+<node TEXT="https://cran.r-project.org/doc/manuals/r-release/R-intro.html" ID="ID_1248338828" CREATED="1447271391416" MODIFIED="1447271391416" LINK="https://cran.r-project.org/doc/manuals/r-release/R-intro.html"/>
+</node>
+</node>
+<node TEXT="assign" ID="ID_1560558023" CREATED="1447268838681" MODIFIED="1447268839669">
+<node TEXT="x &lt;- 3" ID="ID_1974199493" CREATED="1447268752188" MODIFIED="1447268754789"/>
+<node TEXT="x &lt;- function(a,b){expr}" ID="ID_1654356515" CREATED="1447268755650" MODIFIED="1447268763085"/>
+<node TEXT="-&gt; also works" ID="ID_1772221029" CREATED="1447269716321" MODIFIED="1447269719051"/>
+</node>
+<node TEXT="functions have invisible defaults" ID="ID_1756531146" CREATED="1447268920365" MODIFIED="1447268930314">
+<node TEXT="e.g. (surely) mean and variance for the normal distn" ID="ID_592570163" CREATED="1447268942922" MODIFIED="1447268950810"/>
+<node TEXT="&gt; rnorm(1,2,3)&#xa;[1] 10.88414&#xa;&gt; rnorm(1)&#xa;[1] 1.062899&#xa;&gt; rnorm(1,2,3,4)&#xa;Error in rnorm(1, 2, 3, 4) : unused argument (4)&#xa;&gt;" ID="ID_1033044604" CREATED="1447268951528" MODIFIED="1447268954625"/>
+</node>
+<node TEXT="arrays, tables" ID="ID_419882994" CREATED="1447269091766" MODIFIED="1447269388810">
+<node TEXT="x &lt;- 1:20" ID="ID_484980682" CREATED="1447269103513" MODIFIED="1447269106139"/>
+<node TEXT="dummy &lt;- data.frame(x=x, y= x + rnorm(x)*w)" ID="ID_292834598" CREATED="1447269232243" MODIFIED="1447269234952"/>
+<node TEXT="math functions accept scalars or vectors" ID="ID_1196449186" CREATED="1447268841481" MODIFIED="1447268855946">
+<node TEXT="x &lt;- rnorm(50)&#xa;y &lt;- rnorm(x)" ID="ID_1894706711" CREATED="1447268860555" MODIFIED="1447268861900">
+<node TEXT="gives two length-50 random vectors" ID="ID_15050473" CREATED="1447268869452" MODIFIED="1447268893017"/>
+</node>
+<node TEXT="plot(x,y)" ID="ID_653520674" CREATED="1447268988979" MODIFIED="1447268991327">
+<node TEXT="x and y should be the same length" ID="ID_959923927" CREATED="1447268993202" MODIFIED="1447269000810"/>
+</node>
+</node>
+<node TEXT="short vectors are cycled" ID="ID_1185040371" CREATED="1447270024055" MODIFIED="1447270112564">
+<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1327135038" CREATED="1447270130441" MODIFIED="1447270132288"/>
+<node TEXT="&gt; 10*1:2 + 1:10&#xa; [1] 11 22 13 24 15 26 17 28 19 30" ID="ID_912924632" CREATED="1447270128303" MODIFIED="1447270129934"/>
+</node>
+<node TEXT="booleans work" ID="ID_522892753" CREATED="1447270639953" MODIFIED="1447270643647">
+<node TEXT="&gt; x &lt;- 1:5&#xa;&gt; x &gt; 3&#xa;[1] FALSE FALSE FALSE  TRUE  TRUE&#xa;&gt;" ID="ID_474131698" CREATED="1447270644516" MODIFIED="1447270646623"/>
+</node>
+<node TEXT="are not typed" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_698599213" CREATED="1447270727361" MODIFIED="1447270730706">
+<node TEXT="&gt; c(&quot;a&quot;,1)&#xa;[1] &quot;a&quot; &quot;1&quot;&#xa;&gt;" ID="ID_1103187400" CREATED="1447270734939" MODIFIED="1447270737094"/>
+</node>
+</node>
+<node TEXT="complex numbers" ID="ID_1365108318" CREATED="1447270512934" MODIFIED="1447270515331">
+<node TEXT="To work with complex numbers, supply an explicit complex part. Thus&#xa;&#xa;sqrt(-17)&#xa;will give NaN and a warning, but&#xa;&#xa;sqrt(-17+0i)&#xa;will do the computations as complex numbers." ID="ID_1980824680" CREATED="1447270516125" MODIFIED="1447270517576"/>
+</node>
+<node TEXT="memory" ID="ID_322474565" CREATED="1447269377181" MODIFIED="1447269378105">
+<node TEXT="ls()" ID="ID_150637882" CREATED="1447269031513" MODIFIED="1447269033994">
+<node TEXT="lists R objects" ID="ID_334379898" CREATED="1447269034508" MODIFIED="1447269037519"/>
+</node>
+<node TEXT="rm(name)" ID="ID_1614838200" CREATED="1447269051428" MODIFIED="1447269057269">
+<node TEXT="deletes the thing named name" ID="ID_395025429" CREATED="1447269057989" MODIFIED="1447269064406"/>
+</node>
+<node TEXT="&quot;attach&quot;, &quot;detach&quot;" ID="ID_1143540062" CREATED="1447269345884" MODIFIED="1447269435394">
+<node TEXT="&quot;attach(dummy)&quot; makes the columns in the data frame named dummy visible as variables." ID="ID_809745917" CREATED="1447269351060" MODIFIED="1447269373959"/>
+</node>
+</node>
+<node TEXT="file i/o" ID="ID_1607390876" CREATED="1447269589075" MODIFIED="1447269592160">
+<node TEXT="run a script: source(&quot;commands.R&quot;)" ID="ID_1089506922" CREATED="1447269592799" MODIFIED="1447269613366"/>
+<node TEXT="record (and divert) output: sink(&quot;record.lis&quot;)" ID="ID_1886037884" CREATED="1447269620960" MODIFIED="1447269630435">
+<node TEXT="sink() restores it to the console" ID="ID_1899479476" CREATED="1447269637341" MODIFIED="1447269642012"/>
+</node>
+</node>
+<node TEXT="quit with q()" ID="ID_552246774" CREATED="1447268729911" MODIFIED="1447268732936"/>
+</node>
+<node TEXT="plots" ID="ID_1825372890" CREATED="1447297597071" MODIFIED="1447297864667">
+<node TEXT="save plot" ID="ID_893650296" CREATED="1447297607087" MODIFIED="1447297610821">
+<node TEXT="&gt; jpeg(&apos;rplot.jpg&apos;)&#xa;&gt; plot( runif(10), runif(10) )&#xa;&gt; abline(v=1/2)&#xa;&gt; dev.off()&#xa;X11cairo&#xa;       2&#xa;&gt;" ID="ID_1940717322" CREATED="1447297602463" MODIFIED="1447297603672"/>
+<node TEXT="the commands between jpeg() and dev.off() accrete into the picture" ID="ID_1810380346" CREATED="1447297613160" MODIFIED="1447297629415"/>
+</node>
+<node TEXT="add lines to plot" ID="ID_55237327" CREATED="1447297636263" MODIFIED="1447297638470">
+<node TEXT="don&apos;t close the window the plot shows up in" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_73948471" CREATED="1447297640623" MODIFIED="1447297650687"/>
+<node TEXT="&gt; plot( runif(10), runif(10) )&#xa;&gt; abline(v=1/2)" ID="ID_563590241" CREATED="1447297656455" MODIFIED="1447297657256"/>
+</node>
+<node TEXT="add functions to plot" ID="ID_636107334" CREATED="1447356970253" MODIFIED="1447356973808">
+<node TEXT="call &quot;par&quot; before each new function" ID="ID_1864404149" CREATED="1447356979568" MODIFIED="1447356990078"/>
+<node TEXT="example" ID="ID_1437318867" CREATED="1447356990290" MODIFIED="1447356991280">
+<node TEXT="&gt; plot(function(x){x^3},0,1)&#xa;&gt; par(new=TRUE)&#xa;&gt; plot(function(x){x^2},0,1)&#xa;&gt; par(new=TRUE)&#xa;&gt; plot(function(x){x/2},0,1)&#xa;&gt;" ID="ID_1546630634" CREATED="1447356991756" MODIFIED="1447356994072"/>
+</node>
+</node>
+<node TEXT="plot conditional function" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1086363629" CREATED="1447299025608" MODIFIED="1447356977633">
+<node TEXT="! trick ! define the domain of the plot, and then the range in terms of the domain" ID="ID_1354210209" CREATED="1447299053503" MODIFIED="1447299075568"/>
+<node TEXT="&gt; x &lt;- seq(-1,5,0.01)&#xa;&gt; fx &lt;- (x&gt;0 &amp; x&lt;4)*x/2&#xa;&gt; plot(x,fx)" ID="ID_1136740117" CREATED="1447299050432" MODIFIED="1447299051658"/>
 </node>
 </node>
 </node>
@@ -27969,9 +28121,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <font NAME="SansSerif" SIZE="12" BOLD="true"/>
 </node>
 </node>
-</node>
-<node TEXT="R :: RStudio" ID="ID_741009686" CREATED="1299126976185" MODIFIED="1311539389663">
-<node TEXT="http://www.rstudio.org/" ID="ID_1004758349" CREATED="1299126977967" MODIFIED="1311539389661" LINK="http://www.rstudio.org/"/>
 </node>
 <node TEXT="Stata" ID="ID_1545112320" CREATED="1399839265954" MODIFIED="1399839267278">
 <node TEXT="see also &quot;Stata, SAS, TeX&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1349933570" CREATED="1409709615243" MODIFIED="1409709620853">

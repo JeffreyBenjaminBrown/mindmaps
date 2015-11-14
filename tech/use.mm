@@ -6219,6 +6219,12 @@
 <node TEXT="2015 11 10: R" ID="ID_1936005432" CREATED="1447185918351" MODIFIED="1447185923210">
 <node TEXT="sudo apt-get install r-base" ID="ID_970209957" CREATED="1447185924142" MODIFIED="1447185928491"/>
 </node>
+<node TEXT="2015 11 13: vim, tmux" ID="ID_313377070" CREATED="1447489530968" MODIFIED="1447489593521">
+<node TEXT="based on Tidal-Vim instruction thread on Lurk" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_428949510" CREATED="1447489600042" MODIFIED="1447489629951"/>
+<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1342067805" CREATED="1447489561067" MODIFIED="1447489636611"/>
+<node TEXT="sudo apt-get install vim" ID="ID_1612572917" CREATED="1447489553667" MODIFIED="1447489560105"/>
+<node TEXT="sudo apt-get install tmux" ID="ID_1422518004" CREATED="1447489553667" MODIFIED="1447489554561"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
