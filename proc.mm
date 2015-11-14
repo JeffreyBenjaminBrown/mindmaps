@@ -91,7 +91,6 @@
 </node>
 </node>
 </node>
-<node TEXT="collecting" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1922488603" CREATED="1444448572216" MODIFIED="1444448587296"/>
 <node TEXT="-&gt; ..!" POSITION="right" ID="ID_1096466613" CREATED="1427003186324" MODIFIED="1434414457458">
 <font BOLD="true"/>
 <node TEXT="= s and 1rev, ~(2015 03 18?) ..!" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_363314310" CREATED="1427003587545" MODIFIED="1427689561792">
@@ -927,12 +926,6 @@
 <node TEXT="outward v. (rep, tool)" ID="ID_1260003744" CREATED="1428379916459" MODIFIED="1428379923587"/>
 <node TEXT="? rep proc -&gt; rep use, rep proc int" ID="ID_1235986427" CREATED="1428346789424" MODIFIED="1428346823508">
 <node TEXT="-&gt; meaning subdivide?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1503048160" CREATED="1438199571178" MODIFIED="1438199579933"/>
-</node>
-<node TEXT="! rep proc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1374036832" CREATED="1428206312216" MODIFIED="1428206324021">
-<node TEXT="not ready for sorting, rather read and mark gold" ID="ID_1920667069" CREATED="1428206325432" MODIFIED="1438199594820"/>
-<node TEXT="multiple dims of escalability, so that among peers in one can escalate using another" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_531361743" CREATED="1428206739928" MODIFIED="1438199623130">
-<node TEXT="huh?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_783566298" CREATED="1438199623866" MODIFIED="1438199627973"/>
-</node>
 </node>
 <node TEXT="self-change" ID="ID_1859006504" CREATED="1428345814640" MODIFIED="1428345816022">
 <node TEXT="whether to tie a cog proc into the verbal one" ID="ID_1177402172" CREATED="1428345785904" MODIFIED="1428345795750">
