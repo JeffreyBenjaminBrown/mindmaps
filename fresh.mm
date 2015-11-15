@@ -5640,6 +5640,9 @@
 <node TEXT="11 12" ID="ID_759897657" CREATED="1447485568985" MODIFIED="1447485570245">
 <node TEXT="10:15-40 pm, fought marij.  then had some.  now, 11:20, and maybe for the last 20 minutes, have been reading the &quot;Instance Monad IO a&quot; part of GHC." ID="ID_1669784198" CREATED="1447485571713" MODIFIED="1447485644609"/>
 </node>
+<node TEXT="Your points make evident a macro|micro distinction, where I was focusing on the micro. There&apos;s got to be a world of difference between the mind of a bomb-carrier (desperate, gullible) vs. the mind of an indoctrinator (power-hungry, clever, preying on the desperate and gullible)." ID="ID_1824390716" CREATED="1447550009069" MODIFIED="1447550009069"/>
+<node TEXT="Your points make evident a macro|micro distinction, where I was focusing on the micro. There&apos;s got to be a world of difference between the mind of a bomb-carrier (desperate, gullible) vs. the mind of an indoctrinator (power-hungry, clever, preying on the desperate and gullible)." ID="ID_230596693" CREATED="1447550011914" MODIFIED="1447550011914"/>
+<node TEXT="Your points make evident a macro|micro distinction, where I was focusing on the micro. There&apos;s got to be a world of difference between the mind of a bomb-carrier (desperate, gullible) vs. the mind of an indoctrinator (power-hungry, clever, preying on the desperate and gullible)." ID="ID_178275997" CREATED="1447550015522" MODIFIED="1447550015522"/>
 </node>
 </node>
 </map>
