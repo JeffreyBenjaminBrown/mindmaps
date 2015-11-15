@@ -16819,6 +16819,13 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="&quot;@ syntax in patterns and the {}&apos;s used by record syntax both bind tighter than whitespace application.&quot;" ID="ID_359651273" CREATED="1446672412539" MODIFIED="1446672414106">
 <node TEXT="Ed Kmett, Haskell Cafe, 2015 11 04, &quot;proposal: . as postfix application&quot; (not verbatim the thread title)" ID="ID_496289866" CREATED="1446672415307" MODIFIED="1446672440215"/>
 </node>
+<node TEXT="? exception v. either etc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1989910649" CREATED="1439065068794" MODIFIED="1439085380295">
+<node TEXT="https://www.reddit.com/r/haskell/comments/3g1488/debugging_monadic_code/" ID="ID_780082386" CREATED="1439065165087" MODIFIED="1439065165087" LINK="https://www.reddit.com/r/haskell/comments/3g1488/debugging_monadic_code/"/>
+<node TEXT="use error for programmer, use maybe or either for expected bifurcations" ID="ID_1412640155" CREATED="1439064743161" MODIFIED="1439065096476"/>
+<node TEXT="someone else said moands &gt; exceptions, debugging easier" ID="ID_807279100" CREATED="1439065104250" MODIFIED="1439065118487">
+<node TEXT="because exceptions somehow &quot;bypass the whole purity thing&quot;" ID="ID_1020387947" CREATED="1439065146730" MODIFIED="1439065156663"/>
+</node>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
