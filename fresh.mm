@@ -5644,5 +5644,6 @@
 <node TEXT="Your points make evident a macro|micro distinction, where I was focusing on the micro. There&apos;s got to be a world of difference between the mind of a bomb-carrier (desperate, gullible) vs. the mind of an indoctrinator (power-hungry, clever, preying on the desperate and gullible)." ID="ID_230596693" CREATED="1447550011914" MODIFIED="1447550011914"/>
 <node TEXT="Your points make evident a macro|micro distinction, where I was focusing on the micro. There&apos;s got to be a world of difference between the mind of a bomb-carrier (desperate, gullible) vs. the mind of an indoctrinator (power-hungry, clever, preying on the desperate and gullible)." ID="ID_178275997" CREATED="1447550015522" MODIFIED="1447550015522"/>
 </node>
+<node TEXT="17" POSITION="right" ID="ID_937270085" CREATED="1447820943690" MODIFIED="1447820944385"/>
 </node>
 </map>

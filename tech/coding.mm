@@ -15915,8 +15915,32 @@
 </node>
 </node>
 </node>
-<node TEXT="ongoing : random graphs, Jelvis" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1447568260291">
+<node TEXT="random graphs\Jelvis + aliens\haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1447640192902">
+<node TEXT="&gt;&gt;&gt; resume at &quot;EDFS&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_215040653" CREATED="1447568498180" MODIFIED="1447568506738"/>
+<node TEXT="pages" ID="ID_1451843400" CREATED="1447579835425" MODIFIED="1447579837099">
 <node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_511563586" CREATED="1447568139194" MODIFIED="1447568139194" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="github" ID="ID_1785705387" CREATED="1447579995279" MODIFIED="1447579996754">
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes" ID="ID_162349195" CREATED="1447579997239" MODIFIED="1447579997239" LINK="https://github.com/TikhonJelvis/inductive-mazes"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs" ID="ID_903920044" CREATED="1447580010596" MODIFIED="1447580010596" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs" ID="ID_1791005892" CREATED="1447580013491" MODIFIED="1447580013491" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs" ID="ID_452661521" CREATED="1447580017210" MODIFIED="1447580017210" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs"/>
+</node>
+<node TEXT="FGL" ID="ID_786279034" CREATED="1447579933593" MODIFIED="1447579935500">
+<node TEXT="https://hackage.haskell.org/package/fgl" ID="ID_174135360" CREATED="1447579937641" MODIFIED="1447579937641" LINK="https://hackage.haskell.org/package/fgl"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html" ID="ID_1306984442" CREATED="1447579839336" MODIFIED="1447579839336" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html" ID="ID_1358891935" CREATED="1447579845717" MODIFIED="1447579845717" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html" ID="ID_1190655254" CREATED="1447579850147" MODIFIED="1447579850147" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html"/>
+</node>
+<node TEXT="MonadRandom" ID="ID_1338554565" CREATED="1447579922587" MODIFIED="1447579924875">
+<node TEXT="https://hackage.haskell.org/package/MonadRandom" ID="ID_477760660" CREATED="1447579913330" MODIFIED="1447579913330" LINK="https://hackage.haskell.org/package/MonadRandom"/>
+<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html" ID="ID_1441575037" CREATED="1447579917517" MODIFIED="1447579917517" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html"/>
+<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html" ID="ID_333540857" CREATED="1447579920938" MODIFIED="1447579920938" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html"/>
+</node>
+<node TEXT="Cairo" ID="ID_574890681" CREATED="1447580096700" MODIFIED="1447580097582">
+<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html" ID="ID_1751647619" CREATED="1447580098061" MODIFIED="1447580098061" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html"/>
+<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html" ID="ID_1902098162" CREATED="1447580108714" MODIFIED="1447580108714" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html"/>
+</node>
+</node>
 <node TEXT="haskell / {-# ViewPatterns #-}" ID="ID_1192140409" CREATED="1447564753617" MODIFIED="1447566572626">
 <node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1097101727" CREATED="1447566535627" MODIFIED="1447566605587" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
 <node TEXT="defn" ID="ID_983526908" CREATED="1447564825945" MODIFIED="1447564827031">
@@ -15984,6 +16008,62 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="haskell-dwt de novo" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1885887833" CREATED="1447640148359" MODIFIED="1447640168844">
+<node TEXT="2015 11 07-14" LOCALIZED_STYLE_REF="default" ID="ID_24102734" CREATED="1447750472359" MODIFIED="1447751259969">
+<node TEXT="done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1780905129" CREATED="1447645645767" MODIFIED="1447645647243">
+<node TEXT="graph objects are either Strings or Stmts" ID="ID_1445513321" CREATED="1447640381087" MODIFIED="1447640413085"/>
+<node TEXT="to start, a Stmt is an ordered pair of Nodes and a String" ID="ID_653693561" CREATED="1447640413591" MODIFIED="1447640592428"/>
+</node>
+<node TEXT="search (type)" ID="ID_192040510" CREATED="1447654991043" MODIFIED="1447654997274">
+<node TEXT="data MmSearchTerm = MmSearchNode Node | MmSearchFree" ID="ID_1350774628" CREATED="1447655000660" MODIFIED="1447655041842"/>
+</node>
+<node TEXT="show (function)" ID="ID_1904363132" CREATED="1447645651798" MODIFIED="1447654990227">
+<node TEXT="showRels node graph" ID="ID_1660827553" CREATED="1447654194092" MODIFIED="1447654382543"/>
+<node TEXT="showRelVart relVart node graph" ID="ID_1779329799" CREATED="1447654254556" MODIFIED="1447654387042"/>
+</node>
+<node TEXT="-nested nodes : not yet" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1232248731" CREATED="1447653304832" MODIFIED="1447653781694"/>
+<node TEXT="MmTrips do not need to hold a triple; their labeled edges (g-edges, not mm-edges) already give that data" ID="ID_1378422662" CREATED="1447658032813" MODIFIED="1447658054891">
+<node TEXT="so long as there are exactly 3 of them" ID="ID_1538262339" CREATED="1447658055724" MODIFIED="1447658074312"/>
+</node>
+</node>
+<node TEXT="2015 11 16" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_444957765" CREATED="1447751255232" MODIFIED="1447751267673"/>
+<node TEXT="RelTplt &amp; Expr" ID="ID_595705290" CREATED="1447751273307" MODIFIED="1447751286402">
+<node TEXT="RelTplt : string with _s correspg to nodes" LOCALIZED_STYLE_REF="default" ID="ID_1731414058" CREATED="1447750251910" MODIFIED="1447751271112">
+<node TEXT="modeling each between-_ section of a RelTplt as a separate thing would be worse; the rel stands as an english statement, but subsections of it [will often, maybe generally] not" ID="ID_990284215" CREATED="1447750290299" MODIFIED="1447750358437"/>
+</node>
+<node TEXT="Expr : StrExprt or RelExpr" LOCALIZED_STYLE_REF="default" ID="ID_19969552" CREATED="1447750363062" MODIFIED="1447751271843"/>
+</node>
+<node TEXT="plan to refactor" ID="ID_1935969410" CREATED="1447751296993" MODIFIED="1447751300567">
+<node TEXT="MmNode -&gt; Expr = RelExpr Int | StrExpr String" ID="ID_1260081330" CREATED="1447751321911" MODIFIED="1447751611422">
+<node TEXT="RelExpr&apos;s Int indicates how many _s there are in its Tplt" ID="ID_8727264" CREATED="1447751481989" MODIFIED="1447751628400"/>
+</node>
+<node TEXT="MmLab -&gt; MmLab Int" ID="ID_1102952930" CREATED="1447751637360" MODIFIED="1447751690444">
+<node TEXT="indicating which of the _s something corresps" ID="ID_837488180" CREATED="1447751663497" MODIFIED="1447751674584"/>
+</node>
+<node TEXT="Mindmap = Gr Expr MmLab" ID="ID_509323478" CREATED="1447751700105" MODIFIED="1447751735424"/>
+</node>
+</node>
+<node TEXT="admit you have a problem ~ recog (a) god" ID="ID_1430632397" CREATED="1447658908948" MODIFIED="1447658921715"/>
+<node TEXT="feas" ID="ID_1694871604" CREATED="1447818350817" MODIFIED="1447818351610">
+<node TEXT="music /$for|allowed by random" ID="ID_536900207" CREATED="1447818268768" MODIFIED="1447818329755">
+<node TEXT="is ?minor dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1238488893" CREATED="1447818406376" MODIFIED="1447818410224"/>
+<node TEXT="= I typed this on the keyboard thinking about its feel in time, sound, fingers, perhaps intentionally avoiding meanings as they arose" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606434601" CREATED="1447818356144" MODIFIED="1447818395515"/>
+<node TEXT="ahoglehauouahoe hoe hoe lis thepqby5710zhiuooo;wa," ID="ID_116679751" CREATED="1447818225408" MODIFIED="1447818244832"/>
+</node>
+</node>
+<node TEXT="how many times does x refer to y" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1091975297" CREATED="1447820918266" MODIFIED="1447820926512">
+<node TEXT="recursive" ID="ID_99291686" CREATED="1447820935386" MODIFIED="1447820938155"/>
+</node>
+<node TEXT="Maybe-relevant functions" ID="ID_1649426565" CREATED="1447877145892" MODIFIED="1447877153120">
+<node TEXT="fromMaybe :: a -&gt; Just a -&gt; a" ID="ID_994314962" CREATED="1447877154421" MODIFIED="1447877159822">
+<node TEXT="first arg is default, in case of (say) Nothing" ID="ID_1304340638" CREATED="1447877160430" MODIFIED="1447877173975"/>
+</node>
+<node TEXT="maybe :: b -&gt; (a -&gt; b) -&gt; Maybe a -&gt; b" ID="ID_911828237" CREATED="1447877197756" MODIFIED="1447877215997"/>
+<node TEXT="isJust, isNothing" ID="ID_1431740163" CREATED="1447877237689" MODIFIED="1447877240717"/>
+<node TEXT="&gt;&gt;=" ID="ID_175850390" CREATED="1447877246885" MODIFIED="1447877248354"/>
+<node TEXT="catMaybes :: [Maybe a] -&gt; [a]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1718067038" CREATED="1447877314951" MODIFIED="1447877331598"/>
+<node TEXT="mapMaybe :: (a -&gt; Maybe b) -&gt; [a] -&gt; [b]" ID="ID_1152196749" CREATED="1447877764586" MODIFIED="1447877770226"/>
 </node>
 </node>
 <node TEXT="the natural tidal would use functions, have a monoid that is a cycle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1222238007" CREATED="1445930769443" MODIFIED="1445930788601"/>

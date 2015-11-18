@@ -16826,6 +16826,14 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="because exceptions somehow &quot;bypass the whole purity thing&quot;" ID="ID_1020387947" CREATED="1439065146730" MODIFIED="1439065156663"/>
 </node>
 </node>
+<node TEXT="ask : list monad fail" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1648778106" CREATED="1447622960550" MODIFIED="1447622974537">
+<node TEXT="failure" ID="ID_1467424112" CREATED="1447623077710" MODIFIED="1447623089411">
+<node TEXT="Prelude Control.Monad.Random Control.Monad&gt; [1,2] &gt;&gt;= (*2)&#xa;&#xa;&lt;interactive&gt;:38:1:&#xa;    No instance for (Num [b0]) arising from a use of &#x2018;it&#x2019;&#xa;    In a stmt of an interactive GHCi command: print it" ID="ID_1482129713" CREATED="1447622968030" MODIFIED="1447623077210"/>
+</node>
+<node TEXT="half-success" ID="ID_770648645" CREATED="1447623079318" MODIFIED="1447623087181">
+<node TEXT="Prelude Control.Monad.Random Control.Monad&gt; let x = [1,2] &gt;&gt;= (*2)&#xa;Prelude Control.Monad.Random Control.Monad&gt; :t x&#xa;x :: Num [b] =&gt; [b]" ID="ID_1361758112" CREATED="1447623081342" MODIFIED="1447623082343"/>
+</node>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -16952,6 +16960,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="frame &gt; window" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_73779851" CREATED="1414181552384" MODIFIED="1414181556649"/>
 <node TEXT="within window" ID="ID_363260327" CREATED="1414102295190" MODIFIED="1414106065373">
 <font BOLD="true"/>
+<node TEXT="go to line" ID="ID_904190252" CREATED="1447664668358" MODIFIED="1447664669845">
+<node TEXT=". goto line" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1821488391" CREATED="1447664670414" MODIFIED="1447664675182"/>
+<node TEXT="Cg g" ID="ID_953624851" CREATED="1447664672967" MODIFIED="1447664679572"/>
+</node>
 <node TEXT="shift by whole screen" ID="ID_1687427681" CREATED="1414101786718" MODIFIED="1414101793433">
 <node TEXT="next screen: Cv (broken)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_291067453" CREATED="1414100050824" MODIFIED="1442007874841"/>
 <node TEXT="prev screen: Mv" ID="ID_1730783834" CREATED="1414100103469" MODIFIED="1414100107358"/>
@@ -17110,12 +17122,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="also saves it as last killed rectangle" ID="ID_1215020717" CREATED="1414891429207" MODIFIED="1414891432834"/>
 </node>
 <node TEXT="C-x r M-w: save as last killed rectangle" ID="ID_1284410716" CREATED="1414891416479" MODIFIED="1414891427874"/>
-<node TEXT="C-x r d:   delete w/o kill-copy" ID="ID_1831225779" CREATED="1414891449757" MODIFIED="1414891471913"/>
-<node TEXT="C-x r o:   insert blanks" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1438252738" CREATED="1414181138302" MODIFIED="1414891517648">
-<font BOLD="false"/>
-</node>
+<node TEXT="C-x r d:   delete w/o kill-copy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1831225779" CREATED="1414891449757" MODIFIED="1447707644238"/>
+<node TEXT="C-x r o:   insert blanks" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1438252738" CREATED="1414181138302" MODIFIED="1447707642378"/>
 <node TEXT="C-x r c:   replace with blanks" ID="ID_271353881" CREATED="1414891538893" MODIFIED="1414891546680"/>
-<node TEXT="C-x r t string &lt;RET&gt;" ID="ID_461665821" CREATED="1414892009603" MODIFIED="1414892047539">
+<node TEXT="C-x r t string &lt;RET&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_461665821" CREATED="1414892009603" MODIFIED="1447707632131">
 <node ID="ID_808273245" CREATED="1414892047895" MODIFIED="1414892047895"><richcontent TYPE="NODE">
 
 <html>
@@ -17132,9 +17142,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="on each line" ID="ID_1429262133" CREATED="1414892021636" MODIFIED="1414892022839"/>
 </node>
-<node TEXT="C-x &lt;space&gt;: highlight as rectangle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_169603297" CREATED="1414892073043" MODIFIED="1445137158088">
-<font BOLD="false"/>
-</node>
+<node TEXT="C-x &lt;space&gt;: highlight as rectangle" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_169603297" CREATED="1414892073043" MODIFIED="1447707652890"/>
 <node TEXT="M-x string-insert-rectangle &lt;RET&gt; string &lt;RET&gt;" ID="ID_860917634" CREATED="1414892033075" MODIFIED="1414892036111">
 <node TEXT="insert string" ID="ID_621237979" CREATED="1414892047895" MODIFIED="1414892054040"/>
 <node TEXT="on each line" ID="ID_13983847" CREATED="1414892021636" MODIFIED="1414892022839"/>
@@ -17173,6 +17181,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="whole file" ID="ID_1399442982" CREATED="1414101426349" MODIFIED="1414101428290">
 <node TEXT="M-{&lt;|&gt;}" ID="ID_704706878" CREATED="1414101428709" MODIFIED="1414101440873"/>
+</node>
+<node TEXT="kill from start of line to cursor : C0 Ck" ID="ID_523772443" CREATED="1447811387660" MODIFIED="1447811400979">
+<node TEXT="0 = zero, not O as in Owl" ID="ID_1821171351" CREATED="1447811401856" MODIFIED="1447811411371"/>
 </node>
 </node>
 <node TEXT="above: &quot;fundamental mode&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1584800941" CREATED="1414179079768" MODIFIED="1414179136908"/>
@@ -19446,6 +19457,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="imag graph lang" ID="ID_161781439" CREATED="1447483340715" MODIFIED="1447483343480">
 <node TEXT="import Graph|Dwt as G" ID="ID_747458888" CREATED="1447483368336" MODIFIED="1447483390792"/>
 <node TEXT="g &lt;- g.add" ID="ID_1002581619" CREATED="1447483346977" MODIFIED="1447483531300"/>
+</node>
+<node TEXT="multiple silences" ID="ID_1130580489" CREATED="1447872542745" MODIFIED="1447872545092">
+<node TEXT="let msil = mapM_ ($ silence)&#xa;&#xa;msil [d1,d4,d3]" ID="ID_1402523565" CREATED="1447872547988" MODIFIED="1447872548923"/>
 </node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
