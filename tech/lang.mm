@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="lang" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1433835911056"><hook NAME="MapStyle" zoom="1.365">
+<node TEXT="lang" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1433835911056"><hook NAME="MapStyle" zoom="1.241">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -10903,7 +10903,7 @@
 <node TEXT="this" ID="ID_1022027628" CREATED="1413151176633" MODIFIED="1421804538308">
 <node TEXT="import System.IO &#xa; &#xa;main = do &#xa;    handle &lt;- openFile &quot;girlfriend.txt&quot; ReadMode &#xa;    contents &lt;- hGetContents handle &#xa;    putStr contents &#xa;    hClose handle" ID="ID_609644039" CREATED="1413151172712" MODIFIED="1413151173589"/>
 </node>
-<node TEXT="print a file to screen" ID="ID_1664109057" CREATED="1413151181063" MODIFIED="1413151189403"/>
+<node TEXT="prints a file to screen" ID="ID_1664109057" CREATED="1413151181063" MODIFIED="1448133665854"/>
 </node>
 <node TEXT="functions" ID="ID_1058884984" CREATED="1413151207999" MODIFIED="1413151208938">
 <node TEXT="openFile" ID="ID_991630903" CREATED="1413151223709" MODIFIED="1413151224912">
@@ -16834,6 +16834,51 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="Prelude Control.Monad.Random Control.Monad&gt; let x = [1,2] &gt;&gt;= (*2)&#xa;Prelude Control.Monad.Random Control.Monad&gt; :t x&#xa;x :: Num [b] =&gt; [b]" ID="ID_1361758112" CREATED="1447623081342" MODIFIED="1447623082343"/>
 </node>
 </node>
+<node TEXT="define constructor in Data stmt" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_517966159" CREATED="1447963767783" MODIFIED="1447963777742">
+<node TEXT="as long as it starts with &quot;:&quot;, the constructor can be introduced in the data statement" ID="ID_1889360474" CREATED="1447963781216" MODIFIED="1447963806955"/>
+<node TEXT="example" ID="ID_13522124" CREATED="1447963807184" MODIFIED="1447963808096">
+<node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_42750456" CREATED="1447963825062" MODIFIED="1447963825062" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
+<node TEXT="data Stmt = Nop | String := Expr | If Expr Stmt Stmt | While Expr Stmt&#xa;          | Seq [Stmt] | String :$ String" ID="ID_1423555155" CREATED="1447963794616" MODIFIED="1447963796042"/>
+<node TEXT="The last constructor, &quot;String :$ String&quot;, I introduced myself; it still compiles." ID="ID_745896452" CREATED="1447963836624" MODIFIED="1447963853367"/>
+</node>
+<node TEXT="partial explanation" LOCALIZED_STYLE_REF="styles.topic" ID="ID_43469203" CREATED="1447963859591" MODIFIED="1447963865050">
+<node TEXT="http://stackoverflow.com/questions/21820772/what-does-mean-in-haskell?rq=1" ID="ID_576176197" CREATED="1447963864000" MODIFIED="1447963864000" LINK="http://stackoverflow.com/questions/21820772/what-does-mean-in-haskell?rq=1"/>
+</node>
+</node>
+<node TEXT="define object in RHS of record assignment" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1291251801" CREATED="1447964760033" MODIFIED="1447964781999">
+<node TEXT="example" ID="ID_283108250" CREATED="1447964797592" MODIFIED="1447964800424">
+<node TEXT="evaluating this" ID="ID_289744694" CREATED="1447964785457" MODIFIED="1447964787465">
+<node TEXT="TokenParser{ parens = m_parens&#xa;           , identifier = m_identifier&#xa;           , reservedOp = m_reservedOp&#xa;           , reserved = m_reserved&#xa;           , semiSep1 = m_semiSep1&#xa;           , whiteSpace = m_whiteSpace } = makeTokenParser def" ID="ID_1989223768" CREATED="1447964783737" MODIFIED="1447964784922"/>
+</node>
+<node TEXT="apparently defines &quot;m_parens&quot;" ID="ID_580752959" CREATED="1447964788425" MODIFIED="1447964793913"/>
+</node>
+<node TEXT="source of example" ID="ID_160755835" CREATED="1447964801641" MODIFIED="1447965837119">
+<node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1668956544" CREATED="1447964811431" MODIFIED="1447964811431" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
+<node TEXT="code from which I saved as a file, here" ID="ID_455210281" CREATED="1447964812424" MODIFIED="1447964823225">
+<node TEXT="/home/jeff/work/computer/Haskell/parse" ID="ID_975252337" CREATED="1447964840050" MODIFIED="1447964840050"/>
+<node TEXT="wiki.Parsing_expressions_and_statements.hs" ID="ID_1733282618" CREATED="1447964845981" MODIFIED="1447964845981"/>
+</node>
+</node>
+<node TEXT="I can&apos;t reproduce it myself" ID="ID_890782507" CREATED="1447965837354" MODIFIED="1447965843554">
+<node TEXT="*Main&gt; data X = X {a :: Int, b :: Int} deriving Show&#xa;*Main&gt; let x = X 1 2&#xa;*Main&gt; x&#xa;X {a = 1, b = 2}&#xa;*Main&gt; X {a=aa,b=bb} = x&#xa;&#xa;&lt;interactive&gt;:33:15: parse error on input &#x2018;=&#x2019;&#xa;*Main&gt;" ID="ID_541129314" CREATED="1447965840690" MODIFIED="1447965841691"/>
+</node>
+</node>
+<node TEXT="haskell : infixing via (`) =&gt; left-assocvt" ID="ID_1744598" CREATED="1448090324408" MODIFIED="1448090421250">
+<node ID="ID_1722651488" CREATED="1448090407365" MODIFIED="1448090407365"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      v1 `f1` v2 `f2` v3 = (v1 `f1` v2) `f2` v3
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -18650,8 +18695,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -41287,6 +41332,12 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+</node>
+<node TEXT="safety fluff" POSITION="right" ID="ID_1833468741" CREATED="1447874535767" MODIFIED="1447874537999">
+<node TEXT="" ID="ID_1805994588" CREATED="1447874538816" MODIFIED="1447964176008">
+<font SIZE="14"/>
+</node>
+<node TEXT="" ID="ID_1894725823" CREATED="1447891147239" MODIFIED="1447891147239"/>
 </node>
 </node>
 </map>

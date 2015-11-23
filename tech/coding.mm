@@ -16044,7 +16044,12 @@
 <node TEXT="Mindmap = Gr Expr MmLab" ID="ID_509323478" CREATED="1447751700105" MODIFIED="1447751735424"/>
 </node>
 </node>
-<node TEXT="admit you have a problem ~ recog (a) god" ID="ID_1430632397" CREATED="1447658908948" MODIFIED="1447658921715"/>
+<node TEXT="next ? parse .mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1628515220" CREATED="1448142934840" MODIFIED="1448142940538">
+<node TEXT="I see more to gain in that than I do in starting a lot of mini-mindmaps from scratch." ID="ID_347035117" CREATED="1448142951872" MODIFIED="1448142975768">
+<node TEXT="the general principle being perhaps don&apos;t plan to do throwaway work" ID="ID_1521840103" CREATED="1448142980433" MODIFIED="1448142990488"/>
+</node>
+</node>
+<node TEXT="Template is a type." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1195727522" CREATED="1448143027777" MODIFIED="1448143036479"/>
 <node TEXT="feas" ID="ID_1694871604" CREATED="1447818350817" MODIFIED="1447818351610">
 <node TEXT="music /$for|allowed by random" ID="ID_536900207" CREATED="1447818268768" MODIFIED="1447818329755">
 <node TEXT="is ?minor dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1238488893" CREATED="1447818406376" MODIFIED="1447818410224"/>
@@ -16052,7 +16057,7 @@
 <node TEXT="ahoglehauouahoe hoe hoe lis thepqby5710zhiuooo;wa," ID="ID_116679751" CREATED="1447818225408" MODIFIED="1447818244832"/>
 </node>
 </node>
-<node TEXT="how many times does x refer to y" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1091975297" CREATED="1447820918266" MODIFIED="1447820926512">
+<node TEXT="&quot;how many times does x refer(graph succession) to y&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1091975297" CREATED="1447820918266" MODIFIED="1447962822680">
 <node TEXT="recursive" ID="ID_99291686" CREATED="1447820935386" MODIFIED="1447820938155"/>
 </node>
 <node TEXT="Maybe-relevant functions" ID="ID_1649426565" CREATED="1447877145892" MODIFIED="1447877153120">
@@ -16065,10 +16070,15 @@
 <node TEXT="catMaybes :: [Maybe a] -&gt; [a]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1718067038" CREATED="1447877314951" MODIFIED="1447877331598"/>
 <node TEXT="mapMaybe :: (a -&gt; Maybe b) -&gt; [a] -&gt; [b]" ID="ID_1152196749" CREATED="1447877764586" MODIFIED="1447877770226"/>
 </node>
+<node TEXT="&quot;Was it good work?&quot; &quot;There are more good(feas) plans up now.&quot; &quot;Motivational posters?&quot;" ID="ID_219035511" CREATED="1448143646867" MODIFIED="1448143670366"/>
+</node>
+<node TEXT="parser : run this code" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1958264455" CREATED="1447921657735" MODIFIED="1447921674410">
+<node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
+<node TEXT="2.3 Expression parser" ID="ID_1634394270" CREATED="1447921664446" MODIFIED="1447921665213"/>
 </node>
 <node TEXT="the natural tidal would use functions, have a monoid that is a cycle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1222238007" CREATED="1445930769443" MODIFIED="1445930788601"/>
-<node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1445763978975">
-<font BOLD="false"/>
+<node TEXT="parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_248551988" CREATED="1447974661144" MODIFIED="1447974664134">
+<node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1447974666918">
 <node TEXT="fp complete" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1443638662983">
 <node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_514995313" CREATED="1443637160838" MODIFIED="1443637160838" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
 <node TEXT="&quot;Following this specification, we can easily write the parser as follows&quot; ..." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1100284346" CREATED="1443637171261" MODIFIED="1443637181453"/>
@@ -16077,6 +16087,19 @@
 <node TEXT="http://dev.stephendiehl.com/fun/002_parsers.html" ID="ID_68560217" CREATED="1443638561787" MODIFIED="1443638561787" LINK="http://dev.stephendiehl.com/fun/002_parsers.html"/>
 <node TEXT="around &quot;option :: Parser a -&gt; Parser a -&gt; Parser a&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1683290201" CREATED="1443638604269" MODIFIED="1443638612897"/>
 </node>
+</node>
+<node TEXT="derive ReadS" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_25066595" CREATED="1447974669376" MODIFIED="1447974674060">
+<node TEXT="https://www.haskell.org/tutorial/stdclasses.html" ID="ID_1353547067" CREATED="1447974674965" MODIFIED="1447974674965" LINK="https://www.haskell.org/tutorial/stdclasses.html"/>
+</node>
+</node>
+<node TEXT="Erin on Exceptions" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_585551139" CREATED="1447989331787" MODIFIED="1447989336780">
+<node TEXT="if x throws exception to y, both threads, it replaces what y was evaluating with the exception" ID="ID_1764983629" CREATED="1447989907018" MODIFIED="1447989923741"/>
+<node TEXT="async except very diff from sync" ID="ID_1145154053" CREATED="1447989993776" MODIFIED="1447990001638"/>
+<node TEXT="the union of exceptions: used" ID="ID_81125650" CREATED="1447990411511" MODIFIED="1447990418778"/>
+<node TEXT="eval order not specd in haskell" ID="ID_253414909" CREATED="1447990427736" MODIFIED="1447990432732"/>
+<node TEXT="&quot;mask&quot; makes code interruption-proof" ID="ID_915445392" CREATED="1447990868313" MODIFIED="1447990875732"/>
+<node TEXT="monadThrow, monadCatch; gabriel gonzales wrote an exception tool" ID="ID_1102539165" CREATED="1447991303935" MODIFIED="1447991315561"/>
+<node TEXT="&quot;applicative do&quot; extension coming soon" ID="ID_1444181468" CREATED="1447991557763" MODIFIED="1447991566230"/>
 </node>
 <node TEXT="turtle" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_515608659" CREATED="1436761758820" MODIFIED="1445755857147">
 <node TEXT="use OverloadedStrings" ID="ID_1142289805" CREATED="1436819673097" MODIFIED="1436819677197">
@@ -16558,6 +16581,12 @@
 </node>
 <node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683">
 <node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
+</node>
+</node>
+<node TEXT="safety fluff" POSITION="right" ID="ID_197013996" CREATED="1447963017745" MODIFIED="1447963019368">
+<node TEXT="" ID="ID_877242808" CREATED="1447963019728" MODIFIED="1447963019728">
+<node TEXT="" ID="ID_867365799" CREATED="1447963020115" MODIFIED="1447963020115"/>
+<node TEXT="" ID="ID_403576154" CREATED="1447963020712" MODIFIED="1447963020712"/>
 </node>
 </node>
 <node TEXT="loop" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1730897790" CREATED="1407000260013" MODIFIED="1407050898981">
