@@ -16071,6 +16071,43 @@
 <node TEXT="mapMaybe :: (a -&gt; Maybe b) -&gt; [a] -&gt; [b]" ID="ID_1152196749" CREATED="1447877764586" MODIFIED="1447877770226"/>
 </node>
 <node TEXT="&quot;Was it good work?&quot; &quot;There are more good(feas) plans up now.&quot; &quot;Motivational posters?&quot;" ID="ID_219035511" CREATED="1448143646867" MODIFIED="1448143670366"/>
+<node TEXT="dwt + rep, 2015 11 7-22" ID="ID_166903223" CREATED="1448301972159" MODIFIED="1448308194245">
+<font BOLD="true"/>
+<node TEXT="diary : date X who" LOCALIZED_STYLE_REF="default" ID="ID_1858639297" CREATED="1446699994688" MODIFIED="1448304320356"/>
+<node TEXT="parenthetical attached to a non-parenthetical" LOCALIZED_STYLE_REF="default" ID="ID_320676567" CREATED="1447198414108" MODIFIED="1448304318703">
+<node TEXT="f(x)" ID="ID_1084102421" CREATED="1447198421339" MODIFIED="1447198424177"/>
+</node>
+<node TEXT="break|recurse display" ID="ID_1657758756" CREATED="1448090117536" MODIFIED="1448090146518">
+<node TEXT="I don&apos;t think such cycles are needed." ID="ID_1608326811" CREATED="1448091748736" MODIFIED="1448091760657">
+<node TEXT="= trying to find something that would break it" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1809720866" CREATED="1448090129439" MODIFIED="1448090139084"/>
+<node TEXT="apples" ID="ID_722308015" CREATED="1448090149648" MODIFIED="1448090152263"/>
+<node TEXT="pear" ID="ID_1639230219" CREATED="1448090152448" MODIFIED="1448090155343"/>
+<node TEXT="_ defeats _" ID="ID_619323110" CREATED="1448090156160" MODIFIED="1448090476769"/>
+<node TEXT="[apples] defeat [pears]" ID="ID_1401063555" CREATED="1448090158615" MODIFIED="1448090490598">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_619323110" STARTINCLINATION="157;0;" ENDINCLINATION="157;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="_ is a _ statement" ID="ID_1581427002" CREATED="1448090460152" MODIFIED="1448090470143"/>
+<node TEXT="dubious" ID="ID_686633241" CREATED="1448090510152" MODIFIED="1448090511175"/>
+<node TEXT="dubity : considering reps" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_800775573" CREATED="1448090644040" MODIFIED="1448090655231">
+<node TEXT=". these all use this template" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1582122486" CREATED="1448090497480" MODIFIED="1448090674189">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1581427002" STARTINCLINATION="412;0;" ENDINCLINATION="412;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="[[apples] defeat [pears]] is a [dubious] statement" ID="ID_968494477" CREATED="1448090663872" MODIFIED="1448090664766"/>
+<node TEXT="apples $-defeat-$ pears  $$-is a-$$  dubious  $$-statement" ID="ID_157597137" CREATED="1448090528488" MODIFIED="1448090608756"/>
+<node TEXT="apples $-defeat-$ pears  is-$$-a  dubious  $$-statement" ID="ID_1583945459" CREATED="1448090528488" MODIFIED="1448090747255"/>
+<node TEXT="[apples $-defeat-$ pears]  is a [dubious]  statement" ID="ID_1358491970" CREATED="1448090528488" MODIFIED="1448090691187"/>
+</node>
+</node>
+<node TEXT="if created, can just inform user" ID="ID_1494010093" CREATED="1448091770480" MODIFIED="1448091781207"/>
+</node>
+<node TEXT="if cycle in display-as rel" LOCALIZED_STYLE_REF="default" ID="ID_1146447641" CREATED="1448087698864" MODIFIED="1448095771156">
+<node TEXT="display at top within-node context (at least) once, with a label; where lower contexts display as that rel, display just the symbol" ID="ID_345802048" CREATED="1448087718358" MODIFIED="1448087781121"/>
+</node>
+<node TEXT="String as one of the constructors" ID="ID_1665889856" CREATED="1448170800384" MODIFIED="1448170804696">
+<node TEXT="data MmEdge = String | MmRel Int" ID="ID_1800009280" CREATED="1448170805568" MODIFIED="1448170822607"/>
+</node>
+<node TEXT="devon parse mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1661163394" CREATED="1448224310007" MODIFIED="1448224316036"/>
+</node>
 </node>
 <node TEXT="parser : run this code" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1958264455" CREATED="1447921657735" MODIFIED="1447921674410">
 <node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>

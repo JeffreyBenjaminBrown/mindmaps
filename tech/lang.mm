@@ -19506,6 +19506,125 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="multiple silences" ID="ID_1130580489" CREATED="1447872542745" MODIFIED="1447872545092">
 <node TEXT="let msil = mapM_ ($ silence)&#xa;&#xa;msil [d1,d4,d3]" ID="ID_1402523565" CREATED="1447872547988" MODIFIED="1447872548923"/>
 </node>
+<node TEXT="mus + tidal, 2015 11 7-22" ID="ID_1926121064" CREATED="1448302064968" MODIFIED="1448308095984">
+<font BOLD="true"/>
+<node TEXT="1p" ID="ID_1450273714" CREATED="1448306222029" MODIFIED="1448306226717">
+<node TEXT="? submit simple refactorings to Sound.Tidal" LOCALIZED_STYLE_REF="default" ID="ID_1232566525" CREATED="1446765002172" MODIFIED="1448302069213"/>
+<node TEXT="tidal / DIY OSC" ID="ID_233814763" CREATED="1446856157444" MODIFIED="1446856161475">
+<node TEXT="http://lurk.org/groups/tidal/messages/topic/1lMTRd2nDtmVcnVasSP4cp/" ID="ID_778520084" CREATED="1446856162018" MODIFIED="1446856162018" LINK="http://lurk.org/groups/tidal/messages/topic/1lMTRd2nDtmVcnVasSP4cp/"/>
+</node>
+<node TEXT="tidal / grid(v) pattern to (n or grid(noun))" ID="ID_1571446951" CREATED="1446922569928" MODIFIED="1446922624712">
+<node TEXT="n (a number) a simple case of grid(noun)" ID="ID_1333721215" CREATED="1446922602599" MODIFIED="1446922632921"/>
+</node>
+<node TEXT="generators for [concur ratio] sequences" ID="ID_1200968898" CREATED="1446922944063" MODIFIED="1446922971872"/>
+<node TEXT="play the relationship" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_696275197" CREATED="1446923674570" MODIFIED="1448302227172">
+<font BOLD="false"/>
+<node TEXT="set up an env, choose a rel like &quot;the {interval, time-quantized instruction delay, ..} between these two voices&quot;, play that thing" ID="ID_1014896496" CREATED="1446923678564" MODIFIED="1446923732350"/>
+</node>
+<node TEXT="tidal : sort events by (start . end)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1480245168" CREATED="1446947374786" MODIFIED="1448302398892">
+<node TEXT="&quot;.&quot; eval left first" ID="ID_1395862129" CREATED="1446947395594" MODIFIED="1446947413487"/>
+</node>
+<node TEXT="drums have more voices" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1654434806" CREATED="1447124512493" MODIFIED="1447124516292">
+<node TEXT="kick, sn, hat etc -- how to make them compete? with bass, treb" ID="ID_761450673" CREATED="1447124520307" MODIFIED="1447124535623"/>
+</node>
+<node TEXT="wave of duplicate on|(off (rhythm))" LOCALIZED_STYLE_REF="styles.topic" ID="ID_415423512" CREATED="1447128261317" MODIFIED="1448302690650"/>
+<node TEXT="voice wave overshoot, one disappears at end of cyc, two replace it start of next" ID="ID_371227268" CREATED="1447128870207" MODIFIED="1447128889661"/>
+<node TEXT="incorporate sample hunting into tidal use rhythm" ID="ID_1376959571" CREATED="1447136974490" MODIFIED="1447136984690">
+<node TEXT=". rhythm of using tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_570694646" CREATED="1447136989779" MODIFIED="1448302973790"/>
+</node>
+<node TEXT="pre-stutter" ID="ID_960749778" CREATED="1447137477254" MODIFIED="1447137479334">
+<node TEXT="play the first few bits of the verse before starting the verse on the beat" ID="ID_1189155175" CREATED="1447137480084" MODIFIED="1447137491968">
+<node TEXT="until it restarts, aud thinks you changed the downbeat" ID="ID_1250594464" CREATED="1447137502758" MODIFIED="1447137510265"/>
+</node>
+</node>
+<node TEXT="ask &quot;what is the meter? on which beat does the snare fall?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1653686499" CREATED="1447140090497" MODIFIED="1448303046169"/>
+<node TEXT="issue &quot;do _ at the next n / 8, where 8 = the meter&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_321784703" CREATED="1447140104332" MODIFIED="1448303046163"/>
+<node TEXT="2 bass voices, one constant, the other duplicating the first sometimes" ID="ID_1328273681" CREATED="1447234240260" MODIFIED="1447234254269">
+<node TEXT="bass and kick" ID="ID_577662916" CREATED="1447234255164" MODIFIED="1447234257074"/>
+<node TEXT="pas the dutch" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1860864371" CREATED="1447234259101" MODIFIED="1447234262748"/>
+</node>
+</node>
+<node TEXT="2p" ID="ID_1504023899" CREATED="1448306227541" MODIFIED="1448306228331">
+<node TEXT="physics for music" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1262157018" CREATED="1447402741400" MODIFIED="1447402744964">
+<node TEXT="gravity among melodies" ID="ID_1049093328" CREATED="1447402787169" MODIFIED="1447402799657"/>
+</node>
+<node TEXT="pitch =&gt; trigger &lt;= sample" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_911775651" CREATED="1448304888532" MODIFIED="1448304904684">
+<node TEXT="join pitch instructions to sample trigger time instructions, new time at each new time from either" ID="ID_229356259" CREATED="1447405441348" MODIFIED="1447405467576"/>
+</node>
+<node TEXT="query voice(s)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_69136023" CREATED="1448304913604" MODIFIED="1448304923525">
+<node TEXT="ask &quot;what are all the psr&apos;s pitches? note start times (as fraction of a cycle)? what are all the pitches|start times of any instrument? ..&quot;" ID="ID_1326665042" CREATED="1447407571638" MODIFIED="1447407622639">
+<node TEXT="that way could preserve information while escaping _" ID="ID_942930816" CREATED="1447407624679" MODIFIED="1447407631612">
+<node TEXT="against being write-only, cornering myself" ID="ID_1252484740" CREATED="1447407638106" MODIFIED="1447407644344"/>
+</node>
+</node>
+</node>
+<node TEXT="song ! instrument" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_886353062" CREATED="1447470180808" MODIFIED="1447470195821">
+<node TEXT="choose ?offline the params it most needs, play a (?sep proc)" ID="ID_1989791409" CREATED="1447470187527" MODIFIED="1447470243997">
+<node TEXT="the ?s the same" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_73283563" CREATED="1447470244823" MODIFIED="1447470250440"/>
+</node>
+</node>
+<node TEXT="while bass at -6, use scale (-6,0,4,10,12,18,..) and when at 0 use same except 5,13,.." ID="ID_1071651448" CREATED="1447475038106" MODIFIED="1447475100265">
+<node TEXT="I might with the .. be skipping another conflict zone." ID="ID_1121302556" CREATED="1447475133042" MODIFIED="1447475141097"/>
+</node>
+<node TEXT="why Tidal.Graph" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1526655044" CREATED="1447494662594" MODIFIED="1447494676921">
+<node TEXT="redefining one thing, need not redefine everything dependent on it" ID="ID_1330414111" CREATED="1447494678624" MODIFIED="1447494691442"/>
+<node TEXT="can make targeted queries -- &quot;what is the union of every instrument&apos;s pitch set?&quot; or &quot;show on screen the kick and snares aligned in horizontal time&quot;" ID="ID_1941530661" CREATED="1447494714503" MODIFIED="1447494789178"/>
+</node>
+<node TEXT="where major becomes dom 7, maj to dim with hardly a change" ID="ID_331509228" CREATED="1447551233321" MODIFIED="1447551248488"/>
+<node TEXT="given 2 harmonics, divide the octave to a specified fineness using them" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1056937617" CREATED="1447570405304" MODIFIED="1448305502503"/>
+<node TEXT="define a region the representative of which switches between nearby(in the region) fractions, switching to harmonize with other regions" ID="ID_1664945454" CREATED="1447570529679" MODIFIED="1448305525434"/>
+<node TEXT="x-voice waves" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1319895844" CREATED="1447739289314" MODIFIED="1448305858466">
+<node TEXT="assume some upper limit on the voices, say 10" ID="ID_1480966097" CREATED="1447739324171" MODIFIED="1447739346980"/>
+<node TEXT="a wave state is a subset of the integers in [0,10]" ID="ID_1915194516" CREATED="1447739347201" MODIFIED="1447739374842"/>
+<node TEXT="some pictures" ID="ID_933003529" CREATED="1447739389108" MODIFIED="1447739390717">
+<node TEXT="adjacent digits concurrent, space next" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1471595405" CREATED="1447739473394" MODIFIED="1447739485082"/>
+<node TEXT="12 1" ID="ID_1040552409" CREATED="1447739463175" MODIFIED="1447739464009">
+<node TEXT="the simplest?" ID="ID_450445420" CREATED="1447739464904" MODIFIED="1447739467344"/>
+</node>
+<node TEXT="12 1 2 1" ID="ID_1641241374" CREATED="1447739436747" MODIFIED="1447739459827"/>
+<node TEXT="1&#xa;12&#xa;123&#xa;1234" ID="ID_967139787" CREATED="1447739391630" MODIFIED="1447739398341">
+<node TEXT="bach did this in the transylvannia song" ID="ID_1704349562" CREATED="1447739401313" MODIFIED="1447739407685">
+<node TEXT="on a diminished chord" ID="ID_1668812228" CREATED="1447739413727" MODIFIED="1447739416432"/>
+</node>
+</node>
+<node TEXT="1 12 2 12" ID="ID_1902006738" CREATED="1447739423901" MODIFIED="1447739430751"/>
+</node>
+</node>
+<node TEXT="in music, when set of concurrent waves|pattern changes, important to change their durations" ID="ID_802668908" CREATED="1447820036866" MODIFIED="1447820058969">
+<node TEXT="in-pat v. x-pat" ID="ID_623269762" CREATED="1447820090097" MODIFIED="1447820094608"/>
+</node>
+<node TEXT="0 min `then` 1 aug" ID="ID_816266275" CREATED="1447827430724" MODIFIED="1448306318365"/>
+</node>
+<node TEXT="3.." ID="ID_856682034" CREATED="1448306376165" MODIFIED="1448306376956">
+<node TEXT="31et gives you so much more sideways" ID="ID_697894712" CREATED="1447827751344" MODIFIED="1447827764688"/>
+<node TEXT="music, detect implicit contracts" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_462368155" CREATED="1447906842110" MODIFIED="1448306366875">
+<node TEXT="inc. read them into one&apos;s own observed history of work" ID="ID_1036381957" CREATED="1447906856273" MODIFIED="1447906864552"/>
+</node>
+<node TEXT="chorus fx on vox during chorus" ID="ID_838612906" CREATED="1448007574261" MODIFIED="1448007581095"/>
+<node TEXT="if the rhyme feels too predictable then alter another thing, for instance delay it" ID="ID_1894398071" CREATED="1448070532570" MODIFIED="1448306892888">
+<node TEXT="observed, hamilton, room where it happens" ID="ID_146884875" CREATED="1448070548230" MODIFIED="1448070552933"/>
+</node>
+<node TEXT="mus imp appet prosth" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_461473590" CREATED="1448089009961" MODIFIED="1448089166385">
+<node ID="ID_1670350590" CREATED="1448089164944" MODIFIED="1448089164944"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      : display a history (across graphs) of (langj high-level|observed in rendered data) [timbre, note frequency range (x-voice, within-pattern), max pattern duration, pitch range, scale, ..]
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="slightly warped parallel [third]" ID="ID_1665468846" CREATED="1448089276592" MODIFIED="1448089282976">
+<node TEXT="10/31 in one, 11/31 after, from a different tonic" ID="ID_1700421198" CREATED="1448089294567" MODIFIED="1448089307653"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">
