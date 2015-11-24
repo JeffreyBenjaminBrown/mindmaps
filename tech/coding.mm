@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.334">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.213">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -15635,7 +15635,97 @@
 </node>
 </node>
 </node>
-<node TEXT=".mm format" LOCALIZED_STYLE_REF="default" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1447544461344">
+<node TEXT="! Wikidata" LOCALIZED_STYLE_REF="default" ID="ID_1199249459" CREATED="1444874309383" MODIFIED="1447544623246">
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1162205048" CREATED="1444944966945" MODIFIED="1447544696521"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      graph text &amp; community
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="tag is used elsewhere too" ID="ID_1693897655" CREATED="1447544704238" MODIFIED="1447544707261"/>
+</node>
+<node TEXT="https://www.wikidata.org/wiki/Wikidata:Main_Page" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_335447472" CREATED="1444873606137" MODIFIED="1444937303602" LINK="https://www.wikidata.org/wiki/Wikidata:Main_Page"/>
+<node TEXT="They are based in SF." ID="ID_487045714" CREATED="1444876210713" MODIFIED="1444876215553"/>
+<node TEXT="Meet them." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_150390028" CREATED="1444876215777" MODIFIED="1444876227644">
+<node TEXT="Twitter?" ID="ID_106947917" CREATED="1444876231600" MODIFIED="1444876233083"/>
+</node>
+<node TEXT="Is its graph lang weak." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_296733179" CREATED="1444876563048" MODIFIED="1444876640932">
+<node TEXT="https://www.wikidata.org/wiki/Wikidata:Introduction" ID="ID_1684799945" CREATED="1444876570745" MODIFIED="1444876570745" LINK="https://www.wikidata.org/wiki/Wikidata:Introduction"/>
+</node>
+<node TEXT="Try working with their stuff." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1127929139" CREATED="1444877200433" MODIFIED="1444877205117">
+<node TEXT="online" ID="ID_1781500656" CREATED="1444877205505" MODIFIED="1444877210342"/>
+<node TEXT="in Haskell" ID="ID_875289040" CREATED="1444877210554" MODIFIED="1444877211976"/>
+<node TEXT="in R" ID="ID_44576879" CREATED="1444877216289" MODIFIED="1444877217177"/>
+</node>
+</node>
+<node TEXT="window" ID="ID_581305825" CREATED="1447539440875" MODIFIED="1447539441683">
+<node TEXT="want : no dup app in x-app in-desktop menu" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1316938977" CREATED="1447540008747" MODIFIED="1447540040517">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_206496662" STARTINCLINATION="310;0;" ENDINCLINATION="310;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="can the across-window within-desktop menu show only one window|rep from each app" ID="ID_1925681692" CREATED="1447310682625" MODIFIED="1447310719254"/>
+</node>
+<node TEXT="new desktop : lazy" ID="ID_206496662" CREATED="1447539985107" MODIFIED="1447539989978">
+<node TEXT="not move to new desktop until across-app menu long" LOCALIZED_STYLE_REF="default" ID="ID_1707621818" CREATED="1447310603402" MODIFIED="1447310637818"/>
+</node>
+<node TEXT="row for project, col for tool" ID="ID_390975882" CREATED="1427513788222" MODIFIED="1427513805099">
+<node TEXT="kde" ID="ID_1474219525" CREATED="1427513806799" MODIFIED="1427513807892"/>
+</node>
+<node TEXT="window queue : nice" ID="ID_1899241975" CREATED="1447539886211" MODIFIED="1447539904845">
+<node TEXT="web-traversing : don&apos;t throw away the queue, it feels good often to return to" ID="ID_99706731" CREATED="1446425985992" MODIFIED="1446426000143"/>
+</node>
+</node>
+<node TEXT="info" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_314107273" CREATED="1447546104006" MODIFIED="1447546108165">
+<node TEXT="defn by contrast" ID="ID_295223030" CREATED="1442214347840" MODIFIED="1442214351510">
+<node TEXT="can define something by stating what it is opposite" ID="ID_1558462417" CREATED="1442214340568" MODIFIED="1442214363236"/>
+<node TEXT="example" ID="ID_1973470597" CREATED="1442214387920" MODIFIED="1442214411839">
+<node LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1533273760" CREATED="1442214412203" MODIFIED="1442214413955"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      is dup
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="find the gold part" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_481487854" CREATED="1442214405440" MODIFIED="1442214408553"/>
+<node TEXT="what should marij be" LOCALIZED_STYLE_REF="default" ID="ID_738618952" CREATED="1442214207760" MODIFIED="1442214390083">
+<node TEXT="commit to weird" ID="ID_1045863627" CREATED="1442214215208" MODIFIED="1442214218358"/>
+<node TEXT="a clear world sep" ID="ID_1163419445" CREATED="1442214222464" MODIFIED="1442214295121">
+<node TEXT="defn" ID="ID_1338960039" CREATED="1442214326160" MODIFIED="1442214327414">
+<node TEXT="healthy ? to keep two worlds separate" ID="ID_1180297998" CREATED="1442214267816" MODIFIED="1442214286266"/>
+<node TEXT="a physical choice" ID="ID_15588564" CREATED="1442214299152" MODIFIED="1442214301878"/>
+</node>
+<node TEXT="def through contrast" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_112882448" CREATED="1442214322752" MODIFIED="1442214329986">
+<node TEXT="by contrast, if the world flipped from mundane to magic without obvious trigger, it would be scary" ID="ID_1085747477" CREATED="1442214307857" MODIFIED="1442214384387"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="markov = interp x-time" ID="ID_39579786" CREATED="1439081435469" MODIFIED="1439085223983">
+<node TEXT="~bayesian proba" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1604861957" CREATED="1439081445797" MODIFIED="1439081468846"/>
+<node TEXT="subroutine to predict what someone will say next: can run even after having heard them before? can run on self?" ID="ID_1484396225" CREATED="1439056737789" MODIFIED="1439056759667"/>
+<node TEXT="when inventing what a thing says, let it speak for its cog context in listener, what because of what came before you expect to be ringing still for them" ID="ID_21457960" CREATED="1439018171337" MODIFIED="1439018197569">
+<node TEXT="when first on stage, play with mic, &quot;I&apos;ve never done this before&quot;" ID="ID_323235129" CREATED="1439018210577" MODIFIED="1439018221678"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT=".mm format ? next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1448348405461">
+<node TEXT="I see more to gain in that than I do in starting a lot of mini-mindmaps from scratch." LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_347035117" CREATED="1448142951872" MODIFIED="1448348407974">
+<node TEXT="the general principle being perhaps don&apos;t plan to do throwaway work" ID="ID_1521840103" CREATED="1448142980433" MODIFIED="1448142990488"/>
+</node>
 <node TEXT="text rep (observed)" ID="ID_772765326" CREATED="1445763574103" MODIFIED="1445763580576">
 <node TEXT="types" LOCALIZED_STYLE_REF="default" ID="ID_1442937063" CREATED="1445756692267" MODIFIED="1445761018361">
 <node TEXT="ignorable" LOCALIZED_STYLE_REF="default" ID="ID_1729889347" CREATED="1445755894546" MODIFIED="1445763838422">
@@ -15828,93 +15918,6 @@
 </node>
 </node>
 </node>
-<node TEXT="! Wikidata" LOCALIZED_STYLE_REF="default" ID="ID_1199249459" CREATED="1444874309383" MODIFIED="1447544623246">
-<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1162205048" CREATED="1444944966945" MODIFIED="1447544696521"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      graph text &amp; community
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="tag is used elsewhere too" ID="ID_1693897655" CREATED="1447544704238" MODIFIED="1447544707261"/>
-</node>
-<node TEXT="https://www.wikidata.org/wiki/Wikidata:Main_Page" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_335447472" CREATED="1444873606137" MODIFIED="1444937303602" LINK="https://www.wikidata.org/wiki/Wikidata:Main_Page"/>
-<node TEXT="They are based in SF." ID="ID_487045714" CREATED="1444876210713" MODIFIED="1444876215553"/>
-<node TEXT="Meet them." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_150390028" CREATED="1444876215777" MODIFIED="1444876227644">
-<node TEXT="Twitter?" ID="ID_106947917" CREATED="1444876231600" MODIFIED="1444876233083"/>
-</node>
-<node TEXT="Is its graph lang weak." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_296733179" CREATED="1444876563048" MODIFIED="1444876640932">
-<node TEXT="https://www.wikidata.org/wiki/Wikidata:Introduction" ID="ID_1684799945" CREATED="1444876570745" MODIFIED="1444876570745" LINK="https://www.wikidata.org/wiki/Wikidata:Introduction"/>
-</node>
-<node TEXT="Try working with their stuff." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1127929139" CREATED="1444877200433" MODIFIED="1444877205117">
-<node TEXT="online" ID="ID_1781500656" CREATED="1444877205505" MODIFIED="1444877210342"/>
-<node TEXT="in Haskell" ID="ID_875289040" CREATED="1444877210554" MODIFIED="1444877211976"/>
-<node TEXT="in R" ID="ID_44576879" CREATED="1444877216289" MODIFIED="1444877217177"/>
-</node>
-</node>
-<node TEXT="window" ID="ID_581305825" CREATED="1447539440875" MODIFIED="1447539441683">
-<node TEXT="want : no dup app in x-app in-desktop menu" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1316938977" CREATED="1447540008747" MODIFIED="1447540040517">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_206496662" STARTINCLINATION="310;0;" ENDINCLINATION="310;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="can the across-window within-desktop menu show only one window|rep from each app" ID="ID_1925681692" CREATED="1447310682625" MODIFIED="1447310719254"/>
-</node>
-<node TEXT="new desktop : lazy" ID="ID_206496662" CREATED="1447539985107" MODIFIED="1447539989978">
-<node TEXT="not move to new desktop until across-app menu long" LOCALIZED_STYLE_REF="default" ID="ID_1707621818" CREATED="1447310603402" MODIFIED="1447310637818"/>
-</node>
-<node TEXT="row for project, col for tool" ID="ID_390975882" CREATED="1427513788222" MODIFIED="1427513805099">
-<node TEXT="kde" ID="ID_1474219525" CREATED="1427513806799" MODIFIED="1427513807892"/>
-</node>
-<node TEXT="window queue : nice" ID="ID_1899241975" CREATED="1447539886211" MODIFIED="1447539904845">
-<node TEXT="web-traversing : don&apos;t throw away the queue, it feels good often to return to" ID="ID_99706731" CREATED="1446425985992" MODIFIED="1446426000143"/>
-</node>
-</node>
-<node TEXT="info" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_314107273" CREATED="1447546104006" MODIFIED="1447546108165">
-<node TEXT="defn by contrast" ID="ID_295223030" CREATED="1442214347840" MODIFIED="1442214351510">
-<node TEXT="can define something by stating what it is opposite" ID="ID_1558462417" CREATED="1442214340568" MODIFIED="1442214363236"/>
-<node TEXT="example" ID="ID_1973470597" CREATED="1442214387920" MODIFIED="1442214411839">
-<node LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1533273760" CREATED="1442214412203" MODIFIED="1442214413955"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      is dup
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="find the gold part" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_481487854" CREATED="1442214405440" MODIFIED="1442214408553"/>
-<node TEXT="what should marij be" LOCALIZED_STYLE_REF="default" ID="ID_738618952" CREATED="1442214207760" MODIFIED="1442214390083">
-<node TEXT="commit to weird" ID="ID_1045863627" CREATED="1442214215208" MODIFIED="1442214218358"/>
-<node TEXT="a clear world sep" ID="ID_1163419445" CREATED="1442214222464" MODIFIED="1442214295121">
-<node TEXT="defn" ID="ID_1338960039" CREATED="1442214326160" MODIFIED="1442214327414">
-<node TEXT="healthy ? to keep two worlds separate" ID="ID_1180297998" CREATED="1442214267816" MODIFIED="1442214286266"/>
-<node TEXT="a physical choice" ID="ID_15588564" CREATED="1442214299152" MODIFIED="1442214301878"/>
-</node>
-<node TEXT="def through contrast" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_112882448" CREATED="1442214322752" MODIFIED="1442214329986">
-<node TEXT="by contrast, if the world flipped from mundane to magic without obvious trigger, it would be scary" ID="ID_1085747477" CREATED="1442214307857" MODIFIED="1442214384387"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="markov = interp x-time" ID="ID_39579786" CREATED="1439081435469" MODIFIED="1439085223983">
-<node TEXT="~bayesian proba" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1604861957" CREATED="1439081445797" MODIFIED="1439081468846"/>
-<node TEXT="subroutine to predict what someone will say next: can run even after having heard them before? can run on self?" ID="ID_1484396225" CREATED="1439056737789" MODIFIED="1439056759667"/>
-<node TEXT="when inventing what a thing says, let it speak for its cog context in listener, what because of what came before you expect to be ringing still for them" ID="ID_21457960" CREATED="1439018171337" MODIFIED="1439018197569">
-<node TEXT="when first on stage, play with mic, &quot;I&apos;ve never done this before&quot;" ID="ID_323235129" CREATED="1439018210577" MODIFIED="1439018221678"/>
-</node>
-</node>
-</node>
-</node>
 <node TEXT="random graphs\Jelvis + aliens\haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1447640192902">
 <node TEXT="&gt;&gt;&gt; resume at &quot;EDFS&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_215040653" CREATED="1447568498180" MODIFIED="1447568506738"/>
 <node TEXT="pages" ID="ID_1451843400" CREATED="1447579835425" MODIFIED="1447579837099">
@@ -16044,11 +16047,6 @@
 <node TEXT="Mindmap = Gr Expr MmLab" ID="ID_509323478" CREATED="1447751700105" MODIFIED="1447751735424"/>
 </node>
 </node>
-<node TEXT="next ? parse .mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1628515220" CREATED="1448142934840" MODIFIED="1448142940538">
-<node TEXT="I see more to gain in that than I do in starting a lot of mini-mindmaps from scratch." ID="ID_347035117" CREATED="1448142951872" MODIFIED="1448142975768">
-<node TEXT="the general principle being perhaps don&apos;t plan to do throwaway work" ID="ID_1521840103" CREATED="1448142980433" MODIFIED="1448142990488"/>
-</node>
-</node>
 <node TEXT="Template is a type." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1195727522" CREATED="1448143027777" MODIFIED="1448143036479"/>
 <node TEXT="feas" ID="ID_1694871604" CREATED="1447818350817" MODIFIED="1447818351610">
 <node TEXT="music /$for|allowed by random" ID="ID_536900207" CREATED="1447818268768" MODIFIED="1447818329755">
@@ -16108,6 +16106,7 @@
 </node>
 <node TEXT="devon parse mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1661163394" CREATED="1448224310007" MODIFIED="1448224316036"/>
 </node>
+<node TEXT="? why can&apos;t I use Data.List.Split" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_727525695" CREATED="1448343968240" MODIFIED="1448343975443"/>
 </node>
 <node TEXT="parser : run this code" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1958264455" CREATED="1447921657735" MODIFIED="1447921674410">
 <node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
@@ -16129,7 +16128,7 @@
 <node TEXT="https://www.haskell.org/tutorial/stdclasses.html" ID="ID_1353547067" CREATED="1447974674965" MODIFIED="1447974674965" LINK="https://www.haskell.org/tutorial/stdclasses.html"/>
 </node>
 </node>
-<node TEXT="Erin on Exceptions" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_585551139" CREATED="1447989331787" MODIFIED="1447989336780">
+<node TEXT="Erin on Exceptions" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_585551139" CREATED="1447989331787" MODIFIED="1448310825725">
 <node TEXT="if x throws exception to y, both threads, it replaces what y was evaluating with the exception" ID="ID_1764983629" CREATED="1447989907018" MODIFIED="1447989923741"/>
 <node TEXT="async except very diff from sync" ID="ID_1145154053" CREATED="1447989993776" MODIFIED="1447990001638"/>
 <node TEXT="the union of exceptions: used" ID="ID_81125650" CREATED="1447990411511" MODIFIED="1447990418778"/>
