@@ -16030,34 +16030,10 @@
 <node TEXT="so long as there are exactly 3 of them" ID="ID_1538262339" CREATED="1447658055724" MODIFIED="1447658074312"/>
 </node>
 </node>
-<node TEXT="2015 11 16" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_444957765" CREATED="1447751255232" MODIFIED="1447751267673"/>
-<node TEXT="RelTplt &amp; Expr" ID="ID_595705290" CREATED="1447751273307" MODIFIED="1447751286402">
-<node TEXT="RelTplt : string with _s correspg to nodes" LOCALIZED_STYLE_REF="default" ID="ID_1731414058" CREATED="1447750251910" MODIFIED="1447751271112">
-<node TEXT="modeling each between-_ section of a RelTplt as a separate thing would be worse; the rel stands as an english statement, but subsections of it [will often, maybe generally] not" ID="ID_990284215" CREATED="1447750290299" MODIFIED="1447750358437"/>
 </node>
-<node TEXT="Expr : StrExprt or RelExpr" LOCALIZED_STYLE_REF="default" ID="ID_19969552" CREATED="1447750363062" MODIFIED="1447751271843"/>
-</node>
-<node TEXT="plan to refactor" ID="ID_1935969410" CREATED="1447751296993" MODIFIED="1447751300567">
-<node TEXT="MmNode -&gt; Expr = RelExpr Int | StrExpr String" ID="ID_1260081330" CREATED="1447751321911" MODIFIED="1447751611422">
-<node TEXT="RelExpr&apos;s Int indicates how many _s there are in its Tplt" ID="ID_8727264" CREATED="1447751481989" MODIFIED="1447751628400"/>
-</node>
-<node TEXT="MmLab -&gt; MmLab Int" ID="ID_1102952930" CREATED="1447751637360" MODIFIED="1447751690444">
-<node TEXT="indicating which of the _s something corresps" ID="ID_837488180" CREATED="1447751663497" MODIFIED="1447751674584"/>
-</node>
-<node TEXT="Mindmap = Gr Expr MmLab" ID="ID_509323478" CREATED="1447751700105" MODIFIED="1447751735424"/>
-</node>
-</node>
-<node TEXT="Template is a type." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1195727522" CREATED="1448143027777" MODIFIED="1448143036479"/>
-<node TEXT="feas" ID="ID_1694871604" CREATED="1447818350817" MODIFIED="1447818351610">
-<node TEXT="music /$for|allowed by random" ID="ID_536900207" CREATED="1447818268768" MODIFIED="1447818329755">
-<node TEXT="is ?minor dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1238488893" CREATED="1447818406376" MODIFIED="1447818410224"/>
-<node TEXT="= I typed this on the keyboard thinking about its feel in time, sound, fingers, perhaps intentionally avoiding meanings as they arose" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606434601" CREATED="1447818356144" MODIFIED="1447818395515"/>
-<node TEXT="ahoglehauouahoe hoe hoe lis thepqby5710zhiuooo;wa," ID="ID_116679751" CREATED="1447818225408" MODIFIED="1447818244832"/>
-</node>
-</node>
-<node TEXT="&quot;how many times does x refer(graph succession) to y&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1091975297" CREATED="1447820918266" MODIFIED="1447962822680">
-<node TEXT="recursive" ID="ID_99291686" CREATED="1447820935386" MODIFIED="1447820938155"/>
-</node>
+<node TEXT="-&gt; dwt, alien" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_908229575" CREATED="1448511953970" MODIFIED="1448513317263">
+<node TEXT="started sorting backward 2015 11 25" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1617852487" CREATED="1448512525193" MODIFIED="1448513041235"/>
+<node TEXT="haskell" LOCALIZED_STYLE_REF="default" ID="ID_1588222771" CREATED="1448512030553" MODIFIED="1448512773592">
 <node TEXT="Maybe-relevant functions" ID="ID_1649426565" CREATED="1447877145892" MODIFIED="1447877153120">
 <node TEXT="fromMaybe :: a -&gt; Just a -&gt; a" ID="ID_994314962" CREATED="1447877154421" MODIFIED="1447877159822">
 <node TEXT="first arg is default, in case of (say) Nothing" ID="ID_1304340638" CREATED="1447877160430" MODIFIED="1447877173975"/>
@@ -16068,15 +16044,15 @@
 <node TEXT="catMaybes :: [Maybe a] -&gt; [a]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1718067038" CREATED="1447877314951" MODIFIED="1447877331598"/>
 <node TEXT="mapMaybe :: (a -&gt; Maybe b) -&gt; [a] -&gt; [b]" ID="ID_1152196749" CREATED="1447877764586" MODIFIED="1447877770226"/>
 </node>
-<node TEXT="&quot;Was it good work?&quot; &quot;There are more good(feas) plans up now.&quot; &quot;Motivational posters?&quot;" ID="ID_219035511" CREATED="1448143646867" MODIFIED="1448143670366"/>
-<node TEXT="dwt + rep, 2015 11 7-22" ID="ID_166903223" CREATED="1448301972159" MODIFIED="1448308194245">
-<font BOLD="true"/>
-<node TEXT="diary : date X who" LOCALIZED_STYLE_REF="default" ID="ID_1858639297" CREATED="1446699994688" MODIFIED="1448304320356"/>
-<node TEXT="parenthetical attached to a non-parenthetical" LOCALIZED_STYLE_REF="default" ID="ID_320676567" CREATED="1447198414108" MODIFIED="1448304318703">
-<node TEXT="f(x)" ID="ID_1084102421" CREATED="1447198421339" MODIFIED="1447198424177"/>
+<node TEXT="Data.List.Split  ?  why can&apos;t I use" LOCALIZED_STYLE_REF="default" ID="ID_727525695" CREATED="1448343968240" MODIFIED="1448512799956"/>
 </node>
+<node TEXT="show" ID="ID_26409605" CREATED="1448512305001" MODIFIED="1448512306401">
 <node TEXT="break|recurse display" ID="ID_1657758756" CREATED="1448090117536" MODIFIED="1448090146518">
-<node TEXT="I don&apos;t think such cycles are needed." ID="ID_1608326811" CREATED="1448091748736" MODIFIED="1448091760657">
+<node TEXT="example of a breaking cycle" ID="ID_1608326811" CREATED="1448091748736" MODIFIED="1448512243091">
+<node TEXT="it&apos;s over here" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1784702412" CREATED="1448512159282" MODIFIED="1448512253211">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1707133963" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<font BOLD="true"/>
+</node>
 <node TEXT="= trying to find something that would break it" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1809720866" CREATED="1448090129439" MODIFIED="1448090139084"/>
 <node TEXT="apples" ID="ID_722308015" CREATED="1448090149648" MODIFIED="1448090152263"/>
 <node TEXT="pear" ID="ID_1639230219" CREATED="1448090152448" MODIFIED="1448090155343"/>
@@ -16084,7 +16060,10 @@
 <node TEXT="[apples] defeat [pears]" ID="ID_1401063555" CREATED="1448090158615" MODIFIED="1448090490598">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_619323110" STARTINCLINATION="157;0;" ENDINCLINATION="157;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="_ is a _ statement" ID="ID_1581427002" CREATED="1448090460152" MODIFIED="1448090470143"/>
+<node TEXT="_ is a _ statement" ID="ID_1581427002" CREATED="1448090460152" MODIFIED="1448090470143">
+<node TEXT="this breaks it" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1707133963" CREATED="1448512159282" MODIFIED="1448512259391"/>
+<node TEXT="(_ is a _ statement) is a (certain kind of) statement" ID="ID_1133683271" CREATED="1448090460152" MODIFIED="1448512157504"/>
+</node>
 <node TEXT="dubious" ID="ID_686633241" CREATED="1448090510152" MODIFIED="1448090511175"/>
 <node TEXT="dubity : considering reps" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_800775573" CREATED="1448090644040" MODIFIED="1448090655231">
 <node TEXT=". these all use this template" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1582122486" CREATED="1448090497480" MODIFIED="1448090674189">
@@ -16096,17 +16075,61 @@
 <node TEXT="[apples $-defeat-$ pears]  is a [dubious]  statement" ID="ID_1358491970" CREATED="1448090528488" MODIFIED="1448090691187"/>
 </node>
 </node>
-<node TEXT="if created, can just inform user" ID="ID_1494010093" CREATED="1448091770480" MODIFIED="1448091781207"/>
+<node TEXT="inform user upon creation" ID="ID_1494010093" CREATED="1448091770480" MODIFIED="1448512273334">
+<node TEXT="confirmation request" ID="ID_627604750" CREATED="1448512273721" MODIFIED="1448512298499"/>
 </node>
-<node TEXT="if cycle in display-as rel" LOCALIZED_STYLE_REF="default" ID="ID_1146447641" CREATED="1448087698864" MODIFIED="1448095771156">
-<node TEXT="display at top within-node context (at least) once, with a label; where lower contexts display as that rel, display just the symbol" ID="ID_345802048" CREATED="1448087718358" MODIFIED="1448087781121"/>
 </node>
-<node TEXT="String as one of the constructors" ID="ID_1665889856" CREATED="1448170800384" MODIFIED="1448170804696">
-<node TEXT="data MmEdge = String | MmRel Int" ID="ID_1800009280" CREATED="1448170805568" MODIFIED="1448170822607"/>
+<node TEXT="data View" ID="ID_1666009666" CREATED="1448513074665" MODIFIED="1448513158984"/>
 </node>
+<node TEXT="graph" ID="ID_300809934" CREATED="1448512015617" MODIFIED="1448512315263">
+<node TEXT="data Search" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_901153677" CREATED="1448512478362" MODIFIED="1448513280952">
+<node TEXT="date &amp; who :: search on" LOCALIZED_STYLE_REF="default" ID="ID_1858639297" CREATED="1446699994688" MODIFIED="1448512463200">
+<node TEXT="generalizes diary" ID="ID_11247116" CREATED="1448512446185" MODIFIED="1448512469848"/>
+</node>
+</node>
+<node TEXT="substring to node" ID="ID_1332316807" CREATED="1448511970505" MODIFIED="1448511978470">
+<node TEXT="highlight text in paragraph, turn into node" ID="ID_1084461680" CREATED="1448431060799" MODIFIED="1448431069470">
+<node TEXT="will first choose lang for" ID="ID_1232797908" CREATED="1448431073447" MODIFIED="1448512003819">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1743345309" STARTINCLINATION="464;0;" ENDINCLINATION="464;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+<node TEXT="regexp from haskell, &quot;replace third word ... from there to seeventh word ...&quot;" ID="ID_1743345309" CREATED="1448431084264" MODIFIED="1448431106703"/>
+</node>
+</node>
+<node TEXT="branches" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_809661332" CREATED="1448512671873" MODIFIED="1448513286727">
+<node TEXT="measure overlap" ID="ID_1847580612" CREATED="1448512674617" MODIFIED="1448512693314">
+<node TEXT="surely other ways too" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_202298037" CREATED="1448512678057" MODIFIED="1448512681708"/>
+<node TEXT="&quot;how many times does x refer(graph succession) to y&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1091975297" CREATED="1447820918266" MODIFIED="1448512690307">
+<node TEXT="recursive" ID="ID_99291686" CREATED="1447820935386" MODIFIED="1447820938155"/>
+</node>
+</node>
+</node>
+<node TEXT="parse .mm" ID="ID_553047147" CREATED="1448512060857" MODIFIED="1448512063113">
 <node TEXT="devon parse mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1661163394" CREATED="1448224310007" MODIFIED="1448224316036"/>
 </node>
-<node TEXT="? why can&apos;t I use Data.List.Split" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_727525695" CREATED="1448343968240" MODIFIED="1448343975443"/>
+<node TEXT="svn-coop" ID="ID_124776309" CREATED="1448439150809" MODIFIED="1448511947872">
+<node ID="ID_1642687373" CREATED="1448511948314" MODIFIED="1448511948314"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sort list of nodes, edges on Node (or Node pair) before saving
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="later : be able to" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_151450919" CREATED="1448512341761" MODIFIED="1448512365267">
+<node TEXT="parenthetical attached to a non-parenthetical" LOCALIZED_STYLE_REF="default" ID="ID_320676567" CREATED="1447198414108" MODIFIED="1448304318703">
+<node TEXT="f(x)" ID="ID_1084102421" CREATED="1447198421339" MODIFIED="1447198424177"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="parser : run this code" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1958264455" CREATED="1447921657735" MODIFIED="1447921674410">
 <node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>

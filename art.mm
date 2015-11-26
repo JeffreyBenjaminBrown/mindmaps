@@ -1720,6 +1720,13 @@
 <node TEXT="marijuana" ID="ID_48905055" CREATED="1444954881563" MODIFIED="1444954883219"/>
 </node>
 </node>
+<node TEXT="2015 11 25" POSITION="right" ID="ID_1924407236" CREATED="1448512737649" MODIFIED="1448512740664">
+<node TEXT="music /$for|allowed by random" ID="ID_536900207" CREATED="1447818268768" MODIFIED="1447818329755">
+<node TEXT="is ?minor dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1238488893" CREATED="1447818406376" MODIFIED="1447818410224"/>
+<node TEXT="= I typed this on the keyboard thinking about its feel in time, sound, fingers, perhaps intentionally avoiding meanings as they arose" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_606434601" CREATED="1447818356144" MODIFIED="1447818395515"/>
+<node TEXT="ahoglehauouahoe hoe hoe lis thepqby5710zhiuooo;wa," ID="ID_116679751" CREATED="1447818225408" MODIFIED="1447818244832"/>
+</node>
+</node>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1293952846" CREATED="1446315990493" MODIFIED="1446315991665">
 <node TEXT="aimless" ID="ID_1342150508" CREATED="1438139627188" MODIFIED="1444455869768">
 <node TEXT="the fetal position $ an itunes autodisplay to accompany music" ID="ID_1027633689" CREATED="1438138075339" MODIFIED="1438139613071"/>

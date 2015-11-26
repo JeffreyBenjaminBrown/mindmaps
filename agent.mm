@@ -97,7 +97,7 @@
 </node>
 </node>
 <node TEXT="= already big enough to sort within" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1924405427" CREATED="1435017939496" MODIFIED="1435017961310"/>
-<node TEXT="devnull" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_459111624" CREATED="1427059374733" MODIFIED="1440921945691">
+<node TEXT="THE devnull" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_459111624" CREATED="1427059374733" MODIFIED="1448434279966">
 <font BOLD="true"/>
 <node TEXT="yucky, near garbage" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_625909049" CREATED="1432444448990" MODIFIED="1444452544456"/>
 <node TEXT="~ evaporate, sink" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_311306547" CREATED="1430461552680" MODIFIED="1444452683726">
@@ -217,6 +217,10 @@
 <node TEXT="if [censoring, withholding not to introduce vibe] to a neutral, do it completely?" ID="ID_646162329" CREATED="1414815409687" MODIFIED="1415337250976"/>
 </node>
 </node>
+</node>
+<node TEXT="2015 11 23" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_727999202" CREATED="1448434293720" MODIFIED="1448434299182"/>
+<node TEXT="devnull  /  &quot;I like it &amp;|but feel I cannot reasonably support it&quot;" ID="ID_1735927236" CREATED="1448415058850" MODIFIED="1448434145986">
+<node TEXT="reinforce" ID="ID_1359633714" CREATED="1448415073608" MODIFIED="1448415075264"/>
 </node>
 </node>
 <node TEXT="&amp; motiv ratl rhythm crazy" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_967859191" CREATED="1444448981433" MODIFIED="1444454115057">
@@ -1991,7 +1995,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
