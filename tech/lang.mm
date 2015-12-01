@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="lang" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1433835911056"><hook NAME="MapStyle" zoom="1.241">
+<node TEXT="lang" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1433835911056"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.241">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -16879,6 +16879,14 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </richcontent>
 </node>
 </node>
+<node TEXT="? why can return type vary in a monadic do-block" ID="ID_1519949933" CREATED="1448860876136" MODIFIED="1448860897104">
+<node TEXT="*Dwt&gt; :{" ID="ID_878583198" CREATED="1448860897535" MODIFIED="1448860897535"/>
+<node TEXT="*Dwt| do" ID="ID_389863235" CREATED="1448860897535" MODIFIED="1448860897535"/>
+<node TEXT="*Dwt|   return ()" ID="ID_1884169674" CREATED="1448860897537" MODIFIED="1448860897537"/>
+<node TEXT="*Dwt|   return 3" ID="ID_1499053694" CREATED="1448860897539" MODIFIED="1448860897539"/>
+<node TEXT="*Dwt| :}" ID="ID_1415896977" CREATED="1448860897541" MODIFIED="1448860897541"/>
+<node TEXT="3" ID="ID_78202676" CREATED="1448860897544" MODIFIED="1448860897544"/>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -19625,6 +19633,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+<node TEXT="linux group + jack" ID="ID_6387105" CREATED="1447143031687" MODIFIED="1447143041832"/>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">

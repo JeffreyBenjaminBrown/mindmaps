@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" zoom="1.213">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.213">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -2695,11 +2695,178 @@
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="dwt+" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1447549003320">
 <font BOLD="true"/>
+<node TEXT="if collecting, the place to start is here" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_231808909" CREATED="1448529020859" MODIFIED="1448529035193">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1993442127" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 <node TEXT="most recent at top" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_793750088" CREATED="1448524358857" MODIFIED="1448524365367">
 <font BOLD="false"/>
 </node>
 <node TEXT="-&gt; dwt, most recent" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_908229575" CREATED="1448511953970" MODIFIED="1448524907293">
-<node TEXT="started sorting backward 2015 11 25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1617852487" CREATED="1448512525193" MODIFIED="1448527536735"/>
+<node TEXT="s 2015 11 25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1617852487" CREATED="1448512525193" MODIFIED="1448529128476">
+<font BOLD="false"/>
+</node>
+<node TEXT="src" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_855708590" CREATED="1447540158851" MODIFIED="1448529115922">
+<node TEXT="random graphs\Jelvis + aliens\haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1448524890204">
+<font BOLD="false"/>
+<node TEXT="&gt;&gt;&gt; resume at &quot;EDFS&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_215040653" CREATED="1447568498180" MODIFIED="1447568506738"/>
+<node TEXT="pages" ID="ID_1451843400" CREATED="1447579835425" MODIFIED="1447579837099">
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_511563586" CREATED="1447568139194" MODIFIED="1447568139194" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="github" ID="ID_1785705387" CREATED="1447579995279" MODIFIED="1447579996754">
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes" ID="ID_162349195" CREATED="1447579997239" MODIFIED="1447579997239" LINK="https://github.com/TikhonJelvis/inductive-mazes"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs" ID="ID_903920044" CREATED="1447580010596" MODIFIED="1447580010596" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs" ID="ID_1791005892" CREATED="1447580013491" MODIFIED="1447580013491" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs" ID="ID_452661521" CREATED="1447580017210" MODIFIED="1447580017210" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs"/>
+</node>
+<node TEXT="FGL" ID="ID_786279034" CREATED="1447579933593" MODIFIED="1447579935500">
+<node TEXT="https://hackage.haskell.org/package/fgl" ID="ID_174135360" CREATED="1447579937641" MODIFIED="1447579937641" LINK="https://hackage.haskell.org/package/fgl"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html" ID="ID_1306984442" CREATED="1447579839336" MODIFIED="1447579839336" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html" ID="ID_1358891935" CREATED="1447579845717" MODIFIED="1447579845717" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html" ID="ID_1190655254" CREATED="1447579850147" MODIFIED="1447579850147" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html"/>
+</node>
+<node TEXT="MonadRandom" ID="ID_1338554565" CREATED="1447579922587" MODIFIED="1447579924875">
+<node TEXT="https://hackage.haskell.org/package/MonadRandom" ID="ID_477760660" CREATED="1447579913330" MODIFIED="1447579913330" LINK="https://hackage.haskell.org/package/MonadRandom"/>
+<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html" ID="ID_1441575037" CREATED="1447579917517" MODIFIED="1447579917517" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html"/>
+<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html" ID="ID_333540857" CREATED="1447579920938" MODIFIED="1447579920938" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html"/>
+</node>
+<node TEXT="Cairo" ID="ID_574890681" CREATED="1447580096700" MODIFIED="1447580097582">
+<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html" ID="ID_1751647619" CREATED="1447580098061" MODIFIED="1447580098061" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html"/>
+<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html" ID="ID_1902098162" CREATED="1447580108714" MODIFIED="1447580108714" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html"/>
+</node>
+</node>
+<node TEXT="haskell / {-# ViewPatterns #-}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1192140409" CREATED="1447564753617" MODIFIED="1448524704474">
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1097101727" CREATED="1447566535627" MODIFIED="1447566605587" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="defn" ID="ID_983526908" CREATED="1447564825945" MODIFIED="1447564827031">
+<node TEXT="A view pattern e -&gt; p applies the view e to the argument that would be matched by the whole view pattern, and then matches the pattern p against e&apos;s result." ID="ID_1724923872" CREATED="1447564757169" MODIFIED="1447564757928"/>
+</node>
+<node TEXT="multl views for multl pattern cases" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1180800430" CREATED="1447564833689" MODIFIED="1447564904799">
+<node TEXT="{-# LANGUAGE ViewPatterns #-}&#xa;&#xa;eitherEndIsZero :: [Int] -&gt; Bool&#xa;eitherEndIsZero (head -&gt; 0) = True&#xa;eitherEndIsZero (last -&gt; 0) = True&#xa;eitherEndIsZero          _  = False&#xa;&#xa;main = print $ eitherEndIsZero [0,1,8,9]" ID="ID_226671165" CREATED="1447564838377" MODIFIED="1447564839290"/>
+</node>
+</node>
+<node TEXT="haskell / {-# TupleSections #-}" ID="ID_1102258238" CREATED="1447566388866" MODIFIED="1447566414161">
+<node TEXT="motiv" ID="ID_947852709" CREATED="1447566458258" MODIFIED="1447566460496">
+<node TEXT="[you might] ask, &quot;Why can&apos;t we partially section a tuple?&quot; After all, (+) is valid, (,) is valid, and (1 +) is valid, but (1,) is not valid. The TupleSections extension fixes this oversight." ID="ID_1891537647" CREATED="1447566423363" MODIFIED="1447566428620"/>
+</node>
+<node TEXT="a use" ID="ID_397285988" CREATED="1447566438946" MODIFIED="1447566462663">
+<node TEXT="write this" ID="ID_1065309581" CREATED="1447566446986" MODIFIED="1447566448064">
+<node TEXT="(1, &quot;hello&quot;,, Just (),)" ID="ID_1401925112" CREATED="1447566448547" MODIFIED="1447566448547"/>
+</node>
+<node TEXT="to mean this" ID="ID_1019752963" CREATED="1447566449154" MODIFIED="1447566450456">
+<node TEXT="\x y -&gt; (1, &quot;hello&quot;, x, Just (), y)" ID="ID_434573687" CREATED="1447566441374" MODIFIED="1447566441374"/>
+</node>
+</node>
+</node>
+<node TEXT="haskell / conditioning a matched pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_287331648" CREATED="1447566513066" MODIFIED="1448524710869">
+<font BOLD="false"/>
+<node TEXT="? is this a ViewPattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1325778509" CREATED="1448524581528" MODIFIED="1448524599075">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1192140409" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_1583337940" CREATED="1447566535627" MODIFIED="1447566535627" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="notice the &quot;|&quot;" ID="ID_257133555" CREATED="1447566550514" MODIFIED="1447566559933"/>
+<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1878591683" CREATED="1447566543866" MODIFIED="1447566544862"/>
+</node>
+<node TEXT="haskell / fgl (promote from haskell)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1018685311" CREATED="1447563220841" MODIFIED="1448524710864">
+<font BOLD="false"/>
+<node TEXT="? might not want default Gr n e" ID="ID_357906050" CREATED="1447565334674" MODIFIED="1447565355946">
+<node TEXT="&quot;All functions in fgl are actually specified against a Graph typeclasses rather than a concrete implementation. This typeclass mechanism is great since it allows multiple implementations of inductive graphs. Unfortunately, it also breaks type inference in ways that are sometimes hard to track down so, for simplicity, we&#x2019;ll just use the provided implementation: Gr. Gr n e is a graph that has nodes labeled with n and edges labeled with e.&quot;" ID="ID_186972578" CREATED="1447565341682" MODIFIED="1447565344481"/>
+</node>
+<node TEXT="list recursion, tree recursion" ID="ID_844818376" CREATED="1447563248577" MODIFIED="1447563274832">
+<node TEXT="foo x:xs = bar x : foo xs" ID="ID_766196160" CREATED="1447563235386" MODIFIED="1447563246813"/>
+<node TEXT="foo (Node x children) = Node (bar x) (map foo children)" ID="ID_414378376" CREATED="1447563231842" MODIFIED="1447563232789"/>
+</node>
+<node TEXT="graph recursion  X  view-patterns" ID="ID_413609747" CREATED="1447564461933" MODIFIED="1447564490360">
+<node TEXT="without" ID="ID_1192546970" CREATED="1447564461933" MODIFIED="1447564509135">
+<node TEXT="ghead :: Graph -&gt; Graph.Node" ID="ID_1361080339" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead graph | Graph.isEmpty graph = error &quot;Empty graph!&quot;" ID="ID_1395819699" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead graph = case matchAny graph of" ID="ID_56741784" CREATED="1447564461933" MODIFIED="1447564461933">
+<node TEXT="((_, node, _, _), graph) -&gt; node" ID="ID_17586111" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="-- the new name &quot;graph&quot; obscures the old one" ID="ID_455171957" CREATED="1447564603105" MODIFIED="1447564615879"/>
+</node>
+</node>
+<node TEXT="with" ID="ID_1447687877" CREATED="1447564461933" MODIFIED="1447564510119">
+<node TEXT="ghead :: Graph -&gt; Node" ID="ID_1119551064" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead graph | Graph.isEmpty graph            = error &quot;Empty graph!&quot;" ID="ID_853562800" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead (matchAny -&gt; ((_, node, _, _), graph)) = node" ID="ID_1211151045" CREATED="1447564461933" MODIFIED="1447564461933"/>
+</node>
+</node>
+<node TEXT="dfs : beautiful" ID="ID_1603483395" CREATED="1447566863547" MODIFIED="1447566867008">
+<node TEXT="it" ID="ID_492680795" CREATED="1447566871539" MODIFIED="1447567077395">
+<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1453470980" CREATED="1447566868323" MODIFIED="1447566869574"/>
+</node>
+<node TEXT="the &quot;stack&quot; starts as [start]" ID="ID_1777238413" CREATED="1447566979611" MODIFIED="1447567025461"/>
+<node TEXT="stack v. result" ID="ID_1250393584" CREATED="1447567082099" MODIFIED="1447567085817">
+<node TEXT="there&apos;s a pipeline from the stack to the result" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1852881271" CREATED="1447567090547" MODIFIED="1447567125826"/>
+<node TEXT="in &quot;n : go ( expr = Graph.neighbors c ++ ns ) g&quot;, n is the result, and expr is the &quot;new stack&quot;" ID="ID_744079504" CREATED="1447566884290" MODIFIED="1447566974937">
+<node TEXT="the first time, ns is empty" ID="ID_565633569" CREATED="1447567015243" MODIFIED="1447567018968"/>
+</node>
+</node>
+<node TEXT="after visiting n, i.e. after executing the third go clause*, the new g** has n removed" ID="ID_571699579" CREATED="1447567134362" MODIFIED="1447567283344">
+<node TEXT="* the one patterning on (n:ns) (match n -&gt; Just c, g)" ID="ID_1902579397" CREATED="1447567241595" MODIFIED="1447567252348"/>
+<node TEXT="** the one in (Just c, g)" ID="ID_991167213" CREATED="1447567284227" MODIFIED="1447567292984"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="more" ID="ID_485564715" CREATED="1448527881786" MODIFIED="1448527891735">
+<node TEXT="&lt;- see also &quot;next / read&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_988325317" CREATED="1447540372795" MODIFIED="1447540381482"/>
+<node TEXT="fgl +" ID="ID_669234996" CREATED="1447540238859" MODIFIED="1447540247703">
+<node TEXT="jelvis on fgl" ID="ID_1712729005" CREATED="1446420977541" MODIFIED="1446673809738">
+<node TEXT="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html" ID="ID_1793956757" CREATED="1446420990651" MODIFIED="1446420990651" LINK="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html"/>
+<node TEXT="? what is the haskell extension that gives you pattern matching for graphs" ID="ID_564910657" CREATED="1446420962712" MODIFIED="1446420976733">
+<node TEXT="view patterns?" ID="ID_828674470" CREATED="1446420986519" MODIFIED="1446420988918"/>
+</node>
+</node>
+<node TEXT="view patterns" ID="ID_1658568702" CREATED="1446421888048" MODIFIED="1446673811048">
+<node TEXT="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns" ID="ID_549538962" CREATED="1446421892055" MODIFIED="1446421892055" LINK="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns"/>
+</node>
+</node>
+<node TEXT="&quot;semantic web&quot; / wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1447540274954">
+<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="DOT : plant-text graph lang" LOCALIZED_STYLE_REF="default" ID="ID_231251210" CREATED="1446238857312" MODIFIED="1447540354438">
+<node TEXT="https://en.wikipedia.org/wiki/DOT_(graph_description_language)" ID="ID_1147403750" CREATED="1447540343518" MODIFIED="1447540343518" LINK="https://en.wikipedia.org/wiki/DOT_(graph_description_language)"/>
+</node>
+<node TEXT="done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_616473213" CREATED="1447544580078" MODIFIED="1447544581538">
+<node TEXT="! read indivs&apos; mindmaps" LOCALIZED_STYLE_REF="default" ID="ID_1490473234" CREATED="1444813350869" MODIFIED="1447544582530">
+<node TEXT="tried it, they suck" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1440986401" CREATED="1447544586870" MODIFIED="1447544590064"/>
+<node ID="ID_807370577" CREATED="1444868351347" MODIFIED="1444868351347"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      github/*/mindmaps
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93" ID="ID_817745215" CREATED="1444867452337" MODIFIED="1444867452337" LINK="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93"/>
+<node TEXT="I read the first 30 of 333, they were all* tech, low." ID="ID_1839233960" CREATED="1444867454029" MODIFIED="1444867479164">
+<node TEXT="* or in a language (Chinese?) I can&apos;t read" ID="ID_528713718" CREATED="1444867479771" MODIFIED="1444867494534"/>
+</node>
+</node>
+<node TEXT="xmind.net" ID="ID_46050942" CREATED="1444868370103" MODIFIED="1444868375061">
+<node TEXT="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30" ID="ID_191062576" CREATED="1444868346123" MODIFIED="1444868346123" LINK="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30"/>
+<node TEXT="I looked over the first 40 from the search &quot;everything&quot; (returned about 1000), there was only one that tried to be high, and it was less than 200 words, maybe only 50." ID="ID_1927900898" CREATED="1444868384750" MODIFIED="1444868448872"/>
+</node>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="probs|myst" LOCALIZED_STYLE_REF="default" ID="ID_1723775814" CREATED="1444034622741" MODIFIED="1448528024517">
 <node TEXT="dwt-build : promoted" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1380381269" CREATED="1448528043707" MODIFIED="1448528059784"/>
 <node TEXT="dwt-ext" ID="ID_1491186803" CREATED="1448525911761" MODIFIED="1448525912927">
@@ -2748,6 +2915,45 @@
 </node>
 <node TEXT="how to read it as for time-consistency" ID="ID_712746791" CREATED="1447546380551" MODIFIED="1447546385717">
 <node TEXT="you know you might change your mind; you have an integrated expectation across those distinct selves" ID="ID_673832212" CREATED="1447546400023" MODIFIED="1447546413950"/>
+</node>
+</node>
+<node TEXT="rep proc / to intz" LOCALIZED_STYLE_REF="default" ID="ID_702966848" CREATED="1447538865880" MODIFIED="1448528980756">
+<font BOLD="true"/>
+<node TEXT="in svn don&apos;t label just the work; explain the problems, if they fit, for evid of which matter" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_650095595" CREATED="1440135357187" MODIFIED="1447547695331"/>
+<node TEXT="highlight easier than sort" ID="ID_478141284" CREATED="1447539153579" MODIFIED="1447539175021">
+<node TEXT="= if|when not ready for sorting, can read and mark gold" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1920667069" CREATED="1428206325432" MODIFIED="1447539167086"/>
+</node>
+<node TEXT="don&apos;t unsort" ID="ID_1457293613" CREATED="1435013959314" MODIFIED="1447538900980">
+<node TEXT="moving peers but keeping their same order: smells bad" LOCALIZED_STYLE_REF="styles.topic" ID="ID_65993191" CREATED="1435013968771" MODIFIED="1447538922622"/>
+<node TEXT="if I just named the existing structure, to vgrpah-fold it (across time, category), is that good enough? that is, can I avoid certian kinds of restructuring, by allowing my future processing state range more room?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_255151317" CREATED="1434932799857" MODIFIED="1447538922593"/>
+</node>
+<node TEXT="mark the big" ID="ID_401002411" CREATED="1447538914538" MODIFIED="1447538916017">
+<node TEXT="= when bury (or discover buried) a big low date collection, mark it with &quot;is big&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_748201168" CREATED="1433057943602" MODIFIED="1447538918043">
+<node TEXT="so that can search" ID="ID_634342871" CREATED="1433057969562" MODIFIED="1433057974311"/>
+</node>
+</node>
+<node TEXT="search short tags : cogvj easy" ID="ID_1262788554" CREATED="1443635544164" MODIFIED="1447539229267">
+<node TEXT="cogvj fast b/c discard long before read" ID="ID_916810050" CREATED="1443635548775" MODIFIED="1443635576813"/>
+</node>
+<node TEXT="label &quot;hard to decide whether to keep&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_246658300" CREATED="1444678711448" MODIFIED="1447539385069">
+<node TEXT="purple, kind of" ID="ID_419584518" CREATED="1447539366179" MODIFIED="1447539368614"/>
+</node>
+<node TEXT="less re-sort, more grep-read" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1796337759" CREATED="1444189548586" MODIFIED="1444189574106">
+<node TEXT="sorting in place" ID="ID_1778868170" CREATED="1444189577547" MODIFIED="1444189579559"/>
+</node>
+<node TEXT="if can demote ? to @, do so; makes search for ? easier" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_19996860" CREATED="1441473489625" MODIFIED="1447546332707"/>
+<node TEXT="if sorting too slow, retreat from a subdivision" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1380680499" CREATED="1441164821608" MODIFIED="1447546762058">
+<node TEXT="e.g. if spending a lot of time sorting from fresh to within rep, don&apos;t, instead stop at rep, plan to sort further in that document (when can do it more efficj, because more focused)" ID="ID_1401857629" CREATED="1441164835551" MODIFIED="1441164876662"/>
+</node>
+<node TEXT="? label maybes prominently" LOCALIZED_STYLE_REF="default" ID="ID_454330361" CREATED="1442261989282" MODIFIED="1447546070326">
+<node TEXT="to freeze" ID="ID_758354424" CREATED="1442262002146" MODIFIED="1442262003591"/>
+</node>
+<node TEXT="go is wild, could be relevant to any search" ID="ID_707004703" CREATED="1447546513487" MODIFIED="1447546539194">
+<node TEXT="any time I&apos;m searching for anything, when I think I have all the files to look for it in, I should add go to the list" ID="ID_1861201246" CREATED="1440893863852" MODIFIED="1447546519664"/>
+</node>
+<node TEXT="done &amp; deep" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1792469896" CREATED="1447539585443" MODIFIED="1447539594130">
+<node TEXT="I can process randomly. They are all good things." LOCALIZED_STYLE_REF="default" ID="ID_1297816584" CREATED="1423805081420" MODIFIED="1423806547265"/>
+<node TEXT="The purpose in a mindmap category, tree nexus is ultimately not the concept it indicates, but its user effect." ID="ID_806921616" CREATED="1444262329993" MODIFIED="1444262353775"/>
 </node>
 </node>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1730790199" CREATED="1448526357897" MODIFIED="1448526359349">
@@ -3049,195 +3255,8 @@
 <node TEXT="fork being the first" ID="ID_62559304" CREATED="1448524219551" MODIFIED="1448524945490"/>
 </node>
 </node>
-<node TEXT="parse .mm" ID="ID_553047147" CREATED="1448512060857" MODIFIED="1448512063113">
-<node TEXT="devon parse mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1661163394" CREATED="1448224310007" MODIFIED="1448224316036"/>
-</node>
-<node TEXT="svn-coop" ID="ID_124776309" CREATED="1448439150809" MODIFIED="1448511947872">
-<node ID="ID_1642687373" CREATED="1448511948314" MODIFIED="1448511948314"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      sort list of nodes, edges on Node (or Node pair) before saving
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="later : be able to" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_151450919" CREATED="1448512341761" MODIFIED="1448512365267">
-<node TEXT="parenthetical attached to a non-parenthetical" LOCALIZED_STYLE_REF="default" ID="ID_320676567" CREATED="1447198414108" MODIFIED="1448304318703">
-<node TEXT="f(x)" ID="ID_1084102421" CREATED="1447198421339" MODIFIED="1447198424177"/>
-</node>
-</node>
-</node>
-<node TEXT="src" LOCALIZED_STYLE_REF="default" ID="ID_855708590" CREATED="1447540158851" MODIFIED="1448527894720">
-<node TEXT="random graphs\Jelvis + aliens\haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1448524890204">
-<font BOLD="false"/>
-<node TEXT="&gt;&gt;&gt; resume at &quot;EDFS&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_215040653" CREATED="1447568498180" MODIFIED="1447568506738"/>
-<node TEXT="pages" ID="ID_1451843400" CREATED="1447579835425" MODIFIED="1447579837099">
-<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_511563586" CREATED="1447568139194" MODIFIED="1447568139194" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
-<node TEXT="github" ID="ID_1785705387" CREATED="1447579995279" MODIFIED="1447579996754">
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes" ID="ID_162349195" CREATED="1447579997239" MODIFIED="1447579997239" LINK="https://github.com/TikhonJelvis/inductive-mazes"/>
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs" ID="ID_903920044" CREATED="1447580010596" MODIFIED="1447580010596" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs"/>
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs" ID="ID_1791005892" CREATED="1447580013491" MODIFIED="1447580013491" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs"/>
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs" ID="ID_452661521" CREATED="1447580017210" MODIFIED="1447580017210" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs"/>
-</node>
-<node TEXT="FGL" ID="ID_786279034" CREATED="1447579933593" MODIFIED="1447579935500">
-<node TEXT="https://hackage.haskell.org/package/fgl" ID="ID_174135360" CREATED="1447579937641" MODIFIED="1447579937641" LINK="https://hackage.haskell.org/package/fgl"/>
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html" ID="ID_1306984442" CREATED="1447579839336" MODIFIED="1447579839336" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html"/>
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html" ID="ID_1358891935" CREATED="1447579845717" MODIFIED="1447579845717" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html"/>
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html" ID="ID_1190655254" CREATED="1447579850147" MODIFIED="1447579850147" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html"/>
-</node>
-<node TEXT="MonadRandom" ID="ID_1338554565" CREATED="1447579922587" MODIFIED="1447579924875">
-<node TEXT="https://hackage.haskell.org/package/MonadRandom" ID="ID_477760660" CREATED="1447579913330" MODIFIED="1447579913330" LINK="https://hackage.haskell.org/package/MonadRandom"/>
-<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html" ID="ID_1441575037" CREATED="1447579917517" MODIFIED="1447579917517" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html"/>
-<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html" ID="ID_333540857" CREATED="1447579920938" MODIFIED="1447579920938" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html"/>
-</node>
-<node TEXT="Cairo" ID="ID_574890681" CREATED="1447580096700" MODIFIED="1447580097582">
-<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html" ID="ID_1751647619" CREATED="1447580098061" MODIFIED="1447580098061" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html"/>
-<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html" ID="ID_1902098162" CREATED="1447580108714" MODIFIED="1447580108714" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html"/>
-</node>
-</node>
-<node TEXT="haskell / {-# ViewPatterns #-}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1192140409" CREATED="1447564753617" MODIFIED="1448524704474">
-<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1097101727" CREATED="1447566535627" MODIFIED="1447566605587" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
-<node TEXT="defn" ID="ID_983526908" CREATED="1447564825945" MODIFIED="1447564827031">
-<node TEXT="A view pattern e -&gt; p applies the view e to the argument that would be matched by the whole view pattern, and then matches the pattern p against e&apos;s result." ID="ID_1724923872" CREATED="1447564757169" MODIFIED="1447564757928"/>
-</node>
-<node TEXT="multl views for multl pattern cases" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1180800430" CREATED="1447564833689" MODIFIED="1447564904799">
-<node TEXT="{-# LANGUAGE ViewPatterns #-}&#xa;&#xa;eitherEndIsZero :: [Int] -&gt; Bool&#xa;eitherEndIsZero (head -&gt; 0) = True&#xa;eitherEndIsZero (last -&gt; 0) = True&#xa;eitherEndIsZero          _  = False&#xa;&#xa;main = print $ eitherEndIsZero [0,1,8,9]" ID="ID_226671165" CREATED="1447564838377" MODIFIED="1447564839290"/>
-</node>
-</node>
-<node TEXT="haskell / {-# TupleSections #-}" ID="ID_1102258238" CREATED="1447566388866" MODIFIED="1447566414161">
-<node TEXT="motiv" ID="ID_947852709" CREATED="1447566458258" MODIFIED="1447566460496">
-<node TEXT="[you might] ask, &quot;Why can&apos;t we partially section a tuple?&quot; After all, (+) is valid, (,) is valid, and (1 +) is valid, but (1,) is not valid. The TupleSections extension fixes this oversight." ID="ID_1891537647" CREATED="1447566423363" MODIFIED="1447566428620"/>
-</node>
-<node TEXT="a use" ID="ID_397285988" CREATED="1447566438946" MODIFIED="1447566462663">
-<node TEXT="write this" ID="ID_1065309581" CREATED="1447566446986" MODIFIED="1447566448064">
-<node TEXT="(1, &quot;hello&quot;,, Just (),)" ID="ID_1401925112" CREATED="1447566448547" MODIFIED="1447566448547"/>
-</node>
-<node TEXT="to mean this" ID="ID_1019752963" CREATED="1447566449154" MODIFIED="1447566450456">
-<node TEXT="\x y -&gt; (1, &quot;hello&quot;, x, Just (), y)" ID="ID_434573687" CREATED="1447566441374" MODIFIED="1447566441374"/>
-</node>
-</node>
-</node>
-<node TEXT="haskell / conditioning a matched pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_287331648" CREATED="1447566513066" MODIFIED="1448524710869">
-<font BOLD="false"/>
-<node TEXT="? is this a ViewPattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1325778509" CREATED="1448524581528" MODIFIED="1448524599075">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1192140409" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_1583337940" CREATED="1447566535627" MODIFIED="1447566535627" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
-<node TEXT="notice the &quot;|&quot;" ID="ID_257133555" CREATED="1447566550514" MODIFIED="1447566559933"/>
-<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1878591683" CREATED="1447566543866" MODIFIED="1447566544862"/>
-</node>
-<node TEXT="haskell / fgl (promote from haskell)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1018685311" CREATED="1447563220841" MODIFIED="1448524710864">
-<font BOLD="false"/>
-<node TEXT="? might not want default Gr n e" ID="ID_357906050" CREATED="1447565334674" MODIFIED="1447565355946">
-<node TEXT="&quot;All functions in fgl are actually specified against a Graph typeclasses rather than a concrete implementation. This typeclass mechanism is great since it allows multiple implementations of inductive graphs. Unfortunately, it also breaks type inference in ways that are sometimes hard to track down so, for simplicity, we&#x2019;ll just use the provided implementation: Gr. Gr n e is a graph that has nodes labeled with n and edges labeled with e.&quot;" ID="ID_186972578" CREATED="1447565341682" MODIFIED="1447565344481"/>
-</node>
-<node TEXT="list recursion, tree recursion" ID="ID_844818376" CREATED="1447563248577" MODIFIED="1447563274832">
-<node TEXT="foo x:xs = bar x : foo xs" ID="ID_766196160" CREATED="1447563235386" MODIFIED="1447563246813"/>
-<node TEXT="foo (Node x children) = Node (bar x) (map foo children)" ID="ID_414378376" CREATED="1447563231842" MODIFIED="1447563232789"/>
-</node>
-<node TEXT="graph recursion  X  view-patterns" ID="ID_413609747" CREATED="1447564461933" MODIFIED="1447564490360">
-<node TEXT="without" ID="ID_1192546970" CREATED="1447564461933" MODIFIED="1447564509135">
-<node TEXT="ghead :: Graph -&gt; Graph.Node" ID="ID_1361080339" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead graph | Graph.isEmpty graph = error &quot;Empty graph!&quot;" ID="ID_1395819699" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead graph = case matchAny graph of" ID="ID_56741784" CREATED="1447564461933" MODIFIED="1447564461933">
-<node TEXT="((_, node, _, _), graph) -&gt; node" ID="ID_17586111" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="-- the new name &quot;graph&quot; obscures the old one" ID="ID_455171957" CREATED="1447564603105" MODIFIED="1447564615879"/>
-</node>
-</node>
-<node TEXT="with" ID="ID_1447687877" CREATED="1447564461933" MODIFIED="1447564510119">
-<node TEXT="ghead :: Graph -&gt; Node" ID="ID_1119551064" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead graph | Graph.isEmpty graph            = error &quot;Empty graph!&quot;" ID="ID_853562800" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead (matchAny -&gt; ((_, node, _, _), graph)) = node" ID="ID_1211151045" CREATED="1447564461933" MODIFIED="1447564461933"/>
-</node>
-</node>
-<node TEXT="dfs : beautiful" ID="ID_1603483395" CREATED="1447566863547" MODIFIED="1447566867008">
-<node TEXT="it" ID="ID_492680795" CREATED="1447566871539" MODIFIED="1447567077395">
-<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1453470980" CREATED="1447566868323" MODIFIED="1447566869574"/>
-</node>
-<node TEXT="the &quot;stack&quot; starts as [start]" ID="ID_1777238413" CREATED="1447566979611" MODIFIED="1447567025461"/>
-<node TEXT="stack v. result" ID="ID_1250393584" CREATED="1447567082099" MODIFIED="1447567085817">
-<node TEXT="there&apos;s a pipeline from the stack to the result" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1852881271" CREATED="1447567090547" MODIFIED="1447567125826"/>
-<node TEXT="in &quot;n : go ( expr = Graph.neighbors c ++ ns ) g&quot;, n is the result, and expr is the &quot;new stack&quot;" ID="ID_744079504" CREATED="1447566884290" MODIFIED="1447566974937">
-<node TEXT="the first time, ns is empty" ID="ID_565633569" CREATED="1447567015243" MODIFIED="1447567018968"/>
-</node>
-</node>
-<node TEXT="after visiting n, i.e. after executing the third go clause*, the new g** has n removed" ID="ID_571699579" CREATED="1447567134362" MODIFIED="1447567283344">
-<node TEXT="* the one patterning on (n:ns) (match n -&gt; Just c, g)" ID="ID_1902579397" CREATED="1447567241595" MODIFIED="1447567252348"/>
-<node TEXT="** the one in (Just c, g)" ID="ID_991167213" CREATED="1447567284227" MODIFIED="1447567292984"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="more" ID="ID_485564715" CREATED="1448527881786" MODIFIED="1448527891735">
-<node TEXT="&lt;- see also &quot;next / read&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_988325317" CREATED="1447540372795" MODIFIED="1447540381482"/>
-<node TEXT="fgl +" ID="ID_669234996" CREATED="1447540238859" MODIFIED="1447540247703">
-<node TEXT="jelvis on fgl" ID="ID_1712729005" CREATED="1446420977541" MODIFIED="1446673809738">
-<node TEXT="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html" ID="ID_1793956757" CREATED="1446420990651" MODIFIED="1446420990651" LINK="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html"/>
-<node TEXT="? what is the haskell extension that gives you pattern matching for graphs" ID="ID_564910657" CREATED="1446420962712" MODIFIED="1446420976733">
-<node TEXT="view patterns?" ID="ID_828674470" CREATED="1446420986519" MODIFIED="1446420988918"/>
-</node>
-</node>
-<node TEXT="view patterns" ID="ID_1658568702" CREATED="1446421888048" MODIFIED="1446673811048">
-<node TEXT="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns" ID="ID_549538962" CREATED="1446421892055" MODIFIED="1446421892055" LINK="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns"/>
-</node>
-</node>
-<node TEXT="&quot;semantic web&quot; / wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1447540274954">
-<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="DOT : plant-text graph lang" LOCALIZED_STYLE_REF="default" ID="ID_231251210" CREATED="1446238857312" MODIFIED="1447540354438">
-<node TEXT="https://en.wikipedia.org/wiki/DOT_(graph_description_language)" ID="ID_1147403750" CREATED="1447540343518" MODIFIED="1447540343518" LINK="https://en.wikipedia.org/wiki/DOT_(graph_description_language)"/>
-</node>
-<node TEXT="done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_616473213" CREATED="1447544580078" MODIFIED="1447544581538">
-<node TEXT="! read indivs&apos; mindmaps" LOCALIZED_STYLE_REF="default" ID="ID_1490473234" CREATED="1444813350869" MODIFIED="1447544582530">
-<node TEXT="tried it, they suck" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1440986401" CREATED="1447544586870" MODIFIED="1447544590064"/>
-<node ID="ID_807370577" CREATED="1444868351347" MODIFIED="1444868351347"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      github/*/mindmaps
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93" ID="ID_817745215" CREATED="1444867452337" MODIFIED="1444867452337" LINK="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93"/>
-<node TEXT="I read the first 30 of 333, they were all* tech, low." ID="ID_1839233960" CREATED="1444867454029" MODIFIED="1444867479164">
-<node TEXT="* or in a language (Chinese?) I can&apos;t read" ID="ID_528713718" CREATED="1444867479771" MODIFIED="1444867494534"/>
-</node>
-</node>
-<node TEXT="xmind.net" ID="ID_46050942" CREATED="1444868370103" MODIFIED="1444868375061">
-<node TEXT="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30" ID="ID_191062576" CREATED="1444868346123" MODIFIED="1444868346123" LINK="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30"/>
-<node TEXT="I looked over the first 40 from the search &quot;everything&quot; (returned about 1000), there was only one that tried to be high, and it was less than 200 words, maybe only 50." ID="ID_1927900898" CREATED="1444868384750" MODIFIED="1444868448872"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT=".mm format ? next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1448524890720">
-<font BOLD="false"/>
+<node TEXT=".mm format ? next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1448529093077">
+<font BOLD="true"/>
 <node TEXT="I see more to gain in that than I do in starting a lot of mini-mindmaps from scratch." LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_347035117" CREATED="1448142951872" MODIFIED="1448348407974">
 <node TEXT="the general principle being perhaps don&apos;t plan to do throwaway work" ID="ID_1521840103" CREATED="1448142980433" MODIFIED="1448142990488"/>
 </node>
@@ -3433,10 +3452,32 @@
 </node>
 </node>
 </node>
-<node TEXT="s, 2015 11 14, backward in time, some aliens" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1545140239" CREATED="1447538882211" MODIFIED="1447568284887">
-<font BOLD="true"/>
-<node TEXT="dwt +" ID="ID_617417401" CREATED="1447539438771" MODIFIED="1447568140467">
-<font BOLD="true"/>
+<node TEXT="parse .mm" ID="ID_553047147" CREATED="1448512060857" MODIFIED="1448512063113">
+<node TEXT="devon parse mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1661163394" CREATED="1448224310007" MODIFIED="1448224316036"/>
+</node>
+<node TEXT="svn-coop" ID="ID_124776309" CREATED="1448439150809" MODIFIED="1448511947872">
+<node ID="ID_1642687373" CREATED="1448511948314" MODIFIED="1448511948314"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sort list of nodes, edges on Node (or Node pair) before saving
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="later : be able to" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_151450919" CREATED="1448512341761" MODIFIED="1448512365267">
+<node TEXT="parenthetical attached to a non-parenthetical" LOCALIZED_STYLE_REF="default" ID="ID_320676567" CREATED="1447198414108" MODIFIED="1448304318703">
+<node TEXT="f(x)" ID="ID_1084102421" CREATED="1447198421339" MODIFIED="1447198424177"/>
+</node>
+</node>
+</node>
+<node TEXT="s, 2015 11 14, 1-extrd 2015 11 25" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1545140239" CREATED="1447538882211" MODIFIED="1448529060472">
 <node TEXT="meh|done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1929331444" CREATED="1447538540970" MODIFIED="1447538785832">
 <node TEXT="unmerged" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1340498517" CREATED="1447538695626" MODIFIED="1447538703745"/>
 <node TEXT="english + punc" ID="ID_907053094" CREATED="1425198321121" MODIFIED="1425452252316">
@@ -3732,44 +3773,6 @@
 </node>
 </node>
 </node>
-<node TEXT="rep proc / to intz" LOCALIZED_STYLE_REF="default" ID="ID_702966848" CREATED="1447538865880" MODIFIED="1448527457155">
-<node TEXT="in svn don&apos;t label just the work; explain the problems, if they fit, for evid of which matter" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_650095595" CREATED="1440135357187" MODIFIED="1447547695331"/>
-<node TEXT="highlight easier than sort" ID="ID_478141284" CREATED="1447539153579" MODIFIED="1447539175021">
-<node TEXT="= if|when not ready for sorting, can read and mark gold" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1920667069" CREATED="1428206325432" MODIFIED="1447539167086"/>
-</node>
-<node TEXT="don&apos;t unsort" ID="ID_1457293613" CREATED="1435013959314" MODIFIED="1447538900980">
-<node TEXT="moving peers but keeping their same order: smells bad" LOCALIZED_STYLE_REF="styles.topic" ID="ID_65993191" CREATED="1435013968771" MODIFIED="1447538922622"/>
-<node TEXT="if I just named the existing structure, to vgrpah-fold it (across time, category), is that good enough? that is, can I avoid certian kinds of restructuring, by allowing my future processing state range more room?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_255151317" CREATED="1434932799857" MODIFIED="1447538922593"/>
-</node>
-<node TEXT="mark the big" ID="ID_401002411" CREATED="1447538914538" MODIFIED="1447538916017">
-<node TEXT="= when bury (or discover buried) a big low date collection, mark it with &quot;is big&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_748201168" CREATED="1433057943602" MODIFIED="1447538918043">
-<node TEXT="so that can search" ID="ID_634342871" CREATED="1433057969562" MODIFIED="1433057974311"/>
-</node>
-</node>
-<node TEXT="search short tags : cogvj easy" ID="ID_1262788554" CREATED="1443635544164" MODIFIED="1447539229267">
-<node TEXT="cogvj fast b/c discard long before read" ID="ID_916810050" CREATED="1443635548775" MODIFIED="1443635576813"/>
-</node>
-<node TEXT="label &quot;hard to decide whether to keep&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_246658300" CREATED="1444678711448" MODIFIED="1447539385069">
-<node TEXT="purple, kind of" ID="ID_419584518" CREATED="1447539366179" MODIFIED="1447539368614"/>
-</node>
-<node TEXT="less re-sort, more grep-read" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1796337759" CREATED="1444189548586" MODIFIED="1444189574106">
-<node TEXT="sorting in place" ID="ID_1778868170" CREATED="1444189577547" MODIFIED="1444189579559"/>
-</node>
-<node TEXT="if can demote ? to @, do so; makes search for ? easier" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_19996860" CREATED="1441473489625" MODIFIED="1447546332707"/>
-<node TEXT="if sorting too slow, retreat from a subdivision" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1380680499" CREATED="1441164821608" MODIFIED="1447546762058">
-<node TEXT="e.g. if spending a lot of time sorting from fresh to within rep, don&apos;t, instead stop at rep, plan to sort further in that document (when can do it more efficj, because more focused)" ID="ID_1401857629" CREATED="1441164835551" MODIFIED="1441164876662"/>
-</node>
-<node TEXT="? label maybes prominently" LOCALIZED_STYLE_REF="default" ID="ID_454330361" CREATED="1442261989282" MODIFIED="1447546070326">
-<node TEXT="to freeze" ID="ID_758354424" CREATED="1442262002146" MODIFIED="1442262003591"/>
-</node>
-<node TEXT="go is wild, could be relevant to any search" ID="ID_707004703" CREATED="1447546513487" MODIFIED="1447546539194">
-<node TEXT="any time I&apos;m searching for anything, when I think I have all the files to look for it in, I should add go to the list" ID="ID_1861201246" CREATED="1440893863852" MODIFIED="1447546519664"/>
-</node>
-<node TEXT="done &amp; deep" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1792469896" CREATED="1447539585443" MODIFIED="1447539594130">
-<node TEXT="I can process randomly. They are all good things." LOCALIZED_STYLE_REF="default" ID="ID_1297816584" CREATED="1423805081420" MODIFIED="1423806547265"/>
-<node TEXT="The purpose in a mindmap category, tree nexus is ultimately not the concept it indicates, but its user effect." ID="ID_806921616" CREATED="1444262329993" MODIFIED="1444262353775"/>
-</node>
-</node>
 <node TEXT="rep proc / reps used" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_363585953" CREATED="1447539738395" MODIFIED="1447554043618">
 <node TEXT=", to connect similars, . to separate different" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1186265876" CREATED="1442109529245" MODIFIED="1447546142670">
 <node TEXT="within word" ID="ID_888204999" CREATED="1442109548997" MODIFIED="1442109551004"/>
@@ -3832,6 +3835,7 @@
 </node>
 </node>
 </node>
+<node TEXT="aliens" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1893687485" CREATED="1448528865783" MODIFIED="1448528872712">
 <node TEXT="my .mm tree" ID="ID_425480886" CREATED="1425451217686" MODIFIED="1447544885284">
 <node TEXT="diplom includes how to write" ID="ID_1538918411" CREATED="1443596743632" MODIFIED="1447544856993">
 <node TEXT="example, dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1016875872" CREATED="1443596757161" MODIFIED="1443596760242"/>
@@ -3936,11 +3940,6 @@
 <font BOLD="true"/>
 <node TEXT="* that 400 kb: getting it down to that involves deleting some blue stuff" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1726214377" CREATED="1447553918156" MODIFIED="1447553943641"/>
 <node TEXT="-&gt; see also info.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1751062416" CREATED="1447532192968" MODIFIED="1447532201944"/>
-<node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_696247046" CREATED="1443488242550" MODIFIED="1443488244738">
-<node TEXT="my codg proc" LOCALIZED_STYLE_REF="default" ID="ID_1236446785" CREATED="1437941171963" MODIFIED="1438458722393">
-<node TEXT="when about to git commit, review the svn commits since last git commit; can that way do it less oft" ID="ID_702786372" CREATED="1437700452131" MODIFIED="1437700468250"/>
-</node>
-</node>
 <node TEXT="dwt" LOCALIZED_STYLE_REF="default" ID="ID_918928412" CREATED="1426288791025" MODIFIED="1447549642493">
 <font BOLD="true"/>
 <node TEXT="! considering: coding/dwt just for code, but with pointers into rep.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_484209221" CREATED="1435011713330" MODIFIED="1435011780093"/>
@@ -15833,7 +15832,7 @@
 </node>
 </node>
 </node>
-<node TEXT="read head, after (mostly) abandoning sort" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1993442127" CREATED="1447546641447" MODIFIED="1447547172141">
+<node TEXT="read head, after (mostly) abandoning sort" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1993442127" CREATED="1447546641447" MODIFIED="1448529037611">
 <node TEXT="2015 11 14, after sorting for (90 minutes?)" ID="ID_652283435" CREATED="1447546668126" MODIFIED="1447546677997"/>
 </node>
 <node TEXT="1-extrd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_289400584" CREATED="1447548875360" MODIFIED="1447548889406">
@@ -16139,6 +16138,11 @@
 <node TEXT="more critical to shorten a grep search term than its target(s)" ID="ID_1345522451" CREATED="1441413102463" MODIFIED="1447546627567"/>
 </node>
 </node>
+<node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_696247046" CREATED="1443488242550" MODIFIED="1443488244738">
+<node TEXT="my codg proc" LOCALIZED_STYLE_REF="default" ID="ID_1236446785" CREATED="1437941171963" MODIFIED="1438458722393">
+<node TEXT="when about to git commit, review the svn commits since last git commit; can that way do it less oft" ID="ID_702786372" CREATED="1437700452131" MODIFIED="1437700468250"/>
+</node>
+</node>
 </node>
 <node TEXT="read head, started here, after (mostly) abandoning sort" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_772551822" CREATED="1447546641447" MODIFIED="1447547175261">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1993442127" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -16149,7 +16153,73 @@
 <node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
 <node TEXT="2.3 Expression parser" ID="ID_1634394270" CREATED="1447921664446" MODIFIED="1447921665213"/>
 </node>
+<node TEXT="reading jake&apos;s game" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_543147137" CREATED="1448606939020" MODIFIED="1448607464988">
+<node TEXT="try(ing) top-down" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_472807323" CREATED="1448607465593" MODIFIED="1448607478916"/>
+<node TEXT="see the Maybes, Eithers" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_403851841" CREATED="1448607481347" MODIFIED="1448607491528"/>
+<node TEXT="is the Either monad" ID="ID_1869048144" CREATED="1448609743180" MODIFIED="1448609747022">
+<node TEXT="jbrownson tictactoe quote" ID="ID_1730114590" CREATED="1448609750884" MODIFIED="1448609758030">
+<node TEXT="move :: BoardCoord -&gt; XO -&gt; Board -&gt; Either String Board" ID="ID_1481583149" CREATED="1448609747491" MODIFIED="1448609747491"/>
+<node TEXT="move coord xo board = do" ID="ID_540873794" CREATED="1448609747491" MODIFIED="1448609747491">
+<node TEXT="checkNotWon board" ID="ID_1244014503" CREATED="1448609747494" MODIFIED="1448609747494"/>
+<node TEXT="checkPlayersMove xo board" ID="ID_188857331" CREATED="1448609747494" MODIFIED="1448609747494"/>
+<node TEXT="checkIsntOccupied coord board" ID="ID_1113250905" CREATED="1448609747494" MODIFIED="1448609747494"/>
+<node TEXT="setCell coord xo board" ID="ID_494481189" CREATED="1448609747494" MODIFIED="1448609747494"/>
+</node>
+</node>
+<node TEXT="in a do loop for an Either, if any of the steps creates a Left, does it abort and return that Left?" ID="ID_1847771872" CREATED="1448609761891" MODIFIED="1448609785415"/>
+</node>
+</node>
 <node TEXT="the natural tidal would use functions, have a monoid that is a cycle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1222238007" CREATED="1445930769443" MODIFIED="1445930788601"/>
+<node TEXT="fgl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1895169676" CREATED="1448697872822" MODIFIED="1448697874195">
+<node TEXT="gelem :: whether node in graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_388680737" CREATED="1448698068104" MODIFIED="1448698107746">
+<node TEXT="actually maybe I should want to avoid using this, by absorbing tests implicitly into Maybes" ID="ID_278036190" CREATED="1448698083374" MODIFIED="1448698101076"/>
+</node>
+<node TEXT="ufold :: Graph gr =&gt; (Context a b -&gt; c -&gt; c) -&gt; c -&gt; gr a b -&gt; c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_427682481" CREATED="1448697875023" MODIFIED="1448697897150"/>
+</node>
+<node TEXT="maybe vs. either" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1539082202" CREATED="1448685638883" MODIFIED="1448687788197">
+<node TEXT="enjoyed greatly" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1509952583" CREATED="1448697618942" MODIFIED="1448697622659">
+<node TEXT="http://stackoverflow.com/questions/3795561/haskell-why-do-the-maybe-and-either-types-behave-differently-when-used-as-monad" ID="ID_1652133587" CREATED="1448697621419" MODIFIED="1448697621419" LINK="http://stackoverflow.com/questions/3795561/haskell-why-do-the-maybe-and-either-types-behave-differently-when-used-as-monad"/>
+</node>
+<node TEXT="? both have fail" ID="ID_96313970" CREATED="1448686137841" MODIFIED="1448686141048"/>
+<node TEXT="in maybe you know whether you want nothing or just" ID="ID_1991968867" CREATED="1448685863297" MODIFIED="1448685880275"/>
+<node TEXT="kinds of failure" ID="ID_1929941460" CREATED="1448686227857" MODIFIED="1448686229847">
+<node TEXT="programmer error" ID="ID_83033236" CREATED="1448686247233" MODIFIED="1448686251087"/>
+<node TEXT="overlapping" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1574201691" CREATED="1448686267673" MODIFIED="1448686269879"/>
+<node TEXT="invalid input | user error" ID="ID_2432507" CREATED="1448686232505" MODIFIED="1448686257614"/>
+<node TEXT="case exhaustion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_741463744" CREATED="1448686285112" MODIFIED="1448686320788"/>
+<node TEXT="lookup failure" ID="ID_1937650113" CREATED="1448686303712" MODIFIED="1448686305753"/>
+</node>
+<node TEXT="Left &gt;? Right (in priority)" ID="ID_1623211587" CREATED="1448687189705" MODIFIED="1448687203049">
+<node TEXT="does Either exploit, in its prioritization of Left over Right, that errors should be handled immediately? is Left like aborting|dropping the Right?" ID="ID_1920572774" CREATED="1448687095064" MODIFIED="1448687180439"/>
+</node>
+<node TEXT="is &quot;Maybe do&quot; good for collecting similarly fallible ops?" ID="ID_422513449" CREATED="1448688972050" MODIFIED="1448689068939">
+<node TEXT="because all failures will be repd as Nothing" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1000105045" CREATED="1448689025665" MODIFIED="1448689050235"/>
+<node TEXT="myDiv2 :: Float -&gt; Float -&gt; Maybe Float" ID="ID_1826530469" CREATED="1448688986475" MODIFIED="1448688986475"/>
+<node TEXT="myDiv2 x 0 = Nothing" ID="ID_1165169628" CREATED="1448688986475" MODIFIED="1448688986475"/>
+<node TEXT="myDiv2 x y = Just (x / y)" ID="ID_1408183242" CREATED="1448688986478" MODIFIED="1448688986478"/>
+<node TEXT="divSum2 :: Float -&gt; Float -&gt; Float -&gt; Maybe Float" ID="ID_823629122" CREATED="1448688986481" MODIFIED="1448689007713"/>
+<node TEXT="divSum2 x y z = do" ID="ID_1707494681" CREATED="1448688986482" MODIFIED="1448688986482">
+<node TEXT="xdy &lt;- myDiv2 x y" ID="ID_110068157" CREATED="1448688986485" MODIFIED="1448688986485"/>
+<node TEXT="xdz &lt;- myDiv2 x z" ID="ID_146903727" CREATED="1448688986485" MODIFIED="1448688986485"/>
+<node TEXT="return (xdy + xdz)" ID="ID_1552468017" CREATED="1448688986485" MODIFIED="1448688986485"/>
+</node>
+</node>
+<node TEXT="(monad + fail) : one def, works in Either or Maybe context" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_137481570" CREATED="1448689497442" MODIFIED="1448689517993">
+<node TEXT="http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_711011996" CREATED="1448689524478" MODIFIED="1448689532112" LINK="http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/"/>
+<node TEXT="section 4" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1667358735" CREATED="1448689525418" MODIFIED="1448689532104"/>
+</node>
+<node TEXT="if they [all] [print]ed each other" ID="ID_1425568981" CREATED="1448693902308" MODIFIED="1448693920844"/>
+<node TEXT="Nothing ? Exception" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_35897130" CREATED="1448700909369" MODIFIED="1448700936255">
+<node TEXT="*Dwt&gt; fromJust Nothing :: Maybe Int" ID="ID_1823432053" CREATED="1448700932676" MODIFIED="1448700932676"/>
+<node TEXT="*** Exception: Maybe.fromJust: Nothing" ID="ID_99991744" CREATED="1448700932676" MODIFIED="1448700932676"/>
+<node TEXT="*Dwt&gt; :t (fromJust Nothing :: Maybe Int)" ID="ID_1799164770" CREATED="1448700932678" MODIFIED="1448700932678"/>
+<node TEXT="(fromJust Nothing :: Maybe Int) :: Maybe Int" ID="ID_942301748" CREATED="1448700932679" MODIFIED="1448700932679"/>
+<node TEXT="*Dwt&gt; Nothing" ID="ID_1998408569" CREATED="1448700932681" MODIFIED="1448700932681"/>
+<node TEXT="Nothing" ID="ID_147751809" CREATED="1448700932683" MODIFIED="1448700932683"/>
+<node TEXT="*Dwt&gt;" ID="ID_1870987110" CREATED="1448700932684" MODIFIED="1448700932684"/>
+</node>
+</node>
+<node TEXT="Elliot, Devon" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_975962154" CREATED="1448703138682" MODIFIED="1448703142212"/>
 <node TEXT="parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_248551988" CREATED="1447974661144" MODIFIED="1447974664134">
 <node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1447974666918">
 <node TEXT="fp complete" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1443638662983">
@@ -16163,6 +16233,62 @@
 </node>
 <node TEXT="derive ReadS" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_25066595" CREATED="1447974669376" MODIFIED="1447974674060">
 <node TEXT="https://www.haskell.org/tutorial/stdclasses.html" ID="ID_1353547067" CREATED="1447974674965" MODIFIED="1447974674965" LINK="https://www.haskell.org/tutorial/stdclasses.html"/>
+</node>
+</node>
+<node TEXT="dwt / the rels, 11 29" POSITION="right" ID="ID_1763934185" CREATED="1448859480766" MODIFIED="1448859637346">
+<node TEXT="is [quality]" ID="ID_1607123366" CREATED="1448859504671" MODIFIED="1448859508006"/>
+<node TEXT="is in [category]" ID="ID_266705072" CREATED="1448859486166" MODIFIED="1448859515874">
+<node TEXT="is a" ID="ID_1606606707" CREATED="1448859516295" MODIFIED="1448859517261"/>
+</node>
+<node TEXT="involves" ID="ID_52415374" CREATED="1448859493751" MODIFIED="1448859495108"/>
+<node TEXT="helps" ID="ID_407312165" CREATED="1448859523663" MODIFIED="1448859524774"/>
+<node TEXT="_ helps _ [verb]" ID="ID_163663449" CREATED="1448859534879" MODIFIED="1448859564373"/>
+</node>
+<node TEXT="2015 11 26-" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_465109363" CREATED="1448615128357" MODIFIED="1448688719077">
+<font BOLD="true"/>
+<node TEXT="emacs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1915594055" CREATED="1448607391627" MODIFIED="1448612296687">
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1209635069" CREATED="1448612297313" MODIFIED="1448612298564"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      M-x shell
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="insert newline downward: C-o" ID="ID_1946456764" CREATED="1448612299509" MODIFIED="1448612311915">
+<node TEXT="near C-k, its inverse" ID="ID_366014451" CREATED="1448612312349" MODIFIED="1448612337460"/>
+</node>
+</node>
+<node TEXT="haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1211680304" CREATED="1448612660901" MODIFIED="1448612662826">
+<node TEXT="maybeRead" ID="ID_876951244" CREATED="1448612680189" MODIFIED="1448612681852">
+<node TEXT="&gt; maybeRead &quot;scalet&quot; :: Maybe Int&#xa;Nothing&#xa;&gt; maybeRead &quot;3&quot; :: Maybe Int&#xa;Just 3" ID="ID_105735911" CREATED="1448612682500" MODIFIED="1448612684104"/>
+</node>
+<node TEXT="minimal &gt;&gt;= example" ID="ID_693550343" CREATED="1448608661108" MODIFIED="1448615169784">
+<node TEXT="&gt; Just 1 &gt;&gt;= (\x -&gt; Just x)" ID="ID_1942366523" CREATED="1448608652701" MODIFIED="1448608652701"/>
+<node TEXT="Just 1" ID="ID_1807995247" CREATED="1448608652701" MODIFIED="1448608652701"/>
+<node TEXT="&gt; Just 1 &gt;&gt;= Just" ID="ID_340321274" CREATED="1448608652706" MODIFIED="1448608652706"/>
+<node TEXT="Just 1" ID="ID_696199839" CREATED="1448608652709" MODIFIED="1448608652709"/>
+<node TEXT="&gt;" ID="ID_1729391610" CREATED="1448608652712" MODIFIED="1448608652712"/>
+</node>
+<node TEXT="things to try" ID="ID_1180604172" CREATED="1448647922846" MODIFIED="1448647924836">
+<node TEXT="State monad" ID="ID_990286379" CREATED="1448647932733" MODIFIED="1448647937076"/>
+<node TEXT="StateT monad and lift" ID="ID_10024329" CREATED="1448647938565" MODIFIED="1448647972408"/>
+<node TEXT="Maybe and Either do-loops" ID="ID_1637038719" CREATED="1448647945086" MODIFIED="1448647959608"/>
+</node>
+<node TEXT="divide a type sig across lines" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1864192656" CREATED="1448688716250" MODIFIED="1448688724806">
+<node TEXT="leaving the trailing -&gt; above" ID="ID_373506751" CREATED="1448688727537" MODIFIED="1448688733450">
+<node TEXT="so I know it&apos;s folded" ID="ID_640473629" CREATED="1448688742114" MODIFIED="1448688744824"/>
+</node>
+</node>
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1481783766" CREATED="1448608706180" MODIFIED="1448608708389">
+<node TEXT="thumbs for keys around spacebar" ID="ID_1160401340" CREATED="1448607961351" MODIFIED="1448607968871"/>
 </node>
 </node>
 <node TEXT="Erin on Exceptions" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_585551139" CREATED="1447989331787" MODIFIED="1448310825725">
