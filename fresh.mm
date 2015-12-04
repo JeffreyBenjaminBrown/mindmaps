@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" background="#eed0b4" zoom="1.241">
+<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" background="#f0d7bf" zoom="1.364">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -6306,6 +6306,57 @@
 <node TEXT="reverse cymbal" ID="ID_1311290811" CREATED="1448871588729" MODIFIED="1448871591848"/>
 </node>
 <node TEXT="? mention needing a romantic partner" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_737266835" CREATED="1448871660649" MODIFIED="1448934813012"/>
+</node>
+<node TEXT="30" ID="ID_232417809" CREATED="1448950832496" MODIFIED="1448950833359">
+<node TEXT="wanting out of trance, (the) poverty (of)" ID="ID_787587121" CREATED="1448943380880" MODIFIED="1448943392547">
+<node TEXT="not to do drugs" ID="ID_1505428617" CREATED="1448943433181" MODIFIED="1448943435582"/>
+</node>
+<node TEXT="said a duck-bill, &quot;my job is to sleep here&quot;" ID="ID_690582124" CREATED="1448950836559" MODIFIED="1448950847401"/>
+</node>
+</node>
+<node TEXT="12" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_597183368" CREATED="1449013595303" MODIFIED="1449105242152">
+<node TEXT="1" ID="ID_1843384837" CREATED="1449013591885" MODIFIED="1449013592645">
+<node TEXT="treat exercise as learnable experience manifold" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_607696571" CREATED="1449013593086" MODIFIED="1449015097125">
+<node TEXT="and not as I may have earlier, as economic extraction from muscles" ID="ID_955246573" CREATED="1449013609138" MODIFIED="1449013634414"/>
+</node>
+<node TEXT="signature effect" ID="ID_704913461" CREATED="1449013713965" MODIFIED="1449013717191"/>
+<node TEXT="audiovisual v. visual-kinesthetic" ID="ID_803724881" CREATED="1449015241517" MODIFIED="1449015256837"/>
+</node>
+<node TEXT="2" ID="ID_196512724" CREATED="1449079104628" MODIFIED="1449079105472">
+<node TEXT="if _ [print]ed each other" ID="ID_1425568981" CREATED="1448693902308" MODIFIED="1449079906973"/>
+<node TEXT="adam sandler was like &quot;why are _ talking this way?&quot;" ID="ID_1596687800" CREATED="1449083377517" MODIFIED="1449083391646"/>
+<node TEXT="freeze, space out, die; boil; repeat" ID="ID_574628624" CREATED="1449083467559" MODIFIED="1449083719457"/>
+<node TEXT="quarter-colon, two dots" ID="ID_402743219" CREATED="1449083744007" MODIFIED="1449083750892"/>
+<node TEXT="&quot;maybe now(from now on) I need that&quot;" ID="ID_523091500" CREATED="1449083894921" MODIFIED="1449083902878"/>
+<node TEXT="marij (slowing ? speeding) like, &quot;I already look regularly at that|the future&quot;" ID="ID_1491460970" CREATED="1449085056772" MODIFIED="1449085087825"/>
+<node TEXT="group-rational self-duration choices" ID="ID_1353607064" CREATED="1449085595308" MODIFIED="1449085605488">
+<node TEXT="the individuals tuning into it" ID="ID_200748821" CREATED="1449085615220" MODIFIED="1449085622092"/>
+<node TEXT="slow for being" ID="ID_1962278546" CREATED="1449085622979" MODIFIED="1449085625203"/>
+<node TEXT="hedonic" ID="ID_289033705" CREATED="1449085632211" MODIFIED="1449085633603"/>
+</node>
+<node TEXT="responding by considering in an economic frame an impulse that did not originate from one" ID="ID_1521525336" CREATED="1449086073708" MODIFIED="1449086098803"/>
+<node TEXT="complaints expire" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_40632239" CREATED="1449087968765" MODIFIED="1449087974105">
+<node TEXT="while someone&apos;s doing _, you can complain about (some aspect of) it; once it&apos;s over, complaint doesn&apos;t help" ID="ID_1064957038" CREATED="1449087979445" MODIFIED="1449088009732"/>
+</node>
+<node TEXT="gifts that matter more to the receiver" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_37897171" CREATED="1449089183646" MODIFIED="1449089189676"/>
+</node>
+<node TEXT="3" ID="ID_1211349137" CREATED="1449107695021" MODIFIED="1449107695338">
+<node TEXT="&quot;I don&apos;t have any smart friends here.&quot;" ID="ID_1938079467" CREATED="1449087809894" MODIFIED="1449087815324"/>
+<node TEXT="the [crow squawked] because _ needed expressing" ID="ID_1176735311" CREATED="1449084836612" MODIFIED="1449107715065"/>
+<node TEXT="devnull / overcompensation of a different sort" ID="ID_1629835058" CREATED="1449120037685" MODIFIED="1449120044988"/>
+<node TEXT="name yourself bongo, go to space" ID="ID_1534408079" CREATED="1449120107484" MODIFIED="1449120113677">
+<node TEXT="&quot;what&apos;s it like here?&apos;" ID="ID_461544740" CREATED="1449120121790" MODIFIED="1449120124805"/>
+</node>
+<node TEXT="through parenthood understand yourself" ID="ID_1864493038" CREATED="1449120174829" MODIFIED="1449120179085"/>
+<node TEXT="music as concurrent conversations" ID="ID_833342637" CREATED="1449121887798" MODIFIED="1449121900136"/>
+<node TEXT="introduce players gradually, not many in infrequent batches, to own schedule-tournament" ID="ID_1748026245" CREATED="1449122280166" MODIFIED="1449122297478"/>
+<node TEXT="devnull, monster in the basement" ID="ID_1038142926" CREATED="1449122381726" MODIFIED="1449122397435">
+<node TEXT="arts kept dark, released to another" ID="ID_1490998208" CREATED="1449122399878" MODIFIED="1449122419393"/>
+</node>
+<node TEXT="to feel misled by the name of an idea" ID="ID_1247444886" CREATED="1449122754424" MODIFIED="1449122760302"/>
+<node TEXT="? breakup" ID="ID_1401676258" CREATED="1449122886460" MODIFIED="1449122889187">
+<node TEXT="chasing a passed oppor, thereby detached, foregoing present ones" ID="ID_1728584551" CREATED="1449122890240" MODIFIED="1449122930945"/>
+</node>
 </node>
 </node>
 </node>

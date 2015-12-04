@@ -16148,81 +16148,198 @@
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1993442127" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
+<node TEXT="from Dwt.hs, 2015 12 02" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1955537336" CREATED="1449093171200" MODIFIED="1449093189767">
+<node TEXT="-- FEATURES, want:" ID="ID_779342634" CREATED="1449093175400" MODIFIED="1449093175400">
+<node TEXT="-- Kinds of view" ID="ID_656676816" CREATED="1449093175400" MODIFIED="1449093175400">
+<node TEXT="-- e.g. with Nodes, without" ID="ID_1441668876" CREATED="1449093175400" MODIFIED="1449093175400"/>
 </node>
-<node TEXT="parser : run this code" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1958264455" CREATED="1447921657735" MODIFIED="1447921674410">
-<node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
-<node TEXT="2.3 Expression parser" ID="ID_1634394270" CREATED="1447921664446" MODIFIED="1447921665213"/>
+<node TEXT="-- Delete LNode" ID="ID_1675090220" CREATED="1449093175400" MODIFIED="1449093175400"/>
 </node>
-<node TEXT="reading jake&apos;s game" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_543147137" CREATED="1448606939020" MODIFIED="1448607464988">
-<node TEXT="try(ing) top-down" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_472807323" CREATED="1448607465593" MODIFIED="1448607478916"/>
-<node TEXT="see the Maybes, Eithers" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_403851841" CREATED="1448607481347" MODIFIED="1448607491528"/>
-<node TEXT="is the Either monad" ID="ID_1869048144" CREATED="1448609743180" MODIFIED="1448609747022">
-<node TEXT="jbrownson tictactoe quote" ID="ID_1730114590" CREATED="1448609750884" MODIFIED="1448609758030">
-<node TEXT="move :: BoardCoord -&gt; XO -&gt; Board -&gt; Either String Board" ID="ID_1481583149" CREATED="1448609747491" MODIFIED="1448609747491"/>
-<node TEXT="move coord xo board = do" ID="ID_540873794" CREATED="1448609747491" MODIFIED="1448609747491">
-<node TEXT="checkNotWon board" ID="ID_1244014503" CREATED="1448609747494" MODIFIED="1448609747494"/>
-<node TEXT="checkPlayersMove xo board" ID="ID_188857331" CREATED="1448609747494" MODIFIED="1448609747494"/>
-<node TEXT="checkIsntOccupied coord board" ID="ID_1113250905" CREATED="1448609747494" MODIFIED="1448609747494"/>
-<node TEXT="setCell coord xo board" ID="ID_494481189" CREATED="1448609747494" MODIFIED="1448609747494"/>
+<node TEXT="-- CODE, want:" ID="ID_490465473" CREATED="1449093175400" MODIFIED="1449093175400">
+<node TEXT="-- Make another Rel type (called Rel&apos;? RelSpec? RelRequest?)" ID="ID_1950230595" CREATED="1449093175400" MODIFIED="1449093175400">
+<node TEXT="-- Rel&apos; = (MmNode, [MmNode]), where data MmNode = MmNode Int | Blank" ID="ID_771576034" CREATED="1449093175400" MODIFIED="1449093175400"/>
+</node>
+<node TEXT="-- ? Add [classes?] for checking arity" ID="ID_1253968356" CREATED="1449093175400" MODIFIED="1449093175400"/>
+<node TEXT="-- keep my Node|Label notation consistent with FGL, tradition" ID="ID_626311639" CREATED="1449093175400" MODIFIED="1449093175400"/>
 </node>
 </node>
-<node TEXT="in a do loop for an Either, if any of the steps creates a Left, does it abort and return that Left?" ID="ID_1847771872" CREATED="1448609761891" MODIFIED="1448609785415"/>
 </node>
-</node>
-<node TEXT="the natural tidal would use functions, have a monoid that is a cycle" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1222238007" CREATED="1445930769443" MODIFIED="1445930788601"/>
-<node TEXT="fgl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1895169676" CREATED="1448697872822" MODIFIED="1448697874195">
-<node TEXT="gelem :: whether node in graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_388680737" CREATED="1448698068104" MODIFIED="1448698107746">
-<node TEXT="actually maybe I should want to avoid using this, by absorbing tests implicitly into Maybes" ID="ID_278036190" CREATED="1448698083374" MODIFIED="1448698101076"/>
-</node>
-<node TEXT="ufold :: Graph gr =&gt; (Context a b -&gt; c -&gt; c) -&gt; c -&gt; gr a b -&gt; c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_427682481" CREATED="1448697875023" MODIFIED="1448697897150"/>
-</node>
-<node TEXT="maybe vs. either" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1539082202" CREATED="1448685638883" MODIFIED="1448687788197">
-<node TEXT="enjoyed greatly" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1509952583" CREATED="1448697618942" MODIFIED="1448697622659">
-<node TEXT="http://stackoverflow.com/questions/3795561/haskell-why-do-the-maybe-and-either-types-behave-differently-when-used-as-monad" ID="ID_1652133587" CREATED="1448697621419" MODIFIED="1448697621419" LINK="http://stackoverflow.com/questions/3795561/haskell-why-do-the-maybe-and-either-types-behave-differently-when-used-as-monad"/>
-</node>
-<node TEXT="? both have fail" ID="ID_96313970" CREATED="1448686137841" MODIFIED="1448686141048"/>
-<node TEXT="in maybe you know whether you want nothing or just" ID="ID_1991968867" CREATED="1448685863297" MODIFIED="1448685880275"/>
-<node TEXT="kinds of failure" ID="ID_1929941460" CREATED="1448686227857" MODIFIED="1448686229847">
-<node TEXT="programmer error" ID="ID_83033236" CREATED="1448686247233" MODIFIED="1448686251087"/>
-<node TEXT="overlapping" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1574201691" CREATED="1448686267673" MODIFIED="1448686269879"/>
-<node TEXT="invalid input | user error" ID="ID_2432507" CREATED="1448686232505" MODIFIED="1448686257614"/>
-<node TEXT="case exhaustion" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_741463744" CREATED="1448686285112" MODIFIED="1448686320788"/>
-<node TEXT="lookup failure" ID="ID_1937650113" CREATED="1448686303712" MODIFIED="1448686305753"/>
-</node>
-<node TEXT="Left &gt;? Right (in priority)" ID="ID_1623211587" CREATED="1448687189705" MODIFIED="1448687203049">
-<node TEXT="does Either exploit, in its prioritization of Left over Right, that errors should be handled immediately? is Left like aborting|dropping the Right?" ID="ID_1920572774" CREATED="1448687095064" MODIFIED="1448687180439"/>
-</node>
-<node TEXT="is &quot;Maybe do&quot; good for collecting similarly fallible ops?" ID="ID_422513449" CREATED="1448688972050" MODIFIED="1448689068939">
-<node TEXT="because all failures will be repd as Nothing" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1000105045" CREATED="1448689025665" MODIFIED="1448689050235"/>
-<node TEXT="myDiv2 :: Float -&gt; Float -&gt; Maybe Float" ID="ID_1826530469" CREATED="1448688986475" MODIFIED="1448688986475"/>
-<node TEXT="myDiv2 x 0 = Nothing" ID="ID_1165169628" CREATED="1448688986475" MODIFIED="1448688986475"/>
-<node TEXT="myDiv2 x y = Just (x / y)" ID="ID_1408183242" CREATED="1448688986478" MODIFIED="1448688986478"/>
-<node TEXT="divSum2 :: Float -&gt; Float -&gt; Float -&gt; Maybe Float" ID="ID_823629122" CREATED="1448688986481" MODIFIED="1448689007713"/>
-<node TEXT="divSum2 x y z = do" ID="ID_1707494681" CREATED="1448688986482" MODIFIED="1448688986482">
-<node TEXT="xdy &lt;- myDiv2 x y" ID="ID_110068157" CREATED="1448688986485" MODIFIED="1448688986485"/>
-<node TEXT="xdz &lt;- myDiv2 x z" ID="ID_146903727" CREATED="1448688986485" MODIFIED="1448688986485"/>
-<node TEXT="return (xdy + xdz)" ID="ID_1552468017" CREATED="1448688986485" MODIFIED="1448688986485"/>
-</node>
-</node>
-<node TEXT="(monad + fail) : one def, works in Either or Maybe context" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_137481570" CREATED="1448689497442" MODIFIED="1448689517993">
-<node TEXT="http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_711011996" CREATED="1448689524478" MODIFIED="1448689532112" LINK="http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/"/>
-<node TEXT="section 4" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1667358735" CREATED="1448689525418" MODIFIED="1448689532104"/>
-</node>
-<node TEXT="if they [all] [print]ed each other" ID="ID_1425568981" CREATED="1448693902308" MODIFIED="1448693920844"/>
-<node TEXT="Nothing ? Exception" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_35897130" CREATED="1448700909369" MODIFIED="1448700936255">
-<node TEXT="*Dwt&gt; fromJust Nothing :: Maybe Int" ID="ID_1823432053" CREATED="1448700932676" MODIFIED="1448700932676"/>
-<node TEXT="*** Exception: Maybe.fromJust: Nothing" ID="ID_99991744" CREATED="1448700932676" MODIFIED="1448700932676"/>
-<node TEXT="*Dwt&gt; :t (fromJust Nothing :: Maybe Int)" ID="ID_1799164770" CREATED="1448700932678" MODIFIED="1448700932678"/>
-<node TEXT="(fromJust Nothing :: Maybe Int) :: Maybe Int" ID="ID_942301748" CREATED="1448700932679" MODIFIED="1448700932679"/>
-<node TEXT="*Dwt&gt; Nothing" ID="ID_1998408569" CREATED="1448700932681" MODIFIED="1448700932681"/>
-<node TEXT="Nothing" ID="ID_147751809" CREATED="1448700932683" MODIFIED="1448700932683"/>
-<node TEXT="*Dwt&gt;" ID="ID_1870987110" CREATED="1448700932684" MODIFIED="1448700932684"/>
-</node>
-</node>
-<node TEXT="Elliot, Devon" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_975962154" CREATED="1448703138682" MODIFIED="1448703142212"/>
 <node TEXT="parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_248551988" CREATED="1447974661144" MODIFIED="1447974664134">
-<node TEXT="2 parser tutorials, midway" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1447974666918">
-<node TEXT="fp complete" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1443638662983">
+<node TEXT="refs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1186718235" CREATED="1415041624700" MODIFIED="1449080011713">
+<node TEXT="which lib" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1274926504" CREATED="1449108361214" MODIFIED="1449108364945">
+<node TEXT="Parsec ? most popular" ID="ID_1257827121" CREATED="1415041622180" MODIFIED="1449108359508"/>
+<node TEXT="Megaparsec ? best" ID="ID_1677229240" CREATED="1449108353846" MODIFIED="1449108357651"/>
+</node>
+<node TEXT="Text.Parsec.Char: Readable!" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_926705186" CREATED="1449110105807" MODIFIED="1449110112210"/>
+<node TEXT="Parsec&apos;s github readme collects learning materials" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_598679762" CREATED="1439753550417" MODIFIED="1439753562091">
+<node TEXT="https://github.com/aslatter/parsec" ID="ID_221565135" CREATED="1439753562588" MODIFIED="1439753562588" LINK="https://github.com/aslatter/parsec"/>
+</node>
+<node TEXT="hackage" ID="ID_610823918" CREATED="1430982546939" MODIFIED="1430982547847">
+<node TEXT="http://hackage.haskell.org/packages/#cat:Parser" ID="ID_1645512505" CREATED="1415040470248" MODIFIED="1415040470248" LINK="http://hackage.haskell.org/packages/#cat:Parser"/>
+<node TEXT="http://hackage.haskell.org/packages/#cat:Parsers" ID="ID_572128165" CREATED="1415040470248" MODIFIED="1415040470248" LINK="http://hackage.haskell.org/packages/#cat:Parsers"/>
+<node TEXT="http://hackage.haskell.org/packages/#cat:Parsing" ID="ID_512213687" CREATED="1415040470249" MODIFIED="1415040470249" LINK="http://hackage.haskell.org/packages/#cat:Parsing"/>
+</node>
+<node TEXT="the course (by Yorgey) recommended here" ID="ID_47052596" CREATED="1430982934200" MODIFIED="1430982949949">
+<node TEXT="https://github.com/bitemyapp/learnhaskell" ID="ID_1995858405" CREATED="1415127753889" MODIFIED="1415127753889" LINK="https://github.com/bitemyapp/learnhaskell"/>
+</node>
+<node TEXT="how to write a parser" LOCALIZED_STYLE_REF="default" ID="ID_35744052" CREATED="1423178035997" MODIFIED="1430983082189">
+<node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_139742932" CREATED="1423178039344" MODIFIED="1423178039344" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
+</node>
+<node TEXT="** &quot;parsers are easy&quot;" ID="ID_989484578" CREATED="1418326790788" MODIFIED="1418326794655">
+<node TEXT="http://nikita-volkov.github.io/a-taste-of-state-parsers-are-easy/" ID="ID_649789136" CREATED="1418326794934" MODIFIED="1418326794934" LINK="http://nikita-volkov.github.io/a-taste-of-state-parsers-are-easy/"/>
+</node>
+</node>
+<node TEXT="see also &quot;lift&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_960942636" CREATED="1449079422476" MODIFIED="1449079431723"/>
+<node TEXT="2015 12 03 : Jake Wheat | Parsec" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1585622658" CREATED="1415127595726" MODIFIED="1449110143373">
+<node TEXT="https://github.com/JakeWheat/intro_to_parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1940150801" CREATED="1415127602074" MODIFIED="1449110162214" LINK="https://github.com/JakeWheat/intro_to_parsing"/>
+<node TEXT="computer/Haskell/parse/jake_wheat" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_487799548" CREATED="1449110149455" MODIFIED="1449110162209"/>
+<node TEXT="** skipped" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1217380414" CREATED="1449114836666" MODIFIED="1449116936843">
+<node TEXT="quote" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1294123535" CREATED="1449114847922" MODIFIED="1449114849229"/>
+<node TEXT="We&#x2019;ve parsed the + operator as if it has right associativity:" ID="ID_518072195" CREATED="1449114844002" MODIFIED="1449114845368"/>
+</node>
+<node TEXT="** resume at" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1480013467" CREATED="1449116942875" MODIFIED="1449116945766">
+<node TEXT="quote" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1146426163" CREATED="1449116959467" MODIFIED="1449116961542"/>
+<node TEXT="4.5 simple expr" ID="ID_1088907884" CREATED="1449116948618" MODIFIED="1449116953513"/>
+</node>
+<node TEXT="&quot;lexeme&quot; idiom: for trailing whitespace" ID="ID_874011472" CREATED="1449111624792" MODIFIED="1449112334944">
+<node TEXT="is silly?" ID="ID_293014345" CREATED="1449112268456" MODIFIED="1449112269982">
+<node TEXT="lexeme p = parser &lt;* whitespace" ID="ID_688810498" CREATED="1449115813346" MODIFIED="1449115837440"/>
+<node TEXT="*Main&gt; parseWithLeftOver  (lexeme $ char &apos;a&apos;) &quot;a  nacho&quot;&#xa;Right (&apos;a&apos;,&quot;nacho&quot;)&#xa;*Main&gt; parseWithLeftOver (char &apos;a&apos; &lt;* whitespace) &quot;a  nacho&quot;&#xa;Right (&apos;a&apos;,&quot;nacho&quot;)&#xa;*Main&gt;" ID="ID_1944967312" CREATED="1449115806666" MODIFIED="1449115808619"/>
+</node>
+<node TEXT="how" ID="ID_1846014030" CREATED="1449112266449" MODIFIED="1449112267038">
+<node TEXT="must separately check for leading whitespace once, at start=top of document" ID="ID_1078302607" CREATED="1449112343808" MODIFIED="1449112357783"/>
+<node TEXT="hand prsers to lexeme and it makes them consume leading whitespace first" ID="ID_22105152" CREATED="1449111659800" MODIFIED="1449111673510"/>
+<node TEXT="an implementation" ID="ID_1040262189" CREATED="1449111684640" MODIFIED="1449111690526">
+<node TEXT="lexeme :: Parser a -&gt; Parser a&#xa;lexeme p = do&#xa;           x &lt;- p&#xa;           whitespace&#xa;           return x" ID="ID_1125160501" CREATED="1449111674264" MODIFIED="1449111675271"/>
+</node>
+<node TEXT="this way you don&apos;t have to scatter calls to &quot;whitespace&quot; around" ID="ID_1423205292" CREATED="1449111690776" MODIFIED="1449111705646"/>
+<node TEXT="example of how it simplifies parser do-loops" ID="ID_333612908" CREATED="1449111832736" MODIFIED="1449111875634">
+<node TEXT="it reduces this" ID="ID_1335408931" CREATED="1449111825672" MODIFIED="1449111840598">
+<node TEXT="parensW :: Parser Parentheses&#xa;parensW = do&#xa;    whitespace&#xa;    void $ char &apos;(&apos;&#xa;    whitespace&#xa;    e &lt;- many1 digit&#xa;    whitespace&#xa;    void $ char &apos;)&apos;&#xa;    whitespace&#xa;    return (Parentheses (read e))" ID="ID_764231952" CREATED="1449111861256" MODIFIED="1449111862143"/>
+</node>
+<node TEXT="to this" ID="ID_577323684" CREATED="1449111828712" MODIFIED="1449111829686">
+<node TEXT="parensL :: Parser Parentheses&#xa;parensL = do&#xa;    void $ lexeme $ char &apos;(&apos;&#xa;    e &lt;- lexeme $ many1 digit&#xa;    void $ lexeme $ char &apos;)&apos;&#xa;    return (Parentheses (read e))" ID="ID_1450961996" CREATED="1449111830632" MODIFIED="1449111831609"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="chain parsers with &gt;&gt;" LOCALIZED_STYLE_REF="default" ID="ID_1352545484" CREATED="1449111949096" MODIFIED="1449112883593">
+<node TEXT="regularParse (char &apos;a&apos; &gt;&gt; char &apos;b&apos;) &quot;abaa&quot;" ID="ID_1844436078" CREATED="1449111956782" MODIFIED="1449111956782"/>
+<node TEXT="returns &apos;b&apos;" ID="ID_39067732" CREATED="1449111959312" MODIFIED="1449111961767"/>
+</node>
+<node TEXT="&lt;|&gt;" LOCALIZED_STYLE_REF="default" ID="ID_358038585" CREATED="1449112865577" MODIFIED="1449112884043">
+<node TEXT="example" ID="ID_105855725" CREATED="1449112939672" MODIFIED="1449112940982">
+<node TEXT="*Main Control.Applicative&gt; regularParse (many (char &apos;a&apos; &lt;|&gt; char &apos;b&apos;)) &quot;ab&quot;&#xa;Right &quot;ab&quot;&#xa;*Main Control.Applicative&gt;" ID="ID_1314905781" CREATED="1449112876752" MODIFIED="1449112877816"/>
+</node>
+<node TEXT="order matters" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1993613813" CREATED="1449112942272" MODIFIED="1449112944107">
+<node TEXT="the first success is returned" ID="ID_1803532906" CREATED="1449112944673" MODIFIED="1449112948747"/>
+</node>
+</node>
+<node TEXT="recursion" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_639220314" CREATED="1449114662882" MODIFIED="1449114668052">
+<node TEXT="what if parsers A and B call each other" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_413736" CREATED="1449115437954" MODIFIED="1449115447053"/>
+<node TEXT="see term6, simpleExpr6 and add6" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1336898012" CREATED="1449114734049" MODIFIED="1449115449651">
+<node TEXT="https://github.com/JakeWheat/intro_to_parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_835366077" CREATED="1415127602074" MODIFIED="1449110162214" LINK="https://github.com/JakeWheat/intro_to_parsing"/>
+</node>
+</node>
+<node TEXT="left- and right-assocvt" ID="ID_697642987" CREATED="1449115231274" MODIFIED="1449115236856">
+<node TEXT="discussion by Jake Wheat" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1482974341" CREATED="1449115279994" MODIFIED="1449115290597">
+<node TEXT="https://github.com/JakeWheat/intro_to_parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1569723608" CREATED="1415127602074" MODIFIED="1449110162214" LINK="https://github.com/JakeWheat/intro_to_parsing"/>
+<node ID="ID_242327388" CREATED="1449114839334" MODIFIED="1449114839334"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="black" face="Noto Serif, DejaVu Serif, serif" size="17px"><span content="text/html; charset=utf-8" style="color: black; font-style: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); font-variant: normal; float: none; display: inline !important; text-align: start; white-space: normal; text-indent: 0px; letter-spacing: -0.17px; font-weight: normal; line-height: 13.6px; text-transform: none; font-family: Noto Serif, DejaVu Serif, serif; font-size: 17px" http-equiv="content-type">We&#8217;ve parsed the + operator as if it has right associativity:</span></font> 
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="use chainl, chainr" ID="ID_29224244" CREATED="1449115265610" MODIFIED="1449115270960">
+<node TEXT="http://hackage.haskell.org/package/base-4.8.1.0/docs/Text-ParserCombinators-ReadP.html#v:chainl" ID="ID_90086337" CREATED="1449115271391" MODIFIED="1449115271391" LINK="http://hackage.haskell.org/package/base-4.8.1.0/docs/Text-ParserCombinators-ReadP.html#v:chainl"/>
+</node>
+</node>
+<node TEXT="Applicative style" LOCALIZED_STYLE_REF="default" ID="ID_367622547" CREATED="1449115369802" MODIFIED="1449115433291">
+<node TEXT="&lt;$&gt; lifts" ID="ID_956037561" CREATED="1449116411474" MODIFIED="1449116417104"/>
+<node TEXT="simpler yet" ID="ID_513468611" CREATED="1449116622299" MODIFIED="1449116624184">
+<node TEXT="code" ID="ID_610090636" CREATED="1449116672179" MODIFIED="1449116672736">
+<node TEXT="*Main&gt; let f = (:) &lt;$&gt; char &apos;a&apos; &lt;*&gt; (many $ char &apos;b&apos;)" ID="ID_1888494308" CREATED="1449116624711" MODIFIED="1449116624711"/>
+<node TEXT="*Main&gt; parseWithLeftOver f &quot;abbbbccc&quot;" ID="ID_1913591512" CREATED="1449116624714" MODIFIED="1449116624714"/>
+<node TEXT="Right (&quot;abbbb&quot;,&quot;ccc&quot;)" ID="ID_783108206" CREATED="1449116624716" MODIFIED="1449116624716"/>
+</node>
+<node TEXT="note that char &apos;a&apos; :: Parser Char, while&#xa;          many $ char &apos;a&apos; :: Parser [Char]&#xa;which is what (:) needs" ID="ID_632105378" CREATED="1449116674954" MODIFIED="1449116745015"/>
+</node>
+<node TEXT="simple example" ID="ID_516571832" CREATED="1449116026034" MODIFIED="1449116028097">
+<node TEXT="lets you rewrite this" ID="ID_123639276" CREATED="1449115378994" MODIFIED="1449115419340">
+<node TEXT="myParser1 :: (a -&gt; b -&gt; c) -&gt; Parser a -&gt; Parser b -&gt; Parser c&#xa;myParser1 ctor pa pb = do&#xa;    a &lt;- pa&#xa;    b &lt;- pb&#xa;    return $ ctor a b" ID="ID_180072990" CREATED="1449115374938" MODIFIED="1449115375907"/>
+</node>
+<node TEXT="as this" ID="ID_1512038234" CREATED="1449115419545" MODIFIED="1449115420400">
+<node TEXT="myParser4 :: (a -&gt; b -&gt; c) -&gt; Parser a -&gt; Parser b -&gt; Parser c&#xa;myParser4 ctor pa pb = ctor &lt;$&gt; pa &lt;*&gt; pb" ID="ID_1498891718" CREATED="1449115422314" MODIFIED="1449115423137"/>
+</node>
+</node>
+<node TEXT="more complex" ID="ID_1434543810" CREATED="1449116029202" MODIFIED="1449116030505">
+<node TEXT="rewrite this" ID="ID_1346531502" CREATED="1449116031306" MODIFIED="1449116032712">
+<node TEXT="numD :: Parser SimpleExpr&#xa;numD = do&#xa;    n &lt;- lexemeD $ many1 digit&#xa;    return $ Num $ read n" ID="ID_1982055985" CREATED="1449116033074" MODIFIED="1449116033874"/>
+</node>
+<node TEXT="as this" ID="ID_531577597" CREATED="1449116068483" MODIFIED="1449116069377">
+<node TEXT="numA3 :: Parser SimpleExpr&#xa;numA3 = (Num . read) &lt;$&gt; lexemeA (many1 digit)" ID="ID_508838378" CREATED="1449116069754" MODIFIED="1449116071040"/>
+</node>
+<node TEXT="but this is argj more natural" ID="ID_1694398926" CREATED="1449116122874" MODIFIED="1449116128833">
+<node TEXT="integerA4 :: Parser Integer&#xa;integerA4 = read &lt;$&gt; lexemeA (many1 digit)&#xa;&#xa;numA4 :: Parser SimpleExpr&#xa;numA4 = Num &lt;$&gt; integerA4" ID="ID_734190151" CREATED="1449116130850" MODIFIED="1449116135725"/>
+</node>
+</node>
+<node TEXT="more yet" ID="ID_822538200" CREATED="1449116290490" MODIFIED="1449116292400">
+<node TEXT="rewrite this" ID="ID_463802213" CREATED="1449116297010" MODIFIED="1449116298272">
+<node TEXT="varD :: Parser SimpleExpr&#xa;varD = lexemeA $ do&#xa;    fc &lt;- firstChar&#xa;    rest &lt;- many nonFirstChar&#xa;    return $ Var (fc:rest)&#xa;  where&#xa;    firstChar = satisfy (\a -&gt; isLetter a || a == &apos;_&apos;)&#xa;    nonFirstChar = satisfy (\a -&gt; isDigit a || isLetter a || a == &apos;_&apos;)" ID="ID_618073644" CREATED="1449116294506" MODIFIED="1449116295450"/>
+</node>
+<node TEXT="as this" ID="ID_982165769" CREATED="1449116299524" MODIFIED="1449116300351">
+<node TEXT="varA2 :: Parser SimpleExpr&#xa;varA2 = Var &lt;$&gt; iden&#xa;  where&#xa;    iden = lexemeA ((:) &lt;$&gt; firstChar &lt;*&gt; many nonFirstChar)&#xa;    firstChar = letter &lt;|&gt; char &apos;_&apos;&#xa;    nonFirstChar = digit &lt;|&gt; firstChar" ID="ID_1351042072" CREATED="1449116325987" MODIFIED="1449116327018"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="also great" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1596925575" CREATED="1449113138185" MODIFIED="1449113139900">
+<node TEXT="add error message" ID="ID_1164216513" CREATED="1426273246259" MODIFIED="1426273248849">
+<node TEXT="eol =   try (string &quot;\n\r&quot;)&#xa;    &lt;|&gt; try (string &quot;\r\n&quot;)&#xa;    &lt;|&gt; string &quot;\n&quot;&#xa;    &lt;|&gt; string &quot;\r&quot;&#xa;    &lt;?&gt; &quot;end of line&quot;" ID="ID_489587635" CREATED="1426273249403" MODIFIED="1426273250545"/>
+</node>
+<node TEXT="try, lookahead, and input consumption" ID="ID_236146951" CREATED="1426272263348" MODIFIED="1426272282568">
+<node TEXT="in words" ID="ID_1952392069" CREATED="1449113290609" MODIFIED="1449113291999">
+<node TEXT="http://book.realworldhaskell.org/read/using-parsec.html" ID="ID_242149840" CREATED="1426272490312" MODIFIED="1426272490312" LINK="http://book.realworldhaskell.org/read/using-parsec.html"/>
+<node TEXT="the problem" ID="ID_394825924" CREATED="1426273979700" MODIFIED="1426273980946">
+<node TEXT="if a parser that wants to read &quot;a b&quot; reads something else that starts like that but is different, e.g. &quot;a c&quot;, the &quot;a&quot; is &quot;consumed&quot;; it will not be available to the next parser (if the two parsers are separated by &lt;|&gt;), even though the first parser did not find what it wanted." ID="ID_1370201661" CREATED="1426272271757" MODIFIED="1426272374190"/>
+</node>
+<node TEXT="try and lookahead are designed to get around that" ID="ID_1780948421" CREATED="1426272374453" MODIFIED="1426272383477"/>
+<node TEXT="? try even works right of &lt;|&gt;" ID="ID_1806314650" CREATED="1426273986099" MODIFIED="1426273995712">
+<node TEXT="&quot;Let&apos;s say we are parsing a quoted cell, and are getting towards the end of it. There will be another cell following. So we will expect to see a quote to end the current cell, followed by a comma. When we hit quotedChar, we will fail the noneOf test and proceed to the test that looks for two quotes in a row. We&apos;ll also fail that one because we&apos;ll have a quote, then a comma. If we hadn&apos;t used try, we&apos;d crash with an error at this point, saying that it was expecting the second quote, because the first quote was already consumed.&quot;" ID="ID_1907469936" CREATED="1426273996611" MODIFIED="1426274002304"/>
+<node TEXT="I think that&apos;s if it&apos;s right of &lt;|&gt; in a function which itself is left of &lt;|&gt; in another function." ID="ID_1556533358" CREATED="1426274006883" MODIFIED="1426274031716"/>
+</node>
+</node>
+<node TEXT="in code" ID="ID_236085484" CREATED="1449113293809" MODIFIED="1449113294679">
+<node TEXT="this fails" ID="ID_1133772919" CREATED="1449113300025" MODIFIED="1449113322984">
+<node TEXT="*Main Control.Applicative&gt; regularParse ((char &apos;a&apos; &gt;&gt; char &apos;c&apos;) &lt;|&gt; (char &apos;a&apos; &gt;&gt; char &apos;b&apos;)) &quot;ab&quot;" ID="ID_1662920443" CREATED="1449113295136" MODIFIED="1449113295136"/>
+<node TEXT="Left (line 1, column 2):" ID="ID_215975839" CREATED="1449113295136" MODIFIED="1449113295136"/>
+<node TEXT="unexpected &quot;b&quot;" ID="ID_960514899" CREATED="1449113295140" MODIFIED="1449113295140"/>
+<node TEXT="expecting &quot;c&quot;" ID="ID_341069202" CREATED="1449113295141" MODIFIED="1449113295141"/>
+</node>
+<node TEXT="add try and it succeeds" ID="ID_332472673" CREATED="1449113315353" MODIFIED="1449113320719">
+<node TEXT="*Main Control.Applicative&gt; regularParse (try (char &apos;a&apos; &gt;&gt; char &apos;c&apos;) &lt;|&gt; (char &apos;a&apos; &gt;&gt; char &apos;b&apos;)) &quot;ab&quot;" ID="ID_1273879376" CREATED="1449113295142" MODIFIED="1449113295142"/>
+<node TEXT="Right &apos;b&apos;" ID="ID_1029698713" CREATED="1449113295143" MODIFIED="1449113295143"/>
+<node TEXT="*Main Control.Applicative&gt;" ID="ID_1867890924" CREATED="1449113295146" MODIFIED="1449113295146"/>
+</node>
+</node>
+<node TEXT="it might be confusing" ID="ID_1798735628" CREATED="1449113429385" MODIFIED="1449113431743">
+<node TEXT="http://jakewheat.github.io/intro_to_parsing/#very-simple-expression-parsing" ID="ID_453271425" CREATED="1449113439899" MODIFIED="1449113439899" LINK="http://jakewheat.github.io/intro_to_parsing/#very-simple-expression-parsing"/>
+<node TEXT="&quot;try has its downsides ... and I usually try to minimise its use&quot;" ID="ID_1197406267" CREATED="1449113443521" MODIFIED="1449113471472"/>
+</node>
+</node>
+</node>
+<node TEXT="1-extrd, still good" ID="ID_1030292128" CREATED="1449113165929" MODIFIED="1449113175915">
+<font BOLD="true"/>
+<node TEXT="2015 11" ID="ID_800125787" CREATED="1449079208612" MODIFIED="1449079211937">
+<node TEXT="3 parser tutorials, midway" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_535352665" CREATED="1443638562621" MODIFIED="1449081896173">
+<node TEXT="fp complete, attoparsec" ID="ID_1683591437" CREATED="1443637154844" MODIFIED="1449081891583">
 <node TEXT="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec" ID="ID_514995313" CREATED="1443637160838" MODIFIED="1443637160838" LINK="https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec"/>
 <node TEXT="&quot;Following this specification, we can easily write the parser as follows&quot; ..." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1100284346" CREATED="1443637171261" MODIFIED="1443637181453"/>
 </node>
@@ -16230,12 +16347,121 @@
 <node TEXT="http://dev.stephendiehl.com/fun/002_parsers.html" ID="ID_68560217" CREATED="1443638561787" MODIFIED="1443638561787" LINK="http://dev.stephendiehl.com/fun/002_parsers.html"/>
 <node TEXT="around &quot;option :: Parser a -&gt; Parser a -&gt; Parser a&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1683290201" CREATED="1443638604269" MODIFIED="1443638612897"/>
 </node>
+<node TEXT="wiki" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1958264455" CREATED="1447921657735" MODIFIED="1449081810688">
+<node TEXT="half-read, difficult" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1404117992" CREATED="1449081826873" MODIFIED="1449081830013"/>
+<node TEXT="I had filed this under &quot;parser : run this code&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_75833500" CREATED="1449081811229" MODIFIED="1449081817619"/>
+<node TEXT="https://wiki.haskell.org/Parsing_expressions_and_statements" ID="ID_1717254274" CREATED="1447921670205" MODIFIED="1447921670205" LINK="https://wiki.haskell.org/Parsing_expressions_and_statements"/>
+<node TEXT="2.3 Expression parser" ID="ID_1634394270" CREATED="1447921664446" MODIFIED="1447921665213"/>
 </node>
+</node>
+<node TEXT="maybeRead" ID="ID_876951244" CREATED="1448612680189" MODIFIED="1448612681852">
+<node TEXT="&gt; maybeRead &quot;scalet&quot; :: Maybe Int&#xa;Nothing&#xa;&gt; maybeRead &quot;3&quot; :: Maybe Int&#xa;Just 3" ID="ID_105735911" CREATED="1448612682500" MODIFIED="1448612684104"/>
+</node>
+</node>
+<node TEXT="earliest" ID="ID_994993213" CREATED="1449079291486" MODIFIED="1449079294498">
+<node TEXT="Parser types" LOCALIZED_STYLE_REF="default" ID="ID_1913463814" CREATED="1445887579586" MODIFIED="1449079733638">
+<node TEXT="\Text.Parsec  !=  \Text.ParserCombinators.Parsec" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_641660640" CREATED="1445893384045" MODIFIED="1445893884316">
+<font BOLD="true"/>
+<node TEXT="that is" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_901269362" CREATED="1445893476069" MODIFIED="1445893477927">
+<node TEXT="the shortcuts from Text.Parsec are NOT the same as the ones from Text.ParserCombinators.Parsec" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_198350674" CREATED="1445893384045" MODIFIED="1445893421517">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="type Parsec s u = ParsecT s u Identity" ID="ID_723273364" CREATED="1445893678470" MODIFIED="1445893679221">
+<node TEXT="this is common to Text.Parsec and T.PC.Parsec" ID="ID_1392231493" CREATED="1445893684877" MODIFIED="1445893697027">
+<node TEXT="defined only in the former, but the latter refers to it" ID="ID_444662426" CREATED="1445893702029" MODIFIED="1445893708997"/>
+</node>
+</node>
+<node TEXT="Text.ParserCombinators.Parsec" ID="ID_187309573" CREATED="1445893620341" MODIFIED="1445893620972">
+<node TEXT="type Parser      = Parsec String ()&#xa;                 = ParsecT String () Identity&#xa;=&gt; type Parser a = ParsecT String () Identity a" ID="ID_307170497" CREATED="1445893644246" MODIFIED="1445893853774"/>
+<node TEXT="GenParser tok st      = Parsec [tok] st&#xa;                      = ParsecT [tok] st Identity&#xa;=&gt; GenParser tok st a = ParsecT [tok] Identity a" ID="ID_949165699" CREATED="1445893509925" MODIFIED="1445893864053"/>
+</node>
+<node TEXT="Text.Parsec" ID="ID_1886303422" CREATED="1445893605445" MODIFIED="1445893615221">
+<node TEXT="Parser a = ParsecT Text () Identity a" ID="ID_418320530" CREATED="1445887583337" MODIFIED="1445887662703">
+<node TEXT="because" ID="ID_1530739399" CREATED="1445887812323" MODIFIED="1445887813272">
+<node TEXT="Parser = Parsec Text () = ParsecT Text () Identity" ID="ID_1413175954" CREATED="1445887649943" MODIFIED="1445887652894"/>
+</node>
+</node>
+<node TEXT="GenParser st a = ParsecT Text st Identity a" ID="ID_1711688719" CREATED="1445893527269" MODIFIED="1445893624835">
+<node TEXT="because" ID="ID_149387987" CREATED="1445893539732" MODIFIED="1445893544537">
+<node TEXT="GenParser st = Parsec Text st" ID="ID_1705070032" CREATED="1445893539737" MODIFIED="1445893545706"/>
+<node TEXT="Parsec s u = ParsecT s u Identity" ID="ID_1192157304" CREATED="1445893539746" MODIFIED="1445893547194"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="lost ? from Devon 2015 10 21" ID="ID_722408818" CREATED="1445542714354" MODIFIED="1449079977344">
+<node TEXT="can&apos;t figure out how to run" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_109827771" CREATED="1445892543157" MODIFIED="1445892546228"/>
+<node TEXT="parseTest (choice [char &apos;a&apos;, char &apos;b&apos;, char &apos;c&apos;]) &quot;c&quot;" ID="ID_530171323" CREATED="1445542744810" MODIFIED="1445542746050"/>
+<node TEXT="parseTest (choice [string &quot;a&quot;, string &quot;b&quot;, string &quot;foo&quot;]) &quot;foo&quot;" ID="ID_1528191158" CREATED="1445542722122" MODIFIED="1445542722122"/>
+</node>
+<node TEXT="Parsec" ID="ID_1873737081" CREATED="1426272259571" MODIFIED="1427780398467">
+<font BOLD="false"/>
+<node TEXT="where I left off reading" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_145878924" CREATED="1426275410677" MODIFIED="1426275414977">
+<node TEXT="http://book.realworldhaskell.org/read/using-parsec.html" ID="ID_1717184030" CREATED="1426272490312" MODIFIED="1426272490312" LINK="http://book.realworldhaskell.org/read/using-parsec.html"/>
+<node TEXT="section: &quot;Applicative functors for parsing&quot;" ID="ID_282517963" CREATED="1426275402768" MODIFIED="1426275421951"/>
+</node>
+<node TEXT="Text.Parsec.Indent" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1957801602" CREATED="1427781366499" MODIFIED="1427781371735">
+<node TEXT="maybe from indentParsec (which is now obsolete)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1817120622" CREATED="1427777901593" MODIFIED="1427781391393">
+<node TEXT="https://hackage.haskell.org/package/IndentParser" ID="ID_731606122" CREATED="1427777900890" MODIFIED="1427777900890" LINK="https://hackage.haskell.org/package/IndentParser"/>
+<node TEXT="import" ID="ID_1211923281" CREATED="1427779937714" MODIFIED="1427779939502">
+<node TEXT="import Text.ParserCombinators.Parsec.IndentParser" ID="ID_1230724682" CREATED="1427779921296" MODIFIED="1427779929404"/>
+<node TEXT="import Text.ParserCombinators.Parsec.IndentParser.Token" ID="ID_1176164073" CREATED="1427779929786" MODIFIED="1427779931704"/>
+<node TEXT=":set prompt &quot;&gt; &quot;" ID="ID_1328655178" CREATED="1427779956987" MODIFIED="1427779956987"/>
+</node>
+</node>
+<node TEXT="tutorial" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1936068248" CREATED="1427781773595" MODIFIED="1427781775166">
+<node TEXT="http://spin.atomicobject.com/2012/03/16/using-text-parsec-indent-to-parse-an-indentation-sensitive-language-with-haskells-parsec-library/" ID="ID_121971546" CREATED="1427781772243" MODIFIED="1427781772243" LINK="http://spin.atomicobject.com/2012/03/16/using-text-parsec-indent-to-parse-an-indentation-sensitive-language-with-haskells-parsec-library/"/>
+</node>
+<node TEXT="working code!" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1638027759" CREATED="1427784390156" MODIFIED="1427784417807">
+<node TEXT="/home/jeff/work/computer/Haskell/indent/first.hs" ID="ID_108995841" CREATED="1427784389434" MODIFIED="1427784413777"/>
+</node>
+</node>
+<node TEXT="types" ID="ID_1250212642" CREATED="1427781955986" MODIFIED="1427781956641">
+<node TEXT="in Text.Parsec.Indent, maybe Text.Parsec more generally" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1278993754" CREATED="1449108255823" MODIFIED="1449108265751"/>
+<node TEXT="Parser = Parsec String ()" ID="ID_1460772474" CREATED="1427781429051" MODIFIED="1427781866041"/>
+<node TEXT="Parsec s u = ParsecT s u Identity" ID="ID_134085067" CREATED="1427781418890" MODIFIED="1427781864753"/>
+<node TEXT="ParsecT s u m a" ID="ID_917764558" CREATED="1427781392164" MODIFIED="1427781462514">
+<node TEXT=". serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_951645209" CREATED="1427781477267" MODIFIED="1427781480221"/>
+<node TEXT="stream type," ID="ID_748702033" CREATED="1427781462939" MODIFIED="1427781484284"/>
+<node TEXT="user state type" ID="ID_69627881" CREATED="1427781467820" MODIFIED="1427781485353"/>
+<node TEXT="underlying monad type" ID="ID_1573729376" CREATED="1427781471098" MODIFIED="1427781490945"/>
+<node TEXT="what results from successful parse" ID="ID_421046688" CREATED="1427781474634" MODIFIED="1427781494737"/>
+</node>
+<node TEXT="IndentParser s u a = ParsecT s u (State SourcePos) a" ID="ID_78997178" CREATED="1427781857939" MODIFIED="1427781860697"/>
+<node TEXT="SourcePos" ID="ID_1730659429" CREATED="1427781948651" MODIFIED="1427781950777">
+<node TEXT="http://hackage.haskell.org/package/parsec-3.1.2/docs/Text-Parsec-Pos.html#t:SourcePos" ID="ID_660770157" CREATED="1427781940017" MODIFIED="1427781940017" LINK="http://hackage.haskell.org/package/parsec-3.1.2/docs/Text-Parsec-Pos.html#t:SourcePos"/>
+</node>
+<node TEXT="helpers" ID="ID_279656467" CREATED="1427782148531" MODIFIED="1427782202465">
+<node TEXT="http://spin.atomicobject.com/2012/03/16/using-text-parsec-indent-to-parse-an-indentation-sensitive-language-with-haskells-parsec-library/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_795694031" CREATED="1427782146526" MODIFIED="1427782205350" LINK="http://spin.atomicobject.com/2012/03/16/using-text-parsec-indent-to-parse-an-indentation-sensitive-language-with-haskells-parsec-library/"/>
+<node TEXT="~ IParser = Parser + SourcePos state" ID="ID_1399456875" CREATED="1427782065795" MODIFIED="1427782343657">
+<node TEXT="IParser a = ParsecT String () (State SourcePos) a" ID="ID_848572938" CREATED="1427782061297" MODIFIED="1427782065191"/>
+</node>
+<node TEXT="~ iParse = runIndent . runParserT" ID="ID_599709964" CREATED="1427782312211" MODIFIED="1427782346641">
+<node TEXT="iParse :: IParser a -&amp;gt; SourceName -&amp;gt; String -&amp;gt; Either ParseError a&#xa;iParse aParser source_name input =&#xa;  runIndent source_name $ runParserT aParser () source_name input" ID="ID_809372139" CREATED="1427782221867" MODIFIED="1427782222963">
+<node TEXT="I assume those -&amp;gt symbols should be -&gt; symbols" ID="ID_1021982067" CREATED="1427782264595" MODIFIED="1427782281588"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="intzd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1790078130" CREATED="1449080021290" MODIFIED="1449080023557">
 <node TEXT="derive ReadS" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_25066595" CREATED="1447974669376" MODIFIED="1447974674060">
 <node TEXT="https://www.haskell.org/tutorial/stdclasses.html" ID="ID_1353547067" CREATED="1447974674965" MODIFIED="1447974674965" LINK="https://www.haskell.org/tutorial/stdclasses.html"/>
 </node>
+<node TEXT="fmapping into parser &quot;feels dirty&quot;" ID="ID_164334785" CREATED="1445548606191" MODIFIED="1445548611789"/>
 </node>
-<node TEXT="dwt / the rels, 11 29" POSITION="right" ID="ID_1763934185" CREATED="1448859480766" MODIFIED="1448859637346">
+</node>
+<node TEXT="fgl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1895169676" CREATED="1448697872822" MODIFIED="1448697874195">
+<node TEXT="ufold :: Graph gr =&gt; (Context a b -&gt; c -&gt; c) -&gt; c -&gt; gr a b -&gt; c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_427682481" CREATED="1448697875023" MODIFIED="1448697897150"/>
+</node>
+<node TEXT="a complex Rel: [Rel] are the only [RelSpec]" POSITION="right" ID="ID_284962175" CREATED="1448952624324" MODIFIED="1448952674488">
+<node TEXT=". [] list" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1276063292" CREATED="1448952675759" MODIFIED="1448952682848"/>
+</node>
+<node TEXT="dwt / the rels, 11 29" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1763934185" CREATED="1448859480766" MODIFIED="1449105247087">
 <node TEXT="is [quality]" ID="ID_1607123366" CREATED="1448859504671" MODIFIED="1448859508006"/>
 <node TEXT="is in [category]" ID="ID_266705072" CREATED="1448859486166" MODIFIED="1448859515874">
 <node TEXT="is a" ID="ID_1606606707" CREATED="1448859516295" MODIFIED="1448859517261"/>
@@ -16266,9 +16492,6 @@
 </node>
 </node>
 <node TEXT="haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1211680304" CREATED="1448612660901" MODIFIED="1448612662826">
-<node TEXT="maybeRead" ID="ID_876951244" CREATED="1448612680189" MODIFIED="1448612681852">
-<node TEXT="&gt; maybeRead &quot;scalet&quot; :: Maybe Int&#xa;Nothing&#xa;&gt; maybeRead &quot;3&quot; :: Maybe Int&#xa;Just 3" ID="ID_105735911" CREATED="1448612682500" MODIFIED="1448612684104"/>
-</node>
 <node TEXT="minimal &gt;&gt;= example" ID="ID_693550343" CREATED="1448608661108" MODIFIED="1448615169784">
 <node TEXT="&gt; Just 1 &gt;&gt;= (\x -&gt; Just x)" ID="ID_1942366523" CREATED="1448608652701" MODIFIED="1448608652701"/>
 <node TEXT="Just 1" ID="ID_1807995247" CREATED="1448608652701" MODIFIED="1448608652701"/>
