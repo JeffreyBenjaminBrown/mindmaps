@@ -1820,8 +1820,8 @@
 <node TEXT="power" ID="ID_78905653" CREATED="1382940067778" MODIFIED="1382940068741"/>
 </node>
 <node TEXT="audio cables" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_202958783" CREATED="1382940156855" MODIFIED="1382940199118">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_582349507" STARTINCLINATION="95;0;" ENDINCLINATION="95;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1316643579" STARTINCLINATION="110;0;" ENDINCLINATION="110;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_582349507" STARTINCLINATION="95;0;" ENDINCLINATION="95;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="audio adaptors" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_5898524" CREATED="1382940191182" MODIFIED="1382941739739"/>
 <node TEXT="power strip" LOCALIZED_STYLE_REF="styles.topic" ID="ID_124985686" CREATED="1382940694791" MODIFIED="1382941735748"/>
@@ -14515,6 +14515,7 @@
 <node TEXT="music, generalizations" LOCALIZED_STYLE_REF="default" ID="ID_1526873775" CREATED="1389844181669" MODIFIED="1391882327800">
 <node TEXT="metronome generalization: announce whenever the same conditions arise" ID="ID_1593514385" CREATED="1389843053597" MODIFIED="1391882236005"/>
 <node TEXT="models better, more inclusive, than perfection" ID="ID_288910535" CREATED="1389846420561" MODIFIED="1389846427099"/>
+<node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1778926837" CREATED="1449376457775" MODIFIED="1449376460403"/>
 </node>
 <node TEXT="internalized" LOCALIZED_STYLE_REF="styles.topic" ID="ID_232881178" CREATED="1395875756795" MODIFIED="1395875760987">
 <node TEXT="Music is a story with verbs the aduience are likely to somewhat agree on, whereas with nouns and objects likely specific to each interpreter." ID="ID_821242446" CREATED="1395631190797" MODIFIED="1395875752347"/>
@@ -14529,24 +14530,29 @@
 <node TEXT="both within and across octave" ID="ID_569423434" CREATED="1402980066035" MODIFIED="1402980073536"/>
 </node>
 </node>
-<node TEXT="commitment" LOCALIZED_STYLE_REF="default" ID="ID_1218146963" CREATED="1399235241604" MODIFIED="1446330016255">
-<node TEXT="sometimes if you hesitate, it becomes the wrong choice" ID="ID_1980482323" CREATED="1399172730661" MODIFIED="1399172743910"/>
+<node TEXT="&amp; commit intuit speed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1218146963" CREATED="1399235241604" MODIFIED="1449376669376">
+<node TEXT="sometimes if you hesitate, it ?becomes the wrong choice" ID="ID_1980482323" CREATED="1399172730661" MODIFIED="1449376529109">
+<node TEXT="?you suddenly decide|recog that it is" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1820455737" CREATED="1449376529814" MODIFIED="1449376559856"/>
 </node>
 </node>
-<node TEXT="reminders" ID="ID_449399192" CREATED="1446326922419" MODIFIED="1446326934809">
-<node TEXT="The three oscillations" ID="ID_1536829272" CREATED="1400376782059" MODIFIED="1446326910874">
+<node TEXT="inside startish, outside destiny" LOCALIZED_STYLE_REF="default" ID="ID_1227397181" CREATED="1427685564293" MODIFIED="1449379223892">
+<node TEXT="birth metaphors" ID="ID_254628657" CREATED="1437636901176" MODIFIED="1437636903085"/>
+</node>
+</node>
+<node TEXT="reminder : the three oscillations" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1536829272" CREATED="1400376782059" MODIFIED="1449375524264">
 <node TEXT="amplitude should correlate with their average" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840690800" CREATED="1400376918376" MODIFIED="1400376926136"/>
 <node TEXT="scale complexity" ID="ID_26254030" CREATED="1400376786220" MODIFIED="1400376788297">
 <node TEXT="sometimes power chords" ID="ID_1293349116" CREATED="1400376790931" MODIFIED="1400376793646"/>
 </node>
 <node TEXT="loop count, duration" ID="ID_1439837341" CREATED="1400376800532" MODIFIED="1400376894958"/>
 <node TEXT="event frequency, density" ID="ID_748730403" CREATED="1400376807875" MODIFIED="1400376865503">
-<node TEXT="frequency of attack" ID="ID_624288227" CREATED="1400376874625" MODIFIED="1400376878173"/>
+<node TEXT="frequency of (&quot;durant&quot;?) event" ID="ID_624288227" CREATED="1400376874625" MODIFIED="1449375557043">
+<node TEXT="was: freq of attack" ID="ID_407863674" CREATED="1449375591422" MODIFIED="1449375594794"/>
+</node>
 <node TEXT="number of simultaneous" ID="ID_1239583902" CREATED="1400376878353" MODIFIED="1400376881012"/>
 </node>
 </node>
-</node>
-<node TEXT="sh : against music instruction" LOCALIZED_STYLE_REF="default" ID="ID_1209297072" CREATED="1401570585097" MODIFIED="1446327345950">
+<node TEXT="sh : for investig + against instruction-reliance" LOCALIZED_STYLE_REF="default" ID="ID_1209297072" CREATED="1401570585097" MODIFIED="1449375466066">
 <node TEXT="Teachers in music are parasites." ID="ID_1694822527" CREATED="1401570589039" MODIFIED="1401570589039"/>
 <node TEXT="Learn ear training. It will let you to perceive in audio anything that you would otherwise rely on a teacher to detect. Practica Musica is a piece of software, $100 to students (as of 2005), with infinite patience and zero marginal cost, on which you can train your ear (it&apos;s like learning to name colors; you&apos;ve been hearing them the whole time but having words for them makes working with them much easier) more effectively than with a human partner. No human should need to be physically present to quiz another; that work can be automated." ID="ID_691649024" CREATED="1401570589039" MODIFIED="1401570589039"/>
 <node TEXT="Once you have ear trained you will be able to recognize and label the things you hear. It&apos;s a small step from there to being able to reproduce them on an instrument." ID="ID_1259207576" CREATED="1401570589039" MODIFIED="1401570589039"/>
@@ -14561,6 +14567,21 @@
 </node>
 <node TEXT="2015 11 11" POSITION="right" ID="ID_1630647993" CREATED="1447378122972" MODIFIED="1447378124821">
 <node TEXT="name / crumbs" ID="ID_24654632" CREATED="1447314824340" MODIFIED="1447378133391"/>
+</node>
+<node TEXT="12 05" POSITION="right" ID="ID_859770061" CREATED="1449375058725" MODIFIED="1449375060364">
+<node TEXT="as one function: (pitch, dur) seq (pitch, dur)" LOCALIZED_STYLE_REF="default" ID="ID_1781492908" CREATED="1449374678629" MODIFIED="1449375120421">
+<node TEXT="the second longer and lower, both noisy: atari game-over" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_957880507" CREATED="1449374729894" MODIFIED="1449375028829"/>
+<node TEXT="for a chorus of these-linked" ID="ID_268554318" CREATED="1449374765438" MODIFIED="1449375043256">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_957880507" STARTINCLINATION="360;0;" ENDINCLINATION="360;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+<node TEXT="=mus = good patterns for ?what" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_142107839" CREATED="1449375095878" MODIFIED="1449375168016">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1781492908" STARTINCLINATION="271;0;" ENDINCLINATION="271;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+<node TEXT="read head, rising" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1008019550" CREATED="1449376457775" MODIFIED="1449377003993">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1778926837" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="2015 12 05" ID="ID_1856333486" CREATED="1449376481847" MODIFIED="1449376485261"/>
 </node>
 </node>
 </map>

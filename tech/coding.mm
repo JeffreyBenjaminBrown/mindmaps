@@ -3255,203 +3255,6 @@
 <node TEXT="fork being the first" ID="ID_62559304" CREATED="1448524219551" MODIFIED="1448524945490"/>
 </node>
 </node>
-<node TEXT=".mm format ? next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1448529093077">
-<font BOLD="true"/>
-<node TEXT="I see more to gain in that than I do in starting a lot of mini-mindmaps from scratch." LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_347035117" CREATED="1448142951872" MODIFIED="1448348407974">
-<node TEXT="the general principle being perhaps don&apos;t plan to do throwaway work" ID="ID_1521840103" CREATED="1448142980433" MODIFIED="1448142990488"/>
-</node>
-<node TEXT="text rep (observed)" ID="ID_772765326" CREATED="1445763574103" MODIFIED="1445763580576">
-<node TEXT="types" LOCALIZED_STYLE_REF="default" ID="ID_1442937063" CREATED="1445756692267" MODIFIED="1445761018361">
-<node TEXT="ignorable" LOCALIZED_STYLE_REF="default" ID="ID_1729889347" CREATED="1445755894546" MODIFIED="1445763838422">
-<font BOLD="true"/>
-<node TEXT="_s herein rep omitted info" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1394873824" CREATED="1445755909562" MODIFIED="1445755933414"/>
-<node TEXT="&lt;map version=&quot;freeplane 1.3.0&quot;&gt;" ID="ID_1294597072" CREATED="1445757961746" MODIFIED="1445757961746"/>
-<node TEXT="&lt;!-- [comment] --&gt;" ID="ID_112830830" CREATED="1445755942856" MODIFIED="1445758003750"/>
-<node TEXT="&lt;/map&gt;" ID="ID_1767762591" CREATED="1445757951683" MODIFIED="1445757951683"/>
-<node TEXT="&quot;properties&quot; node" ID="ID_1831305387" CREATED="1445756403163" MODIFIED="1445757085949">
-<node TEXT="example" ID="ID_1858547278" CREATED="1445757087571" MODIFIED="1445757089386">
-<node TEXT="&lt;properties show_icon_for_attributes=&quot;true&quot; show_note_icons=&quot;true&quot;/&gt;" ID="ID_229533782" CREATED="1445756406012" MODIFIED="1445756406012"/>
-</node>
-<node TEXT="I see zero or one per document." ID="ID_8142725" CREATED="1445757091275" MODIFIED="1445757182854">
-<node TEXT="tested two documents" ID="ID_186698655" CREATED="1445757183203" MODIFIED="1445757185882"/>
-</node>
-</node>
-<node TEXT="hook( map_styles( _ ) )" ID="ID_1211382556" CREATED="1445763774143" MODIFIED="1445763812241">
-<font BOLD="true"/>
-<node TEXT="&lt;hook&gt; _ &lt;/hook&gt;" ID="ID_1207090890" CREATED="1445757067995" MODIFIED="1445763788129">
-<font BOLD="false"/>
-<node TEXT="&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1872114717" CREATED="1445756326530" MODIFIED="1445756326530">
-<node TEXT="observed once, immedj after and indented rel to first Textnode" ID="ID_1065778081" CREATED="1445756357227" MODIFIED="1445756377162"/>
-</node>
-<node TEXT="[then lots of style_nodes and /style_nodes" ID="ID_157539127" CREATED="1445756555383" MODIFIED="1445756568642"/>
-<node TEXT="&lt;/hook&gt;" ID="ID_195890012" CREATED="1445756538784" MODIFIED="1445756538784"/>
-</node>
-<node TEXT="&lt;map_styles&gt;_&lt;/map_styles&gt;" ID="ID_398538857" CREATED="1445756475738" MODIFIED="1445763788126">
-<font BOLD="false"/>
-<node TEXT="includes these kind of things" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_952573217" CREATED="1445763694207" MODIFIED="1445763698891"/>
-<node TEXT="&lt;stylenode LOCALIZED_TEXT=&quot;defaultstyle.floating&quot; MAX_WIDTH=&quot;800&quot;&gt;" ID="ID_1066843603" CREATED="1445763622985" MODIFIED="1445763654464"/>
-<node TEXT="&lt;edge STYLE=&quot;hide_edge&quot;/&gt;" ID="ID_946279982" CREATED="1445763646183" MODIFIED="1445763648214"/>
-<node TEXT="&lt;cloud COLOR=&quot;#f0f0f0&quot; SHAPE=&quot;ROUND_RECT&quot;/&gt;" ID="ID_852548211" CREATED="1445763662815" MODIFIED="1445763664158"/>
-</node>
-</node>
-</node>
-<node TEXT="Word = [alpha | num | &quot;_&quot;]*" ID="ID_1582017754" CREATED="1445756123482" MODIFIED="1445756858134">
-<node TEXT="* in the regex sense" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1824188304" CREATED="1445756860794" MODIFIED="1445756867448"/>
-</node>
-<node TEXT="VarSet = ([Word]=&quot;_&quot;)" ID="ID_1622292618" CREATED="1445756088360" MODIFIED="1445756833904">
-<node TEXT="was called &quot;TNProperty&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1099383321" CREATED="1445756767123" MODIFIED="1445756877456"/>
-<node TEXT="I made up the term &quot;VarSet&quot;." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1096444251" CREATED="1445756774739" MODIFIED="1445756810167"/>
-<node TEXT="without the parens or the brackets" ID="ID_1181167043" CREATED="1445756118770" MODIFIED="1445756837830"/>
-<node TEXT="TextNodes use|speak one set of VarSets, ArrowNodes another" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1712729754" CREATED="1445756950691" MODIFIED="1445756968351"/>
-</node>
-<node TEXT="TextNode = &lt;node [VarSet ]*&gt;" ID="ID_1728627871" CREATED="1445755971842" MODIFIED="1445756936346">
-<node TEXT="=" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_258708284" CREATED="1445756909315" MODIFIED="1445756910783">
-<node TEXT="include the &lt;&gt;s" LOCALIZED_STYLE_REF="default" ID="ID_1190950814" CREATED="1445756897211" MODIFIED="1445756914823"/>
-<node TEXT="the word node is followed by a space-separated list of VarSets" ID="ID_737768825" CREATED="1445755992319" MODIFIED="1445756942128"/>
-</node>
-<node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1620696079" CREATED="1445755974410" MODIFIED="1445757006134">
-<node TEXT="&lt;node TEXT=&quot;root&quot; LOCALIZED_STYLE_REF=&quot;default&quot; ID=&quot;ID_1201843186&quot; CREATED=&quot;1336484964936&quot; MODIFIED=&quot;1445755341881&quot;&gt;&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1423715739" CREATED="1445755973601" MODIFIED="1445755973601"/>
-</node>
-<node TEXT="five VarSets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_528468599" CREATED="1445756213483" MODIFIED="1445763433794">
-<node TEXT="all useful, easy to keep" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_422749904" CREATED="1445757373083" MODIFIED="1445757379711"/>
-<node LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1515597198" CREATED="1445763428527" MODIFIED="1445763436078"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      TEXT=&quot;root&quot;
-    </p>
-  </body>
-</html>
-</richcontent>
-<font BOLD="false"/>
-</node>
-<node TEXT="LOCALIZED_STYLE_REF=&quot;default&quot;" ID="ID_1453957414" CREATED="1445756224427" MODIFIED="1445756274898"/>
-<node TEXT="ID=&quot;ID_1201843186&quot;" ID="ID_1520139828" CREATED="1445756238128" MODIFIED="1445756271658"/>
-<node TEXT="CREATED=&quot;1336484964936&quot;" ID="ID_804936380" CREATED="1445756267837" MODIFIED="1445756267837"/>
-<node TEXT="MODIFIED=&quot;1445755341881&quot;" ID="ID_1378548918" CREATED="1445756285374" MODIFIED="1445756285374"/>
-</node>
-</node>
-<node TEXT="ArrnowNode" ID="ID_860963117" CREATED="1445756629219" MODIFIED="1445756632082">
-<node TEXT="&lt;arrowLink [VarSet ]*&gt;" ID="ID_543900531" CREATED="1445756636235" MODIFIED="1445757231902"/>
-<node TEXT="only one relevant VarSet" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_614187950" CREATED="1445757274259" MODIFIED="1445757281503">
-<node ID="ID_643948635" CREATED="1445757282046" MODIFIED="1445757282046"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      DESTINATION=&quot;ID_382688000&quot;
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="example" ID="ID_1566264159" CREATED="1445756633371" MODIFIED="1445756634305">
-<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_382688000&quot; STARTINCLINATION=&quot;40;0;&quot; ENDINCLINATION=&quot;40;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_991141492" CREATED="1445756632494" MODIFIED="1445756632494"/>
-</node>
-<node TEXT="is sandwhiched" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1179294049" CREATED="1445757477011" MODIFIED="1445757485697">
-<node TEXT="&lt;node TEXT=&quot;root / 2 / 1, ext linked to root/2/2&quot; ID=&quot;ID_1432672106&quot; CREATED=&quot;1445755364922&quot; MODIFIED=&quot;1445755426937&quot;&gt;" ID="ID_1601639847" CREATED="1445757531134" MODIFIED="1445757531134"/>
-<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_382688000&quot; STARTINCLINATION=&quot;40;0;&quot; ENDINCLINATION=&quot;40;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_1219090546" CREATED="1445757531134" MODIFIED="1445757531134"/>
-<node TEXT="&lt;/node&gt;" ID="ID_96540132" CREATED="1445757531138" MODIFIED="1445757531138"/>
-</node>
-</node>
-<node TEXT="FontNode" ID="ID_1135656300" CREATED="1445757454395" MODIFIED="1445757455649">
-<node TEXT="&lt;font BOLD=&quot;true&quot;/&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_561890739" CREATED="1445757456045" MODIFIED="1445757460498"/>
-<node TEXT="can hold two" ID="ID_681460252" CREATED="1445757656204" MODIFIED="1445757665002">
-<node TEXT="&lt;font BOLD=&quot;true&quot; ITALIC=&quot;true&quot;/&gt;" ID="ID_487288573" CREATED="1445757650815" MODIFIED="1445757650815"/>
-</node>
-<node TEXT="usually absent" ID="ID_770507925" CREATED="1445757667692" MODIFIED="1445757673857"/>
-<node TEXT="is sandwhiched" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1391704676" CREATED="1445757477011" MODIFIED="1445757485697">
-<node TEXT="&lt;node TEXT=&quot;root / 5, bold&quot; LOCALIZED_STYLE_REF=&quot;default&quot; POSITION=&quot;right&quot; ID=&quot;ID_711140313&quot; CREATED=&quot;1445755728378&quot; MODIFIED=&quot;1445755767977&quot;&gt;" ID="ID_247981311" CREATED="1445757471217" MODIFIED="1445757471217"/>
-<node TEXT="&lt;font BOLD=&quot;true&quot;/&gt;" ID="ID_1927247085" CREATED="1445757471217" MODIFIED="1445757471217"/>
-<node TEXT="&lt;/node&gt;" ID="ID_896367392" CREATED="1445757471222" MODIFIED="1445757471222"/>
-</node>
-</node>
-<node TEXT="fonts and arrows follow immedj" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1079673915" CREATED="1445757693812" MODIFIED="1445757729599">
-<node TEXT="one FontNode for all fonts, one ArrowNode for each arrow" ID="ID_1171562561" CREATED="1445757898187" MODIFIED="1445757938185"/>
-<node TEXT="that is" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1546720922" CREATED="1445757895260" MODIFIED="1445757911264">
-<node TEXT="if a node N has fonts F and G and arrows A and B, they will present as &lt;node _&gt; &lt;font [F and G]&gt; &lt;arrow [A]&gt; &lt;arrow [B] &lt;/node&gt;, with newlines between each &gt; and following &lt;" ID="ID_383087714" CREATED="1445757731219" MODIFIED="1445757887517"/>
-</node>
-<node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1222894431" CREATED="1445757716780" MODIFIED="1445757911268">
-<node TEXT="&lt;node TEXT=&quot;root / 7, bold, italic, linked to root/8 and root/9&quot; POSITION=&quot;right&quot; ID=&quot;ID_1022474539&quot; CREATED=&quot;1445757581827&quot; MODIFIED=&quot;1445757618963&quot;&gt;" ID="ID_1909450575" CREATED="1445757714938" MODIFIED="1445757714938"/>
-<node TEXT="&lt;font BOLD=&quot;true&quot; ITALIC=&quot;true&quot;/&gt;" ID="ID_1855357873" CREATED="1445757714938" MODIFIED="1445757714938"/>
-<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_1377414606&quot; STARTINCLINATION=&quot;552;0;&quot; ENDINCLINATION=&quot;552;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_980108081" CREATED="1445757714942" MODIFIED="1445757714942"/>
-<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_1035798682&quot; STARTINCLINATION=&quot;552;0;&quot; ENDINCLINATION=&quot;552;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_20420089" CREATED="1445757714943" MODIFIED="1445757714943"/>
-<node TEXT="&lt;/node&gt;" ID="ID_1558926078" CREATED="1445757714947" MODIFIED="1445757714947"/>
-</node>
-</node>
-</node>
-<node TEXT="branches nest like &lt;node&gt; _ &lt;/node&gt;" ID="ID_1585682135" CREATED="1445762066052" MODIFIED="1445762077726">
-<node TEXT="and fonts and arrows are always immedj after the node they apply to, before the next node" LOCALIZED_STYLE_REF="default" ID="ID_424116081" CREATED="1445762080637" MODIFIED="1445762118728"/>
-</node>
-<node TEXT="escape characters" LOCALIZED_STYLE_REF="default" ID="ID_1857605411" CREATED="1445756985147" MODIFIED="1445759594888">
-<node TEXT="small test" LOCALIZED_STYLE_REF="styles.topic" ID="ID_943855792" CREATED="1445759600733" MODIFIED="1445760617826">
-<node TEXT="the node that tested them" ID="ID_886544846" CREATED="1445759587613" MODIFIED="1445759592387">
-<node TEXT="   root / 10, testing characters:&#xa;    &lt; &gt; = &quot; / \&#xa;    and some leading space" ID="ID_1677647931" CREATED="1445759695389" MODIFIED="1445759696404"/>
-</node>
-<node TEXT="how that node appeared in a text editor" ID="ID_1492111266" CREATED="1445759570124" MODIFIED="1445759579614">
-<node TEXT="&lt;node TEXT=&quot;   root / 10, testing characters:&amp;#xa;    &amp;lt; &amp;gt; = &amp;quot; / \&amp;#xa;    and some leading space&quot; POSITION=&quot;right&quot; ID=&quot;ID_1877483936&quot; CREATED=&quot;1445759431532&quot; MODIFIED=&quot;1445759644686&quot;/&gt;" ID="ID_776602261" CREATED="1445759567224" MODIFIED="1445759678121"/>
-</node>
-</node>
-<node TEXT="big test" LOCALIZED_STYLE_REF="styles.topic" ID="ID_915639181" CREATED="1445759913737" MODIFIED="1445760617821">
-<node TEXT="is recorded more readable as a text file" ID="ID_1477571035" CREATED="1445760621253" MODIFIED="1445760629604"/>
-<node TEXT="the test node" ID="ID_708249085" CREATED="1445759937549" MODIFIED="1445759941891">
-<node TEXT="complete for an American keyboard" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1866650415" CREATED="1445759859093" MODIFIED="1445759951836"/>
-<node TEXT="~!@#$%^&amp;*()_+&#xa;`1234567890-=&#xa;&#xa;{}|&#xa;[]\&#xa;&#xa;:&quot;&#xa;;&apos;&#xa;&#xa;&lt;&gt;?&#xa;,./" ID="ID_1077019227" CREATED="1445759782101" MODIFIED="1445759837238"/>
-</node>
-<node TEXT="its text rep" ID="ID_1934718375" CREATED="1445759953885" MODIFIED="1445759955891">
-<node TEXT="&lt;node TEXT=&quot;~!@#$%^&amp;amp;*()_+&amp;#xa;`1234567890-=&amp;#xa;&amp;#xa;{}|&amp;#xa;[]\&amp;#xa;&amp;#xa;:&amp;quot;&amp;#xa;;&amp;apos;&amp;#xa;&amp;#xa;&amp;lt;&amp;gt;?&amp;#xa;,./&quot; ID=&quot;ID_1077019227&quot; CREATED=&quot;1445759782101&quot; MODIFIED=&quot;1445759837238&quot;/&gt;" ID="ID_556446216" CREATED="1445759915349" MODIFIED="1445759915349"/>
-</node>
-</node>
-<node TEXT="escaped things" ID="ID_1939117781" CREATED="1445759748917" MODIFIED="1445760054932">
-<node TEXT="newline = &amp;#xa;" ID="ID_1891398405" CREATED="1445759711758" MODIFIED="1445759730371"/>
-<node TEXT="&lt; = &amp;lt;" ID="ID_1816693687" CREATED="1445759721572" MODIFIED="1445759735148"/>
-<node TEXT="&gt; = &amp;gt;" ID="ID_1202699420" CREATED="1445759735437" MODIFIED="1445759738683"/>
-<node TEXT="&quot; = &amp;quot;" ID="ID_1116584734" CREATED="1445759738917" MODIFIED="1445759744923"/>
-<node TEXT="&amp; = &amp;amp;" ID="ID_462252049" CREATED="1445760055901" MODIFIED="1445760059347"/>
-<node TEXT="&apos; = &amp;apos" ID="ID_581611061" CREATED="1445760164845" MODIFIED="1445760166779">
-<node TEXT="that&apos;s the single apostrophe, under the quotation mark, right pinky" ID="ID_679183941" CREATED="1445760167433" MODIFIED="1445760179827"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="/&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1398251704" CREATED="1445807846840" MODIFIED="1445808529144">
-<node TEXT="&lt;&gt;s ending with that have no outside &lt;&gt; that ends them" ID="ID_95605721" CREATED="1445808463264" MODIFIED="1445808483154"/>
-<node TEXT="that is, there are these two options" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1309053557" CREATED="1445808483386" MODIFIED="1445808507742">
-<node TEXT="&lt;node _ /&gt;" ID="ID_1644085157" CREATED="1445808486161" MODIFIED="1445808493533"/>
-<node TEXT="&lt;node _&gt; _ &lt;/node&gt;" ID="ID_995772351" CREATED="1445808499486" MODIFIED="1445808505518"/>
-</node>
-</node>
-<node TEXT="haskell rep (planned)" ID="ID_1761484128" CREATED="1445763365119" MODIFIED="1445763584084">
-<node TEXT="Node" ID="ID_1951439036" CREATED="1445763407799" MODIFIED="1445763517285">
-<node TEXT="text" ID="ID_497451626" CREATED="1445763442671" MODIFIED="1445763447413"/>
-<node TEXT="style" ID="ID_1636575046" CREATED="1445763447615" MODIFIED="1445763448477"/>
-<node TEXT="id" ID="ID_1747711943" CREATED="1445763448679" MODIFIED="1445763449197"/>
-<node TEXT="created" ID="ID_584372886" CREATED="1445763449415" MODIFIED="1445763451461">
-<node TEXT="two varieties, Freeplane or native Haskell measure" ID="ID_1194200772" CREATED="1445763456271" MODIFIED="1445763481838"/>
-</node>
-<node TEXT="modified" ID="ID_1896166281" CREATED="1445763451711" MODIFIED="1445763452749">
-<node TEXT="two varieties, Freeplane or native Haskell measure" ID="ID_503289272" CREATED="1445763456271" MODIFIED="1445763481838"/>
-</node>
-<node TEXT="fonts" ID="ID_1920506163" CREATED="1445763521910" MODIFIED="1445763522741"/>
-<node TEXT="arrows" ID="ID_1908849704" CREATED="1445763528790" MODIFIED="1445763529732"/>
-</node>
-<node TEXT="Branch" ID="ID_753813754" CREATED="1445763496278" MODIFIED="1445763518438">
-<node TEXT="top :: Node" ID="ID_1611350982" CREATED="1445763498799" MODIFIED="1445763515546"/>
-<node TEXT="successors :: [Branch]" ID="ID_1989432479" CREATED="1445763502199" MODIFIED="1445763539985"/>
-</node>
-<node TEXT="? need escape characters" ID="ID_1378995764" CREATED="1445763864703" MODIFIED="1445763868285">
-<node TEXT="surely not to store, only if at all for UI" ID="ID_1615449523" CREATED="1445763872535" MODIFIED="1445763899527"/>
-</node>
-</node>
-</node>
 <node TEXT="parse .mm" ID="ID_553047147" CREATED="1448512060857" MODIFIED="1448512063113">
 <node TEXT="devon parse mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1661163394" CREATED="1448224310007" MODIFIED="1448224316036"/>
 </node>
@@ -16163,6 +15966,54 @@
 <node TEXT="-- keep my Node|Label notation consistent with FGL, tradition" ID="ID_626311639" CREATED="1449093175400" MODIFIED="1449093175400"/>
 </node>
 </node>
+<node TEXT="? why unary rels" ID="ID_612320615" CREATED="1449206306539" MODIFIED="1449206331115">
+<node TEXT="introduce [_ as _]" ID="ID_1779924813" CREATED="1449206279284" MODIFIED="1449206282478"/>
+</node>
+<node TEXT="12 03" ID="ID_907619785" CREATED="1449206659476" MODIFIED="1449206662838">
+<node TEXT="demote|promote in one frame" ID="ID_895727031" CREATED="1449206644388" MODIFIED="1449206718096">
+<node TEXT="&quot;consider this node dub when viewed as a successor of _&quot;" ID="ID_1237367571" CREATED="1449206687636" MODIFIED="1449206709417"/>
+</node>
+<node TEXT="space relation, ala comma, for &quot;these form a term&quot;" ID="ID_1577461806" CREATED="1449277167730" MODIFIED="1449277174345">
+<node TEXT="e.g. mus timb, better than mus/timb" ID="ID_623016169" CREATED="1449277178002" MODIFIED="1449277196993"/>
+</node>
+<node TEXT="evaluate reader state relative to some set of [frames, tags]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1145858238" CREATED="1449295948716" MODIFIED="1449295972039">
+<node TEXT="show those frames in a tree, each with numeric values reflecting the current view state and recent view states" ID="ID_1688617788" CREATED="1449295976804" MODIFIED="1449296016919"/>
+</node>
+<node TEXT="! view v. graph" ID="ID_207789020" CREATED="1449378503344" MODIFIED="1449378516766">
+<node TEXT="encode view properties in graph?" ID="ID_1026759778" CREATED="1449378435808" MODIFIED="1449378440767"/>
+<node TEXT="example" ID="ID_54690111" CREATED="1449378491704" MODIFIED="1449378500270">
+<node TEXT="a relationship from siblings to a parent indicating &quot;give us priority over [other siblings] in display -- if user chooses to display in compact form, show us and not them&quot;" ID="ID_553940871" CREATED="1429924496462" MODIFIED="1429924533629"/>
+<node TEXT="dup" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1368292957" CREATED="1449379058752" MODIFIED="1449379076367">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_553940871" STARTINCLINATION="709;0;" ENDINCLINATION="709;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT=". or \ for &quot;same height as parent, shown a level lower only so that can fold display, hide&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_695736466" CREATED="1430786264243" MODIFIED="1449379076875">
+<node TEXT="&quot;this node playing similar role as parent&quot;" ID="ID_1664138008" CREATED="1430786301843" MODIFIED="1430786312632"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="rewrite rules &amp; show rules with distance to issuer" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1260927467" CREATED="1430786709243" MODIFIED="1430953863586">
+<node TEXT="rules, suggested interpretation | treatment, instructions to future self | reader | user,  in a body of text, explained where applicable with a measure of the distance from application to definition; punctuation, meanings of things like gold and starring chosen artlike, anticipating future specification" ID="ID_466637397" CREATED="1430786686659" MODIFIED="1430787415392"/>
+</node>
+<node TEXT="within a node a one-side paren is safe" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_424691331" CREATED="1449368609602" MODIFIED="1449368616717"/>
+<node TEXT="evid against econ" ID="ID_470695244" CREATED="1449368544210" MODIFIED="1449368559209">
+<node TEXT="we are made of something that comes like a comet, we can cooperate to catch more spirit, we do it a lot" ID="ID_1855290501" CREATED="1449368561569" MODIFIED="1449368580449">
+<node TEXT="esp. visib with marij" ID="ID_333039476" CREATED="1449381010769" MODIFIED="1449381023678"/>
+</node>
+<node TEXT="without v. beyond ) econ" ID="ID_1591333331" CREATED="1449368599850" MODIFIED="1449368604609"/>
+</node>
+</node>
+<node TEXT="file io +?" ID="ID_1249334944" CREATED="1449297012901" MODIFIED="1449297106350">
+<node TEXT="read file" ID="ID_451317805" CREATED="1449297054653" MODIFIED="1449297057308">
+<node TEXT="x &lt;- readFile &quot;temp/g1.txt&quot;" ID="ID_661281532" CREATED="1449297047228" MODIFIED="1449297047228"/>
+<node TEXT="let xg = read x :: Mindmap" ID="ID_1286089977" CREATED="1449297053062" MODIFIED="1449297054245"/>
+</node>
+<node TEXT="write file" ID="ID_1138678130" CREATED="1449297066934" MODIFIED="1449297068036">
+<node TEXT="writeFile &quot;temp/g1.txt&quot; (show g1)" ID="ID_513745779" CREATED="1449297068431" MODIFIED="1449297068431"/>
+</node>
+<node TEXT="update" ID="ID_876949033" CREATED="1449297095069" MODIFIED="1449297097229">
+<node TEXT="g &lt;- pure $ insStr &quot;cat&quot; g" ID="ID_1325782618" CREATED="1449297097749" MODIFIED="1449297097749"/>
+</node>
+</node>
 </node>
 <node TEXT="parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_248551988" CREATED="1447974661144" MODIFIED="1447974664134">
 <node TEXT="refs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1186718235" CREATED="1415041624700" MODIFIED="1449080011713">
@@ -16190,6 +16041,201 @@
 </node>
 </node>
 <node TEXT="see also &quot;lift&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_960942636" CREATED="1449079422476" MODIFIED="1449079431723"/>
+<node TEXT=".mm format ? next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1659816216" CREATED="1445755832803" MODIFIED="1448529093077">
+<font BOLD="true"/>
+<node TEXT="I see more to gain in that than I do in starting a lot of mini-mindmaps from scratch." LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_347035117" CREATED="1448142951872" MODIFIED="1448348407974">
+<node TEXT="the general principle being perhaps don&apos;t plan to do throwaway work" ID="ID_1521840103" CREATED="1448142980433" MODIFIED="1448142990488"/>
+</node>
+<node TEXT="text rep (observed)" ID="ID_772765326" CREATED="1445763574103" MODIFIED="1445763580576">
+<node TEXT="types" LOCALIZED_STYLE_REF="default" ID="ID_1442937063" CREATED="1445756692267" MODIFIED="1445761018361">
+<node TEXT="ignorable" LOCALIZED_STYLE_REF="default" ID="ID_1729889347" CREATED="1445755894546" MODIFIED="1445763838422">
+<font BOLD="true"/>
+<node TEXT="_s herein rep omitted info" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1394873824" CREATED="1445755909562" MODIFIED="1445755933414"/>
+<node TEXT="&lt;map version=&quot;freeplane 1.3.0&quot;&gt;" ID="ID_1294597072" CREATED="1445757961746" MODIFIED="1445757961746"/>
+<node TEXT="&lt;!-- [comment] --&gt;" ID="ID_112830830" CREATED="1445755942856" MODIFIED="1445758003750"/>
+<node TEXT="&lt;/map&gt;" ID="ID_1767762591" CREATED="1445757951683" MODIFIED="1445757951683"/>
+<node TEXT="&quot;properties&quot; node" ID="ID_1831305387" CREATED="1445756403163" MODIFIED="1445757085949">
+<node TEXT="example" ID="ID_1858547278" CREATED="1445757087571" MODIFIED="1445757089386">
+<node TEXT="&lt;properties show_icon_for_attributes=&quot;true&quot; show_note_icons=&quot;true&quot;/&gt;" ID="ID_229533782" CREATED="1445756406012" MODIFIED="1445756406012"/>
+</node>
+<node TEXT="I see zero or one per document." ID="ID_8142725" CREATED="1445757091275" MODIFIED="1445757182854">
+<node TEXT="tested two documents" ID="ID_186698655" CREATED="1445757183203" MODIFIED="1445757185882"/>
+</node>
+</node>
+<node TEXT="font tag" ID="ID_1375703493" CREATED="1449266241873" MODIFIED="1449266246272">
+<node TEXT="&lt;font NAME=&quot;Sans...&quot; ...&gt;" ID="ID_1251805022" CREATED="1449266250889" MODIFIED="1449266263617"/>
+</node>
+<node TEXT="hook( map_styles( _ ) )" ID="ID_1211382556" CREATED="1445763774143" MODIFIED="1445763812241">
+<font BOLD="true"/>
+<node TEXT="&lt;hook&gt; _ &lt;/hook&gt;" ID="ID_1207090890" CREATED="1445757067995" MODIFIED="1445763788129">
+<font BOLD="false"/>
+<node TEXT="&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1872114717" CREATED="1445756326530" MODIFIED="1445756326530">
+<node TEXT="observed once, immedj after and indented rel to first Textnode" ID="ID_1065778081" CREATED="1445756357227" MODIFIED="1445756377162"/>
+</node>
+<node TEXT="[then lots of style_nodes and /style_nodes" ID="ID_157539127" CREATED="1445756555383" MODIFIED="1445756568642"/>
+<node TEXT="&lt;/hook&gt;" ID="ID_195890012" CREATED="1445756538784" MODIFIED="1445756538784"/>
+</node>
+<node TEXT="&lt;map_styles&gt;_&lt;/map_styles&gt;" ID="ID_398538857" CREATED="1445756475738" MODIFIED="1445763788126">
+<font BOLD="false"/>
+<node TEXT="includes these kind of things" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_952573217" CREATED="1445763694207" MODIFIED="1445763698891"/>
+<node TEXT="&lt;stylenode LOCALIZED_TEXT=&quot;defaultstyle.floating&quot; MAX_WIDTH=&quot;800&quot;&gt;" ID="ID_1066843603" CREATED="1445763622985" MODIFIED="1445763654464"/>
+<node TEXT="&lt;edge STYLE=&quot;hide_edge&quot;/&gt;" ID="ID_946279982" CREATED="1445763646183" MODIFIED="1445763648214"/>
+<node TEXT="&lt;cloud COLOR=&quot;#f0f0f0&quot; SHAPE=&quot;ROUND_RECT&quot;/&gt;" ID="ID_852548211" CREATED="1445763662815" MODIFIED="1445763664158"/>
+</node>
+</node>
+</node>
+<node TEXT="Word = [alpha | num | &quot;_&quot;]*" ID="ID_1582017754" CREATED="1445756123482" MODIFIED="1445756858134">
+<node TEXT="* in the regex sense" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1824188304" CREATED="1445756860794" MODIFIED="1445756867448"/>
+</node>
+<node TEXT="VarSet = ([Word]=&quot;_&quot;)" ID="ID_1622292618" CREATED="1445756088360" MODIFIED="1445756833904">
+<node TEXT="was called &quot;TNProperty&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1099383321" CREATED="1445756767123" MODIFIED="1445756877456"/>
+<node TEXT="I made up the term &quot;VarSet&quot;." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1096444251" CREATED="1445756774739" MODIFIED="1445756810167"/>
+<node TEXT="without the parens or the brackets" ID="ID_1181167043" CREATED="1445756118770" MODIFIED="1445756837830"/>
+<node TEXT="TextNodes use|speak one set of VarSets, ArrowNodes another" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1712729754" CREATED="1445756950691" MODIFIED="1445756968351"/>
+</node>
+<node TEXT="TextNode = &lt;node [VarSet ]*&gt;" ID="ID_1728627871" CREATED="1445755971842" MODIFIED="1445756936346">
+<node TEXT="=" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_258708284" CREATED="1445756909315" MODIFIED="1445756910783">
+<node TEXT="include the &lt;&gt;s" LOCALIZED_STYLE_REF="default" ID="ID_1190950814" CREATED="1445756897211" MODIFIED="1445756914823"/>
+<node TEXT="the word node is followed by a space-separated list of VarSets" ID="ID_737768825" CREATED="1445755992319" MODIFIED="1445756942128"/>
+</node>
+<node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1620696079" CREATED="1445755974410" MODIFIED="1445757006134">
+<node TEXT="&lt;node TEXT=&quot;root&quot; LOCALIZED_STYLE_REF=&quot;default&quot; ID=&quot;ID_1201843186&quot; CREATED=&quot;1336484964936&quot; MODIFIED=&quot;1445755341881&quot;&gt;&lt;hook NAME=&quot;MapStyle&quot; zoom=&quot;1.331&quot;&gt;" ID="ID_1423715739" CREATED="1445755973601" MODIFIED="1445755973601"/>
+</node>
+<node TEXT="five VarSets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_528468599" CREATED="1445756213483" MODIFIED="1445763433794">
+<node TEXT="all useful, easy to keep" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_422749904" CREATED="1445757373083" MODIFIED="1445757379711"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1515597198" CREATED="1445763428527" MODIFIED="1445763436078"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      TEXT=&quot;root&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="false"/>
+</node>
+<node TEXT="LOCALIZED_STYLE_REF=&quot;default&quot;" ID="ID_1453957414" CREATED="1445756224427" MODIFIED="1445756274898"/>
+<node TEXT="ID=&quot;ID_1201843186&quot;" ID="ID_1520139828" CREATED="1445756238128" MODIFIED="1445756271658"/>
+<node TEXT="CREATED=&quot;1336484964936&quot;" ID="ID_804936380" CREATED="1445756267837" MODIFIED="1445756267837"/>
+<node TEXT="MODIFIED=&quot;1445755341881&quot;" ID="ID_1378548918" CREATED="1445756285374" MODIFIED="1445756285374"/>
+</node>
+</node>
+<node TEXT="ArrnowNode" ID="ID_860963117" CREATED="1445756629219" MODIFIED="1445756632082">
+<node TEXT="&lt;arrowLink [VarSet ]*&gt;" ID="ID_543900531" CREATED="1445756636235" MODIFIED="1445757231902"/>
+<node TEXT="only one relevant VarSet" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_614187950" CREATED="1445757274259" MODIFIED="1445757281503">
+<node ID="ID_643948635" CREATED="1445757282046" MODIFIED="1445757282046"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      DESTINATION=&quot;ID_382688000&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="example" ID="ID_1566264159" CREATED="1445756633371" MODIFIED="1445756634305">
+<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_382688000&quot; STARTINCLINATION=&quot;40;0;&quot; ENDINCLINATION=&quot;40;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_991141492" CREATED="1445756632494" MODIFIED="1445756632494"/>
+</node>
+<node TEXT="is sandwhiched" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1179294049" CREATED="1445757477011" MODIFIED="1445757485697">
+<node TEXT="&lt;node TEXT=&quot;root / 2 / 1, ext linked to root/2/2&quot; ID=&quot;ID_1432672106&quot; CREATED=&quot;1445755364922&quot; MODIFIED=&quot;1445755426937&quot;&gt;" ID="ID_1601639847" CREATED="1445757531134" MODIFIED="1445757531134"/>
+<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_382688000&quot; STARTINCLINATION=&quot;40;0;&quot; ENDINCLINATION=&quot;40;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_1219090546" CREATED="1445757531134" MODIFIED="1445757531134"/>
+<node TEXT="&lt;/node&gt;" ID="ID_96540132" CREATED="1445757531138" MODIFIED="1445757531138"/>
+</node>
+</node>
+<node TEXT="FontNode" ID="ID_1135656300" CREATED="1445757454395" MODIFIED="1445757455649">
+<node TEXT="&lt;font BOLD=&quot;true&quot;/&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_561890739" CREATED="1445757456045" MODIFIED="1445757460498"/>
+<node TEXT="can hold two" ID="ID_681460252" CREATED="1445757656204" MODIFIED="1445757665002">
+<node TEXT="&lt;font BOLD=&quot;true&quot; ITALIC=&quot;true&quot;/&gt;" ID="ID_487288573" CREATED="1445757650815" MODIFIED="1445757650815"/>
+</node>
+<node TEXT="usually absent" ID="ID_770507925" CREATED="1445757667692" MODIFIED="1445757673857"/>
+<node TEXT="is sandwhiched" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1391704676" CREATED="1445757477011" MODIFIED="1445757485697">
+<node TEXT="&lt;node TEXT=&quot;root / 5, bold&quot; LOCALIZED_STYLE_REF=&quot;default&quot; POSITION=&quot;right&quot; ID=&quot;ID_711140313&quot; CREATED=&quot;1445755728378&quot; MODIFIED=&quot;1445755767977&quot;&gt;" ID="ID_247981311" CREATED="1445757471217" MODIFIED="1445757471217"/>
+<node TEXT="&lt;font BOLD=&quot;true&quot;/&gt;" ID="ID_1927247085" CREATED="1445757471217" MODIFIED="1445757471217"/>
+<node TEXT="&lt;/node&gt;" ID="ID_896367392" CREATED="1445757471222" MODIFIED="1445757471222"/>
+</node>
+</node>
+<node TEXT="fonts and arrows follow immedj" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1079673915" CREATED="1445757693812" MODIFIED="1445757729599">
+<node TEXT="one FontNode for all fonts, one ArrowNode for each arrow" ID="ID_1171562561" CREATED="1445757898187" MODIFIED="1445757938185"/>
+<node TEXT="that is" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1546720922" CREATED="1445757895260" MODIFIED="1445757911264">
+<node TEXT="if a node N has fonts F and G and arrows A and B, they will present as &lt;node _&gt; &lt;font [F and G]&gt; &lt;arrow [A]&gt; &lt;arrow [B] &lt;/node&gt;, with newlines between each &gt; and following &lt;" ID="ID_383087714" CREATED="1445757731219" MODIFIED="1445757887517"/>
+</node>
+<node TEXT="example" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1222894431" CREATED="1445757716780" MODIFIED="1445757911268">
+<node TEXT="&lt;node TEXT=&quot;root / 7, bold, italic, linked to root/8 and root/9&quot; POSITION=&quot;right&quot; ID=&quot;ID_1022474539&quot; CREATED=&quot;1445757581827&quot; MODIFIED=&quot;1445757618963&quot;&gt;" ID="ID_1909450575" CREATED="1445757714938" MODIFIED="1445757714938"/>
+<node TEXT="&lt;font BOLD=&quot;true&quot; ITALIC=&quot;true&quot;/&gt;" ID="ID_1855357873" CREATED="1445757714938" MODIFIED="1445757714938"/>
+<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_1377414606&quot; STARTINCLINATION=&quot;552;0;&quot; ENDINCLINATION=&quot;552;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_980108081" CREATED="1445757714942" MODIFIED="1445757714942"/>
+<node TEXT="&lt;arrowlink SHAPE=&quot;CUBIC_CURVE&quot; COLOR=&quot;#000000&quot; WIDTH=&quot;2&quot; TRANSPARENCY=&quot;80&quot; FONT_SIZE=&quot;9&quot; FONT_FAMILY=&quot;SansSerif&quot; DESTINATION=&quot;ID_1035798682&quot; STARTINCLINATION=&quot;552;0;&quot; ENDINCLINATION=&quot;552;0;&quot; STARTARROW=&quot;NONE&quot; ENDARROW=&quot;DEFAULT&quot;/&gt;" ID="ID_20420089" CREATED="1445757714943" MODIFIED="1445757714943"/>
+<node TEXT="&lt;/node&gt;" ID="ID_1558926078" CREATED="1445757714947" MODIFIED="1445757714947"/>
+</node>
+</node>
+</node>
+<node TEXT="branches nest like &lt;node&gt; _ &lt;/node&gt;" ID="ID_1585682135" CREATED="1445762066052" MODIFIED="1445762077726">
+<node TEXT="and fonts and arrows are always immedj after the node they apply to, before the next node" LOCALIZED_STYLE_REF="default" ID="ID_424116081" CREATED="1445762080637" MODIFIED="1445762118728"/>
+</node>
+<node TEXT="escape characters" LOCALIZED_STYLE_REF="default" ID="ID_1857605411" CREATED="1445756985147" MODIFIED="1445759594888">
+<node TEXT="small test" LOCALIZED_STYLE_REF="styles.topic" ID="ID_943855792" CREATED="1445759600733" MODIFIED="1445760617826">
+<node TEXT="the node that tested them" ID="ID_886544846" CREATED="1445759587613" MODIFIED="1445759592387">
+<node TEXT="   root / 10, testing characters:&#xa;    &lt; &gt; = &quot; / \&#xa;    and some leading space" ID="ID_1677647931" CREATED="1445759695389" MODIFIED="1445759696404"/>
+</node>
+<node TEXT="how that node appeared in a text editor" ID="ID_1492111266" CREATED="1445759570124" MODIFIED="1445759579614">
+<node TEXT="&lt;node TEXT=&quot;   root / 10, testing characters:&amp;#xa;    &amp;lt; &amp;gt; = &amp;quot; / \&amp;#xa;    and some leading space&quot; POSITION=&quot;right&quot; ID=&quot;ID_1877483936&quot; CREATED=&quot;1445759431532&quot; MODIFIED=&quot;1445759644686&quot;/&gt;" ID="ID_776602261" CREATED="1445759567224" MODIFIED="1445759678121"/>
+</node>
+</node>
+<node TEXT="big test" LOCALIZED_STYLE_REF="styles.topic" ID="ID_915639181" CREATED="1445759913737" MODIFIED="1445760617821">
+<node TEXT="is recorded more readable as a text file" ID="ID_1477571035" CREATED="1445760621253" MODIFIED="1445760629604"/>
+<node TEXT="the test node" ID="ID_708249085" CREATED="1445759937549" MODIFIED="1445759941891">
+<node TEXT="complete for an American keyboard" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1866650415" CREATED="1445759859093" MODIFIED="1445759951836"/>
+<node TEXT="~!@#$%^&amp;*()_+&#xa;`1234567890-=&#xa;&#xa;{}|&#xa;[]\&#xa;&#xa;:&quot;&#xa;;&apos;&#xa;&#xa;&lt;&gt;?&#xa;,./" ID="ID_1077019227" CREATED="1445759782101" MODIFIED="1445759837238"/>
+</node>
+<node TEXT="its text rep" ID="ID_1934718375" CREATED="1445759953885" MODIFIED="1445759955891">
+<node TEXT="&lt;node TEXT=&quot;~!@#$%^&amp;amp;*()_+&amp;#xa;`1234567890-=&amp;#xa;&amp;#xa;{}|&amp;#xa;[]\&amp;#xa;&amp;#xa;:&amp;quot;&amp;#xa;;&amp;apos;&amp;#xa;&amp;#xa;&amp;lt;&amp;gt;?&amp;#xa;,./&quot; ID=&quot;ID_1077019227&quot; CREATED=&quot;1445759782101&quot; MODIFIED=&quot;1445759837238&quot;/&gt;" ID="ID_556446216" CREATED="1445759915349" MODIFIED="1445759915349"/>
+</node>
+</node>
+<node TEXT="escaped things" ID="ID_1939117781" CREATED="1445759748917" MODIFIED="1445760054932">
+<node TEXT="newline = &amp;#xa;" ID="ID_1891398405" CREATED="1445759711758" MODIFIED="1445759730371"/>
+<node TEXT="&lt; = &amp;lt;" ID="ID_1816693687" CREATED="1445759721572" MODIFIED="1445759735148"/>
+<node TEXT="&gt; = &amp;gt;" ID="ID_1202699420" CREATED="1445759735437" MODIFIED="1445759738683"/>
+<node TEXT="&quot; = &amp;quot;" ID="ID_1116584734" CREATED="1445759738917" MODIFIED="1445759744923"/>
+<node TEXT="&amp; = &amp;amp;" ID="ID_462252049" CREATED="1445760055901" MODIFIED="1445760059347"/>
+<node TEXT="&apos; = &amp;apos" ID="ID_581611061" CREATED="1445760164845" MODIFIED="1445760166779">
+<node TEXT="that&apos;s the single apostrophe, under the quotation mark, right pinky" ID="ID_679183941" CREATED="1445760167433" MODIFIED="1445760179827"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="/&gt; signals leaf|end|bottom" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1590126960" CREATED="1449297972406" MODIFIED="1449298040673"/>
+<node TEXT="&lt;/word&gt; signals end of earlier &lt;word _&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1308903609" CREATED="1449297993855" MODIFIED="1449298040665"/>
+<node TEXT="haskell rep (planned)" ID="ID_1761484128" CREATED="1445763365119" MODIFIED="1445763584084">
+<node TEXT="Node" ID="ID_1951439036" CREATED="1445763407799" MODIFIED="1445763517285">
+<node TEXT="text" ID="ID_497451626" CREATED="1445763442671" MODIFIED="1445763447413"/>
+<node TEXT="style" ID="ID_1636575046" CREATED="1445763447615" MODIFIED="1445763448477"/>
+<node TEXT="id" ID="ID_1747711943" CREATED="1445763448679" MODIFIED="1445763449197"/>
+<node TEXT="created" ID="ID_584372886" CREATED="1445763449415" MODIFIED="1445763451461">
+<node TEXT="two varieties, Freeplane or native Haskell measure" ID="ID_1194200772" CREATED="1445763456271" MODIFIED="1445763481838"/>
+</node>
+<node TEXT="modified" ID="ID_1896166281" CREATED="1445763451711" MODIFIED="1445763452749">
+<node TEXT="two varieties, Freeplane or native Haskell measure" ID="ID_503289272" CREATED="1445763456271" MODIFIED="1445763481838"/>
+</node>
+<node TEXT="fonts" ID="ID_1920506163" CREATED="1445763521910" MODIFIED="1445763522741"/>
+<node TEXT="arrows" ID="ID_1908849704" CREATED="1445763528790" MODIFIED="1445763529732"/>
+</node>
+<node TEXT="Branch" ID="ID_753813754" CREATED="1445763496278" MODIFIED="1445763518438">
+<node TEXT="top :: Node" ID="ID_1611350982" CREATED="1445763498799" MODIFIED="1445763515546"/>
+<node TEXT="successors :: [Branch]" ID="ID_1989432479" CREATED="1445763502199" MODIFIED="1445763539985"/>
+</node>
+<node TEXT="? need escape characters" ID="ID_1378995764" CREATED="1445763864703" MODIFIED="1445763868285">
+<node TEXT="surely not to store, only if at all for UI" ID="ID_1615449523" CREATED="1445763872535" MODIFIED="1445763899527"/>
+</node>
+</node>
+</node>
 <node TEXT="2015 12 03 : Jake Wheat | Parsec" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1585622658" CREATED="1415127595726" MODIFIED="1449110143373">
 <node TEXT="https://github.com/JakeWheat/intro_to_parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1940150801" CREATED="1415127602074" MODIFIED="1449110162214" LINK="https://github.com/JakeWheat/intro_to_parsing"/>
 <node TEXT="computer/Haskell/parse/jake_wheat" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_487799548" CREATED="1449110149455" MODIFIED="1449110162209"/>
@@ -16454,10 +16500,40 @@
 </node>
 <node TEXT="fmapping into parser &quot;feels dirty&quot;" ID="ID_164334785" CREATED="1445548606191" MODIFIED="1445548611789"/>
 </node>
+<node TEXT="de novo" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_311500909" CREATED="1449282823205" MODIFIED="1449282842696">
+<node TEXT="preprocess: strip ^these from file" ID="ID_644152253" CREATED="1449282951622" MODIFIED="1449282966228">
+<node TEXT="&lt;map_styles&gt;" ID="ID_396307160" CREATED="1449282974112" MODIFIED="1449282974112"/>
+<node TEXT="&lt;stylenode LOCALIZED_TEXT=&quot;styles.root_node&quot;&gt;" ID="ID_660684933" CREATED="1449282974112" MODIFIED="1449282974112"/>
+<node TEXT="&lt;font NAME=&quot;SansSerif&quot; SIZE=&quot;10&quot; BOLD=&quot;false&quot; ITALIC=&quot;false&quot;/&gt;" ID="ID_698954304" CREATED="1449282979686" MODIFIED="1449282979686"/>
+<node TEXT="&lt;/stylenode&gt;" ID="ID_836461665" CREATED="1449282979686" MODIFIED="1449282979686"/>
+<node TEXT="&lt;edge STYLE=&quot;hide_edge&quot;/&gt;" ID="ID_896943605" CREATED="1449282992096" MODIFIED="1449282992096"/>
+<node TEXT="&lt;cloud COLOR=&quot;#f0f0f0&quot; SHAPE=&quot;ROUND_RECT&quot;/&gt;" ID="ID_388420047" CREATED="1449282992096" MODIFIED="1449282992096"/>
+<node TEXT="&lt;icon BUILTIN=&quot;yes&quot;/&gt;" ID="ID_1801146613" CREATED="1449283003957" MODIFIED="1449283003957"/>
+<node TEXT="&lt;/map_styles&gt;" ID="ID_447275042" CREATED="1449283016218" MODIFIED="1449283016218"/>
+<node TEXT="&lt;/hook&gt;" ID="ID_939343541" CREATED="1449283016218" MODIFIED="1449283016218"/>
+<node TEXT="&lt;/map&gt;" ID="ID_978519523" CREATED="1449283051986" MODIFIED="1449283051986"/>
+</node>
+<node TEXT="data Branch = Branch {mmText :: MmText&#xa;  , scrs :: [Branch]&#xa;  , links :: [MmText] }" ID="ID_1972535605" CREATED="1449283305606" MODIFIED="1449283543956"/>
+<node TEXT="data MmText = MmText { text :: String&#xa;  , ID :: String ? Int&#xa;  , created&#xa;  , modified }" ID="ID_973833645" CREATED="1449283185877" MODIFIED="1449283531291"/>
+<node TEXT="many :: Parser a -&gt; Parser [a]" ID="ID_310754733" CREATED="1449282848628" MODIFIED="1449282871954"/>
+</node>
+<node TEXT="principle ? asap from english to code" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1301695137" CREATED="1449283969494" MODIFIED="1449284035479">
+<node TEXT="if you can use an intermediate Haskell data structure between the file to parse and the destination state, it&apos;s easier" ID="ID_1474926522" CREATED="1449283986917" MODIFIED="1449284018421"/>
+</node>
+<node TEXT="pretty-print [MmTag]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_898169970" CREATED="1449353461193" MODIFIED="1449353543983">
+<node TEXT="x &lt;- tMmFile" ID="ID_953125130" CREATED="1449353518650" MODIFIED="1449353521992"/>
+<node TEXT="mapM_ putStrLn $ map show $ fromRight x" ID="ID_1779806512" CREATED="1449353462624" MODIFIED="1449353482672"/>
+</node>
+</node>
+<node TEXT="why can&apos;t I dollar these parens?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_413624575" CREATED="1449299523751" MODIFIED="1449299529026">
+<node TEXT="I spent a long time trying." ID="ID_1692746531" CREATED="1449299534911" MODIFIED="1449299542158"/>
+<node TEXT="    tMmTag = TestCase $ do&#xa;      assertBool &quot;parse mmTag&quot; $ eParse mmTag &quot;&lt;hi a=\&quot;1\&quot; bb =\&quot;22\&quot; &gt;&quot;&#xa;        == Right ( MmTag &quot;hi&quot;&#xa;                         ( Map.fromList [(&quot;a&quot;,&quot;1&quot;), (&quot;bb&quot;,&quot;22&quot;)] )&#xa;                         False )" ID="ID_1559448980" CREATED="1449299531823" MODIFIED="1449299532849"/>
 </node>
 <node TEXT="fgl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1895169676" CREATED="1448697872822" MODIFIED="1448697874195">
 <node TEXT="ufold :: Graph gr =&gt; (Context a b -&gt; c -&gt; c) -&gt; c -&gt; gr a b -&gt; c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_427682481" CREATED="1448697875023" MODIFIED="1448697897150"/>
 </node>
+<node TEXT="test in ghci: instantaneous" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1722240388" CREATED="1449298092870" MODIFIED="1449298117365"/>
+<node TEXT="I wish rather than desktops one constructed cycles among apps." POSITION="right" ID="ID_1649571315" CREATED="1449297224325" MODIFIED="1449297225507"/>
 <node TEXT="a complex Rel: [Rel] are the only [RelSpec]" POSITION="right" ID="ID_284962175" CREATED="1448952624324" MODIFIED="1448952674488">
 <node TEXT=". [] list" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1276063292" CREATED="1448952675759" MODIFIED="1448952682848"/>
 </node>
