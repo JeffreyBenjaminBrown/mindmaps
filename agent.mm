@@ -248,20 +248,7 @@
 </node>
 </node>
 <node TEXT="~ tempt" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_94094889" CREATED="1432720367502" MODIFIED="1444449805797">
-<node ID="ID_628725002" CREATED="1444449806132" MODIFIED="1444449806132"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      want-resist cyc
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="want-resist cyc" ID="ID_188647259" CREATED="1449721733959" MODIFIED="1449721734691"/>
 </node>
 <node TEXT="~ accept|surrend|embrace" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1656357695" CREATED="1431583290623" MODIFIED="1444451162068"/>
 <node TEXT="self-sabotage (partial)" ID="ID_1245108388" CREATED="1425277982467" MODIFIED="1444450039996">
@@ -386,20 +373,7 @@
 <node TEXT="if will fail, better to fail early" LOCALIZED_STYLE_REF="default" ID="ID_1312695737" CREATED="1423532725914" MODIFIED="1423639026927"/>
 <node TEXT="consider, detect" ID="ID_246222633" CREATED="1423640765470" MODIFIED="1423640769018">
 <node TEXT="elab" LOCALIZED_STYLE_REF="styles.topic" ID="ID_450800386" CREATED="1423640776742" MODIFIED="1423640779775">
-<node ID="ID_89414009" CREATED="1423640769564" MODIFIED="1423640769564"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      consider as choice + detect as destiny
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="consider as choice + detect as destiny" ID="ID_38466498" CREATED="1449721751823" MODIFIED="1449721752638"/>
 <node TEXT="e.g. if I&apos;m failing to learn a topic, at what point to cut my losses?" LOCALIZED_STYLE_REF="default" ID="ID_836373747" CREATED="1414730019356" MODIFIED="1423640708847"/>
 </node>
 </node>
@@ -455,21 +429,7 @@
 <node TEXT="= within-job choi" LOCALIZED_STYLE_REF="default" ID="ID_796725410" CREATED="1435026273773" MODIFIED="1435026287352"/>
 <node TEXT="investigate &gt; imagine" LOCALIZED_STYLE_REF="default" ID="ID_497604451" CREATED="1408078906139" MODIFIED="1431587724269">
 <node TEXT="~ bad inward cyc" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1758178165" CREATED="1444451522763" MODIFIED="1444451555372"/>
-<node LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_230734627" CREATED="1423082458457" MODIFIED="1438155230506"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      don't imagine too much before looking for libraries
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="don&apos;t because it will just make you dissatisfied" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_879697737" CREATED="1408146513347" MODIFIED="1438155233973"/>
-</node>
+<node TEXT="don&apos;t imagine too much before looking for libraries" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1013265602" CREATED="1449721768455" MODIFIED="1449721769852"/>
 <node TEXT="instead, check what&apos;s already been done in that direction, and build on it." ID="ID_253176551" CREATED="1438155235002" MODIFIED="1438155242684"/>
 </node>
 <node TEXT="research before plan" LOCALIZED_STYLE_REF="default" ID="ID_1136960680" CREATED="1407444176778" MODIFIED="1444451574920">
@@ -748,36 +708,10 @@
 </node>
 </node>
 <node TEXT="&amp;? stamina courage faith" ID="ID_684178979" CREATED="1430449814555" MODIFIED="1438156057289">
-<node ID="ID_1136374935" CREATED="1438156053050" MODIFIED="1438156053050"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      why are they bundled
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="why are they bundled" ID="ID_1002942484" CREATED="1449721786311" MODIFIED="1449721787094"/>
 <node TEXT="church of gym|army" ID="ID_425505593" CREATED="1430464912850" MODIFIED="1430464943427"/>
 </node>
-<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_921871416" CREATED="1434402649612" MODIFIED="1434402650883"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      2015 05 27
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="2015 05 27" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1130030759" CREATED="1449721802583" MODIFIED="1449721805405"/>
 <node TEXT="motiv bug" LOCALIZED_STYLE_REF="default" ID="ID_483898337" CREATED="1432800926376" MODIFIED="1434402644655">
 <node TEXT="? &quot;_ type system stops me&quot;" ID="ID_1105114162" CREATED="1432790679167" MODIFIED="1438156087262">
 <node TEXT="the _ perhaps being the type system of the very person feeling stopped by it" ID="ID_1859946101" CREATED="1438156088119" MODIFIED="1438156102571"/>
@@ -938,34 +872,9 @@
 <node TEXT="pain" LOCALIZED_STYLE_REF="default" ID="ID_1839508644" CREATED="1424472294708" MODIFIED="1426373381384">
 <node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_363429063" CREATED="1425279660444" MODIFIED="1425279663983">
 <node TEXT="is oppor cep?" ID="ID_1064879434" CREATED="1424752942223" MODIFIED="1424752960513"/>
-<node ID="ID_368547998" CREATED="1424755481589" MODIFIED="1424755481589"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      how usefully repeatable?
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="how usefully repeatable?" ID="ID_1518559969" CREATED="1449721822023" MODIFIED="1449721822926"/>
 </node>
-</node>
-<node ID="ID_1046972666" CREATED="1425200750144" MODIFIED="1425200750144"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      should be choice|pref work
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="should be choice|pref work" ID="ID_963663656" CREATED="1449721835551" MODIFIED="1449721836654">
 <node TEXT="good" ID="ID_1160817981" CREATED="1426374440840" MODIFIED="1426374441931">
 <node TEXT="pain as choices" ID="ID_291388477" CREATED="1422784381820" MODIFIED="1422784393307"/>
 <node TEXT="pain as pointer to object of study + confusion" ID="ID_353397598" CREATED="1422784393513" MODIFIED="1422784427305">
@@ -1157,20 +1066,7 @@
 <node TEXT="compulsion" ID="ID_743515564" CREATED="1421362512317" MODIFIED="1434956943432">
 <node TEXT="divergent double at build" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_747128529" CREATED="1423809366904" MODIFIED="1423809377707">
 <node TEXT="keep this tag" ID="ID_1155150210" CREATED="1423809398090" MODIFIED="1423809400407">
-<node ID="ID_1153153962" CREATED="1423809400818" MODIFIED="1423809400818"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      compulsion not
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="compulsion not" ID="ID_1886703681" CREATED="1449721851087" MODIFIED="1449721851894"/>
 </node>
 </node>
 <node TEXT="replace exec with consid" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_791568074" CREATED="1438224135464" MODIFIED="1438224140259">
@@ -1267,20 +1163,7 @@
 </node>
 </node>
 <node TEXT="dissociation" LOCALIZED_STYLE_REF="default" ID="ID_1349093152" CREATED="1431584423883" MODIFIED="1431584595415">
-<node ID="ID_1441469691" CREATED="1424768285161" MODIFIED="1424768285161"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      amused at being trapped
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="amused at being trapped" ID="ID_132317636" CREATED="1449721865578" MODIFIED="1449721866335"/>
 <node TEXT="fascination despite it" ID="ID_1329990844" CREATED="1424423389901" MODIFIED="1425338791235"/>
 <node TEXT="surprised at the logic that led one somewhere" ID="ID_422544807" CREATED="1424595339567" MODIFIED="1438224679808">
 <node TEXT="e.g. having rushed through a competition, thinking about its how and not its why" ID="ID_1850073224" CREATED="1424596213168" MODIFIED="1425338876692"/>
@@ -1552,20 +1435,7 @@
 </node>
 </node>
 </node>
-<node ID="ID_149921416" CREATED="1444268182649" MODIFIED="1444268182649"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      optim ! respect
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="optim ! respect" ID="ID_284426853" CREATED="1449721878919" MODIFIED="1449721879685"/>
 </node>
 <node TEXT="? respect changes in local popul" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1263549557" CREATED="1438223864320" MODIFIED="1438223909259">
 <node TEXT="when with others, and some join or leave, my prog should likj change" ID="ID_1636981496" CREATED="1427061011661" MODIFIED="1427061027207"/>
@@ -1579,20 +1449,6 @@
 </node>
 </node>
 <node TEXT="error : avoid connect" POSITION="right" ID="ID_92679949" CREATED="1434408346905" MODIFIED="1444449178984">
-<node ID="ID_1134707732" CREATED="1434955853985" MODIFIED="1434955853985"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      to people
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
 <node TEXT="? I could have called [person] and instead I watched TV" LOCALIZED_STYLE_REF="default" ID="ID_248296175" CREATED="1432171456570" MODIFIED="1434959028133"/>
 </node>
 <node TEXT="procs" POSITION="right" ID="ID_349874960" CREATED="1434953538463" MODIFIED="1434953539171">
@@ -1658,52 +1514,12 @@
 <node TEXT="common seqs" ID="ID_148318413" CREATED="1423553237219" MODIFIED="1423553246901">
 <node TEXT="motiv : from game to real" ID="ID_294684906" CREATED="1421050446584" MODIFIED="1421050517794">
 <node TEXT="e.g. my own motivations went from video games to rock stardom." LOCALIZED_STYLE_REF="default" ID="ID_1465827923" CREATED="1414725755349" MODIFIED="1438225250204">
-<node LOCALIZED_STYLE_REF="styles.topic" ID="ID_960822382" CREATED="1421050531907" MODIFIED="1438225251252"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      My motivations (those with the lion's share of my experience, among concurrent others) went from video games to rock stars.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node LOCALIZED_STYLE_REF="styles.topic" ID="ID_1645130108" CREATED="1421050487395" MODIFIED="1438225251262"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Between them I tried to learn about Noam Chomsky.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="My motivations (those with the lion&apos;s share of my experience, among concurrent others) went from video games to rock stars." LOCALIZED_STYLE_REF="styles.topic" ID="ID_88130831" CREATED="1449721586807" MODIFIED="1449721590818"/>
+<node TEXT="Between them I tried to learn about Noam Chomsky." LOCALIZED_STYLE_REF="styles.topic" ID="ID_656802817" CREATED="1449721615751" MODIFIED="1449721618071"/>
 </node>
 </node>
 <node TEXT="sex : from bad to good" ID="ID_1496787472" CREATED="1421050598712" MODIFIED="1421050601550">
-<node ID="ID_1532957082" CREATED="1421050591868" MODIFIED="1421050591868"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Sex was for a long time something I wanted without trying to get.
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="? thiunking that made me a better person" ID="ID_1835069594" CREATED="1438225264752" MODIFIED="1438225270270"/>
-</node>
+<node TEXT="Sex was for a long time something I wanted without trying to get." ID="ID_1498900707" CREATED="1449721682246" MODIFIED="1449721683119"/>
 <node TEXT="christianity" ID="ID_1530621145" CREATED="1423553268971" MODIFIED="1423553270922"/>
 </node>
 </node>
@@ -1948,20 +1764,7 @@
 <node TEXT="is there something useful they have in common" ID="ID_303010416" CREATED="1415204683135" MODIFIED="1415205124115">
 <node TEXT="they make promises" ID="ID_617625866" CREATED="1415204675792" MODIFIED="1415204679108"/>
 <node TEXT="they cheat for power, making it legal" ID="ID_1891963146" CREATED="1415204670888" MODIFIED="1415209619813">
-<node ID="ID_1236054111" CREATED="1415209620051" MODIFIED="1415209620051"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      e.g. gerrymandering
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="e.g. gerrymandering" ID="ID_742033713" CREATED="1449721699671" MODIFIED="1449721700815"/>
 <node TEXT="was" ID="ID_845732887" CREATED="1415333282025" MODIFIED="1415333282483">
 <node TEXT="The Republican party wants government to be for sale, and American voters are dumb." ID="ID_1220327475" CREATED="1415177289386" MODIFIED="1415177321389"/>
 </node>
@@ -1983,20 +1786,7 @@
 <node TEXT="lazy . selfish" ID="ID_1227234827" CREATED="1440754394405" MODIFIED="1440754397892"/>
 </node>
 <node TEXT="import from fresh / _" POSITION="right" ID="ID_1581238567" CREATED="1446853197086" MODIFIED="1446853216104">
-<node ID="ID_488651788" CREATED="1446853204363" MODIFIED="1446853204363"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      filt 2015 10 4 ..
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="filt 2015 10 4 .." ID="ID_287085084" CREATED="1449721719119" MODIFIED="1449721720182"/>
 </node>
 </node>
 </map>
