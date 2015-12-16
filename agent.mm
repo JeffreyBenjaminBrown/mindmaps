@@ -56,7 +56,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="&gt;&gt;&gt; read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_114718093" CREATED="1440129130049" MODIFIED="1440129188174">
+<node TEXT="&gt;&gt;&gt; read head" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" POSITION="right" ID="ID_114718093" CREATED="1440129130049" MODIFIED="1449861396278">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1312866458" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="started Thu Aug 20 20:52:40 PDT 2015" ID="ID_341184827" CREATED="1440129164788" MODIFIED="1440129470351"/>
 </node>
@@ -73,12 +73,34 @@
 <node TEXT="powers" ID="ID_716580608" CREATED="1435544140600" MODIFIED="1435544142966"/>
 <node TEXT="beliefs, models : info &amp; inputs to info proc" ID="ID_927541851" CREATED="1435544135912" MODIFIED="1440128560790"/>
 <node TEXT="prefs, goals : info procs" ID="ID_300466152" CREATED="1435544139184" MODIFIED="1440128571198">
-<node TEXT="are partial; they help determine output but are not output" ID="ID_656973107" CREATED="1440128463002" MODIFIED="1440128478810"/>
+<node TEXT="are partial" ID="ID_656973107" CREATED="1440128463002" MODIFIED="1449818615682">
+<node ID="ID_773977739" CREATED="1449818616154" MODIFIED="1449818616154"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      they help determine output but are not output
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="this mitigates that" ID="ID_981967488" CREATED="1449818623613" MODIFIED="1449818633198">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_773977739" STARTINCLINATION="327;0;" ENDINCLINATION="327;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="there are complete processes the output of which is a pref or a goal, but those processes are smaller than|members of an agent" ID="ID_1998917142" CREATED="1449818617100" MODIFIED="1449818692143"/>
+</node>
+</node>
 </node>
 <node TEXT="whole processes (will, motiv, intuition ..) elsewhere" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1708704911" CREATED="1440128273185" MODIFIED="1440128525355"/>
 </node>
 <node TEXT="?" POSITION="right" ID="ID_697383331" CREATED="1434952921442" MODIFIED="1434952923424">
-<node TEXT="brain fatigue, too tired to look" ID="ID_1557041166" CREATED="1425087861557" MODIFIED="1440129419229"/>
+<node TEXT="brain fatigue, too tired to look" ID="ID_1557041166" CREATED="1425087861557" MODIFIED="1440129419229">
+<node TEXT="what it&apos;s like to resist an in-reach addiction without a (suffic) in-reach substitute for an hour" ID="ID_67579168" CREATED="1449818713357" MODIFIED="1449818762546"/>
+</node>
 <node TEXT="mood print [hype, ..]" ID="ID_1376346882" CREATED="1430460280091" MODIFIED="1438203534321"/>
 <node TEXT="is ? common err" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1995805129" CREATED="1415253100581" MODIFIED="1444448105366">
 <node TEXT="&amp; emp bind manip : unwarranted mutualism injection&#xa;    into conversation" ID="ID_72283016" CREATED="1444447972793" MODIFIED="1444448004081"/>
@@ -96,6 +118,7 @@
 <node TEXT="Thu Aug 20 20:52:40 PDT 2015" ID="ID_646743538" CREATED="1440129164788" MODIFIED="1440129164788"/>
 </node>
 </node>
+<node TEXT="there&apos;s a read head" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" POSITION="right" ID="ID_1793984616" CREATED="1449861401285" MODIFIED="1449861404456"/>
 <node TEXT="= already big enough to sort within" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1924405427" CREATED="1435017939496" MODIFIED="1435017961310"/>
 <node TEXT="THE devnull" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_459111624" CREATED="1427059374733" MODIFIED="1448434279966">
 <font BOLD="true"/>
@@ -1206,7 +1229,7 @@
 </node>
 </node>
 </node>
-<node TEXT="the self (nr)" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1485136792" CREATED="1423785144308" MODIFIED="1435036783441">
+<node TEXT="the self (nr)" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1485136792" CREATED="1423785144308" MODIFIED="1449863852675">
 <font BOLD="true"/>
 <node TEXT="constructs" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_695945779" CREATED="1438759048182" MODIFIED="1438759053729">
 <node TEXT="I can&apos;t immediately enumerate its qualities, but I can maybe about it like Dr. Seuss, &quot;Are you _? Are you _? Are you _ _ _?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1705663670" CREATED="1438758651229" MODIFIED="1438758803469">

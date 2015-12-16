@@ -56,6 +56,7 @@
 </stylenode>
 </map_styles>
 </hook>
+
 <node TEXT="study|writing ideas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1162232733" CREATED="1441923374078" MODIFIED="1441923378307">
 <node TEXT="gatherings: count them" LOCALIZED_STYLE_REF="default" ID="ID_1610189606" CREATED="1441922126650" MODIFIED="1441923360445"/>
 </node>
@@ -100,6 +101,7 @@
   </body>
 </html>
 </richcontent>
+
 <node TEXT="how often to post online" ID="ID_1885275786" CREATED="1437259728307" MODIFIED="1437259741285"/>
 </node>
 <node TEXT="info minimization" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_772662525" CREATED="1437260690708" MODIFIED="1437260702312"/>

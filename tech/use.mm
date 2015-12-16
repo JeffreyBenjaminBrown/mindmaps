@@ -6225,6 +6225,9 @@
 <node TEXT="sudo apt-get install vim" ID="ID_1612572917" CREATED="1447489553667" MODIFIED="1447489560105"/>
 <node TEXT="sudo apt-get install tmux" ID="ID_1422518004" CREATED="1447489553667" MODIFIED="1447489554561"/>
 </node>
+<node TEXT="2015 12 15: cabal install pipes" ID="ID_1647434206" CREATED="1450210497042" MODIFIED="1450210508358">
+<node TEXT="lots of warnings" ID="ID_212157633" CREATED="1450210512347" MODIFIED="1450210514619"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">

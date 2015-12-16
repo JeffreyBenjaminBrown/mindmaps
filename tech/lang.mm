@@ -16838,6 +16838,22 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="*Dwt&gt;" ID="ID_1870987110" CREATED="1448700932684" MODIFIED="1448700932684"/>
 </node>
 </node>
+<node TEXT="Data.Lens.Lens.&amp; is for chaining* binary functions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_928346485" CREATED="1449650106907" MODIFIED="1449650158934">
+<node TEXT="which need the first arg built up" ID="ID_749572850" CREATED="1449650106907" MODIFIED="1449650123674"/>
+<node TEXT="*chaining on what Dwt calls AsPos 2" ID="ID_617411093" CREATED="1449650106907" MODIFIED="1449650125670"/>
+<node TEXT="code" ID="ID_902998768" CREATED="1449650142487" MODIFIED="1449650144117"/>
+<node TEXT="Prelude Control.Lens.Lens&gt; let f x = x+1" ID="ID_1026060044" CREATED="1449650106907" MODIFIED="1449650106907"/>
+<node TEXT="Prelude Control.Lens.Lens&gt; let g x y = x*y" ID="ID_678979720" CREATED="1449650106908" MODIFIED="1449650106908"/>
+<node TEXT="Prelude Control.Lens.Lens&gt; f$   3 &amp; f &amp; g$   4 &amp; f &amp; g$  1" ID="ID_1063041591" CREATED="1449650106908" MODIFIED="1449650106908"/>
+<node TEXT="21" ID="ID_1712247806" CREATED="1449650106910" MODIFIED="1449650106910"/>
+<node TEXT="Prelude Control.Lens.Lens&gt; f$   g (f 3)  $ g (f 4) 1" ID="ID_68198270" CREATED="1449650106911" MODIFIED="1449650106911"/>
+<node TEXT="21" ID="ID_1339025755" CREATED="1449650106912" MODIFIED="1449650106912"/>
+</node>
+<node TEXT="in hoas\haskell can the user dict be simpler?" ID="ID_1360553376" CREATED="1449293640412" MODIFIED="1449293869953">
+<node TEXT="to ask a user to represent &quot;verb&quot; as &quot;\a -&gt; ...&quot; is to ask them to do more work than they should need to do. the beauty of the hoas idea is that (correct me) it allows exposure of exactly those parts of haskell one wants the user to have access to. if there were some way to do that without forcing the user to learn a bunch of extra stuff seems good." ID="ID_164503848" CREATED="1449293656539" MODIFIED="1449293789547"/>
+<node TEXT="It is ?advanced to me. I&apos;m not worried about hiding things from the user; I&apos;m worried about making things for them." ID="ID_1594096672" CREATED="1449293802747" MODIFIED="1449293848539"/>
+</node>
+<node TEXT="power series in haskell, 12 lines of code, via ben" ID="ID_427332499" CREATED="1449033534897" MODIFIED="1449033541680"/>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -20125,8 +20141,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="the one means something ..." ID="ID_1627041490" CREATED="1424932430314" MODIFIED="1424932436780"/>
 </node>
 </node>
-<node TEXT="audio" ID="ID_894602041" CREATED="1416776189692" MODIFIED="1416778570065">
-<font BOLD="false"/>
+<node TEXT="audio" LOCALIZED_STYLE_REF="default" ID="ID_894602041" CREATED="1416776189692" MODIFIED="1450158074307">
 <node TEXT=".= server manip" ID="ID_1299469071" CREATED="1416080803554" MODIFIED="1416776774939">
 <font BOLD="false"/>
 </node>
@@ -23109,7 +23124,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="quit with q()" ID="ID_552246774" CREATED="1447268729911" MODIFIED="1447268732936"/>
 </node>
-<node TEXT="plots" ID="ID_1825372890" CREATED="1447297597071" MODIFIED="1447297864667">
+<node TEXT="plots" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1825372890" CREATED="1447297597071" MODIFIED="1449439590334">
 <node TEXT="save plot" ID="ID_893650296" CREATED="1447297607087" MODIFIED="1447297610821">
 <node TEXT="&gt; jpeg(&apos;rplot.jpg&apos;)&#xa;&gt; plot( runif(10), runif(10) )&#xa;&gt; abline(v=1/2)&#xa;&gt; dev.off()&#xa;X11cairo&#xa;       2&#xa;&gt;" ID="ID_1940717322" CREATED="1447297602463" MODIFIED="1447297603672"/>
 <node TEXT="the commands between jpeg() and dev.off() accrete into the picture" ID="ID_1810380346" CREATED="1447297613160" MODIFIED="1447297629415"/>

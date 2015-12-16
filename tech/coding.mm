@@ -15995,14 +15995,8 @@
 <node TEXT="rules, suggested interpretation | treatment, instructions to future self | reader | user,  in a body of text, explained where applicable with a measure of the distance from application to definition; punctuation, meanings of things like gold and starring chosen artlike, anticipating future specification" ID="ID_466637397" CREATED="1430786686659" MODIFIED="1430787415392"/>
 </node>
 <node TEXT="within a node a one-side paren is safe" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_424691331" CREATED="1449368609602" MODIFIED="1449368616717"/>
-<node TEXT="evid against econ" ID="ID_470695244" CREATED="1449368544210" MODIFIED="1449368559209">
-<node TEXT="we are made of something that comes like a comet, we can cooperate to catch more spirit, we do it a lot" ID="ID_1855290501" CREATED="1449368561569" MODIFIED="1449368580449">
-<node TEXT="esp. visib with marij" ID="ID_333039476" CREATED="1449381010769" MODIFIED="1449381023678"/>
 </node>
-<node TEXT="without v. beyond ) econ" ID="ID_1591333331" CREATED="1449368599850" MODIFIED="1449368604609"/>
-</node>
-</node>
-<node TEXT="file io +?" ID="ID_1249334944" CREATED="1449297012901" MODIFIED="1449297106350">
+<node TEXT="handy code snippets : file io +?" ID="ID_1249334944" CREATED="1449297012901" MODIFIED="1449383050931">
 <node TEXT="read file" ID="ID_451317805" CREATED="1449297054653" MODIFIED="1449297057308">
 <node TEXT="x &lt;- readFile &quot;temp/g1.txt&quot;" ID="ID_661281532" CREATED="1449297047228" MODIFIED="1449297047228"/>
 <node TEXT="let xg = read x :: Mindmap" ID="ID_1286089977" CREATED="1449297053062" MODIFIED="1449297054245"/>
@@ -16014,8 +16008,8 @@
 <node TEXT="g &lt;- pure $ insStr &quot;cat&quot; g" ID="ID_1325782618" CREATED="1449297097749" MODIFIED="1449297097749"/>
 </node>
 </node>
-</node>
-<node TEXT="parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_248551988" CREATED="1447974661144" MODIFIED="1447974664134">
+<node TEXT="beyond-progg work" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_417011139" CREATED="1449383090354" MODIFIED="1449383103350"/>
+<node TEXT="parsing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_248551988" CREATED="1447974661144" MODIFIED="1449387340022">
 <node TEXT="refs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1186718235" CREATED="1415041624700" MODIFIED="1449080011713">
 <node TEXT="which lib" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1274926504" CREATED="1449108361214" MODIFIED="1449108364945">
 <node TEXT="Parsec ? most popular" ID="ID_1257827121" CREATED="1415041622180" MODIFIED="1449108359508"/>
@@ -16525,14 +16519,34 @@
 <node TEXT="mapM_ putStrLn $ map show $ fromRight x" ID="ID_1779806512" CREATED="1449353462624" MODIFIED="1449353482672"/>
 </node>
 </node>
-<node TEXT="why can&apos;t I dollar these parens?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_413624575" CREATED="1449299523751" MODIFIED="1449299529026">
-<node TEXT="I spent a long time trying." ID="ID_1692746531" CREATED="1449299534911" MODIFIED="1449299542158"/>
-<node TEXT="    tMmTag = TestCase $ do&#xa;      assertBool &quot;parse mmTag&quot; $ eParse mmTag &quot;&lt;hi a=\&quot;1\&quot; bb =\&quot;22\&quot; &gt;&quot;&#xa;        == Right ( MmTag &quot;hi&quot;&#xa;                         ( Map.fromList [(&quot;a&quot;,&quot;1&quot;), (&quot;bb&quot;,&quot;22&quot;)] )&#xa;                         False )" ID="ID_1559448980" CREATED="1449299531823" MODIFIED="1449299532849"/>
+<node TEXT="times" ID="ID_1097659613" CREATED="1449430067108" MODIFIED="1449431105191">
+<font BOLD="true"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_248551988" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="Data.Time.Clock" ID="ID_1666174402" CREATED="1449460694667" MODIFIED="1449460697480"/>
+<node TEXT="data DiffTime :reps: fractional number of seconds" ID="ID_1233332535" CREATED="1449430094611" MODIFIED="1449430131037"/>
+<node TEXT="data UTCTime = UTCTime {utctDay :: Day,&#xa;                        utctDayTime :: DiffTime }" ID="ID_634195692" CREATED="1449430156406" MODIFIED="1449430195343"/>
+<node TEXT="secondsToDiffTime :: Integer -&gt; DiffTime" ID="ID_1521705958" CREATED="1449430221463" MODIFIED="1449430223385"/>
+<node TEXT="addUTCTime :: NominalDiffTime -&gt; UTCTime -&gt; UTCTime" ID="ID_743568925" CREATED="1449430248723" MODIFIED="1449430249888"/>
+<node TEXT="getCurrentTime :: IO UTCTime" ID="ID_1772820618" CREATED="1449430256522" MODIFIED="1449430257595"/>
+<node TEXT="fromGregorian :: Integer(year) -&gt; Int(month) -&gt; Int -&gt; Day" ID="ID_167750340" CREATED="1449430314512" MODIFIED="1449430327314"/>
 </node>
-<node TEXT="fgl" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1895169676" CREATED="1448697872822" MODIFIED="1448697874195">
-<node TEXT="ufold :: Graph gr =&gt; (Context a b -&gt; c -&gt; c) -&gt; c -&gt; gr a b -&gt; c" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_427682481" CREATED="1448697875023" MODIFIED="1448697897150"/>
+<node TEXT="&quot;the&quot; devnull ? connect nodes into it, don&apos;t read it" ID="ID_836205752" CREATED="1449818433045" MODIFIED="1449818452345"/>
+<node TEXT="write a &quot;chase all the way up&quot; function" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1608614364" CREATED="1449819385646" MODIFIED="1449819393597">
+<node TEXT="eliminates need to when parsing connect to root" ID="ID_1030550785" CREATED="1449819395861" MODIFIED="1449819410582"/>
 </node>
-<node TEXT="test in ghci: instantaneous" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1722240388" CREATED="1449298092870" MODIFIED="1449298117365"/>
+<node TEXT="use FGL&apos;s connected component routine" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_700125779" CREATED="1449819372238" MODIFIED="1449819438326">
+<node TEXT="so that when I import a bunch of files into one file, need not have the import proc connect them" ID="ID_754561229" CREATED="1449819439116" MODIFIED="1449819475019"/>
+</node>
+<node TEXT="share to haskell cafe" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1415190698" CREATED="1449819545246" MODIFIED="1449819549749"/>
+<node TEXT="the &quot;?&quot; symbol as unary rel" ID="ID_1621462377" CREATED="1449863538935" MODIFIED="1449863555686"/>
+<node TEXT="somehow in a too-long list (e.g. love/*), be able to subdivide it via coparents" ID="ID_1783599844" CREATED="1449990775852" MODIFIED="1449990824697"/>
+</node>
+<node TEXT="parser should connect input root to frame root" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_658567348" CREATED="1449725297844" MODIFIED="1449725312000"/>
+<node TEXT="chains in type names" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_919988679" CREATED="1449473905802" MODIFIED="1449473911154">
+<node TEXT="MlTag, TextTag, ArrowTag ..." ID="ID_461592410" CREATED="1449473912401" MODIFIED="1449473923944">
+<node TEXT="was first MlTag, MmText, MmArrow, which is much worse and I wish I could say quicker why" ID="ID_790623310" CREATED="1449473927306" MODIFIED="1449473942800"/>
+</node>
+</node>
 <node TEXT="I wish rather than desktops one constructed cycles among apps." POSITION="right" ID="ID_1649571315" CREATED="1449297224325" MODIFIED="1449297225507"/>
 <node TEXT="a complex Rel: [Rel] are the only [RelSpec]" POSITION="right" ID="ID_284962175" CREATED="1448952624324" MODIFIED="1448952674488">
 <node TEXT=". [] list" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1276063292" CREATED="1448952675759" MODIFIED="1448952682848"/>
@@ -17070,6 +17084,9 @@
 <node TEXT="biased toward|based on that many char per line" ID="ID_130912016" CREATED="1436604233237" MODIFIED="1436604243570"/>
 <node TEXT="from Aeson.hs/TH.hs" ID="ID_290691486" CREATED="1436604221597" MODIFIED="1436604247494"/>
 </node>
+<node TEXT="soc med (progg)" ID="ID_867308211" CREATED="1450224733098" MODIFIED="1450224741018">
+<node TEXT="sort users by frequency of post" ID="ID_1857218645" CREATED="1449989908696" MODIFIED="1449989912797"/>
+</node>
 </node>
 <node TEXT="study" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1445763959136">
 <node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
@@ -17081,6 +17098,7 @@
 <node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
 </node>
 </node>
+<node TEXT="fun : http://www.gnu.org/software/emacs/manual/html_node/emacs/Transpose.html" POSITION="right" ID="ID_787990582" CREATED="1449463650940" MODIFIED="1449463657001"/>
 <node TEXT="safety fluff" POSITION="right" ID="ID_197013996" CREATED="1447963017745" MODIFIED="1447963019368">
 <node TEXT="" ID="ID_877242808" CREATED="1447963019728" MODIFIED="1447963019728">
 <node TEXT="" ID="ID_867365799" CREATED="1447963020115" MODIFIED="1447963020115"/>
