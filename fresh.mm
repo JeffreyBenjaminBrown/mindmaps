@@ -6610,17 +6610,62 @@
 </node>
 <node TEXT="&quot;do I feel [lonely] in a way _ is not solving?&quot;" ID="ID_1334711599" CREATED="1449536948638" MODIFIED="1450225710051"/>
 </node>
+<node TEXT="15" ID="ID_1531604178" CREATED="1450238493950" MODIFIED="1450238495303">
+<node TEXT="carbon, burningness, a business" ID="ID_163530603" CREATED="1450238495685" MODIFIED="1450238500447">
+<node TEXT="the other side between reincarnations" ID="ID_545439105" CREATED="1450238503381" MODIFIED="1450238509187"/>
 </node>
-<node TEXT="ongoing" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_197909454" CREATED="1450077897518" MODIFIED="1450077900095">
-<node TEXT="haskell-cafe, &quot;doubts about functional ...&quot;" ID="ID_1123716875" CREATED="1450077646361" MODIFIED="1450077924511">
-<node TEXT="why functional code" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1695870645" CREATED="1450077647750" MODIFIED="1450077929595"/>
-<node TEXT="&lt;- resume at star" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_830767596" CREATED="1450077933450" MODIFIED="1450077943266"/>
-<node TEXT="type sigs become extremely informative" ID="ID_1596856940" CREATED="1450077655166" MODIFIED="1450077661057"/>
-<node TEXT="not that side effects are impossible, rather that they are isolable." ID="ID_1876205440" CREATED="1450077833483" MODIFIED="1450077843004"/>
+<node TEXT="[polar vortex] becomes more &quot;newsworthy&quot; in winter" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1154324112" CREATED="1450238915093" MODIFIED="1450238929796"/>
+<node TEXT="temp rise ~ chaos theory" ID="ID_323159475" CREATED="1450238955806" MODIFIED="1450238959910"/>
+<node TEXT="listening to snd of the two daily npr shows" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1116904812" CREATED="1450239042431" MODIFIED="1450239050384"/>
+<node TEXT="&quot;not predictable at long lead times&quot; ~ &quot;not human&quot;" ID="ID_1679570631" CREATED="1450238991190" MODIFIED="1450238999841">
+<node TEXT="first is npr quote" ID="ID_371157155" CREATED="1450239003254" MODIFIED="1450239006316"/>
+</node>
+<node TEXT="body singing &quot;you will respect me&quot; to [mind]" ID="ID_1152741029" CREATED="1450239249566" MODIFIED="1450239267188"/>
+<node TEXT="different medicine, aztec v. _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1863623848" CREATED="1450239355350" MODIFIED="1450239370940"/>
+<node TEXT="underrep moinorts, imag space" ID="ID_34254539" CREATED="1450239386374" MODIFIED="1450239398334"/>
+<node TEXT="fart(v) freedom of _ for you" ID="ID_776616637" CREATED="1450239451334" MODIFIED="1450239494955"/>
+<node TEXT="dolphin proving to you it swims through death" ID="ID_990364028" CREATED="1450239525342" MODIFIED="1450239534061">
+<node TEXT="by for you dying in your arms, incompatible, elsewhere" ID="ID_1159784423" CREATED="1450239539550" MODIFIED="1450239546998"/>
+</node>
+<node TEXT="cycle union(labor)" ID="ID_778116388" CREATED="1450239700566" MODIFIED="1450239703479"/>
+<node TEXT="easy, personal, solved problems ~ pain" ID="ID_55672240" CREATED="1450240109375" MODIFIED="1450240123245">
+<node TEXT="?the rational pain" ID="ID_77831692" CREATED="1450240150015" MODIFIED="1450240158124"/>
+</node>
+<node TEXT="? just keep data" ID="ID_275660830" CREATED="1450250204427" MODIFIED="1450250211974">
+<node TEXT="feel owed" ID="ID_301769682" CREATED="1450250213145" MODIFIED="1450250214632"/>
 </node>
 </node>
-<node TEXT="alien, dwt feat scan" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1489197164" CREATED="1449820993119" MODIFIED="1449821000611">
-<node TEXT="list all rels from node" ID="ID_1653410718" CREATED="1449821004599" MODIFIED="1449821007420"/>
+<node TEXT="16" ID="ID_220187911" CREATED="1450308371729" MODIFIED="1450308372326">
+<node TEXT="st 1" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1786114094" CREATED="1450322116703" MODIFIED="1450322121868"/>
+<node TEXT="dangerous to think you know what people are like" ID="ID_1705943584" CREATED="1450308354640" MODIFIED="1450308360126">
+<node TEXT="pessim" ID="ID_181663263" CREATED="1450308360768" MODIFIED="1450308363350"/>
+</node>
+<node TEXT="? who art" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1694745450" CREATED="1450308752993" MODIFIED="1450308758230"/>
+<node TEXT="&quot;has|have _ changed?&quot;" ID="ID_1137359148" CREATED="1450308844873" MODIFIED="1450308857459"/>
+<node TEXT="housekeeper and child watched tv in the daytime" ID="ID_1059714682" CREATED="1450308954145" MODIFIED="1450311653914"/>
+<node TEXT="love an inferior" ID="ID_119398741" CREATED="1450308993553" MODIFIED="1450308996313">
+<node TEXT="yuck" ID="ID_1020899708" CREATED="1450308997176" MODIFIED="1450308998799"/>
+<node TEXT="who left this for me" ID="ID_1151675868" CREATED="1450308999025" MODIFIED="1450309002687"/>
+<node TEXT="could you not see the oppor" ID="ID_886604359" CREATED="1450309018849" MODIFIED="1450309031992"/>
+</node>
+<node TEXT="st 2" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1126796351" CREATED="1450322114407" MODIFIED="1450322121328"/>
+<node TEXT="to like people but not at a distance|generally" ID="ID_1172093987" CREATED="1450322093807" MODIFIED="1450322105209"/>
+<node TEXT="noverbal (devnull?) for\ transc" ID="ID_1637934351" CREATED="1450322643440" MODIFIED="1450322673057"/>
+<node TEXT="3" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_424129161" CREATED="1450333327265" MODIFIED="1450333328677"/>
+<node TEXT="no move yet, still building characters" ID="ID_1956406474" CREATED="1450333322042" MODIFIED="1450333326607"/>
+<node TEXT="&quot;get in line, brother&quot;" ID="ID_1231872995" CREATED="1450333849625" MODIFIED="1450333853032"/>
+<node TEXT="beauty as charity" ID="ID_811924947" CREATED="1450334144177" MODIFIED="1450334147705"/>
+<node TEXT="don&apos;t let them know they want you" ID="ID_1672415746" CREATED="1450334508354" MODIFIED="1450334513586"/>
+</node>
+<node TEXT="do" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_253250668" CREATED="1450240959816" MODIFIED="1450240962050">
+<node TEXT="two seqs from a random seq, add the third note" ID="ID_359562866" CREATED="1450240965032" MODIFIED="1450240981214"/>
+<node TEXT="phone before facebook" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_779823407" CREATED="1450334021769" MODIFIED="1450334025391"/>
+</node>
+<node TEXT="keep" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1546222541" CREATED="1450240265759" MODIFIED="1450240267834">
+<node TEXT="potatoes: throw, cool, lean" ID="ID_688587846" CREATED="1450240277319" MODIFIED="1450240444295">
+<node TEXT="cool between; lean on it removing them, throw in" ID="ID_501330549" CREATED="1450240390262" MODIFIED="1450240424045"/>
+</node>
+</node>
 </node>
 <node TEXT="how important are dates? how binding is the speed constraint?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1490912215" CREATED="1449656094199" MODIFIED="1449656113324">
 <node TEXT="test without dates, see if is fast" ID="ID_1563726489" CREATED="1449656114578" MODIFIED="1449656119473"/>
