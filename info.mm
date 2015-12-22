@@ -649,10 +649,6 @@
 <node TEXT="regret" ID="ID_116059580" CREATED="1441959243834" MODIFIED="1441959244617">
 <node TEXT="irrationality, hangovers" ID="ID_776997994" CREATED="1441959237298" MODIFIED="1441959243624"/>
 </node>
-<node TEXT="pessim + (comm)feedback = disaster" ID="ID_917641224" CREATED="1441959413498" MODIFIED="1444074587231">
-<node TEXT="romeo and juliet" ID="ID_1550366491" CREATED="1441959402074" MODIFIED="1441959405616"/>
-<node TEXT="see also &quot;history.mm/2015 07 05-12, sick soc cyc&quot;" ID="ID_1697164351" CREATED="1441959441874" MODIFIED="1441959448984"/>
-</node>
 <node TEXT="alone-together cyc" ID="ID_1522184547" CREATED="1444074642582" MODIFIED="1444074646573">
 <node TEXT="more than two states; a varied spectrum, if not continuous" ID="ID_1648418492" CREATED="1444074651724" MODIFIED="1444074687084"/>
 </node>
@@ -895,7 +891,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -909,12 +904,6 @@
 <node TEXT="how a list&apos;s work|purpose initially is in itself, accumulation, but later beyond itself: fun metaph for systems generally" ID="ID_332059703" CREATED="1449379556593" MODIFIED="1449379606174">
 <node TEXT="was: ? the goal of a list should soon be to stop accum" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1166454775" CREATED="1433144811863" MODIFIED="1449379613801"/>
 </node>
-</node>
-<node TEXT="comm ?&amp; ineffable" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_811814931" CREATED="1449379693321" MODIFIED="1449379715308">
-<node TEXT="godel : don&apos;t write about ineffability, it&apos;s boring to others" LOCALIZED_STYLE_REF="default" ID="ID_155872941" CREATED="1433730498499" MODIFIED="1449379725127">
-<node TEXT="? yeats" ID="ID_650110532" CREATED="1449379676552" MODIFIED="1449379679934"/>
-</node>
-<node TEXT="? angst mistaking itself for better" ID="ID_852436710" CREATED="1449379731481" MODIFIED="1449379759093"/>
 </node>
 <node TEXT="the rich and the beautiful both just the beautiful" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1297019864" CREATED="1434054020450" MODIFIED="1449379856848">
 <font BOLD="false"/>
@@ -2082,12 +2071,6 @@
 </node>
 </node>
 <node TEXT="? oppor: creative neutrality" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_80868843" CREATED="1417761992196" MODIFIED="1437638812147"/>
-<node TEXT="beep like &quot;that&apos;s not a thing&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_227964418" CREATED="1423549548926" MODIFIED="1437638836060">
-<node TEXT=".mainwhere" ID="ID_1410958027" CREATED="1424578709109" MODIFIED="1424578755700">
-<node TEXT="comm" ID="ID_864852492" CREATED="1424578759877" MODIFIED="1424578761007"/>
-</node>
-<node TEXT="at a keyboard shortcut" ID="ID_263947269" CREATED="1423549555919" MODIFIED="1423549560247"/>
-</node>
 </node>
 <node TEXT="? deleter" ID="ID_549148508" CREATED="1424145176522" MODIFIED="1424211262022">
 <node TEXT="misperceptions, early partial understgs, discarded" ID="ID_1496590806" CREATED="1424583419399" MODIFIED="1424583435610">

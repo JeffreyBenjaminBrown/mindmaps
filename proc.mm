@@ -648,9 +648,6 @@
 <node TEXT="self-referential inside jokes" ID="ID_1296850842" CREATED="1428382371518" MODIFIED="1428382377124"/>
 </node>
 <node TEXT="tool v. goal" ID="ID_326572653" CREATED="1428382705870" MODIFIED="1428382713557"/>
-<node TEXT="silly of me to develop more rep to the neglect of comm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1539875832" CREATED="1428346691352" MODIFIED="1428384861160">
-<node TEXT="we have so much already; use it" ID="ID_1137582762" CREATED="1428346716664" MODIFIED="1428346721774"/>
-</node>
 <node TEXT="&quot;straighten up&quot;" ID="ID_332963872" CREATED="1428386461795" MODIFIED="1428386468241"/>
 <node TEXT="self-referential, using too many of its own words" ID="ID_116314311" CREATED="1427584614189" MODIFIED="1427584622418"/>
 <node TEXT="specul without feedback: harmful" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1376910570" CREATED="1423628755071" MODIFIED="1444267767760">

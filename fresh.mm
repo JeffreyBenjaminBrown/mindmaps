@@ -6657,6 +6657,24 @@
 <node TEXT="beauty as charity" ID="ID_811924947" CREATED="1450334144177" MODIFIED="1450334147705"/>
 <node TEXT="don&apos;t let them know they want you" ID="ID_1672415746" CREATED="1450334508354" MODIFIED="1450334513586"/>
 </node>
+<node TEXT="19" ID="ID_275140354" CREATED="1450555499174" MODIFIED="1450557344809">
+<node TEXT="demonize, attribute the bad to, really a personal, internal exercise" ID="ID_1561670093" CREATED="1450555500789" MODIFIED="1450555515721">
+<node TEXT="burning man" ID="ID_474480851" CREATED="1450555517588" MODIFIED="1450555519274"/>
+</node>
+<node TEXT="attribute smarts" ID="ID_305184876" CREATED="1450555922991" MODIFIED="1450555925454"/>
+<node TEXT="_ seeing _ screen calls?" ID="ID_1633759768" CREATED="1450557313821" MODIFIED="1450557331887"/>
+<node TEXT="&quot;yes but the people are realer to me&quot; while alone" ID="ID_177157799" CREATED="1450557662246" MODIFIED="1450557671332"/>
+</node>
+<node TEXT="21" ID="ID_1340478765" CREATED="1450747457193" MODIFIED="1450747457792">
+<node TEXT="&quot;I would be in a world of hurt.&quot; &quot;In a world? Sign me up!&quot;" ID="ID_152980161" CREATED="1450747440573" MODIFIED="1450747452541"/>
+<node TEXT="call back fast because they want to feel like they win you" ID="ID_1889002065" CREATED="1450748742958" MODIFIED="1450748750909"/>
+<node TEXT="must recog too high ?before see how climb down" ID="ID_769811426" CREATED="1450749563534" MODIFIED="1450749590764"/>
+<node TEXT="? don&apos;t have time for famous people" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1380457311" CREATED="1450750934639" MODIFIED="1450750941693"/>
+</node>
+<node TEXT="temp ? here" ID="ID_1332806473" CREATED="1450748086262" MODIFIED="1450748091793"/>
+<node TEXT="don&apos;t give raw data to people, rather proposals" ID="ID_580107153" CREATED="1450748010222" MODIFIED="1450748017644">
+<node TEXT="report v. cocreat" ID="ID_613564074" CREATED="1450748028190" MODIFIED="1450748038135"/>
+</node>
 <node TEXT="do" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_253250668" CREATED="1450240959816" MODIFIED="1450240962050">
 <node TEXT="two seqs from a random seq, add the third note" ID="ID_359562866" CREATED="1450240965032" MODIFIED="1450240981214"/>
 <node TEXT="phone before facebook" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_779823407" CREATED="1450334021769" MODIFIED="1450334025391"/>
@@ -6669,6 +6687,12 @@
 </node>
 <node TEXT="how important are dates? how binding is the speed constraint?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1490912215" CREATED="1449656094199" MODIFIED="1449656113324">
 <node TEXT="test without dates, see if is fast" ID="ID_1563726489" CREATED="1449656114578" MODIFIED="1449656119473"/>
+</node>
+<node TEXT="neuro" POSITION="right" ID="ID_1511419214" CREATED="1450414103456" MODIFIED="1450414104575">
+<node TEXT="skinner pigeon dance" ID="ID_1752759378" CREATED="1450414105204" MODIFIED="1450414109650"/>
+<node TEXT="conf bias" ID="ID_1624196403" CREATED="1450414460003" MODIFIED="1450414465239">
+<node TEXT="try yo prove not disprove" ID="ID_175578039" CREATED="1450414468045" MODIFIED="1450414484028"/>
+</node>
 </node>
 </node>
 </map>

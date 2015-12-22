@@ -56,7 +56,6 @@
 </stylenode>
 </map_styles>
 </hook>
-
 <node TEXT="study|writing ideas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1162232733" CREATED="1441923374078" MODIFIED="1441923378307">
 <node TEXT="gatherings: count them" LOCALIZED_STYLE_REF="default" ID="ID_1610189606" CREATED="1441922126650" MODIFIED="1441923360445"/>
 </node>
@@ -101,7 +100,6 @@
   </body>
 </html>
 </richcontent>
-
 <node TEXT="how often to post online" ID="ID_1885275786" CREATED="1437259728307" MODIFIED="1437259741285"/>
 </node>
 <node TEXT="info minimization" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_772662525" CREATED="1437260690708" MODIFIED="1437260702312"/>
@@ -886,12 +884,6 @@
 </node>
 <node TEXT="? xeno&apos;s paradox: share how" ID="ID_1569938973" CREATED="1433619505702" MODIFIED="1437274803251">
 <node TEXT="I keep getting closer to her, and I like that a lot." LOCALIZED_STYLE_REF="default" ID="ID_868814593" CREATED="1433619469534" MODIFIED="1437274739444"/>
-</node>
-</node>
-<node TEXT="comm" ID="ID_1565648000" CREATED="1437275685034" MODIFIED="1437275686008">
-<node TEXT="content &gt; lang" ID="ID_1330472907" CREATED="1437292199945" MODIFIED="1437292216999">
-<node TEXT="don&apos;t overedit" ID="ID_704676537" CREATED="1437292224185" MODIFIED="1437292232455"/>
-<node TEXT="it doesn&apos;t have to be the perfect message, rather content" ID="ID_870627197" CREATED="1435960708345" MODIFIED="1435960716544"/>
 </node>
 </node>
 <node TEXT="love bond" ID="ID_315021495" CREATED="1437699289555" MODIFIED="1437699291622">
