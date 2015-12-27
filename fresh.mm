@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" background="#fff9d3" zoom="1.24">
+<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" background="#fff9d3" zoom="1.127">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -6671,8 +6671,17 @@
 <node TEXT="must recog too high ?before see how climb down" ID="ID_769811426" CREATED="1450749563534" MODIFIED="1450749590764"/>
 <node TEXT="? don&apos;t have time for famous people" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1380457311" CREATED="1450750934639" MODIFIED="1450750941693"/>
 </node>
-<node TEXT="temp ? here" ID="ID_1332806473" CREATED="1450748086262" MODIFIED="1450748091793"/>
-<node TEXT="don&apos;t give raw data to people, rather proposals" ID="ID_580107153" CREATED="1450748010222" MODIFIED="1450748017644">
+<node TEXT="22" ID="ID_55463475" CREATED="1450852614078" MODIFIED="1450852614836">
+<node TEXT="I want to be computers, but I also want to lie in the grass, feel the sun and wind, throw ropes, tumble cuboids ..." ID="ID_1875594706" CREATED="1450252417604" MODIFIED="1450252469257"/>
+</node>
+<node TEXT="24" ID="ID_1206355764" CREATED="1451029530299" MODIFIED="1451029530821">
+<node TEXT="second amendment, positives : fun, fantasy, and a little safety" ID="ID_1238812104" CREATED="1451029513558" MODIFIED="1451029565209">
+<node TEXT="almost FBd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1962935302" CREATED="1451029577075" MODIFIED="1451029582759"/>
+<node TEXT="The gains to society from the Second Amendment are, as far as I can tell, two: Fun (gun ranges, animal death sports) and fantasy (&quot;so that we can fight the government if we have to&quot;). Right?" ID="ID_1432952908" CREATED="1451029277382" MODIFIED="1451029395903"/>
+<node TEXT="no, there&apos;s also a safety benefit, in certain contexts. But most of the safety benefit is fantasy." ID="ID_953529605" CREATED="1451029496086" MODIFIED="1451029511275"/>
+</node>
+</node>
+<node TEXT="? don&apos;t give raw data to people, rather proposals" ID="ID_580107153" CREATED="1450748010222" MODIFIED="1450852628476">
 <node TEXT="report v. cocreat" ID="ID_613564074" CREATED="1450748028190" MODIFIED="1450748038135"/>
 </node>
 <node TEXT="do" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_253250668" CREATED="1450240959816" MODIFIED="1450240962050">
@@ -6685,13 +6694,13 @@
 </node>
 </node>
 </node>
-<node TEXT="how important are dates? how binding is the speed constraint?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1490912215" CREATED="1449656094199" MODIFIED="1449656113324">
+<node TEXT="how important are dates? how binding is the speed constraint?" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1490912215" CREATED="1449656094199" MODIFIED="1450850938981">
 <node TEXT="test without dates, see if is fast" ID="ID_1563726489" CREATED="1449656114578" MODIFIED="1449656119473"/>
 </node>
 <node TEXT="neuro" POSITION="right" ID="ID_1511419214" CREATED="1450414103456" MODIFIED="1450414104575">
 <node TEXT="skinner pigeon dance" ID="ID_1752759378" CREATED="1450414105204" MODIFIED="1450414109650"/>
 <node TEXT="conf bias" ID="ID_1624196403" CREATED="1450414460003" MODIFIED="1450414465239">
-<node TEXT="try yo prove not disprove" ID="ID_175578039" CREATED="1450414468045" MODIFIED="1450414484028"/>
+<node TEXT="try to prove but not disprove" ID="ID_175578039" CREATED="1450414468045" MODIFIED="1451158214189"/>
 </node>
 </node>
 </node>

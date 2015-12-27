@@ -16854,6 +16854,32 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="It is ?advanced to me. I&apos;m not worried about hiding things from the user; I&apos;m worried about making things for them." ID="ID_1594096672" CREATED="1449293802747" MODIFIED="1449293848539"/>
 </node>
 <node TEXT="power series in haskell, 12 lines of code, via ben" ID="ID_427332499" CREATED="1449033534897" MODIFIED="1449033541680"/>
+<node TEXT="?" ID="ID_346878608" CREATED="1436482250783" MODIFIED="1451162608658">
+<node TEXT="not cruc I hope" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_535494016" CREATED="1434520470249" MODIFIED="1436482273839"/>
+<node TEXT="Node = Either Stmt Rel" ID="ID_17022218" CREATED="1435518415987" MODIFIED="1435518435133">
+<node TEXT="gmail thread" ID="ID_1259820195" CREATED="1435520204574" MODIFIED="1435520213093">
+<node TEXT="https://mail.google.com/mail/u/0/#search/haskell/14e0c8240b300076" ID="ID_1921127118" CREATED="1435520203460" MODIFIED="1435520203460" LINK="https://mail.google.com/mail/u/0/#search/haskell/14e0c8240b300076"/>
+</node>
+<node ID="ID_1568120070" CREATED="1435520222466" MODIFIED="1435520222466"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="margin-bottom: 0px; margin-left: 0px; text-indent: 0px; margin-right: 0px; margin-top: 0px">
+      DataTypesALaCarte.pdf
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="downloaded" ID="ID_20027757" CREATED="1435520224678" MODIFIED="1435520226077"/>
+</node>
+</node>
+<node TEXT="recursive data + laziness = freak" ID="ID_1147067675" CREATED="1434175836266" MODIFIED="1434175849232">
+<node TEXT="https://wiki.haskell.org/Tying_the_Knot" ID="ID_587360307" CREATED="1434175850165" MODIFIED="1434175850165" LINK="https://wiki.haskell.org/Tying_the_Knot"/>
+</node>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -18627,8 +18653,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
