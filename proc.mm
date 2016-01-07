@@ -1143,6 +1143,14 @@
 <node TEXT="pin someone down to see through them" ID="ID_206297139" CREATED="1440126190120" MODIFIED="1440126196681">
 <node TEXT="?only to" ID="ID_405674272" CREATED="1440126197368" MODIFIED="1440126200096"/>
 </node>
+<node TEXT="2016 01 06" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_486466578" CREATED="1452156114820" MODIFIED="1452156118428"/>
+<node TEXT="when do you look at a|which picture" ID="ID_1005590307" CREATED="1451879427751" MODIFIED="1451879576988">
+<node TEXT="whose picture" ID="ID_1755496238" CREATED="1451879447151" MODIFIED="1451879448775"/>
+<node TEXT="am always two procs: sensory input and internal proc" ID="ID_995116008" CREATED="1451879456455" MODIFIED="1451879472469">
+<node TEXT="and third, output, action; I wrote that one graph-lower because looking at a picture does not imply it" ID="ID_1228104321" CREATED="1451879530710" MODIFIED="1451879560495"/>
+</node>
+<node TEXT="cloven personality, observer and actor" ID="ID_707453252" CREATED="1451879507687" MODIFIED="1451879519811"/>
+</node>
 </node>
 </node>
 </map>
