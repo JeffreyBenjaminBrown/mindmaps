@@ -7165,28 +7165,87 @@
 </node>
 </node>
 </node>
-<node TEXT="mus" ID="ID_667021029" CREATED="1452151252051" MODIFIED="1452151253199">
-<node TEXT="0 1 (0_ 7_ 4)&#xa;1 11 (0_ 6_ 11_)" ID="ID_766659750" CREATED="1452151346698" MODIFIED="1452151378491">
-<node TEXT="space seq, paren concurrent" ID="ID_1870573315" CREATED="1452151381885" MODIFIED="1452151421337"/>
-<node TEXT="prog it" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1929025270" CREATED="1452151644261" MODIFIED="1452151650295">
-<node TEXT="prog = divide into procs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_223258993" CREATED="1452151644261" MODIFIED="1452151678146">
-<node TEXT="^parent is dup" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_325638337" CREATED="1452151687199" MODIFIED="1452151705673"/>
+<node TEXT="2016 01 07" LOCALIZED_STYLE_REF="default" ID="ID_334258104" CREATED="1452225090118" MODIFIED="1452239882592">
+<node TEXT="think, share things about [person] before their [election] is passed" ID="ID_457279653" CREATED="1452220464135" MODIFIED="1452220494058">
+<node TEXT="vote ~ boat, don&apos;t miss" ID="ID_1584703662" CREATED="1452220497726" MODIFIED="1452220505910"/>
+</node>
+<node TEXT="&quot;I was busted for feeling no pain&quot; --Springsteen" ID="ID_617075849" CREATED="1452222149797" MODIFIED="1452239552747"/>
+<node TEXT="&quot;Here are tonight&apos;s top stories.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1713620102" CREATED="1452222299573" MODIFIED="1452222306597"/>
+<node TEXT="as one having it, share a fantasy to those who don&apos;t" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1376159053" CREATED="1452239575209" MODIFIED="1452239590240">
+<node TEXT="if you sang about how great it was, without considering why, sharing dreams of cars and baseball and industry, having been born into wealth" ID="ID_596485617" CREATED="1452223498596" MODIFIED="1452223538845"/>
+</node>
+<node TEXT="read about the racial decomp of a country" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1782934640" CREATED="1452224870242" MODIFIED="1452224877036"/>
+<node TEXT="? who should I be connected to" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_863388274" CREATED="1452233522911" MODIFIED="1452233533002">
+<node TEXT="is main; keep tag if change" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1791564506" CREATED="1452239633193" MODIFIED="1452239643823"/>
+</node>
+<node TEXT="aimless, comic" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_75746576" CREATED="1452239682233" MODIFIED="1452239687093">
+<node TEXT="inflate, balloon-turgidity; pride, bold intuition" ID="ID_1543550373" CREATED="1452233753072" MODIFIED="1452233772100">
+<node TEXT="something about how an inflating surface seeks a position, can flop around within a shrinking space on its way toward" ID="ID_919504395" CREATED="1452233784335" MODIFIED="1452233816474"/>
+</node>
+</node>
+<node TEXT="perhaps my body is telling me I should try to relax" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_210940265" CREATED="1452233915433" MODIFIED="1452233923047">
+<node TEXT="is telling me via pulse too high" ID="ID_997221692" CREATED="1452233923783" MODIFIED="1452233937166"/>
+</node>
+<node TEXT="&quot;is effectively|(usefully interpreted as) communication&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_205475443" CREATED="1452233945608" MODIFIED="1452239715045">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_210940265" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="cc (quantity) makes a linear path through the space of 3d sizes, kind of" ID="ID_670923984" CREATED="1452234384055" MODIFIED="1452234412496">
+<node TEXT="it" ID="ID_1214315207" CREATED="1452234546248" MODIFIED="1452234551775">
+<node TEXT="1 cc = 1 cm on a side" ID="ID_1516086113" CREATED="1452234414887" MODIFIED="1452234428104"/>
+<node TEXT="10 cc = 10 of those as a row" ID="ID_411243358" CREATED="1452234428304" MODIFIED="1452234515311">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1516086113" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="100 cc = 10 of those rows as a sheet" ID="ID_1327569203" CREATED="1452234433104" MODIFIED="1452234516439">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_411243358" STARTINCLINATION="106;0;" ENDINCLINATION="106;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="1000 cc = 10 cm on a side" ID="ID_1471048574" CREATED="1452234439319" MODIFIED="1452234445367"/>
+<node TEXT="10K cc = 10 of those" ID="ID_1943951050" CREATED="1452234445768" MODIFIED="1452234512202">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1471048574" STARTINCLINATION="70;0;" ENDINCLINATION="70;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="100K cc = 10 of those" ID="ID_10109833" CREATED="1452234518136" MODIFIED="1452234524559">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1943951050" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="1M cc = 1 m on a side" ID="ID_1951133135" CREATED="1452234528024" MODIFIED="1452234535558"/>
+</node>
+<node TEXT="easier ? take square, cube roots" ID="ID_1110561523" CREATED="1452234553032" MODIFIED="1452234594988"/>
+</node>
+<node TEXT="if I ask what is it you most look forward to, and someone says money, be happy" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1138341496" CREATED="1452234756968" MODIFIED="1452234770149"/>
+<node TEXT="? definition of energy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_157828459" CREATED="1452234271072" MODIFIED="1452234275657"/>
+<node TEXT="trio, root 3, root 4, root 6" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_32555279" CREATED="1452235820426" MODIFIED="1452235827425">
+<node TEXT="right triangle" ID="ID_1783538544" CREATED="1452235828496" MODIFIED="1452235830984"/>
+<node TEXT="~ inaccurate analogy" ID="ID_427245997" CREATED="1452235863208" MODIFIED="1452235868152">
+<node TEXT="squared, not square roots, is the triangle theorem" ID="ID_1766393315" CREATED="1452235868805" MODIFIED="1452235876992"/>
+</node>
+</node>
+<node TEXT="epist" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1219008496" CREATED="1452236159336" MODIFIED="1452236164713">
+<node TEXT="~ devnull" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1271880572" CREATED="1452239804185" MODIFIED="1452239808076"/>
+<node TEXT="when to move from data to proof" ID="ID_289856716" CREATED="1452236118312" MODIFIED="1452236130219"/>
+<node TEXT="hold data one has no pattern|explanation for" ID="ID_641431010" CREATED="1452236146520" MODIFIED="1452236155171"/>
+<node TEXT="strict(v. lazy) skept: if unsure of *, try the other" ID="ID_285481595" CREATED="1452225099476" MODIFIED="1452239619725">
+<node ID="ID_813065607" CREATED="1452225119273" MODIFIED="1452225119273"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      what is believed best way
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node TEXT="bass dim, treble aug, two monophonic voices" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_674536753" CREATED="1452151771476" MODIFIED="1452151795981">
-<node TEXT="each of which usually moves exactly +1 or -1 in its scale, both moving at once" ID="ID_1731803708" CREATED="1452151799014" MODIFIED="1452151825825"/>
-<node TEXT="the minor 9ths are nice" ID="ID_1993433073" CREATED="1452151911917" MODIFIED="1452151921708"/>
-<node TEXT="how to skip the minor 9ths" ID="ID_1441155798" CREATED="1452151921896" MODIFIED="1452151926719">
-<node TEXT="don&apos;t skip, invert voices" ID="ID_317022735" CREATED="1452151931049" MODIFIED="1452151957915"/>
+<node TEXT="https://vimeo.com/18216532" ID="ID_1790223527" CREATED="1452237268636" MODIFIED="1452237268636" LINK="https://vimeo.com/18216532"/>
+<node TEXT="next-gen conseqs of tired teachers, researchers" ID="ID_1720205301" CREATED="1452236528328" MODIFIED="1452236539863">
+<node TEXT="&quot;almost all professors were tired&quot; --shimuri" ID="ID_1658462936" CREATED="1452239832489" MODIFIED="1452239846263">
+<node TEXT="of 1940s-50s Japan" ID="ID_1005681874" CREATED="1452239847841" MODIFIED="1452239856618"/>
 </node>
 </node>
-<node TEXT="3 4 6 7 10" ID="ID_624661771" CREATED="1452152132429" MODIFIED="1452152136137">
-<node TEXT="4 dim &apos;(0 dim)" ID="ID_1682253189" CREATED="1452152046624" MODIFIED="1452152055482">
-<node TEXT="dim triad, that is" ID="ID_300245892" CREATED="1452152058686" MODIFIED="1452152064354"/>
-<node TEXT="= 4 7 10 3 6" ID="ID_1736380323" CREATED="1452152068857" MODIFIED="1452152074276"/>
-</node>
-<node TEXT="0M &apos;3M" ID="ID_768626406" CREATED="1452152140654" MODIFIED="1452152155672"/>
+<node TEXT="&quot;I only had time for [this?] problem and my family.&quot;" ID="ID_867109008" CREATED="1452237251569" MODIFIED="1452237267664">
+<node TEXT="-- andrew wiles" ID="ID_324449881" CREATED="1452237269176" MODIFIED="1452239827183"/>
 </node>
 </node>
 </node>

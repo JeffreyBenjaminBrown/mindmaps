@@ -16563,6 +16563,10 @@
 </node>
 </node>
 </node>
+<node TEXT="2016 01 07" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_176364765" CREATED="1452239782018" MODIFIED="1452239940150"/>
+<node TEXT="&quot;find nearest ancestor of both something with [fermat&apos;s] and [parker] with any capitalization&quot;" ID="ID_49798345" CREATED="1452235258856" MODIFIED="1452235296319">
+<node TEXT="the smallest branch having both" ID="ID_671713543" CREATED="1452235297135" MODIFIED="1452235314631"/>
+</node>
 </node>
 <node TEXT="tidal-graph" POSITION="right" ID="ID_575778269" CREATED="1451847990772" MODIFIED="1451847993250">
 <font BOLD="true"/>
