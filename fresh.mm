@@ -7417,6 +7417,11 @@
 <node TEXT="imagine saying I love you to anyone" ID="ID_1836559603" CREATED="1452494397536" MODIFIED="1452494404182"/>
 <node TEXT="identity ~ being" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_897253558" CREATED="1452494718360" MODIFIED="1452494724340"/>
 </node>
+<node TEXT="11" ID="ID_326304710" CREATED="1452543792809" MODIFIED="1452543793176">
+<node TEXT="lazy courage? not retreat from a space without reason" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1523954185" CREATED="1425086724620" MODIFIED="1452543782988">
+<node TEXT="is main, has dup" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_694349981" CREATED="1452543803672" MODIFIED="1452543810941"/>
+</node>
+</node>
 </node>
 </node>
 </map>

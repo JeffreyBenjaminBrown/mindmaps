@@ -74,22 +74,9 @@
 <node TEXT="beliefs, models : info &amp; inputs to info proc" ID="ID_927541851" CREATED="1435544135912" MODIFIED="1440128560790"/>
 <node TEXT="prefs, goals : info procs" ID="ID_300466152" CREATED="1435544139184" MODIFIED="1440128571198">
 <node TEXT="are partial" ID="ID_656973107" CREATED="1440128463002" MODIFIED="1449818615682">
-<node ID="ID_773977739" CREATED="1449818616154" MODIFIED="1449818616154"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      they help determine output but are not output
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="this mitigates that" ID="ID_981967488" CREATED="1449818623613" MODIFIED="1449818633198">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_773977739" STARTINCLINATION="327;0;" ENDINCLINATION="327;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="they help determine output but are not output" ID="ID_725818823" CREATED="1452542960664" MODIFIED="1452542962184"/>
+<node TEXT="this mitigates that" ID="ID_981967488" CREATED="1449818623613" MODIFIED="1452542966139">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_725818823" STARTINCLINATION="335;0;" ENDINCLINATION="335;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="there are complete processes the output of which is a pref or a goal, but those processes are smaller than|members of an agent" ID="ID_1998917142" CREATED="1449818617100" MODIFIED="1449818692143"/>
 </node>
 </node>
