@@ -1550,17 +1550,19 @@
 </node>
 </node>
 </node>
-<node TEXT="2015 03 19" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1424803890" CREATED="1441393352897" MODIFIED="1441393356309"/>
+<node TEXT="2015 03 19" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1424803890" CREATED="1441393352897" MODIFIED="1441393356309">
 <node TEXT="reverse materialization" ID="ID_1380929094" CREATED="1426818070696" MODIFIED="1426818073972">
 <node TEXT="the low temporary leaps into the high permanent, more accurately into the ideal" ID="ID_50131145" CREATED="1426818007976" MODIFIED="1426818054647"/>
 </node>
 <node TEXT="local causality" ID="ID_406597074" CREATED="1426818100024" MODIFIED="1426818102780"/>
-<node TEXT="2015 08 04" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1470149307" CREATED="1438148310558" MODIFIED="1438756918306"/>
+</node>
+<node TEXT="2015 08 04" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1470149307" CREATED="1438148310558" MODIFIED="1438756918306">
 <node TEXT="&quot;exactly some do&quot; quantifies the reality of a condition" ID="ID_1228409726" CREATED="1438754891921" MODIFIED="1438756875923"/>
 <node TEXT="aimless &amp; pretty; art" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_740846356" CREATED="1438756955451" MODIFIED="1438757002919">
 <node TEXT="&quot;I think _ makes me a better person&quot; growing like a plant" ID="ID_28799958" CREATED="1438056110434" MODIFIED="1438756940387"/>
 </node>
-<node TEXT="08 11" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_915274424" CREATED="1439320472763" MODIFIED="1439320475303"/>
+</node>
+<node TEXT="08 11" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_915274424" CREATED="1439320472763" MODIFIED="1439320475303">
 <node TEXT="ice font will look like sarcasm" ID="ID_502646385" CREATED="1439255744052" MODIFIED="1439255751793">
 <node TEXT="e.g. &quot;is not to say very likely&quot;" ID="ID_1931840396" CREATED="1439255754499" MODIFIED="1439255759697"/>
 </node>
@@ -1575,7 +1577,8 @@
 </node>
 <node TEXT="a (trailing?) symbol for how to read, whether its children are peerish to its peers" ID="ID_1465440445" CREATED="1435521583190" MODIFIED="1435521618412"/>
 </node>
-<node TEXT="12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_820945241" CREATED="1439417991912" MODIFIED="1439417992979"/>
+</node>
+<node TEXT="08 12" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_820945241" CREATED="1439417991912" MODIFIED="1452973743809">
 <node TEXT="ways to use data" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_142787706" CREATED="1391837205487" MODIFIED="1407305373245">
 <node TEXT="things to do to its interpreter" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_484113216" CREATED="1391838443039" MODIFIED="1391838458358"/>
 <node TEXT="ugly" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_909117307" CREATED="1405062700823" MODIFIED="1405062702527"/>
@@ -1622,22 +1625,11 @@
 <node TEXT="perhaps the main|first job a punctuation symbol does is explain whether the two sides are the same kind or one modifies the other" ID="ID_1278459202" CREATED="1439428888709" MODIFIED="1439428916176">
 <node TEXT="specify as vart of modify" ID="ID_1823732661" CREATED="1439428919814" MODIFIED="1439428935182"/>
 </node>
-<node TEXT="20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_12497858" CREATED="1440117295049" MODIFIED="1440117296348"/>
+</node>
+<node TEXT="08 20" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_12497858" CREATED="1440117295049" MODIFIED="1452973745798">
 <node TEXT="using . to chill font" ID="ID_123132977" CREATED="1440128711325" MODIFIED="1440128715397"/>
-<node TEXT="25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_975231116" CREATED="1440538618792" MODIFIED="1440538620198"/>
-<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1727908298" CREATED="1440538621873" MODIFIED="1440538623414">
-<node TEXT="a parenthesis is the leading edge of its contents into its context" ID="ID_1571692967" CREATED="1440224644049" MODIFIED="1440538598908"/>
-<node TEXT="&quot;had a sick child and no answers&quot;" ID="ID_610361571" CREATED="1440217237376" MODIFIED="1440217243666">
-<node TEXT="? child redeems the others, makes it a thing about life" ID="ID_408629670" CREATED="1440217245367" MODIFIED="1440217265148"/>
 </node>
-<node TEXT="down syndrome, a math thing" ID="ID_66324564" CREATED="1440217005299" MODIFIED="1440217011409"/>
-<node TEXT="heat, randomness forever valuable" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_563310890" CREATED="1440225372104" MODIFIED="1440539816304">
-<font BOLD="false"/>
-</node>
-<node TEXT="godel-fightty things isolate" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_398096837" CREATED="1440216757160" MODIFIED="1440539814440">
-<font BOLD="false"/>
-</node>
-</node>
+<node TEXT="08 25" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_975231116" CREATED="1440538618792" MODIFIED="1452973747702">
 <node TEXT="how to pack info in info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1414210712" CREATED="1440216185771" MODIFIED="1440539997831">
 <font BOLD="false"/>
 <node TEXT="\recurs" ID="ID_681697177" CREATED="1440540002543" MODIFIED="1440540004583"/>
@@ -1647,6 +1639,7 @@
 </node>
 <node TEXT="notes written and golded in serial deflate for inflation" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1206621061" CREATED="1438981039505" MODIFIED="1441401500539">
 <font BOLD="false"/>
+</node>
 </node>
 <node TEXT="info -rep  :  2015 08 25-29, o.f." ID="ID_585007868" CREATED="1445741361966" MODIFIED="1445741442365">
 <font BOLD="true"/>
@@ -1688,6 +1681,31 @@
 </node>
 <node TEXT="soln v. info dens" ID="ID_757310598" CREATED="1440648983998" MODIFIED="1440648997117"/>
 <node TEXT="double graph search from $ me/* and $ big pop/*" LOCALIZED_STYLE_REF="default" ID="ID_231560255" CREATED="1441164971048" MODIFIED="1445741314724"/>
+</node>
+<node TEXT="2016 01 16" ID="ID_500308007" CREATED="1452973751771" MODIFIED="1452973754476">
+<node TEXT="not proving it to anybody but yourself" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_972384059" CREATED="1452886211632" MODIFIED="1452886221739">
+<node TEXT="just use coincidences to identify things; as recog, not investment" ID="ID_1643455213" CREATED="1452886238841" MODIFIED="1452886248629"/>
+</node>
+<node TEXT="cantor dust, jeffereson bible, just the permanent memories" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1798458851" CREATED="1452896606324" MODIFIED="1452972702969"/>
+<node TEXT="between songs, &quot;never never&quot;" ID="ID_537150296" CREATED="1452808324359" MODIFIED="1452808329892">
+<node TEXT="bowie" ID="ID_460165271" CREATED="1452972927511" MODIFIED="1452972928584"/>
+</node>
+<node TEXT="thought it was low-quality because I didn&apos;t get it yet" ID="ID_20186245" CREATED="1452808022742" MODIFIED="1452973221860">
+<node TEXT="how I rediscovered glass, bowie" ID="ID_850316575" CREATED="1452973228839" MODIFIED="1452973240352"/>
+</node>
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1727908298" CREATED="1440538621873" MODIFIED="1440538623414">
+<node TEXT="a parenthesis is the leading edge of its contents into its context" ID="ID_1571692967" CREATED="1440224644049" MODIFIED="1440538598908"/>
+<node TEXT="&quot;had a sick child and no answers&quot;" ID="ID_610361571" CREATED="1440217237376" MODIFIED="1440217243666">
+<node TEXT="? child redeems the others, makes it a thing about life" ID="ID_408629670" CREATED="1440217245367" MODIFIED="1440217265148"/>
+</node>
+<node TEXT="down syndrome, a math thing" ID="ID_66324564" CREATED="1440217005299" MODIFIED="1440217011409"/>
+<node TEXT="heat, randomness forever valuable" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_563310890" CREATED="1440225372104" MODIFIED="1440539816304">
+<font BOLD="false"/>
+</node>
+<node TEXT="godel-fightty things isolate" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_398096837" CREATED="1440216757160" MODIFIED="1440539814440">
+<font BOLD="false"/>
+</node>
 </node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">

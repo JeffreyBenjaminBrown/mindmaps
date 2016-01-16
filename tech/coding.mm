@@ -14211,6 +14211,7 @@
 <node TEXT="has become urgent" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_270396683" CREATED="1421265010046" MODIFIED="1421265013935">
 <node TEXT="before it was idle meta questions; now I tend not to use it unless I really think I will need to read it later." ID="ID_1510641794" CREATED="1421265015070" MODIFIED="1421265039980"/>
 </node>
+<node TEXT=": largely inference" ID="ID_606323087" CREATED="1452924030636" MODIFIED="1452973559070"/>
 <node TEXT="? could specify &quot;opt&quot; or &quot;mand&quot;" ID="ID_399097412" CREATED="1421266308486" MODIFIED="1421266315124">
 <node TEXT="perhaps &quot;opt&quot; by default, &quot;mandatory&quot; symbolized with &quot;!&quot;" ID="ID_850738899" CREATED="1421266315310" MODIFIED="1421266336421"/>
 </node>
@@ -16332,6 +16333,7 @@
 </node>
 <node TEXT="u, since" LOCALIZED_STYLE_REF="default" ID="ID_779929952" CREATED="1452492797631" MODIFIED="1452492805217">
 <font BOLD="true"/>
+<node TEXT="svn" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_240174824" CREATED="1452564429024" MODIFIED="1452564431585"/>
 <node TEXT="basic editing functions" ID="ID_330478721" CREATED="1452387010550" MODIFIED="1452387015078">
 <node TEXT="replace Expr in Rels" ID="ID_1967040763" CREATED="1452387055935" MODIFIED="1452387063149">
 <node TEXT="find all Rels in which the Expr is an Mbr" ID="ID_1920454414" CREATED="1452387067263" MODIFIED="1452387089973"/>
@@ -16341,14 +16343,6 @@
 <node TEXT="if anything refers to (points at) it, error" ID="ID_715122859" CREATED="1452387022056" MODIFIED="1452387042309"/>
 <node TEXT="else delete the node and every edge from it" ID="ID_1384784374" CREATED="1452387043062" MODIFIED="1452387048782"/>
 </node>
-</node>
-<node TEXT="find within-word &quot;.&quot; defn consistent with out-of-word" ID="ID_822875430" CREATED="1452401008682" MODIFIED="1452541113409">
-<node TEXT="A. A = A . A for A=alphanum" ID="ID_590628206" CREATED="1452401022687" MODIFIED="1452401040889"/>
-<node TEXT="A.A distinct" ID="ID_214917149" CREATED="1452401042594" MODIFIED="1452401046968"/>
-</node>
-<node TEXT="?" ID="ID_1002128254" CREATED="1452487747142" MODIFIED="1452487747622">
-<node TEXT="? in replacements, keep the old one, mark it &quot;replaced _ with _ (on [date])&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_245705573" CREATED="1452487686574" MODIFIED="1452487745364"/>
-<node TEXT="leading &quot;)&quot;" ID="ID_1059895278" CREATED="1452489080094" MODIFIED="1452489083350"/>
 </node>
 <node TEXT="   &gt;&gt;&gt;&#xa;funcs I need to process agent.mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_755470577" CREATED="1452487530974" MODIFIED="1452503098720">
 <node TEXT="edit" ID="ID_1434766986" CREATED="1452488242006" MODIFIED="1452488242869">
@@ -16585,19 +16579,211 @@
 <node TEXT="\ &quot;dwt/git_hask/FROZE 2015 08 07/FROZE 2015 07 15&quot;" ID="ID_341639080" CREATED="1448527170682" MODIFIED="1448527179103"/>
 </node>
 </node>
+<node TEXT="I think in mkGraph the two lists are always sorted." ID="ID_20264108" CREATED="1452563367966" MODIFIED="1452563383884">
+<node TEXT="because" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_972313870" CREATED="1452563398485" MODIFIED="1452563469328"/>
+<node TEXT=". serial" LOCALIZED_STYLE_REF="default" ID="ID_1010190235" CREATED="1452563469517" MODIFIED="1452563478162"/>
+<node TEXT="after defining" ID="ID_1184175123" CREATED="1452563421509" MODIFIED="1452563449456">
+<node TEXT="*Main Data.List&gt; let m1 = match 3 g1" ID="ID_557297365" CREATED="1452563422982" MODIFIED="1452563422982"/>
+<node TEXT="*Main Data.List&gt; let m2 = match 5 $ snd m1" ID="ID_294790207" CREATED="1452563422983" MODIFIED="1452563422983"/>
+<node TEXT="*Main Data.List&gt; let m3 = match 11 $ snd m2" ID="ID_418032482" CREATED="1452563422984" MODIFIED="1452563422984"/>
+</node>
+<node TEXT="both of these display as the original did" ID="ID_1886070625" CREATED="1452563436312" MODIFIED="1452563451559">
+<node TEXT="*Main Data.List&gt; (fromJust $ fst m1) &amp; ((fromJust $ fst m2) &amp; ((fromJust $ fst m3) &amp; snd m3))" ID="ID_1201537835" CREATED="1452563405483" MODIFIED="1452563405483">
+<node TEXT="mkGraph [(0,Str &quot;dog&quot;),(1,Tplt 2 [&quot;&quot;,&quot; wants &quot;,&quot;&quot;]),(2,Tplt 2 [&quot;&quot;,&quot; needs &quot;,&quot;&quot;]),(3,Str &quot;water&quot;),(4,Str &quot;brandy&quot;),(5,Rel 2),(6,Rel 2),(7,Tplt 3 [&quot;&quot;,&quot; needs &quot;,&quot; for &quot;,&quot;&quot;]),(8,Rel 3),(9,Tplt 2 [&quot;statement &quot;,&quot; is &quot;,&quot;&quot;]),(10,Str &quot;dubious&quot;),(11,Rel 2)] [(5,0,RelMbr 1),(5,1,RelTplt),(5,4,RelMbr 2),(6,0,RelMbr 1),(6,2,RelTplt),(6,3,RelMbr 2),(8,0,RelMbr 1),(8,3,RelMbr 2),(8,4,RelMbr 3),(8,7,RelTplt),(11,5,RelMbr 1),(11,9,RelTplt),(11,10,RelMbr 2)]" ID="ID_1497742372" CREATED="1452563405484" MODIFIED="1452563405484"/>
+</node>
+<node TEXT="*Main Data.List&gt; (fromJust $ fst m2) &amp; ((fromJust $ fst m1) &amp; ((fromJust $ fst m3) &amp; snd m3))" ID="ID_710772082" CREATED="1452563405486" MODIFIED="1452563405486">
+<node TEXT="mkGraph [(0,Str &quot;dog&quot;),(1,Tplt 2 [&quot;&quot;,&quot; wants &quot;,&quot;&quot;]),(2,Tplt 2 [&quot;&quot;,&quot; needs &quot;,&quot;&quot;]),(3,Str &quot;water&quot;),(4,Str &quot;brandy&quot;),(5,Rel 2),(6,Rel 2),(7,Tplt 3 [&quot;&quot;,&quot; needs &quot;,&quot; for &quot;,&quot;&quot;]),(8,Rel 3),(9,Tplt 2 [&quot;statement &quot;,&quot; is &quot;,&quot;&quot;]),(10,Str &quot;dubious&quot;),(11,Rel 2)] [(5,0,RelMbr 1),(5,1,RelTplt),(5,4,RelMbr 2),(6,0,RelMbr 1),(6,2,RelTplt),(6,3,RelMbr 2),(8,0,RelMbr 1),(8,3,RelMbr 2),(8,4,RelMbr 3),(8,7,RelTplt),(11,5,RelMbr 1),(11,9,RelTplt),(11,10,RelMbr 2)]" ID="ID_190589291" CREATED="1452563405489" MODIFIED="1452563405489"/>
+</node>
+</node>
+</node>
+<node TEXT="not crit" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1021549317" CREATED="1452555676900" MODIFIED="1452555678623">
+<node TEXT="?" ID="ID_1002128254" CREATED="1452487747142" MODIFIED="1452487747622">
+<node TEXT="? in replacements, keep the old one, mark it &quot;replaced _ with _ (on [date])&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_245705573" CREATED="1452487686574" MODIFIED="1452487745364"/>
+<node TEXT="leading &quot;)&quot;" ID="ID_1059895278" CREATED="1452489080094" MODIFIED="1452489083350"/>
+</node>
+<node TEXT="derived: &quot;the [RelPos] in [Rel]&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1766479019" CREATED="1452551798587" MODIFIED="1452555672827">
+<node TEXT="for disambiguations" ID="ID_800486684" CREATED="1452555656012" MODIFIED="1452555659049"/>
+<node TEXT="example" ID="ID_625976291" CREATED="1452551816331" MODIFIED="1452551817200">
+<node TEXT="war" ID="ID_230700610" CREATED="1452551720491" MODIFIED="1452551721234">
+<node TEXT="\soc, belongs here rather than polluting" ID="ID_1713607031" CREATED="1452551755875" MODIFIED="1452551770189">
+<node TEXT="disambiguate here to ../../war" ID="ID_761838913" CREATED="1452551819531" MODIFIED="1452551836675"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="find within-word &quot;.&quot; defn consistent with out-of-word" ID="ID_822875430" CREATED="1452401008682" MODIFIED="1452541113409">
+<node TEXT="A. A = A . A for A=alphanum" ID="ID_590628206" CREATED="1452401022687" MODIFIED="1452401040889"/>
+<node TEXT="A.A distinct" ID="ID_214917149" CREATED="1452401042594" MODIFIED="1452401046968"/>
+</node>
+</node>
+<node TEXT="nice and feas : order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1323702267" CREATED="1452587011724" MODIFIED="1452587045849">
+<node TEXT="display ordered" ID="ID_1623775256" CREATED="1452587046236" MODIFIED="1452587048693">
+<node TEXT="inc. multiple nonoverlapping ordered sets of peers" ID="ID_556722176" CREATED="1452587092732" MODIFIED="1452587115519"/>
+</node>
+<node TEXT="(partially) remove order from peers" ID="ID_1701739783" CREATED="1452587049402" MODIFIED="1452587088142"/>
+</node>
+<node TEXT="text rectangles" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1897305891" CREATED="1452587202365" MODIFIED="1452587210308"/>
+</node>
+<node TEXT="can unify two words in succession that form a term and apply to all in graph at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1292472642" CREATED="1452640477640" MODIFIED="1452640515981"/>
+<node TEXT="view: boxes, banner-seqs, [Node] requests" ID="ID_1312670135" CREATED="1452644815976" MODIFIED="1452644855766">
+<font BOLD="true"/>
+</node>
+<node TEXT="sep ? traversal, layout" ID="ID_215525665" CREATED="1452645090200" MODIFIED="1452645104579">
+<node TEXT="every layout e.g. treeish unfolding from a root) implies a traversal" ID="ID_1521767117" CREATED="1452645109297" MODIFIED="1452645131824"/>
+<node TEXT="consider the layout a projection(n) of the traversal, after applying a variable projection(v)" ID="ID_1115323766" CREATED="1452645147480" MODIFIED="1452645182849"/>
+</node>
+<node TEXT="how to sort (from within-node to graph)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_73229028" CREATED="1452663627219" MODIFIED="1452663739621">
+<node TEXT="user provides a map from a statement&apos;s (consider the statement &quot;bad, bad ? loneliness, insanity&quot;) punctuation|rel words to $ rels in the graph and precedence" ID="ID_1824226490" CREATED="1452663634180" MODIFIED="1452663683449"/>
+</node>
+<node TEXT="a ! that does not end a statement" ID="ID_1811500894" CREATED="1452718648832" MODIFIED="1452924683376">
+<node TEXT="is reason to capitalize next word" ID="ID_209722663" CREATED="1452718662494" MODIFIED="1452718669206"/>
+</node>
+<node TEXT="rel lang" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1658778685" CREATED="1452931130044" MODIFIED="1452931136186">
+<node TEXT="for a 2-elt rel: &quot;needs_&quot; and &quot;_needs&quot;" LOCALIZED_STYLE_REF="default" ID="ID_596273348" CREATED="1452930844715" MODIFIED="1452931155667"/>
+<node TEXT="for a 3-elt rel: ^needs[node]for_" ID="ID_1234040026" CREATED="1452931139415" MODIFIED="1452931212505">
+<node TEXT="where ^ is &quot;It&quot;, the reference Expr" ID="ID_539060753" CREATED="1452931225228" MODIFIED="1452931252166"/>
+</node>
+</node>
+<node TEXT="disambiguation divides into label-necessary(top) and recog-necessary(rest)" ID="ID_118018587" CREATED="1452931326655" MODIFIED="1452931400375">
+<node TEXT="label-necessary is a top subancestry of the full disambiguation, the farther reaches of which are optional for purposes of labeling|identifying the thing, but perhaps needed by a reader in order to recognize what that thing is" ID="ID_225655828" CREATED="1452931344056" MODIFIED="1452931386372"/>
+</node>
+<node TEXT="descendents need not explode in view; descend only through necessary disambiguations" ID="ID_662013726" CREATED="1452931412726" MODIFIED="1452931435072">
+<node TEXT="to do this is to follow exactly some of the = rel, and other rels not at all" ID="ID_1673117262" CREATED="1452931436198" MODIFIED="1452931460472"/>
+</node>
+<node TEXT="&quot;showCompressing :: (Map Node String) -&gt; ...&quot;: like show, but for Rels involving those Nodes, shows instead just the String provided" ID="ID_110945292" CREATED="1452932257641" MODIFIED="1452932612659">
+<node TEXT="esp. for under It, call it It" ID="ID_582120993" CREATED="1452932316887" MODIFIED="1452932323014"/>
+</node>
+<node TEXT="s, reading upward" LOCALIZED_STYLE_REF="default" ID="ID_1575001388" CREATED="1452924400855" MODIFIED="1452934215216">
+<font BOLD="true"/>
+<node TEXT="dup Rels" ID="ID_240918066" CREATED="1452924547571" MODIFIED="1452924549352">
+<node TEXT="function : duplicate node with rels" LOCALIZED_STYLE_REF="default" ID="ID_815205312" CREATED="1452898145036" MODIFIED="1452924609506"/>
+<node TEXT="function : duplicate rel changing one RelPos" LOCALIZED_STYLE_REF="default" ID="ID_866924440" CREATED="1452898145036" MODIFIED="1452924609502"/>
+</node>
+<node TEXT="_ -&gt; [Node] :: Fork, Branch, union, .." ID="ID_1909026077" CREATED="1452924622782" MODIFIED="1452924644669"/>
+<node TEXT="? combine (_ -&gt; [Node])s" ID="ID_657013440" CREATED="1452925093124" MODIFIED="1452925119745">
+<node ID="ID_1467738836" CREATED="1452925120476" MODIFIED="1452925120476"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      effic
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="user assign precedence" ID="ID_590846419" CREATED="1452925127018" MODIFIED="1452925131630">
+<node TEXT="which runs before which ? not sure what I mean" ID="ID_69153481" CREATED="1452925134845" MODIFIED="1452925142318"/>
+</node>
+</node>
+<node TEXT="? merge" ID="ID_1380444005" CREATED="1452925201152" MODIFIED="1452925210342">
+<node TEXT="e.g. from fresh.mm" ID="ID_1090459013" CREATED="1452925214888" MODIFIED="1452925218596"/>
+</node>
+<node TEXT="rep path &amp; show ancestries to Node" LOCALIZED_STYLE_REF="default" ID="ID_1079558391" CREATED="1452725852634" MODIFIED="1452924598583"/>
+<node TEXT="to rep / a map from Rels to punct" LOCALIZED_STYLE_REF="default" ID="ID_1743350102" CREATED="1452924064413" MODIFIED="1452924506445">
+<node TEXT="I don&apos;t need it to parse (read) [] chars, just display them" ID="ID_977407079" CREATED="1452924107341" MODIFIED="1452924133953"/>
+</node>
+<node TEXT="high" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_745852491" CREATED="1452924536987" MODIFIED="1452924538926">
+<node TEXT="? rep, then func, then use" LOCALIZED_STYLE_REF="default" ID="ID_888201673" CREATED="1452924521602" MODIFIED="1452924539670"/>
+</node>
 </node>
 </node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">
 <font BOLD="true"/>
 <node TEXT="tidal-graph" ID="ID_575778269" CREATED="1451847990772" MODIFIED="1451847993250">
 <font BOLD="true"/>
-<node TEXT="data" ID="ID_1207178343" CREATED="1451966799521" MODIFIED="1451966800028">
-<node TEXT="&quot;types&quot;" ID="ID_531332589" CREATED="1451857275010" MODIFIED="1451857279924">
-<node TEXT="int" ID="ID_1943135636" CREATED="1451857284105" MODIFIED="1451857287321"/>
-<node TEXT="float" ID="ID_1172038939" CREATED="1451857287513" MODIFIED="1451857288225"/>
-<node TEXT="pitch" ID="ID_1003032913" CREATED="1451857322418" MODIFIED="1451857323409"/>
-<node TEXT="scale" ID="ID_847135658" CREATED="1451857295338" MODIFIED="1451857299751"/>
-<node TEXT="? meter" ID="ID_497376122" CREATED="1451857308329" MODIFIED="1451857312860"/>
+<node TEXT="tidal problem | dependency" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1836434139" CREATED="1452898393996" MODIFIED="1452898408649"/>
+<node TEXT="?" ID="ID_232694303" CREATED="1452908233250" MODIFIED="1452908234088">
+<node TEXT="decuople : melody, scale" ID="ID_1704806600" CREATED="1452911779346" MODIFIED="1452911787237"/>
+<node TEXT="decouple : pitch, dur" ID="ID_97746177" CREATED="1452911626305" MODIFIED="1452911639826"/>
+<node TEXT="(scale,posMel) &lt;=&gt; 12et mel &lt;=&gt; 31et mel &lt;=&gt; JI mel" ID="ID_1365270087" CREATED="1452911647331" MODIFIED="1452911679723">
+<node TEXT="JI: just intonation" ID="ID_1764561711" CREATED="1452911680508" MODIFIED="1452911685997"/>
+<node TEXT="posMel: a melody on the positions in a scale" ID="ID_893632287" CREATED="1452911686221" MODIFIED="1452911692341"/>
+</node>
+<node TEXT="instances" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1188199180" CREATED="1451848333576" MODIFIED="1452911797406">
+<node TEXT="sample isa\ event" ID="ID_545458175" CREATED="1451848378417" MODIFIED="1451848381055"/>
+<node TEXT="melody isa\ event" ID="ID_354746390" CREATED="1451848337350" MODIFIED="1451848350575"/>
+</node>
+</node>
+<node TEXT="types" LOCALIZED_STYLE_REF="default" ID="ID_542814426" CREATED="1452897081397" MODIFIED="1452908508945">
+<font BOLD="true"/>
+<node TEXT="2016 01 15" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_855760401" CREATED="1452897540530" MODIFIED="1452897550646"/>
+<node TEXT="Sample" LOCALIZED_STYLE_REF="default" ID="ID_1212553335" CREATED="1452897128158" MODIFIED="1452908571335">
+<node TEXT="must have" ID="ID_962976568" CREATED="1452908092158" MODIFIED="1452908095005">
+<font BOLD="true"/>
+<node TEXT="sample|instr" ID="ID_75213575" CREATED="1452897114109" MODIFIED="1452907965234"/>
+<node TEXT="pitch" ID="ID_68924558" CREATED="1452897089808" MODIFIED="1452897099371"/>
+<node TEXT="amp" ID="ID_1527022805" CREATED="1452897111677" MODIFIED="1452897113911"/>
+</node>
+<node TEXT="?dur \time \supercoll" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1733420665" CREATED="1452897216511" MODIFIED="1452907951784"/>
+</node>
+<node TEXT="times" ID="ID_538696983" CREATED="1452897252401" MODIFIED="1452897259151">
+<node TEXT="Time" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1783066942" CREATED="1452897266297" MODIFIED="1452910172223">
+<node TEXT="= Tidal.Time = float" ID="ID_714497102" CREATED="1452910155360" MODIFIED="1452910162482"/>
+<node TEXT="its meaning is external" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1486486273" CREATED="1452910036355" MODIFIED="1452910167663">
+<node TEXT="external, encoded by context, not in itself" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1004042034" CREATED="1452910059673" MODIFIED="1452910078049"/>
+</node>
+</node>
+<node TEXT="Dur" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1470226156" CREATED="1452910333782" MODIFIED="1452910357754">
+<node TEXT="= float" ID="ID_46991838" CREATED="1452910338654" MODIFIED="1452910341803"/>
+<node TEXT="unlike Time only in its use" LOCALIZED_STYLE_REF="styles.topic" ID="ID_404226801" CREATED="1452910342018" MODIFIED="1452910353545"/>
+</node>
+<node TEXT="interval" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1935662624" CREATED="1452897264561" MODIFIED="1452910322933">
+<node TEXT="= Tidal.Arc = (Time,Time) = (start,end)" ID="ID_1476295728" CREATED="1452910273027" MODIFIED="1452910301198"/>
+<node TEXT="&lt;=&gt; (start,dur)" ID="ID_354940682" CREATED="1452910282177" MODIFIED="1452910308664"/>
+</node>
+<node TEXT="Tidal.Event = (Arc,Arc,a)" ID="ID_1722696449" CREATED="1452910404943" MODIFIED="1452910420102"/>
+<node TEXT="phase" ID="ID_947818780" CREATED="1452908331615" MODIFIED="1452908332377">
+<node TEXT="in [0,1)" ID="ID_596165783" CREATED="1452908606542" MODIFIED="1452908615275"/>
+</node>
+</node>
+<node TEXT="meter, story" ID="ID_1693191944" CREATED="1452911888516" MODIFIED="1452911890367">
+<node TEXT="meter" ID="ID_1302454069" CREATED="1452898328330" MODIFIED="1452907837694">
+<font BOLD="true"/>
+<node TEXT="unitless, a division on a cycle" ID="ID_1979732690" CREATED="1452898330689" MODIFIED="1452898338154"/>
+<node TEXT="&lt;=&gt; (a formula :: [Int] -&gt; Float" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_97653571" CREATED="1452898756151" MODIFIED="1452907840687">
+<font BOLD="false"/>
+</node>
+<node TEXT="is a tree" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_216680932" CREATED="1452898711782" MODIFIED="1452907840685">
+<font BOLD="false"/>
+</node>
+<node TEXT="? can be recursive" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1628331471" CREATED="1452898739838" MODIFIED="1452907840681">
+<font BOLD="false"/>
+<node TEXT="e.g. a leaf could end in &quot;from here on the coordinates are binary&quot;, or &quot;binary on the even layers, ternary on the odd&quot;" ID="ID_166294687" CREATED="1452898811753" MODIFIED="1452898846977"/>
+</node>
+</node>
+<node TEXT="interval with meter" ID="ID_516714473" CREATED="1452898353837" MODIFIED="1452898362194">
+<node TEXT="a meter could be decomposed into these" ID="ID_1492584694" CREATED="1452907889018" MODIFIED="1452907894003"/>
+</node>
+<node TEXT="story = Set (Time, [? Event])" ID="ID_814610627" CREATED="1452908017699" MODIFIED="1452908714263"/>
+</node>
+<node TEXT="pitch" ID="ID_1064132388" CREATED="1452911911872" MODIFIED="1452911912942"/>
+</node>
+<node TEXT="lang" ID="ID_641811982" CREATED="1452911549764" MODIFIED="1452911550447">
+<node TEXT="address parts of a seq" ID="ID_1661058687" CREATED="1452911551193" MODIFIED="1452911555399">
+<node TEXT="&quot;the first Eb&quot;" ID="ID_1277261979" CREATED="1452911556280" MODIFIED="1452911561825"/>
+<node TEXT="&quot;the third note&quot;" ID="ID_193042114" CREATED="1452911562028" MODIFIED="1452911564541"/>
+<node TEXT="&quot;from the third to the fifth note&quot;" ID="ID_1167677880" CREATED="1452911569013" MODIFIED="1452911575447"/>
+</node>
+</node>
+<node TEXT="functions" ID="ID_1655664217" CREATED="1452898230629" MODIFIED="1452898231624">
+<node TEXT="dup node with rels" LOCALIZED_STYLE_REF="default" ID="ID_840010438" CREATED="1452898145036" MODIFIED="1452898248762"/>
+<node TEXT="dup rel, changing one mbr" LOCALIZED_STYLE_REF="default" ID="ID_1468667401" CREATED="1452898145036" MODIFIED="1452898251351"/>
+<node TEXT="render branch to [ (Time,[Event]) ]" ID="ID_57333202" CREATED="1452909887129" MODIFIED="1452909910696">
+<node TEXT="sequences need not be all at one level" ID="ID_1537473302" CREATED="1452909932592" MODIFIED="1452909946565">
+<node TEXT="demonstration" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1952749451" CREATED="1452909987725" MODIFIED="1452909989797"/>
+<node TEXT="first play Eb" ID="ID_814233374" CREATED="1452909954958" MODIFIED="1452909957133"/>
+<node TEXT="then play these" ID="ID_1970638341" CREATED="1452909957350" MODIFIED="1452909959255">
+<node TEXT="first play F" ID="ID_1520324989" CREATED="1452909959724" MODIFIED="1452909962568"/>
+<node TEXT="then play Eb" ID="ID_842389589" CREATED="1452909962757" MODIFIED="1452909964654"/>
+</node>
+<node TEXT=".." ID="ID_906189423" CREATED="1452909969621" MODIFIED="1452909971803"/>
+</node>
+</node>
 </node>
 <node TEXT="rels" ID="ID_673725437" CREATED="1451847995223" MODIFIED="1451848022493">
 <node TEXT="[event] then [event]" ID="ID_480262129" CREATED="1451848023267" MODIFIED="1451848055492"/>
@@ -16610,12 +16796,42 @@
 <node TEXT="phase being a position in a cycle" ID="ID_244769777" CREATED="1451851510506" MODIFIED="1451851514200"/>
 </node>
 </node>
-<node TEXT="instances" ID="ID_1188199180" CREATED="1451848333576" MODIFIED="1451848336641">
-<node TEXT="sample isa\ event" ID="ID_545458175" CREATED="1451848378417" MODIFIED="1451848381055"/>
-<node TEXT="melody isa\ event" ID="ID_354746390" CREATED="1451848337350" MODIFIED="1451848350575"/>
+<node TEXT="lang &lt;=&gt; graph for seqs" ID="ID_1072220008" CREATED="1452915296563" MODIFIED="1452915306762"/>
+<node TEXT="use num seq for mult params" ID="ID_198112443" CREATED="1452919263922" MODIFIED="1452919282107"/>
+<node TEXT="repeat a subseq" ID="ID_1351658237" CREATED="1452919288604" MODIFIED="1452919295076"/>
+<node TEXT="Seq = Node" ID="ID_428634627" CREATED="1452929882728" MODIFIED="1452929896894">
+<node TEXT="and each label from an edge from the seq to a member Event has a Phase value" ID="ID_364712958" CREATED="1452930166593" MODIFIED="1452930192016"/>
+<node TEXT="no, altv" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1230781692" CREATED="1452930152065" MODIFIED="1452930161783">
+<node TEXT="and an (Event,Event) label, &quot;(event node) follows (event node) in (seq node)" ID="ID_1213057011" CREATED="1452929901401" MODIFIED="1452929980288"/>
 </node>
 </node>
-<node TEXT="patterns ready to replace hands" ID="ID_1992047067" CREATED="1451966806363" MODIFIED="1451966822159">
+<node TEXT="? edge-edges" ID="ID_538716833" CREATED="1452934226892" MODIFIED="1452934230287"/>
+<node TEXT="motiv" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1523255891" CREATED="1452897654691" MODIFIED="1452898118978">
+<node TEXT="leave a record of where you&apos;ve been" ID="ID_650385844" CREATED="1452897657769" MODIFIED="1452897665020">
+<node TEXT="rather than having to overwrite earlier instructions" ID="ID_1767815116" CREATED="1452897666253" MODIFIED="1452897676238"/>
+<node TEXT="yet as fast as that" ID="ID_956036699" CREATED="1452897678006" MODIFIED="1452897685207">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1767815116" STARTINCLINATION="425;0;" ENDINCLINATION="425;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+</node>
+<node TEXT="later" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1745800080" CREATED="1452898646803" MODIFIED="1452898651074">
+<node TEXT="dependency : startWhen" LOCALIZED_STYLE_REF="default" ID="ID_1295189573" CREATED="1452898411828" MODIFIED="1452898652836">
+<node TEXT="why" ID="ID_1200638868" CREATED="1452898619803" MODIFIED="1452898621186">
+<node TEXT="to\  maintain a subcycle dur but change the number of those subcycles in a cycle" ID="ID_472312753" CREATED="1452898547568" MODIFIED="1452898587153"/>
+<node TEXT="there&apos;s a Tidal function on Hackage called something like this" ID="ID_1459063522" CREATED="1452898514503" MODIFIED="1452898524416"/>
+<node TEXT="needed for meter changes" ID="ID_458718025" CREATED="1452898414793" MODIFIED="1452898418708"/>
+</node>
+<node TEXT="a workaround: time the &quot;enter&quot; press" ID="ID_560256893" CREATED="1452898622523" MODIFIED="1452898633682"/>
+</node>
+<node TEXT="randomness" LOCALIZED_STYLE_REF="styles.topic" ID="ID_776892690" CREATED="1452911830675" MODIFIED="1452911834751">
+<node TEXT="oneOf" LOCALIZED_STYLE_REF="default" ID="ID_57263866" CREATED="1452908234459" MODIFIED="1452911835791">
+<node TEXT="=" ID="ID_757936643" CREATED="1452908280779" MODIFIED="1452908281365">
+<node TEXT="an Event X can have a lot of oneOf links to other Events [Y]; each time X triggers, one of the Y does" ID="ID_1602321342" CREATED="1452908237405" MODIFIED="1452908271624"/>
+</node>
+<node TEXT="there is probably a Tidal function on Patterns for this" ID="ID_1562477377" CREATED="1452908284328" MODIFIED="1452908302111"/>
+</node>
+</node>
+<node TEXT="patterns ready to replace hands" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1992047067" CREATED="1451966806363" MODIFIED="1452908359817">
 <node TEXT="a place to type a few numbers representing what was just happening" ID="ID_1149296706" CREATED="1451966823260" MODIFIED="1451966833563"/>
 <node TEXT="to cover while hands type" ID="ID_52357884" CREATED="1451966833760" MODIFIED="1451966837785">
 <node TEXT="while both hands type, after one hand types over there" ID="ID_558265256" CREATED="1451966841772" MODIFIED="1451966855957">
@@ -16624,8 +16840,41 @@
 </node>
 </node>
 </node>
+<node TEXT="alien" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_35511164" CREATED="1452914603495" MODIFIED="1452914605065">
+<node TEXT="divorce ~ feminism" ID="ID_1193248848" CREATED="1452914606044" MODIFIED="1452914612037"/>
+<node TEXT="wiki topic owner should understand proofs" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1261793504" CREATED="1452914793533" MODIFIED="1452914827127">
+<node TEXT="if I could send a link to a proof that I wrote, it ought to be enough" ID="ID_1657305827" CREATED="1452914813774" MODIFIED="1452914823564"/>
+</node>
+</node>
+</node>
 <node TEXT="use one cycle to define coordinates for others" ID="ID_593949844" CREATED="1452400376394" MODIFIED="1452400407905">
 <node TEXT="others of unmatched dur" ID="ID_504769764" CREATED="1452400416874" MODIFIED="1452400420665"/>
+</node>
+<node TEXT="make Patterns like Ints (Monoids?)" ID="ID_239319481" CREATED="1452639511086" MODIFIED="1452639524344">
+<node TEXT="mult = stretch, add = seq" ID="ID_511015918" CREATED="1452639526567" MODIFIED="1452639541278"/>
+</node>
+</node>
+<node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1452831175395">
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1449592763" CREATED="1452830845091" MODIFIED="1452830847544"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      caesar, monitor ops
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="ben: there&apos;s an equiv among types, programs, and a third thing" ID="ID_1397878932" CREATED="1452830795345" MODIFIED="1452830811736"/>
+<node TEXT="gary: something similar" ID="ID_513764467" CREATED="1452830813538" MODIFIED="1452830818525">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1397878932" STARTINCLINATION="502;0;" ENDINCLINATION="502;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="gabriel gonzales against type classes" ID="ID_1483244489" CREATED="1452835626122" MODIFIED="1452835632678">
+<node TEXT="robbie recs" ID="ID_1981841653" CREATED="1452835634529" MODIFIED="1452835637068"/>
 </node>
 </node>
 <node TEXT="fun lang, u" POSITION="right" ID="ID_659243533" CREATED="1451598375507" MODIFIED="1451598395159">

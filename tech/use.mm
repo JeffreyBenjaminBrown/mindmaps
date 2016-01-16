@@ -6228,6 +6228,15 @@
 <node TEXT="2015 12 15: cabal install pipes" ID="ID_1647434206" CREATED="1450210497042" MODIFIED="1450210508358">
 <node TEXT="lots of warnings" ID="ID_212157633" CREATED="1450210512347" MODIFIED="1450210514619"/>
 </node>
+<node TEXT="2016 01 06: jack + midi" ID="ID_698038269" CREATED="1452067600228" MODIFIED="1452973967423">
+<node TEXT="altered Jack, to get MIDI to Ardour" ID="ID_775851138" CREATED="1452067585609" MODIFIED="1452067638129">
+<node TEXT="2016 01 06" ID="ID_1364908595" CREATED="1452067589263" MODIFIED="1452067595836"/>
+<node TEXT="http://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/" ID="ID_336671049" CREATED="1452067588434" MODIFIED="1452067588434" LINK="http://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/"/>
+<node TEXT="[QJackCtl / Settings / MIDI driver] was already set to None" ID="ID_10587205" CREATED="1452067652789" MODIFIED="1452067692546"/>
+<node TEXT="But [QJ / Misc / Enable ALSA Sequencer Support] was checked; I unchecked it" ID="ID_1886460972" CREATED="1452067683499" MODIFIED="1452067715847"/>
+</node>
+<node TEXT="they say how to make &quot;a2jmidid -e&quot; run every time, and I tried (using &quot;after_starting_jack.sh&quot;, in /home/jeff) but didn&apos;t get it to work. I did not try variations on their instructions." ID="ID_1710706138" CREATED="1452068439278" MODIFIED="1452068486594"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">

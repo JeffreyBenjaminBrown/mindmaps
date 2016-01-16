@@ -3383,6 +3383,36 @@
 <node TEXT="having similar person state-spaces, needing another inhabitant" ID="ID_845915813" CREATED="1424684477422" MODIFIED="1424684504206"/>
 </node>
 </node>
+<node TEXT="2016 01 16" ID="ID_1424243089" CREATED="1452973807671" MODIFIED="1452973810902">
+<node TEXT="justice ? read what someone says (twitter) before what wikipedia says about them" ID="ID_1749023748" CREATED="1452923073542" MODIFIED="1452923097433"/>
+<node TEXT="? can you trust wikipedia for celebrities" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1071503378" CREATED="1452924000819" MODIFIED="1452924018567"/>
+<node TEXT="wiki authority ? problem" ID="ID_1714177391" CREATED="1452898073002" MODIFIED="1452898083593">
+<node TEXT="https://en.wikipedia.org/w/index.php?title=User_talk:172.88.65.137&amp;redirect=no" ID="ID_1541330683" CREATED="1452898076045" MODIFIED="1452898076045" LINK="https://en.wikipedia.org/w/index.php?title=User_talk:172.88.65.137&amp;redirect=no"/>
+</node>
+<node TEXT="family ~ discip" ID="ID_1494986134" CREATED="1452972654780" MODIFIED="1452972662151">
+<node TEXT="bowie, 1980, recovered from drug addiction following being awarded sole custody of his son. a bandmate (black guy, says it in the documentary) said he did not want his son to see him in a certain condition, and that allowed him to &quot;back off [the drugs]&quot;" ID="ID_614606085" CREATED="1452917105086" MODIFIED="1452972645095"/>
+</node>
+<node TEXT="nature and art, if artists proved to the rich that nothing tastes better than" ID="ID_443861990" CREATED="1452896321551" MODIFIED="1452896353300"/>
+<node TEXT="they thank you for your service and don&apos;t inquire or criticize" ID="ID_826328767" CREATED="1452896032276" MODIFIED="1452896069275">
+<node TEXT="to performers" ID="ID_2738423" CREATED="1452896052003" MODIFIED="1452896065088"/>
+</node>
+<node TEXT="? ten commandments for social processing" ID="ID_1329605450" CREATED="1452887424952" MODIFIED="1452972901309">
+<node TEXT="seek and engage diversity. talk to people who believe different things" ID="ID_206623228" CREATED="1452887433782" MODIFIED="1452887454262"/>
+</node>
+<node TEXT="&quot;If you can see me I can see you.&quot;" ID="ID_1533819786" CREATED="1452887050257" MODIFIED="1452887056193">
+<node TEXT="bowie" ID="ID_1280893723" CREATED="1452972927511" MODIFIED="1452972928584"/>
+</node>
+<node TEXT="&quot;my mother said, to get things done, you&apos;d better not mess with major tom&quot;" ID="ID_1069758255" CREATED="1452886848908" MODIFIED="1452886861375">
+<node TEXT="bowie" ID="ID_979790735" CREATED="1452972927511" MODIFIED="1452972928584"/>
+</node>
+<node TEXT="&quot;I&apos;m so thankful that we&apos;re strangers when we meet.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_465215794" CREATED="1452807817675" MODIFIED="1452973261297">
+<node TEXT="the music he chose for this is I think really good too" ID="ID_701386860" CREATED="1452807827987" MODIFIED="1452807839210"/>
+<node TEXT="&quot;[MIT] ... but uh ...&quot;" ID="ID_1769084831" CREATED="1452887143645" MODIFIED="1452887151711">
+<node TEXT="an authority the disproof of which is common knowledge in" ID="ID_954397114" CREATED="1452887153493" MODIFIED="1452887183555"/>
+</node>
+<node TEXT="bowie" ID="ID_1888166815" CREATED="1452972927511" MODIFIED="1452972928584"/>
+</node>
+</node>
 </node>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>
 <node TEXT="(nr) = not reviewed" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1492952414" CREATED="1435019532345" MODIFIED="1435019823176"/>

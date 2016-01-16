@@ -1727,6 +1727,16 @@
 <node TEXT="ahoglehauouahoe hoe hoe lis thepqby5710zhiuooo;wa," ID="ID_116679751" CREATED="1447818225408" MODIFIED="1447818244832"/>
 </node>
 </node>
+<node TEXT="2016 01 16" POSITION="right" ID="ID_1566280740" CREATED="1452973688015" MODIFIED="1452973690857">
+<node TEXT="pairing a sexy voice with a cheesy instrument" ID="ID_477844416" CREATED="1452926010383" MODIFIED="1452926018511"/>
+<node TEXT="about passion without strong inflection" ID="ID_410519518" CREATED="1452886697999" MODIFIED="1452886703885">
+<node TEXT="david bowie&apos;s theatrical deadpan" ID="ID_561417590" CREATED="1452886678221" MODIFIED="1452973065798">
+<node TEXT="he has other actors do it" ID="ID_1988631275" CREATED="1452886685199" MODIFIED="1452886688493"/>
+<node TEXT="e.g. when four mime-like people enter the camera from opposite sides, stone-faced, to say &quot;I&apos;m happy, hope you&apos;re happy too&quot;" ID="ID_140107333" CREATED="1452973068729" MODIFIED="1452973095208"/>
+</node>
+</node>
+<node TEXT="return home ! celebrate" ID="ID_485347308" CREATED="1452809326240" MODIFIED="1452973189280"/>
+</node>
 <node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_1293952846" CREATED="1446315990493" MODIFIED="1446315991665">
 <node TEXT="aimless" ID="ID_1342150508" CREATED="1438139627188" MODIFIED="1444455869768">
 <node TEXT="the fetal position $ an itunes autodisplay to accompany music" ID="ID_1027633689" CREATED="1438138075339" MODIFIED="1438139613071"/>
