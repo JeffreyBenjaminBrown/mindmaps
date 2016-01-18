@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.213">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.103">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -16691,6 +16691,72 @@
 <node TEXT="? rep, then func, then use" LOCALIZED_STYLE_REF="default" ID="ID_888201673" CREATED="1452924521602" MODIFIED="1452924539670"/>
 </node>
 </node>
+<node TEXT="show read order" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_44017214" CREATED="1453008054856" MODIFIED="1453008058259"/>
+<node TEXT="If I ever want to prune for speed, I can prune every .mm/ and .mm~ rels which is not the only arity-2 rel involving its endpoints." ID="ID_860143327" CREATED="1453012240547" MODIFIED="1453012240547"/>
+<node TEXT="&quot;Stat&quot;" ID="ID_1013655385" CREATED="1453026094369" MODIFIED="1453026113734">
+<node TEXT="something that can be computed about a Node|Branch" ID="ID_869694500" CREATED="1453026114208" MODIFIED="1453026182128"/>
+<node TEXT="an Int or Bool, or maybe String" ID="ID_1804101235" CREATED="1453026182722" MODIFIED="1453026187167"/>
+<node TEXT="esp #parents, #children" ID="ID_1478004307" CREATED="1453026195428" MODIFIED="1453026204310"/>
+</node>
+<node TEXT="? echo chamber effect" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_550849448" CREATED="1453065501539" MODIFIED="1453065505795"/>
+<node TEXT="mindmap traversal :?: subgraph" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_966352406" CREATED="1453078895697" MODIFIED="1453078946342">
+<font BOLD="false"/>
+<node TEXT="or like subgraph with edges relabeled with more info" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1819553136" CREATED="1453078916921" MODIFIED="1453078994741">
+<node TEXT="old info not deleted" ID="ID_1840145200" CREATED="1453078937257" MODIFIED="1453078940223"/>
+</node>
+<node TEXT="each node from which a set of peers is defined is included" ID="ID_1829701686" CREATED="1453078996292" MODIFIED="1453079005314"/>
+<node TEXT="each time a request (for a set of peers) is made, an edge goes from the node&apos;s rep in the traversal subgraph to a node indicating the type of request, labeled &quot;showed&quot;" ID="ID_576693881" CREATED="1453079006041" MODIFIED="1453079059099"/>
+</node>
+<node TEXT="perhaps, whereas in Freeplane I write up from the data, in Dwt (after importing Freeplane) I must write down to the data" ID="ID_1649831505" CREATED="1453088908736" MODIFIED="1453088937167"/>
+<node TEXT="staircase better on left side" ID="ID_1942539778" CREATED="1453090293127" MODIFIED="1453090299373"/>
+<node TEXT="staircase: mult nodes per line" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1006159164" CREATED="1453090299559" MODIFIED="1453090314101">
+<node TEXT="if nodes are alternatives" ID="ID_620225528" CREATED="1453090315460" MODIFIED="1453090318730"/>
+<node TEXT="map each alternative to a character" ID="ID_784311454" CREATED="1453090325168" MODIFIED="1453090346211"/>
+</node>
+<node TEXT="for each result from matchRel, show its RelPos 2" ID="ID_1536565026" CREATED="1453090382596" MODIFIED="1453090404214"/>
+<node TEXT="up is just a set of (Tplt, RelPos) pairs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1980304849" CREATED="1453091226129" MODIFIED="1453091244104"/>
+<node TEXT="mem explode ?  how rep having processed" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_738642678" CREATED="1453097487995" MODIFIED="1453097565836">
+<node TEXT="how to represent ^these" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1225700331" CREATED="1453097598080" MODIFIED="1453097606753"/>
+<node TEXT="having processed a branch?" ID="ID_1128442335" CREATED="1453097548567" MODIFIED="1453097597555"/>
+<node TEXT="having added unprocessed to a processed branch?" ID="ID_350907365" CREATED="1453097583720" MODIFIED="1453097594643"/>
+</node>
+<node TEXT="press &amp; feas" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_565252302" CREATED="1453097216883" MODIFIED="1453097496859">
+<node TEXT="show stats" ID="ID_854599822" CREATED="1453097225882" MODIFIED="1453097227621">
+<node TEXT="count up|down neighbors, first gen: easy" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_679807928" CREATED="1453097303850" MODIFIED="1453097362058"/>
+<node TEXT="know not to show font rels as rels, rather in stairs" ID="ID_1758795464" CREATED="1453091649822" MODIFIED="1453097224085">
+<font BOLD="false"/>
+</node>
+</node>
+<node TEXT="merge" ID="ID_1740310152" CREATED="1453096894384" MODIFIED="1453097233262">
+<font BOLD="false"/>
+</node>
+<node TEXT="parse within-nodes" ID="ID_1492166522" CREATED="1453097074497" MODIFIED="1453097224095">
+<font BOLD="false"/>
+</node>
+<node TEXT="default view" ID="ID_1328470126" CREATED="1453097114040" MODIFIED="1453097224097">
+<font BOLD="false"/>
+<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_168689187" CREATED="1453097138878" MODIFIED="1453097188217"/>
+<node TEXT="It needs These for These" ID="ID_1408927238" CREATED="1453097130936" MODIFIED="1453097147065">
+<node TEXT="leather, appearance" ID="ID_1652590719" CREATED="1453097147994" MODIFIED="1453097154438"/>
+<node TEXT="band, relaxation" ID="ID_1022811203" CREATED="1453097154651" MODIFIED="1453097160988"/>
+<node TEXT=".." ID="ID_390110967" CREATED="1453097161330" MODIFIED="1453097162413"/>
+</node>
+<node TEXT="These use It" ID="ID_1950077525" CREATED="1453097165842" MODIFIED="1453097180085">
+<node TEXT="apples" ID="ID_316471749" CREATED="1453097169577" MODIFIED="1453097171705"/>
+<node TEXT="dragons" ID="ID_1024563839" CREATED="1453097171933" MODIFIED="1453097173700"/>
+<node TEXT=".." ID="ID_7873207" CREATED="1453097173908" MODIFIED="1453097174507"/>
+</node>
+</node>
+<node TEXT="&quot;divide [node] at [punct|rel word]s&quot;" ID="ID_652046341" CREATED="1453097639858" MODIFIED="1453097658811">
+<node TEXT="usually at just one word, but at more for a compound (Arity &gt; 2) Rel" ID="ID_981524809" CREATED="1453097659873" MODIFIED="1453097699618"/>
+</node>
+</node>
+<node TEXT="&quot;the _ of _ is _&quot;" ID="ID_611995429" CREATED="1453097767951" MODIFIED="1453097771613">
+<node TEXT="? use a ternary Rel rather than &quot;_ of _ : _&quot; to indicate uniqueness" ID="ID_1911284475" CREATED="1453097789826" MODIFIED="1453097822887"/>
+</node>
+<node TEXT="show dwt" ID="ID_806281716" CREATED="1453086859537" MODIFIED="1453086864319">
+<node TEXT="in presentation, show some of the code you are least sure about, for (then) most useful feedback?" ID="ID_1028619369" CREATED="1453086831488" MODIFIED="1453086892120"/>
+</node>
 </node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">
 <font BOLD="true"/>
@@ -16852,6 +16918,10 @@
 </node>
 <node TEXT="make Patterns like Ints (Monoids?)" ID="ID_239319481" CREATED="1452639511086" MODIFIED="1452639524344">
 <node TEXT="mult = stretch, add = seq" ID="ID_511015918" CREATED="1452639526567" MODIFIED="1452639541278"/>
+</node>
+<node TEXT="sometimes an act (as in improv = seq of acts) is best a brief event followed by a longer one" ID="ID_777756930" CREATED="1452999423549" MODIFIED="1452999444108">
+<node TEXT="e.g. drum break to next part of song" ID="ID_340033455" CREATED="1452999445276" MODIFIED="1452999451724"/>
+<node TEXT="that&apos;s maybe for things born then, and things deleted then should be paired similar but reverse" ID="ID_514319112" CREATED="1452999590105" MODIFIED="1452999605705"/>
 </node>
 </node>
 <node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1452831175395">
