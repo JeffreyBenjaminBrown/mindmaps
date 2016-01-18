@@ -7494,8 +7494,6 @@
 <node TEXT="econ explains how you can compute|charac the best for the most" ID="ID_891924663" CREATED="1452928620539" MODIFIED="1452928640579">
 <node TEXT="greatest good for the greatest number" ID="ID_149810422" CREATED="1452928641709" MODIFIED="1452928646961"/>
 </node>
-</node>
-<node TEXT="16" ID="ID_540788493" CREATED="1452973825657" MODIFIED="1452973826213">
 <node TEXT="justice, giving away power and not knowing" ID="ID_370565282" CREATED="1452923102151" MODIFIED="1452923110023"/>
 <node TEXT="? is higher possible when not working" ID="ID_1098234626" CREATED="1452897560366" MODIFIED="1452897570119">
 <node TEXT="= cherish these times" ID="ID_1551457521" CREATED="1452897575286" MODIFIED="1452897583524"/>
@@ -7505,6 +7503,32 @@
 <node TEXT="bowie" ID="ID_509146018" CREATED="1452972927511" MODIFIED="1452972928584"/>
 </node>
 </node>
+<node TEXT="16" ID="ID_540788493" CREATED="1452973825657" MODIFIED="1452973826213">
+<node TEXT="stick-togetherness ~ deformation" ID="ID_1120041994" CREATED="1452980705191" MODIFIED="1452980710910">
+<node TEXT="moving* a cable with a pole" ID="ID_1654797160" CREATED="1452980711671" MODIFIED="1452980730871">
+<node TEXT="*twisting, keeping taut to go around a corner" ID="ID_1478570377" CREATED="1452980731201" MODIFIED="1452980738646"/>
 </node>
+</node>
+<node TEXT="go the distance, complete the sort" ID="ID_1609947178" CREATED="1452980791522" MODIFIED="1452980795672">
+<node TEXT="being, not doing" ID="ID_1530708853" CREATED="1452980796421" MODIFIED="1452980798577"/>
+</node>
+<node TEXT="light cycles" ID="ID_642858097" CREATED="1452980854060" MODIFIED="1452980856917">
+<node TEXT="like day-night" ID="ID_1770794011" CREATED="1452980864148" MODIFIED="1452980869339"/>
+</node>
+<node TEXT="? don&apos;t conjecture-observe" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_125981878" CREATED="1452981140909" MODIFIED="1452981164331">
+<node TEXT="example: responding to jeff about mass stupidt" ID="ID_1955090373" CREATED="1452981080109" MODIFIED="1452981177716">
+<node TEXT="they&apos;re hardly operating on logic. they found someone to fear, and they lean that way, and they don&apos;t want to recognize it.&#xa;&#xa;I am stoned." ID="ID_166607143" CREATED="1452981083715" MODIFIED="1452981108032"/>
+</node>
+</node>
+<node TEXT="&quot;I&apos;ve been looking for a ... woman with a feeling of losing once or twice; who knows how it could be tomorrow.&quot;" ID="ID_1059285371" CREATED="1452981288642" MODIFIED="1452981310722">
+<node TEXT="bowie" ID="ID_1774845873" CREATED="1452981311387" MODIFIED="1452981312289"/>
+</node>
+</node>
+<node TEXT="17" ID="ID_1582681721" CREATED="1453094494342" MODIFIED="1453094495253">
+<node TEXT="dance ~ endorse power structure" ID="ID_1693751359" CREATED="1453094495943" MODIFIED="1453094501186"/>
+<node TEXT="winners of framing" ID="ID_795308333" CREATED="1453094862641" MODIFIED="1453094866777"/>
+</node>
+</node>
+<node TEXT="sort (art, ag, ..) ~ invest in mindstates, ?personas" POSITION="right" ID="ID_479354919" CREATED="1452981803594" MODIFIED="1452981833200"/>
 </node>
 </map>
