@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.33">
+<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.209">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -135,17 +135,18 @@
 <node TEXT="it does ask my password twice" ID="ID_1353714793" CREATED="1421185193073" MODIFIED="1421185198583"/>
 </node>
 </node>
-<node TEXT="encrypt" ID="ID_1756900161" CREATED="1421185185705" MODIFIED="1453098709991">
+<node TEXT="encode" ID="ID_1756900161" CREATED="1421185185705" MODIFIED="1453100299816">
 <node TEXT="= create tar.gz.gpg" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1920804517" CREATED="1420507610556" MODIFIED="1440234161976"/>
+<node TEXT="probably just containing the two svn repos and encr/im" ID="ID_444702861" CREATED="1453100270288" MODIFIED="1453100285126"/>
 <node TEXT="syntax template" ID="ID_1026778645" CREATED="1440234167494" MODIFIED="1440234175264">
 <node TEXT="tar -pczf - [input, unencrypted folder] | gpg -c &gt; [output file name].tar.gz.gpg" LOCALIZED_STYLE_REF="default" ID="ID_1914252100" CREATED="1420507614268" MODIFIED="1440234172111"/>
 </node>
 <node TEXT="example" ID="ID_953211636" CREATED="1429904233976" MODIFIED="1440234177413">
 <node TEXT="tar -pczf - mms | gpg -c &gt; mms.tar.gz.gpg" ID="ID_1013770419" CREATED="1440233356632" MODIFIED="1440233388380"/>
-<node TEXT="frol" ID="ID_1670834265" CREATED="1440234191447" MODIFIED="1440234194490"/>
+<node TEXT="frol" ID="ID_826331302" CREATED="1453100830721" MODIFIED="1453100831623"/>
 </node>
 </node>
-<node TEXT="decrypt" ID="ID_709387338" CREATED="1440233830502" MODIFIED="1453098711603">
+<node TEXT="open" ID="ID_709387338" CREATED="1440233830502" MODIFIED="1453100304956">
 <node TEXT="unfold tar.gz.gpg" ID="ID_979890146" CREATED="1420507744549" MODIFIED="1421183028614">
 <node TEXT="how to chain?" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1977354406" CREATED="1421183879010" MODIFIED="1421183892812">
 <node TEXT="this doesn&apos;t seem to work" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_906462381" CREATED="1421183885082" MODIFIED="1421183889140"/>
@@ -1034,8 +1035,97 @@
 <node TEXT="within voice, I need a compressor that does not distort quiet inputs" ID="ID_922972164" CREATED="1412150756005" MODIFIED="1412150773174"/>
 </node>
 </node>
-<node TEXT="-&gt; &quot;Ardour3&quot;" ID="ID_864894011" CREATED="1427523681145" MODIFIED="1427523717430">
-<node TEXT="search apps for &quot;ardour3&quot; works; &quot;ardour&quot; not" ID="ID_1322410924" CREATED="1427523683017" MODIFIED="1427523704062"/>
+<node TEXT="Ardour (4.6)" ID="ID_864894011" CREATED="1427523681145" MODIFIED="1454882673118">
+<font BOLD="true"/>
+<node TEXT="reading" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1038369593" CREATED="1454882407563" MODIFIED="1454882410870">
+<node TEXT="resume here" LOCALIZED_STYLE_REF="default" ID="ID_1430451706" CREATED="1454878648534" MODIFIED="1454882414432">
+<node TEXT="http://en.flossmanuals.net/ardour/ch016_starting-ardour-on-ubuntu/" ID="ID_1051231937" CREATED="1454878655256" MODIFIED="1454878655256" LINK="http://en.flossmanuals.net/ardour/ch016_starting-ardour-on-ubuntu/"/>
+</node>
+<node ID="ID_725837244" CREATED="1454882418024" MODIFIED="1454882420676"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      skipped
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true"/>
+<node TEXT="importing audio" LOCALIZED_STYLE_REF="default" ID="ID_1826031579" CREATED="1454882397379" MODIFIED="1454882419447"/>
+<node TEXT="understanding routing" ID="ID_1860060868" CREATED="1454884141083" MODIFIED="1454884145697"/>
+</node>
+</node>
+<node TEXT="start" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1530990177" CREATED="1454885629939" MODIFIED="1454892125457">
+<node TEXT=". roughly serial" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_756851798" CREATED="1454892087517" MODIFIED="1454892120225"/>
+<node TEXT="qjackctl" ID="ID_561767685" CREATED="1454877674183" MODIFIED="1454885661733"/>
+<node TEXT="a2jmidid -e" ID="ID_32682346" CREATED="1454885638868" MODIFIED="1454885663577"/>
+<node TEXT="Ardour (from start menu)" ID="ID_900639829" CREATED="1454885665483" MODIFIED="1454885669529"/>
+<node TEXT="plug in keyboard" LOCALIZED_STYLE_REF="default" ID="ID_1403604320" CREATED="1454889272317" MODIFIED="1454892069424">
+<node TEXT="this can be done earlier, but not later" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1366706339" CREATED="1454892099629" MODIFIED="1454892114704"/>
+</node>
+<node TEXT="connect keyboard to $ &quot;ardour&quot; / &quot;MIDI/Midi in&quot;" ID="ID_22049340" CREATED="1454889394557" MODIFIED="1454889438364"/>
+</node>
+<node TEXT="notes, non-crit" LOCALIZED_STYLE_REF="default" ID="ID_1633533760" CREATED="1454886725572" MODIFIED="1454886739324">
+<font BOLD="true"/>
+<node TEXT="Jack|Ardour overlap" ID="ID_1670906745" CREATED="1454878250327" MODIFIED="1454878254462">
+<node TEXT="some connections can be managed from either Jack or Ardour" ID="ID_700260872" CREATED="1454878220230" MODIFIED="1454878239944"/>
+<node TEXT="others, only from Jack" ID="ID_675219691" CREATED="1454878240270" MODIFIED="1454878243102"/>
+</node>
+<node TEXT="shortcuts" ID="ID_1183899366" CREATED="1454881197875" MODIFIED="1454881200386">
+<node TEXT="Shift-E: show editor mixer" ID="ID_1940882726" CREATED="1454881247219" MODIFIED="1454881262266"/>
+</node>
+<node TEXT="windows can float" ID="ID_37339962" CREATED="1454881445027" MODIFIED="1454881447210">
+<node TEXT="click the down-arrow on them" ID="ID_771684088" CREATED="1454881447867" MODIFIED="1454881459434"/>
+<node TEXT="to replace, click that same arrow, which now points up" ID="ID_366628689" CREATED="1454881460611" MODIFIED="1454881469634"/>
+</node>
+<node TEXT="track v. bus" ID="ID_909223876" CREATED="1454882017939" MODIFIED="1454882035281">
+<node TEXT="tracks hold regions, which are audio data" ID="ID_1238509726" CREATED="1454882021309" MODIFIED="1454882029873"/>
+<node TEXT="buses are mixing objects, but have no timeline information" ID="ID_932731087" CREATED="1454882030146" MODIFIED="1454882047961"/>
+</node>
+<node TEXT="tracks: normal v. tape mode" ID="ID_1890784503" CREATED="1454882293187" MODIFIED="1454882302712">
+<node TEXT="tape = destructive" ID="ID_299131517" CREATED="1454882323411" MODIFIED="1454882325848">
+<node TEXT="recording in tape mode overwrites earlier recordings" ID="ID_1184616861" CREATED="1454882303883" MODIFIED="1454882353428"/>
+</node>
+</node>
+<node TEXT="hide tracks" ID="ID_303382286" CREATED="1454883752067" MODIFIED="1454883753896">
+<node TEXT="find &quot;tracks/buses&quot; at right" ID="ID_1384597055" CREATED="1454883754755" MODIFIED="1454883771016"/>
+<node TEXT="uncheck whatever to hide" ID="ID_1931960793" CREATED="1454883771235" MODIFIED="1454883778432"/>
+</node>
+</node>
+<node TEXT="ask: midi track?" ID="ID_1040536166" CREATED="1454886742260" MODIFIED="1454886745041">
+<node TEXT="my gear" ID="ID_1402753422" CREATED="1454886847612" MODIFIED="1454886848906">
+<node TEXT="Ubuntu 14.04" ID="ID_1675273021" CREATED="1454886851476" MODIFIED="1454886855257"/>
+<node TEXT="Ardour 4.6" ID="ID_1984438525" CREATED="1454886856207" MODIFIED="1454886864761"/>
+<node TEXT="M-Audio Keystation 88 ES MIDI USB controller" ID="ID_1314251444" CREATED="1454886748348" MODIFIED="1454886781364"/>
+</node>
+<node TEXT="my seq" ID="ID_424602631" CREATED="1454886844540" MODIFIED="1454886845873">
+<node TEXT="qjackctl" ID="ID_1616758893" CREATED="1454886791868" MODIFIED="1454886794105"/>
+<node TEXT="a2jmidid -e" ID="ID_1132759821" CREATED="1454885638868" MODIFIED="1454885663577"/>
+<node TEXT="start Ardour" ID="ID_1259878443" CREATED="1454886986452" MODIFIED="1454886988986"/>
+<node TEXT="JACK offers 3 places to connect the 88ES" ID="ID_1934363797" CREATED="1454886886484" MODIFIED="1454886917505">
+<node TEXT="I connected to all of them" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1995519841" CREATED="1454886975324" MODIFIED="1454887035598"/>
+<node TEXT="ardour [129] (playback): control" ID="ID_128887088" CREATED="1454886920140" MODIFIED="1454886953881"/>
+<node TEXT="ardour [129] (playback): mcu" ID="ID_719617492" CREATED="1454886920140" MODIFIED="1454886941585"/>
+<node TEXT="ardour [129] (playback): seq" ID="ID_551261105" CREATED="1454886920140" MODIFIED="1454886955945"/>
+</node>
+</node>
+<node TEXT="Can I make a MIDI track?" ID="ID_90640199" CREATED="1454887039380" MODIFIED="1454887047081">
+<node TEXT="What&apos;s New in Ardour 4 mentions MIDI tracks" ID="ID_205404330" CREATED="1454887126828" MODIFIED="1454887162225">
+<node TEXT="http://ardour.org/whatsnew.html" ID="ID_1220058307" CREATED="1454887134175" MODIFIED="1454887134175" LINK="http://ardour.org/whatsnew.html"/>
+</node>
+<node TEXT="but the manual for only seems to 4.6 come as close as &quot;recording audio&quot;" ID="ID_1169903415" CREATED="1454887074308" MODIFIED="1454887163349">
+<node TEXT="http://en.flossmanuals.net/ardour/ch023_recording-audioa" ID="ID_1490840390" CREATED="1454887084024" MODIFIED="1454887084024" LINK="http://en.flossmanuals.net/ardour/ch023_recording-audioa"/>
+</node>
+<node TEXT="when I try to create a track I am not given a MIDI option" ID="ID_777748516" CREATED="1454887167204" MODIFIED="1454887196353"/>
+<node TEXT="this indicates it is possible, but says &quot;pick &quot;MIDI Track&quot; from the combo selector at the upper right&quot;, which does not exist for me" ID="ID_1000627718" CREATED="1454887367764" MODIFIED="1454887402514">
+<node TEXT="https://community.ardour.org/manual/midi_create_track" ID="ID_1213755118" CREATED="1454887377997" MODIFIED="1454887377997" LINK="https://community.ardour.org/manual/midi_create_track"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="Dolphin" ID="ID_1358773259" CREATED="1420492587905" MODIFIED="1420492590823">
 <node TEXT="toggle window portions: F4, F7, F9, F11" ID="ID_589035485" CREATED="1424207693235" MODIFIED="1424207855826"/>
@@ -1047,6 +1137,52 @@
 </node>
 <node TEXT="Freeplane" ID="ID_1623548741" CREATED="1402527821770" MODIFIED="1407441029428">
 <node TEXT=". how this: &quot;using&quot; mindmaps elsewhere" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1493351028" CREATED="1413877169080" MODIFIED="1418763702729"/>
+<node TEXT="within-node text colors!" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_96540778" CREATED="1453624606355" MODIFIED="1453741369159">
+<node ID="ID_1470484874" CREATED="1453624571995" MODIFIED="1453624747595"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ctrl-<font color="#00ff00">g for green, </font><font color="#ff0000">-r for red, </font><font color="#0000ff">-e for blue</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1812321124" CREATED="1453624631029" MODIFIED="1453624738851"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ctrl-<u>u for underline</u>, <i>-i for italic</i>, <b>-b for bold</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font SIZE="15"/>
+</node>
+<node ID="ID_1869578293" CREATED="1453624748273" MODIFIED="1453624754471"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#000000">Ctrl-k for black</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="false"/>
+</node>
+</node>
 <node TEXT="its time measure" ID="ID_68855973" CREATED="1424462264847" MODIFIED="1424466855897">
 <node TEXT="= the &quot;Created=&quot; field of nodes, when viewed as plain text" LOCALIZED_STYLE_REF="styles.topic" ID="ID_470846409" CREATED="1424466857673" MODIFIED="1424466874518"/>
 <node TEXT="freeplane.speed.txt" ID="ID_265981492" CREATED="1424462283776" MODIFIED="1424462286353"/>
@@ -6237,6 +6373,71 @@
 </node>
 <node TEXT="they say how to make &quot;a2jmidid -e&quot; run every time, and I tried (using &quot;after_starting_jack.sh&quot;, in /home/jeff) but didn&apos;t get it to work. I did not try variations on their instructions." ID="ID_1710706138" CREATED="1452068439278" MODIFIED="1452068486594"/>
 </node>
+<node TEXT="2016 01 26: fileZilla" ID="ID_1596591848" CREATED="1453844393490" MODIFIED="1453844400329">
+<node TEXT="via apt" ID="ID_1143799337" CREATED="1453844469963" MODIFIED="1453844473786"/>
+</node>
+<node TEXT="2016 01 29: cabal install recursion-schemes" ID="ID_1409167766" CREATED="1454137875438" MODIFIED="1454137883854"/>
+<node TEXT="2016 02 01: haste" ID="ID_376854334" CREATED="1454356111153" MODIFIED="1454356118368">
+<node TEXT="http://haste-lang.org/downloads/" ID="ID_1225914181" CREATED="1454356118931" MODIFIED="1454356118931" LINK="http://haste-lang.org/downloads/"/>
+<node TEXT="from the pre-build* debian package" ID="ID_1075188159" CREATED="1454356123722" MODIFIED="1454356137416">
+<node TEXT="* I am quoting the webpage; I suspect though that they mean pre-built" ID="ID_90256151" CREATED="1454356137745" MODIFIED="1454356154273"/>
+</node>
+</node>
+<node TEXT="2016 02 01: aborted: ghc 7.10.3" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1717974256" CREATED="1454373850617" MODIFIED="1454373868610">
+<node TEXT="it erred" ID="ID_826008715" CREATED="1454373869757" MODIFIED="1454373933625">
+<node ID="ID_1363470760" CREATED="1454373934005" MODIFIED="1454373934005"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      said it had no rule to make haddock
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="I corrected it, I hope" ID="ID_396610584" CREATED="1454373942136" MODIFIED="1454373945483">
+<node TEXT="I deleted it from /usr/local/lib" ID="ID_869848188" CREATED="1454373888655" MODIFIED="1454373929853"/>
+<node TEXT="I changed all the symlinks in /usr/local/bin back to 7.8.4" ID="ID_1406325886" CREATED="1454373947472" MODIFIED="1454373973017"/>
+</node>
+</node>
+<node TEXT="2016 02 07: Ardour, Pianoteq 4,&#xa;   7zip, lv2, more" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1826826698" CREATED="1454875963517" MODIFIED="1454892215117">
+<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1742763278" CREATED="1454891621960" MODIFIED="1454891625302"/>
+<node TEXT="Ardour" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_657078510" CREATED="1454876532678" MODIFIED="1454876802970">
+<node TEXT="bought it" ID="ID_484769526" CREATED="1454876042470" MODIFIED="1454876049676"/>
+<node TEXT="warning" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_240332944" CREATED="1454876132966" MODIFIED="1454876140361">
+<node TEXT="System failed the quick sanity check... Looking for the cause&#xa;&#xa;!!! WARNING !!! - Your system seems to use frequency scaling.&#xa;This can have a serious impact on audio latency.&#xa;For best results turn it off, e.g. by chosing the &apos;performance&apos; governor." ID="ID_565488505" CREATED="1454876135758" MODIFIED="1454876136792"/>
+</node>
+</node>
+<node TEXT="&quot;ondemand governor&quot;: disabled" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_469751413" CREATED="1454876535622" MODIFIED="1454877324315">
+<node TEXT="http://askubuntu.com/questions/523640/how-i-can-disable-cpu-frequency-scaling-and-set-the-system-to-performance" ID="ID_93608500" CREATED="1454876551079" MODIFIED="1454876551079" LINK="http://askubuntu.com/questions/523640/how-i-can-disable-cpu-frequency-scaling-and-set-the-system-to-performance"/>
+<node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1906101598" CREATED="1454876816710" MODIFIED="1454876819673"/>
+<node TEXT="sudo apt-get install cpufrequtils" ID="ID_1999388434" CREATED="1454876544342" MODIFIED="1454876545070"/>
+<node TEXT="make file &quot;/etc/default/cpufrequtils&quot;, with this single line" ID="ID_123848516" CREATED="1454876645990" MODIFIED="1454876826849">
+<node TEXT="GOVERNOR=&quot;performance&quot;" ID="ID_1089491472" CREATED="1454876680873" MODIFIED="1454876684552"/>
+</node>
+<node TEXT="sudo update-rc.d ondemand disable" LOCALIZED_STYLE_REF="default" ID="ID_1129755659" CREATED="1454876821532" MODIFIED="1454877303769"/>
+<node TEXT="cpufreq-info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1735951309" CREATED="1454876930566" MODIFIED="1454876932961">
+<node TEXT="use this to check settings" ID="ID_1068395238" CREATED="1454876933631" MODIFIED="1454876938060"/>
+</node>
+</node>
+<node TEXT="7zip" ID="ID_1438869737" CREATED="1454889937957" MODIFIED="1454889940043">
+<node TEXT="sudo apt-get install p7zip" ID="ID_1171473433" CREATED="1454889941717" MODIFIED="1454889945683"/>
+</node>
+<node TEXT="Pianoteq" ID="ID_855416956" CREATED="1454892187653" MODIFIED="1454892190059"/>
+<node TEXT="lv2" LOCALIZED_STYLE_REF="default" ID="ID_1359567203" CREATED="1454891071419" MODIFIED="1454892161182">
+<node TEXT="download lv2-1.12.0" ID="ID_1589156624" CREATED="1454891076953" MODIFIED="1454891078800"/>
+<node TEXT="run the three commands (waf) the README listed as a &quot;typical install&quot;" ID="ID_309159863" CREATED="1454891080860" MODIFIED="1454891098648"/>
+<node TEXT="made /usr/lib/lv2/, copied &quot;Pianoteq 4.lv2/&quot; to it" ID="ID_935754297" CREATED="1454891874583" MODIFIED="1454891892006"/>
+<node TEXT="http://www.manual.ardour.org/working-with-plugins/getting-plugins/" ID="ID_544214214" CREATED="1454891340461" MODIFIED="1454891907715" LINK="http://www.manual.ardour.org/working-with-plugins/getting-plugins/">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_935754297" STARTINCLINATION="213;0;" ENDINCLINATION="213;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
@@ -6348,7 +6549,7 @@
 <node TEXT="howto : Tidal Jack Audacity" POSITION="right" ID="ID_348969370" CREATED="1445926130639" MODIFIED="1448307942599">
 <node TEXT="dependencies" ID="ID_143505634" CREATED="1445926118998" MODIFIED="1445926121336">
 <node TEXT="start Jack before Tidal" ID="ID_304651424" CREATED="1445926141975" MODIFIED="1445926145919"/>
-<node TEXT="not need to mess with Jack/setup" ID="ID_1008530809" CREATED="1445926177111" MODIFIED="1445926182159"/>
+<node TEXT="no need to mess with Jack/setup" ID="ID_1008530809" CREATED="1445926177111" MODIFIED="1454873485753"/>
 <node TEXT="start Dirt and then Audacity sees it" ID="ID_1135097336" CREATED="1445926191310" MODIFIED="1445926199064"/>
 </node>
 </node>

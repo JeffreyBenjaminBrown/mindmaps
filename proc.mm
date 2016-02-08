@@ -747,8 +747,9 @@
 <node TEXT="boundedly top-down read|import head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1943305692" CREATED="1432447057072" MODIFIED="1432447071399"/>
 <node TEXT="&lt;- extr&apos;ns?" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" POSITION="right" ID="ID_1898605640" CREATED="1427397610863" MODIFIED="1436662334984">
 <node TEXT="certainly some are extractions; ?all" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_85258283" CREATED="1436662338014" MODIFIED="1436662345321"/>
-<node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_101105074" CREATED="1433748243479" MODIFIED="1433748250002">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1776817933" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="intermediate read head" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1502630043" CREATED="1453886366031" MODIFIED="1453890769827">
+<font BOLD="false"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_865712280" STARTINCLINATION="309;0;" ENDINCLINATION="309;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="&lt;- 2015 03 25-27" ID="ID_615882890" CREATED="1427696780749" MODIFIED="1428384112035">
 <node TEXT="bhv" LOCALIZED_STYLE_REF="default" ID="ID_691077159" CREATED="1427694454392" MODIFIED="1427694492979">
@@ -966,45 +967,38 @@
 <node TEXT="&lt;- extractions 2015 07 08" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_177450436" CREATED="1427689144076" MODIFIED="1438200909845">
 <node TEXT="extracted from 2015 4 26 to (so far) 05 19" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_459597514" CREATED="1436424650494" MODIFIED="1436428514887"/>
 <node TEXT="applic" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_358795631" CREATED="1436423549046" MODIFIED="1436425365152">
-<node TEXT="bond rhythm" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1552260591" CREATED="1436421960956" MODIFIED="1444287072446">
+<node TEXT="bond rhythm &amp; group proc" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1552260591" CREATED="1436421960956" MODIFIED="1453886660399">
 <font BOLD="false"/>
-<node TEXT="togetherness better after longer* away, more new data, econ of scale" ID="ID_1545182288" CREATED="1429147052975" MODIFIED="1436423560957">
-<node TEXT="* longer at least at some scale" ID="ID_179968443" CREATED="1436423561605" MODIFIED="1436423569013">
-<node TEXT="is another way of saying there is an optimal duration" ID="ID_50579748" CREATED="1436423575966" MODIFIED="1436423584387"/>
+<node TEXT="togetherness better after $ (sometimes)longer away, more new data, econ of scale" ID="ID_1545182288" CREATED="1429147052975" MODIFIED="1453886532138"/>
 </node>
+<node TEXT="graph-directed logic &amp; faith" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1731207604" CREATED="1453886695383" MODIFIED="1453886825267">
+<node TEXT="was titled" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1418871750" CREATED="1453886765480" MODIFIED="1453886769630">
+<node TEXT="faith, toplessness for soc" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1336413536" CREATED="1430109632519" MODIFIED="1436422064096"/>
 </node>
-</node>
-<node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1776817933" CREATED="1433748243479" MODIFIED="1433748250008"/>
-<node TEXT="faith, toplessness for soc" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1336413536" CREATED="1430109632519" MODIFIED="1436422064096">
+<node TEXT="(known)logic v. faith" ID="ID_711640133" CREATED="1453886735943" MODIFIED="1453886743623"/>
 <node TEXT="Is there a tension between top-down plan|underst v. reaching out to people?" ID="ID_584695855" CREATED="1430077713506" MODIFIED="1430077731673"/>
+<node TEXT="untopped logic v. logic with an unseen top" ID="ID_592308598" CREATED="1453886791055" MODIFIED="1453886811711"/>
 </node>
-<node TEXT="expectation : sanctity from, escape using" ID="ID_1511883518" CREATED="1436422117188" MODIFIED="1438200713213">
+<node TEXT="expectation : sovt from, escape using" ID="ID_1511883518" CREATED="1436422117188" MODIFIED="1453886911196">
 <node TEXT="&quot;my mood need not be the expected one under these conditions!&quot;" ID="ID_412665931" CREATED="1436422101164" MODIFIED="1436422128934"/>
 <node TEXT="&quot;I&apos;m not asking about your mood, rather the mood of the residents where you are.&quot;" ID="ID_1912866354" CREATED="1429250218946" MODIFIED="1436422087005">
 <node TEXT="observed" ID="ID_666492431" CREATED="1429259410165" MODIFIED="1429259411354"/>
 </node>
 </node>
-<node TEXT="&quot;And what if [that same _]?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_373107960" CREATED="1436422399572" MODIFIED="1436422461652">
-<font BOLD="false"/>
-<node TEXT="= in response to &quot;[How to _.]&quot;" ID="ID_911607235" CREATED="1436422430748" MODIFIED="1436422435218"/>
-<node TEXT="e.g. re. me" ID="ID_443052095" CREATED="1436423276325" MODIFIED="1436423278692">
-<node TEXT="these are dup for underst, are developed for bhv at go.mm" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_417250543" CREATED="1436422535068" MODIFIED="1436423291529"/>
-<node TEXT="what if dwt" ID="ID_766245926" CREATED="1436422438204" MODIFIED="1436422439618">
-<node TEXT="perhaps I do not think I deserve dwt, and should think more about the consequences of getting it" ID="ID_639962387" CREATED="1430030842309" MODIFIED="1430108759038"/>
-</node>
-<node TEXT="what if community" ID="ID_445742716" CREATED="1444193421284" MODIFIED="1444193434302"/>
-<node TEXT="what if woman" ID="ID_681619934" CREATED="1436422441076" MODIFIED="1436422442611"/>
-<node TEXT="what if happy" ID="ID_716742071" CREATED="1436422450828" MODIFIED="1436422452658"/>
-</node>
-</node>
+<node TEXT="expect-interpret-forecast" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_819401519" CREATED="1453886934232" MODIFIED="1453887018397"/>
+<node TEXT="intlzd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1364258277" CREATED="1453889026737" MODIFIED="1453889030102">
 <node TEXT="don&apos;t frontload all the learning" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1463311924" CREATED="1430003318524" MODIFIED="1436423523215">
 <font BOLD="false"/>
 <node TEXT="The marginal gain from studying more Scala will be higher once I have put what I have learned so far into practice." LOCALIZED_STYLE_REF="styles.topic" ID="ID_1897304361" CREATED="1430003334686" MODIFIED="1438200743049"/>
 </node>
-<node TEXT="soc learn &amp; not-punish" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_46549281" CREATED="1436422226564" MODIFIED="1438200779666">
+</node>
+<node TEXT="learn - punish" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_46549281" CREATED="1436422226564" MODIFIED="1453889109756">
 <font BOLD="false"/>
 <node TEXT="soc learn, the process of society as a group learning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1029128431" CREATED="1436422247580" MODIFIED="1436422257144"/>
 <node TEXT="no punish but review, recite, try to sound out the concepts" ID="ID_35263280" CREATED="1422138992408" MODIFIED="1430115325885"/>
+</node>
+<node TEXT="sub-read head, local, likely inverted" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_865712280" CREATED="1453886374975" MODIFIED="1453890760667">
+<font BOLD="false"/>
 </node>
 <node TEXT="rational stopping" LOCALIZED_STYLE_REF="default" ID="ID_1074692196" CREATED="1430463253601" MODIFIED="1439426603748">
 <node TEXT="= the stop of effort into _" ID="ID_972723676" CREATED="1430356026484" MODIFIED="1430463272568"/>
@@ -1140,17 +1134,29 @@
 </node>
 <node TEXT="dates" POSITION="right" ID="ID_276956326" CREATED="1440193983126" MODIFIED="1440193983646">
 <node TEXT="2015 08 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1160908458" CREATED="1440193994439" MODIFIED="1440193996883"/>
-<node TEXT="pin someone down to see through them" ID="ID_206297139" CREATED="1440126190120" MODIFIED="1440126196681">
+<node TEXT="speed v. truth :: id &amp; expr|rep :-: pin down to see through" ID="ID_206297139" CREATED="1440126190120" MODIFIED="1453886321214">
 <node TEXT="?only to" ID="ID_405674272" CREATED="1440126197368" MODIFIED="1440126200096"/>
+<node TEXT="objects of it" ID="ID_1138399436" CREATED="1453886198151" MODIFIED="1453886203436">
+<node TEXT="a fact" ID="ID_340690098" CREATED="1453885955391" MODIFIED="1453885957841"/>
+<node TEXT="acts" ID="ID_609386909" CREATED="1453885958808" MODIFIED="1453885975420"/>
+</node>
+<node TEXT="&quot;to name _ hastily was good, worth the biasing of it&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_687895138" CREATED="1453886213239" MODIFIED="1453886246209"/>
 </node>
 <node TEXT="2016 01 06" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_486466578" CREATED="1452156114820" MODIFIED="1452156118428"/>
-<node TEXT="when do you look at a|which picture" ID="ID_1005590307" CREATED="1451879427751" MODIFIED="1451879576988">
+<node TEXT="&amp; info experie choi :: when do you look at a|which picture" ID="ID_1005590307" CREATED="1451879427751" MODIFIED="1453885711919">
 <node TEXT="whose picture" ID="ID_1755496238" CREATED="1451879447151" MODIFIED="1451879448775"/>
 <node TEXT="am always two procs: sensory input and internal proc" ID="ID_995116008" CREATED="1451879456455" MODIFIED="1451879472469">
 <node TEXT="and third, output, action; I wrote that one graph-lower because looking at a picture does not imply it" ID="ID_1228104321" CREATED="1451879530710" MODIFIED="1451879560495"/>
 </node>
-<node TEXT="cloven personality, observer and actor" ID="ID_707453252" CREATED="1451879507687" MODIFIED="1451879519811"/>
+<node TEXT="? observer, actor :: distinct valid programs" LOCALIZED_STYLE_REF="styles.topic" ID="ID_707453252" CREATED="1451879507687" MODIFIED="1453885909537">
+<node TEXT="serial? parallel? parallel selfoids touring a collection of such programs?" ID="ID_1739963182" CREATED="1453885799328" MODIFIED="1453885850844"/>
 </node>
+</node>
+<node TEXT="every change total :: &amp; time" ID="ID_654157300" CREATED="1453885575607" MODIFIED="1453886189785"/>
+</node>
+<node TEXT="read head" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_973948188" CREATED="1453886366031" MODIFIED="1453886402674">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1502630043" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<font BOLD="false"/>
 </node>
 </node>
 </map>

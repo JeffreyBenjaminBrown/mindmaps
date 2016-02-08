@@ -2628,6 +2628,10 @@
 </node>
 <node TEXT="dates" POSITION="right" ID="ID_488724657" CREATED="1442521031738" MODIFIED="1442522152919">
 <font BOLD="true"/>
+<node TEXT="reading down" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_959226660" CREATED="1454830061741" MODIFIED="1454830068586">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1140179076" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="yuck&apos;" ID="ID_1578254775" CREATED="1454830215381" MODIFIED="1454830216597">
 <node TEXT="07 28" ID="ID_1668678216" CREATED="1442521077050" MODIFIED="1442521208264">
 <node TEXT="love &amp; surrender" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1182156114" CREATED="1438139726596" MODIFIED="1442518405944">
 <node TEXT="ignorant harmony" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_324438612" CREATED="1438132301217" MODIFIED="1438141870551">
@@ -2660,12 +2664,15 @@
 </node>
 </node>
 <node TEXT="(perfect)monk regret" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1442003840" CREATED="1444104944391" MODIFIED="1444105012095">
-<node TEXT="saw _ in [read,writ,study]ing alone, did it for decades, became good, rediscovered others distasteful, regretted the love of study" LOCALIZED_STYLE_REF="default" ID="ID_1708833536" CREATED="1438133608266" MODIFIED="1444103178859"/>
+<node TEXT="saw [oppor] in [read,writ,study]ing alone, did it for decades, became good, rediscovered others distasteful, regretted the love of study" LOCALIZED_STYLE_REF="default" ID="ID_1708833536" CREATED="1438133608266" MODIFIED="1454830198722"/>
 <node TEXT="~ bitter" ID="ID_1449240799" CREATED="1442518704666" MODIFIED="1442518712574"/>
 </node>
 </node>
+</node>
 <node TEXT="07 29" ID="ID_559231427" CREATED="1442521043834" MODIFIED="1442521045736">
+<node TEXT="reading down" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1140179076" CREATED="1454830061741" MODIFIED="1454830068595"/>
 <node TEXT="rich !! famous" ID="ID_1357856858" CREATED="1444104076911" MODIFIED="1444104083580">
+<node TEXT="somewhat they know (about) each other" ID="ID_807650904" CREATED="1454830237789" MODIFIED="1454830265734"/>
 <node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1517994353" CREATED="1444104086063" MODIFIED="1444104091878">
 <node TEXT="who from the famous see(and how) the rich" ID="ID_133450198" CREATED="1442519186890" MODIFIED="1444104067492">
 <node TEXT="the rich|powerful reflect strangely across the famous|tv too" ID="ID_1314168786" CREATED="1438210613085" MODIFIED="1438210623187">
@@ -3055,8 +3062,8 @@
 <node TEXT="give ample time to another&apos;s process of realizing what [feelings, experience] mean to them" ID="ID_938688589" CREATED="1433393825176" MODIFIED="1439409799812"/>
 </node>
 <node TEXT="tension" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1424515251" CREATED="1444159784087" MODIFIED="1444159802500">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008009414" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1047741205" STARTINCLINATION="143;0;" ENDINCLINATION="143;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008009414" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="info being" ID="ID_1107035973" CREATED="1442621550244" MODIFIED="1442622669572">
 <font BOLD="true"/>
@@ -3384,6 +3391,8 @@
 </node>
 </node>
 <node TEXT="2016 01 16" ID="ID_1424243089" CREATED="1452973807671" MODIFIED="1452973810902">
+<node TEXT="unprocessed" ID="ID_1203559167" CREATED="1454831022909" MODIFIED="1454831038620">
+<font BOLD="true"/>
 <node TEXT="justice ? read what someone says (twitter) before what wikipedia says about them" ID="ID_1749023748" CREATED="1452923073542" MODIFIED="1452923097433"/>
 <node TEXT="? can you trust wikipedia for celebrities" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1071503378" CREATED="1452924000819" MODIFIED="1452924018567"/>
 <node TEXT="wiki authority ? problem" ID="ID_1714177391" CREATED="1452898073002" MODIFIED="1452898083593">
@@ -3396,21 +3405,60 @@
 <node TEXT="they thank you for your service and don&apos;t inquire or criticize" ID="ID_826328767" CREATED="1452896032276" MODIFIED="1452896069275">
 <node TEXT="to performers" ID="ID_2738423" CREATED="1452896052003" MODIFIED="1452896065088"/>
 </node>
-<node TEXT="? ten commandments for social processing" ID="ID_1329605450" CREATED="1452887424952" MODIFIED="1452972901309">
-<node TEXT="seek and engage diversity. talk to people who believe different things" ID="ID_206623228" CREATED="1452887433782" MODIFIED="1452887454262"/>
 </node>
-<node TEXT="&quot;If you can see me I can see you.&quot;" ID="ID_1533819786" CREATED="1452887050257" MODIFIED="1452887056193">
-<node TEXT="bowie" ID="ID_1280893723" CREATED="1452972927511" MODIFIED="1452972928584"/>
+<node TEXT="rule" ID="ID_1907724945" CREATED="1454831044038" MODIFIED="1454831047037">
+<font BOLD="true"/>
+<node TEXT="not just list the rules; explain where they lead" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1134680981" CREATED="1443232108645" MODIFIED="1454831161786"/>
+<node TEXT="=like ten commandments for social processing" ID="ID_1329605450" CREATED="1452887424952" MODIFIED="1454831054650">
+<font BOLD="true"/>
 </node>
+<node TEXT="engage diversity" ID="ID_613344392" CREATED="1454831060550" MODIFIED="1454831064452">
+<node TEXT="talk to people who believe different things" ID="ID_206623228" CREATED="1452887433782" MODIFIED="1454831068724"/>
+</node>
+<node TEXT="transferred, unprocd" ID="ID_1761796131" CREATED="1443153088732" MODIFIED="1454831144001">
+<font BOLD="true"/>
+<node TEXT="(neg null?) Reward no evil. Speak (conjecture?) no evil. Fixate not on punishment. #goodrules" ID="ID_1359467043" CREATED="1443153030924" MODIFIED="1443153342015"/>
+<node TEXT="Imagine how others feel, what is possible for|of them. #goodrules" ID="ID_1970003659" CREATED="1443153092316" MODIFIED="1443153313690">
+<node TEXT="Work not too hard for yourself, relative to for others." LOCALIZED_STYLE_REF="styles.topic" ID="ID_1897329681" CREATED="1443153400437" MODIFIED="1443153433003"/>
+</node>
+<node TEXT="study them &gt; envision bad around them" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1852226757" CREATED="1448306488189" MODIFIED="1448306528120">
+<node TEXT="a karmic rule that you need not investigate hypothetical bads by others; investigate rather the others directly, and other things" ID="ID_108466219" CREATED="1448010082172" MODIFIED="1454831260155"/>
+</node>
+<node TEXT="complain only to the right peoiple" ID="ID_1504730641" CREATED="1453688006073" MODIFIED="1453688012263">
+<node TEXT="\rule" ID="ID_1115262519" CREATED="1453688014432" MODIFIED="1453688021423"/>
+</node>
+<node TEXT="rule / tell people what they are to you" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1463857136" CREATED="1453748598859" MODIFIED="1453748604510"/>
+<node TEXT="rule / do not cut someone off without at least sharing information with them" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1969518682" CREATED="1453889191921" MODIFIED="1454020652242">
+<node TEXT="learning would stall otherwise" ID="ID_271271762" CREATED="1453889254777" MODIFIED="1453889262167"/>
+</node>
+</node>
+</node>
+<node TEXT="compromise" ID="ID_1631852528" CREATED="1454830886077" MODIFIED="1454830888395">
+<node TEXT="cooperate with people whose other actions you disagree with" ID="ID_1113715589" CREATED="1454830769030" MODIFIED="1454830928203"/>
 <node TEXT="&quot;my mother said, to get things done, you&apos;d better not mess with major tom&quot;" ID="ID_1069758255" CREATED="1452886848908" MODIFIED="1452886861375">
 <node TEXT="bowie" ID="ID_979790735" CREATED="1452972927511" MODIFIED="1452972928584"/>
 </node>
-<node TEXT="&quot;I&apos;m so thankful that we&apos;re strangers when we meet.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_465215794" CREATED="1452807817675" MODIFIED="1452973261297">
+</node>
+<node TEXT="&quot;I&apos;m so thankful that we&apos;re strangers when we meet.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_465215794" CREATED="1452807817675" MODIFIED="1454830744730">
 <node TEXT="the music he chose for this is I think really good too" ID="ID_701386860" CREATED="1452807827987" MODIFIED="1452807839210"/>
 <node TEXT="&quot;[MIT] ... but uh ...&quot;" ID="ID_1769084831" CREATED="1452887143645" MODIFIED="1452887151711">
 <node TEXT="an authority the disproof of which is common knowledge in" ID="ID_954397114" CREATED="1452887153493" MODIFIED="1452887183555"/>
 </node>
 <node TEXT="bowie" ID="ID_1888166815" CREATED="1452972927511" MODIFIED="1452972928584"/>
+</node>
+<node TEXT="meh" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1646801612" CREATED="1454830992766" MODIFIED="1454831006031">
+<node TEXT="&quot;If you can see me I can see you.&quot;" ID="ID_1533819786" CREATED="1452887050257" MODIFIED="1452887056193">
+<node TEXT="bowie" ID="ID_1280893723" CREATED="1452972927511" MODIFIED="1452972928584"/>
+</node>
+</node>
+</node>
+<node TEXT="02 06" ID="ID_530721231" CREATED="1454830050141" MODIFIED="1454830053884">
+<node TEXT="put someone&apos;s problems, logic to work solving their problems" ID="ID_997660946" CREATED="1454829976805" MODIFIED="1454829984802">
+<node TEXT="one problem as another&apos;s solution" ID="ID_1321281964" CREATED="1454829995581" MODIFIED="1454830002980"/>
+</node>
+<node TEXT="be the deal, the money" ID="ID_1735804251" CREATED="1454830375573" MODIFIED="1454830379460">
+<node TEXT="selfless" ID="ID_1966304657" CREATED="1454830382957" MODIFIED="1454830385748"/>
+<node TEXT="abstract, alien, connective" ID="ID_111700369" CREATED="1454830392390" MODIFIED="1454830401064"/>
 </node>
 </node>
 </node>

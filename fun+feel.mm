@@ -81,7 +81,58 @@
 </node>
 </node>
 <node TEXT="~ devel" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1440416177" CREATED="1444167249940" MODIFIED="1444167253516"/>
-<node TEXT="trance ? narrow focus" POSITION="right" ID="ID_1045200167" CREATED="1444721903546" MODIFIED="1444721911936"/>
+<node TEXT="envis" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1889602581" CREATED="1453888113936" MODIFIED="1453888116347">
+<node TEXT="these are dup for underst, are developed for bhv at go.mm" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_417250543" CREATED="1436422535068" MODIFIED="1436423291529"/>
+<node TEXT="objects" ID="ID_1940469068" CREATED="1453888148272" MODIFIED="1453888158592">
+<node TEXT="what if dwt" ID="ID_766245926" CREATED="1436422438204" MODIFIED="1436422439618">
+<node TEXT="perhaps I do not think I deserve dwt, and should think more about the consequences of getting it" ID="ID_639962387" CREATED="1430030842309" MODIFIED="1430108759038"/>
+</node>
+<node TEXT="what if community" ID="ID_445742716" CREATED="1444193421284" MODIFIED="1444193434302">
+<node TEXT="bicycling" ID="ID_923591539" CREATED="1453887255888" MODIFIED="1453887257511"/>
+<node TEXT="people invent things, grow things" ID="ID_665195816" CREATED="1453887261336" MODIFIED="1453887270405"/>
+<node TEXT="dances, games, worldmaking" ID="ID_919820239" CREATED="1453887279784" MODIFIED="1453887296423"/>
+<node TEXT="labor, leisure" ID="ID_866637382" CREATED="1453887341824" MODIFIED="1453887414204"/>
+</node>
+<node TEXT="what if partner" ID="ID_681619934" CREATED="1436422441076" MODIFIED="1453887472479">
+<node TEXT=". unlike" ID="ID_877906220" CREATED="1453887806416" MODIFIED="1453887834766"/>
+<node TEXT="be completely known" ID="ID_1508203500" CREATED="1453887473248" MODIFIED="1453887476295">
+<node TEXT="hallucinable" ID="ID_377367835" CREATED="1453887557720" MODIFIED="1453887573835"/>
+<node TEXT="?decidable" ID="ID_205042996" CREATED="1453887622000" MODIFIED="1453887624719">
+<node TEXT="perhaps nobody decides but you. or you plural." ID="ID_1015964399" CREATED="1453887628920" MODIFIED="1453887640552"/>
+</node>
+</node>
+<node TEXT="? feel more important" ID="ID_574183804" CREATED="1453888197168" MODIFIED="1453888210559"/>
+<node TEXT="? partner in fantasy" ID="ID_707398902" CREATED="1453887800736" MODIFIED="1453888291045">
+<node TEXT="who has time for fantasy?" ID="ID_1307248317" CREATED="1453888292456" MODIFIED="1453888296647"/>
+</node>
+</node>
+<node TEXT="what if happy" ID="ID_1825975914" CREATED="1436422450828" MODIFIED="1436422452658">
+<node TEXT="oppor, real local" ID="ID_324452647" CREATED="1453887748952" MODIFIED="1453887779684">
+<node TEXT="buy things for families" ID="ID_426473508" CREATED="1453888030944" MODIFIED="1453888034319"/>
+<node TEXT="fun parties" ID="ID_324900207" CREATED="1453888024816" MODIFIED="1453888026663"/>
+</node>
+<node TEXT="art, humor &amp; socj bottom-up" ID="ID_1930584515" CREATED="1453887702520" MODIFIED="1453887966066"/>
+</node>
+</node>
+<node TEXT="about pacing, mangled in transfer" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1721071000" CREATED="1453888234064" MODIFIED="1453888254529">
+<node TEXT="&quot;And what if [hoped-for state]?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_373107960" CREATED="1436422399572" MODIFIED="1453887139628">
+<font BOLD="false"/>
+<node TEXT="= in response to &quot;[How to _.]&quot;" ID="ID_911607235" CREATED="1436422430748" MODIFIED="1436422435218"/>
+<node TEXT="e.g. re. me" ID="ID_443052095" CREATED="1436423276325" MODIFIED="1436423278692"/>
+</node>
+</node>
+</node>
+<node TEXT="ratl $ hedon, fantasy, trance" POSITION="right" ID="ID_925497054" CREATED="1453888324160" MODIFIED="1453888774054">
+<node TEXT="= passive (movies) and active (roleplay)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_427464066" CREATED="1453888388368" MODIFIED="1453888399919"/>
+<node TEXT="? do I feel better from it, after and outside of it" ID="ID_1576619127" CREATED="1453888350528" MODIFIED="1453888422098"/>
+<node TEXT="suspension of disbelief &amp;&amp; rational, hedonic" ID="ID_128402617" CREATED="1453888468368" MODIFIED="1453888527143">
+<node TEXT="maybe like a high discount factor, but higher-dimensional" ID="ID_1216647542" CREATED="1453888561801" MODIFIED="1453888606525"/>
+</node>
+<node TEXT="I want to traverse trance states, cognitively whole for the entire experience." ID="ID_656839187" CREATED="1453888631592" MODIFIED="1453888696936"/>
+</node>
+<node TEXT="trance ? narrow focus" POSITION="right" ID="ID_1045200167" CREATED="1444721903546" MODIFIED="1444721911936">
+<node TEXT="can be wide in a narrow activity, e.g. 360-vision during a chase" ID="ID_533178133" CREATED="1453888850049" MODIFIED="1453888904119"/>
+</node>
 <node TEXT="proc / hedon" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_757712863" CREATED="1424239204542" MODIFIED="1444162453487">
 <font BOLD="true"/>
 <node TEXT="hedon &amp; will" ID="ID_1908116532" CREATED="1444161789976" MODIFIED="1444161796118">
