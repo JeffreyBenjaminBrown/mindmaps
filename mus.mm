@@ -1821,8 +1821,8 @@
 <node TEXT="power" ID="ID_78905653" CREATED="1382940067778" MODIFIED="1382940068741"/>
 </node>
 <node TEXT="audio cables" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_202958783" CREATED="1382940156855" MODIFIED="1382940199118">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_582349507" STARTINCLINATION="95;0;" ENDINCLINATION="95;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1316643579" STARTINCLINATION="110;0;" ENDINCLINATION="110;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_582349507" STARTINCLINATION="95;0;" ENDINCLINATION="95;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="audio adaptors" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_5898524" CREATED="1382940191182" MODIFIED="1382941739739"/>
 <node TEXT="power strip" LOCALIZED_STYLE_REF="styles.topic" ID="ID_124985686" CREATED="1382940694791" MODIFIED="1382941735748"/>
@@ -14840,7 +14840,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="in a hole, happy, generous to visitors" ID="ID_1770517543" CREATED="1454702545120" MODIFIED="1454702551144"/>
@@ -14856,6 +14855,27 @@
 <node TEXT="was" ID="ID_1039837179" CREATED="1454699057694" MODIFIED="1454699058105">
 <node TEXT="when stuck in left hand at 0 7 2&apos; because unwilling to give up range, give up range" LOCALIZED_STYLE_REF="default" ID="ID_1448898220" CREATED="1454699019681" MODIFIED="1454699057240"/>
 </node>
+</node>
+</node>
+<node TEXT="08" POSITION="right" ID="ID_1748134954" CREATED="1454971525535" MODIFIED="1454971527318">
+<node TEXT="wah pedal: gradual, explaining phrasing" ID="ID_1539187557" CREATED="1454708161005" MODIFIED="1454708174511">
+<node TEXT="like breath" ID="ID_1196572401" CREATED="1454708178509" MODIFIED="1454708180428"/>
+</node>
+<node TEXT="learning :: tidal v. keyboard" ID="ID_1281326944" CREATED="1454967048358" MODIFIED="1454967056710">
+<node TEXT="I learn more about pitch patterns from a keyboard and fingers than I do from tidal. But in tidal I can explore just intonation, etc." ID="ID_1537698147" CREATED="1454706559615" MODIFIED="1454706594712"/>
+</node>
+<node TEXT="if a b a b&apos;, make b&apos; more complex" ID="ID_467339067" CREATED="1454573795055" MODIFIED="1454967532059"/>
+<node TEXT="add one pitch|voice and a dur to e and pi strictly matched" LOCALIZED_STYLE_REF="default" ID="ID_1316500464" CREATED="1454573340423" MODIFIED="1454967586624"/>
+<node TEXT="\rockers, saluted, committed" ID="ID_1718313164" CREATED="1450494530273" MODIFIED="1450494548927"/>
+<node TEXT="music: of code" ID="ID_983562061" CREATED="1450496005748" MODIFIED="1450496007950"/>
+<node TEXT="choosing bass to tie everything together by a certain (falling 5ths) logic" ID="ID_590178836" CREATED="1450500791201" MODIFIED="1450500812021"/>
+<node TEXT="add minimal bass, voices to rationalize" ID="ID_159119098" CREATED="1450500980640" MODIFIED="1450500987883"/>
+<node TEXT="write lurk/tidal  $  praise &gt;?&lt; silence" ID="ID_244370025" CREATED="1454408170662" MODIFIED="1454408195825"/>
+<node TEXT="finish my sentences" ID="ID_1436710236" CREATED="1435034528175" MODIFIED="1435034533834">
+<node TEXT="anticipate what someone would hear as a setup and follow it through" LOCALIZED_STYLE_REF="default" ID="ID_1793263060" CREATED="1435034534600" MODIFIED="1437619310029"/>
+</node>
+<node TEXT="imagine what (preexisting in them) projects one&apos;s music might encourage in a listener, serve the average weighted by care" ID="ID_1146973724" CREATED="1435034670294" MODIFIED="1435034697332">
+<node TEXT="if [subgroup] care more, speak to them" ID="ID_101460189" CREATED="1435034704569" MODIFIED="1435034729669"/>
 </node>
 </node>
 </node>

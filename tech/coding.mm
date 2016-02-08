@@ -16928,6 +16928,21 @@
 <node TEXT="collect at fresh.mm, manip in dwt" LOCALIZED_STYLE_REF="default" ID="ID_1165461467" CREATED="1450250130995" MODIFIED="1454969890914">
 <node TEXT="good oppor to keep copy of orig" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1089785510" CREATED="1450250140385" MODIFIED="1450250159621"/>
 </node>
+<node TEXT="&quot; of reporting /= &quot; of conjecture" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1650894889" CREATED="1454705478812" MODIFIED="1454705493212">
+<node TEXT="example, dup" ID="ID_453663658" CREATED="1454705502556" MODIFIED="1454705506252">
+<node TEXT="see the blue node" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1203599721" CREATED="1454967161182" MODIFIED="1454967167159"/>
+<node TEXT="strawberry fields ~ religion" ID="ID_143918039" CREATED="1454705290981" MODIFIED="1454705326860">
+<node TEXT="&quot;let me take you down&quot;" ID="ID_950715602" CREATED="1454705413349" MODIFIED="1454705418334">
+<node TEXT="&quot;because I&apos;m _&quot;" ID="ID_1923761730" CREATED="1454705421108" MODIFIED="1454705428628"/>
+</node>
+<node TEXT="&quot;nothing is real&quot;" ID="ID_221163454" CREATED="1454705295646" MODIFIED="1454705333620"/>
+<node TEXT="&quot;living is easy with eyes closed, misunderst all you see.&#xa;it&apos;s getting hard to be someone but it all works out, that is I think it&apos;s&quot; (&quot;meant to be?&quot;)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_425424053" CREATED="1454705349741" MODIFIED="1454967164983"/>
+</node>
+</node>
+</node>
+<node TEXT="sidedness matters less for . than for ) and most for &quot; or other single-character brackets" ID="ID_842530324" CREATED="1454128740362" MODIFIED="1454128783098">
+<node TEXT="that&apos;s not always how &apos; is used" ID="ID_1314684713" CREATED="1454128788522" MODIFIED="1454128795080"/>
+</node>
 </node>
 <node TEXT="haskell, handy" POSITION="right" ID="ID_950360966" CREATED="1454137477591" MODIFIED="1454137482175">
 <node TEXT="can mix qual &amp; unqual imports" ID="ID_1722754309" CREATED="1454137515895" MODIFIED="1454137520389">

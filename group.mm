@@ -3460,6 +3460,31 @@
 <node TEXT="selfless" ID="ID_1966304657" CREATED="1454830382957" MODIFIED="1454830385748"/>
 <node TEXT="abstract, alien, connective" ID="ID_111700369" CREATED="1454830392390" MODIFIED="1454830401064"/>
 </node>
+<node TEXT="should you prove having friends to other friends?" ID="ID_680968263" CREATED="1454742299979" MODIFIED="1454742307345"/>
+<node TEXT="you can risk your own stuff if someone else asks you to, but not someone else&apos;s" ID="ID_1940461073" CREATED="1454706489843" MODIFIED="1454967112857">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_23557078" STARTINCLINATION="65;0;" ENDINCLINATION="65;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="\rule , but obscure" ID="ID_920025187" CREATED="1454706507771" MODIFIED="1454967124483"/>
+</node>
+<node TEXT="you can say no. you can&apos;t get mad if someone else says no." ID="ID_23557078" CREATED="1454967096190" MODIFIED="1454967104779">
+<node TEXT="\rule" ID="ID_624532092" CREATED="1454967105238" MODIFIED="1454967107355"/>
+</node>
+<node TEXT="? afraid to know someone too quickly" ID="ID_399701441" CREATED="1454574014415" MODIFIED="1454574039977"/>
+<node TEXT="understanding album $ as (video?)game" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_287994850" CREATED="1454572334686" MODIFIED="1454967694046">
+<node TEXT="how another&apos;s experience finds(sudden, permanent) focus" ID="ID_545031167" CREATED="1454572352070" MODIFIED="1454967676894"/>
+</node>
+<node TEXT="?&gt; redact power" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_852332233" CREATED="1454532325925" MODIFIED="1454532330916"/>
+<node TEXT="upon parting, share the story as I remember it, compare to theirs" ID="ID_669504102" CREATED="1454127923225" MODIFIED="1454127932511"/>
+<node TEXT="? lead with the biggest ask" ID="ID_199766509" CREATED="1454039428948" MODIFIED="1454039432324">
+<node TEXT="honor, -weasel" ID="ID_1146167596" CREATED="1454039461084" MODIFIED="1454039470612"/>
+</node>
+<node TEXT="for conflict : sidways" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_944411177" CREATED="1454969045854" MODIFIED="1454969062819">
+<node TEXT="if believe there is disagreement, do not ask other member whether it is; engage on something else" ID="ID_203791763" CREATED="1454038087734" MODIFIED="1454038115036"/>
+</node>
+<node TEXT="musicals, whispers, the dynamic of a city waking" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_50080432" CREATED="1450406513152" MODIFIED="1454969470296"/>
+<node TEXT="planning for failure" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1256333647" CREATED="1454971673199" MODIFIED="1454971689601">
+<node TEXT="asymptotically tending as if expecting a later betrayal" LOCALIZED_STYLE_REF="default" ID="ID_1155826575" CREATED="1427762105331" MODIFIED="1454971690242"/>
+</node>
+<node TEXT="? what would it prove if _ agreed to _ again" ID="ID_947083540" CREATED="1432351521453" MODIFIED="1437637873442"/>
 </node>
 </node>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>

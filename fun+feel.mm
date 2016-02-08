@@ -1147,6 +1147,9 @@
 <node TEXT="career" ID="ID_1670088637" CREATED="1426367048386" MODIFIED="1426367050066"/>
 </node>
 </node>
+<node TEXT="work : cyc, threshold, sun" ID="ID_645175530" CREATED="1454971826399" MODIFIED="1454971878060">
+<node TEXT="in the day only rest once, triggered by some ?goal condition" ID="ID_1615192182" CREATED="1454036719380" MODIFIED="1454036746899"/>
+</node>
 </node>
 <node TEXT="emotion (nr)" LOCALIZED_STYLE_REF="default" ID="ID_1906339401" CREATED="1432095189257" MODIFIED="1435042687598">
 <font BOLD="true"/>

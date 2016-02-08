@@ -1132,8 +1132,12 @@
 </node>
 </node>
 </node>
+<node TEXT="read head" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_973948188" CREATED="1453886366031" MODIFIED="1453886402674">
+<font BOLD="false"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1502630043" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 <node TEXT="dates" POSITION="right" ID="ID_276956326" CREATED="1440193983126" MODIFIED="1440193983646">
-<node TEXT="2015 08 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1160908458" CREATED="1440193994439" MODIFIED="1440193996883"/>
+<node TEXT="2015 08 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1160908458" CREATED="1440193994439" MODIFIED="1440193996883">
 <node TEXT="speed v. truth :: id &amp; expr|rep :-: pin down to see through" ID="ID_206297139" CREATED="1440126190120" MODIFIED="1453886321214">
 <node TEXT="?only to" ID="ID_405674272" CREATED="1440126197368" MODIFIED="1440126200096"/>
 <node TEXT="objects of it" ID="ID_1138399436" CREATED="1453886198151" MODIFIED="1453886203436">
@@ -1142,7 +1146,8 @@
 </node>
 <node TEXT="&quot;to name _ hastily was good, worth the biasing of it&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_687895138" CREATED="1453886213239" MODIFIED="1453886246209"/>
 </node>
-<node TEXT="2016 01 06" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_486466578" CREATED="1452156114820" MODIFIED="1452156118428"/>
+</node>
+<node TEXT="2016 01 06" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_486466578" CREATED="1452156114820" MODIFIED="1452156118428">
 <node TEXT="&amp; info experie choi :: when do you look at a|which picture" ID="ID_1005590307" CREATED="1451879427751" MODIFIED="1453885711919">
 <node TEXT="whose picture" ID="ID_1755496238" CREATED="1451879447151" MODIFIED="1451879448775"/>
 <node TEXT="am always two procs: sensory input and internal proc" ID="ID_995116008" CREATED="1451879456455" MODIFIED="1451879472469">
@@ -1154,9 +1159,41 @@
 </node>
 <node TEXT="every change total :: &amp; time" ID="ID_654157300" CREATED="1453885575607" MODIFIED="1453886189785"/>
 </node>
-<node TEXT="read head" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_973948188" CREATED="1453886366031" MODIFIED="1453886402674">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1502630043" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<font BOLD="false"/>
+<node TEXT="2016 02 08" ID="ID_1048943704" CREATED="1454966098141" MODIFIED="1454971926331">
+<font BOLD="true"/>
+<node TEXT="transc time ! graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_109264488" CREATED="1454817871499" MODIFIED="1454966569327">
+<node TEXT="can treat did|does|will as similar, without tense, just a pairing to a verb" ID="ID_1546724462" CREATED="1454817889514" MODIFIED="1454817929114"/>
+</node>
+<node TEXT="free to express as whatever gender, or not" ID="ID_490027972" CREATED="1454575314640" MODIFIED="1454967408166">
+<node TEXT="whichever suits at the time, no oblig to consistency" ID="ID_396664092" CREATED="1454575323631" MODIFIED="1454575346750"/>
+</node>
+<node TEXT="prove god ~ perfect pitch" ID="ID_1853496291" CREATED="1454532294357" MODIFIED="1454532298667"/>
+<node TEXT="fast, discarded once used" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1702000355" CREATED="1454532191029" MODIFIED="1454968237016"/>
+<node TEXT="would you forget ? lies" ID="ID_787233191" CREATED="1454128565657" MODIFIED="1454128581879"/>
+<node TEXT="accept ~ forget" ID="ID_315724343" CREATED="1450556251413" MODIFIED="1454969314843">
+<node ID="ID_713487704" CREATED="1454969315376" MODIFIED="1454969315376"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      stop procg, like [earthquake] risk
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="short sample bias ? ubiquitous, invisible" ID="ID_628211071" CREATED="1454969401806" MODIFIED="1454969448351">
+<node TEXT="and not knowing it, to only listen to the|each one&apos;s first few digits" ID="ID_21087212" CREATED="1450406680752" MODIFIED="1450406703259"/>
+</node>
+<node TEXT="with what period evaluate history" ID="ID_1015470236" CREATED="1450307996744" MODIFIED="1450308011341"/>
+<node TEXT="history ~ harmony" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1677541555" CREATED="1450259484340" MODIFIED="1454970001056">
+<node TEXT="ratios, concurrencies" ID="ID_668707999" CREATED="1450259487597" MODIFIED="1454969987431"/>
+</node>
+</node>
 </node>
 </node>
 </map>

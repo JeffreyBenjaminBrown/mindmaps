@@ -16883,6 +16883,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="beautiful ! wish I had time" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_940992490" CREATED="1454138574823" MODIFIED="1454138582819">
 <node TEXT="http://jtobin.ca/monadic-recursion-schemes/" LOCALIZED_STYLE_REF="default" ID="ID_220533406" CREATED="1454126710455" MODIFIED="1454138584508" LINK="http://jtobin.ca/monadic-recursion-schemes/"/>
 </node>
+<node TEXT="IHaskell + HaskellR" ID="ID_674037383" CREATED="1454093588639" MODIFIED="1454093594807">
+<node TEXT="I: ~Mathematica" ID="ID_1864289471" CREATED="1454093599363" MODIFIED="1454093604977"/>
+<node TEXT="R: embed R in H" ID="ID_1640012944" CREATED="1454093605199" MODIFIED="1454093608268"/>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -17691,6 +17695,13 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="define a shortcut" ID="ID_1709110085" CREATED="1417937530323" MODIFIED="1417937532879">
 <node TEXT="http://www.emacswiki.org/emacs/EmacsLispMode" ID="ID_788143078" CREATED="1417937552049" MODIFIED="1417937552049" LINK="http://www.emacswiki.org/emacs/EmacsLispMode"/>
 <node TEXT="(define-key flyspell-mode-map &quot;\M-\t&quot; nil)" ID="ID_952161789" CREATED="1417937533315" MODIFIED="1417937554718"/>
+</node>
+<node TEXT="more swap commands" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1742527121" CREATED="1454466198003" MODIFIED="1454971391627">
+<node TEXT="https://github.com/magnars/expand-region.el" ID="ID_1363696170" CREATED="1454466250171" MODIFIED="1454466250171" LINK="https://github.com/magnars/expand-region.el"/>
+</node>
+<node TEXT="Ctrl-I: dup leading space from prev line" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1525262198" CREATED="1454266978959" MODIFIED="1454971489525">
+<font BOLD="false"/>
+<node TEXT="close! but it&apos;s tabs" ID="ID_447203442" CREATED="1454459767909" MODIFIED="1454459772775"/>
 </node>
 </node>
 <node TEXT="&amp; emacs haskell mode" ID="ID_1116620833" CREATED="1443926800174" MODIFIED="1445329587709">
@@ -18676,8 +18687,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -19612,6 +19623,10 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="as want melody variations on mult pitch instr&apos;s, so want rhythm variations on mult drumsets" ID="ID_864794991" CREATED="1454395148385" MODIFIED="1454395180608"/>
 </node>
 <node TEXT="is protate obsolete, for when patterns carried lengths?" ID="ID_85829744" CREATED="1454553449790" MODIFIED="1454553457814"/>
+<node TEXT="&quot;the transition functions&quot;" ID="ID_1050779522" CREATED="1454622061646" MODIFIED="1454622065232">
+<node TEXT="via lurk/tidal, thread &quot;why tidal?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1080089872" CREATED="1454622095967" MODIFIED="1454622107340"/>
+<node TEXT="Ben Gold wishes it was easier to evolve in Tidal rather than stay fixed in a groove, and says he wants to learn the transition functions for that reason." ID="ID_755536694" CREATED="1454622065679" MODIFIED="1454622088305"/>
+</node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">

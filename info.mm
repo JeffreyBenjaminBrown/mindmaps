@@ -1707,6 +1707,14 @@
 <font BOLD="false"/>
 </node>
 </node>
+<node TEXT="2016 02 08" ID="ID_1831362229" CREATED="1454971574063" MODIFIED="1454971577094">
+<node TEXT="for every concept, one uncertainty neighborhood of concepts" ID="ID_558541408" CREATED="1454571518192" MODIFIED="1454967732275"/>
+<node TEXT="if it smells like suddoku, stop" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1275134336" CREATED="1432356184960" MODIFIED="1437637244393">
+<node TEXT="\ bootstrap" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_172613536" CREATED="1437637253472" MODIFIED="1437637259153"/>
+<node TEXT="is dup, this one behavioral instruction, other|main one cog question" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_134037536" CREATED="1436410953578" MODIFIED="1436410976255"/>
+<node TEXT="is the distinction clear" ID="ID_194365689" CREATED="1436410943377" MODIFIED="1436410952832"/>
+</node>
+</node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">
 <node TEXT="= &gt; infer" ID="ID_1016200156" CREATED="1425363866048" MODIFIED="1425363871854"/>
@@ -2202,27 +2210,6 @@
 <node TEXT=". the ease with which" ID="ID_799486293" CREATED="1424990814209" MODIFIED="1424990817183"/>
 <node TEXT="&quot;We fucked this (property) up over a subspace (over a pair of words in a dictionary) to demonstrate the rule.&quot;" ID="ID_1853218157" CREATED="1424990743937" MODIFIED="1425084506637">
 <node TEXT="e.g. how to spell &quot;weird&quot;" ID="ID_910532340" CREATED="1437639403650" MODIFIED="1437639409599"/>
-</node>
-</node>
-</node>
-<node TEXT="alien" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1489617957" CREATED="1437636927407" MODIFIED="1437639528276">
-<node TEXT="asymptotically tending as if expecting a later betrayal" ID="ID_1155826575" CREATED="1427762105331" MODIFIED="1427762117105"/>
-<node TEXT="? what would it prove if _ agreed to _ again" ID="ID_947083540" CREATED="1432351521453" MODIFIED="1437637873442"/>
-<node TEXT="? trapped liking it there" LOCALIZED_STYLE_REF="default" ID="ID_1105473156" CREATED="1432355253304" MODIFIED="1437637228337">
-<node TEXT="addiction" ID="ID_1511792616" CREATED="1437637232408" MODIFIED="1437637233661"/>
-<node TEXT="romance" ID="ID_1425535610" CREATED="1437637233880" MODIFIED="1437637235661"/>
-</node>
-<node TEXT="if it smells like suddoku, stop" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1275134336" CREATED="1432356184960" MODIFIED="1437637244393">
-<node TEXT="\ bootstrap" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_172613536" CREATED="1437637253472" MODIFIED="1437637259153"/>
-<node TEXT="is dup, this one behavioral instruction, other|main one cog question" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_134037536" CREATED="1436410953578" MODIFIED="1436410976255"/>
-<node TEXT="is the distinction clear" ID="ID_194365689" CREATED="1436410943377" MODIFIED="1436410952832"/>
-</node>
-<node TEXT="music" ID="ID_383956787" CREATED="1435034525879" MODIFIED="1435034527502">
-<node TEXT="finish my sentences" ID="ID_1436710236" CREATED="1435034528175" MODIFIED="1435034533834">
-<node TEXT="anticipate what someone would hear as a setup and follow it through" LOCALIZED_STYLE_REF="default" ID="ID_1793263060" CREATED="1435034534600" MODIFIED="1437619310029"/>
-</node>
-<node TEXT="imagine what (preexisting in them) projects one&apos;s music might encourage in a listener, serve the average weighted by care" ID="ID_1146973724" CREATED="1435034670294" MODIFIED="1435034697332">
-<node TEXT="if [subgroup] care more, speak to them" ID="ID_101460189" CREATED="1435034704569" MODIFIED="1435034729669"/>
 </node>
 </node>
 </node>
