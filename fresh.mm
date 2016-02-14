@@ -7900,8 +7900,22 @@
 <node TEXT="soc: search at many depths at once" ID="ID_1943118023" CREATED="1454304989689" MODIFIED="1454305015543">
 <node TEXT="strangers, friends, etc." ID="ID_98905689" CREATED="1454305016370" MODIFIED="1454305021215"/>
 </node>
+<node TEXT="&quot;don&apos;t make the other wrong&quot;" ID="ID_911264147" CREATED="1454977636731" MODIFIED="1454977640182"/>
+<node TEXT="sort (art, ag, ..) ~ invest in mindstates, ?personas" ID="ID_479354919" CREATED="1452981803594" MODIFIED="1452981833200"/>
+</node>
+<node TEXT="8" ID="ID_1327852655" CREATED="1454985368362" MODIFIED="1454985373496">
+<node TEXT="the time I was an animal" ID="ID_1694619081" CREATED="1454985363482" MODIFIED="1454985406818">
+<node TEXT="was: day&lt;-time" ID="ID_921738195" CREATED="1454985408611" MODIFIED="1454985421760"/>
+</node>
+<node TEXT="to rockstar is toward children" ID="ID_323704132" CREATED="1455004134591" MODIFIED="1455004140364"/>
+</node>
+<node TEXT="11" ID="ID_193030685" CREATED="1455260551901" MODIFIED="1455260572043">
+<node TEXT="wrong about need" ID="ID_836928002" CREATED="1455260554101" MODIFIED="1455260556042"/>
+</node>
+<node TEXT="12" ID="ID_701626912" CREATED="1455313136136" MODIFIED="1455313136622">
+<node TEXT="? timestamps distract from trance" ID="ID_678724846" CREATED="1455313137064" MODIFIED="1455313142957"/>
+<node TEXT="worried about costing someone something in a budget I don&apos;t see" ID="ID_1304732192" CREATED="1455343376615" MODIFIED="1455343384060"/>
 </node>
 </node>
-<node TEXT="sort (art, ag, ..) ~ invest in mindstates, ?personas" POSITION="right" ID="ID_479354919" CREATED="1452981803594" MODIFIED="1452981833200"/>
 </node>
 </map>

@@ -18815,7 +18815,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="... Mike,&#xa;&#xa; &lt;~&gt; is a shorthand syntax for preplace (1,1) so it assumes each pattern is one cycle long. So if you are using &quot;every 3&quot; you&apos;d want to use preplace (1,3) to make the rhythm pattern be applied over the cycles of the value pattern to make your &quot;change&quot; appear. Otherwise" ID="ID_1109800567" CREATED="1441875473227" MODIFIED="1441875475794"/>
 </node>
 <node TEXT="more" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_157676914" CREATED="1445328484391" MODIFIED="1445328487473">
-<node TEXT="&#xa;@preplace (blen, plen) beats values@ combines the timing of @beats@ with the values&#xa;of @values@. Other ways of saying this are:&#xa;* sequential convolution&#xa;* @values@ quantized to @beats@.&#xa;&#xa;Examples:&#xa;@&#xa;d1 $ sound $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ preplace (1,1) &quot;x(3,8)&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ &quot;x(3,8)&quot; &lt;~&gt; &quot;bd sn&quot;&#xa;d1 $ sound &quot;[jvbass jvbass:5]*3&quot; |+| (shape $ &quot;1 1 1 1 1&quot; &lt;~&gt; &quot;0.2 0.9&quot;)&#xa;@" ID="ID_197038780" CREATED="1440757219028" MODIFIED="1440757220040"/>
+<node TEXT="@preplace (blen, plen) beats values@ combines the timing of @beats@ with the values&#xa;of @values@. Other ways of saying this are:&#xa;* sequential convolution&#xa;* @values@ quantized to @beats@.&#xa;&#xa;Examples:&#xa;@&#xa;d1 $ sound $ preplace (1,1) &quot;x [~ x] x x&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ preplace (1,1) &quot;x(3,8)&quot; &quot;bd sn&quot;&#xa;d1 $ sound $ &quot;x(3,8)&quot; &lt;~&gt; &quot;bd sn&quot;&#xa;d1 $ sound &quot;[jvbass jvbass:5]*3&quot; |+| (shape $ &quot;1 1 1 1 1&quot; &lt;~&gt; &quot;0.2 0.9&quot;)&#xa;@" ID="ID_197038780" CREATED="1440757219028" MODIFIED="1455313608667"/>
 </node>
 <node TEXT="the numberic pair argument to preplace seems to do nothing" ID="ID_788442259" CREATED="1442372963582" MODIFIED="1442372972829">
 <node TEXT="d1 $ sound $ preplace (1,4) &quot;x [~ x] x&quot; &quot;bd sn&quot;" ID="ID_1643279709" CREATED="1442372979262" MODIFIED="1442372979262"/>
@@ -41451,21 +41451,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
-</node>
-</node>
-<node TEXT="safety fluff" POSITION="right" ID="ID_1833468741" CREATED="1447874535767" MODIFIED="1447874537999">
-<node TEXT="" ID="ID_1805994588" CREATED="1447874538816" MODIFIED="1447964176008">
-<font SIZE="14"/>
-<node TEXT="" ID="ID_946080381" CREATED="1447874538816" MODIFIED="1447964176008">
-<font SIZE="14"/>
-</node>
-<node TEXT="" ID="ID_341376615" CREATED="1447891147239" MODIFIED="1447891147239"/>
-</node>
-<node TEXT="" ID="ID_1894725823" CREATED="1447891147239" MODIFIED="1447891147239">
-<node TEXT="" ID="ID_158089681" CREATED="1447874538816" MODIFIED="1447964176008">
-<font SIZE="14"/>
-</node>
-<node TEXT="" ID="ID_932628728" CREATED="1447891147239" MODIFIED="1447891147239"/>
 </node>
 </node>
 </node>

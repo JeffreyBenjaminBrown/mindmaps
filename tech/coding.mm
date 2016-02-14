@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.103">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.213">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -2709,6 +2709,8 @@
 <node TEXT="reading and revising code, without a top-down plan: good for morale" ID="ID_1643387510" CREATED="1453415881363" MODIFIED="1453415901424">
 <node TEXT="afterward, I suspect, makes the top-down work feel easier" ID="ID_1788937583" CREATED="1453415902109" MODIFIED="1453415918138"/>
 </node>
+<node TEXT="make tiny data, then cyc: manip it, wish, make methods, add data" ID="ID_782482703" CREATED="1454994960460" MODIFIED="1454994997389"/>
+<node TEXT="do not try to be able to rep everything; rather, pick a rep and build on it" ID="ID_659101255" CREATED="1455003522166" MODIFIED="1455003535200"/>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="dwt+" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1447549003320">
@@ -16831,6 +16833,7 @@
 </node>
 </node>
 </node>
+<node TEXT="since, to 2016 02 13" ID="ID_421778090" CREATED="1455411860983" MODIFIED="1455411864756">
 <node TEXT="map the in-graph choices" ID="ID_210722449" CREATED="1453614796048" MODIFIED="1453622518701">
 <node TEXT="\intuition" ID="ID_812353880" CREATED="1453614922426" MODIFIED="1453614925172"/>
 </node>
@@ -16905,8 +16908,8 @@
 <node TEXT="for each bad, ask, &quot;is it good for anything|as a response to something?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_667630092" CREATED="1454565538287" MODIFIED="1454565556248">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1980837382" STARTINCLINATION="55;0;" ENDINCLINATION="55;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="displeasure counters overuse" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1350637470" CREATED="1454565377828" MODIFIED="1454565380328"/>
-<node TEXT="small well-avoids attention" ID="ID_998003880" CREATED="1454565628965" MODIFIED="1454565656575"/>
+<node TEXT="{displeasure,boredom} counters overuse" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1350637470" CREATED="1454565377828" MODIFIED="1455340813278"/>
+<node TEXT="&quot;small well-avoids attention&quot;" ID="ID_998003880" CREATED="1454565628965" MODIFIED="1455340797755"/>
 <node TEXT="function = map" ID="ID_393629124" CREATED="1454710437256" MODIFIED="1454710440427"/>
 <node TEXT="helps is up and uses is down" ID="ID_1157680231" CREATED="1454815927123" MODIFIED="1454815932945"/>
 <node TEXT="was using ~ where \ better, in successors" LOCALIZED_STYLE_REF="default" ID="ID_1589437072" CREATED="1443904513832" MODIFIED="1454818115392">
@@ -16942,6 +16945,51 @@
 </node>
 <node TEXT="sidedness matters less for . than for ) and most for &quot; or other single-character brackets" ID="ID_842530324" CREATED="1454128740362" MODIFIED="1454128783098">
 <node TEXT="that&apos;s not always how &apos; is used" ID="ID_1314684713" CREATED="1454128788522" MODIFIED="1454128795080"/>
+</node>
+<node TEXT="? by putting something under X &amp; Y, you clean X and Y" ID="ID_1836797928" CREATED="1455163540966" MODIFIED="1455340758344"/>
+<node TEXT="find roots|tops" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_571799216" CREATED="1455178129066" MODIFIED="1455220205267">
+<node TEXT="roots :: Mindmap -&gt; (up_vectors :: [Node]) -&gt; [Node]" ID="ID_1268347064" CREATED="1455178147666" MODIFIED="1455178217779"/>
+<node TEXT="for each node in the graph, if any up-vectors extend from it, it is not top; otherwise it is." ID="ID_1713652477" CREATED="1455220272405" MODIFIED="1455220298155"/>
+</node>
+<node TEXT="to save space" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_496183655" CREATED="1455340742366" MODIFIED="1455340746576">
+<node TEXT="if a&amp;b and a&amp;c, can compress as a&amp;{b|c}. if a&amp;b a&amp;c a&amp;d k&amp;b k&amp;c, then can compress two ways, one the transpose of the other, and shorter." ID="ID_53126543" CREATED="1455262625748" MODIFIED="1455262689703"/>
+</node>
+<node TEXT="how to transform a mindmap doc" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1745516872" CREATED="1455262742489" MODIFIED="1455262754444">
+<node TEXT="each / gets labeleed, manually" ID="ID_643715247" CREATED="1455262756199" MODIFIED="1455262767281">
+<node TEXT="sometimes a group at a time, e.g. among some serially related things" ID="ID_435124441" CREATED="1455262767822" MODIFIED="1455262780116"/>
+</node>
+<node TEXT="sometimes nodes are merged" ID="ID_1963900328" CREATED="1455262904943" MODIFIED="1455262908671">
+<node TEXT="first read the rels each one is part of" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1894000212" CREATED="1455262910386" MODIFIED="1455262927848"/>
+<node TEXT="if any of those rels are dups, merge those too" ID="ID_102376365" CREATED="1455262944050" MODIFIED="1455262956676"/>
+</node>
+</node>
+<node TEXT="use dwt for notes on dwt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1737828957" CREATED="1455262850713" MODIFIED="1455262855481"/>
+<node TEXT="how many layers deep to carry the nodes in a shown lnode" ID="ID_802875078" CREATED="1455262799907" MODIFIED="1455262834793"/>
+<node TEXT="autodetect equal rels" ID="ID_329888856" CREATED="1455263220896" MODIFIED="1455263243461">
+<node TEXT="=equal if their edges of like labels terminate in the same places" ID="ID_1125638798" CREATED="1455263246013" MODIFIED="1455263274869"/>
+</node>
+<node TEXT="limit (sort serial nodes) to nodes with a common parent" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1746998157" CREATED="1455263372616" MODIFIED="1455340718752"/>
+<node TEXT="yes push, but also choose the most powerful idea" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_437105253" CREATED="1455263472957" MODIFIED="1455263481304">
+<node TEXT="idea to push, execute" ID="ID_250542356" CREATED="1455263490277" MODIFIED="1455263497531"/>
+</node>
+<node TEXT="divide seq by rel" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1429401897" CREATED="1455263532599" MODIFIED="1455263549124">
+<node TEXT="one rel at a time" ID="ID_1675016014" CREATED="1455263552079" MODIFIED="1455263555699"/>
+</node>
+<node TEXT="similarly, the computer can find all the single-word strings itself, and create new ones automatically" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_109626642" CREATED="1455263910239" MODIFIED="1455263946567"/>
+<node TEXT="when you make two things the same, that can cause other things to be the same" ID="ID_66686757" CREATED="1455264482764" MODIFIED="1455264490460"/>
+<node TEXT="a single word that is a member of a long rel ranks lower than one in a two-word rel" ID="ID_1278679607" CREATED="1455264521963" MODIFIED="1455264570904"/>
+<node TEXT="?" ID="ID_1672750616" CREATED="1455411370799" MODIFIED="1455411371535">
+<node TEXT="(x /vt y) isa x" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_798980320" CREATED="1455329814955" MODIFIED="1455329837144"/>
+<node TEXT="_s can be a rel, disambiguated as &quot;plural&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_49288568" CREATED="1455264645327" MODIFIED="1455411382166">
+<font BOLD="false"/>
+</node>
+</node>
+<node TEXT="maybe" ID="ID_1480250025" CREATED="1455411317031" MODIFIED="1455411317844">
+<node TEXT="punct at rels not mbrs" ID="ID_610330819" CREATED="1455411335904" MODIFIED="1455411342536">
+<node TEXT="=maybe easier to read (when densely nested) if relationship words are punctuated, rather than members" LOCALIZED_STYLE_REF="styles.topic" ID="ID_30133421" CREATED="1455407044706" MODIFIED="1455411365045"/>
+</node>
+<node TEXT="catcherror &quot;_ in [function], which reported _&quot;" ID="ID_1239262840" CREATED="1455404688481" MODIFIED="1455404714082"/>
+</node>
 </node>
 </node>
 <node TEXT="haskell, handy" POSITION="right" ID="ID_950360966" CREATED="1454137477591" MODIFIED="1454137482175">
@@ -17125,19 +17173,12 @@
 <node TEXT="a parent in a dur-tree can infer its duration from its the children, or can declare it, stretching them accordingly" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1393639266" CREATED="1454732698025" MODIFIED="1454732791840">
 <font BOLD="true"/>
 </node>
-<node TEXT="kinds of edge" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1721122539" CREATED="1454713915531" MODIFIED="1454713927488">
-<node TEXT="alternatives" ID="ID_71916139" CREATED="1454713928151" MODIFIED="1454713929985"/>
-<node TEXT="after" ID="ID_1599078442" CREATED="1454713931283" MODIFIED="1454713935201"/>
-<node TEXT="in|member" ID="ID_1849136422" CREATED="1454713936259" MODIFIED="1454713986208"/>
-</node>
 <node TEXT="nodes" ID="ID_412736604" CREATED="1454716461684" MODIFIED="1454716462486">
-<node TEXT="? Int" ID="ID_747058841" CREATED="1454716484372" MODIFIED="1454716504757"/>
+<node TEXT="? Int, Float, String" ID="ID_747058841" CREATED="1454716484372" MODIFIED="1455002600734"/>
 <node TEXT="Dur" ID="ID_1508875644" CREATED="1454716487753" MODIFIED="1454716489860"/>
 <node TEXT="Qual" ID="ID_1261452523" CREATED="1454716664249" MODIFIED="1454732678234">
-<node TEXT="= Dirt Qual" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_911748426" CREATED="1454732679473" MODIFIED="1454732688875"/>
-<node TEXT="Sample, Pitch, Amp, Pan ..." ID="ID_95627125" CREATED="1454716493062" MODIFIED="1454716730196"/>
-<node TEXT="for Dirt, the only necessary one is Sample" ID="ID_1645227814" CREATED="1454716720687" MODIFIED="1454716845988"/>
-<node TEXT="for me, maybe the only necessary ones are Pitch and Sample" ID="ID_1079361" CREATED="1454716846460" MODIFIED="1454716861122"/>
+<node TEXT="= Dirt Qual" LOCALIZED_STYLE_REF="styles.topic" ID="ID_911748426" CREATED="1454732679473" MODIFIED="1455002593403"/>
+<node TEXT="Sample, Pitch, Amp, Pan ..." LOCALIZED_STYLE_REF="styles.topic" ID="ID_95627125" CREATED="1454716493062" MODIFIED="1455002593396"/>
 </node>
 <node TEXT="Idx (into Scale)" ID="ID_1162251731" CREATED="1454716581311" MODIFIED="1454716612282"/>
 <node TEXT="Scale" ID="ID_1566482776" CREATED="1454716607384" MODIFIED="1454716608745">
@@ -17207,6 +17248,150 @@
 <node TEXT="references, not copies" ID="ID_1939234046" CREATED="1454909328184" MODIFIED="1454909333446"/>
 </node>
 </node>
+<node TEXT="08" ID="ID_530364358" CREATED="1454984785498" MODIFIED="1454984790088">
+<node TEXT="map and pair in map :: both kinds of node" ID="ID_1598701288" CREATED="1454984790824" MODIFIED="1454984808080"/>
+<node TEXT="2 edge kinds from map: to pairs, and to an indicator of what a pair means" ID="ID_226819608" CREATED="1454984831314" MODIFIED="1454984862389">
+<node TEXT="e.g. &quot;fhe first is a scale index, the second a pitch value&quot;" ID="ID_1811369070" CREATED="1454984864978" MODIFIED="1454984888089"/>
+<node TEXT="maybe this info fits in the name of the map" ID="ID_1909322110" CREATED="1454984891250" MODIFIED="1454984898808"/>
+</node>
+<node TEXT="give title strings to nodes" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1591620807" CREATED="1454984916218" MODIFIED="1454984930050">
+<node TEXT="and show shows $ both node constructor and name" ID="ID_1301744470" CREATED="1454984932066" MODIFIED="1454984975976"/>
+</node>
+<node TEXT="In graph, Seq -&gt; Seq = Seq, if no other edges of that kind from pdr." ID="ID_1097317323" CREATED="1454985244356" MODIFIED="1454985244356"/>
+</node>
+<node TEXT="how to rep what" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1909284765" CREATED="1455001074934" MODIFIED="1455001081417">
+<node TEXT="note" ID="ID_1115061199" CREATED="1455001317222" MODIFIED="1455001327915">
+<node TEXT="? succession rules" ID="ID_841869269" CREATED="1455001347446" MODIFIED="1455001445540">
+<node TEXT="for when the root of a (note = bundle of qualities) is the same kind (e.g. pitch) as one of its descendents" ID="ID_1147768012" CREATED="1455001446224" MODIFIED="1455001495468"/>
+</node>
+<node TEXT="solved" LOCALIZED_STYLE_REF="styles.topic" ID="ID_895447657" CREATED="1455001352422" MODIFIED="1455001436831">
+<node TEXT="is a GQual or a bundle of them" ID="ID_806889381" CREATED="1455001328726" MODIFIED="1455001334515"/>
+<node TEXT="a bundle is made out of them" ID="ID_59606069" CREATED="1455001334718" MODIFIED="1455001433454">
+<node ID="ID_773289145" CREATED="1455001433807" MODIFIED="1455001433807"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      its head can be any of them
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Seq = unmeasured seq" ID="ID_214687709" CREATED="1455001083902" MODIFIED="1455007327887">
+<node TEXT="Seq parent pointing to notes" ID="ID_534832941" CREATED="1455001106398" MODIFIED="1455001527846"/>
+<node TEXT="Floats labeling each edge" ID="ID_338174987" CREATED="1455001273430" MODIFIED="1455001281508"/>
+</node>
+<node TEXT="Story = measured seq" ID="ID_1314185029" CREATED="1455001253870" MODIFIED="1455007329877">
+<node TEXT=". altvs" ID="ID_76527074" CREATED="1455001786374" MODIFIED="1455001790567"/>
+<node TEXT="Seq pointing to Dur-notes" ID="ID_458540684" CREATED="1455001257598" MODIFIED="1455001627005">
+<node TEXT="=Dur-notes, notes that have a Dur" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1822598950" CREATED="1455001627686" MODIFIED="1455001644870"/>
+</node>
+<node TEXT="Dur pointing to Cyc-notes" ID="ID_146250206" CREATED="1455001804102" MODIFIED="1455001811627">
+<node TEXT="=Cyc-note = note with a Dur in [0,1)" ID="ID_838598935" CREATED="1455001829886" MODIFIED="1455001839803"/>
+</node>
+</node>
+<node TEXT="GMapElt" ID="ID_299828108" CREATED="1455007583047" MODIFIED="1455007626039">
+<node TEXT="each emitting one Input edge and one Output edge" ID="ID_1421763100" CREATED="1455007626826" MODIFIED="1455007654903"/>
+<node TEXT="arg" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1522467628" CREATED="1455007704023" MODIFIED="1455007705218">
+<node TEXT="any function from a discrete domain can be mapped with it" ID="ID_188908530" CREATED="1455007692655" MODIFIED="1455007703365"/>
+</node>
+</node>
+<node TEXT="? GMap" ID="ID_838234566" CREATED="1455007745735" MODIFIED="1455007748509">
+<node TEXT="just a collector-parent for GMapElts" ID="ID_1927364768" CREATED="1455007750055" MODIFIED="1455007761669"/>
+</node>
+</node>
+<node TEXT="functions" ID="ID_63335870" CREATED="1455002322822" MODIFIED="1455002324323">
+<node TEXT="zip a list of notes and a list of durations" ID="ID_1029718819" CREATED="1455002325726" MODIFIED="1455002330555">
+<node TEXT="rotating the shorter, as does zip from Prelude" ID="ID_425498540" CREATED="1455002331279" MODIFIED="1455002374815"/>
+</node>
+<node TEXT="connect Seq to some notes" ID="ID_516103847" CREATED="1455002397206" MODIFIED="1455002415238"/>
+<node TEXT="isNote" ID="ID_77607943" CREATED="1455002416494" MODIFIED="1455002423611">
+<node TEXT="? no cycles" ID="ID_160332111" CREATED="1455002458622" MODIFIED="1455002460420"/>
+<node TEXT="a Qual is a note if its descendents are only other Quals" ID="ID_773965243" CREATED="1455002426166" MODIFIED="1455002458377"/>
+</node>
+<node TEXT="isInterval" ID="ID_1434178393" CREATED="1455002486654" MODIFIED="1455002489236"/>
+<node TEXT="copy note" ID="ID_1079920494" CREATED="1455002473398" MODIFIED="1455002475259"/>
+<node TEXT="copy interval" ID="ID_1876133532" CREATED="1455002479614" MODIFIED="1455002481587"/>
+</node>
+<node TEXT="next: render note, render seq" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_60216566" CREATED="1455047958082" MODIFIED="1455048013335"/>
+<node TEXT="Time -&gt; Time" ID="ID_1417333338" CREATED="1455072471757" MODIFIED="1455072495778">
+<node TEXT="swing :: map from Zn to Zm, n &lt; m" ID="ID_435675655" CREATED="1455069200212" MODIFIED="1455069236510">
+<node TEXT="=Zn the integers 1 to n" ID="ID_774237386" CREATED="1455069255252" MODIFIED="1455069264678"/>
+</node>
+<node TEXT="more generally, one can map the onsets in a melody to other times" ID="ID_1633937638" CREATED="1455072501182" MODIFIED="1455072533494"/>
+</node>
+<node TEXT="notes" LOCALIZED_STYLE_REF="default" ID="ID_1924238904" CREATED="1455089300163" MODIFIED="1455089312268">
+<node TEXT="param redundancy" LOCALIZED_STYLE_REF="default" ID="ID_776180869" CREATED="1455089433106" MODIFIED="1455089530578">
+<node TEXT="? ints: add" ID="ID_1990513829" CREATED="1455089375611" MODIFIED="1455089380864"/>
+<node TEXT="floats: multiply" ID="ID_383715038" CREATED="1455089360059" MODIFIED="1455089367234"/>
+<node TEXT="samples: use the topmost" ID="ID_543013276" CREATED="1455089353946" MODIFIED="1455089358848"/>
+</node>
+<node TEXT="recycling" ID="ID_1706377075" CREATED="1455089463994" MODIFIED="1455089524674">
+<node TEXT="example : make a note without pitch, then make a lot of notes that are 1 pitch preceding(graph) that note" ID="ID_1424150974" CREATED="1455089467219" MODIFIED="1455089512594"/>
+</node>
+</node>
+<node TEXT="can use stack" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_97958481" CREATED="1455090798011" MODIFIED="1455090801133">
+<node TEXT="https://mail.google.com/mail/u/0/#search/from%3Ame+to%3Atidal/150830c70da05e23" ID="ID_246772188" CREATED="1455090800668" MODIFIED="1455090800668" LINK="https://mail.google.com/mail/u/0/#search/from%3Ame+to%3Atidal/150830c70da05e23"/>
+</node>
+<node TEXT="notes: maps, not single values" ID="ID_1944458844" CREATED="1455127874734" MODIFIED="1455127880745">
+<node TEXT="can still adjoin" ID="ID_630812380" CREATED="1455127881347" MODIFIED="1455127883688"/>
+</node>
+</node>
+<node TEXT="reading mus.mm" ID="ID_875275012" CREATED="1455068480348" MODIFIED="1455068483028">
+<font BOLD="true"/>
+<node TEXT="budget" ID="ID_430955459" CREATED="1455069552644" MODIFIED="1455069554009">
+<node TEXT="waves in a complexity budget" ID="ID_761042783" CREATED="1455068825268" MODIFIED="1455068828218"/>
+<node TEXT="take a break to recharge something" ID="ID_604886571" CREATED="1373850052938" MODIFIED="1373850059839"/>
+</node>
+<node TEXT="fold branch" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1760092797" CREATED="1455069705916" MODIFIED="1455069710006">
+<node TEXT="&quot;how complex is this?&quot;" ID="ID_472852983" CREATED="1455069711748" MODIFIED="1455069715857"/>
+</node>
+<node TEXT="transform toward v. transform away from" ID="ID_1013836628" CREATED="1455069791900" MODIFIED="1455069797889">
+<node TEXT="=away chaotic, increase entropy" ID="ID_1387711877" CREATED="1455069798591" MODIFIED="1455069805521"/>
+</node>
+<node TEXT="define change on all in terms of change on one" ID="ID_877981777" CREATED="1455069922804" MODIFIED="1455069928657">
+<node TEXT="decompose a change into &quot;x changes like this&quot; and &quot;the others respond to x&apos;s change like this&quot;" ID="ID_4064474" CREATED="1455069898604" MODIFIED="1455069914281"/>
+</node>
+<node TEXT="complext = rhythmic | harmonic | ?more" ID="ID_577327573" CREATED="1455069959692" MODIFIED="1455069994724"/>
+<node TEXT="time the best|most" ID="ID_1105482041" CREATED="1455070138133" MODIFIED="1455070143733">
+<node TEXT="save it for last" ID="ID_282071381" CREATED="1455070153052" MODIFIED="1455070168729"/>
+<node TEXT="tease it early, bask later" ID="ID_1890935935" CREATED="1455070168925" MODIFIED="1455070173601"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_76460469" CREATED="1455070207307" MODIFIED="1455070225294"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      was
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Lose something extra beautiful in the magical brief start." ID="ID_1188597032" CREATED="1368898908130" MODIFIED="1455070214282"/>
+</node>
+</node>
+<node TEXT="noncompet contracts among [voices]" ID="ID_1586519214" CREATED="1446330857398" MODIFIED="1455070512773">
+<node TEXT="generalizing sidechain comp" ID="ID_62631453" CREATED="1455070517444" MODIFIED="1455070521441"/>
+</node>
+<node TEXT="aim for representativeness, not completeness" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1728868438" CREATED="1455072165924" MODIFIED="1455072173951"/>
+<node TEXT="&quot;find [melody] in [scale], add [interval] to it&quot;" ID="ID_801793625" CREATED="1455072273028" MODIFIED="1455072292779">
+<node TEXT="even if melody does not quite fit" ID="ID_288614765" CREATED="1455072296101" MODIFIED="1455072301866"/>
+</node>
+<node TEXT="map pitches ~ map durations" ID="ID_716200021" CREATED="1455072342373" MODIFIED="1455072350362">
+<node TEXT="but durations is an infinite domain" ID="ID_1327824569" CREATED="1455072353438" MODIFIED="1455072359346"/>
+</node>
+<node TEXT="&quot;salience&quot; meta-param" ID="ID_1078980317" CREATED="1455072378188" MODIFIED="1455072388938"/>
 </node>
 <node TEXT="&quot;getNow&quot; exists" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_630703438" CREATED="1453145422274" MODIFIED="1454714595476">
 <font BOLD="false"/>
@@ -17679,7 +17864,7 @@
 </node>
 <node TEXT="Password" ID="ID_47626927" CREATED="1314319004774" MODIFIED="1342210984499">
 <node TEXT="MSU NetID password" ID="ID_1835306682" CREATED="1342210974992" MODIFIED="1342210987548"/>
-<node TEXT="L1nkedin$ucks" ID="ID_1411906551" CREATED="1344664631552" MODIFIED="1344664631552"/>
+<node TEXT="(was L1nkedin$ucks)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1411906551" CREATED="1344664631552" MODIFIED="1455062283412"/>
 </node>
 </node>
 <node TEXT="home directory" ID="ID_721789503" CREATED="1342211018719" MODIFIED="1342211026466">
