@@ -16887,6 +16887,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="I: ~Mathematica" ID="ID_1864289471" CREATED="1454093599363" MODIFIED="1454093604977"/>
 <node TEXT="R: embed R in H" ID="ID_1640012944" CREATED="1454093605199" MODIFIED="1454093608268"/>
 </node>
+<node TEXT="solved : how to shim a parallel duplicate file in haskell" LOCALIZED_STYLE_REF="default" ID="ID_552941714" CREATED="1453534799540" MODIFIED="1453741556447">
+<node TEXT="to the top exporter, add &quot;import qualified Dwt.Main_2 as M2&quot; to the imports and &quot;module M2&quot; to the exports" ID="ID_213715301" CREATED="1453534825069" MODIFIED="1453534873758"/>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">
@@ -18687,8 +18690,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -19626,6 +19629,27 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="&quot;the transition functions&quot;" ID="ID_1050779522" CREATED="1454622061646" MODIFIED="1454622065232">
 <node TEXT="via lurk/tidal, thread &quot;why tidal?&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1080089872" CREATED="1454622095967" MODIFIED="1454622107340"/>
 <node TEXT="Ben Gold wishes it was easier to evolve in Tidal rather than stay fixed in a groove, and says he wants to learn the transition functions for that reason." ID="ID_755536694" CREATED="1454622065679" MODIFIED="1454622088305"/>
+</node>
+<node TEXT="reading Hackage" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_947327352" CREATED="1455662129666" MODIFIED="1455662131843">
+<node TEXT="2016 02 16" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1709127073" CREATED="1455665484243" MODIFIED="1455665489079"/>
+<node TEXT="Tidal.Pattern / useful-looking" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_484414802" CREATED="1455656630513" MODIFIED="1455659417564">
+<node TEXT="resume after filterStartInRange" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_757682193" CREATED="1455657738817" MODIFIED="1455665767106"/>
+<node TEXT="cat, slowcat ~ append, append&apos; ~ spread, slowspread" ID="ID_299228002" CREATED="1455656645218" MODIFIED="1455665700434"/>
+<node TEXT="run n = listToPat [0..n-1]" ID="ID_828493570" CREATED="1455656701713" MODIFIED="1455656711517"/>
+<node TEXT="when (int), whenT (time)" ID="ID_1260520080" CREATED="1455657485305" MODIFIED="1455657493549"/>
+<node TEXT="playWhen : silence until start" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_584715583" CREATED="1455659425801" MODIFIED="1455661412351">
+<node TEXT="d1 $ playWhen (\t -&gt; (floor t) &gt; div (floor now) 8 * 8 + 8) p2" ID="ID_37341978" CREATED="1455659447846" MODIFIED="1455659447846"/>
+<node TEXT="that is intended to start the next time the cycle is equal to 0 mod 8" ID="ID_1093543381" CREATED="1455659456969" MODIFIED="1455659794694"/>
+<node TEXT="except it doesn&apos;t -- it starts at mod 2" ID="ID_600386827" CREATED="1455659786426" MODIFIED="1455659798134"/>
+<node TEXT="and that result appears consistent across other meters (3,5,7)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_118008342" CREATED="1455659830417" MODIFIED="1455659850323"/>
+</node>
+<node TEXT="seqP :: like cat, but specifying times per event" ID="ID_909804976" CREATED="1455665532475" MODIFIED="1455665543000"/>
+<node TEXT="sig :: (Time -&gt; a) -&gt; Pattern a" ID="ID_1729638538" CREATED="1455665621395" MODIFIED="1455665622480"/>
+</node>
+<node TEXT="?" ID="ID_1421459613" CREATED="1455665568571" MODIFIED="1455665569447">
+<node TEXT="foldEvery" ID="ID_381776242" CREATED="1455665573075" MODIFIED="1455665574807"/>
+</node>
+<node TEXT="? Sound.Tidal.Transition" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_678790392" CREATED="1455662121538" MODIFIED="1455662136371"/>
 </node>
 </node>
 <node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
@@ -41452,6 +41476,9 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
+</node>
+<node TEXT="listToPat, maybeListToPat" POSITION="right" ID="ID_1468432535" CREATED="1455656664897" MODIFIED="1455656690880">
+<node TEXT="Nothing =&gt; silence" ID="ID_972488182" CREATED="1455656691272" MODIFIED="1455656694229"/>
 </node>
 </node>
 </map>

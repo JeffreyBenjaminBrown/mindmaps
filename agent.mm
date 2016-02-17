@@ -1836,8 +1836,5 @@
 </node>
 </node>
 </node>
-<node TEXT="import from fresh / _" POSITION="right" ID="ID_1581238567" CREATED="1446853197086" MODIFIED="1446853216104">
-<node TEXT="filt 2015 10 4 .." ID="ID_287085084" CREATED="1449721719119" MODIFIED="1449721720182"/>
-</node>
 </node>
 </map>
