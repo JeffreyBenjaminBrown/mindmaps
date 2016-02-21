@@ -16890,6 +16890,21 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="solved : how to shim a parallel duplicate file in haskell" LOCALIZED_STYLE_REF="default" ID="ID_552941714" CREATED="1453534799540" MODIFIED="1453741556447">
 <node TEXT="to the top exporter, add &quot;import qualified Dwt.Main_2 as M2&quot; to the imports and &quot;module M2&quot; to the exports" ID="ID_213715301" CREATED="1453534825069" MODIFIED="1453534873758"/>
 </node>
+<node TEXT="state monad, 2016 02 17 (short)" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1829678852" CREATED="1455778880010" MODIFIED="1455780191580">
+<node TEXT="(return) does not affect the state" ID="ID_647903815" CREATED="1455778903562" MODIFIED="1455778930048">
+<node TEXT="it puts (the other kind of) data into the state monad" ID="ID_138650841" CREATED="1455778930421" MODIFIED="1455778942773"/>
+</node>
+<node TEXT="runState (do { put 5; return &apos;X&apos; }) 1" ID="ID_175005860" CREATED="1455779729682" MODIFIED="1455779730576"/>
+<node TEXT="shorthand" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1341098463" CREATED="1455779799954" MODIFIED="1455779822582">
+<node TEXT="runState (modify (+1)) 1 = ((),2)" ID="ID_1404536267" CREATED="1455779794674" MODIFIED="1455779852549"/>
+<node TEXT="runState (gets (+1)) 1 = (2,1)" ID="ID_14569326" CREATED="1455779831146" MODIFIED="1455779986840"/>
+<node TEXT="evalState (gets (+1)) 1 = 2" ID="ID_1326088369" CREATED="1455779831146" MODIFIED="1455779833224"/>
+</node>
+</node>
+<node TEXT="? &quot;existentials&quot; can&apos;t be unwrapped" ID="ID_1293709011" CREATED="1455963631323" MODIFIED="1455963640317">
+<node TEXT="https://mail.google.com/mail/u/0/#search/existentials/152f76f8368ee546" ID="ID_1599860471" CREATED="1455963641639" MODIFIED="1455963641639" LINK="https://mail.google.com/mail/u/0/#search/existentials/152f76f8368ee546"/>
+<node TEXT="search for the word &quot;unwrap&quot;, in my third message in that thread" ID="ID_357372593" CREATED="1455963647533" MODIFIED="1455963673181"/>
+</node>
 </node>
 <node TEXT="Emacs" ID="ID_107207027" CREATED="1414097073611" MODIFIED="1414097075104">
 <node TEXT="to do" ID="ID_1864539737" CREATED="1414896266713" MODIFIED="1414896267476">

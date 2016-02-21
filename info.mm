@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / rep|info" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1437675157144"><hook NAME="MapStyle" zoom="1.331">
+<node TEXT="git / rep|info" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1437675157144"><hook NAME="MapStyle" zoom="1.1">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -122,7 +122,7 @@
 <node TEXT="highness" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1775413296" CREATED="1440540035328" MODIFIED="1440540039907">
 <font BOLD="false"/>
 <node TEXT="concept highness" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1520873312" CREATED="1440540043504" MODIFIED="1440540046059"/>
-<node TEXT="not overrely on coordinates" ID="ID_39781988" CREATED="1440216150287" MODIFIED="1440216155006">
+<node TEXT="not overrely on numericals" ID="ID_39781988" CREATED="1440216150287" MODIFIED="1456035100997">
 <node TEXT="geom, lat long, time" ID="ID_381573975" CREATED="1440216158856" MODIFIED="1440216165363"/>
 </node>
 </node>
@@ -283,6 +283,14 @@
 </richcontent>
 </node>
 <node TEXT="roast the crowd, the (entertainment)business" ID="ID_1477541827" CREATED="1440572181744" MODIFIED="1440572191218"/>
+</node>
+<node TEXT="&quot;already!&quot;" ID="ID_1516382786" CREATED="1423624201228" MODIFIED="1456038823648">
+<node TEXT="ala &quot;here! now&quot;/" ID="ID_1479232522" CREATED="1456038824831" MODIFIED="1456038846452">
+<node TEXT="\ $$ git / agent / &amp; motiv ratl rhythm crazy / .. / motiv|choi" ID="ID_1380403200" CREATED="1456038842023" MODIFIED="1456038889999"/>
+</node>
+<node TEXT="as a lens, &quot;consider it done. (you|ancestors did lots of it already.) what then?&quot;" ID="ID_791972923" CREATED="1423551865922" MODIFIED="1431586584304">
+<node TEXT="rolling down the hill, &quot;as you wish!&quot;" ID="ID_964673702" CREATED="1423551879829" MODIFIED="1423551887723"/>
+</node>
 </node>
 </node>
 <node TEXT="? power (new!)" ID="ID_243784113" CREATED="1442617450674" MODIFIED="1442617498900">
@@ -756,7 +764,8 @@
 <node TEXT="= ext&apos;d 2015 07 22 from ..." LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1343992372" CREATED="1436421781738" MODIFIED="1437640127950">
 <node TEXT="from (rep|info / dates) and everything below that on the RHS" ID="ID_211098526" CREATED="1437640113961" MODIFIED="1437640119577"/>
 </node>
-<node TEXT="sort by what am now best at" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_136939957" CREATED="1425590363309" MODIFIED="1449377143905">
+<node TEXT="sort by what am now best at" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_136939957" CREATED="1425590363309" MODIFIED="1456035310603">
+<node TEXT="= more generally, work that way" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_677644145" CREATED="1456035317261" MODIFIED="1456035323038"/>
 <node TEXT="if currently I feel I can cheaply classify into high|low yield, do that; if I feel I can merge, that instead" ID="ID_997653263" CREATED="1425590367364" MODIFIED="1425590403793"/>
 <node TEXT="was : can afford now to sort as" ID="ID_282006240" CREATED="1449377145155" MODIFIED="1449377163334"/>
 </node>
@@ -952,10 +961,8 @@
 <node TEXT="if overbelieved" LOCALIZED_STYLE_REF="default" ID="ID_387783304" CREATED="1449380401577" MODIFIED="1449380598700"/>
 </node>
 </node>
-<node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_508165429" CREATED="1444033773028" MODIFIED="1444033774454"/>
 <node TEXT="ratl cog" ID="ID_605907543" CREATED="1436413112508" MODIFIED="1436413114555">
 <node TEXT="= a subset of ratl action deserving the same graph height" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1324560932" CREATED="1436413136316" MODIFIED="1449380751433">
-<node TEXT="= desrving the same height as rational action" LOCALIZED_STYLE_REF="styles.topic" ID="ID_353400600" CREATED="1437635427654" MODIFIED="1437635439372"/>
 <node TEXT="somehow second-order, where ratl action is first-order" ID="ID_235850565" CREATED="1436413165171" MODIFIED="1436413172009"/>
 </node>
 <node TEXT="state-variant achievement thresholds" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1376115261" CREATED="1436409382832" MODIFIED="1436409393720">
@@ -985,8 +992,8 @@
 </node>
 </node>
 <node TEXT="info / -&gt; inference" ID="ID_84468799" CREATED="1436412542563" MODIFIED="1436412568134">
-<node TEXT="= inference seems pretty expansive in info" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1345504097" CREATED="1436412569643" MODIFIED="1437635487737">
-<node TEXT="that is perhaps most things (that I would write down|have written down) in info are about inference more specifically" ID="ID_1869378637" CREATED="1436412594411" MODIFIED="1436412613702"/>
+<node TEXT="= inference likely covers much of info" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1345504097" CREATED="1436412569643" MODIFIED="1456035760314">
+<node TEXT="that is, perhaps most things (that I would write down|have written down) in info are about inference more specifically" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1869378637" CREATED="1436412594411" MODIFIED="1456035761586"/>
 </node>
 <node TEXT="&quot;I know this because my mathematical preferences _.&quot;" ID="ID_1031169735" CREATED="1433381257174" MODIFIED="1433381264756">
 <node TEXT="&quot;... led me to ...&quot;" ID="ID_783240276" CREATED="1433397428009" MODIFIED="1433397433760">
@@ -1003,14 +1010,15 @@
 <node TEXT="ex&apos;l: evil, pain, injustice" ID="ID_559908565" CREATED="1433137623864" MODIFIED="1433141829133"/>
 </node>
 <node TEXT="find them" LOCALIZED_STYLE_REF="default" ID="ID_1023827044" CREATED="1433143311101" MODIFIED="1436411912086"/>
-<node TEXT="if their elts could not be understood in isol" ID="ID_991860823" CREATED="1436411915338" MODIFIED="1436411925920"/>
+<node TEXT="if their elts could not be understood in isol" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_991860823" CREATED="1436411915338" MODIFIED="1456035800334"/>
 </node>
 <node TEXT="implicit recursion" ID="ID_1917508814" CREATED="1433396827097" MODIFIED="1433396829543">
 <node TEXT="&quot;you keep doing that&quot;, smiles, omits &quot;an infinite number of iterations on that pattern&quot;" ID="ID_39634257" CREATED="1433379454269" MODIFIED="1433379471099"/>
 </node>
 <node TEXT="aspect-based encoding" ID="ID_1322499413" CREATED="1429326927671" MODIFIED="1429326932332">
 <node TEXT="of objects. stories?" ID="ID_1356500401" CREATED="1429326933526" MODIFIED="1429326945909"/>
-<node TEXT="aspect decomposition" ID="ID_1327009475" CREATED="1429326919830" MODIFIED="1429326923382"/>
+<node TEXT="&quot;I don&apos;t remember exactly what happened, but I know I&apos;m mad!&quot;" ID="ID_1084333648" CREATED="1456035886565" MODIFIED="1456035896662"/>
+<node TEXT="aspect decomposition" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1327009475" CREATED="1429326919830" MODIFIED="1456035875431"/>
 </node>
 </node>
 <node TEXT="info" ID="ID_451394231" CREATED="1436413246349" MODIFIED="1436413272478">
@@ -1030,9 +1038,13 @@
 <node TEXT="devnull : addict, release" ID="ID_1218055142" CREATED="1436410202441" MODIFIED="1436410253940">
 <node TEXT="= devnull @ addict, devnull @ release" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1936901576" CREATED="1436410229001" MODIFIED="1437635598904"/>
 <node TEXT="addict perpetually looking one last time before deletion" ID="ID_259637807" CREATED="1432353573118" MODIFIED="1432353626647"/>
+<node TEXT="&quot;sticky&quot; double-entendre" ID="ID_1478310220" CREATED="1456035994709" MODIFIED="1456035999650">
+<node TEXT="sticky weed, sticky like addiction" ID="ID_1441959207" CREATED="1456036001533" MODIFIED="1456036015287"/>
 </node>
 </node>
 </node>
+</node>
+<node TEXT="read head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_508165429" CREATED="1444033773028" MODIFIED="1444033774454"/>
 <node TEXT="info.mm / dates" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_582838397" CREATED="1432347258699" MODIFIED="1432356359563">
 <node TEXT="= 2nd extraction: favorites, read very fast" LOCALIZED_STYLE_REF="styles.topic" ID="ID_722596318" CREATED="1437637691320" MODIFIED="1437637716386">
 <node TEXT="2nd extraction of both" ID="ID_1440683563" CREATED="1437637706512" MODIFIED="1437637709909"/>
@@ -1715,12 +1727,15 @@
 <node TEXT="is the distinction clear" ID="ID_194365689" CREATED="1436410943377" MODIFIED="1436410952832"/>
 </node>
 </node>
-<node TEXT="02 17" ID="ID_639155838" CREATED="1455741389705" MODIFIED="1455741849566">
+<node TEXT="02 17" ID="ID_639155838" CREATED="1455741389705" MODIFIED="1455741849566"/>
 <node TEXT="helpful ? to imagine good into|at death" ID="ID_140611509" CREATED="1455169604992" MODIFIED="1455169620625"/>
 <node TEXT="&quot;accurate but not fair&quot; : 2 kinds" ID="ID_323443751" CREATED="1455169376504" MODIFIED="1455741407401">
 <node TEXT="accurate but substantially incomplete" ID="ID_451130216" CREATED="1455170035960" MODIFIED="1455170049601"/>
 <node TEXT="accurate but not to share" ID="ID_948117486" CREATED="1455170068376" MODIFIED="1455170076605"/>
 </node>
+<node TEXT="20" ID="ID_276071102" CREATED="1456040525776" MODIFIED="1456040526949"/>
+<node TEXT="the time I was an animal" ID="ID_1694619081" CREATED="1454985363482" MODIFIED="1454985406818">
+<node TEXT="invert : day &gt; time" ID="ID_921738195" CREATED="1454985408611" MODIFIED="1456040508808"/>
 </node>
 </node>
 <node TEXT="learn|underst, from care" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1435172338613">

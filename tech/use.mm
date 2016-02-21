@@ -6405,6 +6405,11 @@
 <node TEXT="I deleted it from /usr/local/lib" ID="ID_869848188" CREATED="1454373888655" MODIFIED="1454373929853"/>
 <node TEXT="I changed all the symlinks in /usr/local/bin back to 7.8.4" ID="ID_1406325886" CREATED="1454373947472" MODIFIED="1454373973017"/>
 </node>
+<node TEXT="but now cabal errs" ID="ID_546626188" CREATED="1455845775149" MODIFIED="1455845782619">
+<node TEXT="e.g. cabal install regex-compat produced these" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_463255965" CREATED="1455845800238" MODIFIED="1455845810023"/>
+<node TEXT="Warning: cannot determine version of /usr/local/bin/hpc :&#xa;&quot;&quot;&#xa;Warning: cannot determine version of /usr/local/bin/hsc2hs :" ID="ID_337448325" CREATED="1455845810998" MODIFIED="1455845813748"/>
+<node TEXT="Installing library in&#xa;/home/jeff/.cabal/lib/x86_64-linux-ghc-7.8.4/regex-base-0.93.2&#xa;..&#xa;/usr/local/bin/hsc2hs: line 29: /usr/local/lib/ghc-7.10.3/bin/hsc2hs: No such file or directory" ID="ID_1303699658" CREATED="1455845849494" MODIFIED="1455845872674"/>
+</node>
 </node>
 <node TEXT="2016 02 07: Ardour, Pianoteq 4,&#xa;   7zip, lv2, more" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1826826698" CREATED="1454875963517" MODIFIED="1454892215117">
 <node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1742763278" CREATED="1454891621960" MODIFIED="1454891625302"/>

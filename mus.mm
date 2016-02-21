@@ -14100,6 +14100,7 @@
 <node TEXT="play 0 6* 7, the 6* varying in freq based on next context" ID="ID_1251850443" CREATED="1446333078671" MODIFIED="1446333102797"/>
 <node TEXT="next context might be 2 maj, 6 dom (relating the dom&apos;s harmonic seventh to the harmonic third of the previous chord), etc" ID="ID_1275337881" CREATED="1446333103031" MODIFIED="1446333163214"/>
 </node>
+<node TEXT="monome a few buttons control air input, simulate horn" ID="ID_1676729263" CREATED="1444723187092" MODIFIED="1444723200943"/>
 </node>
 <node TEXT="promoted from 2015 10 31; 2016 02 09-tidal-extr&apos;d" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1518190455" CREATED="1446331093886" MODIFIED="1455089219468">
 <node TEXT=". after total review of mus.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_632397507" CREATED="1446335712137" MODIFIED="1446335724165">

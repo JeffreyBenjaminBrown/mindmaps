@@ -16767,20 +16767,22 @@
 <node TEXT="totally solved, simple, powerf" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1623340648" CREATED="1455780610930" MODIFIED="1455786665416">
 <node TEXT="= feas, simple, powerf" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_23593448" CREATED="1455780637330" MODIFIED="1455780643709"/>
 <node TEXT="specify new rel faster" LOCALIZED_STYLE_REF="default" ID="ID_1602185276" CREATED="1455780261338" MODIFIED="1455786858024">
+<node TEXT="insRel&apos; :: QTplt -&gt; [QNode] -&gt; Graph -&gt; Graph" ID="ID_530259863" CREATED="1455780270146" MODIFIED="1455782642160"/>
+<node TEXT="data QTplt = QTNode Node | QTString String" ID="ID_548635405" CREATED="1455780353842" MODIFIED="1455782624261">
+<node TEXT="the string being the one in the Tplt" ID="ID_455200359" CREATED="1455780443147" MODIFIED="1455780455379"/>
+<node TEXT="to use without having to write obvious &quot;_&quot;s, use a function that adds them, instead of the constructor" ID="ID_1340364187" CREATED="1455780467258" MODIFIED="1455780522390"/>
+<node TEXT="I watched it twice, and the start of it like ten times. Now I have a stomach ache." ID="ID_956666316" CREATED="1455847773487" MODIFIED="1455847773487"/>
+<node TEXT="I still don&apos;t understand how it starts. It looks like two black guys walk up to the white couple, and one of them touches her hair. She grabs him for a little while. Then they break apart, and he and the white guy take turns pushing each other, as if determining whether the other wants to fight." ID="ID_127318246" CREATED="1455847773487" MODIFIED="1455847773487"/>
+<node TEXT="It does look like they both wanted to fight, and I suppose I can&apos;t disapprove too strongly of consensual relations among adults." ID="ID_1174967088" CREATED="1455847773490" MODIFIED="1455847773490"/>
+<node TEXT="But then later the white guy, it looks like, kicks his assailants in the neck when they&apos;re down. Am I seeing that right? It seems incredibly injurious. And yet the tall guy gets up and fights again after it." ID="ID_442823586" CREATED="1455847773491" MODIFIED="1455847773491"/>
+<node TEXT="It makes me wish more of my friends were women." ID="ID_405873376" CREATED="1455847773492" MODIFIED="1455847773492"/>
+</node>
+<node TEXT="data QNode = QNNode Node | QNString String" ID="ID_1195411774" CREATED="1455780400578" MODIFIED="1455780441824"/>
+<node TEXT="data QRel = QRel QTplt [QNode]" ID="ID_1211958447" CREATED="1455783192989" MODIFIED="1455783210753"/>
 <node TEXT="apply regex" ID="ID_165057330" CREATED="1455782823424" MODIFIED="1455782830463">
 <node TEXT="lib" ID="ID_389347196" CREATED="1455782836598" MODIFIED="1455782837302"/>
 </node>
 <node TEXT="find all matching regex" ID="ID_1863002523" CREATED="1455782843840" MODIFIED="1455782849582"/>
-<node TEXT="data QTplt = QTNode Node | QTString String" ID="ID_548635405" CREATED="1455780353842" MODIFIED="1455782624261">
-<node TEXT="the string being the one in the Tplt" ID="ID_455200359" CREATED="1455780443147" MODIFIED="1455780455379"/>
-<node TEXT="to use without having to write obvious &quot;_&quot;s, use a function that adds them, instead of the constructor" ID="ID_1340364187" CREATED="1455780467258" MODIFIED="1455780522390"/>
-</node>
-<node TEXT="data QNode = QNNode Node | QNString String" ID="ID_1195411774" CREATED="1455780400578" MODIFIED="1455780441824"/>
-<node TEXT="data QRel = QRel QTplt [QNode]" ID="ID_1211958447" CREATED="1455783192989" MODIFIED="1455783210753"/>
-<node TEXT="class NodeGetter where&#xa;  runNodeGetter :: Graph -&gt; NodeGetter -&gt; Either String Node&#xa;instance NodeGetter QTplt&#xa;instance NodeGetter QNode&#xa;instance NodeGetter QRel" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_801432612" CREATED="1455783233705" MODIFIED="1455783368747">
-<node TEXT="Strings: &quot;absent&quot; and &quot;multiple&quot;" ID="ID_522564178" CREATED="1455783331003" MODIFIED="1455783343631"/>
-</node>
-<node TEXT="insRel&apos; :: QTplt -&gt; [QNode] -&gt; Graph -&gt; Graph" ID="ID_530259863" CREATED="1455780270146" MODIFIED="1455782642160"/>
 </node>
 <node TEXT="punct on rels, not mbrs" LOCALIZED_STYLE_REF="default" ID="ID_610330819" CREATED="1455411335904" MODIFIED="1455786668721">
 <node TEXT="n-ary rels equally easy" ID="ID_1360579502" CREATED="1455786698419" MODIFIED="1455786708792"/>
@@ -16914,7 +16916,29 @@
 <node TEXT="lest I forget : totally solved, easy speedup here" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_821213704" CREATED="1455782761433" MODIFIED="1455782773212">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1602185276" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
+<node TEXT="? emacs lisp a faster solution for shortcuts" LOCALIZED_STYLE_REF="default" ID="ID_180711084" CREATED="1455857223220" MODIFIED="1455860103591">
+<node TEXT="ala the definition of now in tidal.el" ID="ID_1874093269" CREATED="1455857232244" MODIFIED="1455857240097"/>
 </node>
+<node TEXT="break up &quot;error&quot; groupings" ID="ID_1376383444" CREATED="1456036731422" MODIFIED="1456036738244">
+<node TEXT="there is a higher category each elt can serve" ID="ID_701065319" CREATED="1456036739110" MODIFIED="1456036745276"/>
+</node>
+<node TEXT="wrong, I ranked search and display over review" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1140313877" CREATED="1456039143711" MODIFIED="1456039166005"/>
+<node TEXT="procrastinate a branch" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1588359455" CREATED="1456039703911" MODIFIED="1456039733683">
+<node TEXT="if reader traverses from top of page downward, can drop a lesser branch to the end of it" ID="ID_213695903" CREATED="1456039734863" MODIFIED="1456039778871"/>
+</node>
+<node TEXT="maybe I have time in freeplane to sort from fresh to other files but not deeper" ID="ID_1219708085" CREATED="1456040537776" MODIFIED="1456040556047"/>
+<node TEXT="I am probably reading in freeplane much faster than I sorted in it." LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1470624688" CREATED="1456040937696" MODIFIED="1456040949536"/>
+<node TEXT="read and color; on a later pass sort the colored ones only" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1848315959" CREATED="1456043172929" MODIFIED="1456043188466">
+<node TEXT="but only if coloring is very fast" ID="ID_1675641138" CREATED="1456043907994" MODIFIED="1456043916112"/>
+</node>
+<node TEXT="lift next to parent, leave arrow to parent, if deserves the height" ID="ID_622231228" CREATED="1456043470698" MODIFIED="1456043471686"/>
+<node TEXT="collect disambiguations from [Node] under banner, like footnotes" ID="ID_647832348" CREATED="1452664521364" MODIFIED="1452664562108">
+<node TEXT="each disambiguation marked #[N] for some integer N, next to the word it disambiguates -- even when the disambiguations are folded|bannerless" ID="ID_1202530811" CREATED="1452664563019" MODIFIED="1452664629365">
+<node TEXT="folded = with banner but without contents shown" ID="ID_620913001" CREATED="1452664630203" MODIFIED="1452664644231"/>
+</node>
+</node>
+</node>
+<node TEXT="for now though, why not at least the first stage of fresh -&gt; x.mm -&gt; sort in x" POSITION="right" ID="ID_134973046" CREATED="1455868030608" MODIFIED="1455868054966"/>
 <node TEXT="(tell, ask) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1455782429840">
 <node TEXT="if they want credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1455426419390"/>
 <node TEXT="separate beauty and truth scores" ID="ID_99309712" CREATED="1455433942119" MODIFIED="1455433947350"/>
@@ -17350,6 +17374,12 @@
 <node TEXT="a routine to interpret the string &quot;kick/ringy/low&quot; as a sample" ID="ID_1920139906" CREATED="1455498999310" MODIFIED="1455499033507"/>
 </node>
 <node TEXT="would like to assign a tasty tempo range to a motif" ID="ID_932743011" CREATED="1455575620493" MODIFIED="1455575628490"/>
+<node TEXT="getNow is wonderful" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1967577447" CREATED="1455857139116" MODIFIED="1455857142222"/>
+<node TEXT="that whole emacs lisp function is wonderful" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_519470698" CREATED="1455857694876" MODIFIED="1455857705478">
+<node TEXT="(tidal-send-string &quot;let now = nextSam now&apos;&quot;)" ID="ID_395369297" CREATED="1455857666921" MODIFIED="1455857666921"/>
+<node TEXT="(tidal-send-string &quot;let retrig = (now ~&gt;)&quot;)" ID="ID_1537759032" CREATED="1455857666921" MODIFIED="1455857666921"/>
+<node TEXT="(tidal-send-string &quot;let fadeOut n = spread&apos; (degradeBy) (retrig $ slow n $ envL)" ID="ID_1084053494" CREATED="1455857689556" MODIFIED="1455857692398"/>
+</node>
 </node>
 <node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1452831175395">
 <node LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1449592763" CREATED="1452830845091" MODIFIED="1452830847544"><richcontent TYPE="NODE">
@@ -18187,6 +18217,47 @@
 <node TEXT="deal cards &amp; post blinds" ID="ID_1847658391" CREATED="1437527966153" MODIFIED="1437532652523">
 <node TEXT="can safely be considered simultaneous" ID="ID_1680752677" CREATED="1437532674754" MODIFIED="1437532692656"/>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="set, categ theory" ID="ID_692191759" CREATED="1453741663787" MODIFIED="1453741697879">
+<font BOLD="true"/>
+<node TEXT="&lt;- resume at .." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_288502682" CREATED="1453490534483" MODIFIED="1453490541336">
+<node TEXT="https://www.youtube.com/watch?v=ZKmodCApZwk&amp;index=1&amp;list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf" ID="ID_1027179795" CREATED="1453490532242" MODIFIED="1453490532242" LINK="https://www.youtube.com/watch?v=ZKmodCApZwk&amp;index=1&amp;list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf"/>
+<node TEXT="I got 15 minutes into the first lecture" ID="ID_774796838" CREATED="1453490543784" MODIFIED="1453490549791"/>
+</node>
+<node TEXT="a . b = &quot;a after b&quot;" LOCALIZED_STYLE_REF="default" ID="ID_397983647" CREATED="1453489360741" MODIFIED="1453741717893"/>
+<node TEXT="category(morphisms) theory ~ classification theory?" ID="ID_91813438" CREATED="1453525022246" MODIFIED="1453741694555"/>
+<node TEXT="difference" ID="ID_1000899773" CREATED="1453525836551" MODIFIED="1453525880639">
+<node TEXT="A \ B = A - B" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_984175153" CREATED="1453525788981" MODIFIED="1453525854366"/>
+<node TEXT="A \ B = in A and not in B" ID="ID_1426798933" CREATED="1453525721620" MODIFIED="1453525728258"/>
+<node TEXT="inagime the \ sliding rightward, pushing B, leaving A" ID="ID_1941954520" CREATED="1453525755060" MODIFIED="1453525773347"/>
+</node>
+<node TEXT="symmetric difference" LOCALIZED_STYLE_REF="default" ID="ID_1302255408" CREATED="1453525880936" MODIFIED="1453525959313">
+<node TEXT="is enough english information to define itself, if you recognize that the only other possible differences in set theory would be their intersection or their complement, which already have names" LOCALIZED_STYLE_REF="styles.topic" ID="ID_614127405" CREATED="1453525898025" MODIFIED="1453525960055"/>
+<node TEXT="up-triangle = circle around -" ID="ID_806147108" CREATED="1453525961651" MODIFIED="1453525973889">
+<node TEXT="binary operators" ID="ID_1572046711" CREATED="1453525992980" MODIFIED="1453525997194"/>
+</node>
+</node>
+<node TEXT="set theory ?homonyms" ID="ID_1469197007" CREATED="1453526022573" MODIFIED="1453526034171">
+<node TEXT="|| + #" ID="ID_1826761678" CREATED="1453526037989" MODIFIED="1453526042067"/>
+<node ID="ID_1890848864" CREATED="1453526046583" MODIFIED="1453526046583"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      up-triangle = circle around -
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT=":dup" ID="ID_1486052719" CREATED="1453526058005" MODIFIED="1453526065183"/>
+</node>
+<node TEXT="A \ B = A - B" LOCALIZED_STYLE_REF="default" ID="ID_1989765668" CREATED="1453525788981" MODIFIED="1453526055465">
+<node TEXT=":dup" ID="ID_969264938" CREATED="1453526058005" MODIFIED="1453526066468"/>
 </node>
 </node>
 </node>
