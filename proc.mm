@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / proc" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1438202420169"><hook NAME="MapStyle" zoom="1.331">
+<node TEXT="git / proc" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1456108687173"><hook NAME="MapStyle" zoom="1.1">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -663,6 +663,7 @@
 </node>
 </node>
 </node>
+<node TEXT="consistency" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1661696867" CREATED="1456123602407" MODIFIED="1456123612016"/>
 <node TEXT="? is" ID="ID_957992384" CREATED="1426371253331" MODIFIED="1436674065948">
 <node TEXT="neglect, abstract" LOCALIZED_STYLE_REF="default" ID="ID_232947187" CREATED="1431646151650" MODIFIED="1432166668422">
 <node TEXT="= inaccess responsib" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_258110617" CREATED="1431646173674" MODIFIED="1431646175686"/>
@@ -745,12 +746,12 @@
 </node>
 </node>
 <node TEXT="boundedly top-down read|import head" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1943305692" CREATED="1432447057072" MODIFIED="1432447071399"/>
-<node TEXT="&lt;- extr&apos;ns?" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" POSITION="right" ID="ID_1898605640" CREATED="1427397610863" MODIFIED="1436662334984">
-<node TEXT="certainly some are extractions; ?all" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_85258283" CREATED="1436662338014" MODIFIED="1436662345321"/>
-<node TEXT="intermediate read head" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1502630043" CREATED="1453886366031" MODIFIED="1453890769827">
+<node TEXT="read head, falling from(not at) here" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_1502630043" CREATED="1453886366031" MODIFIED="1456134978925">
 <font BOLD="false"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_865712280" STARTINCLINATION="309;0;" ENDINCLINATION="309;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
+<node TEXT="&lt;- extr&apos;ns?" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" POSITION="right" ID="ID_1898605640" CREATED="1427397610863" MODIFIED="1436662334984">
+<node TEXT="certainly some are extractions; ?all" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_85258283" CREATED="1436662338014" MODIFIED="1436662345321"/>
 <node TEXT="&lt;- 2015 03 25-27" ID="ID_615882890" CREATED="1427696780749" MODIFIED="1428384112035">
 <node TEXT="bhv" LOCALIZED_STYLE_REF="default" ID="ID_691077159" CREATED="1427694454392" MODIFIED="1427694492979">
 <node TEXT="yes" ID="ID_729558438" CREATED="1427689967125" MODIFIED="1427689967819">
@@ -997,106 +998,91 @@
 <node TEXT="soc learn, the process of society as a group learning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1029128431" CREATED="1436422247580" MODIFIED="1436422257144"/>
 <node TEXT="no punish but review, recite, try to sound out the concepts" ID="ID_35263280" CREATED="1422138992408" MODIFIED="1430115325885"/>
 </node>
-<node TEXT="sub-read head, local, likely inverted" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_865712280" CREATED="1453886374975" MODIFIED="1453890760667">
-<font BOLD="false"/>
-</node>
 <node TEXT="rational stopping" LOCALIZED_STYLE_REF="default" ID="ID_1074692196" CREATED="1430463253601" MODIFIED="1439426603748">
 <node TEXT="= the stop of effort into _" ID="ID_972723676" CREATED="1430356026484" MODIFIED="1430463272568"/>
 <node TEXT="recogbl, even anticipbl, in others" ID="ID_1275260947" CREATED="1430359950750" MODIFIED="1430359962539">
 <node TEXT="emp" ID="ID_962693977" CREATED="1436424763838" MODIFIED="1436424765181"/>
 </node>
 </node>
-<node TEXT="ratl cog" ID="ID_1700676330" CREATED="1436425056695" MODIFIED="1436425073856">
-<node TEXT="= metaratl" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1303690768" CREATED="1436425074959" MODIFIED="1436425079017"/>
-<node TEXT="of _ my question was &quot;can I believe it?&quot;" LOCALIZED_STYLE_REF="default" ID="ID_108368736" CREATED="1431549274705" MODIFIED="1431582575966"/>
-</node>
-<node TEXT="build frame locally, not impose old biased global frame" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_915636875" CREATED="1432457225925" MODIFIED="1438200815913"/>
-<node TEXT="ratl infer : divide but aggregate tests" LOCALIZED_STYLE_REF="default" ID="ID_946270878" CREATED="1431989210395" MODIFIED="1438200850474">
-<node TEXT="don&apos;t keep testing it because you like the results of tiny tests; rather, use up your test opportunities for maximum information, subject to generalization of constraint of if all tests at same moment then a bias" ID="ID_312480488" CREATED="1431892831378" MODIFIED="1431989197430"/>
-<node TEXT="e.g. if a big test would prove it once and for all, do that" ID="ID_1554713272" CREATED="1436426348593" MODIFIED="1436426364678"/>
-</node>
 <node TEXT="feas ! recogbl" ID="ID_1294844092" CREATED="1431841261674" MODIFIED="1431841266151"/>
-<node TEXT="transc : find the good|value" ID="ID_1705955962" CREATED="1431991108021" MODIFIED="1432167972387">
+<node TEXT="posv &amp; transc : find the good|value" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1705955962" CREATED="1431991108021" MODIFIED="1456133206348">
 <node TEXT="goes from making fun of to &quot;he does have a point, though ...&quot;" ID="ID_1471650152" CREATED="1431838317691" MODIFIED="1431838331609"/>
 </node>
 </node>
 <node TEXT="??" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1719099748" CREATED="1436423721637" MODIFIED="1436425362632">
-<node TEXT="waking up : useful proc template" ID="ID_485753272" CREATED="1436424025454" MODIFIED="1436424040685">
-<node TEXT="was" LOCALIZED_STYLE_REF="styles.topic" ID="ID_367027561" CREATED="1436424043581" MODIFIED="1436424045193">
-<node TEXT="Is it like I am asleep most of the time?" ID="ID_1525654917" CREATED="1429562412054" MODIFIED="1429562427607"/>
+<node TEXT="awake as template" ID="ID_590080208" CREATED="1456133431060" MODIFIED="1456133434281">
+<node TEXT="sticky rep" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1073526950" CREATED="1456133541133" MODIFIED="1456133543014"/>
+<node TEXT="? template for learning? interaction?" ID="ID_485753272" CREATED="1436424025454" MODIFIED="1456133532404"/>
+<node TEXT="avoid waking : polite" ID="ID_663965745" CREATED="1431840661208" MODIFIED="1436425156467">
+<node TEXT="? enabling low achievement" LOCALIZED_STYLE_REF="default" ID="ID_683838827" CREATED="1436425161959" MODIFIED="1456133416786"/>
+<node TEXT="awaken, self-aware ?? unpleasant" ID="ID_1948947419" CREATED="1436425144348" MODIFIED="1456133409748"/>
 </node>
 </node>
-<node TEXT="&quot;obligation to be fair&quot; a negative?|negating frame" ID="ID_540690016" CREATED="1430875253518" MODIFIED="1431031188771"/>
-<node TEXT="? survival v. learning" ID="ID_589950496" CREATED="1429596288553" MODIFIED="1436423959424">
-<node TEXT="was" ID="ID_639116753" CREATED="1429644650745" MODIFIED="1429644651182">
-<node TEXT="the worst thing you can do is stop learning" ID="ID_1758154847" CREATED="1429596257698" MODIFIED="1429596262986"/>
+<node TEXT="? spoof" LOCALIZED_STYLE_REF="default" ID="ID_548375277" CREATED="1430450899852" MODIFIED="1456133320681">
+<node TEXT="\ fun? bond?" ID="ID_219169797" CREATED="1436424452143" MODIFIED="1456133333796"/>
 </node>
-</node>
-<node TEXT="? is thing" LOCALIZED_STYLE_REF="default" ID="ID_897739442" CREATED="1436424465230" MODIFIED="1436424479932">
-<node TEXT="spoof" LOCALIZED_STYLE_REF="default" ID="ID_548375277" CREATED="1430450899852" MODIFIED="1436424476675">
-<node TEXT="has fun? bond?" ID="ID_219169797" CREATED="1436424452143" MODIFIED="1436424455796"/>
-</node>
-</node>
-<node TEXT="being work v. being reward" LOCALIZED_STYLE_REF="default" ID="ID_995784148" CREATED="1430464433825" MODIFIED="1436424861460">
+<node TEXT="being work v. being reward" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_995784148" CREATED="1430464433825" MODIFIED="1456134469059">
 <node TEXT="to balance (trying to) get with being (for another&apos;s getting)" ID="ID_1302535020" CREATED="1430449339594" MODIFIED="1430449371857"/>
 </node>
-<node TEXT="avoid waking : polite" ID="ID_663965745" CREATED="1431840661208" MODIFIED="1436425156467">
-<node TEXT="? enabling low achievement" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_683838827" CREATED="1436425161959" MODIFIED="1436425181197"/>
-<node TEXT="waking up, becoming self-aware :? unpleasant" ID="ID_1948947419" CREATED="1436425144348" MODIFIED="1438200945267"/>
-</node>
-<node TEXT="inner savage" ID="ID_496895346" CREATED="1436425415253" MODIFIED="1436425417077">
-<node TEXT="recog it in others" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_331296872" CREATED="1436425434743" MODIFIED="1436425444161"/>
-<node TEXT="&quot;Choose like a tournament from those and me!&quot;" ID="ID_1326154496" CREATED="1431847940728" MODIFIED="1431847980790">
-<node TEXT="? would another feel and not recog to say" ID="ID_1465547065" CREATED="1431848022598" MODIFIED="1431848062984"/>
-<node TEXT="unfair to my albums in that I had not been treating my chosen experiences as tournaments including them" ID="ID_1417789233" CREATED="1431740946478" MODIFIED="1431740984502">
-<node TEXT="impose that frame could, there (not usuually I think), actually help" ID="ID_1192197255" CREATED="1431740985024" MODIFIED="1431741006418"/>
-</node>
-</node>
-</node>
-<node TEXT="logic debt" LOCALIZED_STYLE_REF="default" ID="ID_629236272" CREATED="1431582443095" MODIFIED="1436425745618">
+<node TEXT="logic debt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_629236272" CREATED="1431582443095" MODIFIED="1456134509082">
 <node TEXT="-&gt; &quot;debt&quot; greps, is in many other docs" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1896386249" CREATED="1431583001201" MODIFIED="1431583022611"/>
-<node TEXT="late paradigm change" LOCALIZED_STYLE_REF="default" ID="ID_1510916190" CREATED="1431582614487" MODIFIED="1436425759209">
+<node TEXT="late paradigm|logic change" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1510916190" CREATED="1431582614487" MODIFIED="1456133811468">
 <node TEXT="all of it needing work except the last, explosive, (new logic imposing) second" ID="ID_627008607" CREATED="1431549475666" MODIFIED="1438201706207"/>
 <node TEXT="every second conveyed the motivation for the next, except the last second, which was mergingly chaotic" ID="ID_302336162" CREATED="1431549189693" MODIFIED="1431549225960"/>
-<node TEXT="near-shared" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_366936648" CREATED="1431582739477" MODIFIED="1431582741832">
-<node TEXT="If, by manufacturing the appearance of logical consistency, a system accumulated some kind of debt, how might it resolve? Could time seem to be linear until the last second?" ID="ID_1821353016" CREATED="1431582737141" MODIFIED="1431582737141"/>
+<node TEXT="If, by manufacturing the appearance of logical consistency, a system accumulated some kind of debt, how might it resolve? Could time seem to be linear until the last second?" LOCALIZED_STYLE_REF="default" ID="ID_1821353016" CREATED="1431582737141" MODIFIED="1456133796302">
+<node TEXT="near-shared" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_366936648" CREATED="1431582739477" MODIFIED="1431582741832"/>
 </node>
 </node>
 <node TEXT="as explanation: &quot;_ suck(s).&quot;" ID="ID_1104295235" CREATED="1423123458756" MODIFIED="1436425772973"/>
 </node>
-<node TEXT="&quot;the fifth&quot;" LOCALIZED_STYLE_REF="default" ID="ID_867441376" CREATED="1431473322028" MODIFIED="1438201747485">
-<node TEXT="! local" ID="ID_1680320353" CREATED="1432457219557" MODIFIED="1432457221283"/>
-<node TEXT="needs to go silent to recover from itself" ID="ID_382657776" CREATED="1430876221226" MODIFIED="1430956335094">
-<node TEXT="as taking the fifth" ID="ID_1780163372" CREATED="1430876229798" MODIFIED="1430876232915"/>
-</node>
-<node TEXT="smell error, and do not try to repair; stay silent instead" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1813557855" CREATED="1431472619219" MODIFIED="1438201761262">
-<font BOLD="false"/>
-</node>
-<node TEXT="&quot; you can re-bind a variable, even to a different type, as long as you don&apos;t try to refer to the old value&quot;" ID="ID_1753853291" CREATED="1431472949731" MODIFIED="1431472952891"/>
-<node TEXT="record &quot;don&apos;t _&quot;?" ID="ID_1998857656" CREATED="1431399710076" MODIFIED="1431645353291"/>
-<node TEXT="If there are problems between me and another ignore the other?" ID="ID_489092695" CREATED="1433566578470" MODIFIED="1433566589237">
-<node TEXT="at least not reward badness somehow" ID="ID_549501015" CREATED="1433566593542" MODIFIED="1433566601166"/>
-</node>
-<node TEXT="aimless" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1426278219" CREATED="1436426140680" MODIFIED="1436426142851">
-<node TEXT="restraining order ~ search warrant" ID="ID_1749144626" CREATED="1429486827508" MODIFIED="1429486838402"/>
-</node>
-</node>
-<node TEXT="justice biased toward ouch" ID="ID_1715405097" CREATED="1431581437977" MODIFIED="1436426538412">
-<node TEXT="\?asymmetry" ID="ID_717006969" CREATED="1431581322763" MODIFIED="1431581333850"/>
-<node TEXT="justice&apos;s effect mostly its intended effect on one side" ID="ID_1696983795" CREATED="1431581376590" MODIFIED="1431581407786">
-<node TEXT="justice gets involved, hurts both of them" ID="ID_752431234" CREATED="1431578518611" MODIFIED="1431578525377"/>
-<node TEXT="as crusades" ID="ID_1284025439" CREATED="1431578542715" MODIFIED="1431581343702"/>
-</node>
+<node TEXT="logic &amp; life" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1784934307" CREATED="1456134877733" MODIFIED="1456134881143">
+<node TEXT="logic v. life" LOCALIZED_STYLE_REF="default" ID="ID_1282203228" CREATED="1456134750045" MODIFIED="1456134882375">
+<node TEXT="survival v. learning" ID="ID_589950496" CREATED="1429596288553" MODIFIED="1456133296129">
+<node TEXT="\pressure, \life, -\learning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_58703303" CREATED="1456134442637" MODIFIED="1456134780317"/>
+<node TEXT="oft a false tradeoff" ID="ID_1081688428" CREATED="1456133298940" MODIFIED="1456133303425"/>
 </node>
 <node TEXT="? consistency slows|blocks what life" ID="ID_1931784711" CREATED="1428187359135" MODIFIED="1432088796052"/>
+</node>
 <node TEXT="forks in a program&apos;s possibs" ID="ID_431562387" CREATED="1432065750223" MODIFIED="1436427833680">
 <node TEXT="bifurcations, real or potential" ID="ID_500157899" CREATED="1432084441257" MODIFIED="1432084449215">
 <node TEXT="potential, programmer chooses one" ID="ID_38691716" CREATED="1432084450922" MODIFIED="1432084457399"/>
 </node>
 <node TEXT="&quot;only when the law comes open does it become interesting&quot;" ID="ID_1557505370" CREATED="1432065732630" MODIFIED="1432065742412">
 <node TEXT="http://www.slate.com/articles/podcasts/amicus/2015/05/ruth_bader_ginsburg_on_the_basis_of_sex_why_are_there_suddenly_so_many_plays.html" ID="ID_522327461" CREATED="1432065749157" MODIFIED="1432065749157" LINK="http://www.slate.com/articles/podcasts/amicus/2015/05/ruth_bader_ginsburg_on_the_basis_of_sex_why_are_there_suddenly_so_many_plays.html"/>
-<node TEXT="vparent is dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_510275380" CREATED="1432065750223" MODIFIED="1432084510930">
-<node TEXT="vparent is dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1591554238" CREATED="1432084425568" MODIFIED="1432084428386"/>
+<node TEXT="^parent is dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_510275380" CREATED="1432065750223" MODIFIED="1456134864925"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="sub-read head, local, likely inverted" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_865712280" CREATED="1453886374975" MODIFIED="1453890760667">
+<font BOLD="false"/>
+<node TEXT="group" ID="ID_297194791" CREATED="1456134284405" MODIFIED="1456134285786">
+<node TEXT="&quot;oblig to be fair&quot; : negating frame" ID="ID_540690016" CREATED="1430875253518" MODIFIED="1456133258881">
+<node TEXT="negating ? negative" ID="ID_405183892" CREATED="1456133262740" MODIFIED="1456133277284"/>
+</node>
+<node TEXT="? oblig to host tourn" ID="ID_1517952012" CREATED="1456133608749" MODIFIED="1456133645098">
+<node TEXT="? who feels it" ID="ID_1426315764" CREATED="1456133646508" MODIFIED="1456133650418">
+<node TEXT="? would they feel and not recog|say" ID="ID_1465547065" CREATED="1431848022598" MODIFIED="1456133662698"/>
+</node>
+<node TEXT="= &quot;Choose like a tournament from those and me!&quot;" ID="ID_1326154496" CREATED="1431847940728" MODIFIED="1456133672666"/>
+<node TEXT="for fairness" ID="ID_671337423" CREATED="1456133675021" MODIFIED="1456133676586">
+<node TEXT="unfair to [friends, albums] by not treating my chosen experiences as tournaments including them" ID="ID_1417789233" CREATED="1431740946478" MODIFIED="1456133580791"/>
+</node>
+</node>
+</node>
+<node TEXT="infer" ID="ID_922270608" CREATED="1456134295781" MODIFIED="1456134296522">
+<node TEXT="of _ my question was &quot;can I believe it?&quot;" LOCALIZED_STYLE_REF="default" ID="ID_108368736" CREATED="1431549274705" MODIFIED="1431582575966">
+<node TEXT="\ metaratl" LOCALIZED_STYLE_REF="default" ID="ID_1303690768" CREATED="1436425074959" MODIFIED="1456134360455"/>
+</node>
+<node TEXT="frame ~ local" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1930628477" CREATED="1456133044996" MODIFIED="1456133069117">
+<font BOLD="false"/>
+<node TEXT="build frame locally, not impose old biased global frame" LOCALIZED_STYLE_REF="default" ID="ID_915636875" CREATED="1432457225925" MODIFIED="1456133056246"/>
+</node>
+<node TEXT="ratl infer : divide but aggregate tests" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_946270878" CREATED="1431989210395" MODIFIED="1456134395258">
+<node TEXT="making test like making hammers from a pool of metal: if make too many hammers, they are too small, they don&apos;t work" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1219923191" CREATED="1456133093612" MODIFIED="1456133133406"/>
+<node TEXT="= more" LOCALIZED_STYLE_REF="styles.topic" ID="ID_194053907" CREATED="1456133137348" MODIFIED="1456133140801">
+<node TEXT="don&apos;t keep testing it because you like the results of tiny tests; rather, use up your test opportunities for maximum information, subject to generalization of constraint of if all tests at same moment then a bias" ID="ID_312480488" CREATED="1431892831378" MODIFIED="1431989197430"/>
+<node TEXT="e.g. if a big test would prove it once and for all, do that" ID="ID_1554713272" CREATED="1436426348593" MODIFIED="1436426364678"/>
 </node>
 </node>
 </node>
@@ -1131,10 +1117,6 @@
 </node>
 </node>
 </node>
-</node>
-<node TEXT="read head" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_973948188" CREATED="1453886366031" MODIFIED="1453886402674">
-<font BOLD="false"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1502630043" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="dates" POSITION="right" ID="ID_276956326" CREATED="1440193983126" MODIFIED="1440193983646">
 <node TEXT="2015 08 21" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1160908458" CREATED="1440193994439" MODIFIED="1440193996883">
@@ -1196,6 +1178,11 @@
 <node TEXT="laziness requires awareness" ID="ID_1927786903" CREATED="1425365476752" MODIFIED="1456037691035">
 <node TEXT="to know when to execute" ID="ID_18974654" CREATED="1425365491792" MODIFIED="1425365494510"/>
 <node TEXT="track conditions" ID="ID_465338750" CREATED="1426371858204" MODIFIED="1440921919006"/>
+</node>
+</node>
+<node TEXT="21" ID="ID_975763305" CREATED="1456122512974" MODIFIED="1456122517223">
+<node TEXT="logic = rep + infer" ID="ID_895926517" CREATED="1456122463446" MODIFIED="1456122472571">
+<node TEXT="= the choices; other things (percep) in it too" ID="ID_1720142458" CREATED="1456122480790" MODIFIED="1456122504343"/>
 </node>
 </node>
 </node>

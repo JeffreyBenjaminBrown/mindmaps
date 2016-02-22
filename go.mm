@@ -71,6 +71,7 @@
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1576817465" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="began 2015 10 05" ID="ID_401446337" CREATED="1444099450612" MODIFIED="1444099454665"/>
 </node>
+<node TEXT="document = choice of places|work projects to make" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_323675089" CREATED="1456113751241" MODIFIED="1456113771341"/>
 <node TEXT="? is" POSITION="right" ID="ID_155133627" CREATED="1437256390216" MODIFIED="1437292839299">
 <node TEXT="oppor" ID="ID_874103801" CREATED="1437265343880" MODIFIED="1437265348816">
 <font BOLD="true"/>
@@ -328,6 +329,7 @@
 <node TEXT="stop badly at &quot;beaut&quot;" ID="ID_1731203079" CREATED="1439593917542" MODIFIED="1441388353856">
 <node TEXT="concluding perception with &quot;beautiful&quot; as if to validate its object, robbing myself of a ?better slower recog proc" ID="ID_1132173793" CREATED="1439593481605" MODIFIED="1441388313326"/>
 </node>
+<node TEXT="&quot;we were here the whole time&quot; &lt;- &quot;your shoes ..&quot;" ID="ID_123214355" CREATED="1456112984693" MODIFIED="1456112997249"/>
 <node TEXT="? modesty: irrational" LOCALIZED_STYLE_REF="styles.topic" ID="ID_236071317" CREATED="1437275228578" MODIFIED="1437275325178">
 <node TEXT="the clothing ?should be like nothing, we are ourselves and see each other" ID="ID_633592792" CREATED="1424423701838" MODIFIED="1437275254440"/>
 </node>
@@ -788,7 +790,8 @@
 <node TEXT="&quot;What do we want?&quot; &quot;Why?&quot; Why do we want it?&quot; &quot;What?&quot;" ID="ID_1448789929" CREATED="1440726113615" MODIFIED="1443636291059"/>
 </node>
 </node>
-<node TEXT="unfiled, 4p" POSITION="right" ID="ID_1336568136" CREATED="1437377254134" MODIFIED="1456032388353">
+<node TEXT="dates" POSITION="right" ID="ID_810588371" CREATED="1456108491526" MODIFIED="1456108492127">
+<node TEXT="u, 4p, 2015 07" ID="ID_1336568136" CREATED="1437377254134" MODIFIED="1456108536568">
 <font BOLD="false"/>
 <node TEXT="?date" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_964308231" CREATED="1437292441489" MODIFIED="1444449037256"/>
 <node TEXT="care" ID="ID_897538317" CREATED="1434395615273" MODIFIED="1437281638825">
@@ -901,6 +904,13 @@
 <node TEXT="[If you want to trust someone, you have good reason to know their flaws, and news anchors are like that.]&#xa;&#xa;Comedians and artist more generally aren&apos;t, though, and maybe that&apos;s my point.&#xa;&#xa;As a youth I idolized for their music without knowing anything about them personally the band Mr. Bungle. This year I saw their frontman hanging out and being filmed with some band, maybe that one. He seemed immature, egotistical, aggressive. It&apos;s hard for me to imagine enjoying their music now." ID="ID_11597377" CREATED="1437790176782" MODIFIED="1437790757669"/>
 </node>
 <node TEXT="I believe the economics of art selects for, incentivizes or both bad personality traits." ID="ID_97881018" CREATED="1437790668862" MODIFIED="1437790689444"/>
+</node>
+</node>
+<node TEXT="2016 02 21" ID="ID_521266782" CREATED="1456108522102" MODIFIED="1456108527771">
+<node TEXT="sergio viardemello" ID="ID_1063810735" CREATED="1451797761292" MODIFIED="1451797764172">
+<node TEXT="solved country-sized problems, lived sexy-dangerously" ID="ID_15915340" CREATED="1451797765052" MODIFIED="1451797781749"/>
+</node>
+<node TEXT="who am I gladdest live? go to them?" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1052742833" CREATED="1451863450092" MODIFIED="1456107724778"/>
 </node>
 </node>
 <node TEXT="? alien" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_198893436" CREATED="1437269603452" MODIFIED="1456032440392">

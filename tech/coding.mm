@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.213">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.334">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -16036,8 +16036,7 @@
 </node>
 </node>
 </node>
-<node TEXT="u, since" LOCALIZED_STYLE_REF="default" ID="ID_779929952" CREATED="1452492797631" MODIFIED="1452492805217">
-<font BOLD="true"/>
+<node TEXT="u, since" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_779929952" CREATED="1452492797631" MODIFIED="1456172658380">
 <node TEXT="basic editing functions" ID="ID_330478721" CREATED="1452387010550" MODIFIED="1452387015078">
 <node TEXT="replace Expr in Rels" ID="ID_1967040763" CREATED="1452387055935" MODIFIED="1452387063149">
 <node TEXT="find all Rels in which the Expr is an Mbr" ID="ID_1920454414" CREATED="1452387067263" MODIFIED="1452387089973"/>
@@ -16766,24 +16765,6 @@
 </node>
 <node TEXT="totally solved, simple, powerf" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1623340648" CREATED="1455780610930" MODIFIED="1455786665416">
 <node TEXT="= feas, simple, powerf" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_23593448" CREATED="1455780637330" MODIFIED="1455780643709"/>
-<node TEXT="specify new rel faster" LOCALIZED_STYLE_REF="default" ID="ID_1602185276" CREATED="1455780261338" MODIFIED="1455786858024">
-<node TEXT="insRel&apos; :: QTplt -&gt; [QNode] -&gt; Graph -&gt; Graph" ID="ID_530259863" CREATED="1455780270146" MODIFIED="1455782642160"/>
-<node TEXT="data QTplt = QTNode Node | QTString String" ID="ID_548635405" CREATED="1455780353842" MODIFIED="1455782624261">
-<node TEXT="the string being the one in the Tplt" ID="ID_455200359" CREATED="1455780443147" MODIFIED="1455780455379"/>
-<node TEXT="to use without having to write obvious &quot;_&quot;s, use a function that adds them, instead of the constructor" ID="ID_1340364187" CREATED="1455780467258" MODIFIED="1455780522390"/>
-<node TEXT="I watched it twice, and the start of it like ten times. Now I have a stomach ache." ID="ID_956666316" CREATED="1455847773487" MODIFIED="1455847773487"/>
-<node TEXT="I still don&apos;t understand how it starts. It looks like two black guys walk up to the white couple, and one of them touches her hair. She grabs him for a little while. Then they break apart, and he and the white guy take turns pushing each other, as if determining whether the other wants to fight." ID="ID_127318246" CREATED="1455847773487" MODIFIED="1455847773487"/>
-<node TEXT="It does look like they both wanted to fight, and I suppose I can&apos;t disapprove too strongly of consensual relations among adults." ID="ID_1174967088" CREATED="1455847773490" MODIFIED="1455847773490"/>
-<node TEXT="But then later the white guy, it looks like, kicks his assailants in the neck when they&apos;re down. Am I seeing that right? It seems incredibly injurious. And yet the tall guy gets up and fights again after it." ID="ID_442823586" CREATED="1455847773491" MODIFIED="1455847773491"/>
-<node TEXT="It makes me wish more of my friends were women." ID="ID_405873376" CREATED="1455847773492" MODIFIED="1455847773492"/>
-</node>
-<node TEXT="data QNode = QNNode Node | QNString String" ID="ID_1195411774" CREATED="1455780400578" MODIFIED="1455780441824"/>
-<node TEXT="data QRel = QRel QTplt [QNode]" ID="ID_1211958447" CREATED="1455783192989" MODIFIED="1455783210753"/>
-<node TEXT="apply regex" ID="ID_165057330" CREATED="1455782823424" MODIFIED="1455782830463">
-<node TEXT="lib" ID="ID_389347196" CREATED="1455782836598" MODIFIED="1455782837302"/>
-</node>
-<node TEXT="find all matching regex" ID="ID_1863002523" CREATED="1455782843840" MODIFIED="1455782849582"/>
-</node>
 <node TEXT="punct on rels, not mbrs" LOCALIZED_STYLE_REF="default" ID="ID_610330819" CREATED="1455411335904" MODIFIED="1455786668721">
 <node TEXT="n-ary rels equally easy" ID="ID_1360579502" CREATED="1455786698419" MODIFIED="1455786708792"/>
 <node TEXT="prepend $ to fastest-binding, $$ to later, .." ID="ID_1794532159" CREATED="1455786725555" MODIFIED="1455786758712">
@@ -16913,36 +16894,131 @@
 </node>
 </node>
 </node>
-<node TEXT="lest I forget : totally solved, easy speedup here" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_821213704" CREATED="1455782761433" MODIFIED="1455782773212">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1602185276" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="s 2016 02 21" ID="ID_245910800" CREATED="1456171788196" MODIFIED="1456172704881">
+<node TEXT="view" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1227513081" CREATED="1456172046748" MODIFIED="1456172057470">
+<node TEXT="&quot;next to read&quot; function" ID="ID_1703007425" CREATED="1456105708820" MODIFIED="1456105712210">
+<node TEXT="automate, to the extent possible, *page-turning" ID="ID_313916869" CREATED="1456105714564" MODIFIED="1456105726285">
+<node TEXT="*something resembling" ID="ID_1476243479" CREATED="1456105727124" MODIFIED="1456105729858"/>
 </node>
-<node TEXT="? emacs lisp a faster solution for shortcuts" LOCALIZED_STYLE_REF="default" ID="ID_180711084" CREATED="1455857223220" MODIFIED="1455860103591">
-<node TEXT="ala the definition of now in tidal.el" ID="ID_1874093269" CREATED="1455857232244" MODIFIED="1455857240097"/>
 </node>
-<node TEXT="break up &quot;error&quot; groupings" ID="ID_1376383444" CREATED="1456036731422" MODIFIED="1456036738244">
-<node TEXT="there is a higher category each elt can serve" ID="ID_701065319" CREATED="1456036739110" MODIFIED="1456036745276"/>
-</node>
-<node TEXT="wrong, I ranked search and display over review" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1140313877" CREATED="1456039143711" MODIFIED="1456039166005"/>
-<node TEXT="procrastinate a branch" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1588359455" CREATED="1456039703911" MODIFIED="1456039733683">
-<node TEXT="if reader traverses from top of page downward, can drop a lesser branch to the end of it" ID="ID_213695903" CREATED="1456039734863" MODIFIED="1456039778871"/>
-</node>
-<node TEXT="maybe I have time in freeplane to sort from fresh to other files but not deeper" ID="ID_1219708085" CREATED="1456040537776" MODIFIED="1456040556047"/>
-<node TEXT="I am probably reading in freeplane much faster than I sorted in it." LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1470624688" CREATED="1456040937696" MODIFIED="1456040949536"/>
-<node TEXT="read and color; on a later pass sort the colored ones only" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1848315959" CREATED="1456043172929" MODIFIED="1456043188466">
-<node TEXT="but only if coloring is very fast" ID="ID_1675641138" CREATED="1456043907994" MODIFIED="1456043916112"/>
-</node>
-<node TEXT="lift next to parent, leave arrow to parent, if deserves the height" ID="ID_622231228" CREATED="1456043470698" MODIFIED="1456043471686"/>
+<node TEXT="view : merge (Map Node String) and (Map Node NumData)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1584818512" CREATED="1456099740161" MODIFIED="1456099778859"/>
+<node TEXT="group results" ID="ID_1905666260" CREATED="1456172451371" MODIFIED="1456172453098">
 <node TEXT="collect disambiguations from [Node] under banner, like footnotes" ID="ID_647832348" CREATED="1452664521364" MODIFIED="1452664562108">
 <node TEXT="each disambiguation marked #[N] for some integer N, next to the word it disambiguates -- even when the disambiguations are folded|bannerless" ID="ID_1202530811" CREATED="1452664563019" MODIFIED="1452664629365">
 <node TEXT="folded = with banner but without contents shown" ID="ID_620913001" CREATED="1452664630203" MODIFIED="1452664644231"/>
 </node>
 </node>
 </node>
-<node TEXT="for now though, why not at least the first stage of fresh -&gt; x.mm -&gt; sort in x" POSITION="right" ID="ID_134973046" CREATED="1455868030608" MODIFIED="1455868054966"/>
-<node TEXT="(tell, ask) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1455782429840">
+</node>
+<node TEXT="proc hist" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1017243100" CREATED="1456174127352" MODIFIED="1456174132472">
+<node TEXT="= generalizes read heads" ID="ID_419208623" CREATED="1456174133562" MODIFIED="1456174144448"/>
+<node TEXT="? when user wants to know what has been procd" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1558456542" CREATED="1456174439033" MODIFIED="1456174671919"/>
+<node TEXT="&quot;user proc&quot; = node type" ID="ID_1540268842" CREATED="1456174234465" MODIFIED="1456174242532">
+<node TEXT="definitely keeps track of &quot;procd&quot;" ID="ID_253688385" CREATED="1456174290825" MODIFIED="1456174302256"/>
+<node TEXT="might keep track of &quot;to proc&quot;" ID="ID_798687620" CREATED="1456174302451" MODIFIED="1456174306565"/>
+</node>
+<node TEXT="when user processes a node, they add it to the &quot;procd&quot; set" ID="ID_937606544" CREATED="1456174173903" MODIFIED="1456174312059">
+<node TEXT="ifdo space" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_789658487" CREATED="1456174367790" MODIFIED="1456174457951"/>
+<node TEXT="dwt figures out how to rep that membership compactly" ID="ID_197518065" CREATED="1456174315738" MODIFIED="1456174332957"/>
+</node>
+</node>
+<node TEXT="edit" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_871564308" CREATED="1456171798292" MODIFIED="1456172057474">
+<node TEXT="specialize the &quot;read next&quot; links in siblings" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1986899442" CREATED="1456131970828" MODIFIED="1456131979797">
+<node TEXT="from a transferred .mm doc" ID="ID_28266517" CREATED="1456131981372" MODIFIED="1456131991025"/>
+<node TEXT="kinds : seriality, comprehension*, rank" ID="ID_921923558" CREATED="1456132006692" MODIFIED="1456132046846">
+<node TEXT="*-motivated" ID="ID_1902095569" CREATED="1456132027924" MODIFIED="1456132038537"/>
+</node>
+</node>
+<node TEXT="lift &amp; drop : in graph" ID="ID_1067888242" CREATED="1456172491562" MODIFIED="1456172514090">
+<node TEXT="generalize the freeplane ops" ID="ID_1890517248" CREATED="1456172529715" MODIFIED="1456172535346"/>
+</node>
+<node TEXT="procrastinate a branch" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1588359455" CREATED="1456039703911" MODIFIED="1456039733683">
+<node TEXT="if reader traverses from top of page downward, can drop a lesser branch to the end of it" ID="ID_213695903" CREATED="1456039734863" MODIFIED="1456039778871"/>
+<node TEXT="in freeplane relies on seriality; in dwt that would be hard, but creating a &quot;later&quot; tag is easy" ID="ID_82953631" CREATED="1456172587948" MODIFIED="1456172618898"/>
+</node>
+</node>
+<node TEXT="using" ID="ID_1918687041" CREATED="1456171779540" MODIFIED="1456171941585">
+<font BOLD="false"/>
+<node TEXT="wrong, I ranked search and display over review" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1140313877" CREATED="1456039143711" MODIFIED="1456039166005"/>
+<node TEXT="read &gt;&gt;&gt;speed sort" ID="ID_3240868" CREATED="1456172557906" MODIFIED="1456172566771"/>
+<node TEXT="freeplane|serial" ID="ID_1310143511" CREATED="1456171942772" MODIFIED="1456177005773">
+<font BOLD="true"/>
+<node TEXT="freeplane / ?never move just one thing across docs" ID="ID_641972289" CREATED="1456134088381" MODIFIED="1456134099362">
+<node TEXT="transaction costs" ID="ID_1204493956" CREATED="1456134104421" MODIFIED="1456134106523"/>
+</node>
+<node TEXT="freeplane, must divide the first generation by each proc head to know to respect those procs" ID="ID_751033199" CREATED="1456125642112" MODIFIED="1456171875741">
+<node TEXT="not shuffle things across them, repeat the work" ID="ID_1895512700" CREATED="1456125682936" MODIFIED="1456125688469"/>
+</node>
+<node TEXT="read and color; on a later pass sort the colored ones only" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1848315959" CREATED="1456043172929" MODIFIED="1456043188466">
+<node TEXT="but only if coloring is very fast" ID="ID_1675641138" CREATED="1456043907994" MODIFIED="1456043916112"/>
+</node>
+<node TEXT="? in freeplane, hard to distinguish hiding from sorting" ID="ID_1813345188" CREATED="1451512055164" MODIFIED="1456176983445"/>
+</node>
+<node TEXT="? review : skills &gt;oft data" ID="ID_315193121" CREATED="1456122721486" MODIFIED="1456122737431"/>
+<node TEXT="order crit =&gt; disambig" ID="ID_415635545" CREATED="1456172077972" MODIFIED="1456172082329">
+<node TEXT="if it depends critically on word order, add a disambig" ID="ID_169072332" CREATED="1456105207300" MODIFIED="1456105224946"/>
+<node TEXT="e.g. I wrote this, now illeg" ID="ID_195155679" CREATED="1456105226108" MODIFIED="1456105232321">
+<node ID="ID_74575995" CREATED="1456105232692" MODIFIED="1456105232692"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      realist-ish idealist v. idealist-ish realist
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="break up &quot;error&quot; collections" ID="ID_1376383444" CREATED="1456036731422" MODIFIED="1456172674073">
+<node TEXT="there is a higher category each elt can serve" ID="ID_701065319" CREATED="1456036739110" MODIFIED="1456036745276"/>
+</node>
+</node>
+<node TEXT="the rels" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1742446375" CREATED="1456171918756" MODIFIED="1456171920470">
+<node TEXT="! &gt; ?" ID="ID_27684848" CREATED="1456123840871" MODIFIED="1456123847564">
+<node TEXT="= if something seems more valuable than the average ?, mark it !" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1936580838" CREATED="1456123783287" MODIFIED="1456171907554"/>
+</node>
+<node TEXT="generally bind : after &amp;" ID="ID_1168583388" CREATED="1456115580218" MODIFIED="1456115596055">
+<node TEXT="if 3 nodes 2 rels" ID="ID_493922708" CREATED="1456115592226" MODIFIED="1456115606939"/>
+</node>
+<node TEXT="v. != zero-sum" ID="ID_1856686388" CREATED="1456115274026" MODIFIED="1456115282831">
+<node TEXT="copy, example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1061790421" CREATED="1456115318026" MODIFIED="1456115325883"/>
+<node TEXT="logic v. memory v. percep" ID="ID_437459354" CREATED="1456115235770" MODIFIED="1456115260995"/>
+</node>
+<node TEXT="? = I did not when I wrote it know." ID="ID_287272227" CREATED="1456112564844" MODIFIED="1456112570866"/>
+</node>
+<node TEXT="?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_995060362" CREATED="1456172013580" MODIFIED="1456174788405">
+<node TEXT="documents = separation" ID="ID_1309444187" CREATED="1456113871641" MODIFIED="1456113888144"/>
+</node>
+<node TEXT="use" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1125468733" CREATED="1456172682669" MODIFIED="1456172685498">
+<node TEXT="? emacs lisp a faster solution for shortcuts" LOCALIZED_STYLE_REF="default" ID="ID_180711084" CREATED="1455857223220" MODIFIED="1455860103591">
+<node TEXT="ala the definition of now in tidal.el" ID="ID_1874093269" CREATED="1455857232244" MODIFIED="1455857240097"/>
+</node>
+</node>
+<node TEXT="sale" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1997340636" CREATED="1456113926905" MODIFIED="1456171995550">
+<node TEXT="talking to me, you get a brief glimpse into the kind of work that freeplane-processing achieves. let me show you how to read in it (and you will have access to all of my _)." ID="ID_101938980" CREATED="1456113928280" MODIFIED="1456113980911"/>
+</node>
+</node>
+<node TEXT="u" ID="ID_1205447748" CREATED="1456178883687" MODIFIED="1456178884356">
+<node TEXT="instruction(to self) for reader of type _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_973322784" CREATED="1449560585844" MODIFIED="1449560596293"/>
+</node>
+</node>
+<node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1456176534965">
 <node TEXT="if they want credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1455426419390"/>
 <node TEXT="separate beauty and truth scores" ID="ID_99309712" CREATED="1455433942119" MODIFIED="1455433947350"/>
 <node TEXT="? are responses to explanations by wiki editors (of why they redacted another&apos;s edits) kept private" ID="ID_1945956091" CREATED="1453526487579" MODIFIED="1455413795849"/>
+<node TEXT="wikipedia: does the url I added stay" ID="ID_1761897233" CREATED="1451539075266" MODIFIED="1451539082577">
+<node TEXT="https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia#See_also" ID="ID_433700791" CREATED="1451539080394" MODIFIED="1451539080394" LINK="https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia#See_also"/>
+</node>
+<node TEXT="wikipedia ~ epistemology" LOCALIZED_STYLE_REF="default" ID="ID_185108690" CREATED="1451538858290" MODIFIED="1456176542374"/>
+<node TEXT="write love into wikipedia" ID="ID_996702693" CREATED="1451537516818" MODIFIED="1451537519968">
+<node TEXT="can&apos;t, it&apos;s a protected article" ID="ID_1489113919" CREATED="1451543033427" MODIFIED="1451543038930"/>
+</node>
 </node>
 <node TEXT="haskell, handy" POSITION="right" ID="ID_950360966" CREATED="1454137477591" MODIFIED="1454137482175">
 <node TEXT="can mix qual &amp; unqual imports" ID="ID_1722754309" CREATED="1454137515895" MODIFIED="1454137520389">
