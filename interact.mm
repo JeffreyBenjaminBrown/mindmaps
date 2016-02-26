@@ -77,6 +77,27 @@
 <node TEXT="= give someone a way to call you as soon as you learn what?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_511023257" CREATED="1451888328437" MODIFIED="1456107604680"/>
 </node>
 <node TEXT="well-timed cuteness" ID="ID_1078157195" CREATED="1456130958499" MODIFIED="1456130961552"/>
+<node TEXT="wherever|however you are, imagine an elder there" ID="ID_1160205686" CREATED="1456120706693" MODIFIED="1456120721322"/>
+<node TEXT="not just reach out; also, attend properly when another reaches out, or effectively so" ID="ID_1717396004" CREATED="1456027316313" MODIFIED="1456027341245">
+<node TEXT="=effectively so= like when dean told me about breeze" ID="ID_441859546" CREATED="1456027342064" MODIFIED="1456027364032"/>
+</node>
+<node TEXT="hate ec ~ hate change|coop" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_883863562" CREATED="1456019919252" MODIFIED="1456184369235"/>
+<node TEXT="bond(v) / habit" ID="ID_268595926" CREATED="1456184441434" MODIFIED="1456184452735">
+<node TEXT="? should have tried to be warm immediately, not challenging" ID="ID_676406986" CREATED="1455954084332" MODIFIED="1455954102718">
+<node TEXT="&quot;do you have online recordings?&quot;" ID="ID_1286596345" CREATED="1455954092077" MODIFIED="1455954100803"/>
+</node>
+</node>
+<node TEXT="don&apos;t tell the old that speed matters" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1862304926" CREATED="1455938817077" MODIFIED="1455938822137">
+<node TEXT="\ creative respect" ID="ID_889737112" CREATED="1455938826909" MODIFIED="1455938839422"/>
+</node>
+<node TEXT="imagine a year in another country&apos;s film culture" LOCALIZED_STYLE_REF="default" ID="ID_1594303562" CREATED="1455938459468" MODIFIED="1456184828571"/>
+<node TEXT="conversation/performance : limiting conversation" ID="ID_740168378" CREATED="1455854282876" MODIFIED="1455854309941"/>
+<node TEXT="sad : neither waste nor trumpet" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_822091835" CREATED="1455775005145" MODIFIED="1456185156722">
+<node TEXT="don&apos;t lead with sadness, but don&apos;t silence it either. if someone else and I got to where (speaking at all) would illuminate it usefully (for one of us?), do so." ID="ID_1751310130" CREATED="1455774955985" MODIFIED="1455775000654"/>
+</node>
+<node TEXT="hyp : they want attention, not (preparation for)performance" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_292241897" CREATED="1455774640057" MODIFIED="1456185219892">
+<node TEXT="showing up somewhere and they see you, you have to say hi; if you avoid them to go prepare for them, somehow they don&apos;t like it" ID="ID_908517753" CREATED="1455774609449" MODIFIED="1455774630247"/>
+</node>
 </node>
 </node>
 </map>

@@ -117,7 +117,7 @@
 <node TEXT="see no evil, hear no evil, speak no evil" ID="ID_280155211" CREATED="1451861624300" MODIFIED="1451861629900"/>
 </node>
 </node>
-<node TEXT="learn|underst, 1p" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1456132668771">
+<node TEXT="THE learn|underst, 1p" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_36105331" CREATED="1425364955768" MODIFIED="1456183444401">
 <node TEXT="about" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_902133056" CREATED="1456132567076" MODIFIED="1456132568502">
 <node TEXT="grep / I believe I never did" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1205127867" CREATED="1456132064764" MODIFIED="1456132072033"/>
 <node TEXT="transferred from care, then info, then here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_21162971" CREATED="1456132570196" MODIFIED="1456132583613"/>
@@ -163,7 +163,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="spacetime" LOCALIZED_STYLE_REF="default" ID="ID_361626798" CREATED="1456114495529" MODIFIED="1456131093661">
@@ -498,7 +497,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -522,6 +520,9 @@
 <node TEXT="learn =&gt; want" ID="ID_169090698" CREATED="1456115396514" MODIFIED="1456115399343">
 <node TEXT="&quot;girls exist!&quot;" ID="ID_27395379" CREATED="1456115409162" MODIFIED="1456115421147"/>
 <node TEXT="learn to apprec [music]" ID="ID_462536614" CREATED="1456115488434" MODIFIED="1456115501107"/>
+</node>
+<node TEXT="learn / skill" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_855682918" CREATED="1456183308313" MODIFIED="1456185601028">
+<node TEXT="don&apos;t go to the advanced stuff without (using?) the earlier" ID="ID_1457501386" CREATED="1456112186583" MODIFIED="1456112194048"/>
 </node>
 </node>
 </node>

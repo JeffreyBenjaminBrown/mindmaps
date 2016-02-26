@@ -1656,6 +1656,9 @@
 <font BOLD="false"/>
 </node>
 </node>
+<node TEXT="this next proves something" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1458893405" CREATED="1456295220712" MODIFIED="1456295224817">
+<node TEXT="about how to process these" ID="ID_1794190337" CREATED="1456295226232" MODIFIED="1456295229437"/>
+</node>
 <node TEXT="info -rep  :  2015 08 25-29, o.f." ID="ID_585007868" CREATED="1445741361966" MODIFIED="1445741442365">
 <font BOLD="true"/>
 <node TEXT="dub &amp;X scary" ID="ID_948578453" CREATED="1440633659881" MODIFIED="1444153878819">
@@ -1758,6 +1761,20 @@
 <node TEXT="can argue both directions" ID="ID_1769555998" CREATED="1456131332723" MODIFIED="1456131346652"/>
 </node>
 </node>
+<node TEXT="so much depends on what a _ [looks like]" ID="ID_623554551" CREATED="1456112313279" MODIFIED="1456183265523"/>
+<node TEXT="inflexible lens" ID="ID_1436549168" CREATED="1455941294958" MODIFIED="1455941297797"/>
+<node TEXT="someone solving [crimes] I couldn&apos;t see" ID="ID_1816489775" CREATED="1455939333541" MODIFIED="1456184622690"/>
+<node TEXT="23" ID="ID_461125113" CREATED="1456295196512" MODIFIED="1456295198533"/>
+<node TEXT="gambles of whether it was useful time" ID="ID_1620337149" CREATED="1456295189752" MODIFIED="1456295193669"/>
+<node TEXT="for me to recog &amp; not for me to decide" ID="ID_1470113613" CREATED="1456295329082" MODIFIED="1456295341135"/>
+<node TEXT="if has a not, lead*with the not" ID="ID_1221891060" CREATED="1456295343696" MODIFIED="1456295376613">
+<node TEXT="* with among maybe other leaders" LOCALIZED_STYLE_REF="styles.topic" ID="ID_756772732" CREATED="1456295376968" MODIFIED="1456295384114"/>
+</node>
+<node TEXT="you don&apos;t know me: axiomatic" ID="ID_1216613533" CREATED="1456295933544" MODIFIED="1456295937637"/>
+<node TEXT="if can do a slight, consistent pitch dev, awesome" ID="ID_1378556487" CREATED="1456295523984" MODIFIED="1456295562901">
+<node TEXT="dupd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_934506556" CREATED="1456296016040" MODIFIED="1456296024452"/>
+</node>
+<node TEXT="like a piano, tune every note" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1944620572" CREATED="1456296076824" MODIFIED="1456296081658"/>
 </node>
 <node TEXT="info|proc, from log" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1646020717" CREATED="1424753595809" MODIFIED="1435172338620">
 <node TEXT=". see also rep/ {encodability, ..}" ID="ID_1743939998" CREATED="1425084542676" MODIFIED="1425084553386"/>

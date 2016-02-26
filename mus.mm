@@ -14925,6 +14925,22 @@
 <node TEXT="treble ~ info loss" ID="ID_62752612" CREATED="1456112490629" MODIFIED="1456112493541">
 <node TEXT="? like a rebuttal" ID="ID_174325315" CREATED="1456112516670" MODIFIED="1456112521178"/>
 </node>
+<node TEXT="huamaiee syrup to fall into" ID="ID_957857898" CREATED="1456121053029" MODIFIED="1456121072578">
+<node TEXT="homonymous : who am I, who are my" ID="ID_535685440" CREATED="1456184557634" MODIFIED="1456184572234"/>
+</node>
+<node TEXT="range waves {pitch, ..}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_100721658" CREATED="1456005979039" MODIFIED="1456184531249"/>
+<node TEXT="simple slow fourier combinations : try by hand" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_277776383" CREATED="1455941188718" MODIFIED="1456184530332">
+<node TEXT="adding or multiplying" ID="ID_1270281145" CREATED="1455941202679" MODIFIED="1455941208252"/>
+<node TEXT="cycle durations of a couple seconds" ID="ID_1862734010" CREATED="1455941210318" MODIFIED="1455941226340">
+<node TEXT="result being rhythms rather than timbres" ID="ID_1155976782" CREATED="1455941226985" MODIFIED="1455941235544"/>
+</node>
+</node>
+<node TEXT="if can do a slight, consistent pitch dev, awesome" ID="ID_1378556487" CREATED="1456295523984" MODIFIED="1456295562901"/>
+<node TEXT="meta-scale" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1500608909" CREATED="1456296112864" MODIFIED="1456296116154">
+<node TEXT="like a piano, detune every note" LOCALIZED_STYLE_REF="default" ID="ID_1944620572" CREATED="1456296076824" MODIFIED="1456296120038">
+<node TEXT="roughly that many choices" ID="ID_1023895589" CREATED="1456296127281" MODIFIED="1456296131077"/>
+</node>
+</node>
 </node>
 </node>
 </node>
