@@ -1181,6 +1181,12 @@
 <node TEXT="\evil" ID="ID_456442180" CREATED="1432446142751" MODIFIED="1432446145421"/>
 <node TEXT="under some economic conditions, myopia hedonically rational, learning about local good but not their offsetting global bads" ID="ID_16740118" CREATED="1373074296544" MODIFIED="1373074332397"/>
 </node>
+<node TEXT="appetite rhythm" ID="ID_1290738295" CREATED="1456474593602" MODIFIED="1456474596046">
+<node TEXT="for : pleasure v. achievement" ID="ID_731972272" CREATED="1456474597362" MODIFIED="1456474605702"/>
+<node TEXT="?&amp; drugs" ID="ID_1071559788" CREATED="1456474608426" MODIFIED="1456474620599">
+<node TEXT="if there were a perfect appetite rhythm to sense (for pleasure? achievement?), how would drugs change its finding" LOCALIZED_STYLE_REF="styles.topic" ID="ID_357008226" CREATED="1434245303780" MODIFIED="1456474625606"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="logic" ID="ID_571996083" CREATED="1444199356961" MODIFIED="1444205868696">

@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / go" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1437675151651"><hook NAME="MapStyle" zoom="1.332">
+<node TEXT="git / go" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1437675151651"><hook NAME="MapStyle" zoom="1.211">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -56,22 +56,16 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="study|writing ideas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1162232733" CREATED="1441923374078" MODIFIED="1441923378307">
-<node TEXT="gatherings: count them" LOCALIZED_STYLE_REF="default" ID="ID_1610189606" CREATED="1441922126650" MODIFIED="1441923360445"/>
-</node>
-<node TEXT="clarifications appear in blue" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_69958477" CREATED="1437250142235" MODIFIED="1437272894602">
-<node TEXT="to clarify things I wrote short in the parent" ID="ID_1848181419" CREATED="1437250147899" MODIFIED="1437250162353"/>
-</node>
-<node TEXT="whole doc revd as of 2015 07 24-ish" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_762819312" CREATED="1438146971941" MODIFIED="1443636276816">
+<node TEXT="whole doc revd twice" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_762819312" CREATED="1438146971941" MODIFIED="1456477234664">
 <font BOLD="false"/>
-<node TEXT="can consult git log for precision on that date" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_879762007" CREATED="1438147010069" MODIFIED="1438147022907"/>
+<node TEXT="once as of 2015 07 24-ish" ID="ID_990698137" CREATED="1456477235032" MODIFIED="1456477238066"/>
+<node TEXT="again 2016 02 25" ID="ID_1600103986" CREATED="1456477249051" MODIFIED="1456477255816"/>
 <node TEXT="so resume reading under each category at any date thereafter" ID="ID_1512313556" CREATED="1438146987558" MODIFIED="1438146997710"/>
 </node>
 <node TEXT="read head 2" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_846696528" CREATED="1444099444235" MODIFIED="1444099449291">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1576817465" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="began 2015 10 05" ID="ID_401446337" CREATED="1444099450612" MODIFIED="1444099454665"/>
 </node>
-<node TEXT="document = choice of places|work projects to make" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_323675089" CREATED="1456113751241" MODIFIED="1456113771341"/>
 <node TEXT="? is" POSITION="right" ID="ID_155133627" CREATED="1437256390216" MODIFIED="1437292839299">
 <node TEXT="oppor" ID="ID_874103801" CREATED="1437265343880" MODIFIED="1437265348816">
 <font BOLD="true"/>
@@ -913,7 +907,7 @@
 <node TEXT="who am I gladdest live? go to them?" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1052742833" CREATED="1451863450092" MODIFIED="1456107724778"/>
 </node>
 </node>
-<node TEXT="** read head 2 **" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_1576817465" CREATED="1444099444235" MODIFIED="1444099491160">
+<node TEXT="** read head 2 **" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1576817465" CREATED="1444099444235" MODIFIED="1456519791824">
 <node TEXT="began 2015 10 05" ID="ID_90543535" CREATED="1444099450612" MODIFIED="1444099454665"/>
 </node>
 <node TEXT="? alien" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_198893436" CREATED="1437269603452" MODIFIED="1456032440392">

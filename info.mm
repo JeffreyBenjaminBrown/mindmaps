@@ -723,9 +723,6 @@
 <node TEXT="-&gt; 2015 Feb (earliest)" ID="ID_244898444" CREATED="1425448039252" MODIFIED="1436682905054">
 <font BOLD="true"/>
 <node TEXT="2015 03 03 - 2015 02 13, working backward" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1153738072" CREATED="1425448272330" MODIFIED="1425503930752"/>
-<node TEXT="display" ID="ID_1838942855" CREATED="1425458398747" MODIFIED="1425458399968">
-<node TEXT="&quot;promote us!&quot; to indicate a branch is just to save view space" ID="ID_410265016" CREATED="1424663125594" MODIFIED="1424663146189"/>
-</node>
 <node TEXT="tradeoffs, ongoing" ID="ID_714378937" CREATED="1425436722351" MODIFIED="1425436728165">
 <node TEXT="maybe" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_522775215" CREATED="1425448223254" MODIFIED="1425448224869"/>
 <node TEXT="I can&apos;t afford to integrate everything into a single main sort. Must make local sorts of recnt dates." ID="ID_1974728" CREATED="1425347676243" MODIFIED="1425448218363"/>
@@ -765,21 +762,38 @@
 <node TEXT="= ext&apos;d 2015 07 22 from ..." LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1343992372" CREATED="1436421781738" MODIFIED="1437640127950">
 <node TEXT="from (rep|info / dates) and everything below that on the RHS" ID="ID_211098526" CREATED="1437640113961" MODIFIED="1437640119577"/>
 </node>
-<node TEXT="sort by what am now best at" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_136939957" CREATED="1425590363309" MODIFIED="1456035310603">
-<node TEXT="= more generally, work that way" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_677644145" CREATED="1456035317261" MODIFIED="1456035323038"/>
-<node TEXT="if currently I feel I can cheaply classify into high|low yield, do that; if I feel I can merge, that instead" ID="ID_997653263" CREATED="1425590367364" MODIFIED="1425590403793"/>
-<node TEXT="was : can afford now to sort as" ID="ID_282006240" CREATED="1449377145155" MODIFIED="1449377163334"/>
+<node TEXT="? did I dup these by accident" LOCALIZED_STYLE_REF="default" ID="ID_400848556" CREATED="1456559319406" MODIFIED="1456559330589">
+<font BOLD="true"/>
+<node TEXT="info being / view|display" ID="ID_691290810" CREATED="1456540742122" MODIFIED="1456540798198">
+<node TEXT="&quot;/&quot; because the tech ranks lower" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_745749284" CREATED="1456540768114" MODIFIED="1456540781434"/>
+<node TEXT="&quot;promote us!&quot; to indicate a branch is just to save view space" ID="ID_410265016" CREATED="1424663125594" MODIFIED="1424663146189"/>
 </node>
-<node TEXT="when done, believe it" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_59914170" CREATED="1437636421279" MODIFIED="1437636424841">
-<node TEXT="if I allow myself not to move past what I have read until I have added to it, I move much more slowly" ID="ID_902999931" CREATED="1429922596069" MODIFIED="1429922614907"/>
+<node TEXT="priorit&apos;n" ID="ID_910276655" CREATED="1456540824666" MODIFIED="1456540922410">
+<node TEXT="integ : proc goals &amp; proc self" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1048490348" CREATED="1456540853762" MODIFIED="1456540864189">
+<node TEXT="sort by what am now best at" LOCALIZED_STYLE_REF="default" ID="ID_136939957" CREATED="1425590363309" MODIFIED="1456540864917">
+<node TEXT="= more generally, work that way" LOCALIZED_STYLE_REF="default" ID="ID_677644145" CREATED="1456035317261" MODIFIED="1456540880668"/>
+<node TEXT="if currently I feel I can cheaply classify into high|low yield, do that; if I feel I can merge, that instead" LOCALIZED_STYLE_REF="styles.topic" ID="ID_997653263" CREATED="1425590367364" MODIFIED="1456540876094"/>
+<node TEXT="was : can afford now to sort as" LOCALIZED_STYLE_REF="styles.topic" ID="ID_282006240" CREATED="1449377145155" MODIFIED="1456540876123"/>
 </node>
-<node TEXT="frame (effects)" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_13868707" CREATED="1433799486207" MODIFIED="1449379355238">
-<node TEXT="frame bounded applic" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1183123176" CREATED="1449377950704" MODIFIED="1449377962183">
+</node>
+</node>
+<node TEXT="devnull &amp; peace" ID="ID_413031650" CREATED="1456540896034" MODIFIED="1456540934491">
+<node TEXT="when done, believe it" LOCALIZED_STYLE_REF="default" ID="ID_59914170" CREATED="1437636421279" MODIFIED="1456540989504">
+<node TEXT="= move on, feel not compelled to change(tr v)" ID="ID_171596123" CREATED="1456540957402" MODIFIED="1456540981619">
+<node TEXT="if I allow myself not to move past what I have read until I have added to it, I move much more slowly" LOCALIZED_STYLE_REF="default" ID="ID_902999931" CREATED="1429922596069" MODIFIED="1456540945944"/>
+</node>
+</node>
+</node>
+<node TEXT="logics" ID="ID_536087548" CREATED="1456541029066" MODIFIED="1456541029935">
+<node TEXT="frame (effects)" LOCALIZED_STYLE_REF="default" ID="ID_13868707" CREATED="1433799486207" MODIFIED="1456541031572">
+<node TEXT="frame o.a bounded applic" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1183123176" CREATED="1449377950704" MODIFIED="1456541045187">
 <node TEXT="&quot;more than the opposite but not much of either&quot;" LOCALIZED_STYLE_REF="default" ID="ID_258527568" CREATED="1427847572826" MODIFIED="1449377964809"/>
 </node>
 <node TEXT="from that timespan it looks timeless" ID="ID_107519694" CREATED="1427931566528" MODIFIED="1427931577469"/>
 <node TEXT="&quot;work in the day, people at night, and no drugs&quot;" ID="ID_738568227" CREATED="1427860580075" MODIFIED="1433799504694">
 <node TEXT="from an addict, imposing the drug frame on an already complete _" ID="ID_1547850975" CREATED="1432346949195" MODIFIED="1437636989421"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="ctx-varying syntax" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1340911630" CREATED="1415211761885" MODIFIED="1430951413988">
@@ -1775,6 +1789,8 @@
 <node TEXT="dupd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_934506556" CREATED="1456296016040" MODIFIED="1456296024452"/>
 </node>
 <node TEXT="like a piano, tune every note" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1944620572" CREATED="1456296076824" MODIFIED="1456296081658"/>
+<node TEXT="26" ID="ID_1831277868" CREATED="1456541834353" MODIFIED="1456541835492"/>
+<node TEXT="necker cube, whether some oppor exists" ID="ID_723753713" CREATED="1456541835722" MODIFIED="1456541843221"/>
 </node>
 <node TEXT="info|proc, from log" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1646020717" CREATED="1424753595809" MODIFIED="1435172338620">
 <node TEXT=". see also rep/ {encodability, ..}" ID="ID_1743939998" CREATED="1425084542676" MODIFIED="1425084553386"/>

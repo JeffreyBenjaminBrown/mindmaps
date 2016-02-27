@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.334">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.103">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -16469,7 +16469,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="motiv|illus|why|sell|sale|persu|market|wiki" ID="ID_1684661085" CREATED="1455515112633" MODIFIED="1455515470916"/>
 </node>
@@ -16951,7 +16950,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -17052,12 +17050,51 @@
 </node>
 </node>
 <node TEXT="totally solved, simple, powerf" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1623340648" CREATED="1455780610930" MODIFIED="1456303683637">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_610330819" STARTINCLINATION="100;0;" ENDINCLINATION="100;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1483359118" STARTINCLINATION="297;0;" ENDINCLINATION="297;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_610330819" STARTINCLINATION="100;0;" ENDINCLINATION="100;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="= feas, simple, powerf" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_23593448" CREATED="1455780637330" MODIFIED="1455780643709"/>
 </node>
 <node TEXT="read head started here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_619921238" CREATED="1456303165725" MODIFIED="1456303207060">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1947168739" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="document = choice of places|work projects to make" LOCALIZED_STYLE_REF="default" ID="ID_323675089" CREATED="1456113751241" MODIFIED="1456477273543"/>
+<node TEXT="26" ID="ID_1793052976" CREATED="1456541133298" MODIFIED="1456541134240"/>
+<node TEXT="a priority order and a comprehension order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1062694370" CREATED="1456541102338" MODIFIED="1456541112140"/>
+<node TEXT="&quot;tell me where [expr] is,&#xa;&amp; update g to have it if it doesn&apos;t&apos;" ID="ID_700147173" CREATED="1456541533595" MODIFIED="1456541584592"/>
+<node TEXT="in-sentence joints" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_757523603" CREATED="1456541061514" MODIFIED="1456542447724">
+<node TEXT="enum" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_655513292" CREATED="1456542403642" MODIFIED="1456542448892">
+<node TEXT="undefineds" LOCALIZED_STYLE_REF="default" ID="ID_1218919651" CREATED="1456542239282" MODIFIED="1456542247413">
+<font BOLD="true"/>
+<node TEXT="m = modifier" ID="ID_1660038850" CREATED="1456542203130" MODIFIED="1456542207495"/>
+<node TEXT="v, tv: verb, transitive verb" ID="ID_949623689" CREATED="1456542249770" MODIFIED="1456542272432"/>
+</node>
+<node TEXT="v = v | tv o | m v" ID="ID_349587404" CREATED="1456541065322" MODIFIED="1456542302531"/>
+<node TEXT="act = s v | m act" ID="ID_511491310" CREATED="1456541070122" MODIFIED="1456542226276"/>
+<node TEXT="n = n | m n" ID="ID_628760470" CREATED="1456541142234" MODIFIED="1456542316290"/>
+</node>
+<node TEXT="yes, no prepositions" ID="ID_1367343374" CREATED="1456542407851" MODIFIED="1456542413648">
+<node TEXT="they are atomic -- for instance, &quot;for _ to _&quot;" ID="ID_463953883" CREATED="1456542414403" MODIFIED="1456542425512"/>
+</node>
+</node>
+<node TEXT="parse rels : user gives precedence as float" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_315109347" CREATED="1456542469397" MODIFIED="1456542488387">
+<node TEXT="parse vo.5 rels :0 user nv.5 gives vo.5 precedence as.5 float" ID="ID_1545995427" CREATED="1456542498395" MODIFIED="1456542714064"/>
+</node>
+<node TEXT="to parser" ID="ID_534330627" CREATED="1456542864963" MODIFIED="1456542874176">
+<node TEXT="that is, to this" ID="ID_932596620" CREATED="1456542876459" MODIFIED="1456542880050">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_315109347" STARTINCLINATION="348;0;" ENDINCLINATION="348;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+<node TEXT="rel equation: nv = vn" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_486394844" CREATED="1456542562859" MODIFIED="1456542725877">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_315109347" STARTINCLINATION="283;0;" ENDINCLINATION="283;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="the word binders" ID="ID_1365653126" CREATED="1456541061514" MODIFIED="1456541064679">
+<node TEXT="tv o" ID="ID_1285359570" CREATED="1456541065322" MODIFIED="1456541083519"/>
+<node TEXT="s v" ID="ID_332361541" CREATED="1456541070122" MODIFIED="1456541087998"/>
+<node TEXT="n a" ID="ID_1195885911" CREATED="1456541142234" MODIFIED="1456541144543"/>
+<node TEXT="expr modifier" ID="ID_1025204747" CREATED="1456541203594" MODIFIED="1456541332718">
+<node TEXT="cube(cooking)" ID="ID_1458590523" CREATED="1456541213906" MODIFIED="1456541336053"/>
+<node TEXT="very m.e green" ID="ID_710502517" CREATED="1456541336962" MODIFIED="1456541345042"/>
+</node>
 </node>
 </node>
 <node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1456176534965">

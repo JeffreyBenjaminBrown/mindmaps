@@ -6310,7 +6310,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="1" ID="ID_1843384837" CREATED="1449013591885" MODIFIED="1449013592645">
 <node TEXT="treat exercise as learnable experience manifold" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_607696571" CREATED="1449013593086" MODIFIED="1449015097125">
@@ -7730,6 +7729,11 @@
 <node TEXT="&quot;_.&quot; &quot;That was recently addressed!&quot;" ID="ID_1743339071" CREATED="1456294916832" MODIFIED="1456294926052"/>
 </node>
 <node TEXT="&quot;That was awesome! I could totally do that once a month.&quot;" ID="ID_1877268468" CREATED="1456295091552" MODIFIED="1456295108373"/>
+</node>
+<node TEXT="26" ID="ID_1317743115" CREATED="1456559347957" MODIFIED="1456559348586">
+<node TEXT="take responsiblt for hedon" ID="ID_1873094845" CREATED="1456559349038" MODIFIED="1456559354666">
+<node TEXT="it&apos;s not too early" ID="ID_573414149" CREATED="1456559356078" MODIFIED="1456559359922"/>
+</node>
 </node>
 </node>
 </node>
