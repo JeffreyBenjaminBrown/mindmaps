@@ -14947,6 +14947,15 @@
 <node TEXT="super mario" ID="ID_1508806756" CREATED="1456527584178" MODIFIED="1456527586654"/>
 <node TEXT="https://www.youtube.com/watch?v=wiIClV5YQ-A" ID="ID_350860196" CREATED="1456527604397" MODIFIED="1456527604397" LINK="https://www.youtube.com/watch?v=wiIClV5YQ-A"/>
 </node>
+<node TEXT="are you $ what if $ hat" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1078724322" CREATED="1456979207971" MODIFIED="1456979508956">
+<node TEXT="^ are dup of higher" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1538998651" CREATED="1456979365939" MODIFIED="1456979384385">
+<node TEXT="that careted gen and its parent" ID="ID_486514638" CREATED="1456979376427" MODIFIED="1456979406877"/>
+</node>
+<node TEXT="hat was what" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1417709222" CREATED="1456979218283" MODIFIED="1456979242823"/>
+<node TEXT="\lyric" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_398868056" CREATED="1456979511525" MODIFIED="1456979515996"/>
+</node>
+<node TEXT="music generating rules generating music" ID="ID_281405221" CREATED="1456902654043" MODIFIED="1456902658947"/>
+<node TEXT="if thinking about the bass player, think about what it is to hear the music from there" ID="ID_1478610041" CREATED="1456296994769" MODIFIED="1456297007318"/>
 </node>
 </node>
 </node>

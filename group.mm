@@ -2487,8 +2487,8 @@
 <node TEXT="give ample time to another&apos;s process of realizing what [feelings, experience] mean to them" ID="ID_938688589" CREATED="1433393825176" MODIFIED="1439409799812"/>
 </node>
 <node TEXT="tension" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1424515251" CREATED="1444159784087" MODIFIED="1444159802500">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1047741205" STARTINCLINATION="143;0;" ENDINCLINATION="143;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008009414" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1047741205" STARTINCLINATION="143;0;" ENDINCLINATION="143;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="info being" ID="ID_1107035973" CREATED="1442621550244" MODIFIED="1442622669572">
 <font BOLD="true"/>
@@ -2596,7 +2596,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="? use(joke) exclvt for bond|status" ID="ID_1124129327" CREATED="1442632926883" MODIFIED="1456446704295">
 <node TEXT="the in crowd" ID="ID_1320297879" CREATED="1442632960203" MODIFIED="1442632968827"/>
@@ -2804,7 +2803,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="&quot;Don&apos;t call a little girl a little princess.&quot;" ID="ID_946687101" CREATED="1440111417441" MODIFIED="1442646641879">
@@ -2870,7 +2868,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3103,6 +3100,23 @@
 </node>
 </node>
 <node TEXT="pica === dark | speculative &amp;&amp; not shared" ID="ID_150193432" CREATED="1451636727123" MODIFIED="1456106632226"/>
+</node>
+</node>
+<node TEXT="dates, more" POSITION="right" ID="ID_372475765" CREATED="1457042884124" MODIFIED="1457042890901">
+<font BOLD="true"/>
+<node TEXT="2016 03 03" ID="ID_632293779" CREATED="1457040338434" MODIFIED="1457042899545">
+<node TEXT="hip hip ~ hedon" ID="ID_954948674" CREATED="1456722566279" MODIFIED="1456722571476"/>
+<node TEXT="I would love videos of national anthems with english subtitles, one word visible at a time coincident with the audio." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1630283381" CREATED="1456710641871" MODIFIED="1456710683385"/>
+<node TEXT="makeup ~ prog vo. response{to lookup}" ID="ID_1278543670" CREATED="1456521734478" MODIFIED="1456521788358">
+<node TEXT="to apply makeup before photos, to massage one&apos;s resume, etc are to program the experience another will have when they lookup the data" ID="ID_1177821598" CREATED="1457040955011" MODIFIED="1457041003808"/>
+</node>
+<node TEXT="&quot;zootopia&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1838918525" CREATED="1456467320790" MODIFIED="1457041502368"/>
+<node TEXT="a world set up for partnership" ID="ID_1718767689" CREATED="1456436073098" MODIFIED="1456436078479"/>
+<node TEXT="How big is the economy? Edu? Med?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_154183451" CREATED="1456299009013" MODIFIED="1456299019625">
+<node TEXT="And in other countries?" ID="ID_134915441" CREATED="1456299025520" MODIFIED="1456299028837"/>
+<node TEXT="And you think we can&apos;t make them free why?" ID="ID_940641095" CREATED="1456299029022" MODIFIED="1456299100680"/>
+<node TEXT="The rich might flee somewhat, but we have largely captured them. They want to be here. Our labor force is safely high-tech. We don&apos;t need to feed the rich a disproportionate share in order to take care of labor; if we gave labor a bigger share, they would not lose their jobs on net (* is this debatable?), although they might have to change them, which is admittedly rough, but worth it (as long as we take adequate care of workers in transit)." ID="ID_1920557373" CREATED="1456299090414" MODIFIED="1457042279952"/>
+</node>
 </node>
 </node>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>

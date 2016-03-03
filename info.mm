@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / rep|info" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1437675157144"><hook NAME="MapStyle" zoom="1.21">
+<node TEXT="git / rep|info" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1437675157144"><hook NAME="MapStyle" zoom="1.213">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -762,7 +762,7 @@
 <node TEXT="= ext&apos;d 2015 07 22 from ..." LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1343992372" CREATED="1436421781738" MODIFIED="1437640127950">
 <node TEXT="from (rep|info / dates) and everything below that on the RHS" ID="ID_211098526" CREATED="1437640113961" MODIFIED="1437640119577"/>
 </node>
-<node TEXT="? did I dup these by accident" LOCALIZED_STYLE_REF="default" ID="ID_400848556" CREATED="1456559319406" MODIFIED="1456559330589">
+<node TEXT="+1 s" ID="ID_1507934575" CREATED="1456567579610" MODIFIED="1456567584168">
 <font BOLD="true"/>
 <node TEXT="info being / view|display" ID="ID_691290810" CREATED="1456540742122" MODIFIED="1456540798198">
 <node TEXT="&quot;/&quot; because the tech ranks lower" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_745749284" CREATED="1456540768114" MODIFIED="1456540781434"/>
@@ -1060,8 +1060,7 @@
 </node>
 </node>
 </node>
-<node TEXT="u / dates" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_582838397" CREATED="1432347258699" MODIFIED="1456129804954">
-<node TEXT="extd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_202712164" CREATED="1456122647430" MODIFIED="1456122654869">
+<node TEXT="extd" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_202712164" CREATED="1456122647430" MODIFIED="1456122654869">
 <node TEXT="= 2nd extraction: favorites, read very fast" LOCALIZED_STYLE_REF="styles.topic" ID="ID_722596318" CREATED="1437637691320" MODIFIED="1437637716386">
 <node TEXT="2nd extraction of both" ID="ID_1440683563" CREATED="1437637706512" MODIFIED="1437637709909"/>
 </node>
@@ -1579,6 +1578,7 @@
 </node>
 </node>
 </node>
+<node TEXT="u / dates" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_582838397" CREATED="1432347258699" MODIFIED="1456129804954">
 <node TEXT="2015 03 19" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1424803890" CREATED="1441393352897" MODIFIED="1441393356309">
 <node TEXT="reverse materialization" ID="ID_1380929094" CREATED="1426818070696" MODIFIED="1426818073972">
 <node TEXT="the low temporary leaps into the high permanent, more accurately into the ideal" ID="ID_50131145" CREATED="1426818007976" MODIFIED="1426818054647"/>
@@ -1747,23 +1747,26 @@
 <node TEXT="is the distinction clear" ID="ID_194365689" CREATED="1436410943377" MODIFIED="1436410952832"/>
 </node>
 </node>
-<node TEXT="02 17" ID="ID_639155838" CREATED="1455741389705" MODIFIED="1455741849566"/>
+<node TEXT="02 17" ID="ID_639155838" CREATED="1455741389705" MODIFIED="1455741849566">
 <node TEXT="helpful ? to imagine good into|at death" ID="ID_140611509" CREATED="1455169604992" MODIFIED="1455169620625"/>
 <node TEXT="&quot;accurate but not fair&quot; : 2 kinds" ID="ID_323443751" CREATED="1455169376504" MODIFIED="1455741407401">
 <node TEXT="accurate but substantially incomplete" ID="ID_451130216" CREATED="1455170035960" MODIFIED="1455170049601"/>
 <node TEXT="accurate but not to share" ID="ID_948117486" CREATED="1455170068376" MODIFIED="1455170076605"/>
 </node>
-<node TEXT="20" ID="ID_276071102" CREATED="1456040525776" MODIFIED="1456040526949"/>
+</node>
+<node TEXT="20" ID="ID_276071102" CREATED="1456040525776" MODIFIED="1456040526949">
 <node TEXT="the time I was an animal" ID="ID_1694619081" CREATED="1454985363482" MODIFIED="1454985406818">
 <node TEXT="invert : day &gt; time" ID="ID_921738195" CREATED="1454985408611" MODIFIED="1456040508808"/>
 </node>
-<node TEXT="21" ID="ID_1347250439" CREATED="1456108644566" MODIFIED="1456108644975"/>
+</node>
+<node TEXT="21" ID="ID_1347250439" CREATED="1456108644566" MODIFIED="1456108644975">
 <node TEXT="pretty :: tricky &amp; heavy" ID="ID_1706517412" CREATED="1451789192223" MODIFIED="1456104851517">
 <node TEXT="there exists something pretty involving both" LOCALIZED_STYLE_REF="styles.topic" ID="ID_849795954" CREATED="1451789201743" MODIFIED="1456104878098"/>
 </node>
 <node TEXT="&quot;has (only) a few|these equivalents&quot;" ID="ID_28503662" CREATED="1451797524699" MODIFIED="1451927744151"/>
 <node TEXT="if considering cutting off someone because their choices are bad, consider whether it is their choices" ID="ID_745152212" CREATED="1456114277001" MODIFIED="1456114300838">
 <node TEXT="rather than being" ID="ID_818861464" CREATED="1456114302593" MODIFIED="1456114304415"/>
+</node>
 </node>
 <node TEXT="transfers" ID="ID_1340378399" CREATED="1456131418171" MODIFIED="1456131419467">
 <font BOLD="true"/>
@@ -1775,10 +1778,10 @@
 <node TEXT="can argue both directions" ID="ID_1769555998" CREATED="1456131332723" MODIFIED="1456131346652"/>
 </node>
 </node>
+<node TEXT="23" ID="ID_461125113" CREATED="1456295196512" MODIFIED="1456295198533">
 <node TEXT="so much depends on what a _ [looks like]" ID="ID_623554551" CREATED="1456112313279" MODIFIED="1456183265523"/>
 <node TEXT="inflexible lens" ID="ID_1436549168" CREATED="1455941294958" MODIFIED="1455941297797"/>
 <node TEXT="someone solving [crimes] I couldn&apos;t see" ID="ID_1816489775" CREATED="1455939333541" MODIFIED="1456184622690"/>
-<node TEXT="23" ID="ID_461125113" CREATED="1456295196512" MODIFIED="1456295198533"/>
 <node TEXT="gambles of whether it was useful time" ID="ID_1620337149" CREATED="1456295189752" MODIFIED="1456295193669"/>
 <node TEXT="for me to recog &amp; not for me to decide" ID="ID_1470113613" CREATED="1456295329082" MODIFIED="1456295341135"/>
 <node TEXT="if has a not, lead*with the not" ID="ID_1221891060" CREATED="1456295343696" MODIFIED="1456295376613">
@@ -1789,8 +1792,51 @@
 <node TEXT="dupd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_934506556" CREATED="1456296016040" MODIFIED="1456296024452"/>
 </node>
 <node TEXT="like a piano, tune every note" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1944620572" CREATED="1456296076824" MODIFIED="1456296081658"/>
-<node TEXT="26" ID="ID_1831277868" CREATED="1456541834353" MODIFIED="1456541835492"/>
+</node>
+<node TEXT="26" ID="ID_1831277868" CREATED="1456541834353" MODIFIED="1456541835492">
 <node TEXT="necker cube, whether some oppor exists" ID="ID_723753713" CREATED="1456541835722" MODIFIED="1456541843221"/>
+</node>
+<node TEXT="2016 03 03" ID="ID_661422188" CREATED="1457040299179" MODIFIED="1457042921833">
+<node TEXT="gravity waves is waves in (distance &lt;- space)" ID="ID_554018253" CREATED="1456811660096" MODIFIED="1456811681207">
+<node TEXT="just distance?" ID="ID_656596201" CREATED="1456811698760" MODIFIED="1456811700910"/>
+</node>
+<node TEXT="hidden, shapeshifting danger" ID="ID_1880705716" CREATED="1456522233967" MODIFIED="1457040812232"/>
+<node TEXT="things to overcome, not want to encode too specifically|compressed" ID="ID_1227606114" CREATED="1456521437358" MODIFIED="1456521454909">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1025780012" STARTINCLINATION="119;0;" ENDINCLINATION="119;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="compressed \ specific" ID="ID_220298313" CREATED="1456521458270" MODIFIED="1456521468838">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1227606114" STARTINCLINATION="527;0;" ENDINCLINATION="527;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="by hard I may have meant strategic and zero-sum" ID="ID_1025780012" CREATED="1456521394054" MODIFIED="1456521402931"/>
+<node TEXT="person &gt; rep" ID="ID_746248385" CREATED="1456521263134" MODIFIED="1456521265347">
+<node TEXT="when person present" ID="ID_1894295309" CREATED="1456521265686" MODIFIED="1456521268187"/>
+</node>
+<node TEXT="devnull / redact _ to [these]" ID="ID_1697969486" CREATED="1456467910174" MODIFIED="1457041380723">
+<node ID="ID_18278815" CREATED="1456467968772" MODIFIED="1456467968772"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rhythm
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="like in pictionary, if you speak with your lips closed" ID="ID_1069403304" CREATED="1456467981006" MODIFIED="1456467990875"/>
+</node>
+<node TEXT="appropriate response" ID="ID_200595900" CREATED="1456467969422" MODIFIED="1456467972203">
+<node TEXT="&quot;don&apos;t tell me how you feel if it&apos;s _, just tell me how to deal with you then&quot;" ID="ID_207415891" CREATED="1456467999174" MODIFIED="1457041332325"/>
+</node>
+</node>
+<node TEXT="paradox ~ infinite loop" ID="ID_462522470" CREATED="1456387145847" MODIFIED="1456387146565"/>
+<node TEXT="! the untyped lambda calculus is inconsitent" ID="ID_1635534223" CREATED="1456387153939" MODIFIED="1457041881641">
+<node TEXT="can prove anything" ID="ID_920209257" CREATED="1456387162439" MODIFIED="1456387171393"/>
+</node>
+<node TEXT="&quot;and by long, long ago I mean always but we can ignore me&quot;" ID="ID_170341153" CREATED="1456352649192" MODIFIED="1457041986105"/>
+</node>
 </node>
 <node TEXT="info|proc, from log" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1646020717" CREATED="1424753595809" MODIFIED="1435172338620">
 <node TEXT=". see also rep/ {encodability, ..}" ID="ID_1743939998" CREATED="1425084542676" MODIFIED="1425084553386"/>

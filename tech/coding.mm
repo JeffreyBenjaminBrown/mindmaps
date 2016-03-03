@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.103">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.334">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -2713,12 +2713,27 @@
 <node TEXT="do not try to be able to rep everything; rather, pick a rep and build on it" ID="ID_659101255" CREATED="1455003522166" MODIFIED="1455003535200"/>
 <node TEXT="after the types you have made your promises, the rest of the code executes them, is inferrable" ID="ID_334755215" CREATED="1455564606299" MODIFIED="1455564619311"/>
 <node TEXT="using it :? the best test" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_633003726" CREATED="1455511479692" MODIFIED="1455511497713"/>
+<node ID="ID_221726083" CREATED="1456953128767" MODIFIED="1456953157979"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      oppor: sometimes there <font color="#0000ff">is an irrelevant name. if learn to ignore, can speed coding.</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="data safety" POSITION="right" ID="ID_269094197" CREATED="1455776976146" MODIFIED="1455776978301">
 <node TEXT="ctrl-x but no save; swap apps; paste; save; swap; save" ID="ID_1665566698" CREATED="1455776946814" MODIFIED="1455776963102"/>
 </node>
-<node TEXT="dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1455782220101">
+<node TEXT="dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1456787931762">
+<font BOLD="false"/>
 <node TEXT="extd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1529924915" CREATED="1451168349543" MODIFIED="1451168355817">
 <node TEXT="s, 2015 11 14, 1-extrd 2015 11 25" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1545140239" CREATED="1447538882211" MODIFIED="1448529060472">
 <node TEXT="meh|done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1929331444" CREATED="1447538540970" MODIFIED="1447538785832">
@@ -17096,6 +17111,78 @@
 <node TEXT="very m.e green" ID="ID_710502517" CREATED="1456541336962" MODIFIED="1456541345042"/>
 </node>
 </node>
+<node TEXT="miniKanrenT: only a couple hundred lines!" ID="ID_1651164063" CREATED="1456617213092" MODIFIED="1456617222513">
+<node TEXT="https://github.com/jvranish/MiniKanrenT" ID="ID_44428633" CREATED="1456617223365" MODIFIED="1456617223365" LINK="https://github.com/jvranish/MiniKanrenT"/>
+</node>
+<node TEXT="free bracket shape, ?the most visible" ID="ID_1209138303" CREATED="1456643251634" MODIFIED="1456643279394">
+<node TEXT="there are two more simple brackets! horizj reflect 7 and then vert-reflect that" LOCALIZED_STYLE_REF="default" ID="ID_79497188" CREATED="1456643184186" MODIFIED="1456643285710"/>
+</node>
+<node TEXT="special char pitfall" ID="ID_257528914" CREATED="1456700942566" MODIFIED="1456700948244">
+<node TEXT="-- (\&amp; == empty string) is to distinguish from longer number" ID="ID_513753675" CREATED="1456700949520" MODIFIED="1456700949520"/>
+<node TEXT="-- if special char followed by a non-digit, no \&amp; necessary" ID="ID_1152554231" CREATED="1456700949520" MODIFIED="1456700949520"/>
+</node>
+<node TEXT="the verb for what a category like maybe or not does to a statement" ID="ID_1814763292" CREATED="1456719493388" MODIFIED="1456719506629">
+<node TEXT="superogarate(view)" ID="ID_1438016362" CREATED="1456719507076" MODIFIED="1456719511908"/>
+</node>
+<node TEXT="view m.v superogarate" ID="ID_236085924" CREATED="1456725146315" MODIFIED="1456725171975"/>
+<node TEXT="can let nodes coincide with last visited, allow user to promote them, show a screen-sized tail" ID="ID_526903739" CREATED="1456731110891" MODIFIED="1456731146555">
+<node TEXT="\ solving a problem before it exists" ID="ID_1509749651" CREATED="1456731182019" MODIFIED="1456731189702"/>
+</node>
+<node TEXT="need up|down" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1228067806" CREATED="1456731541259" MODIFIED="1456731544050"/>
+<node TEXT="internet announce ~ tiny, humnility" ID="ID_96147604" CREATED="1456731696403" MODIFIED="1456731705529"/>
+<node TEXT="script" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1609081739" CREATED="1456739085752" MODIFIED="1456739702102">
+<node TEXT="encodes anything!" ID="ID_1030361986" CREATED="1456739189376" MODIFIED="1456739192629">
+<node TEXT="be vague initj" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1686422199" CREATED="1456739194056" MODIFIED="1456739198429"/>
+<node TEXT="dwt can encode any kind of knowledge" LOCALIZED_STYLE_REF="default" ID="ID_886505134" CREATED="1456739109400" MODIFIED="1456739188772"/>
+</node>
+<node TEXT="the &quot;node view-displaces node&quot; problem" ID="ID_1553742704" CREATED="1456739254072" MODIFIED="1456739265869"/>
+<node TEXT="encoding that" ID="ID_1351112342" CREATED="1456739270072" MODIFIED="1456739272577">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1553742704" STARTINCLINATION="322;0;" ENDINCLINATION="322;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="queries?" ID="ID_624983981" CREATED="1456739205960" MODIFIED="1456739221913">
+<node TEXT="end on possible extensions" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_815754832" CREATED="1456739235528" MODIFIED="1456739240851"/>
+</node>
+</node>
+<node TEXT="? up = why, down = how" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1964923301" CREATED="1456739543344" MODIFIED="1456739702110"/>
+<node TEXT="count forks" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_200523147" CREATED="1456739705804" MODIFIED="1456739721338">
+<node TEXT="use fork1up" ID="ID_401669962" CREATED="1456739739783" MODIFIED="1456739742266"/>
+</node>
+<node TEXT="Megaparsec.Text.Expr: symbol &lt;- reservedOp" ID="ID_1142330838" CREATED="1456774238358" MODIFIED="1456774252946">
+<node TEXT="https://github.com/mrkkrp/megaparsec/commit/750adb7c70392c3195eda12d816f4a1a2305321e" ID="ID_863368396" CREATED="1456774253895" MODIFIED="1456774253895" LINK="https://github.com/mrkkrp/megaparsec/commit/750adb7c70392c3195eda12d816f4a1a2305321e"/>
+</node>
+<node TEXT="or is special" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_798743619" CREATED="1456953455103" MODIFIED="1456953660055">
+<node TEXT="and is implicit, hence already well-encoded" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_203919584" CREATED="1456953488207" MODIFIED="1456953848185">
+<node TEXT="if (a b&apos; c) and (a b c), that b and b&apos; both work in the second position is already implicit once you have encoded the two exprs in isolation" ID="ID_1988158419" CREATED="1456953776463" MODIFIED="1456953817677"/>
+</node>
+<node TEXT="if (a b&apos; c) or (a b c)" ID="ID_6859384" CREATED="1456953744095" MODIFIED="1456953883196">
+<node TEXT="or could be a relation between those two exprs" ID="ID_309621530" CREATED="1456953883626" MODIFIED="1456953891088"/>
+</node>
+</node>
+<node TEXT="view-usurp &gt; replace" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1456796673" CREATED="1456955655305" MODIFIED="1456955673847">
+<node TEXT="is helpful, automatic disambiguation" ID="ID_973181399" CREATED="1456955726601" MODIFIED="1456955738954"/>
+<node TEXT="in the graph, the new one takes the old one&apos;s address, and the old one takes a new address, linked to the old one using &quot;_ was/ _&quot;" ID="ID_1295455705" CREATED="1456955755757" MODIFIED="1456955820439"/>
+</node>
+<node TEXT="x|y &amp; y|z =&gt; x|z" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_672031709" CREATED="1456957480049" MODIFIED="1456957490944"/>
+<node TEXT="&quot;Program in out&quot; :: in -&gt; Graph -&gt; out" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1036404281" CREATED="1456990455066" MODIFIED="1456990561387"/>
+<node TEXT="&apos; for language change" LOCALIZED_STYLE_REF="default" ID="ID_678249712" CREATED="1456521626814" MODIFIED="1457041144285">
+<node TEXT="faithful to spelling before it" ID="ID_705453091" CREATED="1456521651838" MODIFIED="1456521656643"/>
+</node>
+<node TEXT="PWL-recommended reading" ID="ID_1165815352" CREATED="1456390831617" MODIFIED="1456608853423">
+<font BOLD="true"/>
+<node TEXT="2016 02 23-ish, when Phil presented Propositions as Types" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_832472696" CREATED="1457041747837" MODIFIED="1457041766482"/>
+<node TEXT="prolog" ID="ID_7876010" CREATED="1456390894793" MODIFIED="1456390895878"/>
+<node TEXT="triplestore" ID="ID_1428042746" CREATED="1456390834785" MODIFIED="1456390836518"/>
+<node TEXT="semantic web" ID="ID_382001161" CREATED="1456390836762" MODIFIED="1456390840022"/>
+<node TEXT="semantic web &amp; ontologies (US Navy)" ID="ID_1877881711" CREATED="1456608825855" MODIFIED="1456608826669"/>
+<node TEXT="rdf" ID="ID_1542728583" CREATED="1456390856841" MODIFIED="1456390857518"/>
+<node TEXT="business mapping" ID="ID_867836478" CREATED="1456391354209" MODIFIED="1456391357439">
+<node TEXT="https://overcast.fm/+BYsuAdo0" ID="ID_1173845238" CREATED="1456391352655" MODIFIED="1456391352655" LINK="https://overcast.fm/+BYsuAdo0"/>
+</node>
+<node TEXT="hbase" ID="ID_1125661092" CREATED="1456608830944" MODIFIED="1456608831468"/>
+<node TEXT="www.joelonsoftware.com" ID="ID_1692331819" CREATED="1456608837535" MODIFIED="1456608838229"/>
+<node TEXT="http://steve-yegge.blogspot.com/." ID="ID_1006031651" CREATED="1456608814647" MODIFIED="1456608837036"/>
+<node TEXT="https://overcast.fm/+BYsuAdo0" ID="ID_851806781" CREATED="1456611602017" MODIFIED="1456611602751"/>
+</node>
 </node>
 <node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1456176534965">
 <node TEXT="if they want credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1455426419390"/>
@@ -17545,8 +17632,12 @@
 <node TEXT="(tidal-send-string &quot;let retrig = (now ~&gt;)&quot;)" ID="ID_1537759032" CREATED="1455857666921" MODIFIED="1455857666921"/>
 <node TEXT="(tidal-send-string &quot;let fadeOut n = spread&apos; (degradeBy) (retrig $ slow n $ envL)" ID="ID_1084053494" CREATED="1455857689556" MODIFIED="1455857692398"/>
 </node>
+<node TEXT="has anyone got an in-tune sample lib" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_151412458" CREATED="1456898474811" MODIFIED="1456898486085"/>
+<node TEXT="&quot;I take instructions!&quot;" ID="ID_1394440887" CREATED="1456898721164" MODIFIED="1456898725286"/>
 </node>
-<node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1452831175395">
+<node TEXT="fun" POSITION="right" ID="ID_1447679053" CREATED="1457043508252" MODIFIED="1457043509557">
+<font BOLD="true"/>
+<node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="default" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1457043556788">
 <node LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1449592763" CREATED="1452830845091" MODIFIED="1452830847544"><richcontent TYPE="NODE">
 
 <html>
@@ -17569,16 +17660,24 @@
 <node TEXT="robbie recs" ID="ID_1981841653" CREATED="1452835634529" MODIFIED="1452835637068"/>
 </node>
 </node>
-<node TEXT="fun lang, u" POSITION="right" ID="ID_659243533" CREATED="1451598375507" MODIFIED="1451598395159">
-<node TEXT="you can&apos;t get this without growing" ID="ID_1800696480" CREATED="1451598310837" MODIFIED="1451598323353">
-<node TEXT="is minor dup" ID="ID_551493057" CREATED="1451598352627" MODIFIED="1451598356433"/>
-</node>
-<node TEXT="without ~ unless" ID="ID_1477511124" CREATED="1451598328994" MODIFIED="1451598336104">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1800696480" STARTINCLINATION="221;0;" ENDINCLINATION="221;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="phil wadler, propositions as types" ID="ID_1609137972" CREATED="1456428722206" MODIFIED="1456428728227">
+<node TEXT="http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-types" ID="ID_167666096" CREATED="1456428728616" MODIFIED="1456428728616" LINK="http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-types"/>
+<node TEXT="slides on meetup page" ID="ID_459618198" CREATED="1456428765142" MODIFIED="1456428767428">
+<node TEXT="http://www.meetup.com/Papers-We-Love-LA/events/228619562/?comment_table_id=461733115&amp;comment_table_name=event_comment" ID="ID_1950961044" CREATED="1456428767829" MODIFIED="1456428767829" LINK="http://www.meetup.com/Papers-We-Love-LA/events/228619562/?comment_table_id=461733115&amp;comment_table_name=event_comment"/>
 </node>
 </node>
-<node TEXT="al, 2015 11 26-" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_465109363" CREATED="1448615128357" MODIFIED="1450340070119">
-<font BOLD="true"/>
+<node TEXT="to study" LOCALIZED_STYLE_REF="default" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1457043537434">
+<node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
+<node TEXT="semantic net" ID="ID_1072407917" CREATED="1443671949382" MODIFIED="1443671951285"/>
+<node TEXT="&quot;finely tagless&quot;" ID="ID_123617266" CREATED="1443756430157" MODIFIED="1445763971037">
+<node TEXT="phil freeman" ID="ID_471617539" CREATED="1443751687834" MODIFIED="1445763966478"/>
+</node>
+<node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683">
+<node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
+</node>
+</node>
+</node>
+<node TEXT="al, 2015 11 26-" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_465109363" CREATED="1448615128357" MODIFIED="1457043525632">
 <node TEXT="my .mm tree" ID="ID_425480886" CREATED="1425451217686" MODIFIED="1447544885284">
 <node TEXT="diplom includes how to write" ID="ID_1538918411" CREATED="1443596743632" MODIFIED="1447544856993">
 <node TEXT="example, dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1016875872" CREATED="1443596757161" MODIFIED="1443596760242"/>
@@ -18502,16 +18601,6 @@
 </node>
 <node TEXT="soc med (progg)" ID="ID_867308211" CREATED="1450224733098" MODIFIED="1450224741018">
 <node TEXT="sort users by frequency of post" ID="ID_1857218645" CREATED="1449989908696" MODIFIED="1449989912797"/>
-</node>
-</node>
-<node TEXT="study" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1445763959136">
-<node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
-<node TEXT="semantic net" ID="ID_1072407917" CREATED="1443671949382" MODIFIED="1443671951285"/>
-<node TEXT="&quot;finely tagless&quot;" ID="ID_123617266" CREATED="1443756430157" MODIFIED="1445763971037">
-<node TEXT="phil freeman" ID="ID_471617539" CREATED="1443751687834" MODIFIED="1445763966478"/>
-</node>
-<node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683">
-<node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
 </node>
 </node>
 <node TEXT="loop" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1730897790" CREATED="1407000260013" MODIFIED="1407050898981">

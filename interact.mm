@@ -99,5 +99,35 @@
 <node TEXT="showing up somewhere and they see you, you have to say hi; if you avoid them to go prepare for them, somehow they don&apos;t like it" ID="ID_908517753" CREATED="1455774609449" MODIFIED="1455774630247"/>
 </node>
 </node>
+<node TEXT="03 02" POSITION="right" ID="ID_1226107363" CREATED="1457042820812" MODIFIED="1457042824506">
+<node TEXT="find where an issue lives, the marginal discussion forum" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1216795438" CREATED="1456713251401" MODIFIED="1457040457396">
+<node TEXT="one with &gt;1 kind of person, where opinions change" ID="ID_1553314871" CREATED="1456713261233" MODIFIED="1456713271512"/>
+</node>
+<node TEXT="if angry with [person], express myself; don&apos;t make [third party] carry it" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_231235346" CREATED="1456715677570" MODIFIED="1457040465572"/>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1543911837" CREATED="1457040606059" MODIFIED="1457040607317">
+<node TEXT="? how to give a praise-equivalent gift" ID="ID_669634654" CREATED="1456979825148" MODIFIED="1456979835786">
+<node TEXT="in a way more useful to the receiver" ID="ID_3009437" CREATED="1456979845619" MODIFIED="1457040142043"/>
+</node>
+<node TEXT="choice of money source ~ choice of who to help" ID="ID_642673001" CREATED="1456722881076" MODIFIED="1457040324435"/>
+<node TEXT="? tell x alone, or x + x&apos;s friends" ID="ID_1116057500" CREATED="1457040565259" MODIFIED="1457040580547">
+<node TEXT="[person] might enjoy taking your message to their friends; don&apos;t steal that work by bypassing them" ID="ID_1944069059" CREATED="1456710227519" MODIFIED="1457040540300"/>
+</node>
+<node TEXT="for each country, know which * it came from" ID="ID_1647041450" CREATED="1456644658676" MODIFIED="1456644671696">
+<node TEXT="take with salt $$ person &gt; medium" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_844904739" CREATED="1456644747787" MODIFIED="1456644761257"/>
+<node TEXT="* regions still coherent in population" ID="ID_1255181422" CREATED="1456644672379" MODIFIED="1456644695080"/>
+<node TEXT="that is, to know america antifused from britain is to know something about how they see each other" ID="ID_966435005" CREATED="1456644695731" MODIFIED="1456644723584"/>
+</node>
+</node>
+<node TEXT="ask &quot;how are you&quot; of the entire group" ID="ID_385092555" CREATED="1456521576950" MODIFIED="1456521584315">
+<node TEXT="mult recipients" ID="ID_1809639645" CREATED="1456521585590" MODIFIED="1457041174472"/>
+<node TEXT="e.g. spouses" ID="ID_1815546143" CREATED="1457041179843" MODIFIED="1457041185856"/>
+</node>
+<node TEXT="meet gently, low bandwidth" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1420644042" CREATED="1457041408515" MODIFIED="1457041436683">
+<node TEXT="don&apos;t make a would-be friend feel insecure by sending website|listing everything I&apos;ve done" LOCALIZED_STYLE_REF="default" ID="ID_1413524357" CREATED="1456467461006" MODIFIED="1457041469546"/>
+</node>
+<node TEXT="seq: speak, see, retract|soften" ID="ID_1919839930" CREATED="1457041818515" MODIFIED="1457041848635">
+<node TEXT="&quot;I&apos;m looking for collaborators. [pause] Your face seems to indicate you don&apos;t want to be one. Don&apos;t worry, I won&apos;t push the idea on you -- but if you could suggest others to me ...&quot;" ID="ID_1063386825" CREATED="1456387641695" MODIFIED="1457041810885"/>
+</node>
+</node>
 </node>
 </map>

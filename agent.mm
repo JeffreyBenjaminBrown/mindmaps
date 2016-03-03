@@ -671,7 +671,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="= cheat by learning (what kind of?) cycle" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1104098200" CREATED="1438196366274" MODIFIED="1438196377453"/>
 <node TEXT="if exists, when to learn cycle" ID="ID_1745228229" CREATED="1424748538796" MODIFIED="1426375701864"/>
@@ -726,7 +725,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="\intuition, \metaratl, \antiratl" ID="ID_860668191" CREATED="1438196566993" MODIFIED="1456473004600"/>
@@ -1053,7 +1051,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="&quot;I am that I studied too hard, did not party enough. I am the tradeoff, it is eternal.&quot;" ID="ID_605555711" CREATED="1427099876740" MODIFIED="1427099914658"/>
@@ -2028,6 +2025,42 @@
 </node>
 <node TEXT="23" ID="ID_628399003" CREATED="1456296730825" MODIFIED="1456296731477">
 <node TEXT="one does not always read-expect forward" ID="ID_56255666" CREATED="1456296732041" MODIFIED="1456296762016"/>
+</node>
+<node TEXT="2016 03 02" ID="ID_137207913" CREATED="1457042788179" MODIFIED="1457042846605">
+<node TEXT="act vv. imaginary perfect" ID="ID_1591641727" CREATED="1456994928364" MODIFIED="1457040066714">
+<node TEXT="inst/ choose &amp; reach out v. imaginary perfect" ID="ID_172814149" CREATED="1457040067707" MODIFIED="1457040083491">
+<node TEXT="clarifs" ID="ID_289354087" CREATED="1456994983508" MODIFIED="1456994986777">
+<node TEXT="stuck at &quot;who should I reach out to?&quot; =&gt; reaching out to nobody" ID="ID_892191489" CREATED="1456994887732" MODIFIED="1457040039436"/>
+<node TEXT="perfect v. good ~ against reach-out" ID="ID_565081563" CREATED="1456994860076" MODIFIED="1456994884148"/>
+</node>
+</node>
+</node>
+<node TEXT="hidden strat, anticip fail" ID="ID_1812814332" CREATED="1456721849328" MODIFIED="1457040378803">
+<node TEXT="to invest in _ but expect [looks] will take you farther" ID="ID_954247541" CREATED="1456721852852" MODIFIED="1457040403947"/>
+</node>
+<node TEXT="yearn for childhood ~ &quot;let me try that again&quot;" ID="ID_989183751" CREATED="1456522140462" MODIFIED="1457040825291"/>
+<node TEXT="err : xeno paradox at every scale" ID="ID_1249274938" CREATED="1456468450534" MODIFIED="1457041305008">
+<node TEXT="cogv resistant to threshold -- more(substj) okay with almost halfway than halfway, for any measure of almost" ID="ID_337003663" CREATED="1456468457525" MODIFIED="1456468517010">
+<node TEXT="discontinuous" ID="ID_673527481" CREATED="1456468530110" MODIFIED="1456468531796"/>
+</node>
+</node>
+<node TEXT="soc med + marij =&gt; annoying, sticky edit cycles" LOCALIZED_STYLE_REF="default" ID="ID_1306116653" CREATED="1456447012319" MODIFIED="1457041543336">
+<node TEXT="example, dupd" ID="ID_1802539091" CREATED="1456447030351" MODIFIED="1456447032693">
+<node TEXT="Apology: I posted here a caricature of Hillary Clinton as a response to what I see other voters doing. I did not mean to suggest I believe it." ID="ID_654438972" CREATED="1456446853911" MODIFIED="1456446927880"/>
+</node>
+</node>
+<node TEXT="reward as waste" ID="ID_1080372150" CREATED="1456436482217" MODIFIED="1456436484294">
+<node TEXT="burnt fuel, carbon, money" ID="ID_1722433655" CREATED="1456436485002" MODIFIED="1456436498678"/>
+<node TEXT="consumed|driven by a valuable process" ID="ID_719349369" CREATED="1456436502721" MODIFIED="1456436512054">
+<node TEXT="motivd" ID="ID_1719346376" CREATED="1456436513553" MODIFIED="1456436514879"/>
+</node>
+</node>
+<node TEXT="devel &amp; shame" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1632490811" CREATED="1457041897987" MODIFIED="1457041961360">
+<node TEXT="a thing about a growing mind is humor-pitying your former self" ID="ID_1954797086" CREATED="1456353577814" MODIFIED="1456353594371"/>
+</node>
+<node TEXT="marijuana ~ (articulating) love" ID="ID_1074288647" CREATED="1456352552485" MODIFIED="1457042006835">
+<node TEXT="I saw the same in some teenage heroin users -- they became loving, in a verbal, explicit way, to each other and me after using it." ID="ID_809126907" CREATED="1457042016395" MODIFIED="1457042079746"/>
+</node>
 </node>
 </node>
 <node TEXT="? bad" POSITION="right" ID="ID_1192861149" CREATED="1456296476744" MODIFIED="1456296481712">

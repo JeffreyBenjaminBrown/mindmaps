@@ -1185,6 +1185,25 @@
 <node TEXT="= the choices; other things (percep) in it too" ID="ID_1720142458" CREATED="1456122480790" MODIFIED="1456122504343"/>
 </node>
 </node>
+<node TEXT="2016 03 03" ID="ID_1830414341" CREATED="1457042984772" MODIFIED="1457042986626">
+<node TEXT="cold v. trees" ID="ID_1188856875" CREATED="1456644546428" MODIFIED="1456644549344">
+<node TEXT="tundra is defined as so cold it hinders trees" ID="ID_84585510" CREATED="1456644550150" MODIFIED="1456644560080">
+<node TEXT="wikipedia today" ID="ID_1294019223" CREATED="1456644564283" MODIFIED="1456644568712"/>
+</node>
+</node>
+<node TEXT="Little things *are* huge, at a different physics." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_245932088" CREATED="1456521872646" MODIFIED="1457040926005">
+<node TEXT="Parameters like impulse propogation, coherence." ID="ID_1516159871" CREATED="1456521882030" MODIFIED="1456521910795"/>
+<node TEXT="hummingbird, laser sound, fields" ID="ID_570472677" CREATED="1456521920110" MODIFIED="1456521935982"/>
+</node>
+<node TEXT="cantelope ~ water measure" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1188908210" CREATED="1456468922875" MODIFIED="1456468947025">
+<node TEXT="calibrating taste buds" ID="ID_1294439030" CREATED="1456468991886" MODIFIED="1456468999364"/>
+<node TEXT="noticed that the brita-d water tasted bad after cantelope" ID="ID_1339223305" CREATED="1456468945718" MODIFIED="1456468979046"/>
+</node>
+<node TEXT="&quot;Smaller, yes; lower powered, no.&quot;" ID="ID_745614286" CREATED="1456437438122" MODIFIED="1456437439999"/>
+<node TEXT="mindmap ~ engage" ID="ID_1125321061" CREATED="1457042393788" MODIFIED="1457042396289">
+<node TEXT="mindmap is a misnomer. it is engagement (with the external world), based on historical data, of a sort that changes what future experiences you have access to." ID="ID_1248726449" CREATED="1456297628089" MODIFIED="1457042383349"/>
+</node>
+</node>
 </node>
 </node>
 </map>
