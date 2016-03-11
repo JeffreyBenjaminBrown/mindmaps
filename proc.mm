@@ -1203,6 +1203,15 @@
 <node TEXT="mindmap ~ engage" ID="ID_1125321061" CREATED="1457042393788" MODIFIED="1457042396289">
 <node TEXT="mindmap is a misnomer. it is engagement (with the external world), based on historical data, of a sort that changes what future experiences you have access to." ID="ID_1248726449" CREATED="1456297628089" MODIFIED="1457042383349"/>
 </node>
+<node TEXT="safety can be a waste" ID="ID_1398444238" CREATED="1457077091422" MODIFIED="1457077093932"/>
+</node>
+<node TEXT="03 10" ID="ID_1153008243" CREATED="1457730658994" MODIFIED="1457730661431">
+<node TEXT="proc cplt" ID="ID_1644332510" CREATED="1457403196761" MODIFIED="1457403200559">
+<node TEXT="abyss ~ does not compute" ID="ID_1544182674" CREATED="1457403096003" MODIFIED="1457403101347">
+<node TEXT="is it hard to tell such a thing from the others" ID="ID_246169890" CREATED="1457403118326" MODIFIED="1457403126992"/>
+</node>
+<node TEXT="-ambit strat\ complete(proc)" ID="ID_91868769" CREATED="1457403129379" MODIFIED="1457403172971"/>
+</node>
 </node>
 </node>
 </node>

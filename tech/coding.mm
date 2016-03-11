@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.334">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.103">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -17183,6 +17183,133 @@
 <node TEXT="http://steve-yegge.blogspot.com/." ID="ID_1006031651" CREATED="1456608814647" MODIFIED="1456608837036"/>
 <node TEXT="https://overcast.fm/+BYsuAdo0" ID="ID_851806781" CREATED="1456611602017" MODIFIED="1456611602751"/>
 </node>
+<node TEXT="raw &gt; statements are beautiful" ID="ID_951060008" CREATED="1457065597680" MODIFIED="1457065603550">
+<node TEXT="&gt; find a job, share mus.mm to lurk/tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_585399861" CREATED="1456124262095" MODIFIED="1457065611665"/>
+</node>
+<node TEXT="/here v. here/" ID="ID_203422085" CREATED="1457066632001" MODIFIED="1457066642662">
+<node TEXT="whether to include parent or only siblings" ID="ID_1616206724" CREATED="1457066646081" MODIFIED="1457066654054"/>
+</node>
+<node TEXT="/*here, */here, .." ID="ID_1148495832" CREATED="1457066656337" MODIFIED="1457066672414">
+<node TEXT="* in the bash shell sense" ID="ID_745683810" CREATED="1457066675601" MODIFIED="1457066700473"/>
+</node>
+<node TEXT="maybe &amp; lang inj" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_608347817" CREATED="1457067606154" MODIFIED="1457067645050">
+<node TEXT="early musicians, doctors may have injured their professions by for status making their vocabulary difficult" ID="ID_70294576" CREATED="1457067548922" MODIFIED="1457067596833"/>
+</node>
+<node TEXT="redaction : some rels vanish entirely, others only vanish up to an indicated category" ID="ID_891886397" CREATED="1457067702900" MODIFIED="1457067728589">
+<node TEXT="=indicated in the public version" ID="ID_819272662" CREATED="1457067746064" MODIFIED="1457067777127"/>
+<node TEXT="example: could share career/ and redact people from it" ID="ID_916188826" CREATED="1457067846331" MODIFIED="1457067868275">
+<node TEXT="? unless it&apos;s their public persona which they would prefer to advertise" ID="ID_625128781" CREATED="1457067891731" MODIFIED="1457067905468"/>
+</node>
+</node>
+<node TEXT="lang change =? space change" ID="ID_1921798508" CREATED="1457141665417" MODIFIED="1457141698225">
+<node TEXT="to change the language one is speaking is to change (?nothing about the words one uses, just) the meaning of space between them" ID="ID_876968871" CREATED="1457141673256" MODIFIED="1457141694142"/>
+</node>
+<node TEXT="symbols to always notify of if present : asterisk" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1149533571" CREATED="1457142336457" MODIFIED="1457142356953">
+<node TEXT="usurpers : maybe, not" ID="ID_672822445" CREATED="1457142401753" MODIFIED="1457142419966">
+<node TEXT="can&apos;t always show them, e.g. if the usurped was arrived to via a different context" ID="ID_1566270985" CREATED="1457142423826" MODIFIED="1457142448543"/>
+</node>
+</node>
+<node TEXT="read &quot;x pure y&quot; as &quot;y is pure, x impure&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1215941316" CREATED="1457142725953" MODIFIED="1457142751027"/>
+<node TEXT="enter multi Strs at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_654888281" CREATED="1457143340898" MODIFIED="1457143348116"/>
+<node TEXT="an argument for monadic bind" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_557664789" CREATED="1457144060867" MODIFIED="1457144071698">
+<node TEXT="insRel 3 [1,0] &lt;$&gt; insRel 3 [2,0] g :: Right (Right _))" ID="ID_116210200" CREATED="1457144065397" MODIFIED="1457144082242"/>
+<node TEXT="insRel 3 [2,0] g &gt;&gt;= insRel 3 [1,0] :: Right _" ID="ID_1420537652" CREATED="1457144065397" MODIFIED="1457144085607"/>
+</node>
+<node TEXT="? unless (the x in x/y is z), x/y" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_830456313" CREATED="1457144419435" MODIFIED="1457144443336">
+<node TEXT="an argument for it" ID="ID_844605308" CREATED="1457144902083" MODIFIED="1457144904776">
+<node TEXT="let g = empty :: Mindmap" ID="ID_1374851831" CREATED="1457144905219" MODIFIED="1457144905219"/>
+<node TEXT="g &lt;- p $ insStr &quot;frog&quot; g" ID="ID_165340792" CREATED="1457144905219" MODIFIED="1457144905219"/>
+<node TEXT="g &lt;- p $ insStr &quot;moist&quot; g" ID="ID_357533007" CREATED="1457144905220" MODIFIED="1457144905220"/>
+<node TEXT="g &lt;- p $ insStr &quot;springy&quot; g" ID="ID_557311430" CREATED="1457144905221" MODIFIED="1457144905221"/>
+<node TEXT="g &lt;- p $ insTplt &quot;_ qual/ _&quot; g" ID="ID_1341937317" CREATED="1457144905222" MODIFIED="1457144905222"/>
+<node TEXT="g &lt;- p $ fr $ insRel 3 [2,0] g &gt;&gt;= insRel 3 [1,0]" ID="ID_40911454" CREATED="1457144905223" MODIFIED="1457144905223"/>
+<node TEXT="_ because _" ID="ID_28819027" CREATED="1457144905223" MODIFIED="1457144905223"/>
+<node TEXT="_ does _ to _" ID="ID_1490654325" CREATED="1457144905224" MODIFIED="1457144905224"/>
+<node TEXT="?(The usually)? $$$in $$usually frog $qual moist $$$$because freezing stiffens a frog." ID="ID_442831223" CREATED="1457144905225" MODIFIED="1457144905225"/>
+</node>
+</node>
+<node TEXT="tell Haskellers, Mindmappers, Language Lovers" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_691574927" CREATED="1457145172403" MODIFIED="1457145189712"/>
+<node TEXT="count needed|non-obvious clarifications" ID="ID_78539225" CREATED="1457146668068" MODIFIED="1457146694678">
+<node TEXT="by default, and by default do not count the other kind" ID="ID_121290942" CREATED="1457146695460" MODIFIED="1457146705857"/>
+</node>
+<node TEXT="stack(cog), ongoing" ID="ID_1759291433" CREATED="1457158785512" MODIFIED="1457158793192">
+<font BOLD="true"/>
+<node TEXT="_showRel" ID="ID_314464181" CREATED="1457158857013" MODIFIED="1457158857013"/>
+<node TEXT="subInTpltWithDollars" ID="ID_400736055" CREATED="1457158843013" MODIFIED="1457158843013"/>
+<node TEXT="padTpltStrings" ID="ID_327660248" CREATED="1457158796440" MODIFIED="1457158805733"/>
+</node>
+<node TEXT="questions" ID="ID_1441934999" CREATED="1457245616691" MODIFIED="1457245617856">
+<node TEXT="\ not about dwt &amp; for dwt" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1506775679" CREATED="1457245618546" MODIFIED="1457245655992"/>
+<node TEXT="where was I supposed to buy the x" ID="ID_1013018499" CREATED="1457245669731" MODIFIED="1457245704744">
+<node TEXT=".seq" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1291963268" CREATED="1457245905643" MODIFIED="1457245909872"/>
+<node TEXT="search for x" ID="ID_1338187896" CREATED="1457245691323" MODIFIED="1457245705944"/>
+<node TEXT="search for &quot;avail/&quot; from x" ID="ID_1024737314" CREATED="1457245713787" MODIFIED="1457245904589">
+<node TEXT="tog" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1410509158" CREATED="1457245841475" MODIFIED="1457245842709"/>
+<node TEXT="crudely, x avail/ y means x (purpose) can be found at y (method for it)" ID="ID_537180351" CREATED="1457245743771" MODIFIED="1457245839696"/>
+<node TEXT="more accurately, where y is available is a stement whose purpose is getting x, not x itself" ID="ID_670822418" CREATED="1457245833555" MODIFIED="1457245872387"/>
+</node>
+<node TEXT="for getting x not= for x" ID="ID_1596167263" CREATED="1457245875523" MODIFIED="1457245893032"/>
+</node>
+</node>
+<node TEXT="beeteljuice, skew guitar neck, for ease|convenience" ID="ID_764867502" CREATED="1457248562373" MODIFIED="1457248575834">
+<node TEXT="anthropic principle" ID="ID_1067291596" CREATED="1457248577741" MODIFIED="1457248580818"/>
+</node>
+<node TEXT="for freq of procg a node, compare number of ancestry branches" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1445310230" CREATED="1457252797472" MODIFIED="1457252814821"/>
+<node TEXT="It might not be done! If I ever believe DWT can handle the data flow (volume per time) that Freeplane can, I will import the data to DWT, an editor for an object like a mindmap or graph, but more general than" ID="ID_1687179605" CREATED="1457411773733" MODIFIED="1457411954747"/>
+<node TEXT="the undone, just publish them as ambitions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_628326391" CREATED="1457413897852" MODIFIED="1457413904072"/>
+<node TEXT="represent it once : the word for a program that relates one node to another, such as view-usurpal : a data type" ID="ID_1486512325" CREATED="1457417210724" MODIFIED="1457417242941"/>
+<node TEXT="find the natural view-graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_955519434" CREATED="1457505149449" MODIFIED="1457505283451">
+<node TEXT="perhaps a tree, things you consider roughly equal interest forming concentric spheres, and rankings within some spheres" ID="ID_250231939" CREATED="1457505160225" MODIFIED="1457505266811"/>
+</node>
+<node TEXT="&quot;in [expr], [subexpr] {has only these equivs}&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1360142876" CREATED="1457585605486" MODIFIED="1457585654417">
+<node TEXT="&quot;has (only) a few|these equivalents&quot;" ID="ID_28503662" CREATED="1451797524699" MODIFIED="1451927744151"/>
+</node>
+<node TEXT="if has a not, lead*with the not" ID="ID_1221891060" CREATED="1456295343696" MODIFIED="1456295376613">
+<node TEXT="* with among maybe other leaders" LOCALIZED_STYLE_REF="styles.topic" ID="ID_756772732" CREATED="1456295376968" MODIFIED="1456295384114"/>
+</node>
+<node TEXT="stack handles haddock" ID="ID_1174643137" CREATED="1457588161894" MODIFIED="1457588164739"/>
+<node TEXT="_ $ uses _ to mean _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1786047310" CREATED="1457583607478" MODIFIED="1457583641055"/>
+<node TEXT="dwt arguments" ID="ID_1050143863" CREATED="1457385171239" MODIFIED="1457385175280">
+<font BOLD="true"/>
+<node TEXT="&quot;everything is crumbling&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1186185684" CREATED="1457402756626" MODIFIED="1457402762804">
+<node TEXT="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html" ID="ID_1330692797" CREATED="1457402753643" MODIFIED="1457402753643" LINK="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html"/>
+</node>
+<node TEXT="relationships" ID="ID_184659291" CREATED="1457398858596" MODIFIED="1457398859769">
+<node TEXT="_ is true according to _" ID="ID_57860760" CREATED="1457385177122" MODIFIED="1457385183194"/>
+</node>
+<node TEXT="data types &lt; dwt" ID="ID_1177943184" CREATED="1457398874108" MODIFIED="1457398883361">
+<node TEXT="nested lists" ID="ID_204050556" CREATED="1457398884089" MODIFIED="1457398885762">
+<node TEXT="json" ID="ID_1050982948" CREATED="1457398886908" MODIFIED="1457398887593"/>
+</node>
+<node TEXT="tables" ID="ID_204039379" CREATED="1457398898180" MODIFIED="1457398899921"/>
+<node TEXT="graphs" ID="ID_1868230101" CREATED="1457398885980" MODIFIED="1457398886658"/>
+</node>
+</node>
+</node>
+<node TEXT="elliot secrets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_352262750" CREATED="1457129075220" MODIFIED="1457141633694">
+<node TEXT="jeff@jeffLenovUbu:~/dwt$ stack build --no-system-ghc" ID="ID_330210965" CREATED="1457129082744" MODIFIED="1457129082744" LINK="mailto:jeff@jeffLenovUbu"/>
+<node TEXT="stack ghci --no-system-ghc" ID="ID_816419627" CREATED="1457129123476" MODIFIED="1457129124393"/>
+<node TEXT="changed stack.yaml/resolver" ID="ID_12512373" CREATED="1457129474101" MODIFIED="1457129480900">
+<node TEXT="was ## was: nightly-2015-08-03" ID="ID_1334570187" CREATED="1457129481412" MODIFIED="1457129482914"/>
+</node>
+<node TEXT="stack setup instlas 7.10.2, then stack build wants 7.10.3" ID="ID_1188347529" CREATED="1457129952804" MODIFIED="1457129967646"/>
+<node TEXT="delete all local old .stack-work/ folders" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_141326856" CREATED="1457130028917" MODIFIED="1457130038272"/>
+<node TEXT="job in Tel Aviv" ID="ID_1204104098" CREATED="1457131490109" MODIFIED="1457131507772">
+<node TEXT="E emails" ID="ID_1135780805" CREATED="1457131666038" MODIFIED="1457131668538"/>
+</node>
+<node TEXT="" ID="ID_142764201" CREATED="1457131802601" MODIFIED="1457131802601">
+<node TEXT="jeff@jeffLenovUbu:~/dwt$ stack exec which ghc" ID="ID_832221627" CREATED="1457131803757" MODIFIED="1457131803757" LINK="mailto:jeff@jeffLenovUbu"/>
+<node TEXT="/home/jeff/.stack/programs/x86_64-linux/ghc-7.10.3/bin/ghc" ID="ID_1366275840" CREATED="1457131803757" MODIFIED="1457131803757"/>
+<node TEXT="jeff@jeffLenovUbu:~/dwt$" ID="ID_169893428" CREATED="1457131803758" MODIFIED="1457131803758" LINK="mailto:jeff@jeffLenovUbu"/>
+</node>
+<node TEXT="to use tidal" ID="ID_1027342841" CREATED="1457131979815" MODIFIED="1457131981468">
+<node TEXT="make the local ghc look global" ID="ID_536932106" CREATED="1457131983863" MODIFIED="1457131989347">
+<node TEXT="export PATH=/home/jeff/.stack/programs/x86_64-linux/ghc-7.10.3/bin:$PATH" ID="ID_264292044" CREATED="1457131981934" MODIFIED="1457131981934"/>
+<node TEXT="that path came from &quot;stack exec which ghc&quot;" ID="ID_1520682464" CREATED="1457132011966" MODIFIED="1457132017303"/>
+</node>
+</node>
+<node TEXT="MonadRec" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_44084636" CREATED="1457134348111" MODIFIED="1457134352362"/>
+<node TEXT="haskell reddit / jobs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_37085928" CREATED="1457134662399" MODIFIED="1457134666053"/>
 </node>
 <node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1456176534965">
 <node TEXT="if they want credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1455426419390"/>
@@ -17195,16 +17322,30 @@
 <node TEXT="write love into wikipedia" ID="ID_996702693" CREATED="1451537516818" MODIFIED="1451537519968">
 <node TEXT="can&apos;t, it&apos;s a protected article" ID="ID_1489113919" CREATED="1451543033427" MODIFIED="1451543038930"/>
 </node>
+<node TEXT="wiki authority ? problem" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1714177391" CREATED="1452898073002" MODIFIED="1457075959674">
+<node TEXT="https://en.wikipedia.org/w/index.php?title=User_talk:172.88.65.137&amp;redirect=no" ID="ID_1541330683" CREATED="1452898076045" MODIFIED="1452898076045" LINK="https://en.wikipedia.org/w/index.php?title=User_talk:172.88.65.137&amp;redirect=no"/>
 </node>
-<node TEXT="haskell, handy" POSITION="right" ID="ID_950360966" CREATED="1454137477591" MODIFIED="1454137482175">
+<node TEXT="message to wiki" ID="ID_896568156" CREATED="1455426772832" MODIFIED="1455426803514">
+<node TEXT="share with matt" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1350282099" CREATED="1455436686444" MODIFIED="1455741191683"/>
+<node TEXT="people have no control over or knowledge of who they check. they mark assertions as verified, unknown, or wrong." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_544135071" CREATED="1455426735991" MODIFIED="1455426771154"/>
+</node>
+</node>
+<node TEXT="alien ?- haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1455704568" CREATED="1457340509758" MODIFIED="1457340796784">
+<node TEXT="[Haskell-cafe] GADTs and Exponentiated Functors" ID="ID_361809672" CREATED="1457340520318" MODIFIED="1457340521063">
+<node TEXT="demo" ID="ID_1886649835" CREATED="1457340541750" MODIFIED="1457340542540">
+<node TEXT="let persons = fromList&apos; [Person {name=&quot;Alice&quot;, age=20, gender=&quot;F&quot;, status=&quot;Good&quot;}, Person {name=&quot;Bob&quot;, age=18, gender=&quot;M&quot;, status=&quot;Good&quot;}, Person {name=&quot;Chuck&quot;, age=16, gender=&quot;M&quot;, status=&quot;Bad&quot;}] :: NList N1 Person&#xa;&#xa;persons `select` age&#xa;-- [20,18,16]&#xa;&#xa;persons `groupby` gender `select` age&#xa;-- [[20],[18,16]]&#xa;&#xa;persons `groupby` gender `groupby` status `select` age&#xa;-- [[[20]],[[18],[16]]]&#xa;&#xa;Note that &quot;`select` age&quot; works regardless of nesting depth. You can also append or remove nesting levels:&#xa;&#xa;persons `groupby` gender `select` age `produce` (\x -&gt; [0..x])&#xa;-- [[[0..20]],[[0..18],[0..16]]]&#xa;&#xa;persons `groupby` gender `reduce` (sumof age)&#xa;-- [20, 34]" ID="ID_91601030" CREATED="1457340544398" MODIFIED="1457340545723"/>
+</node>
+</node>
+<node TEXT="haskell, handy" ID="ID_950360966" CREATED="1454137477591" MODIFIED="1454137482175">
 <node TEXT="can mix qual &amp; unqual imports" ID="ID_1722754309" CREATED="1454137515895" MODIFIED="1454137520389">
 <node TEXT="import           Data.Map.Strict            (Map)" ID="ID_1659555657" CREATED="1454137521751" MODIFIED="1454137521751"/>
 <node TEXT="import qualified Data.Map.Strict            as Map" ID="ID_988563290" CREATED="1454137521751" MODIFIED="1454137521751"/>
 </node>
 </node>
-<node TEXT="haskell, share  + extend" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_392363637" CREATED="1453762052722" MODIFIED="1453762083073">
+<node TEXT="haskell, share  + extend" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_392363637" CREATED="1453762052722" MODIFIED="1453762083073">
 <node TEXT="&quot;try to compute this from a copy matching pattern&quot;" ID="ID_437063248" CREATED="1453761981056" MODIFIED="1453762017691">
 <node TEXT="e.g. &quot;from [graph] with _ as root&quot;" ID="ID_16845061" CREATED="1453762018467" MODIFIED="1453762035672"/>
+</node>
 </node>
 </node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">

@@ -1668,8 +1668,12 @@
 </node>
 <node TEXT="add project" ID="ID_160870836" CREATED="1400038379621" MODIFIED="1410377694713">
 <node TEXT="each of these deserves reading rightward" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_472514538" CREATED="1400038199706" MODIFIED="1400038206205"/>
-<node TEXT="svn import [source path] file://[repository project path] -m &quot;Original commit.&quot;" LOCALIZED_STYLE_REF="default" ID="ID_801630691" CREATED="1376286069495" MODIFIED="1412387254182"/>
+<node TEXT="svn import [source path] file://[repository project path] -m &quot;Original commit.&quot;" LOCALIZED_STYLE_REF="default" ID="ID_801630691" CREATED="1376286069495" MODIFIED="1457501120188"/>
 <node TEXT="[repository project path] should be a not-yet-existent subfolder of [repos path]" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_343656556" CREATED="1376286118766" MODIFIED="1422654813696"/>
+<node TEXT="I HAVE MADE THIS ERROR TWICE" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_438584931" CREATED="1457501123376" MODIFIED="1457501134965">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_343656556" STARTINCLINATION="437;0;" ENDINCLINATION="437;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="most recently, by committing 31 MB of website into the mm/ branch rather than a new one" ID="ID_1763156195" CREATED="1457501132928" MODIFIED="1457501162655"/>
+</node>
 <node TEXT="more instructions" LOCALIZED_STYLE_REF="default" ID="ID_714745227" CREATED="1403222484123" MODIFIED="1428000265832">
 <node TEXT="source listed first, then repository" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_882485238" CREATED="1403222343734" MODIFIED="1403222349734"/>
 <node TEXT="Do not omit the &quot;-m [comment]&quot;, or it will open Emacs (presumably to allow me to write a comment there)." LOCALIZED_STYLE_REF="default" ID="ID_1504373874" CREATED="1400038235606" MODIFIED="1412387262837"/>
@@ -3019,6 +3023,9 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="Banshee" ID="ID_235206159" CREATED="1457730582370" MODIFIED="1457730583640">
+<node TEXT="to copy audio from cd to hd" ID="ID_46920227" CREATED="1457635867146" MODIFIED="1457730592543"/>
 </node>
 </node>
 <node TEXT="OS" ID="ID_1948766637" CREATED="1409708841481" MODIFIED="1409708842124">
@@ -6404,6 +6411,15 @@
 <node TEXT="I corrected it, I hope" ID="ID_396610584" CREATED="1454373942136" MODIFIED="1454373945483">
 <node TEXT="I deleted it from /usr/local/lib" ID="ID_869848188" CREATED="1454373888655" MODIFIED="1454373929853"/>
 <node TEXT="I changed all the symlinks in /usr/local/bin back to 7.8.4" ID="ID_1406325886" CREATED="1454373947472" MODIFIED="1454373973017"/>
+<node TEXT="those symlink commands" ID="ID_1677688150" CREATED="1457051990153" MODIFIED="1457051998290">
+<font BOLD="true"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1406325886" STARTINCLINATION="464;0;" ENDINCLINATION="464;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="sudo ln -sf runghc-7.8.4 runghc" ID="ID_928962539" CREATED="1457052092823" MODIFIED="1457052092823"/>
+<node TEXT="sudo ln -sf haddock-ghc-7.8.4 haddock" ID="ID_1963659511" CREATED="1457052092823" MODIFIED="1457052092823"/>
+<node TEXT="sudo ln -sf ghc-pkg-7.8.4 ghc-pkg" ID="ID_608087429" CREATED="1457052092824" MODIFIED="1457052092824"/>
+<node TEXT="sudo ln -sf ghci-7.8.4 ghci" ID="ID_661765117" CREATED="1457052092825" MODIFIED="1457052092825"/>
+<node TEXT="sudo ln -sf ghc-7.8.4 ghc" ID="ID_169043361" CREATED="1457052092826" MODIFIED="1457052092826"/>
+</node>
 </node>
 <node TEXT="but now cabal errs" ID="ID_546626188" CREATED="1455845775149" MODIFIED="1455845782619">
 <node TEXT="e.g. cabal install regex-compat produced these" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_463255965" CREATED="1455845800238" MODIFIED="1455845810023"/>
@@ -6411,7 +6427,8 @@
 <node TEXT="Installing library in&#xa;/home/jeff/.cabal/lib/x86_64-linux-ghc-7.8.4/regex-base-0.93.2&#xa;..&#xa;/usr/local/bin/hsc2hs: line 29: /usr/local/lib/ghc-7.10.3/bin/hsc2hs: No such file or directory" ID="ID_1303699658" CREATED="1455845849494" MODIFIED="1455845872674"/>
 </node>
 </node>
-<node TEXT="2016 02 07: Ardour, Pianoteq 4,&#xa;   7zip, lv2, more" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1826826698" CREATED="1454875963517" MODIFIED="1454892215117">
+<node TEXT="2016 02 07: Ardour, Pianoteq 4,&#xa;   7zip, lv2, more" LOCALIZED_STYLE_REF="default" ID="ID_1826826698" CREATED="1454875963517" MODIFIED="1457050476956">
+<font BOLD="true"/>
 <node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1742763278" CREATED="1454891621960" MODIFIED="1454891625302"/>
 <node TEXT="Ardour" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_657078510" CREATED="1454876532678" MODIFIED="1454876802970">
 <node TEXT="bought it" ID="ID_484769526" CREATED="1454876042470" MODIFIED="1454876049676"/>
@@ -6442,6 +6459,19 @@
 <node TEXT="http://www.manual.ardour.org/working-with-plugins/getting-plugins/" ID="ID_544214214" CREATED="1454891340461" MODIFIED="1454891907715" LINK="http://www.manual.ardour.org/working-with-plugins/getting-plugins/">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_935754297" STARTINCLINATION="213;0;" ENDINCLINATION="213;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
+</node>
+</node>
+<node TEXT="2016 02 09: Banshee" ID="ID_1825266334" CREATED="1457670326040" MODIFIED="1457670330198">
+<node TEXT="for copying a CD to disk, which seems to be the only place I can play audio files from" ID="ID_1608806165" CREATED="1457670331217" MODIFIED="1457670345942"/>
+</node>
+<node TEXT="2016 02 10: Supercollider (update)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_977823194" CREATED="1457670346864" MODIFIED="1457670450536">
+<node TEXT=". seq" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1280282726" CREATED="1457670745689" MODIFIED="1457670749530"/>
+<node TEXT="apt-get, I eventually learned, installs 3.6.6 (old), which I already had" ID="ID_1064444787" CREATED="1457670723880" MODIFIED="1457670736102">
+<node TEXT="sudo add-apt-repository ppa:supercollider/ppa&#xa;sudo apt-get update&#xa;sudo apt-get install supercollider" ID="ID_45155758" CREATED="1457670355809" MODIFIED="1457670361501"/>
+</node>
+<node TEXT="sudo apt-get autoremove" ID="ID_1129539225" CREATED="1457670451633" MODIFIED="1457670456208">
+<node TEXT="it reported garbage, said this would remove it, so I ran it" ID="ID_1593837678" CREATED="1457670457094" MODIFIED="1457670466038"/>
+<node TEXT="took a long time" ID="ID_1753866369" CREATED="1457670553720" MODIFIED="1457670556037"/>
 </node>
 </node>
 </node>

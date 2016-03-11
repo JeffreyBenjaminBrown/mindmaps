@@ -129,5 +129,10 @@
 <node TEXT="&quot;I&apos;m looking for collaborators. [pause] Your face seems to indicate you don&apos;t want to be one. Don&apos;t worry, I won&apos;t push the idea on you -- but if you could suggest others to me ...&quot;" ID="ID_1063386825" CREATED="1456387641695" MODIFIED="1457041810885"/>
 </node>
 </node>
+<node TEXT="03 10" POSITION="right" ID="ID_209469108" CREATED="1457730683314" MODIFIED="1457730685071">
+<node TEXT="diplom" ID="ID_1067286249" CREATED="1457730287410" MODIFIED="1457730695719">
+<node TEXT="if I think I detect someone wants to leave, ask them; don&apos;t assume it and end for them" ID="ID_298543869" CREATED="1457216708303" MODIFIED="1457216720883"/>
+</node>
+</node>
 </node>
 </map>
