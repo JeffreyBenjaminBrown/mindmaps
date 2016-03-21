@@ -2727,6 +2727,9 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="2016 03 14, story" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_447834839" CREATED="1458017545338" MODIFIED="1458017566678">
+<node TEXT="Bughunting, I spent a long time decomposing a function into subfunctions. The problem was the data. I had started it too ambitiously, with too many unused features: I had an Event with two children, a Sound (operative) and an Event (not operative). I did not read the data carefully (that&apos;s hard in a graph with no view tools yet) before using it to test the functions, and assumed it was only testing the Event / Sound relationship." ID="ID_890636324" CREATED="1458017567498" MODIFIED="1458017673809"/>
+</node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="data safety" POSITION="right" ID="ID_269094197" CREATED="1455776976146" MODIFIED="1455776978301">
@@ -17065,8 +17068,8 @@
 </node>
 </node>
 <node TEXT="totally solved, simple, powerf" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1623340648" CREATED="1455780610930" MODIFIED="1456303683637">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1483359118" STARTINCLINATION="297;0;" ENDINCLINATION="297;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_610330819" STARTINCLINATION="100;0;" ENDINCLINATION="100;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1483359118" STARTINCLINATION="297;0;" ENDINCLINATION="297;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="= feas, simple, powerf" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_23593448" CREATED="1455780637330" MODIFIED="1455780643709"/>
 </node>
 <node TEXT="read head started here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_619921238" CREATED="1456303165725" MODIFIED="1456303207060">
@@ -17285,6 +17288,9 @@
 <node TEXT="graphs" ID="ID_1868230101" CREATED="1457398885980" MODIFIED="1457398886658"/>
 </node>
 </node>
+<node TEXT="once characters become a word, they do not need to stay characters" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1269830646" CREATED="1458172172579" MODIFIED="1458172185645"/>
+<node TEXT="^ localizes, away maybe even from own branches" ID="ID_1083188085" CREATED="1458452843803" MODIFIED="1458452852737"/>
+<node TEXT="&quot;I have a blame tree too!&quot;" ID="ID_496356946" CREATED="1458528620278" MODIFIED="1458528625037"/>
 </node>
 <node TEXT="elliot secrets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_352262750" CREATED="1457129075220" MODIFIED="1457141633694">
 <node TEXT="jeff@jeffLenovUbu:~/dwt$ stack build --no-system-ghc" ID="ID_330210965" CREATED="1457129082744" MODIFIED="1457129082744" LINK="mailto:jeff@jeffLenovUbu"/>
@@ -17330,6 +17336,13 @@
 <node TEXT="people have no control over or knowledge of who they check. they mark assertions as verified, unknown, or wrong." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_544135071" CREATED="1455426735991" MODIFIED="1455426771154"/>
 </node>
 </node>
+<node TEXT="smhug" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_586941646" CREATED="1458100290341" MODIFIED="1458100296449">
+<node TEXT="merkele tree" ID="ID_840642996" CREATED="1458100291972" MODIFIED="1458100294772"/>
+<node TEXT="flatter (is program)" ID="ID_1262874102" CREATED="1458100990261" MODIFIED="1458100995244"/>
+<node TEXT="knowing git&apos;s data model is helpful" ID="ID_1775686910" CREATED="1458102268982" MODIFIED="1458102275582"/>
+<node TEXT="ghcid" ID="ID_1925526732" CREATED="1458104487207" MODIFIED="1458104488565"/>
+<node TEXT="nix" ID="ID_570560969" CREATED="1458104835752" MODIFIED="1458104836964"/>
+</node>
 <node TEXT="alien ?- haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1455704568" CREATED="1457340509758" MODIFIED="1457340796784">
 <node TEXT="[Haskell-cafe] GADTs and Exponentiated Functors" ID="ID_361809672" CREATED="1457340520318" MODIFIED="1457340521063">
 <node TEXT="demo" ID="ID_1886649835" CREATED="1457340541750" MODIFIED="1457340542540">
@@ -17346,6 +17359,19 @@
 <node TEXT="&quot;try to compute this from a copy matching pattern&quot;" ID="ID_437063248" CREATED="1453761981056" MODIFIED="1453762017691">
 <node TEXT="e.g. &quot;from [graph] with _ as root&quot;" ID="ID_16845061" CREATED="1453762018467" MODIFIED="1453762035672"/>
 </node>
+</node>
+<node TEXT="what went wrong?" ID="ID_626916815" CREATED="1458016191922" MODIFIED="1458016195036">
+<node TEXT="neither of these will compile" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_404997042" CREATED="1458016197602" MODIFIED="1458016202283"/>
+<node TEXT="-- isQual :: (String -&gt; SoundQual) -&gt; SoundQual -&gt; Bool" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_209317285" CREATED="1458016195464" MODIFIED="1458016208119">
+<node TEXT="is a lie; the constructors have different types, some taking floats" ID="ID_567102147" CREATED="1458016209898" MODIFIED="1458016217960"/>
+</node>
+<node TEXT="-- isQual Spl (Spl _) = True" ID="ID_99103592" CREATED="1458016195464" MODIFIED="1458016195464"/>
+<node TEXT="-- isQual Spd (Spd _) = True" ID="ID_1949639529" CREATED="1458016195467" MODIFIED="1458016195467"/>
+<node TEXT="-- isQual Amp (Amp _) = True" ID="ID_269694450" CREATED="1458016195469" MODIFIED="1458016195469"/>
+<node TEXT="-- isQual _ _ = False" ID="ID_291798558" CREATED="1458016195471" MODIFIED="1458016195471"/>
+<node TEXT="--isQual Spl x = case x of Spl _ -&gt; True; _ -&gt; False" ID="ID_1504164355" CREATED="1458016195473" MODIFIED="1458016195473"/>
+<node TEXT="--isQual Spd x = case x of Spd _ -&gt; True; _ -&gt; False" ID="ID_651587488" CREATED="1458016195475" MODIFIED="1458016195475"/>
+<node TEXT="--isQual Amp x = case x of Amp _ -&gt; True; _ -&gt; False" ID="ID_1088383799" CREATED="1458016195478" MODIFIED="1458016195478"/>
 </node>
 </node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">
@@ -17699,6 +17725,8 @@
 </node>
 </node>
 </node>
+<node TEXT="? rep number of cycles" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1934691163" CREATED="1457919157491" MODIFIED="1457919172858"/>
+<node TEXT="? concurrent samples" ID="ID_1789476453" CREATED="1458004358205" MODIFIED="1458004363491"/>
 </node>
 <node TEXT="reading mus.mm" ID="ID_875275012" CREATED="1455068480348" MODIFIED="1455068483028">
 <font BOLD="true"/>
@@ -17775,6 +17803,12 @@
 </node>
 <node TEXT="has anyone got an in-tune sample lib" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_151412458" CREATED="1456898474811" MODIFIED="1456898486085"/>
 <node TEXT="&quot;I take instructions!&quot;" ID="ID_1394440887" CREATED="1456898721164" MODIFIED="1456898725286"/>
+<node TEXT="SongInstrument" ID="ID_1988758850" CREATED="1457904520237" MODIFIED="1457904536127">
+<node TEXT="like a song, with some simple numerical macro-params" ID="ID_953840314" CREATED="1457904523714" MODIFIED="1457904528820">
+<node TEXT="tonic, speed, density" ID="ID_1889663318" CREATED="1457904523714" MODIFIED="1457904523714"/>
+</node>
+</node>
+<node TEXT="if in multiple meter-wavelengths, ask for a schedule of the soonest major syncs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1128387577" CREATED="1458464715798" MODIFIED="1458464768915"/>
 </node>
 <node TEXT="fun" POSITION="right" ID="ID_1447679053" CREATED="1457043508252" MODIFIED="1457043509557">
 <font BOLD="true"/>

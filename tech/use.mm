@@ -6574,7 +6574,16 @@
 <node TEXT="not ! this though" ID="ID_677922610" CREATED="1443161193046" MODIFIED="1443161195758"/>
 </node>
 </node>
-<node TEXT="sound optimization" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1560510169" CREATED="1443126903436" MODIFIED="1443597076584">
+<node TEXT="sound" POSITION="right" ID="ID_1432699819" CREATED="1458542093658" MODIFIED="1458542096963">
+<font BOLD="true"/>
+<node TEXT="howto : Tidal Jack Audacity" ID="ID_348969370" CREATED="1445926130639" MODIFIED="1448307942599">
+<node TEXT="dependencies" ID="ID_143505634" CREATED="1445926118998" MODIFIED="1445926121336">
+<node TEXT="start Jack before Tidal" ID="ID_304651424" CREATED="1445926141975" MODIFIED="1445926145919"/>
+<node TEXT="no need to mess with Jack/setup" ID="ID_1008530809" CREATED="1445926177111" MODIFIED="1454873485753"/>
+<node TEXT="start Dirt and then Audacity sees it" ID="ID_1135097336" CREATED="1445926191310" MODIFIED="1445926199064"/>
+</node>
+</node>
+<node TEXT="sound optimization" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560510169" CREATED="1443126903436" MODIFIED="1443597076584">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1765672055" STARTINCLINATION="80;0;" ENDINCLINATION="80;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="https://help.ubuntu.com/community/UbuntuStudioPreparation" ID="ID_1072662791" CREATED="1443126908379" MODIFIED="1443126908379" LINK="https://help.ubuntu.com/community/UbuntuStudioPreparation"/>
 <node TEXT="&quot;optimizing your audio device (realtime Jack config) will make a larger difference&quot; --hodnick, tidal\lurk, 2015 09 24" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_871120302" CREATED="1443134213041" MODIFIED="1443134255405"/>
@@ -6582,11 +6591,23 @@
 <node TEXT="actually with Audacity but it can&apos;t do realtime|latency" ID="ID_1678957173" CREATED="1443149096975" MODIFIED="1443149106028"/>
 </node>
 </node>
-<node TEXT="howto : Tidal Jack Audacity" POSITION="right" ID="ID_348969370" CREATED="1445926130639" MODIFIED="1448307942599">
-<node TEXT="dependencies" ID="ID_143505634" CREATED="1445926118998" MODIFIED="1445926121336">
-<node TEXT="start Jack before Tidal" ID="ID_304651424" CREATED="1445926141975" MODIFIED="1445926145919"/>
-<node TEXT="no need to mess with Jack/setup" ID="ID_1008530809" CREATED="1445926177111" MODIFIED="1454873485753"/>
-<node TEXT="start Dirt and then Audacity sees it" ID="ID_1135097336" CREATED="1445926191310" MODIFIED="1445926199064"/>
+<node TEXT="helped Syba (tiny audio interface)" ID="ID_867995750" CREATED="1458073305056" MODIFIED="1458542127526">
+<node ID="ID_248826530" CREATED="1458542102951" MODIFIED="1458542102951"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      System -&gt; Multimedia -&gt; send output to the USB card
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="line out (speakers) works, line in (mic) doesn&apos;t" ID="ID_1063820118" CREATED="1458073317661" MODIFIED="1458073342064"/>
 </node>
 </node>
 </node>
