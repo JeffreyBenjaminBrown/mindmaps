@@ -17291,6 +17291,18 @@
 <node TEXT="once characters become a word, they do not need to stay characters" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1269830646" CREATED="1458172172579" MODIFIED="1458172185645"/>
 <node TEXT="^ localizes, away maybe even from own branches" ID="ID_1083188085" CREATED="1458452843803" MODIFIED="1458452852737"/>
 <node TEXT="&quot;I have a blame tree too!&quot;" ID="ID_496356946" CREATED="1458528620278" MODIFIED="1458528625037"/>
+<node TEXT="comma to end a recognized word, its beginning unmarked" ID="ID_280915605" CREATED="1458692648020" MODIFIED="1458692662448">
+<node TEXT="how nest" ID="ID_1558049979" CREATED="1458692667948" MODIFIED="1458692671602"/>
+</node>
+<node TEXT="call them over and under" ID="ID_1842762026" CREATED="1458692695052" MODIFIED="1458692698147"/>
+<node TEXT="io loop" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_164379096" CREATED="1458973633187" MODIFIED="1458973638023">
+<node TEXT="gives a briefer syntax for a few common requests" ID="ID_822747920" CREATED="1458973642139" MODIFIED="1458973658666"/>
+<node TEXT="takes a graph as input, produces one as output" ID="ID_1572467044" CREATED="1458973660777" MODIFIED="1458973670515"/>
+</node>
+<node TEXT="? what are cousins like" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_903677513" CREATED="1458979845505" MODIFIED="1458979851618"/>
+<node TEXT="view abstr =: count parents; count number of words" ID="ID_1351174304" CREATED="1459371267469" MODIFIED="1459371353550">
+<node TEXT="=: defines the thing on its left with an instance" ID="ID_1388066266" CREATED="1459371326653" MODIFIED="1459371335402"/>
+</node>
 </node>
 <node TEXT="elliot secrets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_352262750" CREATED="1457129075220" MODIFIED="1457141633694">
 <node TEXT="jeff@jeffLenovUbu:~/dwt$ stack build --no-system-ghc" ID="ID_330210965" CREATED="1457129082744" MODIFIED="1457129082744" LINK="mailto:jeff@jeffLenovUbu"/>
@@ -17372,6 +17384,17 @@
 <node TEXT="--isQual Spl x = case x of Spl _ -&gt; True; _ -&gt; False" ID="ID_1504164355" CREATED="1458016195473" MODIFIED="1458016195473"/>
 <node TEXT="--isQual Spd x = case x of Spd _ -&gt; True; _ -&gt; False" ID="ID_651587488" CREATED="1458016195475" MODIFIED="1458016195475"/>
 <node TEXT="--isQual Amp x = case x of Amp _ -&gt; True; _ -&gt; False" ID="ID_1088383799" CREATED="1458016195478" MODIFIED="1458016195478"/>
+</node>
+<node TEXT="Vivid does optional arguments" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_976090061" CREATED="1458670690408" MODIFIED="1458670702961">
+<node TEXT="from Gmail" ID="ID_1867960583" CREATED="1458670706921" MODIFIED="1458670709346"/>
+<node TEXT="quote" ID="ID_225664949" CREATED="1458670710688" MODIFIED="1458670711079">
+<node TEXT="    Ugens have a type like:&#xa;&#xa;sinOsc :: Args &apos;[&quot;freq&quot;] &apos;[&quot;phase&quot;] a =&gt; a -&gt; Signal&#xa;&#xa;(&quot;Signal&quot; is simplified here)&#xa;&#xa;     So sinOsc takes one argument. The way we read the &quot;Args&quot; part is that &quot;a&quot; must contain a value tagged as &quot;freq&quot;, and may optionally contain a value tagged as &quot;phase&quot; (the first list is for required; the second for optional). It also requires that &quot;a&quot; can&apos;t contain things tagged as anything else.&#xa;&#xa;     We can pass any values in, tagged as &quot;freq&quot; -- SynthDef arguments, numbers, and ugen outputs. How do we tag something as &quot;freq&quot;? There&apos;s a function called &quot;freq_&quot;, which tags it. There are &quot;_&quot; functions for every ugen argument you need.&#xa;&#xa;     So now we can pass a tuple of these tagged values, and voila!:&#xa;&#xa;sinOsc (freq_ 440, phase_ 1)&#xa;&#xa;or&#xa;&#xa;sinOsc (freq_ 440)" ID="ID_1594929010" CREATED="1458670703775" MODIFIED="1458670705327"/>
+</node>
+</node>
+<node TEXT="Data.Random" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_54607218" CREATED="1459226060085" MODIFIED="1459226064790">
+<node TEXT="abstract v. concrete" ID="ID_1500090458" CREATED="1459226073196" MODIFIED="1459226076451">
+<node TEXT="distribution vs. $ variate = value rendered from distribution" ID="ID_1976109774" CREATED="1459226077580" MODIFIED="1459226091971"/>
+</node>
 </node>
 </node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">
@@ -17809,6 +17832,7 @@
 </node>
 </node>
 <node TEXT="if in multiple meter-wavelengths, ask for a schedule of the soonest major syncs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1128387577" CREATED="1458464715798" MODIFIED="1458464768915"/>
+<node TEXT="rotate: works for values &gt; 1" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1020286843" CREATED="1459111484263" MODIFIED="1459111495001"/>
 </node>
 <node TEXT="fun" POSITION="right" ID="ID_1447679053" CREATED="1457043508252" MODIFIED="1457043509557">
 <font BOLD="true"/>

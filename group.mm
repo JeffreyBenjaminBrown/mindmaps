@@ -2490,8 +2490,8 @@
 <node TEXT="give ample time to another&apos;s process of realizing what [feelings, experience] mean to them" ID="ID_938688589" CREATED="1433393825176" MODIFIED="1439409799812"/>
 </node>
 <node TEXT="tension" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1424515251" CREATED="1444159784087" MODIFIED="1444159802500">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1047741205" STARTINCLINATION="143;0;" ENDINCLINATION="143;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008009414" STARTINCLINATION="131;0;" ENDINCLINATION="131;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1047741205" STARTINCLINATION="143;0;" ENDINCLINATION="143;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="info being" ID="ID_1107035973" CREATED="1442621550244" MODIFIED="1442622669572">
 <font BOLD="true"/>
@@ -3120,6 +3120,11 @@
 <node TEXT="And in other countries?" ID="ID_134915441" CREATED="1456299025520" MODIFIED="1456299028837"/>
 <node TEXT="And you think we can&apos;t make them free why?" ID="ID_940641095" CREATED="1456299029022" MODIFIED="1456299100680"/>
 <node TEXT="The rich might flee somewhat, but we have largely captured them. They want to be here. Our labor force is safely high-tech. We don&apos;t need to feed the rich a disproportionate share in order to take care of labor; if we gave labor a bigger share, they would not lose their jobs on net (* is this debatable?), although they might have to change them, which is admittedly rough, but worth it (as long as we take adequate care of workers in transit)." ID="ID_1920557373" CREATED="1456299090414" MODIFIED="1457042279952"/>
+</node>
+</node>
+<node TEXT="03 20" ID="ID_1544643219" CREATED="1458707775894" MODIFIED="1458707777165">
+<node TEXT="time if for every pair a story of trade" ID="ID_1587250951" CREATED="1458707777752" MODIFIED="1458707783654">
+<node TEXT="what is time if" ID="ID_197200024" CREATED="1458707794647" MODIFIED="1458707797846"/>
 </node>
 </node>
 </node>

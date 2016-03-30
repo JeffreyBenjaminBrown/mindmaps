@@ -6474,6 +6474,26 @@
 <node TEXT="took a long time" ID="ID_1753866369" CREATED="1457670553720" MODIFIED="1457670556037"/>
 </node>
 </node>
+<node TEXT="2016 03 27: HVEC" ID="ID_1795865142" CREATED="1459133804047" MODIFIED="1459134299722">
+<node TEXT="= to play HEVC files (a variety of .mkv)" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1906274840" CREATED="1459133812816" MODIFIED="1459134305437"/>
+<node TEXT="http://askubuntu.com/questions/362745/how-to-install-h-265-hevc-codec-on-ubuntu-linux" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1216129297" CREATED="1459135010925" MODIFIED="1459135016248" LINK="http://askubuntu.com/questions/362745/how-to-install-h-265-hevc-codec-on-ubuntu-linux"/>
+<node ID="ID_32969922" CREATED="1459134300089" MODIFIED="1459134300089"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sudo apt-get install vlc-plugin-libde265
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="sudo apt-get install gstreamer0.10-libde265 gstreamer1.0-libde265" ID="ID_232399140" CREATED="1459134292560" MODIFIED="1459134293559"/>
+</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
@@ -6604,7 +6624,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="line out (speakers) works, line in (mic) doesn&apos;t" ID="ID_1063820118" CREATED="1458073317661" MODIFIED="1458073342064"/>

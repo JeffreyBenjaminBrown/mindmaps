@@ -134,5 +134,14 @@
 <node TEXT="if I think I detect someone wants to leave, ask them; don&apos;t assume it and end for them" ID="ID_298543869" CREATED="1457216708303" MODIFIED="1457216720883"/>
 </node>
 </node>
+<node TEXT="22" POSITION="right" ID="ID_243158653" CREATED="1458708020278" MODIFIED="1458708022661">
+<node TEXT="&quot;I know what it is that I cannot know about you.&quot;" ID="ID_644999998" CREATED="1458708023288" MODIFIED="1458708030126">
+<node TEXT="bond ? intim" ID="ID_1300393076" CREATED="1458708030743" MODIFIED="1458708038239"/>
+<node TEXT="empowers? its receiver" ID="ID_1706320475" CREATED="1458708100662" MODIFIED="1458708115641">
+<node TEXT="would bestow a kind of sovereignty, a freedom to [err| contradict]" ID="ID_1037185094" CREATED="1458708061558" MODIFIED="1458708084341"/>
+</node>
+</node>
+<node TEXT="collect empowering speech acts" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1176437767" CREATED="1458708136526" MODIFIED="1458708142510"/>
+</node>
 </node>
 </map>
