@@ -56,6 +56,20 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="? bad" POSITION="left" ID="ID_1192861149" CREATED="1456296476744" MODIFIED="1456296481712">
+<node TEXT="&quot;You could do something about that. I can&apos;t.&quot; Glare (like a work strike?), caring, helpless, hoping to motivate." ID="ID_1066955123" CREATED="1456296482297" MODIFIED="1456519778669"/>
+<node TEXT="one &gt; christ" ID="ID_702983990" CREATED="1457403663080" MODIFIED="1457403666326">
+<node TEXT="seq" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_821783444" CREATED="1457403677233" MODIFIED="1457403678310"/>
+<node TEXT="was" ID="ID_1294775116" CREATED="1457403670013" MODIFIED="1457403670479">
+<node TEXT="christ ? you will be born in the others, and can see it now ? great expense" ID="ID_914715781" CREATED="1457403387846" MODIFIED="1457403485816"/>
+</node>
+<node TEXT="then rebuttal" ID="ID_309811680" CREATED="1457403671988" MODIFIED="1457403674069">
+<node TEXT="we are one thing, and that can be seen" ID="ID_1930316991" CREATED="1457403565739" MODIFIED="1457403578618"/>
+<node TEXT="unnecj isolatg : to see oneself as an imaginary influence in others" ID="ID_1055709899" CREATED="1457403578846" MODIFIED="1457403621270"/>
+</node>
+</node>
+<node TEXT="punk (v) /vart dna" ID="ID_219447506" CREATED="1457404372495" MODIFIED="1457404386720"/>
+</node>
 <node TEXT="about" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1081284929" CREATED="1456031242338" MODIFIED="1456031253668">
 <node TEXT="= already big enough to sort within" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1924405427" CREATED="1435017939496" MODIFIED="1435017961310"/>
 <node TEXT="&gt;&gt;&gt; read head" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_114718093" CREATED="1440129130049" MODIFIED="1449861396278">
@@ -2065,20 +2079,9 @@
 <node TEXT="06" ID="ID_124050742" CREATED="1457342143509" MODIFIED="1457342145828">
 <node TEXT="denial /vart about unhappiness" ID="ID_1056941422" CREATED="1457342146526" MODIFIED="1457342183789"/>
 </node>
+<node TEXT="2016 04 05" ID="ID_1186162710" CREATED="1459965138297" MODIFIED="1459965141087">
+<node TEXT="tradeoffs in a space = on a frontier" ID="ID_241051021" CREATED="1459965100018" MODIFIED="1459965105578"/>
 </node>
-<node TEXT="? bad" POSITION="right" ID="ID_1192861149" CREATED="1456296476744" MODIFIED="1456296481712">
-<node TEXT="&quot;You could do something about that. I can&apos;t.&quot; Glare (like a work strike?), caring, helpless, hoping to motivate." ID="ID_1066955123" CREATED="1456296482297" MODIFIED="1456519778669"/>
-<node TEXT="one &gt; christ" ID="ID_702983990" CREATED="1457403663080" MODIFIED="1457403666326">
-<node TEXT="seq" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_821783444" CREATED="1457403677233" MODIFIED="1457403678310"/>
-<node TEXT="was" ID="ID_1294775116" CREATED="1457403670013" MODIFIED="1457403670479">
-<node TEXT="christ ? you will be born in the others, and can see it now ? great expense" ID="ID_914715781" CREATED="1457403387846" MODIFIED="1457403485816"/>
-</node>
-<node TEXT="then rebuttal" ID="ID_309811680" CREATED="1457403671988" MODIFIED="1457403674069">
-<node TEXT="we are one thing, and that can be seen" ID="ID_1930316991" CREATED="1457403565739" MODIFIED="1457403578618"/>
-<node TEXT="unnecj isolatg : to see oneself as an imaginary influence in others" ID="ID_1055709899" CREATED="1457403578846" MODIFIED="1457403621270"/>
-</node>
-</node>
-<node TEXT="punk (v) /vart dna" ID="ID_219447506" CREATED="1457404372495" MODIFIED="1457404386720"/>
 </node>
 </node>
 </map>

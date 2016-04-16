@@ -2730,13 +2730,17 @@
 <node TEXT="2016 03 14, story" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_447834839" CREATED="1458017545338" MODIFIED="1458017566678">
 <node TEXT="Bughunting, I spent a long time decomposing a function into subfunctions. The problem was the data. I had started it too ambitiously, with too many unused features: I had an Event with two children, a Sound (operative) and an Event (not operative). I did not read the data carefully (that&apos;s hard in a graph with no view tools yet) before using it to test the functions, and assumed it was only testing the Event / Sound relationship." ID="ID_890636324" CREATED="1458017567498" MODIFIED="1458017673809"/>
 </node>
+<node TEXT="? is temptation" ID="ID_767703847" CREATED="1460095818495" MODIFIED="1460095821055">
+<node TEXT="more accurately, is about temptation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_472037643" CREATED="1460095832431" MODIFIED="1460095839700"/>
+<node TEXT="before writing a function to generate them, try representing a single one" ID="ID_1276353706" CREATED="1460095806098" MODIFIED="1460095814559"/>
+</node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="data safety" POSITION="right" ID="ID_269094197" CREATED="1455776976146" MODIFIED="1455776978301">
 <node TEXT="ctrl-x but no save; swap apps; paste; save; swap; save" ID="ID_1665566698" CREATED="1455776946814" MODIFIED="1455776963102"/>
 </node>
-<node TEXT="dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1456787931762">
-<font BOLD="false"/>
+<node TEXT="do? mv lang ." POSITION="right" ID="ID_381965557" CREATED="1460332351896" MODIFIED="1460332394496"/>
+<node TEXT="dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1459833012447">
 <node TEXT="extd" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1529924915" CREATED="1451168349543" MODIFIED="1451168355817">
 <node TEXT="s, 2015 11 14, 1-extrd 2015 11 25" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1545140239" CREATED="1447538882211" MODIFIED="1448529060472">
 <node TEXT="meh|done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1929331444" CREATED="1447538540970" MODIFIED="1447538785832">
@@ -16054,320 +16058,6 @@
 </node>
 </node>
 </node>
-<node TEXT="u, since" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_779929952" CREATED="1452492797631" MODIFIED="1456172658380">
-<node TEXT="basic editing functions" ID="ID_330478721" CREATED="1452387010550" MODIFIED="1452387015078">
-<node TEXT="replace Expr in Rels" ID="ID_1967040763" CREATED="1452387055935" MODIFIED="1452387063149">
-<node TEXT="find all Rels in which the Expr is an Mbr" ID="ID_1920454414" CREATED="1452387067263" MODIFIED="1452387089973"/>
-<node TEXT="for each, switch to a different Mbr" ID="ID_410960047" CREATED="1452387076246" MODIFIED="1452387097877"/>
-</node>
-<node TEXT="remove Rel" ID="ID_275121585" CREATED="1452387015926" MODIFIED="1452387021334">
-<node TEXT="if anything refers to (points at) it, error" ID="ID_715122859" CREATED="1452387022056" MODIFIED="1452387042309"/>
-<node TEXT="else delete the node and every edge from it" ID="ID_1384784374" CREATED="1452387043062" MODIFIED="1452387048782"/>
-</node>
-</node>
-<node TEXT="   &gt;&gt;&gt;&#xa;funcs I need to process agent.mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_755470577" CREATED="1452487530974" MODIFIED="1452503098720">
-<node TEXT="edit" ID="ID_1434766986" CREATED="1452488242006" MODIFIED="1452488242869">
-<node TEXT="Str -&gt; Rel" ID="ID_435010366" CREATED="1452487548278" MODIFIED="1452487905049">
-<node TEXT="&quot;dog needs water&quot; -&gt; &quot;[dog] needs [water]&quot;" ID="ID_194263537" CREATED="1452487583439" MODIFIED="1452487595477"/>
-</node>
-<node TEXT="change RelTplt" ID="ID_868549046" CREATED="1452487630022" MODIFIED="1452487640289">
-<node TEXT="x /.mm y -&gt; x &apos;uses&apos; y" ID="ID_867843657" CREATED="1452487641016" MODIFIED="1452487657199"/>
-</node>
-<node TEXT="change RelTplt, reordering RelPoss" ID="ID_22893353" CREATED="1452487960263" MODIFIED="1452487968927"/>
-<node TEXT="Coll: add to, remove from" ID="ID_1014119466" CREATED="1452487860422" MODIFIED="1452487891640"/>
-<node TEXT="&quot;move&quot; = chMbr" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1848749689" CREATED="1452488012974" MODIFIED="1452488039117"/>
-<node TEXT="? merge, divide" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_319718489" CREATED="1452488212710" MODIFIED="1452488254748"/>
-<node TEXT="? delete" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1764206856" CREATED="1452488152543" MODIFIED="1452488156114"/>
-<node TEXT="set ops" ID="ID_216196238" CREATED="1452489958406" MODIFIED="1452489959430"/>
-</node>
-<node TEXT="view" ID="ID_237572537" CREATED="1452488244624" MODIFIED="1452488245216">
-<node TEXT="&quot;used recently&quot; : a derived set of nodes" ID="ID_87907455" CREATED="1451165528330" MODIFIED="1451165555283"/>
-<node TEXT="staircase for fonts" ID="ID_514192907" CREATED="1452489243302" MODIFIED="1452489246846"/>
-</node>
-<node TEXT="lang" ID="ID_815593176" CREATED="1452488536478" MODIFIED="1452488537094">
-<node TEXT="regex" ID="ID_280401118" CREATED="1452488561870" MODIFIED="1452488563055"/>
-<node TEXT="graph" ID="ID_1000016341" CREATED="1452488567582" MODIFIED="1452488569030">
-<node TEXT="path" ID="ID_957948187" CREATED="1452488584694" MODIFIED="1452488585446"/>
-<node TEXT="branch-generation" ID="ID_1099403049" CREATED="1452488784430" MODIFIED="1452488794718"/>
-</node>
-<node TEXT="view" ID="ID_1061665863" CREATED="1452488569214" MODIFIED="1452488569806"/>
-</node>
-</node>
-<node TEXT="overlap | obscure a neighbor gen" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_888176219" CREATED="1413789340884" MODIFIED="1452491845998">
-<font BOLD="true"/>
-<node TEXT="coparents and children, bipartite graph" ID="ID_389419990" CREATED="1421223597160" MODIFIED="1421223612470"/>
-<node TEXT="first few letters of one gen visible (at left), the rest occluded by the next gen" ID="ID_1727603606" CREATED="1411691502377" MODIFIED="1413785315522">
-<node TEXT="but what if it&apos;s not a clear 2-generation partition?" ID="ID_919186201" CREATED="1411691542345" MODIFIED="1411691556164"/>
-</node>
-</node>
-<node TEXT="x helps\ $ y helps\ z" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1617121963" CREATED="1452490721951" MODIFIED="1453253298997">
-<font BOLD="false"/>
-</node>
-<node TEXT="class &amp; namespace sep" ID="ID_1753659502" CREATED="1452502652602" MODIFIED="1452502658651">
-<node TEXT="if want same function (e.g. arity) across multiple data, can use a class; otherwise each name must be distinct" ID="ID_1393227274" CREATED="1452502624170" MODIFIED="1452502651736"/>
-</node>
-<node TEXT="spelunked, promoted" ID="ID_22511652" CREATED="1452543703617" MODIFIED="1452546570193">
-<font BOLD="true"/>
-<node TEXT="compute branch size" ID="ID_157541239" CREATED="1452544077313" MODIFIED="1452544088816"/>
-<node TEXT="iterate Rel" ID="ID_1032815002" CREATED="1452544092745" MODIFIED="1452544149757"/>
-<node TEXT="? assocv Rels" LOCALIZED_STYLE_REF="default" ID="ID_764723307" CREATED="1437698533536" MODIFIED="1452544146500">
-<node TEXT="user needn&apos;t specify (a $ b) $ c vs. a $ (b $ c), for some relation(s) $; rather, simply a $ b $ c" ID="ID_1172385279" CREATED="1437698541977" MODIFIED="1437698582254"/>
-</node>
-<node TEXT="&quot;except&quot; relationship alternates within a read-head" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1720354088" CREATED="1452544451249" MODIFIED="1453253238235">
-<node TEXT="&quot;these are read&quot;, &quot;except these within that are not&quot;, &quot;except these within those (mentioned in the second statement) are&quot; ..." ID="ID_231419889" CREATED="1452544479665" MODIFIED="1452544522885"/>
-</node>
-<node TEXT="equiv Rels" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1590627018" CREATED="1453253328438" MODIFIED="1453253334894">
-<node TEXT="Rel equiv is a Rel" ID="ID_1185546817" CREATED="1452545686145" MODIFIED="1452545690625">
-<node TEXT="if it needs reordering, will need another constructor to represent the reordering" ID="ID_629585199" CREATED="1452545691417" MODIFIED="1452545765957"/>
-</node>
-<node TEXT="choose among equiv Rels to front the highest-ranked Mbr" ID="ID_447301511" CREATED="1452488682358" MODIFIED="1452541142600"/>
-</node>
-<node TEXT="hask | libs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_855708590" CREATED="1447540158851" MODIFIED="1450853672450">
-<node TEXT="random graphs\Jelvis + aliens\haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1448524890204">
-<font BOLD="false"/>
-<node TEXT="&gt;&gt;&gt; resume at &quot;EDFS&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_215040653" CREATED="1447568498180" MODIFIED="1447568506738"/>
-<node TEXT="pages" ID="ID_1451843400" CREATED="1447579835425" MODIFIED="1447579837099">
-<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_511563586" CREATED="1447568139194" MODIFIED="1447568139194" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
-<node TEXT="github" ID="ID_1785705387" CREATED="1447579995279" MODIFIED="1447579996754">
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes" ID="ID_162349195" CREATED="1447579997239" MODIFIED="1447579997239" LINK="https://github.com/TikhonJelvis/inductive-mazes"/>
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs" ID="ID_903920044" CREATED="1447580010596" MODIFIED="1447580010596" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs"/>
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs" ID="ID_1791005892" CREATED="1447580013491" MODIFIED="1447580013491" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs"/>
-<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs" ID="ID_452661521" CREATED="1447580017210" MODIFIED="1447580017210" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs"/>
-</node>
-<node TEXT="FGL" ID="ID_786279034" CREATED="1447579933593" MODIFIED="1447579935500">
-<node TEXT="https://hackage.haskell.org/package/fgl" ID="ID_174135360" CREATED="1447579937641" MODIFIED="1447579937641" LINK="https://hackage.haskell.org/package/fgl"/>
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html" ID="ID_1306984442" CREATED="1447579839336" MODIFIED="1447579839336" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html"/>
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html" ID="ID_1358891935" CREATED="1447579845717" MODIFIED="1447579845717" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html"/>
-<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html" ID="ID_1190655254" CREATED="1447579850147" MODIFIED="1447579850147" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html"/>
-</node>
-<node TEXT="MonadRandom" ID="ID_1338554565" CREATED="1447579922587" MODIFIED="1447579924875">
-<node TEXT="https://hackage.haskell.org/package/MonadRandom" ID="ID_477760660" CREATED="1447579913330" MODIFIED="1447579913330" LINK="https://hackage.haskell.org/package/MonadRandom"/>
-<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html" ID="ID_1441575037" CREATED="1447579917517" MODIFIED="1447579917517" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html"/>
-<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html" ID="ID_333540857" CREATED="1447579920938" MODIFIED="1447579920938" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html"/>
-</node>
-<node TEXT="Cairo" ID="ID_574890681" CREATED="1447580096700" MODIFIED="1447580097582">
-<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html" ID="ID_1751647619" CREATED="1447580098061" MODIFIED="1447580098061" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html"/>
-<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html" ID="ID_1902098162" CREATED="1447580108714" MODIFIED="1447580108714" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html"/>
-</node>
-</node>
-<node TEXT="haskell / {-# ViewPatterns #-}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1192140409" CREATED="1447564753617" MODIFIED="1448524704474">
-<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1097101727" CREATED="1447566535627" MODIFIED="1447566605587" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
-<node TEXT="defn" ID="ID_983526908" CREATED="1447564825945" MODIFIED="1447564827031">
-<node TEXT="A view pattern e -&gt; p applies the view e to the argument that would be matched by the whole view pattern, and then matches the pattern p against e&apos;s result." ID="ID_1724923872" CREATED="1447564757169" MODIFIED="1447564757928"/>
-</node>
-<node TEXT="multl views for multl pattern cases" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1180800430" CREATED="1447564833689" MODIFIED="1447564904799">
-<node TEXT="{-# LANGUAGE ViewPatterns #-}&#xa;&#xa;eitherEndIsZero :: [Int] -&gt; Bool&#xa;eitherEndIsZero (head -&gt; 0) = True&#xa;eitherEndIsZero (last -&gt; 0) = True&#xa;eitherEndIsZero          _  = False&#xa;&#xa;main = print $ eitherEndIsZero [0,1,8,9]" ID="ID_226671165" CREATED="1447564838377" MODIFIED="1447564839290"/>
-</node>
-</node>
-<node TEXT="haskell / {-# TupleSections #-}" ID="ID_1102258238" CREATED="1447566388866" MODIFIED="1447566414161">
-<node TEXT="motiv" ID="ID_947852709" CREATED="1447566458258" MODIFIED="1447566460496">
-<node TEXT="[you might] ask, &quot;Why can&apos;t we partially section a tuple?&quot; After all, (+) is valid, (,) is valid, and (1 +) is valid, but (1,) is not valid. The TupleSections extension fixes this oversight." ID="ID_1891537647" CREATED="1447566423363" MODIFIED="1447566428620"/>
-</node>
-<node TEXT="a use" ID="ID_397285988" CREATED="1447566438946" MODIFIED="1447566462663">
-<node TEXT="write this" ID="ID_1065309581" CREATED="1447566446986" MODIFIED="1447566448064">
-<node TEXT="(1, &quot;hello&quot;,, Just (),)" ID="ID_1401925112" CREATED="1447566448547" MODIFIED="1447566448547"/>
-</node>
-<node TEXT="to mean this" ID="ID_1019752963" CREATED="1447566449154" MODIFIED="1447566450456">
-<node TEXT="\x y -&gt; (1, &quot;hello&quot;, x, Just (), y)" ID="ID_434573687" CREATED="1447566441374" MODIFIED="1447566441374"/>
-</node>
-</node>
-</node>
-<node TEXT="haskell / conditioning a matched pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_287331648" CREATED="1447566513066" MODIFIED="1448524710869">
-<font BOLD="false"/>
-<node TEXT="this uses a ViewPattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1325778509" CREATED="1448524581528" MODIFIED="1452547200610">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1192140409" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_1583337940" CREATED="1447566535627" MODIFIED="1447566535627" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
-<node TEXT="notice the &quot;|&quot;" ID="ID_257133555" CREATED="1447566550514" MODIFIED="1447566559933"/>
-<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1878591683" CREATED="1447566543866" MODIFIED="1447566544862"/>
-</node>
-<node TEXT="haskell / fgl (promote from haskell)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1018685311" CREATED="1447563220841" MODIFIED="1448524710864">
-<font BOLD="false"/>
-<node TEXT="? might not want default Gr n e" ID="ID_357906050" CREATED="1447565334674" MODIFIED="1447565355946">
-<node TEXT="&quot;All functions in fgl are actually specified against a Graph typeclasses rather than a concrete implementation. This typeclass mechanism is great since it allows multiple implementations of inductive graphs. Unfortunately, it also breaks type inference in ways that are sometimes hard to track down so, for simplicity, we&#x2019;ll just use the provided implementation: Gr. Gr n e is a graph that has nodes labeled with n and edges labeled with e.&quot;" ID="ID_186972578" CREATED="1447565341682" MODIFIED="1447565344481"/>
-</node>
-<node TEXT="list recursion, tree recursion" ID="ID_844818376" CREATED="1447563248577" MODIFIED="1447563274832">
-<node TEXT="foo x:xs = bar x : foo xs" ID="ID_766196160" CREATED="1447563235386" MODIFIED="1447563246813"/>
-<node TEXT="foo (Node x children) = Node (bar x) (map foo children)" ID="ID_414378376" CREATED="1447563231842" MODIFIED="1447563232789"/>
-</node>
-<node TEXT="graph recursion  X  view-patterns" ID="ID_413609747" CREATED="1447564461933" MODIFIED="1447564490360">
-<node TEXT="without" ID="ID_1192546970" CREATED="1447564461933" MODIFIED="1447564509135">
-<node TEXT="ghead :: Graph -&gt; Graph.Node" ID="ID_1361080339" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead graph | Graph.isEmpty graph = error &quot;Empty graph!&quot;" ID="ID_1395819699" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead graph = case matchAny graph of" ID="ID_56741784" CREATED="1447564461933" MODIFIED="1447564461933">
-<node TEXT="((_, node, _, _), graph) -&gt; node" ID="ID_17586111" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="-- the new name &quot;graph&quot; obscures the old one" ID="ID_455171957" CREATED="1447564603105" MODIFIED="1447564615879"/>
-</node>
-</node>
-<node TEXT="with" ID="ID_1447687877" CREATED="1447564461933" MODIFIED="1447564510119">
-<node TEXT="ghead :: Graph -&gt; Node" ID="ID_1119551064" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead graph | Graph.isEmpty graph            = error &quot;Empty graph!&quot;" ID="ID_853562800" CREATED="1447564461933" MODIFIED="1447564461933"/>
-<node TEXT="ghead (matchAny -&gt; ((_, node, _, _), graph)) = node" ID="ID_1211151045" CREATED="1447564461933" MODIFIED="1447564461933"/>
-</node>
-</node>
-<node TEXT="dfs : beautiful" ID="ID_1603483395" CREATED="1447566863547" MODIFIED="1447566867008">
-<node TEXT="it" ID="ID_492680795" CREATED="1447566871539" MODIFIED="1447567077395">
-<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1453470980" CREATED="1447566868323" MODIFIED="1447566869574"/>
-</node>
-<node TEXT="the &quot;stack&quot; starts as [start]" ID="ID_1777238413" CREATED="1447566979611" MODIFIED="1447567025461"/>
-<node TEXT="stack v. result" ID="ID_1250393584" CREATED="1447567082099" MODIFIED="1447567085817">
-<node TEXT="there&apos;s a pipeline from the stack to the result" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1852881271" CREATED="1447567090547" MODIFIED="1447567125826"/>
-<node TEXT="in &quot;n : go ( expr = Graph.neighbors c ++ ns ) g&quot;, n is the result, and expr is the &quot;new stack&quot;" ID="ID_744079504" CREATED="1447566884290" MODIFIED="1447566974937">
-<node TEXT="the first time, ns is empty" ID="ID_565633569" CREATED="1447567015243" MODIFIED="1447567018968"/>
-</node>
-</node>
-<node TEXT="after visiting n, i.e. after executing the third go clause*, the new g** has n removed" ID="ID_571699579" CREATED="1447567134362" MODIFIED="1447567283344">
-<node TEXT="* the one patterning on (n:ns) (match n -&gt; Just c, g)" ID="ID_1902579397" CREATED="1447567241595" MODIFIED="1447567252348"/>
-<node TEXT="** the one in (Just c, g)" ID="ID_991167213" CREATED="1447567284227" MODIFIED="1447567292984"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="fgl +" ID="ID_669234996" CREATED="1447540238859" MODIFIED="1447540247703">
-<node TEXT="jelvis on fgl" ID="ID_1712729005" CREATED="1446420977541" MODIFIED="1446673809738">
-<node TEXT="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html" ID="ID_1793956757" CREATED="1446420990651" MODIFIED="1446420990651" LINK="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html"/>
-<node TEXT="? what is the haskell extension that gives you pattern matching for graphs" ID="ID_564910657" CREATED="1446420962712" MODIFIED="1446420976733">
-<node TEXT="view patterns?" ID="ID_828674470" CREATED="1446420986519" MODIFIED="1446420988918"/>
-</node>
-</node>
-<node TEXT="view patterns" ID="ID_1658568702" CREATED="1446421888048" MODIFIED="1446673811048">
-<node TEXT="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns" ID="ID_549538962" CREATED="1446421892055" MODIFIED="1446421892055" LINK="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns"/>
-</node>
-</node>
-<node TEXT="emacs dwt haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_304568731" CREATED="1437006371952" MODIFIED="1437006509672">
-<node TEXT="https://github.com/knupfer/haskell-emacs" ID="ID_1822197624" CREATED="1437006377022" MODIFIED="1437006377022" LINK="https://github.com/knupfer/haskell-emacs"/>
-</node>
-<node TEXT="&quot;semantic web&quot; / wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1447540274954">
-<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="DOT : plant-text graph lang" LOCALIZED_STYLE_REF="default" ID="ID_231251210" CREATED="1446238857312" MODIFIED="1447540354438">
-<node TEXT="https://en.wikipedia.org/wiki/DOT_(graph_description_language)" ID="ID_1147403750" CREATED="1447540343518" MODIFIED="1447540343518" LINK="https://en.wikipedia.org/wiki/DOT_(graph_description_language)"/>
-</node>
-<node TEXT="done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_616473213" CREATED="1447544580078" MODIFIED="1447544581538">
-<node TEXT="! read indivs&apos; mindmaps" LOCALIZED_STYLE_REF="default" ID="ID_1490473234" CREATED="1444813350869" MODIFIED="1447544582530">
-<node TEXT="tried it, they suck" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1440986401" CREATED="1447544586870" MODIFIED="1447544590064"/>
-<node ID="ID_807370577" CREATED="1444868351347" MODIFIED="1444868351347"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      github/*/mindmaps
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93" ID="ID_817745215" CREATED="1444867452337" MODIFIED="1444867452337" LINK="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93"/>
-<node TEXT="I read the first 30 of 333, they were all* tech, low." ID="ID_1839233960" CREATED="1444867454029" MODIFIED="1444867479164">
-<node TEXT="* or in a language (Chinese?) I can&apos;t read" ID="ID_528713718" CREATED="1444867479771" MODIFIED="1444867494534"/>
-</node>
-</node>
-<node TEXT="xmind.net" ID="ID_46050942" CREATED="1444868370103" MODIFIED="1444868375061">
-<node TEXT="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30" ID="ID_191062576" CREATED="1444868346123" MODIFIED="1444868346123" LINK="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30"/>
-<node TEXT="I looked over the first 40 from the search &quot;everything&quot; (returned about 1000), there was only one that tried to be high, and it was less than 200 words, maybe only 50." ID="ID_1927900898" CREATED="1444868384750" MODIFIED="1444868448872"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="SYNERGY: chase &amp; mem size" ID="ID_29734543" CREATED="1452547590498" MODIFIED="1452547601697"/>
-<node TEXT="mem size: easy for a single rel, e.g. &quot;/.mm&quot;" ID="ID_861030765" CREATED="1452547604737" MODIFIED="1452547621028"/>
-<node TEXT="node generalizes to &quot;should display together&quot;" ID="ID_1868443845" CREATED="1440112827610" MODIFIED="1440112835348"/>
-<node TEXT="TotalDescendents.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_885590089" CREATED="1448526956842" MODIFIED="1448527148864">
-<node TEXT="\ &quot;dwt/git_hask/FROZE 2015 08 07/FROZE 2015 07 15&quot;" ID="ID_341639080" CREATED="1448527170682" MODIFIED="1448527179103"/>
-</node>
-</node>
-<node TEXT="I think in mkGraph the two lists are always sorted." ID="ID_20264108" CREATED="1452563367966" MODIFIED="1452563383884">
-<node TEXT="because" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_972313870" CREATED="1452563398485" MODIFIED="1452563469328"/>
-<node TEXT=". serial" LOCALIZED_STYLE_REF="default" ID="ID_1010190235" CREATED="1452563469517" MODIFIED="1452563478162"/>
-<node TEXT="after defining" ID="ID_1184175123" CREATED="1452563421509" MODIFIED="1452563449456">
-<node TEXT="*Main Data.List&gt; let m1 = match 3 g1" ID="ID_557297365" CREATED="1452563422982" MODIFIED="1452563422982"/>
-<node TEXT="*Main Data.List&gt; let m2 = match 5 $ snd m1" ID="ID_294790207" CREATED="1452563422983" MODIFIED="1452563422983"/>
-<node TEXT="*Main Data.List&gt; let m3 = match 11 $ snd m2" ID="ID_418032482" CREATED="1452563422984" MODIFIED="1452563422984"/>
-</node>
-<node TEXT="both of these display as the original did" ID="ID_1886070625" CREATED="1452563436312" MODIFIED="1452563451559">
-<node TEXT="*Main Data.List&gt; (fromJust $ fst m1) &amp; ((fromJust $ fst m2) &amp; ((fromJust $ fst m3) &amp; snd m3))" ID="ID_1201537835" CREATED="1452563405483" MODIFIED="1452563405483">
-<node TEXT="mkGraph [(0,Str &quot;dog&quot;),(1,Tplt 2 [&quot;&quot;,&quot; wants &quot;,&quot;&quot;]),(2,Tplt 2 [&quot;&quot;,&quot; needs &quot;,&quot;&quot;]),(3,Str &quot;water&quot;),(4,Str &quot;brandy&quot;),(5,Rel 2),(6,Rel 2),(7,Tplt 3 [&quot;&quot;,&quot; needs &quot;,&quot; for &quot;,&quot;&quot;]),(8,Rel 3),(9,Tplt 2 [&quot;statement &quot;,&quot; is &quot;,&quot;&quot;]),(10,Str &quot;dubious&quot;),(11,Rel 2)] [(5,0,RelMbr 1),(5,1,RelTplt),(5,4,RelMbr 2),(6,0,RelMbr 1),(6,2,RelTplt),(6,3,RelMbr 2),(8,0,RelMbr 1),(8,3,RelMbr 2),(8,4,RelMbr 3),(8,7,RelTplt),(11,5,RelMbr 1),(11,9,RelTplt),(11,10,RelMbr 2)]" ID="ID_1497742372" CREATED="1452563405484" MODIFIED="1452563405484"/>
-</node>
-<node TEXT="*Main Data.List&gt; (fromJust $ fst m2) &amp; ((fromJust $ fst m1) &amp; ((fromJust $ fst m3) &amp; snd m3))" ID="ID_710772082" CREATED="1452563405486" MODIFIED="1452563405486">
-<node TEXT="mkGraph [(0,Str &quot;dog&quot;),(1,Tplt 2 [&quot;&quot;,&quot; wants &quot;,&quot;&quot;]),(2,Tplt 2 [&quot;&quot;,&quot; needs &quot;,&quot;&quot;]),(3,Str &quot;water&quot;),(4,Str &quot;brandy&quot;),(5,Rel 2),(6,Rel 2),(7,Tplt 3 [&quot;&quot;,&quot; needs &quot;,&quot; for &quot;,&quot;&quot;]),(8,Rel 3),(9,Tplt 2 [&quot;statement &quot;,&quot; is &quot;,&quot;&quot;]),(10,Str &quot;dubious&quot;),(11,Rel 2)] [(5,0,RelMbr 1),(5,1,RelTplt),(5,4,RelMbr 2),(6,0,RelMbr 1),(6,2,RelTplt),(6,3,RelMbr 2),(8,0,RelMbr 1),(8,3,RelMbr 2),(8,4,RelMbr 3),(8,7,RelTplt),(11,5,RelMbr 1),(11,9,RelTplt),(11,10,RelMbr 2)]" ID="ID_190589291" CREATED="1452563405489" MODIFIED="1452563405489"/>
-</node>
-</node>
-</node>
-<node TEXT="not crit" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1021549317" CREATED="1452555676900" MODIFIED="1452555678623">
-<node TEXT="?" ID="ID_1002128254" CREATED="1452487747142" MODIFIED="1452487747622">
-<node TEXT="? in replacements, keep the old one, mark it &quot;replaced _ with _ (on [date])&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_245705573" CREATED="1452487686574" MODIFIED="1452487745364"/>
-<node TEXT="leading &quot;)&quot;" ID="ID_1059895278" CREATED="1452489080094" MODIFIED="1452489083350"/>
-</node>
-<node TEXT="derived: &quot;the [RelPos] in [Rel]&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1766479019" CREATED="1452551798587" MODIFIED="1452555672827">
-<node TEXT="for disambiguations" ID="ID_800486684" CREATED="1452555656012" MODIFIED="1452555659049"/>
-<node TEXT="example" ID="ID_625976291" CREATED="1452551816331" MODIFIED="1452551817200">
-<node TEXT="war" ID="ID_230700610" CREATED="1452551720491" MODIFIED="1452551721234">
-<node TEXT="\soc, belongs here rather than polluting" ID="ID_1713607031" CREATED="1452551755875" MODIFIED="1452551770189">
-<node TEXT="disambiguate here to ../../war" ID="ID_761838913" CREATED="1452551819531" MODIFIED="1452551836675"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="find within-word &quot;.&quot; defn consistent with out-of-word" ID="ID_822875430" CREATED="1452401008682" MODIFIED="1452541113409">
-<node TEXT="A. A = A . A for A=alphanum" ID="ID_590628206" CREATED="1452401022687" MODIFIED="1452401040889"/>
-<node TEXT="A.A distinct" ID="ID_214917149" CREATED="1452401042594" MODIFIED="1452401046968"/>
-</node>
-</node>
-<node TEXT="nice and feas : order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1323702267" CREATED="1452587011724" MODIFIED="1452587045849">
-<node TEXT="display ordered" ID="ID_1623775256" CREATED="1452587046236" MODIFIED="1452587048693">
-<node TEXT="inc. multiple nonoverlapping ordered sets of peers" ID="ID_556722176" CREATED="1452587092732" MODIFIED="1452587115519"/>
-</node>
-<node TEXT="(partially) remove order from peers" ID="ID_1701739783" CREATED="1452587049402" MODIFIED="1452587088142"/>
-</node>
-<node TEXT="text rectangles" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1897305891" CREATED="1452587202365" MODIFIED="1452587210308"/>
-<node TEXT="view: boxes, banner-seqs, [Node] requests" ID="ID_1312670135" CREATED="1452644815976" MODIFIED="1452644855766">
-<font BOLD="true"/>
-</node>
-<node TEXT="sep ? traversal, layout" ID="ID_215525665" CREATED="1452645090200" MODIFIED="1452645104579">
-<node TEXT="every layout e.g. treeish unfolding from a root) implies a traversal" ID="ID_1521767117" CREATED="1452645109297" MODIFIED="1452645131824"/>
-<node TEXT="consider the layout a projection(n) of the traversal, after applying a variable projection(v)" ID="ID_1115323766" CREATED="1452645147480" MODIFIED="1452645182849"/>
-</node>
-<node TEXT="how to sort (from within-node to graph)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_73229028" CREATED="1452663627219" MODIFIED="1452663739621">
-<node TEXT="user provides a map from a statement&apos;s (consider the statement &quot;bad, bad ? loneliness, insanity&quot;) punctuation|rel words to $ rels in the graph and precedence" ID="ID_1824226490" CREATED="1452663634180" MODIFIED="1452663683449"/>
-</node>
-<node TEXT="a ! that does not end a statement" ID="ID_1811500894" CREATED="1452718648832" MODIFIED="1452924683376">
-<node TEXT="is reason to capitalize next word" ID="ID_209722663" CREATED="1452718662494" MODIFIED="1452718669206"/>
-</node>
-<node TEXT="rel lang" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1658778685" CREATED="1452931130044" MODIFIED="1452931136186">
-<node TEXT="for a 2-elt rel: &quot;needs_&quot; and &quot;_needs&quot;" LOCALIZED_STYLE_REF="default" ID="ID_596273348" CREATED="1452930844715" MODIFIED="1452931155667"/>
-<node TEXT="for a 3-elt rel: ^needs[node]for_" ID="ID_1234040026" CREATED="1452931139415" MODIFIED="1452931212505">
-<node TEXT="where ^ is &quot;It&quot;, the reference Expr" ID="ID_539060753" CREATED="1452931225228" MODIFIED="1452931252166"/>
-</node>
-</node>
-<node TEXT="disambiguation divides into label-necessary(top) and recog-necessary(rest)" ID="ID_118018587" CREATED="1452931326655" MODIFIED="1452931400375">
-<node TEXT="label-necessary is a top subancestry of the full disambiguation, the farther reaches of which are optional for purposes of labeling|identifying the thing, but perhaps needed by a reader in order to recognize what that thing is" ID="ID_225655828" CREATED="1452931344056" MODIFIED="1452931386372"/>
-</node>
-<node TEXT="descendents need not explode in view; descend only through necessary disambiguations" ID="ID_662013726" CREATED="1452931412726" MODIFIED="1452931435072">
-<node TEXT="to do this is to follow exactly some of the = rel, and other rels not at all" ID="ID_1673117262" CREATED="1452931436198" MODIFIED="1452931460472"/>
-</node>
-<node TEXT="&quot;showCompressing :: (Map Node String) -&gt; ...&quot;: like show, but for Rels involving those Nodes, shows instead just the String provided" ID="ID_110945292" CREATED="1452932257641" MODIFIED="1452932612659">
-<node TEXT="esp. for under It, call it It" ID="ID_582120993" CREATED="1452932316887" MODIFIED="1452932323014"/>
-</node>
-</node>
-<node TEXT="proc head :: &amp; crit easy next" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1947168739" CREATED="1456303165725" MODIFIED="1456304136941">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_611726619" STARTINCLINATION="144;0;" ENDINCLINATION="144;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="sub-head, falling to origin" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_611726619" CREATED="1456304128349" MODIFIED="1456304142050"/>
-</node>
 <node TEXT="x 02 23" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1339599746" CREATED="1456305114406" MODIFIED="1456305672412">
 <node TEXT="s 2016 01 15" LOCALIZED_STYLE_REF="default" ID="ID_1575001388" CREATED="1452924400855" MODIFIED="1456305676504">
 <node TEXT="_ -&gt; [Node] :: Fork, Branch, union, .." ID="ID_1909026077" CREATED="1452924622782" MODIFIED="1452924644669"/>
@@ -16685,15 +16375,6 @@
 <node TEXT=".." ID="ID_806468332" CREATED="1455787055446" MODIFIED="1455787063916"/>
 </node>
 </node>
-<node TEXT="punct on rels, not mbrs" LOCALIZED_STYLE_REF="default" ID="ID_610330819" CREATED="1455411335904" MODIFIED="1456303742943">
-<node TEXT="n-ary rels equally easy" ID="ID_1360579502" CREATED="1455786698419" MODIFIED="1455786708792"/>
-<node TEXT="prepend $ to fastest-binding, $$ to later, .." ID="ID_1794532159" CREATED="1455786725555" MODIFIED="1455786758712">
-<node TEXT="if the rel already has punctuation built into it, the first=lowest level needs no $ at all" ID="ID_1799911071" CREATED="1455786801507" MODIFIED="1455786836032"/>
-</node>
-<node TEXT="if mult words in rel, use () around them" ID="ID_128359954" CREATED="1455786844467" MODIFIED="1455786854067"/>
-<node TEXT="=maybe easier to read (when densely nested) if relationship words are punctuated, rather than members" LOCALIZED_STYLE_REF="styles.topic" ID="ID_30133421" CREATED="1455407044706" MODIFIED="1455411365045"/>
-</node>
-<node TEXT="&quot;g &lt;- addExpr e g&quot; can display the new node and not g" LOCALIZED_STYLE_REF="default" ID="ID_1483359118" CREATED="1455777823386" MODIFIED="1456303743431"/>
 <node TEXT="staircase" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_434364239" CREATED="1453149600486" MODIFIED="1453149622106">
 <node TEXT="show font rels (only) using stairs" ID="ID_1758795464" CREATED="1453091649822" MODIFIED="1453148336252">
 <font BOLD="false"/>
@@ -17067,111 +16748,342 @@
 </node>
 </node>
 </node>
-<node TEXT="totally solved, simple, powerf" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1623340648" CREATED="1455780610930" MODIFIED="1456303683637">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_610330819" STARTINCLINATION="100;0;" ENDINCLINATION="100;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1483359118" STARTINCLINATION="297;0;" ENDINCLINATION="297;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="= feas, simple, powerf" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_23593448" CREATED="1455780637330" MODIFIED="1455780643709"/>
+<node TEXT="u, between" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_779929952" CREATED="1452492797631" MODIFIED="1459838986809">
+<node TEXT="basic editing functions" ID="ID_330478721" CREATED="1452387010550" MODIFIED="1452387015078">
+<node TEXT="remove Rel" ID="ID_275121585" CREATED="1452387015926" MODIFIED="1452387021334">
+<node TEXT="if anything refers to (points at) it, error" ID="ID_715122859" CREATED="1452387022056" MODIFIED="1452387042309"/>
+<node TEXT="else delete the node and every edge from it" ID="ID_1384784374" CREATED="1452387043062" MODIFIED="1452387048782"/>
 </node>
-<node TEXT="read head started here" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_619921238" CREATED="1456303165725" MODIFIED="1456303207060">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1947168739" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="document = choice of places|work projects to make" LOCALIZED_STYLE_REF="default" ID="ID_323675089" CREATED="1456113751241" MODIFIED="1456477273543"/>
-<node TEXT="26" ID="ID_1793052976" CREATED="1456541133298" MODIFIED="1456541134240"/>
-<node TEXT="a priority order and a comprehension order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1062694370" CREATED="1456541102338" MODIFIED="1456541112140"/>
-<node TEXT="&quot;tell me where [expr] is,&#xa;&amp; update g to have it if it doesn&apos;t&apos;" ID="ID_700147173" CREATED="1456541533595" MODIFIED="1456541584592"/>
-<node TEXT="in-sentence joints" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_757523603" CREATED="1456541061514" MODIFIED="1456542447724">
-<node TEXT="enum" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_655513292" CREATED="1456542403642" MODIFIED="1456542448892">
-<node TEXT="undefineds" LOCALIZED_STYLE_REF="default" ID="ID_1218919651" CREATED="1456542239282" MODIFIED="1456542247413">
+<node TEXT="   &gt;&gt;&gt;&#xa;funcs I need to process agent.mm" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_755470577" CREATED="1452487530974" MODIFIED="1452503098720">
+<node TEXT="edit" ID="ID_1434766986" CREATED="1452488242006" MODIFIED="1452488242869">
+<node TEXT="Str -&gt; Rel" ID="ID_435010366" CREATED="1452487548278" MODIFIED="1452487905049">
+<node TEXT="&quot;dog needs water&quot; -&gt; &quot;[dog] needs [water]&quot;" ID="ID_194263537" CREATED="1452487583439" MODIFIED="1452487595477"/>
+</node>
+<node TEXT="change RelTplt, reordering RelPoss" ID="ID_22893353" CREATED="1452487960263" MODIFIED="1452487968927"/>
+<node TEXT="Coll: add to, remove from" ID="ID_1014119466" CREATED="1452487860422" MODIFIED="1452487891640"/>
+<node TEXT="&quot;move&quot; = chMbr" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1848749689" CREATED="1452488012974" MODIFIED="1452488039117"/>
+<node TEXT="? merge, divide" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_319718489" CREATED="1452488212710" MODIFIED="1452488254748"/>
+<node TEXT="? delete" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1764206856" CREATED="1452488152543" MODIFIED="1452488156114"/>
+<node TEXT="set ops" ID="ID_216196238" CREATED="1452489958406" MODIFIED="1452489959430"/>
+</node>
+<node TEXT="view" ID="ID_237572537" CREATED="1452488244624" MODIFIED="1452488245216">
+<node TEXT="&quot;used recently&quot; : a derived set of nodes" ID="ID_87907455" CREATED="1451165528330" MODIFIED="1451165555283"/>
+<node TEXT="staircase for fonts" ID="ID_514192907" CREATED="1452489243302" MODIFIED="1452489246846"/>
+</node>
+<node TEXT="lang" ID="ID_815593176" CREATED="1452488536478" MODIFIED="1452488537094">
+<node TEXT="regex" ID="ID_280401118" CREATED="1452488561870" MODIFIED="1452488563055"/>
+<node TEXT="graph" ID="ID_1000016341" CREATED="1452488567582" MODIFIED="1452488569030">
+<node TEXT="path" ID="ID_957948187" CREATED="1452488584694" MODIFIED="1452488585446"/>
+<node TEXT="branch-generation" ID="ID_1099403049" CREATED="1452488784430" MODIFIED="1452488794718"/>
+</node>
+<node TEXT="view" ID="ID_1061665863" CREATED="1452488569214" MODIFIED="1452488569806"/>
+</node>
+</node>
+<node TEXT="overlap | obscure a neighbor gen" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_888176219" CREATED="1413789340884" MODIFIED="1452491845998">
 <font BOLD="true"/>
-<node TEXT="m = modifier" ID="ID_1660038850" CREATED="1456542203130" MODIFIED="1456542207495"/>
-<node TEXT="v, tv: verb, transitive verb" ID="ID_949623689" CREATED="1456542249770" MODIFIED="1456542272432"/>
-</node>
-<node TEXT="v = v | tv o | m v" ID="ID_349587404" CREATED="1456541065322" MODIFIED="1456542302531"/>
-<node TEXT="act = s v | m act" ID="ID_511491310" CREATED="1456541070122" MODIFIED="1456542226276"/>
-<node TEXT="n = n | m n" ID="ID_628760470" CREATED="1456541142234" MODIFIED="1456542316290"/>
-</node>
-<node TEXT="yes, no prepositions" ID="ID_1367343374" CREATED="1456542407851" MODIFIED="1456542413648">
-<node TEXT="they are atomic -- for instance, &quot;for _ to _&quot;" ID="ID_463953883" CREATED="1456542414403" MODIFIED="1456542425512"/>
+<node TEXT="coparents and children, bipartite graph" ID="ID_389419990" CREATED="1421223597160" MODIFIED="1421223612470"/>
+<node TEXT="first few letters of one gen visible (at left), the rest occluded by the next gen" ID="ID_1727603606" CREATED="1411691502377" MODIFIED="1413785315522">
+<node TEXT="but what if it&apos;s not a clear 2-generation partition?" ID="ID_919186201" CREATED="1411691542345" MODIFIED="1411691556164"/>
 </node>
 </node>
-<node TEXT="parse rels : user gives precedence as float" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_315109347" CREATED="1456542469397" MODIFIED="1456542488387">
-<node TEXT="parse vo.5 rels :0 user nv.5 gives vo.5 precedence as.5 float" ID="ID_1545995427" CREATED="1456542498395" MODIFIED="1456542714064"/>
+<node TEXT="x helps\ $ y helps\ z" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1617121963" CREATED="1452490721951" MODIFIED="1453253298997">
+<font BOLD="false"/>
 </node>
-<node TEXT="to parser" ID="ID_534330627" CREATED="1456542864963" MODIFIED="1456542874176">
-<node TEXT="that is, to this" ID="ID_932596620" CREATED="1456542876459" MODIFIED="1456542880050">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_315109347" STARTINCLINATION="348;0;" ENDINCLINATION="348;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="class &amp; namespace sep" ID="ID_1753659502" CREATED="1452502652602" MODIFIED="1452502658651">
+<node TEXT="if want same function (e.g. arity) across multiple data, can use a class; otherwise each name must be distinct" ID="ID_1393227274" CREATED="1452502624170" MODIFIED="1452502651736"/>
 </node>
+<node TEXT="spelunked, promoted" ID="ID_22511652" CREATED="1452543703617" MODIFIED="1452546570193">
+<font BOLD="true"/>
+<node TEXT="compute branch size" ID="ID_157541239" CREATED="1452544077313" MODIFIED="1452544088816"/>
+<node TEXT="iterate Rel" ID="ID_1032815002" CREATED="1452544092745" MODIFIED="1452544149757"/>
+<node TEXT="? assocv Rels" LOCALIZED_STYLE_REF="default" ID="ID_764723307" CREATED="1437698533536" MODIFIED="1452544146500">
+<node TEXT="user needn&apos;t specify (a $ b) $ c vs. a $ (b $ c), for some relation(s) $; rather, simply a $ b $ c" ID="ID_1172385279" CREATED="1437698541977" MODIFIED="1437698582254"/>
 </node>
-<node TEXT="rel equation: nv = vn" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_486394844" CREATED="1456542562859" MODIFIED="1456542725877">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_315109347" STARTINCLINATION="283;0;" ENDINCLINATION="283;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="&quot;except&quot; relationship alternates within a read-head" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1720354088" CREATED="1452544451249" MODIFIED="1459483171554">
+<node TEXT="&quot;these are read&quot;, &quot;except these within that are not&quot;, &quot;except these within those (mentioned in the second statement) are&quot; ..." ID="ID_231419889" CREATED="1452544479665" MODIFIED="1452544522885"/>
 </node>
-<node TEXT="the word binders" ID="ID_1365653126" CREATED="1456541061514" MODIFIED="1456541064679">
-<node TEXT="tv o" ID="ID_1285359570" CREATED="1456541065322" MODIFIED="1456541083519"/>
-<node TEXT="s v" ID="ID_332361541" CREATED="1456541070122" MODIFIED="1456541087998"/>
-<node TEXT="n a" ID="ID_1195885911" CREATED="1456541142234" MODIFIED="1456541144543"/>
-<node TEXT="expr modifier" ID="ID_1025204747" CREATED="1456541203594" MODIFIED="1456541332718">
-<node TEXT="cube(cooking)" ID="ID_1458590523" CREATED="1456541213906" MODIFIED="1456541336053"/>
-<node TEXT="very m.e green" ID="ID_710502517" CREATED="1456541336962" MODIFIED="1456541345042"/>
+<node TEXT="equiv Rels" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1590627018" CREATED="1453253328438" MODIFIED="1453253334894">
+<node TEXT="Rel equiv is a Rel" ID="ID_1185546817" CREATED="1452545686145" MODIFIED="1452545690625">
+<node TEXT="if it needs reordering, will need another constructor to represent the reordering" ID="ID_629585199" CREATED="1452545691417" MODIFIED="1452545765957"/>
 </node>
+<node TEXT="choose among equiv Rels to front the highest-ranked Mbr" ID="ID_447301511" CREATED="1452488682358" MODIFIED="1452541142600"/>
 </node>
-<node TEXT="miniKanrenT: only a couple hundred lines!" ID="ID_1651164063" CREATED="1456617213092" MODIFIED="1456617222513">
-<node TEXT="https://github.com/jvranish/MiniKanrenT" ID="ID_44428633" CREATED="1456617223365" MODIFIED="1456617223365" LINK="https://github.com/jvranish/MiniKanrenT"/>
+<node TEXT="hask | libs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_855708590" CREATED="1447540158851" MODIFIED="1450853672450">
+<node TEXT="random graphs\Jelvis + aliens\haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1869499048" CREATED="1447568135947" MODIFIED="1448524890204">
+<font BOLD="false"/>
+<node TEXT="&gt;&gt;&gt; resume at &quot;EDFS&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_215040653" CREATED="1447568498180" MODIFIED="1447568506738"/>
+<node TEXT="pages" ID="ID_1451843400" CREATED="1447579835425" MODIFIED="1447579837099">
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_511563586" CREATED="1447568139194" MODIFIED="1447568139194" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="github" ID="ID_1785705387" CREATED="1447579995279" MODIFIED="1447579996754">
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes" ID="ID_162349195" CREATED="1447579997239" MODIFIED="1447579997239" LINK="https://github.com/TikhonJelvis/inductive-mazes"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs" ID="ID_903920044" CREATED="1447580010596" MODIFIED="1447580010596" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/DFS.hs"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs" ID="ID_1791005892" CREATED="1447580013491" MODIFIED="1447580013491" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Draw.hs"/>
+<node TEXT="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs" ID="ID_452661521" CREATED="1447580017210" MODIFIED="1447580017210" LINK="https://github.com/TikhonJelvis/inductive-mazes/blob/master/src/Maze.hs"/>
 </node>
-<node TEXT="free bracket shape, ?the most visible" ID="ID_1209138303" CREATED="1456643251634" MODIFIED="1456643279394">
-<node TEXT="there are two more simple brackets! horizj reflect 7 and then vert-reflect that" LOCALIZED_STYLE_REF="default" ID="ID_79497188" CREATED="1456643184186" MODIFIED="1456643285710"/>
+<node TEXT="FGL" ID="ID_786279034" CREATED="1447579933593" MODIFIED="1447579935500">
+<node TEXT="https://hackage.haskell.org/package/fgl" ID="ID_174135360" CREATED="1447579937641" MODIFIED="1447579937641" LINK="https://hackage.haskell.org/package/fgl"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html" ID="ID_1306984442" CREATED="1447579839336" MODIFIED="1447579839336" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Basic.html"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html" ID="ID_1358891935" CREATED="1447579845717" MODIFIED="1447579845717" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html"/>
+<node TEXT="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html" ID="ID_1190655254" CREATED="1447579850147" MODIFIED="1447579850147" LINK="https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Example.html"/>
 </node>
-<node TEXT="special char pitfall" ID="ID_257528914" CREATED="1456700942566" MODIFIED="1456700948244">
-<node TEXT="-- (\&amp; == empty string) is to distinguish from longer number" ID="ID_513753675" CREATED="1456700949520" MODIFIED="1456700949520"/>
-<node TEXT="-- if special char followed by a non-digit, no \&amp; necessary" ID="ID_1152554231" CREATED="1456700949520" MODIFIED="1456700949520"/>
+<node TEXT="MonadRandom" ID="ID_1338554565" CREATED="1447579922587" MODIFIED="1447579924875">
+<node TEXT="https://hackage.haskell.org/package/MonadRandom" ID="ID_477760660" CREATED="1447579913330" MODIFIED="1447579913330" LINK="https://hackage.haskell.org/package/MonadRandom"/>
+<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html" ID="ID_1441575037" CREATED="1447579917517" MODIFIED="1447579917517" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random.html"/>
+<node TEXT="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html" ID="ID_333540857" CREATED="1447579920938" MODIFIED="1447579920938" LINK="https://hackage.haskell.org/package/MonadRandom-0.4/docs/Control-Monad-Random-Class.html"/>
 </node>
-<node TEXT="the verb for what a category like maybe or not does to a statement" ID="ID_1814763292" CREATED="1456719493388" MODIFIED="1456719506629">
-<node TEXT="superogarate(view)" ID="ID_1438016362" CREATED="1456719507076" MODIFIED="1456719511908"/>
-</node>
-<node TEXT="view m.v superogarate" ID="ID_236085924" CREATED="1456725146315" MODIFIED="1456725171975"/>
-<node TEXT="can let nodes coincide with last visited, allow user to promote them, show a screen-sized tail" ID="ID_526903739" CREATED="1456731110891" MODIFIED="1456731146555">
-<node TEXT="\ solving a problem before it exists" ID="ID_1509749651" CREATED="1456731182019" MODIFIED="1456731189702"/>
-</node>
-<node TEXT="need up|down" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1228067806" CREATED="1456731541259" MODIFIED="1456731544050"/>
-<node TEXT="internet announce ~ tiny, humnility" ID="ID_96147604" CREATED="1456731696403" MODIFIED="1456731705529"/>
-<node TEXT="script" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1609081739" CREATED="1456739085752" MODIFIED="1456739702102">
-<node TEXT="encodes anything!" ID="ID_1030361986" CREATED="1456739189376" MODIFIED="1456739192629">
-<node TEXT="be vague initj" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1686422199" CREATED="1456739194056" MODIFIED="1456739198429"/>
-<node TEXT="dwt can encode any kind of knowledge" LOCALIZED_STYLE_REF="default" ID="ID_886505134" CREATED="1456739109400" MODIFIED="1456739188772"/>
-</node>
-<node TEXT="the &quot;node view-displaces node&quot; problem" ID="ID_1553742704" CREATED="1456739254072" MODIFIED="1456739265869"/>
-<node TEXT="encoding that" ID="ID_1351112342" CREATED="1456739270072" MODIFIED="1456739272577">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1553742704" STARTINCLINATION="322;0;" ENDINCLINATION="322;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-<node TEXT="queries?" ID="ID_624983981" CREATED="1456739205960" MODIFIED="1456739221913">
-<node TEXT="end on possible extensions" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_815754832" CREATED="1456739235528" MODIFIED="1456739240851"/>
+<node TEXT="Cairo" ID="ID_574890681" CREATED="1447580096700" MODIFIED="1447580097582">
+<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html" ID="ID_1751647619" CREATED="1447580098061" MODIFIED="1447580098061" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo.html"/>
+<node TEXT="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html" ID="ID_1902098162" CREATED="1447580108714" MODIFIED="1447580108714" LINK="http://hackage.haskell.org/package/cairo-0.13.1.0/docs/Graphics-Rendering-Cairo-Matrix.html"/>
 </node>
 </node>
-<node TEXT="? up = why, down = how" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1964923301" CREATED="1456739543344" MODIFIED="1456739702110"/>
-<node TEXT="count forks" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_200523147" CREATED="1456739705804" MODIFIED="1456739721338">
-<node TEXT="use fork1up" ID="ID_401669962" CREATED="1456739739783" MODIFIED="1456739742266"/>
+<node TEXT="haskell / {-# ViewPatterns #-}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1192140409" CREATED="1447564753617" MODIFIED="1448524704474">
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1097101727" CREATED="1447566535627" MODIFIED="1447566605587" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="defn" ID="ID_983526908" CREATED="1447564825945" MODIFIED="1447564827031">
+<node TEXT="A view pattern e -&gt; p applies the view e to the argument that would be matched by the whole view pattern, and then matches the pattern p against e&apos;s result." ID="ID_1724923872" CREATED="1447564757169" MODIFIED="1447564757928"/>
 </node>
+<node TEXT="multl views for multl pattern cases" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1180800430" CREATED="1447564833689" MODIFIED="1447564904799">
+<node TEXT="{-# LANGUAGE ViewPatterns #-}&#xa;&#xa;eitherEndIsZero :: [Int] -&gt; Bool&#xa;eitherEndIsZero (head -&gt; 0) = True&#xa;eitherEndIsZero (last -&gt; 0) = True&#xa;eitherEndIsZero          _  = False&#xa;&#xa;main = print $ eitherEndIsZero [0,1,8,9]" ID="ID_226671165" CREATED="1447564838377" MODIFIED="1447564839290"/>
+</node>
+</node>
+<node TEXT="haskell / {-# TupleSections #-}" ID="ID_1102258238" CREATED="1447566388866" MODIFIED="1447566414161">
+<node TEXT="motiv" ID="ID_947852709" CREATED="1447566458258" MODIFIED="1447566460496">
+<node TEXT="[you might] ask, &quot;Why can&apos;t we partially section a tuple?&quot; After all, (+) is valid, (,) is valid, and (1 +) is valid, but (1,) is not valid. The TupleSections extension fixes this oversight." ID="ID_1891537647" CREATED="1447566423363" MODIFIED="1447566428620"/>
+</node>
+<node TEXT="a use" ID="ID_397285988" CREATED="1447566438946" MODIFIED="1447566462663">
+<node TEXT="write this" ID="ID_1065309581" CREATED="1447566446986" MODIFIED="1447566448064">
+<node TEXT="(1, &quot;hello&quot;,, Just (),)" ID="ID_1401925112" CREATED="1447566448547" MODIFIED="1447566448547"/>
+</node>
+<node TEXT="to mean this" ID="ID_1019752963" CREATED="1447566449154" MODIFIED="1447566450456">
+<node TEXT="\x y -&gt; (1, &quot;hello&quot;, x, Just (), y)" ID="ID_434573687" CREATED="1447566441374" MODIFIED="1447566441374"/>
+</node>
+</node>
+</node>
+<node TEXT="haskell / conditioning a matched pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_287331648" CREATED="1447566513066" MODIFIED="1448524710869">
+<font BOLD="false"/>
+<node TEXT="this uses a ViewPattern" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1325778509" CREATED="1448524581528" MODIFIED="1452547200610">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1192140409" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/" ID="ID_1583337940" CREATED="1447566535627" MODIFIED="1447566535627" LINK="http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/"/>
+<node TEXT="notice the &quot;|&quot;" ID="ID_257133555" CREATED="1447566550514" MODIFIED="1447566559933"/>
+<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1878591683" CREATED="1447566543866" MODIFIED="1447566544862"/>
+</node>
+<node TEXT="haskell / fgl (promote from haskell)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1018685311" CREATED="1447563220841" MODIFIED="1448524710864">
+<font BOLD="false"/>
+<node TEXT="? might not want default Gr n e" ID="ID_357906050" CREATED="1447565334674" MODIFIED="1447565355946">
+<node TEXT="&quot;All functions in fgl are actually specified against a Graph typeclasses rather than a concrete implementation. This typeclass mechanism is great since it allows multiple implementations of inductive graphs. Unfortunately, it also breaks type inference in ways that are sometimes hard to track down so, for simplicity, we&#x2019;ll just use the provided implementation: Gr. Gr n e is a graph that has nodes labeled with n and edges labeled with e.&quot;" ID="ID_186972578" CREATED="1447565341682" MODIFIED="1447565344481"/>
+</node>
+<node TEXT="list recursion, tree recursion" ID="ID_844818376" CREATED="1447563248577" MODIFIED="1447563274832">
+<node TEXT="foo x:xs = bar x : foo xs" ID="ID_766196160" CREATED="1447563235386" MODIFIED="1447563246813"/>
+<node TEXT="foo (Node x children) = Node (bar x) (map foo children)" ID="ID_414378376" CREATED="1447563231842" MODIFIED="1447563232789"/>
+</node>
+<node TEXT="graph recursion  X  view-patterns" ID="ID_413609747" CREATED="1447564461933" MODIFIED="1447564490360">
+<node TEXT="without" ID="ID_1192546970" CREATED="1447564461933" MODIFIED="1447564509135">
+<node TEXT="ghead :: Graph -&gt; Graph.Node" ID="ID_1361080339" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead graph | Graph.isEmpty graph = error &quot;Empty graph!&quot;" ID="ID_1395819699" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead graph = case matchAny graph of" ID="ID_56741784" CREATED="1447564461933" MODIFIED="1447564461933">
+<node TEXT="((_, node, _, _), graph) -&gt; node" ID="ID_17586111" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="-- the new name &quot;graph&quot; obscures the old one" ID="ID_455171957" CREATED="1447564603105" MODIFIED="1447564615879"/>
+</node>
+</node>
+<node TEXT="with" ID="ID_1447687877" CREATED="1447564461933" MODIFIED="1447564510119">
+<node TEXT="ghead :: Graph -&gt; Node" ID="ID_1119551064" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead graph | Graph.isEmpty graph            = error &quot;Empty graph!&quot;" ID="ID_853562800" CREATED="1447564461933" MODIFIED="1447564461933"/>
+<node TEXT="ghead (matchAny -&gt; ((_, node, _, _), graph)) = node" ID="ID_1211151045" CREATED="1447564461933" MODIFIED="1447564461933"/>
+</node>
+</node>
+<node TEXT="dfs : beautiful" ID="ID_1603483395" CREATED="1447566863547" MODIFIED="1447566867008">
+<node TEXT="it" ID="ID_492680795" CREATED="1447566871539" MODIFIED="1447567077395">
+<node TEXT="dfs :: Graph.Node -&gt; Gr a b -&gt; [Node]&#xa;dfs start graph = go [start] graph&#xa;  where go [] _                       = []&#xa;        go _ g | Graph.isEmpty g      = []&#xa;        go (n:ns) (match n -&gt; (Just c, g)) =&#xa;          n : go (Graph.neighbors&apos; c ++ ns) g&#xa;        go (_:ns) g                   = go ns g" ID="ID_1453470980" CREATED="1447566868323" MODIFIED="1447566869574"/>
+</node>
+<node TEXT="the &quot;stack&quot; starts as [start]" ID="ID_1777238413" CREATED="1447566979611" MODIFIED="1447567025461"/>
+<node TEXT="stack v. result" ID="ID_1250393584" CREATED="1447567082099" MODIFIED="1447567085817">
+<node TEXT="there&apos;s a pipeline from the stack to the result" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1852881271" CREATED="1447567090547" MODIFIED="1447567125826"/>
+<node TEXT="in &quot;n : go ( expr = Graph.neighbors c ++ ns ) g&quot;, n is the result, and expr is the &quot;new stack&quot;" ID="ID_744079504" CREATED="1447566884290" MODIFIED="1447566974937">
+<node TEXT="the first time, ns is empty" ID="ID_565633569" CREATED="1447567015243" MODIFIED="1447567018968"/>
+</node>
+</node>
+<node TEXT="after visiting n, i.e. after executing the third go clause*, the new g** has n removed" ID="ID_571699579" CREATED="1447567134362" MODIFIED="1447567283344">
+<node TEXT="* the one patterning on (n:ns) (match n -&gt; Just c, g)" ID="ID_1902579397" CREATED="1447567241595" MODIFIED="1447567252348"/>
+<node TEXT="** the one in (Just c, g)" ID="ID_991167213" CREATED="1447567284227" MODIFIED="1447567292984"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="fgl +" ID="ID_669234996" CREATED="1447540238859" MODIFIED="1447540247703">
+<node TEXT="jelvis on fgl" ID="ID_1712729005" CREATED="1446420977541" MODIFIED="1446673809738">
+<node TEXT="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html" ID="ID_1793956757" CREATED="1446420990651" MODIFIED="1446420990651" LINK="http://begriffs.com/posts/2015-09-04-pure-functional-graphs.html"/>
+<node TEXT="? what is the haskell extension that gives you pattern matching for graphs" ID="ID_564910657" CREATED="1446420962712" MODIFIED="1446420976733">
+<node TEXT="view patterns?" ID="ID_828674470" CREATED="1446420986519" MODIFIED="1446420988918"/>
+</node>
+</node>
+<node TEXT="view patterns" ID="ID_1658568702" CREATED="1446421888048" MODIFIED="1446673811048">
+<node TEXT="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns" ID="ID_549538962" CREATED="1446421892055" MODIFIED="1446421892055" LINK="https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns"/>
+</node>
+</node>
+<node TEXT="emacs dwt haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_304568731" CREATED="1437006371952" MODIFIED="1437006509672">
+<node TEXT="https://github.com/knupfer/haskell-emacs" ID="ID_1822197624" CREATED="1437006377022" MODIFIED="1437006377022" LINK="https://github.com/knupfer/haskell-emacs"/>
+</node>
+<node TEXT="&quot;semantic web&quot; / wikidata" ID="ID_1044958201" CREATED="1444711451166" MODIFIED="1447540274954">
+<node ID="ID_619355362" CREATED="1445315354616" MODIFIED="1445315354616" LINK="https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://github.com/tidalcycles/Tidal/wiki/Using-Tidal-outside-of-emacs
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="DOT : plant-text graph lang" LOCALIZED_STYLE_REF="default" ID="ID_231251210" CREATED="1446238857312" MODIFIED="1447540354438">
+<node TEXT="https://en.wikipedia.org/wiki/DOT_(graph_description_language)" ID="ID_1147403750" CREATED="1447540343518" MODIFIED="1447540343518" LINK="https://en.wikipedia.org/wiki/DOT_(graph_description_language)"/>
+</node>
+<node TEXT="done" LOCALIZED_STYLE_REF="styles.topic" ID="ID_616473213" CREATED="1447544580078" MODIFIED="1447544581538">
+<node TEXT="! read indivs&apos; mindmaps" LOCALIZED_STYLE_REF="default" ID="ID_1490473234" CREATED="1444813350869" MODIFIED="1447544582530">
+<node TEXT="tried it, they suck" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1440986401" CREATED="1447544586870" MODIFIED="1447544590064"/>
+<node ID="ID_807370577" CREATED="1444868351347" MODIFIED="1444868351347"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      github/*/mindmaps
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93" ID="ID_817745215" CREATED="1444867452337" MODIFIED="1444867452337" LINK="https://github.com/search?p=3&amp;q=mindmaps&amp;ref=searchresults&amp;type=Repositories&amp;utf8=%E2%9C%93"/>
+<node TEXT="I read the first 30 of 333, they were all* tech, low." ID="ID_1839233960" CREATED="1444867454029" MODIFIED="1444867479164">
+<node TEXT="* or in a language (Chinese?) I can&apos;t read" ID="ID_528713718" CREATED="1444867479771" MODIFIED="1444867494534"/>
+</node>
+</node>
+<node TEXT="xmind.net" ID="ID_46050942" CREATED="1444868370103" MODIFIED="1444868375061">
+<node TEXT="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30" ID="ID_191062576" CREATED="1444868346123" MODIFIED="1444868346123" LINK="https://www.google.com/search?q=love&amp;domains=xmind.net&amp;sitesearch=xmind.net%2Fm&amp;gws_rd=ssl#q=everything+site:xmind.net/m&amp;domains=xmind.net&amp;start=30"/>
+<node TEXT="I looked over the first 40 from the search &quot;everything&quot; (returned about 1000), there was only one that tried to be high, and it was less than 200 words, maybe only 50." ID="ID_1927900898" CREATED="1444868384750" MODIFIED="1444868448872"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="SYNERGY: chase &amp; mem size" ID="ID_29734543" CREATED="1452547590498" MODIFIED="1452547601697"/>
+<node TEXT="mem size: easy for a single rel, e.g. &quot;/.mm&quot;" ID="ID_861030765" CREATED="1452547604737" MODIFIED="1452547621028"/>
+<node TEXT="node generalizes to &quot;should display together&quot;" ID="ID_1868443845" CREATED="1440112827610" MODIFIED="1440112835348"/>
+<node TEXT="TotalDescendents.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_885590089" CREATED="1448526956842" MODIFIED="1448527148864">
+<node TEXT="\ &quot;dwt/git_hask/FROZE 2015 08 07/FROZE 2015 07 15&quot;" ID="ID_341639080" CREATED="1448527170682" MODIFIED="1448527179103"/>
+</node>
+</node>
+<node TEXT="I think in mkGraph the two lists are always sorted." ID="ID_20264108" CREATED="1452563367966" MODIFIED="1452563383884">
+<node TEXT="because" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_972313870" CREATED="1452563398485" MODIFIED="1452563469328"/>
+<node TEXT=". serial" LOCALIZED_STYLE_REF="default" ID="ID_1010190235" CREATED="1452563469517" MODIFIED="1452563478162"/>
+<node TEXT="after defining" ID="ID_1184175123" CREATED="1452563421509" MODIFIED="1452563449456">
+<node TEXT="*Main Data.List&gt; let m1 = match 3 g1" ID="ID_557297365" CREATED="1452563422982" MODIFIED="1452563422982"/>
+<node TEXT="*Main Data.List&gt; let m2 = match 5 $ snd m1" ID="ID_294790207" CREATED="1452563422983" MODIFIED="1452563422983"/>
+<node TEXT="*Main Data.List&gt; let m3 = match 11 $ snd m2" ID="ID_418032482" CREATED="1452563422984" MODIFIED="1452563422984"/>
+</node>
+<node TEXT="both of these display as the original did" ID="ID_1886070625" CREATED="1452563436312" MODIFIED="1452563451559">
+<node TEXT="*Main Data.List&gt; (fromJust $ fst m1) &amp; ((fromJust $ fst m2) &amp; ((fromJust $ fst m3) &amp; snd m3))" ID="ID_1201537835" CREATED="1452563405483" MODIFIED="1452563405483">
+<node TEXT="mkGraph [(0,Str &quot;dog&quot;),(1,Tplt 2 [&quot;&quot;,&quot; wants &quot;,&quot;&quot;]),(2,Tplt 2 [&quot;&quot;,&quot; needs &quot;,&quot;&quot;]),(3,Str &quot;water&quot;),(4,Str &quot;brandy&quot;),(5,Rel 2),(6,Rel 2),(7,Tplt 3 [&quot;&quot;,&quot; needs &quot;,&quot; for &quot;,&quot;&quot;]),(8,Rel 3),(9,Tplt 2 [&quot;statement &quot;,&quot; is &quot;,&quot;&quot;]),(10,Str &quot;dubious&quot;),(11,Rel 2)] [(5,0,RelMbr 1),(5,1,RelTplt),(5,4,RelMbr 2),(6,0,RelMbr 1),(6,2,RelTplt),(6,3,RelMbr 2),(8,0,RelMbr 1),(8,3,RelMbr 2),(8,4,RelMbr 3),(8,7,RelTplt),(11,5,RelMbr 1),(11,9,RelTplt),(11,10,RelMbr 2)]" ID="ID_1497742372" CREATED="1452563405484" MODIFIED="1452563405484"/>
+</node>
+<node TEXT="*Main Data.List&gt; (fromJust $ fst m2) &amp; ((fromJust $ fst m1) &amp; ((fromJust $ fst m3) &amp; snd m3))" ID="ID_710772082" CREATED="1452563405486" MODIFIED="1452563405486">
+<node TEXT="mkGraph [(0,Str &quot;dog&quot;),(1,Tplt 2 [&quot;&quot;,&quot; wants &quot;,&quot;&quot;]),(2,Tplt 2 [&quot;&quot;,&quot; needs &quot;,&quot;&quot;]),(3,Str &quot;water&quot;),(4,Str &quot;brandy&quot;),(5,Rel 2),(6,Rel 2),(7,Tplt 3 [&quot;&quot;,&quot; needs &quot;,&quot; for &quot;,&quot;&quot;]),(8,Rel 3),(9,Tplt 2 [&quot;statement &quot;,&quot; is &quot;,&quot;&quot;]),(10,Str &quot;dubious&quot;),(11,Rel 2)] [(5,0,RelMbr 1),(5,1,RelTplt),(5,4,RelMbr 2),(6,0,RelMbr 1),(6,2,RelTplt),(6,3,RelMbr 2),(8,0,RelMbr 1),(8,3,RelMbr 2),(8,4,RelMbr 3),(8,7,RelTplt),(11,5,RelMbr 1),(11,9,RelTplt),(11,10,RelMbr 2)]" ID="ID_190589291" CREATED="1452563405489" MODIFIED="1452563405489"/>
+</node>
+</node>
+</node>
+<node TEXT="not crit" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1021549317" CREATED="1452555676900" MODIFIED="1452555678623">
+<node TEXT="?" ID="ID_1002128254" CREATED="1452487747142" MODIFIED="1452487747622">
+<node TEXT="? in replacements, keep the old one, mark it &quot;replaced _ with _ (on [date])&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_245705573" CREATED="1452487686574" MODIFIED="1452487745364"/>
+<node TEXT="leading &quot;)&quot;" ID="ID_1059895278" CREATED="1452489080094" MODIFIED="1452489083350"/>
+</node>
+<node TEXT="derived: &quot;the [RelPos] in [Rel]&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1766479019" CREATED="1452551798587" MODIFIED="1452555672827">
+<node TEXT="for disambiguations" ID="ID_800486684" CREATED="1452555656012" MODIFIED="1452555659049"/>
+<node TEXT="example" ID="ID_625976291" CREATED="1452551816331" MODIFIED="1452551817200">
+<node TEXT="war" ID="ID_230700610" CREATED="1452551720491" MODIFIED="1452551721234">
+<node TEXT="\soc, belongs here rather than polluting" ID="ID_1713607031" CREATED="1452551755875" MODIFIED="1452551770189">
+<node TEXT="disambiguate here to ../../war" ID="ID_761838913" CREATED="1452551819531" MODIFIED="1452551836675"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="find within-word &quot;.&quot; defn consistent with out-of-word" ID="ID_822875430" CREATED="1452401008682" MODIFIED="1452541113409">
+<node TEXT="A. A = A . A for A=alphanum" ID="ID_590628206" CREATED="1452401022687" MODIFIED="1452401040889"/>
+<node TEXT="A.A distinct" ID="ID_214917149" CREATED="1452401042594" MODIFIED="1452401046968"/>
+</node>
+</node>
+<node TEXT="nice and feas : order" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1323702267" CREATED="1452587011724" MODIFIED="1452587045849">
+<node TEXT="display ordered" ID="ID_1623775256" CREATED="1452587046236" MODIFIED="1452587048693">
+<node TEXT="inc. multiple nonoverlapping ordered sets of peers" ID="ID_556722176" CREATED="1452587092732" MODIFIED="1452587115519"/>
+</node>
+<node TEXT="(partially) remove order from peers" ID="ID_1701739783" CREATED="1452587049402" MODIFIED="1452587088142"/>
+</node>
+<node TEXT="text rectangles" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1897305891" CREATED="1452587202365" MODIFIED="1452587210308"/>
+<node TEXT="view: boxes, banner-seqs, [Node] requests" ID="ID_1312670135" CREATED="1452644815976" MODIFIED="1452644855766">
+<font BOLD="true"/>
+</node>
+<node TEXT="sep ? traversal, layout" ID="ID_215525665" CREATED="1452645090200" MODIFIED="1452645104579">
+<node TEXT="every layout e.g. treeish unfolding from a root) implies a traversal" ID="ID_1521767117" CREATED="1452645109297" MODIFIED="1452645131824"/>
+<node TEXT="consider the layout a projection(n) of the traversal, after applying a variable projection(v)" ID="ID_1115323766" CREATED="1452645147480" MODIFIED="1452645182849"/>
+</node>
+<node TEXT="how to sort (from within-node to graph)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_73229028" CREATED="1452663627219" MODIFIED="1452663739621">
+<node TEXT="user provides a map from a statement&apos;s (consider the statement &quot;bad, bad ? loneliness, insanity&quot;) punctuation|rel words to $ rels in the graph and precedence" ID="ID_1824226490" CREATED="1452663634180" MODIFIED="1452663683449"/>
+</node>
+<node TEXT="a ! that does not end a statement" ID="ID_1811500894" CREATED="1452718648832" MODIFIED="1452924683376">
+<node TEXT="is reason to capitalize next word" ID="ID_209722663" CREATED="1452718662494" MODIFIED="1452718669206"/>
+</node>
+<node TEXT="rel lang" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1658778685" CREATED="1452931130044" MODIFIED="1452931136186">
+<node TEXT="for a 2-elt rel: &quot;needs_&quot; and &quot;_needs&quot;" LOCALIZED_STYLE_REF="default" ID="ID_596273348" CREATED="1452930844715" MODIFIED="1452931155667"/>
+<node TEXT="for a 3-elt rel: ^needs[node]for_" ID="ID_1234040026" CREATED="1452931139415" MODIFIED="1452931212505">
+<node TEXT="where ^ is &quot;It&quot;, the reference Expr" ID="ID_539060753" CREATED="1452931225228" MODIFIED="1452931252166"/>
+</node>
+</node>
+<node TEXT="disambiguation divides into label-necessary(top) and recog-necessary(rest)" ID="ID_118018587" CREATED="1452931326655" MODIFIED="1452931400375">
+<node TEXT="label-necessary is a top subancestry of the full disambiguation, the farther reaches of which are optional for purposes of labeling|identifying the thing, but perhaps needed by a reader in order to recognize what that thing is" ID="ID_225655828" CREATED="1452931344056" MODIFIED="1452931386372"/>
+</node>
+<node TEXT="descendents need not explode in view; descend only through necessary disambiguations" ID="ID_662013726" CREATED="1452931412726" MODIFIED="1452931435072">
+<node TEXT="to do this is to follow exactly some of the = rel, and other rels not at all" ID="ID_1673117262" CREATED="1452931436198" MODIFIED="1452931460472"/>
+</node>
+<node TEXT="&quot;showCompressing :: (Map Node String) -&gt; ...&quot;: like show, but for Rels involving those Nodes, shows instead just the String provided" ID="ID_110945292" CREATED="1452932257641" MODIFIED="1452932612659">
+<node TEXT="esp. for under It, call it It" ID="ID_582120993" CREATED="1452932316887" MODIFIED="1452932323014"/>
+</node>
+</node>
+<node TEXT="decisions, acting on" ID="ID_501722033" CREATED="1459965849419" MODIFIED="1459965862563">
+<node TEXT="?/ means this categ maybe change" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_359536344" CREATED="1459965826353" MODIFIED="1459965902509">
+<node TEXT="example, dup" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1709872657" CREATED="1459965871906" MODIFIED="1459965875285"/>
+<node TEXT="?/ aimless energy geometry" ID="ID_279399540" CREATED="1459965784461" MODIFIED="1459965825335">
+<node TEXT="checkmark : minimal spiral" ID="ID_1179943838" CREATED="1459965031055" MODIFIED="1459965037531">
+<node TEXT="perhaps useful for testing spending on a computational frontier" ID="ID_819244276" CREATED="1459965076482" MODIFIED="1459965092916"/>
+</node>
+<node TEXT="over halfway in base three gives 2, the highest avail dev" ID="ID_826810793" CREATED="1459965167057" MODIFIED="1459965180600">
+<node TEXT="if measure is linear" ID="ID_1280278115" CREATED="1459965184913" MODIFIED="1459965194071"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="s 2016 03 31" LOCALIZED_STYLE_REF="default" ID="ID_374993348" CREATED="1459829951641" MODIFIED="1459838983072">
+<font BOLD="true"/>
+<node TEXT="use in building" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_85586302" CREATED="1459831194803" MODIFIED="1459831202684">
+<node TEXT="megaparsec" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_586376049" CREATED="1459837877185" MODIFIED="1459837885589">
 <node TEXT="Megaparsec.Text.Expr: symbol &lt;- reservedOp" ID="ID_1142330838" CREATED="1456774238358" MODIFIED="1456774252946">
 <node TEXT="https://github.com/mrkkrp/megaparsec/commit/750adb7c70392c3195eda12d816f4a1a2305321e" ID="ID_863368396" CREATED="1456774253895" MODIFIED="1456774253895" LINK="https://github.com/mrkkrp/megaparsec/commit/750adb7c70392c3195eda12d816f4a1a2305321e"/>
 </node>
-<node TEXT="or is special" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_798743619" CREATED="1456953455103" MODIFIED="1456953660055">
-<node TEXT="and is implicit, hence already well-encoded" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_203919584" CREATED="1456953488207" MODIFIED="1456953848185">
-<node TEXT="if (a b&apos; c) and (a b c), that b and b&apos; both work in the second position is already implicit once you have encoded the two exprs in isolation" ID="ID_1988158419" CREATED="1456953776463" MODIFIED="1456953817677"/>
 </node>
-<node TEXT="if (a b&apos; c) or (a b c)" ID="ID_6859384" CREATED="1456953744095" MODIFIED="1456953883196">
-<node TEXT="or could be a relation between those two exprs" ID="ID_309621530" CREATED="1456953883626" MODIFIED="1456953891088"/>
+<node TEXT="minikanren" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1702896846" CREATED="1459836320442" MODIFIED="1459836323918">
+<node TEXT="miniKanrenT: only a couple hundred lines!" ID="ID_1651164063" CREATED="1456617213092" MODIFIED="1456617222513">
+<node TEXT="https://github.com/jvranish/MiniKanrenT" ID="ID_44428633" CREATED="1456617223365" MODIFIED="1456617223365" LINK="https://github.com/jvranish/MiniKanrenT"/>
 </node>
 </node>
-<node TEXT="view-usurp &gt; replace" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1456796673" CREATED="1456955655305" MODIFIED="1456955673847">
-<node TEXT="is helpful, automatic disambiguation" ID="ID_973181399" CREATED="1456955726601" MODIFIED="1456955738954"/>
-<node TEXT="in the graph, the new one takes the old one&apos;s address, and the old one takes a new address, linked to the old one using &quot;_ was/ _&quot;" ID="ID_1295455705" CREATED="1456955755757" MODIFIED="1456955820439"/>
+<node TEXT="stack handles haddock" ID="ID_1174643137" CREATED="1457588161894" MODIFIED="1457588164739"/>
+<node TEXT="monadic bind / an argument for" LOCALIZED_STYLE_REF="default" ID="ID_557664789" CREATED="1457144060867" MODIFIED="1459832840176">
+<node TEXT="insRel 3 [1,0] &lt;$&gt; insRel 3 [2,0] g :: Right (Right _))" ID="ID_116210200" CREATED="1457144065397" MODIFIED="1457144082242"/>
+<node TEXT="insRel 3 [2,0] g &gt;&gt;= insRel 3 [1,0] :: Right _" ID="ID_1420537652" CREATED="1457144065397" MODIFIED="1457144085607"/>
 </node>
-<node TEXT="x|y &amp; y|z =&gt; x|z" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_672031709" CREATED="1456957480049" MODIFIED="1456957490944"/>
-<node TEXT="&quot;Program in out&quot; :: in -&gt; Graph -&gt; out" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1036404281" CREATED="1456990455066" MODIFIED="1456990561387"/>
-<node TEXT="&apos; for language change" LOCALIZED_STYLE_REF="default" ID="ID_678249712" CREATED="1456521626814" MODIFIED="1457041144285">
-<node TEXT="faithful to spelling before it" ID="ID_705453091" CREATED="1456521651838" MODIFIED="1456521656643"/>
 </node>
-<node TEXT="PWL-recommended reading" ID="ID_1165815352" CREATED="1456390831617" MODIFIED="1456608853423">
-<font BOLD="true"/>
+<node TEXT="PWL-recommended reading" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1165815352" CREATED="1456390831617" MODIFIED="1459836300976">
 <node TEXT="2016 02 23-ish, when Phil presented Propositions as Types" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_832472696" CREATED="1457041747837" MODIFIED="1457041766482"/>
 <node TEXT="prolog" ID="ID_7876010" CREATED="1456390894793" MODIFIED="1456390895878"/>
 <node TEXT="triplestore" ID="ID_1428042746" CREATED="1456390834785" MODIFIED="1456390836518"/>
@@ -17186,38 +17098,129 @@
 <node TEXT="http://steve-yegge.blogspot.com/." ID="ID_1006031651" CREATED="1456608814647" MODIFIED="1456608837036"/>
 <node TEXT="https://overcast.fm/+BYsuAdo0" ID="ID_851806781" CREATED="1456611602017" MODIFIED="1456611602751"/>
 </node>
-<node TEXT="raw &gt; statements are beautiful" ID="ID_951060008" CREATED="1457065597680" MODIFIED="1457065603550">
-<node TEXT="&gt; find a job, share mus.mm to lurk/tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_585399861" CREATED="1456124262095" MODIFIED="1457065611665"/>
-</node>
-<node TEXT="/here v. here/" ID="ID_203422085" CREATED="1457066632001" MODIFIED="1457066642662">
-<node TEXT="whether to include parent or only siblings" ID="ID_1616206724" CREATED="1457066646081" MODIFIED="1457066654054"/>
-</node>
-<node TEXT="/*here, */here, .." ID="ID_1148495832" CREATED="1457066656337" MODIFIED="1457066672414">
-<node TEXT="* in the bash shell sense" ID="ID_745683810" CREATED="1457066675601" MODIFIED="1457066700473"/>
-</node>
-<node TEXT="maybe &amp; lang inj" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_608347817" CREATED="1457067606154" MODIFIED="1457067645050">
-<node TEXT="early musicians, doctors may have injured their professions by for status making their vocabulary difficult" ID="ID_70294576" CREATED="1457067548922" MODIFIED="1457067596833"/>
-</node>
-<node TEXT="redaction : some rels vanish entirely, others only vanish up to an indicated category" ID="ID_891886397" CREATED="1457067702900" MODIFIED="1457067728589">
-<node TEXT="=indicated in the public version" ID="ID_819272662" CREATED="1457067746064" MODIFIED="1457067777127"/>
-<node TEXT="example: could share career/ and redact people from it" ID="ID_916188826" CREATED="1457067846331" MODIFIED="1457067868275">
-<node TEXT="? unless it&apos;s their public persona which they would prefer to advertise" ID="ID_625128781" CREATED="1457067891731" MODIFIED="1457067905468"/>
-</node>
-</node>
-<node TEXT="lang change =? space change" ID="ID_1921798508" CREATED="1457141665417" MODIFIED="1457141698225">
-<node TEXT="to change the language one is speaking is to change (?nothing about the words one uses, just) the meaning of space between them" ID="ID_876968871" CREATED="1457141673256" MODIFIED="1457141694142"/>
-</node>
-<node TEXT="symbols to always notify of if present : asterisk" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1149533571" CREATED="1457142336457" MODIFIED="1457142356953">
-<node TEXT="usurpers : maybe, not" ID="ID_672822445" CREATED="1457142401753" MODIFIED="1457142419966">
-<node TEXT="can&apos;t always show them, e.g. if the usurped was arrived to via a different context" ID="ID_1566270985" CREATED="1457142423826" MODIFIED="1457142448543"/>
+<node TEXT="next" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1794125636" CREATED="1459720418534" MODIFIED="1459832471830">
+<node TEXT="= definitely do sometime" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_538979885" CREATED="1459747332293" MODIFIED="1459803460260"/>
+<node TEXT="share" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_691574927" CREATED="1457145172403" MODIFIED="1459832444360">
+<node TEXT="who" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_382861632" CREATED="1459838094892" MODIFIED="1459838096758">
+<node TEXT="tell medical _" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1908978921" CREATED="1459832445154" MODIFIED="1459832465615"/>
+<node ID="ID_767526739" CREATED="1459832444679" MODIFIED="1459832444679"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      tell Haskellers, Mindmappers, Language Lovers
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node TEXT="read &quot;x pure y&quot; as &quot;y is pure, x impure&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1215941316" CREATED="1457142725953" MODIFIED="1457142751027"/>
-<node TEXT="enter multi Strs at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_654888281" CREATED="1457143340898" MODIFIED="1457143348116"/>
-<node TEXT="an argument for monadic bind" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_557664789" CREATED="1457144060867" MODIFIED="1457144071698">
-<node TEXT="insRel 3 [1,0] &lt;$&gt; insRel 3 [2,0] g :: Right (Right _))" ID="ID_116210200" CREATED="1457144065397" MODIFIED="1457144082242"/>
-<node TEXT="insRel 3 [2,0] g &gt;&gt;= insRel 3 [1,0] :: Right _" ID="ID_1420537652" CREATED="1457144065397" MODIFIED="1457144085607"/>
+<node TEXT="how" LOCALIZED_STYLE_REF="default" ID="ID_813345675" CREATED="1459838085843" MODIFIED="1459838093394">
+<node TEXT="internet announce ~ tiny, humnility" ID="ID_96147604" CREATED="1456731696403" MODIFIED="1456731705529"/>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_261827089" CREATED="1459838127431" MODIFIED="1459838128540">
+<node TEXT="the undone, publish them, calling them ambitions" LOCALIZED_STYLE_REF="default" ID="ID_628326391" CREATED="1457413897852" MODIFIED="1459831892183"/>
 </node>
+</node>
+</node>
+<node TEXT="easy" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1126721184" CREATED="1459837098552" MODIFIED="1459837126637"/>
+<node TEXT="gens|nest in view" ID="ID_1316183938" CREATED="1459919333465" MODIFIED="1459919346788"/>
+<node TEXT="forks?" ID="ID_1906795964" CREATED="1459837971025" MODIFIED="1459837973270">
+<node TEXT="what did I do?" ID="ID_1837429836" CREATED="1459837974580" MODIFIED="1459837976538"/>
+</node>
+<node TEXT="view-usurp &gt; replace" LOCALIZED_STYLE_REF="default" ID="ID_1456796673" CREATED="1456955655305" MODIFIED="1459837093313">
+<node TEXT="=usurp or superogarate" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1419681723" CREATED="1459838358463" MODIFIED="1459838370916">
+<node TEXT="the verb for what a category like maybe or not does to a statement" ID="ID_1814763292" CREATED="1456719493388" MODIFIED="1456719506629">
+<node TEXT="superogarate(view)" ID="ID_1438016362" CREATED="1456719507076" MODIFIED="1456719511908"/>
+</node>
+<node TEXT="view m.v superogarate" ID="ID_236085924" CREATED="1456725146315" MODIFIED="1456725171975"/>
+</node>
+<node TEXT="is helpful, automatic disambiguation" ID="ID_973181399" CREATED="1456955726601" MODIFIED="1456955738954"/>
+<node TEXT="in the graph, the new one takes the old one&apos;s address, and the old one takes a new address, linked to the old one using &quot;_ was/ _&quot;" ID="ID_1295455705" CREATED="1456955755757" MODIFIED="1456955820439"/>
+</node>
+<node TEXT="&quot;g &lt;- addExpr e g&quot; can display the new node and not g" LOCALIZED_STYLE_REF="default" ID="ID_1483359118" CREATED="1455777823386" MODIFIED="1456303743431"/>
+<node TEXT="&gt;&gt;&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1731373633" CREATED="1459975461492" MODIFIED="1459975465312">
+<node TEXT="regex text search" LOCALIZED_STYLE_REF="default" ID="ID_1777357801" CREATED="1459806472079" MODIFIED="1459832421585"/>
+<node TEXT="multi-Str sentence input" ID="ID_8609825" CREATED="1459832881328" MODIFIED="1459832888205">
+<node TEXT="give a sentence" LOCALIZED_STYLE_REF="default" ID="ID_654888281" CREATED="1457143340898" MODIFIED="1459832895451"/>
+<node TEXT="dwt inputs every word, unless it&apos;s already in there" ID="ID_1107614226" CREATED="1459832895663" MODIFIED="1459832910500"/>
+<node TEXT="dwt outputs the address of each" ID="ID_1474249005" CREATED="1459832911217" MODIFIED="1459832914727"/>
+<node TEXT="altv?" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_966571683" CREATED="1459919777414" MODIFIED="1459919779215">
+<node TEXT="&quot;tell me where [expr] is,&#xa;&amp; update g to have it if it doesn&apos;t&apos;" ID="ID_700147173" CREATED="1456541533595" MODIFIED="1456541584592"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="graph" ID="ID_943517947" CREATED="1459837836891" MODIFIED="1459837838088">
+<node TEXT="order" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_275834950" CREATED="1459838900254" MODIFIED="1459838903438">
+<node TEXT="rel ! view-order" LOCALIZED_STYLE_REF="default" ID="ID_287971414" CREATED="1459838612434" MODIFIED="1459838905082">
+<node TEXT="are entangled, should not be" ID="ID_1742252718" CREATED="1459838629743" MODIFIED="1459838635123"/>
+<node TEXT="isa/r = isa\" ID="ID_221689880" CREATED="1459838636588" MODIFIED="1459838886248"/>
+</node>
+<node TEXT="priority order ! comprehension order" LOCALIZED_STYLE_REF="default" ID="ID_1062694370" CREATED="1456541102338" MODIFIED="1459838935798"/>
+</node>
+<node TEXT="or hard, and easy" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_798743619" CREATED="1456953455103" MODIFIED="1459838689213">
+<node TEXT="and is implicit, hence already well-encoded" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_203919584" CREATED="1456953488207" MODIFIED="1456953848185">
+<node TEXT="if (a b&apos; c) and (a b c), that b and b&apos; both work in the second position is already implicit once you have encoded the two exprs in isolation" ID="ID_1988158419" CREATED="1456953776463" MODIFIED="1456953817677"/>
+</node>
+<node TEXT="if (a b&apos; c) or (a b c)" ID="ID_6859384" CREATED="1456953744095" MODIFIED="1456953883196">
+<node TEXT="or could be a relation between those two exprs" ID="ID_309621530" CREATED="1456953883626" MODIFIED="1456953891088"/>
+</node>
+</node>
+</node>
+<node TEXT="user" ID="ID_409338009" CREATED="1459829681706" MODIFIED="1459830260763">
+<node TEXT="view &amp; stack" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1944173957" CREATED="1459838195046" MODIFIED="1459919688583">
+<node TEXT="example" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_639119772" CREATED="1459838211154" MODIFIED="1459838212592"/>
+<node TEXT="let node addresses coincide with last visited, allow user to promote them, show a screen-sized tail" ID="ID_526903739" CREATED="1456731110891" MODIFIED="1459838208792">
+<node TEXT="\ solving a problem before it exists" ID="ID_1509749651" CREATED="1456731182019" MODIFIED="1456731189702"/>
+</node>
+</node>
+<node TEXT="rels I want" LOCALIZED_STYLE_REF="default" ID="ID_1834456385" CREATED="1459447835414" MODIFIED="1459830336785">
+<font BOLD="true"/>
+<node TEXT="? the word binders" ID="ID_1365653126" CREATED="1456541061514" MODIFIED="1459838496526">
+<font BOLD="true"/>
+<node TEXT="tv o" ID="ID_1285359570" CREATED="1456541065322" MODIFIED="1456541083519"/>
+<node TEXT="s v" ID="ID_332361541" CREATED="1456541070122" MODIFIED="1456541087998"/>
+<node TEXT="n a" ID="ID_1195885911" CREATED="1456541142234" MODIFIED="1456541144543"/>
+<node TEXT="expr modifier" ID="ID_1025204747" CREATED="1456541203594" MODIFIED="1456541332718">
+<node TEXT="cube(cooking)" ID="ID_1458590523" CREATED="1456541213906" MODIFIED="1456541336053"/>
+<node TEXT="very m.e green" ID="ID_710502517" CREATED="1456541336962" MODIFIED="1456541345042"/>
+</node>
+<node TEXT="earlier : in-sentence joints" LOCALIZED_STYLE_REF="default" ID="ID_757523603" CREATED="1456541061514" MODIFIED="1459838815528">
+<font BOLD="true"/>
+<node TEXT="enum" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_655513292" CREATED="1456542403642" MODIFIED="1456542448892">
+<node TEXT="undefineds" LOCALIZED_STYLE_REF="default" ID="ID_1218919651" CREATED="1456542239282" MODIFIED="1456542247413">
+<font BOLD="true"/>
+<node TEXT="m = modifier" ID="ID_1660038850" CREATED="1456542203130" MODIFIED="1456542207495"/>
+<node TEXT="v, tv: verb, transitive verb" ID="ID_949623689" CREATED="1456542249770" MODIFIED="1456542272432"/>
+</node>
+<node TEXT="v = v | tv o | m v" ID="ID_349587404" CREATED="1456541065322" MODIFIED="1456542302531"/>
+<node TEXT="act = s v | m act" ID="ID_511491310" CREATED="1456541070122" MODIFIED="1456542226276"/>
+<node TEXT="n = n | m n" ID="ID_628760470" CREATED="1456541142234" MODIFIED="1456542316290"/>
+</node>
+<node TEXT="yes, no prepositions" ID="ID_1367343374" CREATED="1456542407851" MODIFIED="1456542413648">
+<node TEXT="they are atomic -- for instance, &quot;for _ to _&quot;" ID="ID_463953883" CREATED="1456542414403" MODIFIED="1456542425512"/>
+</node>
+</node>
+</node>
+<node TEXT="_ aids _" ID="ID_1505668758" CREATED="1459447845893" MODIFIED="1459447851493"/>
+<node TEXT="_ suggests _" ID="ID_1878347275" CREATED="1459447854473" MODIFIED="1459447863389">
+<node TEXT="like impiles, indicating the second deserves attention if the first does" ID="ID_15344231" CREATED="1459447866456" MODIFIED="1459447884644"/>
+</node>
+<node TEXT="?_" ID="ID_967015996" CREATED="1459447898828" MODIFIED="1459447900469"/>
+<node TEXT="_ accordingTo/r _" ID="ID_448019305" CREATED="1459831008221" MODIFIED="1459831012915">
+<node TEXT="Jim according/to We need more beer." ID="ID_90964038" CREATED="1459831015127" MODIFIED="1459831025393"/>
+</node>
+<node TEXT="_ $ uses _ to mean _" LOCALIZED_STYLE_REF="default" ID="ID_1786047310" CREATED="1457583607478" MODIFIED="1459831118002">
+<node TEXT="~ local disambiguation" ID="ID_1817768720" CREATED="1459831058416" MODIFIED="1459831061866"/>
+<node TEXT="_ means _ around _x" ID="ID_241896370" CREATED="1459831076752" MODIFIED="1459831087697">
+<node TEXT="where x can be a person or a topic-branch" ID="ID_266981770" CREATED="1459831088194" MODIFIED="1459831100582"/>
+</node>
+</node>
+<node TEXT="_ except/ _" ID="ID_378804700" CREATED="1459832668523" MODIFIED="1459832785997">
+<node TEXT="was (hard!)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_145159931" CREATED="1459832682985" MODIFIED="1459832691528">
 <node TEXT="? unless (the x in x/y is z), x/y" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_830456313" CREATED="1457144419435" MODIFIED="1457144443336">
 <node TEXT="an argument for it" ID="ID_844605308" CREATED="1457144902083" MODIFIED="1457144904776">
 <node TEXT="let g = empty :: Mindmap" ID="ID_1374851831" CREATED="1457144905219" MODIFIED="1457144905219"/>
@@ -17228,21 +17231,18 @@
 <node TEXT="g &lt;- p $ fr $ insRel 3 [2,0] g &gt;&gt;= insRel 3 [1,0]" ID="ID_40911454" CREATED="1457144905223" MODIFIED="1457144905223"/>
 <node TEXT="_ because _" ID="ID_28819027" CREATED="1457144905223" MODIFIED="1457144905223"/>
 <node TEXT="_ does _ to _" ID="ID_1490654325" CREATED="1457144905224" MODIFIED="1457144905224"/>
-<node TEXT="?(The usually)? $$$in $$usually frog $qual moist $$$$because freezing stiffens a frog." ID="ID_442831223" CREATED="1457144905225" MODIFIED="1457144905225"/>
+<node TEXT="(the expression &quot;usually&quot;) $$$in $$usually frog $qual moist $$$$because freezing stiffens a frog." ID="ID_442831223" CREATED="1457144905225" MODIFIED="1459832619364"/>
 </node>
 </node>
-<node TEXT="tell Haskellers, Mindmappers, Language Lovers" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_691574927" CREATED="1457145172403" MODIFIED="1457145189712"/>
-<node TEXT="count needed|non-obvious clarifications" ID="ID_78539225" CREATED="1457146668068" MODIFIED="1457146694678">
-<node TEXT="by default, and by default do not count the other kind" ID="ID_121290942" CREATED="1457146695460" MODIFIED="1457146705857"/>
 </node>
-<node TEXT="stack(cog), ongoing" ID="ID_1759291433" CREATED="1457158785512" MODIFIED="1457158793192">
+<node TEXT="frogs are moist $exception/ frozen frogs are not moist" ID="ID_95026135" CREATED="1459832699583" MODIFIED="1459832748155"/>
+</node>
+</node>
+<node TEXT="questions about the data" ID="ID_28438338" CREATED="1459830439123" MODIFIED="1459830454662">
 <font BOLD="true"/>
-<node TEXT="_showRel" ID="ID_314464181" CREATED="1457158857013" MODIFIED="1457158857013"/>
-<node TEXT="subInTpltWithDollars" ID="ID_400736055" CREATED="1457158843013" MODIFIED="1457158843013"/>
-<node TEXT="padTpltStrings" ID="ID_327660248" CREATED="1457158796440" MODIFIED="1457158805733"/>
-</node>
-<node TEXT="questions" ID="ID_1441934999" CREATED="1457245616691" MODIFIED="1457245617856">
-<node TEXT="\ not about dwt &amp; for dwt" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1506775679" CREATED="1457245618546" MODIFIED="1457245655992"/>
+<node TEXT="= serves dwt/motiv" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_816702245" CREATED="1459830460510" MODIFIED="1459832224173"/>
+<node TEXT="specific" ID="ID_674136065" CREATED="1459832164445" MODIFIED="1459832188664">
+<font BOLD="true"/>
 <node TEXT="where was I supposed to buy the x" ID="ID_1013018499" CREATED="1457245669731" MODIFIED="1457245704744">
 <node TEXT=".seq" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1291963268" CREATED="1457245905643" MODIFIED="1457245909872"/>
 <node TEXT="search for x" ID="ID_1338187896" CREATED="1457245691323" MODIFIED="1457245705944"/>
@@ -17254,54 +17254,213 @@
 <node TEXT="for getting x not= for x" ID="ID_1596167263" CREATED="1457245875523" MODIFIED="1457245893032"/>
 </node>
 </node>
-<node TEXT="beeteljuice, skew guitar neck, for ease|convenience" ID="ID_764867502" CREATED="1457248562373" MODIFIED="1457248575834">
-<node TEXT="anthropic principle" ID="ID_1067291596" CREATED="1457248577741" MODIFIED="1457248580818"/>
+<node TEXT="ambitious" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1614377796" CREATED="1459832183215" MODIFIED="1459832185797">
+<node TEXT="does not imply difficult" ID="ID_369662825" CREATED="1459832198798" MODIFIED="1459832204860"/>
 </node>
-<node TEXT="for freq of procg a node, compare number of ancestry branches" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1445310230" CREATED="1457252797472" MODIFIED="1457252814821"/>
-<node TEXT="It might not be done! If I ever believe DWT can handle the data flow (volume per time) that Freeplane can, I will import the data to DWT, an editor for an object like a mindmap or graph, but more general than" ID="ID_1687179605" CREATED="1457411773733" MODIFIED="1457411954747"/>
-<node TEXT="the undone, just publish them as ambitions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_628326391" CREATED="1457413897852" MODIFIED="1457413904072"/>
-<node TEXT="represent it once : the word for a program that relates one node to another, such as view-usurpal : a data type" ID="ID_1486512325" CREATED="1457417210724" MODIFIED="1457417242941"/>
-<node TEXT="find the natural view-graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_955519434" CREATED="1457505149449" MODIFIED="1457505283451">
-<node TEXT="perhaps a tree, things you consider roughly equal interest forming concentric spheres, and rankings within some spheres" ID="ID_250231939" CREATED="1457505160225" MODIFIED="1457505266811"/>
+<node TEXT="what are cousins like" LOCALIZED_STYLE_REF="default" ID="ID_903677513" CREATED="1458979845505" MODIFIED="1459830759655"/>
+<node TEXT="how two (peoples&apos;) blame trees differ" ID="ID_496356946" CREATED="1458528620278" MODIFIED="1459919620400"/>
+<node TEXT="raw &quot;&gt; statements&quot; are beautiful" ID="ID_951060008" CREATED="1457065597680" MODIFIED="1459919639174">
+<node TEXT="&gt; find a job : share mus.mm to lurk/tidal" LOCALIZED_STYLE_REF="styles.topic" ID="ID_585399861" CREATED="1456124262095" MODIFIED="1459836278939"/>
 </node>
-<node TEXT="&quot;in [expr], [subexpr] {has only these equivs}&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1360142876" CREATED="1457585605486" MODIFIED="1457585654417">
-<node TEXT="&quot;has (only) a few|these equivalents&quot;" ID="ID_28503662" CREATED="1451797524699" MODIFIED="1451927744151"/>
 </node>
-<node TEXT="if has a not, lead*with the not" ID="ID_1221891060" CREATED="1456295343696" MODIFIED="1456295376613">
-<node TEXT="* with among maybe other leaders" LOCALIZED_STYLE_REF="styles.topic" ID="ID_756772732" CREATED="1456295376968" MODIFIED="1456295384114"/>
-</node>
-<node TEXT="stack handles haddock" ID="ID_1174643137" CREATED="1457588161894" MODIFIED="1457588164739"/>
-<node TEXT="_ $ uses _ to mean _" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1786047310" CREATED="1457583607478" MODIFIED="1457583641055"/>
-<node TEXT="dwt arguments" ID="ID_1050143863" CREATED="1457385171239" MODIFIED="1457385175280">
+<node TEXT="freq of procg a node" LOCALIZED_STYLE_REF="default" ID="ID_1445310230" CREATED="1457252797472" MODIFIED="1459831973392">
 <font BOLD="true"/>
-<node TEXT="&quot;everything is crumbling&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1186185684" CREATED="1457402756626" MODIFIED="1457402762804">
-<node TEXT="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html" ID="ID_1330692797" CREATED="1457402753643" MODIFIED="1457402753643" LINK="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html"/>
+<node ID="ID_336582574" CREATED="1459831971858" MODIFIED="1459831971858"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      compare number of ancestries
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="relationships" ID="ID_184659291" CREATED="1457398858596" MODIFIED="1457398859769">
-<node TEXT="_ is true according to _" ID="ID_57860760" CREATED="1457385177122" MODIFIED="1457385183194"/>
 </node>
-<node TEXT="data types &lt; dwt" ID="ID_1177943184" CREATED="1457398874108" MODIFIED="1457398883361">
-<node TEXT="nested lists" ID="ID_204050556" CREATED="1457398884089" MODIFIED="1457398885762">
-<node TEXT="json" ID="ID_1050982948" CREATED="1457398886908" MODIFIED="1457398887593"/>
+<node TEXT="limit modif&apos;n" ID="ID_497439450" CREATED="1459829756973" MODIFIED="1459830269578">
+<node TEXT="never modify" ID="ID_1416503106" CREATED="1459829685709" MODIFIED="1459829693931">
+<node TEXT="just add" ID="ID_219567506" CREATED="1459829705982" MODIFIED="1459829707988"/>
 </node>
-<node TEXT="tables" ID="ID_204039379" CREATED="1457398898180" MODIFIED="1457398899921"/>
-<node TEXT="graphs" ID="ID_1868230101" CREATED="1457398885980" MODIFIED="1457398886658"/>
+<node TEXT="never modify except to help a proven speed need" ID="ID_1417485541" CREATED="1459829714361" MODIFIED="1459829742927"/>
+</node>
+<node TEXT="fun" ID="ID_891522141" CREATED="1459927700995" MODIFIED="1459927704498">
+<node TEXT="than is like as" ID="ID_1428392876" CREATED="1459927683464" MODIFIED="1459927684525"/>
 </node>
 </node>
-<node TEXT="once characters become a word, they do not need to stay characters" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1269830646" CREATED="1458172172579" MODIFIED="1458172185645"/>
-<node TEXT="^ localizes, away maybe even from own branches" ID="ID_1083188085" CREATED="1458452843803" MODIFIED="1458452852737"/>
-<node TEXT="&quot;I have a blame tree too!&quot;" ID="ID_496356946" CREATED="1458528620278" MODIFIED="1458528625037"/>
-<node TEXT="comma to end a recognized word, its beginning unmarked" ID="ID_280915605" CREATED="1458692648020" MODIFIED="1458692662448">
-<node TEXT="how nest" ID="ID_1558049979" CREATED="1458692667948" MODIFIED="1458692671602"/>
+<node TEXT="view" ID="ID_1689221207" CREATED="1459830201198" MODIFIED="1459830201789">
+<node TEXT="neighborhood projection-reductions" ID="ID_197972007" CREATED="1459830391962" MODIFIED="1459830401323">
+<font BOLD="true"/>
+<node TEXT="=" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_354849713" CREATED="1459919559869" MODIFIED="1459919561038">
+<node TEXT="= list node quals" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1994601237" CREATED="1459832260122" MODIFIED="1459919554896"/>
+<node TEXT="= examples : count parents; count number of words" ID="ID_1351174304" CREATED="1459371267469" MODIFIED="1459830422076">
+<node TEXT="=: defines the thing on its left with an instance" ID="ID_1388066266" CREATED="1459371326653" MODIFIED="1459371335402"/>
 </node>
+</node>
+<node TEXT="relation to _, if any" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_40329821" CREATED="1459832333219" MODIFIED="1459832386179">
+<node TEXT="e.g. &quot;to do&quot;" ID="ID_1033767359" CREATED="1459832342847" MODIFIED="1459832347419"/>
+</node>
+<node TEXT="count needed|non-obvious clarifications" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_78539225" CREATED="1457146668068" MODIFIED="1459919576971">
+<node TEXT="by default, and by default do not count the other kind" ID="ID_121290942" CREATED="1457146695460" MODIFIED="1457146705857"/>
+</node>
+<node TEXT="ups, downs, others" ID="ID_914033508" CREATED="1459832271784" MODIFIED="1459919573184"/>
+</node>
+<node TEXT="show every comprehension-necessary context" LOCALIZED_STYLE_REF="default" ID="ID_719759422" CREATED="1459716501471" MODIFIED="1459830315120">
+<font BOLD="true"/>
+<node TEXT="=" LOCALIZED_STYLE_REF="styles.topic" ID="ID_626202602" CREATED="1459830241965" MODIFIED="1459919509771">
+<node TEXT="or (_ : _|_|_)" ID="ID_134543010" CREATED="1459716516733" MODIFIED="1459716525058"/>
+<node TEXT="if x only makes sense in context y, and if I spend a lot of time reading the graph in node order, would like graph to be ordered such that y and y/x are listed before x" ID="ID_1290909346" CREATED="1459716528998" MODIFIED="1459716585699"/>
+</node>
+<node TEXT="= or at least indicate they exist" LOCALIZED_STYLE_REF="default" ID="ID_149563780" CREATED="1459830238473" MODIFIED="1459919522731"/>
+<node TEXT="unitary rels: if there&apos;s only one, always display it, not the rel it wraps. if multiple, use &quot;|&quot;" ID="ID_1297742619" CREATED="1459447925984" MODIFIED="1459447960799"/>
+<node TEXT="asterisk v.o usurpers{maybe, not}" ID="ID_672822445" CREATED="1457142401753" MODIFIED="1459833171298">
+<node TEXT="= symbols to always notify of if present" LOCALIZED_STYLE_REF="default" ID="ID_1149533571" CREATED="1457142336457" MODIFIED="1459833155362"/>
+<node TEXT="can&apos;t always show them, e.g. if the usurped was arrived to via a different context" ID="ID_1566270985" CREATED="1457142423826" MODIFIED="1457142448543"/>
+</node>
+</node>
+<node TEXT="simplif|redac" ID="ID_1333443741" CREATED="1459833259979" MODIFIED="1459833284203">
+<font BOLD="true"/>
+<node TEXT="some rels vanish entirely, others only vanish up to an indicated category" ID="ID_891886397" CREATED="1457067702900" MODIFIED="1459833267306">
+<node TEXT="=indicated in the public version" ID="ID_819272662" CREATED="1457067746064" MODIFIED="1457067777127"/>
+<node TEXT="example: could share career/ and redact people from it" ID="ID_916188826" CREATED="1457067846331" MODIFIED="1457067868275">
+<node TEXT="? unless it&apos;s their public persona which they would prefer to advertise" ID="ID_625128781" CREATED="1457067891731" MODIFIED="1457067905468"/>
+</node>
+</node>
+</node>
+<node TEXT="class v.o modifiers" ID="ID_1856912450" CREATED="1459831280471" MODIFIED="1459831284779">
+<node TEXT="modifier equivalence" ID="ID_1864127785" CREATED="1459829970592" MODIFIED="1459829974052">
+<node TEXT="equivalent in $ order in view" ID="ID_664035" CREATED="1459829980590" MODIFIED="1459829995195"/>
+</node>
+<node TEXT="some modifiers must come first, maube more than one at a time" ID="ID_1787868031" CREATED="1459831322768" MODIFIED="1459831346751">
+<node TEXT="if it has a not, lead*with the not" ID="ID_1221891060" CREATED="1456295343696" MODIFIED="1459831228218">
+<node TEXT="* with among maybe other leaders" LOCALIZED_STYLE_REF="default" ID="ID_756772732" CREATED="1456295376968" MODIFIED="1459831314015"/>
+</node>
+</node>
+</node>
+<node TEXT="disappear a layer" ID="ID_699284266" CREATED="1459830067901" MODIFIED="1459830070064">
+<node TEXT="e.g. do|maybe|yuck" ID="ID_1033488212" CREATED="1459830073711" MODIFIED="1459830097629"/>
+</node>
+<node TEXT="starred (rather than stated) contexts for words" ID="ID_1936694934" CREATED="1459718929300" MODIFIED="1459719021331">
+<node TEXT="rather than stating the context explicitly (e.g. in (dwt / view), dwt is the context for view), would like to be able to show just the term, and a star indicating it has a specifying context" ID="ID_1996793925" CREATED="1459718944492" MODIFIED="1459719008429"/>
+</node>
+</node>
+<node TEXT="graph compreh" ID="ID_1214441377" CREATED="1459830576117" MODIFIED="1459830592004">
+<node TEXT="symbols" ID="ID_1160846141" CREATED="1459836213668" MODIFIED="1459836214845">
+<node TEXT="^" ID="ID_1058629264" CREATED="1459830827480" MODIFIED="1459836217356">
+<node TEXT="^ localizes, away maybe even from own *contents" ID="ID_1083188085" CREATED="1458452843803" MODIFIED="1459830788453">
+<node TEXT="*things in down directions" ID="ID_1977346513" CREATED="1459830789320" MODIFIED="1459830793196"/>
+</node>
+</node>
+<node TEXT="here" ID="ID_338505416" CREATED="1459836196557" MODIFIED="1459836219001">
+<node TEXT="/here v. here/" ID="ID_203422085" CREATED="1457066632001" MODIFIED="1457066642662">
+<node TEXT="whether to include parent or only siblings" ID="ID_1616206724" CREATED="1457066646081" MODIFIED="1457066654054"/>
+</node>
+<node TEXT="/*here, */here, .." ID="ID_1148495832" CREATED="1457066656337" MODIFIED="1457066672414">
+<node TEXT="* in the bash shell sense" ID="ID_745683810" CREATED="1457066675601" MODIFIED="1457066700473"/>
+</node>
+</node>
+</node>
+<node TEXT="rel equation: nv = vn" LOCALIZED_STYLE_REF="default" ID="ID_486394844" CREATED="1456542562859" MODIFIED="1459838762273"/>
+<node TEXT="names for dirs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1501345385" CREATED="1459830600327" MODIFIED="1459837849471">
 <node TEXT="call them over and under" ID="ID_1842762026" CREATED="1458692695052" MODIFIED="1458692698147"/>
-<node TEXT="io loop" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_164379096" CREATED="1458973633187" MODIFIED="1458973638023">
+</node>
+<node TEXT="dub" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_471175637" CREATED="1459838039850" MODIFIED="1459838040912">
+<node TEXT="? up = why, down = how" LOCALIZED_STYLE_REF="default" ID="ID_1964923301" CREATED="1456739543344" MODIFIED="1459838018246"/>
+</node>
+</node>
+<node TEXT="rels about view" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_118538335" CREATED="1459919226186" MODIFIED="1459919290664">
+<node TEXT="\ view &amp; graph compreh" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_231996695" CREATED="1459831813234" MODIFIED="1459919294858"/>
+<node TEXT="= x-node programs as relationships" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_40325749" CREATED="1459831768500" MODIFIED="1459919254637"/>
+<node TEXT="e.g. view-usurpal relates one node (the usurper) to another" ID="ID_119247369" CREATED="1459831786431" MODIFIED="1459831802739"/>
+</node>
+<node TEXT="maybe" ID="ID_175528331" CREATED="1459830702124" MODIFIED="1459830703335">
+<font BOLD="true"/>
+<node TEXT="text" ID="ID_897930828" CREATED="1459836632211" MODIFIED="1459836640483">
+<font BOLD="true"/>
+<node TEXT="=? parse the user" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_854387601" CREATED="1459830687545" MODIFIED="1459836667202"/>
+<node TEXT="&apos; for language change" LOCALIZED_STYLE_REF="default" ID="ID_678249712" CREATED="1456521626814" MODIFIED="1457041144285">
+<node TEXT="faithful to spelling before it" ID="ID_705453091" CREATED="1456521651838" MODIFIED="1456521656643"/>
+</node>
+<node TEXT="a punct symbol to end a recognized word, its beginning unmarked" ID="ID_280915605" CREATED="1458692648020" MODIFIED="1459830626061">
+<node TEXT="one, I think" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1515103729" CREATED="1459830669745" MODIFIED="1459830673799"/>
+<node TEXT="how nest" ID="ID_1558049979" CREATED="1458692667948" MODIFIED="1458692671602"/>
+<node TEXT="could be ambiguous, multiple candidates" ID="ID_45871710" CREATED="1459830632876" MODIFIED="1459830660558"/>
+</node>
+<node TEXT="once characters become a word, they do not need to stay characters" LOCALIZED_STYLE_REF="default" ID="ID_1269830646" CREATED="1458172172579" MODIFIED="1459830865764"/>
+<node TEXT="special char pitfall" ID="ID_257528914" CREATED="1456700942566" MODIFIED="1456700948244">
+<node TEXT="-- (\&amp; == empty string) is to distinguish from longer number" ID="ID_513753675" CREATED="1456700949520" MODIFIED="1456700949520"/>
+<node TEXT="-- if special char followed by a non-digit, no \&amp; necessary" ID="ID_1152554231" CREATED="1456700949520" MODIFIED="1456700949520"/>
+</node>
+<node TEXT="character shapes" ID="ID_52226244" CREATED="1459838449094" MODIFIED="1459838455742">
+<font BOLD="true"/>
+<node TEXT="free bracket shape, ?the most visible" ID="ID_1209138303" CREATED="1456643251634" MODIFIED="1456643279394">
+<node TEXT="there are two more simple brackets! horizj reflect 7 and then vert-reflect that" LOCALIZED_STYLE_REF="default" ID="ID_79497188" CREATED="1456643184186" MODIFIED="1456643285710"/>
+</node>
+</node>
+<node TEXT="parse rels : user gives precedence as float" LOCALIZED_STYLE_REF="default" ID="ID_315109347" CREATED="1456542469397" MODIFIED="1459838730163">
+<node TEXT="parse vo.5 rels :0 user nv.5 gives vo.5 precedence as.5 float" ID="ID_1545995427" CREATED="1456542498395" MODIFIED="1456542714064"/>
+</node>
+</node>
+<node TEXT="io loop" LOCALIZED_STYLE_REF="default" ID="ID_164379096" CREATED="1458973633187" MODIFIED="1459830706731">
 <node TEXT="gives a briefer syntax for a few common requests" ID="ID_822747920" CREATED="1458973642139" MODIFIED="1458973658666"/>
 <node TEXT="takes a graph as input, produces one as output" ID="ID_1572467044" CREATED="1458973660777" MODIFIED="1458973670515"/>
 </node>
-<node TEXT="? what are cousins like" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_903677513" CREATED="1458979845505" MODIFIED="1458979851618"/>
-<node TEXT="view abstr =: count parents; count number of words" ID="ID_1351174304" CREATED="1459371267469" MODIFIED="1459371353550">
-<node TEXT="=: defines the thing on its left with an instance" ID="ID_1388066266" CREATED="1459371326653" MODIFIED="1459371335402"/>
+<node TEXT="free geometry" ID="ID_1533759929" CREATED="1459831599932" MODIFIED="1459831608683">
+<node TEXT="= drawing, &gt;text" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1099156793" CREATED="1459831612619" MODIFIED="1459831623640"/>
+<node TEXT="imagine the natural view-graph" LOCALIZED_STYLE_REF="default" ID="ID_955519434" CREATED="1457505149449" MODIFIED="1459831603120">
+<node TEXT="sometimes having multiple centers" ID="ID_264350616" CREATED="1459831635011" MODIFIED="1459831647392"/>
+<node TEXT="perhaps a tree, things you consider roughly equal interest forming concentric spheres, and rankings within some spheres" ID="ID_250231939" CREATED="1457505160225" MODIFIED="1457505266811"/>
+</node>
+</node>
+<node TEXT="needs example | premature mystery" ID="ID_1982869433" CREATED="1459831457736" MODIFIED="1459831493352">
+<font BOLD="true"/>
+<node TEXT="&quot;in [expr], [subexpr] {has only these equivs}&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1360142876" CREATED="1457585605486" MODIFIED="1459831469813">
+<node TEXT="&quot;has (only) a few|these equivalents&quot;" ID="ID_28503662" CREATED="1451797524699" MODIFIED="1451927744151"/>
+</node>
+</node>
+<node TEXT="plans(technical) for sharing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_651282709" CREATED="1459831860131" MODIFIED="1459831878648"/>
+<node TEXT="dub" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_295780326" CREATED="1459833205174" MODIFIED="1459833211602">
+<font BOLD="true"/>
+<node TEXT="lang change =? space change" ID="ID_1921798508" CREATED="1457141665417" MODIFIED="1457141698225">
+<node TEXT="to change the language one is speaking is to change (?nothing about the words one uses, just) the meaning of space between them" ID="ID_876968871" CREATED="1457141673256" MODIFIED="1457141694142"/>
+</node>
+<node TEXT="document = choice of places|work projects to make" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_323675089" CREATED="1456113751241" MODIFIED="1459838964387"/>
+</node>
+<node TEXT="cryptic" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_51622295" CREATED="1459836740784" MODIFIED="1459836747357">
+<node TEXT="&quot;Program in out&quot; :: in -&gt; Graph -&gt; out" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1036404281" CREATED="1456990455066" MODIFIED="1456990561387"/>
+</node>
+</node>
+<node TEXT="dwt / motiv" ID="ID_1050143863" CREATED="1457385171239" MODIFIED="1459830916699">
+<font BOLD="true"/>
+<node TEXT="&quot;everything is crumbling&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1186185684" CREATED="1457402756626" MODIFIED="1459836096429">
+<node TEXT="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html" ID="ID_1330692797" CREATED="1457402753643" MODIFIED="1457402753643" LINK="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html"/>
+</node>
+<node TEXT="professions &amp; lang inj" LOCALIZED_STYLE_REF="default" ID="ID_608347817" CREATED="1457067606154" MODIFIED="1459836092439">
+<node TEXT="early musicians, doctors may have injured their professions by $ for status making their vocabulary difficult" ID="ID_70294576" CREATED="1457067548922" MODIFIED="1459836072960"/>
+</node>
+</node>
+<node TEXT="yum(past tense) &amp; maybe not" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1275194400" CREATED="1459966299354" MODIFIED="1459966372376">
+<node TEXT="? direction for $" ID="ID_1043716344" CREATED="1459966338282" MODIFIED="1459966343336">
+<node TEXT="-$: nice symbol for reverse $" ID="ID_917868854" CREATED="1459966196578" MODIFIED="1459966221959">
+<node TEXT="for general users, maybe &lt;. and &gt;." ID="ID_181978341" CREATED="1459966262073" MODIFIED="1459966271279"/>
+</node>
+<node TEXT="if only one $, need not declare direction" ID="ID_1408154638" CREATED="1459966316914" MODIFIED="1459966322840"/>
+</node>
+</node>
+<node TEXT="mine / fonts" ID="ID_998901412" CREATED="1459967231538" MODIFIED="1459967261891">
+<node TEXT="has gold become in-branch? vs. green, about branch&apos;s context?" ID="ID_1462444547" CREATED="1459967179562" MODIFIED="1459967214456"/>
+</node>
+</node>
+<node TEXT="04 10" ID="ID_1793357034" CREATED="1460332428428" MODIFIED="1460332434929">
+<node TEXT="bad: buried tags" ID="ID_1105353012" CREATED="1460332435537" MODIFIED="1460332445953">
+<node TEXT="tags should be top, so that can then collect based on them without much( of the same(to the internal to the node) kind of) thinking" ID="ID_886169602" CREATED="1460332449387" MODIFIED="1460332486994"/>
+<node TEXT="bury the secondary ones" ID="ID_1099714807" CREATED="1460332496684" MODIFIED="1460332508552"/>
+</node>
+<node TEXT="simple?cogvj sort" ID="ID_1552256691" CREATED="1460332529694" MODIFIED="1460332546531">
+<node TEXT="trance, video game" ID="ID_1452074303" CREATED="1460332552677" MODIFIED="1460332555207"/>
+</node>
 </node>
 </node>
 <node TEXT="elliot secrets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_352262750" CREATED="1457129075220" MODIFIED="1457141633694">
@@ -17329,7 +17488,7 @@
 <node TEXT="MonadRec" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_44084636" CREATED="1457134348111" MODIFIED="1457134352362"/>
 <node TEXT="haskell reddit / jobs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_37085928" CREATED="1457134662399" MODIFIED="1457134666053"/>
 </node>
-<node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1456176534965">
+<node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1459833006645">
 <node TEXT="if they want credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1455426419390"/>
 <node TEXT="separate beauty and truth scores" ID="ID_99309712" CREATED="1455433942119" MODIFIED="1455433947350"/>
 <node TEXT="? are responses to explanations by wiki editors (of why they redacted another&apos;s edits) kept private" ID="ID_1945956091" CREATED="1453526487579" MODIFIED="1455413795849"/>
@@ -17348,12 +17507,60 @@
 <node TEXT="people have no control over or knowledge of who they check. they mark assertions as verified, unknown, or wrong." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_544135071" CREATED="1455426735991" MODIFIED="1455426771154"/>
 </node>
 </node>
-<node TEXT="smhug" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_586941646" CREATED="1458100290341" MODIFIED="1458100296449">
+<node TEXT="fun" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_586941646" CREATED="1458100290341" MODIFIED="1459833041760">
 <node TEXT="merkele tree" ID="ID_840642996" CREATED="1458100291972" MODIFIED="1458100294772"/>
 <node TEXT="flatter (is program)" ID="ID_1262874102" CREATED="1458100990261" MODIFIED="1458100995244"/>
 <node TEXT="knowing git&apos;s data model is helpful" ID="ID_1775686910" CREATED="1458102268982" MODIFIED="1458102275582"/>
 <node TEXT="ghcid" ID="ID_1925526732" CREATED="1458104487207" MODIFIED="1458104488565"/>
 <node TEXT="nix" ID="ID_570560969" CREATED="1458104835752" MODIFIED="1458104836964"/>
+<node TEXT="(map . map) f $ [[x]] = [[f x]]" ID="ID_921359492" CREATED="1459477373568" MODIFIED="1459480012618"/>
+<node TEXT="chatter : library for nlp" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1456976596" CREATED="1459481059235" MODIFIED="1459481609463">
+<node TEXT="chunking: parses a sentence" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_488640618" CREATED="1459481610486" MODIFIED="1459481615716"/>
+<node TEXT="&quot;gives a parse tree if you want&quot;" ID="ID_11367655" CREATED="1459481698175" MODIFIED="1459481706330"/>
+</node>
+<node TEXT="polymagnets" ID="ID_1201423006" CREATED="1459488307345" MODIFIED="1459488309386"/>
+<node TEXT="&quot;write solid code&quot;" ID="ID_946711127" CREATED="1459391743398" MODIFIED="1459391838220"/>
+<node TEXT="&quot;normal reduction&quot;" ID="ID_983582748" CREATED="1459392942486" MODIFIED="1459392945714"/>
+<node TEXT="&quot;hygienic macros&quot;" ID="ID_253804724" CREATED="1459393662605" MODIFIED="1459832993972"/>
+<node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="default" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1457043556788">
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1449592763" CREATED="1452830845091" MODIFIED="1452830847544"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      caesar, monitor ops
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="ben: there&apos;s an equiv among types, programs, and a third thing" ID="ID_1397878932" CREATED="1452830795345" MODIFIED="1452830811736"/>
+<node TEXT="gary: something similar" ID="ID_513764467" CREATED="1452830813538" MODIFIED="1452830818525">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1397878932" STARTINCLINATION="502;0;" ENDINCLINATION="502;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="gabriel gonzales against type classes" ID="ID_1483244489" CREATED="1452835626122" MODIFIED="1452835632678">
+<node TEXT="robbie recs" ID="ID_1981841653" CREATED="1452835634529" MODIFIED="1452835637068"/>
+</node>
+</node>
+<node TEXT="phil wadler, propositions as types" ID="ID_1609137972" CREATED="1456428722206" MODIFIED="1456428728227">
+<node TEXT="http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-types" ID="ID_167666096" CREATED="1456428728616" MODIFIED="1456428728616" LINK="http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-types"/>
+<node TEXT="slides on meetup page" ID="ID_459618198" CREATED="1456428765142" MODIFIED="1456428767428">
+<node TEXT="http://www.meetup.com/Papers-We-Love-LA/events/228619562/?comment_table_id=461733115&amp;comment_table_name=event_comment" ID="ID_1950961044" CREATED="1456428767829" MODIFIED="1456428767829" LINK="http://www.meetup.com/Papers-We-Love-LA/events/228619562/?comment_table_id=461733115&amp;comment_table_name=event_comment"/>
+</node>
+</node>
+<node TEXT="to study" LOCALIZED_STYLE_REF="default" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1457043537434">
+<node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
+<node TEXT="semantic net" ID="ID_1072407917" CREATED="1443671949382" MODIFIED="1443671951285"/>
+<node TEXT="&quot;finely tagless&quot;" ID="ID_123617266" CREATED="1443756430157" MODIFIED="1445763971037">
+<node TEXT="phil freeman" ID="ID_471617539" CREATED="1443751687834" MODIFIED="1445763966478"/>
+</node>
+<node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683">
+<node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
+</node>
+</node>
 </node>
 <node TEXT="alien ?- haskell" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1455704568" CREATED="1457340509758" MODIFIED="1457340796784">
 <node TEXT="[Haskell-cafe] GADTs and Exponentiated Functors" ID="ID_361809672" CREATED="1457340520318" MODIFIED="1457340521063">
@@ -17396,6 +17603,7 @@
 <node TEXT="distribution vs. $ variate = value rendered from distribution" ID="ID_1976109774" CREATED="1459226077580" MODIFIED="1459226091971"/>
 </node>
 </node>
+<node TEXT="monads : read &quot;x $ pure y&quot; as &quot;y is pure, x impure&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1215941316" CREATED="1457142725953" MODIFIED="1459833110355"/>
 </node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">
 <font BOLD="true"/>
@@ -17833,48 +18041,14 @@
 </node>
 <node TEXT="if in multiple meter-wavelengths, ask for a schedule of the soonest major syncs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1128387577" CREATED="1458464715798" MODIFIED="1458464768915"/>
 <node TEXT="rotate: works for values &gt; 1" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1020286843" CREATED="1459111484263" MODIFIED="1459111495001"/>
+<node TEXT="hihat alone, then double its speed, before other drums" ID="ID_1530235015" CREATED="1460008191643" MODIFIED="1460008200033"/>
+<node TEXT="irregular sampling of a random pattern" ID="ID_661632381" CREATED="1460019520870" MODIFIED="1460019527396">
+<node TEXT="d1 $ sound &quot;arpy*16&quot; # speed (discretise 4 $ scale 1 2 rand)&#xa;&#xa;That example samples four random numbers per cycle&#xa;&#xa;or if you don&apos;t want a regular sample, you can use &apos;struct&apos; where you&#xa;provide a discrete structure as a pattern:&#xa;&#xa;d1 $ sound &quot;arpy*16&quot; # speed (struct &quot;x x*2 [x ~ x]&quot; $ scale 1 2 rand)" ID="ID_1255829573" CREATED="1460019529374" MODIFIED="1460019530286"/>
 </node>
-<node TEXT="fun" POSITION="right" ID="ID_1447679053" CREATED="1457043508252" MODIFIED="1457043509557">
-<font BOLD="true"/>
-<node TEXT="2016 01 13, smugh" LOCALIZED_STYLE_REF="default" ID="ID_137071373" CREATED="1452830789791" MODIFIED="1457043556788">
-<node LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1449592763" CREATED="1452830845091" MODIFIED="1452830847544"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      caesar, monitor ops
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="an altv to discretise" ID="ID_31651475" CREATED="1460053151866" MODIFIED="1460053170866">
+<node TEXT="let crand x = when (test x)&#xa;      where test x c = (timeToRand $ fromIntegral c) &lt; x" ID="ID_1260450031" CREATED="1460053173107" MODIFIED="1460053175534"/>
 </node>
-<node TEXT="ben: there&apos;s an equiv among types, programs, and a third thing" ID="ID_1397878932" CREATED="1452830795345" MODIFIED="1452830811736"/>
-<node TEXT="gary: something similar" ID="ID_513764467" CREATED="1452830813538" MODIFIED="1452830818525">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1397878932" STARTINCLINATION="502;0;" ENDINCLINATION="502;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-<node TEXT="gabriel gonzales against type classes" ID="ID_1483244489" CREATED="1452835626122" MODIFIED="1452835632678">
-<node TEXT="robbie recs" ID="ID_1981841653" CREATED="1452835634529" MODIFIED="1452835637068"/>
-</node>
-</node>
-<node TEXT="phil wadler, propositions as types" ID="ID_1609137972" CREATED="1456428722206" MODIFIED="1456428728227">
-<node TEXT="http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-types" ID="ID_167666096" CREATED="1456428728616" MODIFIED="1456428728616" LINK="http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-types"/>
-<node TEXT="slides on meetup page" ID="ID_459618198" CREATED="1456428765142" MODIFIED="1456428767428">
-<node TEXT="http://www.meetup.com/Papers-We-Love-LA/events/228619562/?comment_table_id=461733115&amp;comment_table_name=event_comment" ID="ID_1950961044" CREATED="1456428767829" MODIFIED="1456428767829" LINK="http://www.meetup.com/Papers-We-Love-LA/events/228619562/?comment_table_id=461733115&amp;comment_table_name=event_comment"/>
-</node>
-</node>
-<node TEXT="to study" LOCALIZED_STYLE_REF="default" ID="ID_780979980" CREATED="1443671955738" MODIFIED="1457043537434">
-<node TEXT="metaobject protocols" ID="ID_108425047" CREATED="1443667010990" MODIFIED="1443667015386"/>
-<node TEXT="semantic net" ID="ID_1072407917" CREATED="1443671949382" MODIFIED="1443671951285"/>
-<node TEXT="&quot;finely tagless&quot;" ID="ID_123617266" CREATED="1443756430157" MODIFIED="1445763971037">
-<node TEXT="phil freeman" ID="ID_471617539" CREATED="1443751687834" MODIFIED="1445763966478"/>
-</node>
-<node TEXT="&quot;higher-order abstract syntax&quot;" ID="ID_1489164159" CREATED="1443756761363" MODIFIED="1443756766683">
-<node TEXT="phil freeman" ID="ID_1846775911" CREATED="1443751687834" MODIFIED="1445763966478"/>
-</node>
-</node>
+<node TEXT="Tidal.Pattern = schedule" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_44108556" CREATED="1460095931399" MODIFIED="1460095944290"/>
 </node>
 <node TEXT="al, 2015 11 26-" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_465109363" CREATED="1448615128357" MODIFIED="1457043525632">
 <node TEXT="my .mm tree" ID="ID_425480886" CREATED="1425451217686" MODIFIED="1447544885284">

@@ -525,5 +525,11 @@
 <node TEXT="don&apos;t go to the advanced stuff without (using?) the earlier" ID="ID_1457501386" CREATED="1456112186583" MODIFIED="1456112194048"/>
 </node>
 </node>
+<node TEXT="dates" POSITION="right" ID="ID_1676935909" CREATED="1459374454205" MODIFIED="1459374455101">
+<font BOLD="true"/>
+<node TEXT="2016 03 30" ID="ID_27330216" CREATED="1459374456518" MODIFIED="1459374460331">
+<node TEXT="&quot;I&apos;m not saying it&apos;s wrong, just that it involves|requires a scary faith.&quot;" ID="ID_1478228165" CREATED="1459267486256" MODIFIED="1459374421648"/>
+</node>
+</node>
 </node>
 </map>

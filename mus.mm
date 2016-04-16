@@ -15070,6 +15070,60 @@
 <node TEXT="colon explains that the ()-outer applies to the _" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1356471751" CREATED="1459371421373" MODIFIED="1459371451572"/>
 </node>
 </node>
+<node TEXT="4" ID="ID_864380699" CREATED="1459829652062" MODIFIED="1459829655630">
+<node TEXT="music of review" ID="ID_1368225715" CREATED="1459829646380" MODIFIED="1459829650916"/>
+<node TEXT="where* irrat&apos;l, can still talk about|around it (to another)" ID="ID_1823098343" CREATED="1459829884314" MODIFIED="1459829928178">
+<node TEXT="*regarding a topic of which one is" ID="ID_1723750120" CREATED="1459829894205" MODIFIED="1459829899769"/>
+</node>
+<node TEXT="rational beeteljuice, skew guitar neck, for ease|convenience" ID="ID_764867502" CREATED="1457248562373" MODIFIED="1459832009250">
+<node TEXT="anthropic principle" ID="ID_1067291596" CREATED="1457248577741" MODIFIED="1457248580818"/>
+</node>
+</node>
+<node TEXT="6" ID="ID_1426794222" CREATED="1459965773193" MODIFIED="1459969922027">
+<node TEXT="ex-symbol energy" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_104578275" CREATED="1459967027265" MODIFIED="1459967171324">
+<node TEXT="&quot;does not&quot; is computationally expensive : must introduce the entire concept of doing, for something ?merely not" ID="ID_89918405" CREATED="1459967046538" MODIFIED="1459967089205"/>
+</node>
+<node TEXT="?/ energy geometry, aimless" ID="ID_279399540" CREATED="1459965784461" MODIFIED="1459967042680">
+<node TEXT="?/ means this categ maybe change" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_359536344" CREATED="1459965826353" MODIFIED="1459965836180">
+<node TEXT="lang decision + this example : recorded in dwt/" ID="ID_1135943887" CREATED="1459965930721" MODIFIED="1459965959130">
+<node TEXT="toward self-aware, common knowledge (I know you know I know, ..)" ID="ID_1657270339" CREATED="1459965959733" MODIFIED="1459965983191"/>
+</node>
+</node>
+<node TEXT="checkmark : minimal spiral" ID="ID_1179943838" CREATED="1459965031055" MODIFIED="1459965037531">
+<node TEXT="perhaps useful for testing spending on a computational frontier" ID="ID_819244276" CREATED="1459965076482" MODIFIED="1459965092916"/>
+</node>
+<node TEXT="over halfway in base three gives 2, the highest avail dev" ID="ID_826810793" CREATED="1459965167057" MODIFIED="1459965180600">
+<node TEXT="if measure is linear" ID="ID_1280278115" CREATED="1459965184913" MODIFIED="1459965194071"/>
+</node>
+</node>
+<node TEXT="drama" ID="ID_1679729651" CREATED="1459965774350" MODIFIED="1459965774943">
+<node TEXT="fighting for being, expression" ID="ID_257312331" CREATED="1459965763162" MODIFIED="1459965768511"/>
+</node>
+<node TEXT="programmable keyboards" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_171420973" CREATED="1459640311005" MODIFIED="1459649309794">
+<node TEXT="\ gear for tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1320359753" CREATED="1460064526510" MODIFIED="1460064531198"/>
+<node TEXT="8 x 18 keys, linux, $100" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1032620371" CREATED="1459640469106" MODIFIED="1459640477701">
+<node TEXT="https://www.google.com/shopping/product/12211569510462914858?q=programmable+keyboard&amp;biw=683&amp;bih=292&amp;prds=paur:ClkAsKraXzeekECVfGxsMyuMvYx6DxwDfD8y4xwa7aj7ZgVT0oc652Y-Mc7Tm6gU-co6D44vDFd-CX9MdJsAZs8KIGmbUMD_fPbK2ZZX3Xe_S50sROpeilxtqRIZAFPVH71NeL5Dlux-l6em3Xmb4H5FquokuA&amp;sa=X&amp;ved=0ahUKEwjXlL3bjvHLAhXHeCYKHSsGAO8Q8wIIngcwCg" ID="ID_1261528548" CREATED="1459640482878" MODIFIED="1459640482878" LINK="https://www.google.com/shopping/product/12211569510462914858?q=programmable+keyboard&amp;biw=683&amp;bih=292&amp;prds=paur:ClkAsKraXzeekECVfGxsMyuMvYx6DxwDfD8y4xwa7aj7ZgVT0oc652Y-Mc7Tm6gU-co6D44vDFd-CX9MdJsAZs8KIGmbUMD_fPbK2ZZX3Xe_S50sROpeilxtqRIZAFPVH71NeL5Dlux-l6em3Xmb4H5FquokuA&amp;sa=X&amp;ved=0ahUKEwjXlL3bjvHLAhXHeCYKHSsGAO8Q8wIIngcwCg"/>
+</node>
+<node TEXT="8 x 10 key, linux compatible, $230" ID="ID_1535932791" CREATED="1459640288778" MODIFIED="1459640506016">
+<node TEXT="http://xkeys.com/xkeys/xk80.php" ID="ID_1764200708" CREATED="1459640298366" MODIFIED="1459640298366" LINK="http://xkeys.com/xkeys/xk80.php"/>
+</node>
+</node>
+<node TEXT="7" ID="ID_1635600862" CREATED="1460095569687" MODIFIED="1460095570253"/>
+<node TEXT="don&apos;t enforce space that breaks things" ID="ID_1531067652" CREATED="1460095553406" MODIFIED="1460095565806">
+<node TEXT="don&apos;t draw the newline where it would break a word" ID="ID_477647072" CREATED="1460095543758" MODIFIED="1460095553174"/>
+</node>
+<node TEXT="10" OBJECT="java.lang.Long|10" ID="ID_1951024674" CREATED="1460353695566" MODIFIED="1460353697977"/>
+<node TEXT="parameters people recog" ID="ID_1636973909" CREATED="1460353687345" MODIFIED="1460353700248">
+<font BOLD="true"/>
+<node TEXT="speed up, down" ID="ID_1081444207" CREATED="1460353704969" MODIFIED="1460353711737"/>
+<node TEXT="energy change" ID="ID_1613408111" CREATED="1460353711960" MODIFIED="1460353714128">
+<node TEXT="energy = a real function from R^n" ID="ID_1570003173" CREATED="1460353714862" MODIFIED="1460353757318"/>
+</node>
+<node TEXT="stop" ID="ID_753235923" CREATED="1460353778203" MODIFIED="1460353780989"/>
+<node TEXT="pound" ID="ID_346726178" CREATED="1460353786061" MODIFIED="1460353789517"/>
+<node TEXT="electric|acoustic" ID="ID_972940249" CREATED="1460353794895" MODIFIED="1460353853881"/>
+</node>
+</node>
 </node>
 </node>
 </map>

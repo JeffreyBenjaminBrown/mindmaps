@@ -3127,7 +3127,17 @@
 <node TEXT="what is time if" ID="ID_197200024" CREATED="1458707794647" MODIFIED="1458707797846"/>
 </node>
 </node>
+<node TEXT="s" ID="ID_1453614198" CREATED="1459966129217" MODIFIED="1459966143839">
+<node TEXT="coop" ID="ID_1033318883" CREATED="1459966140753" MODIFIED="1459966141591">
+<node TEXT="angry with tongue out: &quot;this looks crazy, and follow carefully, it&apos;s a tricky proof!&quot;" ID="ID_1372993293" CREATED="1459966067065" MODIFIED="1459966089355"/>
 </node>
+</node>
+</node>
+<node TEXT="! coop|_ sort $ group.mm" POSITION="right" ID="ID_1572842211" CREATED="1459966181609" MODIFIED="1459966389181">
+<node TEXT="coop &gt; group" ID="ID_9827987" CREATED="1459965369993" MODIFIED="1459965375927"/>
+<node TEXT="group is a scary promise to the reader" ID="ID_676774637" CREATED="1459965386993" MODIFIED="1459969941064"/>
+</node>
+<node TEXT="? aimless in group/ especially bad" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1006719244" CREATED="1459965692665" MODIFIED="1459965711083"/>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>
 <node TEXT="(nr) = not reviewed" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1492952414" CREATED="1435019532345" MODIFIED="1435019823176"/>
 </node>

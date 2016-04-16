@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" background="#fff9d3" zoom="1.245">
+<node TEXT="git / fresh" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439619145396"><hook NAME="MapStyle" background="#ebe7cc" zoom="1.029">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -7709,6 +7709,9 @@
 </node>
 </node>
 <node TEXT="0r" POSITION="right" ID="ID_916731144" CREATED="1456196155913" MODIFIED="1456196158134">
+<node TEXT="2016" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1286154835" CREATED="1459965275249" MODIFIED="1459965282102"/>
+<node TEXT="2-3" ID="ID_1314336993" CREATED="1459965261153" MODIFIED="1459965271301">
+<font BOLD="true"/>
 <node TEXT="2016 02 22" ID="ID_837948391" CREATED="1456196158497" MODIFIED="1456196163990">
 <node TEXT="to see what another delays is to see how their infinity differs from mine" ID="ID_1261687071" CREATED="1456196192513" MODIFIED="1456196203358"/>
 <node TEXT="retreat" ID="ID_1748118791" CREATED="1456196337313" MODIFIED="1456196338582">
@@ -8158,8 +8161,33 @@
 </node>
 </node>
 </node>
-<node TEXT="^ is deletable" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1693147358" CREATED="1458452817275" MODIFIED="1458452884076">
-<node TEXT="for keyboard input errors" ID="ID_608642341" CREATED="1458452858723" MODIFIED="1458452866801"/>
+<node TEXT="4" ID="ID_1948272115" CREATED="1459965251297" MODIFIED="1459965259138">
+<font BOLD="true"/>
+<node TEXT="1" ID="ID_1043717195" CREATED="1459965255852" MODIFIED="1459965258423">
+<node TEXT="if your legs don&apos;t bear (?exactly ?at least) their weight, and the chair has one stem, you bend it" ID="ID_1693006931" CREATED="1459965525713" MODIFIED="1459965570712"/>
+</node>
+<node TEXT="7" ID="ID_1922301859" CREATED="1460012001464" MODIFIED="1460012004709">
+<node TEXT="rebel heart" ID="ID_1021449970" CREATED="1460012005452" MODIFIED="1460012007300">
+<node TEXT="--madonna, &quot;interview fo nrj ... 2015&quot;, youtube" ID="ID_1371218418" CREATED="1460012009432" MODIFIED="1460012029789"/>
+</node>
+</node>
+<node TEXT="12" OBJECT="java.lang.Long|12" ID="ID_454415246" CREATED="1460507268677" MODIFIED="1460507270001">
+<node TEXT="pride|ambit =&gt; sloth" ID="ID_1528160819" CREATED="1460507271300" MODIFIED="1460507283977">
+<node TEXT="Once, I taught 200 people at once. Private tutoring feels like a waste of labor, relative to that." ID="ID_1802603063" CREATED="1460507280743" MODIFIED="1460507320363"/>
+</node>
+<node TEXT="&quot;iTunes was like &apos;Prove that you&apos;re me.&apos;&quot;" ID="ID_1979742089" CREATED="1460509157043" MODIFIED="1460509166246"/>
+<node TEXT="** privacy &lt;= to appear sane, share widely(across one&apos;s ideas), and investigate *j" ID="ID_1275821396" CREATED="1460518562957" MODIFIED="1460518625098">
+<node TEXT="*j = diversely across topics, from positions including one of total ignorance" ID="ID_1796748191" CREATED="1460518600977" MODIFIED="1460518619894"/>
+</node>
+<node TEXT="every [phase] prove to yourself anew that _ is not a lot of work" ID="ID_1195520177" CREATED="1460522211853" MODIFIED="1460522228828"/>
+</node>
+</node>
+<node TEXT="transfers from private" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1579739001" CREATED="1459374140310" MODIFIED="1459374151683">
+<node TEXT="? am I ignorant of most announcement strategies" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_723282651" CREATED="1459371057981" MODIFIED="1459371065155">
+<node TEXT="photos" ID="ID_217378250" CREATED="1459371071901" MODIFIED="1459371073290"/>
+<node TEXT="thank-yous" ID="ID_928895357" CREATED="1459371073501" MODIFIED="1459371075762"/>
+</node>
+</node>
 </node>
 <node TEXT="info / want these categs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1777476810" CREATED="1457584939774" MODIFIED="1457584970673">
 <node TEXT="observe(v)" ID="ID_319257611" CREATED="1457584943606" MODIFIED="1457584963059">
