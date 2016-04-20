@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.209">
+<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.099">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -6018,6 +6018,77 @@
 </node>
 <node TEXT="installs" POSITION="right" ID="ID_1352924132" CREATED="1427834542168" MODIFIED="1460324226769">
 <font BOLD="true"/>
+<node TEXT=".! reverse the dates for search" ID="ID_1253158454" CREATED="1460873338040" MODIFIED="1460873364223"/>
+<node TEXT="on kubuntu 15.10" ID="ID_31691632" CREATED="1460792776268" MODIFIED="1460792780520">
+<node TEXT="2016 04 15" ID="ID_858993062" CREATED="1460852658806" MODIFIED="1460873536892"/>
+<node TEXT="! tidal started then, ended maybe now" ID="ID_1008892142" CREATED="1460876313681" MODIFIED="1460877275464">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1369692209" STARTINCLINATION="182;0;" ENDINCLINATION="182;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="! get asound (c library)" ID="ID_1218771398" CREATED="1460878964490" MODIFIED="1460878992219">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1369692209" STARTINCLINATION="219;0;" ENDINCLINATION="219;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="this error is buried in the middle of tidal/jbb-logs/3.txt" ID="ID_177465693" CREATED="1460878995026" MODIFIED="1460879013161"/>
+<node TEXT="&quot;setup-Simple-Cabal-1.22.1.1-x86_64-linux-ghc-7.8.4: Missing dependency on a&#xa;foreign library:&#xa;* Missing C library: asound&#xa;This problem can usually be solved by installing the system package that&#xa;provides this library (you may need the &quot;-dev&quot; version). If the library is&#xa;already installed but in a non-standard location then you can use the flags&#xa;--extra-include-dirs= and --extra-lib-dirs= to specify where it is.&quot;" ID="ID_1187635196" CREATED="1460878978506" MODIFIED="1460878983043"/>
+</node>
+<node TEXT="disable frequency scaling" ID="ID_1805169205" CREATED="1460875090551" MODIFIED="1460876630868">
+<node TEXT="_ ardour suggested it" ID="ID_1814891472" CREATED="1460875125567" MODIFIED="1460876181256">
+<node TEXT="!!! WARNING !!! - Your system seems to use frequency scaling.&#xa;This can have a serious impact on audio latency.&#xa;For best results turn it off, e.g. by choosing the &apos;performance&apos; governor." ID="ID_1299322082" CREATED="1460875103855" MODIFIED="1460875104992"/>
+</node>
+<node TEXT=". advice I followed" ID="ID_41037007" CREATED="1460876193127" MODIFIED="1460876217284">
+<node TEXT="http://askubuntu.com/questions/523640/how-i-can-disable-cpu-frequency-scaling-and-set-the-system-to-performance" ID="ID_1972485933" CREATED="1460876196519" MODIFIED="1460876197335"/>
+</node>
+<node TEXT="sudo apt install cpufrequtils" ID="ID_91683848" CREATED="1460875889691" MODIFIED="1460875895154"/>
+<node TEXT="make file &quot;/etc/default/cpufrequtils&quot;, with this single line" ID="ID_1753832529" CREATED="1454876645990" MODIFIED="1454876826849">
+<node TEXT="GOVERNOR=&quot;performance&quot;" ID="ID_673985214" CREATED="1454876680873" MODIFIED="1454876684552"/>
+</node>
+<node TEXT="sudo update-rc.d ondemand disable" LOCALIZED_STYLE_REF="default" ID="ID_89872998" CREATED="1454876821532" MODIFIED="1454877303769"/>
+<node TEXT="cpufreq-info" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1198551713" CREATED="1454876930566" MODIFIED="1454876932961">
+<node TEXT="use this to check settings" ID="ID_572571845" CREATED="1454876933631" MODIFIED="1454876938060"/>
+</node>
+</node>
+<node TEXT="ardour" ID="ID_914043028" CREATED="1460874711152" MODIFIED="1460874712629">
+<node TEXT="signed in, downloaded the installer, ran it" ID="ID_1146604514" CREATED="1460874713344" MODIFIED="1460874722168"/>
+<node TEXT="granted permissions as it asked for them" ID="ID_799615943" CREATED="1460874725833" MODIFIED="1460874733740"/>
+<node TEXT="it created realtime priority" ID="ID_278695079" CREATED="1460874735513" MODIFIED="1460874743990"/>
+</node>
+<node TEXT="? tidal" ID="ID_1369692209" CREATED="1460874793090" MODIFIED="1460874798215">
+<node TEXT="! it needed ~/Tidal not to exist yet" ID="ID_1259709436" CREATED="1460877236145" MODIFIED="1460877245744"/>
+<node TEXT="I ran the install script" ID="ID_1239718215" CREATED="1460874799290" MODIFIED="1460875225903"/>
+</node>
+<node TEXT="stack (haskell)" ID="ID_129746048" CREATED="1460873628235" MODIFIED="1460873631427">
+<node TEXT=". recent = top" ID="ID_453839522" CREATED="1460876093918" MODIFIED="1460876099045"/>
+<node TEXT="sudo apt-get update &amp;&amp; sudo apt-get install stack -y" ID="ID_984407797" CREATED="1460873705516" MODIFIED="1460873706690"/>
+<node TEXT="echo &apos;deb http://download.fpcomplete.com/ubuntu wily main&apos;|sudo tee /etc/apt/sources.list.d/fpco.list" ID="ID_30956921" CREATED="1460873674196" MODIFIED="1460873675025"/>
+<node TEXT="sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 575159689BEFB442" ID="ID_1175637289" CREATED="1460873635436" MODIFIED="1460873636987"/>
+</node>
+<node TEXT="skype" ID="ID_1851117609" CREATED="1460855961897" MODIFIED="1460855962775">
+<node TEXT="from Skype.com, downloaded an installer for Precise Pangolin" ID="ID_1130996054" CREATED="1460855963742" MODIFIED="1460855979360"/>
+</node>
+<node TEXT="git" ID="ID_806178793" CREATED="1460852669606" MODIFIED="1460852670414">
+<node TEXT="apt install" ID="ID_1852152992" CREATED="1460359900716" MODIFIED="1460359903554"/>
+</node>
+<node TEXT="emacs" ID="ID_1288708664" CREATED="1460824079728" MODIFIED="1460824082888">
+<node TEXT="apt install" ID="ID_1061635077" CREATED="1460359900716" MODIFIED="1460359903554"/>
+</node>
+<node TEXT="subversion" ID="ID_1767920825" CREATED="1460359897836" MODIFIED="1460359900290">
+<node TEXT="apt install" ID="ID_805098094" CREATED="1460359900716" MODIFIED="1460359903554"/>
+</node>
+<node TEXT="cryptkeeper" LOCALIZED_STYLE_REF="default" ID="ID_1790046290" CREATED="1460324483325" MODIFIED="1460873395607">
+<node TEXT="apt install" ID="ID_1885792609" CREATED="1460324486332" MODIFIED="1460324571101"/>
+<node TEXT="installed, runs, claims to import encrypted folders, but I can&apos;t find them" ID="ID_626002047" CREATED="1460793311107" MODIFIED="1460793343336"/>
+</node>
+<node TEXT="freeplane" LOCALIZED_STYLE_REF="default" ID="ID_1633938457" CREATED="1460324340899" MODIFIED="1460324877509">
+<node TEXT="! shortcuts are configured here" ID="ID_330659545" CREATED="1461113372534" MODIFIED="1461113393508">
+<node TEXT="/home/jeff/.config/freeplane/1.3.x" ID="ID_239578140" CREATED="1461113387678" MODIFIED="1461113388470"/>
+</node>
+<node TEXT="copy stuff to ~/apps" ID="ID_1859645287" CREATED="1460324372044" MODIFIED="1460324379692"/>
+<node TEXT="make some shortcuts, there and in /usr/local/bin" LOCALIZED_STYLE_REF="default" ID="ID_544459659" CREATED="1460324379867" MODIFIED="1461112461014"/>
+</node>
+<node TEXT="^^ NOT HERE ^^, insert at top" ID="ID_436137853" CREATED="1460873414561" MODIFIED="1460873423063"/>
+</node>
+<node TEXT="on lubuntu 15.10" ID="ID_334718412" CREATED="1460324330635" MODIFIED="1460324334196">
+<node TEXT="content deleted" ID="ID_1110459584" CREATED="1460873502010" MODIFIED="1460873523083"/>
+<node TEXT=". for a few days prior to 2016 04 15" ID="ID_576626337" CREATED="1460852633119" MODIFIED="1460852655463"/>
+</node>
 <node TEXT="on kubuntu 14.04" ID="ID_1684513691" CREATED="1460324227931" MODIFIED="1460324235436">
 <font BOLD="true"/>
 <node TEXT=".serial" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1435348936" CREATED="1427908544747" MODIFIED="1427908546724"/>
@@ -6244,14 +6315,14 @@
 <node TEXT="sudo apt-get install apt-show-versions" ID="ID_1635915303" CREATED="1438719401266" MODIFIED="1438719405177" LINK="mailto:jeff@jeffLenovUbu"/>
 <node TEXT="stack" ID="ID_368311583" CREATED="1438719445099" MODIFIED="1438719447214">
 <font BOLD="true"/>
-<node ID="ID_1343451693" CREATED="1438719570363" MODIFIED="1438719570363" LINK="https://github.com/commercialhaskell/stack/releases/download/v0.1.2.0/stack-0.1.2.0-x86_64-linux.gz"><richcontent TYPE="NODE">
+<node ID="ID_1343451693" CREATED="1438719570363" MODIFIED="1460873294444" LINK="https://github.com/commercialhaskell/stack/releases/download/v0.1.2.0/stack-0.1.2.0-x86_64-linux.gz"><richcontent TYPE="NODE">
 
 <html>
   <head>
     
   </head>
   <body>
-    <font face="Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, Segoe UI Emoji, Segoe UI Symbol" size="14px" color="rgb(64, 120, 192)"><a http-equiv="content-type" href="https://github.com/commercialhaskell/stack/releases/download/v0.1.2.0/stack-0.1.2.0-x86_64-linux.gz" rel="nofollow" style="font-size: 14px; letter-spacing: normal; text-indent: 0px; color: rgb(64, 120, 192); font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, Segoe UI Emoji, Segoe UI Symbol; font-style: normal; text-decoration: none; word-spacing: 0px; white-space: normal; line-height: 11.1999998092651px; text-align: left; background-color: rgb(255, 255, 255); font-variant: normal; font-weight: normal; text-transform: none" content="text/html; charset=utf-8"><b><strong style="font-weight: bold">stack-0.1.2.0-x86_64-linux.gz</strong></b></a></font> 
+    <b><strong style="font-weight: bold"><a href="https://github.com/commercialhaskell/stack/releases/download/v0.1.2.0/stack-0.1.2.0-x86_64-linux.gz" rel="nofollow" http-equiv="content-type" style="word-spacing: 0px; text-transform: none; text-indent: 0px; font-weight: normal; letter-spacing: normal; line-height: 11.1999998092651px; text-align: left; color: rgb(64, 120, 192); white-space: normal; font-size: 14px; font-variant: normal; font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, Segoe UI Emoji, Segoe UI Symbol; background-color: rgb(255, 255, 255); text-decoration: none; font-style: normal" content="text/html; charset=utf-8"><font face="Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, Segoe UI Emoji, Segoe UI Symbol" color="rgb(64, 120, 192)" size="14px">stack-0.1.2.0-x86_64-linux.gz</font></a></strong></b>
   </body>
 </html>
 </richcontent>
@@ -6496,56 +6567,6 @@
 <node TEXT="sudo apt-get install gstreamer0.10-libde265 gstreamer1.0-libde265" ID="ID_232399140" CREATED="1459134292560" MODIFIED="1459134293559"/>
 </node>
 </node>
-<node TEXT="on lubuntu 15.10" ID="ID_334718412" CREATED="1460324330635" MODIFIED="1460324334196">
-<node TEXT=". for a few days prior to 2016 04 15" ID="ID_576626337" CREATED="1460852633119" MODIFIED="1460852655463"/>
-<node TEXT="cryptkeeper" LOCALIZED_STYLE_REF="default" ID="ID_470754446" CREATED="1460324483325" MODIFIED="1460324877480">
-<node TEXT="apt install" ID="ID_1620579170" CREATED="1460324486332" MODIFIED="1460324571101"/>
-</node>
-<node TEXT="compizconfig-settings-manager" LOCALIZED_STYLE_REF="default" ID="ID_1463859576" CREATED="1460324448348" MODIFIED="1460324877492">
-<node TEXT="apt-get" ID="ID_1724103152" CREATED="1460324456268" MODIFIED="1460324457268"/>
-</node>
-<node TEXT="gnome-terminal" LOCALIZED_STYLE_REF="default" ID="ID_179518408" CREATED="1460324437484" MODIFIED="1460324877498">
-<node TEXT="apt-get" ID="ID_662064495" CREATED="1460324440844" MODIFIED="1460324441865"/>
-</node>
-<node TEXT="java" LOCALIZED_STYLE_REF="default" ID="ID_495880856" CREATED="1460324344203" MODIFIED="1460324877504">
-<node TEXT="sudo apt-get install default-jre" ID="ID_536432114" CREATED="1460324366052" MODIFIED="1460324370357"/>
-</node>
-<node TEXT="freeplane" LOCALIZED_STYLE_REF="default" ID="ID_91599932" CREATED="1460324340899" MODIFIED="1460324877509">
-<node TEXT="copy stuff to ~/apps" ID="ID_609529669" CREATED="1460324372044" MODIFIED="1460324379692"/>
-<node TEXT="make some shortcuts, there and in /bin" ID="ID_1251567446" CREATED="1460324379867" MODIFIED="1460324390100"/>
-</node>
-<node TEXT="ubuntu-restricted-extras" LOCALIZED_STYLE_REF="default" ID="ID_1326004935" CREATED="1460324399499" MODIFIED="1460324892967">
-<node TEXT="apt-get" ID="ID_1183480967" CREATED="1460324408491" MODIFIED="1460324409860"/>
-</node>
-<node TEXT="Preferences/Software &amp; Updates/[changes]" ID="ID_1715384777" CREATED="1460325317437" MODIFIED="1460325336510">
-<font BOLD="true"/>
-<node TEXT="added some packages to the set it keeps up with" ID="ID_881765594" CREATED="1460325337278" MODIFIED="1460325346550"/>
-</node>
-<node TEXT="new: apt install. old: apt-get" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_345717063" CREATED="1460324492877" MODIFIED="1460324546137"/>
-<node TEXT="subversion" ID="ID_1506785902" CREATED="1460359897836" MODIFIED="1460359900290">
-<node TEXT="apt install" ID="ID_218712595" CREATED="1460359900716" MODIFIED="1460359903554"/>
-</node>
-</node>
-<node TEXT="on kubuntu 15.10" ID="ID_31691632" CREATED="1460792776268" MODIFIED="1460792780520">
-<node TEXT="starting 2016 04 15" ID="ID_858993062" CREATED="1460852658806" MODIFIED="1460852667962"/>
-<node TEXT="freeplane" LOCALIZED_STYLE_REF="default" ID="ID_1633938457" CREATED="1460324340899" MODIFIED="1460324877509">
-<node TEXT="copy stuff to ~/apps" ID="ID_1859645287" CREATED="1460324372044" MODIFIED="1460324379692"/>
-<node TEXT="make some shortcuts, there and in /usr/local/bin" ID="ID_544459659" CREATED="1460324379867" MODIFIED="1460792861677"/>
-</node>
-<node TEXT="(FAIL) cryptkeeper" LOCALIZED_STYLE_REF="default" ID="ID_1790046290" CREATED="1460324483325" MODIFIED="1460793309406">
-<node TEXT="apt install" ID="ID_1885792609" CREATED="1460324486332" MODIFIED="1460324571101"/>
-<node TEXT="installed, runs, claims to import encrypted folders, but I can&apos;t find them" ID="ID_626002047" CREATED="1460793311107" MODIFIED="1460793343336"/>
-</node>
-<node TEXT="subversion" ID="ID_1767920825" CREATED="1460359897836" MODIFIED="1460359900290">
-<node TEXT="apt install" ID="ID_805098094" CREATED="1460359900716" MODIFIED="1460359903554"/>
-</node>
-<node TEXT="emacs" ID="ID_1288708664" CREATED="1460824079728" MODIFIED="1460824082888">
-<node TEXT="apt install" ID="ID_1061635077" CREATED="1460359900716" MODIFIED="1460359903554"/>
-</node>
-<node TEXT="git" ID="ID_806178793" CREATED="1460852669606" MODIFIED="1460852670414">
-<node TEXT="apt install" ID="ID_1852152992" CREATED="1460359900716" MODIFIED="1460359903554"/>
-</node>
-</node>
 </node>
 <node TEXT="how to install" POSITION="right" ID="ID_685116769" CREATED="1429684871755" MODIFIED="1429684873473">
 <node TEXT="manual (?) apt-get update proc:&#xa;  apt-get remove|purge&#xa;  add a newer one, with wget and dpkg&#xa;  then apt-get update and install" ID="ID_1954378136" CREATED="1429684775635" MODIFIED="1429684917490">
@@ -6681,6 +6702,5 @@
 <node TEXT="line out (speakers) works, line in (mic) doesn&apos;t" ID="ID_1063820118" CREATED="1458073317661" MODIFIED="1458073342064"/>
 </node>
 </node>
-<node TEXT="ASDFfdsa7890)(*&amp;" POSITION="right" ID="ID_693732733" CREATED="1460825388255" MODIFIED="1460825395800"/>
 </node>
 </map>
