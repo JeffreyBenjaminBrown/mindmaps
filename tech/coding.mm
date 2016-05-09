@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.103">
+<node TEXT="                                  git / coding&#xa;was&#xa;coding projs + how to code&#xa;  \computer; more general at ?doing" LOCALIZED_STYLE_REF="default" ID="ID_402639747" CREATED="1277698213598" MODIFIED="1439030879131"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.213">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -2734,6 +2734,9 @@
 <node TEXT="more accurately, is about temptation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_472037643" CREATED="1460095832431" MODIFIED="1460095839700"/>
 <node TEXT="before writing a function to generate them, try representing a single one" ID="ID_1276353706" CREATED="1460095806098" MODIFIED="1460095814559"/>
 </node>
+<node TEXT="before going within, trying to understand the function&apos;s code, often better to look outside for a use of it" ID="ID_323793642" CREATED="1461282931974" MODIFIED="1461282947404">
+<node TEXT="to understand faster" ID="ID_199945601" CREATED="1461282959591" MODIFIED="1461282962724"/>
+</node>
 </node>
 <node TEXT="can search &quot;root leaf&quot;, or any variation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1954042979" CREATED="1433057762009" MODIFIED="1433057780840"/>
 <node TEXT="data safety" POSITION="right" ID="ID_269094197" CREATED="1455776976146" MODIFIED="1455776978301">
@@ -2741,10 +2744,120 @@
 </node>
 <node TEXT="do? mv lang ." POSITION="right" ID="ID_381965557" CREATED="1460332351896" MODIFIED="1460332394496"/>
 <node TEXT="dwt+" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1459833012447">
-<node TEXT="2016 04 18" ID="ID_1524274969" CREATED="1461011748760" MODIFIED="1461011754462">
+<node TEXT="hxt" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_273958540" CREATED="1461716344644" MODIFIED="1461716346127">
+<node TEXT="to do in it" ID="ID_1215791189" CREATED="1462233543004" MODIFIED="1462233545329"/>
+<node TEXT="how it works" ID="ID_658893936" CREATED="1462233538692" MODIFIED="1462233540857">
+<node TEXT="The dual operator to (&gt;&gt;&gt;) is (&lt;+&gt;), the logical &quot;or&quot; for filters (if these were sets, it would be the union operator)" ID="ID_664536330" CREATED="1461716346687" MODIFIED="1462233341545"/>
+<node TEXT="skipped: Tracing. Document Construction" ID="ID_487014501" CREATED="1461726557582" MODIFIED="1461727420918"/>
+<node TEXT="XNode constructors" ID="ID_241156255" CREATED="1461726857802" MODIFIED="1461726864463">
+<node TEXT="XTag QName XmlTrees" ID="ID_1823455322" CREATED="1461726865291" MODIFIED="1461726894803">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1554771742" STARTINCLINATION="114;0;" ENDINCLINATION="114;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="tag with qualified name and list of attributes (inner node or leaf)" ID="ID_938431723" CREATED="1461726889131" MODIFIED="1461726890103"/>
+</node>
+<node TEXT="XAttr QName" ID="ID_1554771742" CREATED="1461726874698" MODIFIED="1461726875432">
+<node TEXT="attribute with qualified name, the attribute value is stored in children" ID="ID_84200677" CREATED="1461726880530" MODIFIED="1461726881432"/>
+</node>
+</node>
+<node TEXT="filtering an XmlTree" ID="ID_120606392" CREATED="1461727516955" MODIFIED="1461727528632">
+<node TEXT="&quot;isExternalRef                          -- (4)&#xa;= isElem&#xa;  &gt;&gt;&gt;&#xa;  hasName &quot;a&quot;&#xa;          &gt;&gt;&gt;&#xa;  hasAttr &quot;href&quot;&#xa;  &gt;&gt;&gt;&#xa;  getAttrValue &quot;href&quot;&#xa;  &gt;&gt;&gt;&#xa;  isA isExtRef&#xa;where&#xa;isExtRef                           -- (4.1)&#xa;    = isPrefixOf &quot;http:&quot;           -- or something more precise&#xa; &quot;" ID="ID_1551272552" CREATED="1461727529228" MODIFIED="1461727537809"/>
+</node>
+<node TEXT="withRemoveWS yes" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1835371329" CREATED="1461729855961" MODIFIED="1461729857708">
+<node TEXT="whitespace" ID="ID_1169226519" CREATED="1461729862577" MODIFIED="1461729863886"/>
+</node>
+</node>
+</node>
+<node TEXT="next" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_609957721" CREATED="1461215762694" MODIFIED="1461219344943">
+<node TEXT="gfixler.continuo.Color.withBG" ID="ID_1922532521" CREATED="1461614314162" MODIFIED="1461614347473"/>
+<node TEXT="star &lt;- fork" ID="ID_1437012819" CREATED="1461609867560" MODIFIED="1461609871580"/>
+<node TEXT="Branch is neither a set nor a predicate, but can be rendered as either" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1107208727" CREATED="1461543560698" MODIFIED="1461569633308"/>
+<node TEXT="hide some kinds by default" ID="ID_379214268" CREATED="1461219353357" MODIFIED="1461219366692">
+<node TEXT="need search (df or bf)" ID="ID_835808639" CREATED="1461526899385" MODIFIED="1461526910096"/>
+</node>
+<node TEXT="XML library" LOCALIZED_STYLE_REF="default" ID="ID_1989154894" CREATED="1461305091197" MODIFIED="1461526585907"/>
+<node TEXT="indicate (the kinds|that something is) not shown" ID="ID_1924065684" CREATED="1461220765142" MODIFIED="1461220787710"/>
+<node TEXT="in View.hs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1850946899" CREATED="1461275846494" MODIFIED="1461275901818">
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1957367379" CREATED="1461275897962" MODIFIED="1461284131922"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      show 1 expr is bound too tightly to show many
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="or, show many is the of interest now" ID="ID_345413636" CREATED="1461275869678" MODIFIED="1461275875053"/>
+</node>
+<node TEXT="show projection is implemented somewhere" ID="ID_1819254069" CREATED="1461275915855" MODIFIED="1461275934901">
+<node TEXT="projection generalizes" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1200580525" CREATED="1461275955175" MODIFIED="1461275961779"/>
+<node TEXT="as show neighbor count" ID="ID_1634611873" CREATED="1461275935823" MODIFIED="1461275951269"/>
+</node>
+</node>
+<node TEXT="? can I do it without Coll" ID="ID_1774231872" CREATED="1461276020295" MODIFIED="1461276031593"/>
+<node TEXT="&quot;getGrandChildren :: XmlFilter&#xa;getGrandChildren = getChildren &gt;&gt;&gt; getChildren&quot;" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_396450527" CREATED="1461716201602" MODIFIED="1461716218742">
+<node TEXT="https://wiki.haskell.org/HXT" ID="ID_1408070146" CREATED="1461716187484" MODIFIED="1461716187484" LINK="https://wiki.haskell.org/HXT"/>
+</node>
+<node TEXT="complete" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1317814074" CREATED="1461305052341" MODIFIED="1461305054167">
+<node TEXT="order perhaps interesting" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_910992845" CREATED="1461305061933" MODIFIED="1461305073149"/>
+<node ID="ID_70369335" CREATED="1461219346235" MODIFIED="1461219346235"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      explorer, accepts a node number
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="since, r" ID="ID_869726098" CREATED="1461609983369" MODIFIED="1461609999822">
+<node TEXT="arrows on categories" ID="ID_202222995" CREATED="1462074645534" MODIFIED="1462074673655">
+<node TEXT="that is, a set of arrows between objects that are themselves sets of arrows between objects" ID="ID_1300451586" CREATED="1462074679175" MODIFIED="1462074707284"/>
+</node>
+<node TEXT="to view (stars) is fast, and to modify is slow. perfect?" ID="ID_857420713" CREATED="1461609837136" MODIFIED="1461609889599"/>
+<node TEXT="? need what for speed" ID="ID_1554865043" CREATED="1461284259061" MODIFIED="1461284268674">
+<node TEXT="faster view control" ID="ID_604846012" CREATED="1461284272029" MODIFIED="1461284297518"/>
+<node TEXT="fold* things $ selectively &amp; automatically" ID="ID_597398406" CREATED="1461284303477" MODIFIED="1461284818434">
+<node TEXT="*like hide, but leaving some token|projection" ID="ID_1188550565" CREATED="1461284319527" MODIFIED="1461284353278"/>
+</node>
+<node TEXT="import all my data" ID="ID_1390772953" CREATED="1461284397239" MODIFIED="1461284414631">
+<node TEXT="use an XML library" ID="ID_1893309956" CREATED="1461284416607" MODIFIED="1461284423516"/>
+</node>
+<node TEXT="&quot;show* all nodes with the word helps&quot;" ID="ID_1797700217" CREATED="1461284429815" MODIFIED="1461284449984">
+<node TEXT="*using specified projections" ID="ID_1855062121" CREATED="1461284450591" MODIFIED="1461284467001"/>
+</node>
+</node>
+<node TEXT="resume reading at" ID="ID_1116403288" CREATED="1461283591189" MODIFIED="1461283593171">
+<node TEXT="this" ID="ID_1184007242" CREATED="1461283604501" MODIFIED="1461283605467">
+<node TEXT="-- using directions (RelSpecs)" ID="ID_305734835" CREATED="1461283593623" MODIFIED="1461283604255"/>
+</node>
+<node TEXT="which is right after matchRel" ID="ID_708306819" CREATED="1461283595573" MODIFIED="1461283621111"/>
+</node>
+<node TEXT="*/you should know/* is nearly opposite */disambig/*" ID="ID_381321625" CREATED="1461609929720" MODIFIED="1461609948765">
+<node TEXT="the view does not need to announce the existence of disambiguations, they will be searched for if needed" ID="ID_1792932917" CREATED="1461609949777" MODIFIED="1461609972221"/>
+</node>
+<node TEXT="if the change is close, move by spaces, otherwise by words" ID="ID_998617992" CREATED="1461816390994" MODIFIED="1461816403072">
+<node TEXT="that is, don&apos;t try to move by a whole word if it&apos;s within few and short enough words" ID="ID_1881812166" CREATED="1461816403649" MODIFIED="1461816419052"/>
+</node>
+</node>
+<node TEXT="2016 04 18 .." ID="ID_1524274969" CREATED="1461011748760" MODIFIED="1461219305089">
+<node TEXT="hide type|fork &quot;_ is passing statement, in service of _&quot;" ID="ID_619535469" CREATED="1461219218635" MODIFIED="1461219261619"/>
+<node TEXT="4 20" ID="ID_143084911" CREATED="1461219307852" MODIFIED="1461219312435"/>
 <node TEXT="a thing that points to other things is categorically top" ID="ID_1685605309" CREATED="1461011647990" MODIFIED="1461011659340">
 <node TEXT="a pointed-to other is not necessarily, but is if it points to others yet" ID="ID_420991920" CREATED="1461011661030" MODIFIED="1461011717229"/>
 </node>
+<node TEXT="show all person-place pairs" ID="ID_977306148" CREATED="1461208366884" MODIFIED="1461208371866">
+<node TEXT="is reason for defining your dictionary to it, up to which recogd nouns, verbs, .." ID="ID_166048247" CREATED="1461208375973" MODIFIED="1461208408370"/>
+</node>
+<node TEXT="&quot;is&quot; is almost never alone, rather in a triple" ID="ID_1175754531" CREATED="1461208428204" MODIFIED="1461208438202"/>
 <node TEXT="yes" ID="ID_566148780" CREATED="1461011991373" MODIFIED="1461011991939">
 <node TEXT="I can&apos;t need to hand-transfer my data." ID="ID_1170252066" CREATED="1461011935708" MODIFIED="1461011943562">
 <node TEXT="just think of things to want to do to the (freeplane) data" ID="ID_1377781760" CREATED="1461011951021" MODIFIED="1461011975567">
@@ -2753,8 +2866,8 @@
 </node>
 </node>
 </node>
-<node TEXT="ORDER FUCKUP" ID="ID_71775628" CREATED="1461011806714" MODIFIED="1461011869921">
-<node TEXT="*** within these, recent is last" ID="ID_1215039747" CREATED="1461011818922" MODIFIED="1461011841216">
+<node TEXT="order error" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_71775628" CREATED="1461011806714" MODIFIED="1461284206467">
+<node TEXT="*** within these, recent is last" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1215039747" CREATED="1461011818922" MODIFIED="1461284202735">
 <node TEXT="and any read|proc heads are likely rising within them, although falling across" ID="ID_275504364" CREATED="1461011881963" MODIFIED="1461011902457"/>
 </node>
 <node TEXT="04 10" ID="ID_1793357034" CREATED="1460332428428" MODIFIED="1460332434929">
@@ -17480,7 +17593,13 @@
 </node>
 </node>
 </node>
-<node TEXT="elliot secrets" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_352262750" CREATED="1457129075220" MODIFIED="1457141633694">
+<node TEXT="haskell challenges" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1985365985" CREATED="1461297469403" MODIFIED="1461297473445">
+<node TEXT="Control.Monad.Trans.State.Lazy.runStateT" ID="ID_1912277587" CREATED="1461297474379" MODIFIED="1461297542305">
+<node TEXT="Jake uses it" ID="ID_1721485297" CREATED="1461302458343" MODIFIED="1461302461396"/>
+</node>
+<node TEXT="why does &quot;sort $ nub $ normz &lt;$&gt; fracs&quot; give the same result even if that first $ is instead &lt;$&gt;" ID="ID_352023633" CREATED="1461828397145" MODIFIED="1461828464195"/>
+</node>
+<node TEXT="elliot secrets, 2016 03?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_352262750" CREATED="1457129075220" MODIFIED="1462833256948">
 <node TEXT="jeff@jeffLenovUbu:~/dwt$ stack build --no-system-ghc" ID="ID_330210965" CREATED="1457129082744" MODIFIED="1457129082744" LINK="mailto:jeff@jeffLenovUbu"/>
 <node TEXT="stack ghci --no-system-ghc" ID="ID_816419627" CREATED="1457129123476" MODIFIED="1457129124393"/>
 <node TEXT="changed stack.yaml/resolver" ID="ID_12512373" CREATED="1457129474101" MODIFIED="1457129480900">
@@ -17504,6 +17623,27 @@
 </node>
 <node TEXT="MonadRec" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_44084636" CREATED="1457134348111" MODIFIED="1457134352362"/>
 <node TEXT="haskell reddit / jobs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_37085928" CREATED="1457134662399" MODIFIED="1457134666053"/>
+</node>
+<node TEXT="jeff carlson secrets, 2016 05 09" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" POSITION="right" ID="ID_1314596339" CREATED="1462686041573" MODIFIED="1462833252533">
+<node TEXT="emacs" ID="ID_1740712924" CREATED="1462679936314" MODIFIED="1462679936940">
+<node TEXT="shift-alt-6" ID="ID_1455283484" CREATED="1462679924769" MODIFIED="1462679938795">
+<node TEXT="merge this line with prev" ID="ID_1823533813" CREATED="1462679939301" MODIFIED="1462679957271"/>
+</node>
+<node TEXT="org mode" ID="ID_252359867" CREATED="1462680000191" MODIFIED="1462680002067"/>
+</node>
+<node TEXT="konsole: new tab, switch tabs" ID="ID_1044446472" CREATED="1462681060504" MODIFIED="1462681071928">
+<node TEXT="new tab: ctrl-shift-t" ID="ID_820825222" CREATED="1462681073522" MODIFIED="1462681077488"/>
+<node TEXT="switch: shift-arrow" ID="ID_1556437407" CREATED="1462681077693" MODIFIED="1462681096298"/>
+</node>
+<node TEXT="2 ways to get output to screen and file" ID="ID_1725112908" CREATED="1462683238386" MODIFIED="1462683246510">
+<node TEXT="script" ID="ID_1331722208" CREATED="1462683247031" MODIFIED="1462683248330">
+<node TEXT="starts a subshell, records everything in it" ID="ID_1873303906" CREATED="1462683263331" MODIFIED="1462683288896"/>
+</node>
+<node TEXT="[command] | tee filename" ID="ID_1883715027" CREATED="1462683388937" MODIFIED="1462683400382">
+<node TEXT="puts command&apos;s output in both places" ID="ID_1479546477" CREATED="1462683407151" MODIFIED="1462683414558"/>
+<node TEXT="tee as in the shape" ID="ID_1038086506" CREATED="1462683414750" MODIFIED="1462683418248"/>
+</node>
+</node>
 </node>
 <node TEXT="(tell, ask, edit) wikipedia" LOCALIZED_STYLE_REF="styles.subsubtopic" POSITION="right" ID="ID_1189465678" CREATED="1455426381128" MODIFIED="1459833006645">
 <node TEXT="if they want credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1455426419390"/>
@@ -17622,8 +17762,99 @@
 </node>
 <node TEXT="monads : read &quot;x $ pure y&quot; as &quot;y is pure, x impure&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1215941316" CREATED="1457142725953" MODIFIED="1459833110355"/>
 </node>
+<node TEXT="? euterpea" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_910047622" CREATED="1461562375105" MODIFIED="1461562379555">
+<node TEXT="an imagined language" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_459259200" CREATED="1461562110275" MODIFIED="1461562121538">
+<node TEXT="terms" ID="ID_47856273" CREATED="1461562414890" MODIFIED="1461562415791">
+<node TEXT="take [dur]" ID="ID_1033236804" CREATED="1461562122467" MODIFIED="1461562148464"/>
+<node TEXT="++" ID="ID_165940309" CREATED="1461562165637" MODIFIED="1461562167298"/>
+<node TEXT="@@" ID="ID_1513683568" CREATED="1461563041085" MODIFIED="1461563043425">
+<node TEXT="binds after ++" ID="ID_1018662632" CREATED="1461563055309" MODIFIED="1461563057793"/>
+<node TEXT="x t@@ y = x with its head located at t in y" ID="ID_667211549" CREATED="1461563058893" MODIFIED="1461563136709"/>
+<node TEXT="x @@t y = x with its (? last event) located at t in y" ID="ID_575817619" CREATED="1461563058893" MODIFIED="1461563175093"/>
+<node TEXT="x t@@s y = time t in x at time s in y" ID="ID_993656528" CREATED="1461563323657" MODIFIED="1461563353397"/>
+</node>
+<node TEXT="next [dur + optional dur]" ID="ID_1464288656" CREATED="1461564314445" MODIFIED="1461564346858">
+<node TEXT="next 3+1: next beat equal to 1 modulo 3" ID="ID_687735466" CREATED="1461564348102" MODIFIED="1461564365490"/>
+</node>
+<node TEXT="forever [pattern]" ID="ID_1314104244" CREATED="1461562170764" MODIFIED="1461562311605">
+<node TEXT="repeat n = take n . forever" ID="ID_1715437200" CREATED="1461562292984" MODIFIED="1461562299517"/>
+</node>
+<node TEXT="drop [dur]" ID="ID_364719835" CREATED="1461562153796" MODIFIED="1461562155937"/>
+<node TEXT="as [dur]" ID="ID_168784180" CREATED="1461562138651" MODIFIED="1461562146066"/>
+<node TEXT="[pattern]&apos;s measure" ID="ID_1439971233" CREATED="1461562208133" MODIFIED="1461562394007">
+<node TEXT="=measure internal" ID="ID_684245250" CREATED="1461562250630" MODIFIED="1461562256843"/>
+<node TEXT="if a thing considers itself a group of four beats, then four" ID="ID_956044879" CREATED="1461562221614" MODIFIED="1461562233804"/>
+</node>
+</node>
+<node TEXT="example" ID="ID_316133279" CREATED="1461562417082" MODIFIED="1461562417991">
+<node TEXT="p1, p2 :: Pattern" ID="ID_1699622513" CREATED="1461562421027" MODIFIED="1461562431951"/>
+<node TEXT="next 8 $ take 11 (p1 ++ (forever $ as 2*(measure p2) p2)) ++ take 10 (p2 ++ forever p1)" ID="ID_104994566" CREATED="1461562432987" MODIFIED="1461564306085"/>
+<node TEXT="that adjacency binds faster than space(outer to the adjacency-bound token), perhaps over punctuation and parentheses (as in &quot;2*(measure p2)&quot;), is important" ID="ID_1110831866" CREATED="1461562571853" MODIFIED="1461562779144"/>
+</node>
+</node>
+</node>
 <node TEXT="tidal" POSITION="right" ID="ID_20627292" CREATED="1452400365170" MODIFIED="1452400366965">
 <font BOLD="true"/>
+<node TEXT="? no signal chain in Dirt" ID="ID_355883079" CREATED="1462390745149" MODIFIED="1462390752867">
+<node TEXT="my ears say |*| co |*| cr = |*| cr |*| co" ID="ID_330880465" CREATED="1462390754983" MODIFIED="1462390773087"/>
+</node>
+<node TEXT="crush :? in [0,10], no effect outside of it" ID="ID_781858249" CREATED="1462390182858" MODIFIED="1462390273342">
+<node TEXT="I don&apos;t trust crush." ID="ID_351705211" CREATED="1462390654815" MODIFIED="1462390658203"/>
+</node>
+<node TEXT="feas : Pattern of scale" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_134916681" CREATED="1462173184416" MODIFIED="1462173430291">
+<node TEXT="requires a &quot;combine&quot; function, Pattern Scale -&gt; Pattern Double -&gt; Pattern Double" ID="ID_1969476835" CREATED="1462173205265" MODIFIED="1462173263974"/>
+<node TEXT="start with easier" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_701850655" CREATED="1462173413501" MODIFIED="1462173420036">
+<node TEXT="Scale = [Double]&#xa;combine :: Pattern Scale -&gt; Pattern Int -&gt; Pattern Double" ID="ID_911857943" CREATED="1462173417931" MODIFIED="1462173488429"/>
+</node>
+</node>
+<node TEXT="supercollider arguments" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1914723498" CREATED="1462169834965" MODIFIED="1462170724331">
+<node TEXT="logic" ID="ID_1883946933" CREATED="1462170735476" MODIFIED="1462170840927">
+<node TEXT="high" ID="ID_724878505" CREATED="1462171117508" MODIFIED="1462171118913">
+<node TEXT="sidechain comp" ID="ID_898138538" CREATED="1462171682590" MODIFIED="1462171684746"/>
+<node TEXT="feedback" ID="ID_339404307" CREATED="1462171088564" MODIFIED="1462171089872"/>
+<node TEXT="audio-rate automata" ID="ID_569772082" CREATED="1462171104500" MODIFIED="1462171108808"/>
+<node TEXT="chaotic spaces" ID="ID_1633192059" CREATED="1462170771677" MODIFIED="1462170785946">
+<node TEXT="e.g. logistic map" ID="ID_1960072716" CREATED="1462170795911" MODIFIED="1462170802909"/>
+</node>
+<node TEXT="order-2 waves" ID="ID_587254265" CREATED="1462169979982" MODIFIED="1462169991156">
+<node TEXT="amp mod = ring mod" ID="ID_134876783" CREATED="1462169993695" MODIFIED="1462170047245"/>
+<node TEXT="freq mod" ID="ID_418082075" CREATED="1462170025207" MODIFIED="1462170026707"/>
+</node>
+</node>
+<node TEXT="core" ID="ID_1856401261" CREATED="1462171120084" MODIFIED="1462171120984">
+<node TEXT="sine clusters" ID="ID_1889608222" CREATED="1462170897305" MODIFIED="1462170899173"/>
+<node TEXT="noise, saw, sine" ID="ID_1588043014" CREATED="1462170880095" MODIFIED="1462170897116"/>
+<node TEXT="bend" ID="ID_54667638" CREATED="1462169924718" MODIFIED="1462169925370">
+<node TEXT="vibrato" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_926338500" CREATED="1462169877357" MODIFIED="1462172149597"/>
+<node TEXT="wobble bass" ID="ID_1542832941" CREATED="1462169841189" MODIFIED="1462169851658"/>
+<node TEXT="drop bass" ID="ID_1101840385" CREATED="1462170972722" MODIFIED="1462170974838"/>
+<node TEXT="pedal steel" ID="ID_836051534" CREATED="1462169938806" MODIFIED="1462169943451"/>
+</node>
+<node TEXT="swell, trem" ID="ID_1568385507" CREATED="1462169928846" MODIFIED="1462170952749"/>
+<node TEXT="wah" ID="ID_800801794" CREATED="1462169951166" MODIFIED="1462169952227"/>
+</node>
+</node>
+<node TEXT="SuperDirt" ID="ID_1323666908" CREATED="1462170725901" MODIFIED="1462170729291"/>
+<node TEXT="Monome, 31et" ID="ID_680314044" CREATED="1462170729508" MODIFIED="1462170732889"/>
+</node>
+<node TEXT="mirror tidal in graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_528196355" CREATED="1462134894874" MODIFIED="1462134899597">
+<node TEXT="node types: val, param, map(param to val), .." ID="ID_1413074797" CREATED="1462134900629" MODIFIED="1462134945532"/>
+</node>
+<node TEXT="stack = |+, cat = -+" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1851099544" CREATED="1461997787129" MODIFIED="1461997822808"/>
+<node TEXT="import-reexport to change names" ID="ID_1813337298" CREATED="1461656335362" MODIFIED="1461656348903">
+<node TEXT="http://stackoverflow.com/questions/17241491/haskell-hide-specific-functions-in-module-exports" ID="ID_863937155" CREATED="1461656349462" MODIFIED="1461656349462" LINK="http://stackoverflow.com/questions/17241491/haskell-hide-specific-functions-in-module-exports"/>
+</node>
+<node TEXT="do I want to make invalid state unrepresentable" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_590292811" CREATED="1461638870002" MODIFIED="1461638877849">
+<node TEXT="inharmonic states less likely" ID="ID_1661517323" CREATED="1461638878973" MODIFIED="1461638886341">
+<node TEXT="more syllables" ID="ID_1513638292" CREATED="1461638888861" MODIFIED="1461638890758"/>
+</node>
+<node TEXT="in tidal, emergent properties such as the current length of the shortest duration are not directly encodable" ID="ID_1858060026" CREATED="1461638930617" MODIFIED="1461638953913"/>
+<node TEXT="maybe I want the nature of the language to change mid-statement, in a user-specifiable way that can differ across subpatterns" ID="ID_381492364" CREATED="1461639103263" MODIFIED="1461639156064">
+<node TEXT="no matter how wonderful the sequence-specifying syntax in tidal is, sometimes I don&apos;t want to be talking about the duration of only one of those" ID="ID_193645465" CREATED="1461639195761" MODIFIED="1461639225649"/>
+</node>
+<node TEXT="maybe I just mean meter changes" ID="ID_98274459" CREATED="1461639230359" MODIFIED="1461639234785"/>
+</node>
+<node TEXT="in whether it is a cycle or a momentary state : alternations, nesting, recursive" ID="ID_1950207687" CREATED="1461639288485" MODIFIED="1461639332959"/>
 <node TEXT="tidal-graph" ID="ID_575778269" CREATED="1451847990772" MODIFIED="1451847993250">
 <font BOLD="true"/>
 <node TEXT="earlier, unrevd, huge" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_634168551" CREATED="1454567042422" MODIFIED="1454567055641">
@@ -18066,6 +18297,10 @@
 <node TEXT="let crand x = when (test x)&#xa;      where test x c = (timeToRand $ fromIntegral c) &lt; x" ID="ID_1260450031" CREATED="1460053173107" MODIFIED="1460053175534"/>
 </node>
 <node TEXT="Tidal.Pattern = schedule" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_44108556" CREATED="1460095931399" MODIFIED="1460095944290"/>
+<node TEXT="gap: like chop, striate" ID="ID_65074037" CREATED="1461702782518" MODIFIED="1461702785554">
+<node TEXT="but every other grain is silent" ID="ID_451350381" CREATED="1461702786158" MODIFIED="1461702792027"/>
+</node>
+<node TEXT="Arcs = [)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_814667185" CREATED="1461997665864" MODIFIED="1461997688172"/>
 </node>
 <node TEXT="al, 2015 11 26-" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_465109363" CREATED="1448615128357" MODIFIED="1457043525632">
 <node TEXT="my .mm tree" ID="ID_425480886" CREATED="1425451217686" MODIFIED="1447544885284">

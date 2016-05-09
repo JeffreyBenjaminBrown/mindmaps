@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.099">
+<node TEXT="git / use" LOCALIZED_STYLE_REF="default" ID="Freemind_Link_1577165117" CREATED="1252360635021" MODIFIED="1442770982786"><hook NAME="MapStyle" background="#d2f7cc" zoom="1.33">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -1492,6 +1492,11 @@
 <node TEXT="import os" ID="ID_1843341711" CREATED="1407703472780" MODIFIED="1407703474096"/>
 <node TEXT="os.chdir(&apos;/Users/dopethatwantscash/Mine/by project/computer/languages, coding apps/Python/PyQt&apos;)" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_351909007" CREATED="1407703750446" MODIFIED="1407825447864"/>
 <node TEXT="os.chdir(&apos;/Users/dopethatwantscash/Mine/by project/computer/languages, coding apps/Python/Overlarchy&apos;)" ID="ID_1254529924" CREATED="1407703750446" MODIFIED="1407703750446"/>
+</node>
+</node>
+<node TEXT="JACK" ID="ID_1985232568" CREATED="1461634331517" MODIFIED="1461634332714">
+<node TEXT="switched the interface to Generic (hw1)" ID="ID_1143020668" CREATED="1461634333502" MODIFIED="1461634368074">
+<node TEXT="before this, it would not start; after, it would" ID="ID_1378047164" CREATED="1461634368686" MODIFIED="1461634377740"/>
 </node>
 </node>
 <node TEXT="JEdit" ID="ID_240689106" CREATED="1350587275398" MODIFIED="1350587281198">
@@ -3315,7 +3320,7 @@
 <node TEXT="(fdisk -l) finds drives" ID="ID_1610116757" CREATED="1428782291048" MODIFIED="1428782291701"/>
 </node>
 </node>
-<node TEXT="Unix" ID="ID_344986259" CREATED="1407442477064" MODIFIED="1409708659653">
+<node TEXT="Unix" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_344986259" CREATED="1407442477064" MODIFIED="1461276922017">
 <node TEXT="encfs dirs" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_799978557" CREATED="1427262016618" MODIFIED="1427424038802">
 <node TEXT="to make an encrypted folder:" ID="ID_1854167875" CREATED="1427262019206" MODIFIED="1427262028734">
 <node TEXT="encfs fp/.newname fp/newname" ID="ID_823455763" CREATED="1427262019206" MODIFIED="1427262019206">
@@ -3416,7 +3421,7 @@
 </node>
 </node>
 </node>
-<node TEXT="commands" ID="ID_1145690666" CREATED="1353466886054" MODIFIED="1353466887217">
+<node TEXT="commands" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1145690666" CREATED="1353466886054" MODIFIED="1461276921128">
 <node TEXT="u : renaming files" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_390566327" CREATED="1377729645546" MODIFIED="1377730817119">
 <node ID="ID_1988390817" CREATED="1377729608936" MODIFIED="1377729644696"><richcontent TYPE="NODE">
 
@@ -3772,7 +3777,7 @@
 </node>
 </node>
 </node>
-<node TEXT="by command" ID="ID_765281385" CREATED="1353466290006" MODIFIED="1353466292162">
+<node TEXT="by command" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_765281385" CREATED="1353466290006" MODIFIED="1461276919821">
 <node TEXT="grep" ID="ID_305859616" CREATED="1368737300956" MODIFIED="1368737301727">
 <node TEXT="search for string adjacent to non-whitespace" ID="ID_111447075" CREATED="1368737317499" MODIFIED="1369852956016">
 <node TEXT="run it twice" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_531948071" CREATED="1369852874479" MODIFIED="1369852945214">
@@ -3821,17 +3826,21 @@
 <node TEXT="[log filename] doesn&apos;t have to exist yet" ID="ID_434400247" CREATED="1352931860483" MODIFIED="1352931870461"/>
 </node>
 </node>
-<node TEXT="find" ID="ID_1319774814" CREATED="1395808425632" MODIFIED="1395808430174"/>
-<node TEXT="sed" ID="ID_1410451561" CREATED="1355782793638" MODIFIED="1355782794241">
+<node TEXT="find" ID="ID_1319774814" CREATED="1395808425632" MODIFIED="1395808430174">
+<node TEXT="find /path/to -regex &quot;.*\.\(jpg\|gif\|png\|jpeg\)&quot; &gt; log" ID="ID_909942784" CREATED="1461277489196" MODIFIED="1461277490106">
+<node TEXT="finds every suffix" ID="ID_377474834" CREATED="1461277501836" MODIFIED="1461277506162"/>
+</node>
+</node>
+<node TEXT="sed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1410451561" CREATED="1355782793638" MODIFIED="1461284164927">
 <node TEXT="Mac OS X: broken" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1089440437" CREATED="1400311886803" MODIFIED="1400311891151">
 <node TEXT="Mac OS X has an older, BSD version of sed" ID="ID_736859988" CREATED="1400311894299" MODIFIED="1400311909406"/>
 <node TEXT="it does not understand tab characters" ID="ID_291946851" CREATED="1400311909627" MODIFIED="1400311915278"/>
 <node TEXT="I tried installing GNU coreutils, which has a better sed, but failed, and it seemed dangerous." ID="ID_277323810" CREATED="1400311923331" MODIFIED="1400311947949"/>
 <node TEXT="I will switch to awk." ID="ID_887315637" CREATED="1400311919642" MODIFIED="1400311923030"/>
 </node>
-<node TEXT="gnu sed" ID="ID_339340038" CREATED="1400310648412" MODIFIED="1400310650896">
+<node TEXT="gnu sed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_339340038" CREATED="1400310648412" MODIFIED="1461284165383">
 <node TEXT="purpose: string substitution" ID="ID_1714872861" CREATED="1355782795551" MODIFIED="1391130889551"/>
-<node TEXT="sed -i &apos;s/what_there_was/what_there_will_be/g&apos; *.sas" ID="ID_815786757" CREATED="1355775679487" MODIFIED="1363716765457"/>
+<node TEXT="sed -i &apos;s/what_there_was/what_there_will_be/g&apos; *.sas" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_815786757" CREATED="1355775679487" MODIFIED="1461284165815"/>
 <node TEXT="&quot;anything but&quot;" ID="ID_1097666990" CREATED="1368768229121" MODIFIED="1368768241145">
 <node TEXT="anything but x or y, 0 or more times: [^xy]*" ID="ID_900223750" CREATED="1368768222846" MODIFIED="1368768222846"/>
 </node>
@@ -3886,6 +3895,16 @@
 <node TEXT="Sullivan&apos;s explanation" ID="ID_120292933" CREATED="1355779399495" MODIFIED="1355779402634">
 <node TEXT="You discovered interactive awk. Type your first version of the command then type &quot;claims_blah&quot; and hit return. It&apos;ll print &quot;c_blah&quot;. Great way to test out your rule before running it on the file." ID="ID_1761863642" CREATED="1355779378698" MODIFIED="1355779379710"/>
 </node>
+</node>
+<node TEXT="recursive, selective anything" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_482250999" CREATED="1461276930005" MODIFIED="1461277933522">
+<node TEXT="find /home/www -type f -print0 | xargs -0 wc" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1910619176" CREATED="1461276926614" MODIFIED="1461277926194"/>
+<node TEXT="find . -regex &quot;.*\.txt&quot; -print0 | xargs -0 wc" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_108815737" CREATED="1461277645598" MODIFIED="1461277948546"/>
+<node TEXT="find . -regex &quot;.*\.hs&quot; -print0 | xargs -0 sed -i &apos;s/MbrSpec/MbConcreteMbr/g&apos;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_882188089" CREATED="1461278374023" MODIFIED="1461278387506"/>
+<node TEXT="! the print0 overcomes the separator problem, which other commands have other ways of overcoming" ID="ID_1240316121" CREATED="1461277293122" MODIFIED="1461277706227">
+<node TEXT="&quot;Separator problem[edit]&#xa;Many Unix utilities are line-oriented. These may work with xargs as long as the lines do not contain &apos;, &quot; or space. Some of the Unix utilities can use NUL as record separator (e.g. Perl (requires -0 and \0 instead of \n), locate (requires using -0), find (requires using -print0), grep (requires -z or -Z), sort (requires using -z)). Using -0 for xargs deals with the problem, but many Unix utilities cannot use NUL as separator (e.g. head, tail, ls, echo, sed, tar -v, wc, which).&quot;" ID="ID_1029197520" CREATED="1461277319914" MODIFIED="1461277324209"/>
+</node>
+<node TEXT="find is recursive by default" ID="ID_526905328" CREATED="1461277685806" MODIFIED="1461277690084"/>
+<node TEXT="the -0 (says wikipedia today) is because without it xargs deals badly with a list of filenames containing commas or space" ID="ID_984109426" CREATED="1461277034095" MODIFIED="1461277068581"/>
 </node>
 </node>
 </node>
@@ -4572,6 +4591,13 @@
 <node TEXT="back and forth between code and output" ID="ID_920314822" CREATED="1338837687860" MODIFIED="1338837696672"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="my Dirt" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1226420801" CREATED="1461644678745" MODIFIED="1461644684829">
+<node TEXT="changed some folder names" ID="ID_1737659595" CREATED="1461644685980" MODIFIED="1461644689291"/>
+<node TEXT="to figure out which, compare folder structure to Dirt&apos;s master github image" ID="ID_487736604" CREATED="1461644689503" MODIFIED="1461644706609">
+<node TEXT="all made-by-me names are two letters" ID="ID_1964335635" CREATED="1461644751546" MODIFIED="1461644761647"/>
+<node TEXT="alphabetization may have changed, e.g. had I changed sitar to si, it would have jumped sine" ID="ID_1851082013" CREATED="1461644717169" MODIFIED="1461644768146"/>
 </node>
 </node>
 <node TEXT=". &lt;freq | &lt;crit" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_168804160" CREATED="1420485620715" MODIFIED="1421715429973">
@@ -6016,19 +6042,53 @@
 </node>
 </node>
 </node>
-<node TEXT="installs" POSITION="right" ID="ID_1352924132" CREATED="1427834542168" MODIFIED="1460324226769">
+<node TEXT="installs +" POSITION="right" ID="ID_1352924132" CREATED="1427834542168" MODIFIED="1461187183971">
 <font BOLD="true"/>
+<node TEXT="+ other noteworthy changes" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_587844518" CREATED="1461187176179" MODIFIED="1461187240028"/>
 <node TEXT=".! reverse the dates for search" ID="ID_1253158454" CREATED="1460873338040" MODIFIED="1460873364223"/>
-<node TEXT="on kubuntu 15.10" ID="ID_31691632" CREATED="1460792776268" MODIFIED="1460792780520">
-<node TEXT="2016 04 15" ID="ID_858993062" CREATED="1460852658806" MODIFIED="1460873536892"/>
-<node TEXT="! tidal started then, ended maybe now" ID="ID_1008892142" CREATED="1460876313681" MODIFIED="1460877275464">
+<node TEXT="no suspend &amp; melt !! use ondemand" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1624856964" CREATED="1460877516403" MODIFIED="1461187200210">
+<node TEXT="see &quot;use.mm/installs/../disable frequency scaling&quot;" ID="ID_1306563862" CREATED="1460877561608" MODIFIED="1460877574814"/>
+</node>
+<node TEXT="on kubuntu 16.04" ID="ID_237119174" CREATED="1461558625886" MODIFIED="1461558629547">
+<node TEXT="apt-get lots of stuff for supercollider" ID="ID_1264861627" CREATED="1462681166033" MODIFIED="1462681172064">
+<node TEXT="sudo apt install build-essential libjack-jackd2-dev libsndfile1-dev libasound2-dev libavahi-client-dev libicu-dev libreadline6-dev libfftw3-dev libxt-dev libudev-dev libcwiid-dev pkg-config cmake qt5-default qt5-qmake qttools5-dev qttools5-dev-tools qtdeclarative5-dev libqt5webkit5-dev qtpositioning5-dev libqt5sensors5-dev" ID="ID_706589370" CREATED="1462681173048" MODIFIED="1462681174870"/>
+</node>
+<node TEXT="in ~/.cache: sudo chown jeff: dconf" ID="ID_1470185586" CREATED="1462680907551" MODIFIED="1462680918600">
+<node TEXT="it had belonged to root" ID="ID_981472048" CREATED="1462680926714" MODIFIED="1462680930368"/>
+</node>
+<node TEXT="2016 05 07" ID="ID_1141592905" CREATED="1462680900827" MODIFIED="1462680907038"/>
+<node TEXT="sudo apt install libcurl4-gnutls-dev" ID="ID_258562832" CREATED="1461721419474" MODIFIED="1461721992831"/>
+<node TEXT="sudo apt install curl" ID="ID_1340518908" CREATED="1461721419474" MODIFIED="1461721422902"/>
+<node TEXT="cabal install hxt" ID="ID_134191553" CREATED="1461713944974" MODIFIED="1461713947786"/>
+<node TEXT="2016 04 26" ID="ID_1430070469" CREATED="1461713940582" MODIFIED="1461713943970"/>
+<node TEXT="cabal install hunit, fgl, random-fu" ID="ID_1467931114" CREATED="1461636264002" MODIFIED="1461636381151"/>
+<node TEXT="! tidal started then, ended about now" ID="ID_1008892142" CREATED="1460876313681" MODIFIED="1461637884596">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1369692209" STARTINCLINATION="182;0;" ENDINCLINATION="182;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="! get asound (c library)" ID="ID_1218771398" CREATED="1460878964490" MODIFIED="1460878992219">
+<node TEXT="JACK problem solved" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_977172993" CREATED="1461637862904" MODIFIED="1461637867130">
+<node TEXT="set Interface to $ hw:Generic,0 (Analog ... hw:1,0)" ID="ID_16624380" CREATED="1461637860151" MODIFIED="1461637873127"/>
+</node>
+<node TEXT="2016 04 25" ID="ID_180333171" CREATED="1461637888008" MODIFIED="1461637903590"/>
+<node TEXT="reran tidal_install.sh" ID="ID_1998577378" CREATED="1461558694341" MODIFIED="1461558698405"/>
+<node TEXT="upgrade to kubuntu 16.04" ID="ID_1317908986" CREATED="1461558630681" MODIFIED="1461558638794">
+<node TEXT="not a fresh install" ID="ID_1763891190" CREATED="1461558640853" MODIFIED="1461558649963"/>
+</node>
+</node>
+<node TEXT="on kubuntu 15.10" ID="ID_31691632" CREATED="1460792776268" MODIFIED="1460792780520">
+<node TEXT="chrome disabled adblock b/c it can now read and change all your data on the websites you visit" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_624890348" CREATED="1460867177760" MODIFIED="1461187225040">
+<node TEXT="needs more permissions" ID="ID_1448765735" CREATED="1460867199281" MODIFIED="1460867201723"/>
+<node TEXT="chrome: not sure when I installed" ID="ID_393340226" CREATED="1461187226365" MODIFIED="1461187230572"/>
+</node>
+<node TEXT="libasound2 &amp; -dev" ID="ID_1437835884" CREATED="1461518179230" MODIFIED="1461518190115">
+<node TEXT="sudo apt install libasound2 libasound2-dev libasound2-doc" ID="ID_1486325640" CREATED="1461518120630" MODIFIED="1461518229064"/>
+<node TEXT="tidal installer suggested it" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1218771398" CREATED="1460878964490" MODIFIED="1461518382053">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1369692209" STARTINCLINATION="219;0;" ENDINCLINATION="219;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="this error is buried in the middle of tidal/jbb-logs/3.txt" ID="ID_177465693" CREATED="1460878995026" MODIFIED="1460879013161"/>
 <node TEXT="&quot;setup-Simple-Cabal-1.22.1.1-x86_64-linux-ghc-7.8.4: Missing dependency on a&#xa;foreign library:&#xa;* Missing C library: asound&#xa;This problem can usually be solved by installing the system package that&#xa;provides this library (you may need the &quot;-dev&quot; version). If the library is&#xa;already installed but in a non-standard location then you can use the flags&#xa;--extra-include-dirs= and --extra-lib-dirs= to specify where it is.&quot;" ID="ID_1187635196" CREATED="1460878978506" MODIFIED="1460878983043"/>
 </node>
+</node>
+<node TEXT="2016 04 24" ID="ID_1620643773" CREATED="1461518132345" MODIFIED="1461518139289"/>
+<node TEXT="2016 04 15" ID="ID_858993062" CREATED="1460852658806" MODIFIED="1460873536892"/>
 <node TEXT="disable frequency scaling" ID="ID_1805169205" CREATED="1460875090551" MODIFIED="1460876630868">
 <node TEXT="_ ardour suggested it" ID="ID_1814891472" CREATED="1460875125567" MODIFIED="1460876181256">
 <node TEXT="!!! WARNING !!! - Your system seems to use frequency scaling.&#xa;This can have a serious impact on audio latency.&#xa;For best results turn it off, e.g. by choosing the &apos;performance&apos; governor." ID="ID_1299322082" CREATED="1460875103855" MODIFIED="1460875104992"/>
@@ -6085,9 +6145,20 @@
 </node>
 <node TEXT="^^ NOT HERE ^^, insert at top" ID="ID_436137853" CREATED="1460873414561" MODIFIED="1460873423063"/>
 </node>
-<node TEXT="on lubuntu 15.10" ID="ID_334718412" CREATED="1460324330635" MODIFIED="1460324334196">
-<node TEXT="content deleted" ID="ID_1110459584" CREATED="1460873502010" MODIFIED="1460873523083"/>
-<node TEXT=". for a few days prior to 2016 04 15" ID="ID_576626337" CREATED="1460852633119" MODIFIED="1460852655463"/>
+<node TEXT="maybe install for Tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_561010088" CREATED="1461528107193" MODIFIED="1461528384278">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1684513691" STARTINCLINATION="94;0;" ENDINCLINATION="94;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="= search these phrases in installs/14.04" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1465019021" CREATED="1461528350140" MODIFIED="1461528363631"/>
+<node TEXT="sudo apt-get install libav-tools" ID="ID_385696399" CREATED="1430759015151" MODIFIED="1430759021317"/>
+<node TEXT="realtime jack" ID="ID_893281665" CREATED="1461528179570" MODIFIED="1461528180323"/>
+<node TEXT="low latency kernel" ID="ID_277108042" CREATED="1461528207818" MODIFIED="1461528212191"/>
+<node TEXT="libpulse-dev" ID="ID_1212903935" CREATED="1461528223451" MODIFIED="1461528224177"/>
+<node TEXT="dirt versions" ID="ID_1806077712" CREATED="1461528231675" MODIFIED="1461528232209"/>
+<node TEXT="2016 01 06: jack + midi" ID="ID_313114805" CREATED="1461528262779" MODIFIED="1461528263545"/>
+<node TEXT="&quot;ondemand governor&quot;: disabled" ID="ID_1125624776" CREATED="1461528288716" MODIFIED="1461528289242"/>
+<node TEXT="dub" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1646212844" CREATED="1461528328612" MODIFIED="1461528330318">
+<node TEXT="I think this was for Pianoteq, not Tidal." LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_319928383" CREATED="1461528332436" MODIFIED="1461528342557"/>
+<node TEXT="lv2" ID="ID_948492450" CREATED="1461528305740" MODIFIED="1461528306370"/>
+</node>
 </node>
 <node TEXT="on kubuntu 14.04" ID="ID_1684513691" CREATED="1460324227931" MODIFIED="1460324235436">
 <font BOLD="true"/>
@@ -6353,19 +6424,7 @@
 <node TEXT="realtime (incomplete)" ID="ID_1765672055" CREATED="1443143874595" MODIFIED="1443596989017">
 <font BOLD="true"/>
 <node TEXT=".serial (so far)" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1525803579" CREATED="1443148527728" MODIFIED="1443148532504"/>
-<node ID="ID_115171740" CREATED="1443148496071" MODIFIED="1443148496071"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      realtime jack
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="realtime jack" ID="ID_115171740" CREATED="1443148496071" MODIFIED="1461528176638">
 <node TEXT="Thu Sep 24 19:00:11 PDT 2015" ID="ID_1209371737" CREATED="1443148519116" MODIFIED="1443148525950"/>
 <node TEXT="emailing lurk/tidal" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_277465770" CREATED="1443148393726" MODIFIED="1443148398173"/>
 <node TEXT="http://jackaudio.org/faq/linux_rt_config.html" ID="ID_748347151" CREATED="1443144493499" MODIFIED="1443144493499" LINK="http://jackaudio.org/faq/linux_rt_config.html"/>

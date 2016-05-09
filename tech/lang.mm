@@ -17764,6 +17764,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 <node TEXT="good samples, unlearned" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1082551649" CREATED="1459449921314" MODIFIED="1459449925848">
+<node TEXT="ab:2 : cymbal rim, ghost" LOCALIZED_STYLE_REF="default" ID="ID_283463777" CREATED="1462420904207" MODIFIED="1462420927616"/>
 <node TEXT="short 0 ~ bleep, softer" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_454306166" CREATED="1459450180197" MODIFIED="1459450189066"/>
 <node TEXT="short 1 = snare" ID="ID_742108673" CREATED="1459450204098" MODIFIED="1459450207898"/>
 <node TEXT="short:2 = short ringy snare" ID="ID_1370719402" CREATED="1459449926746" MODIFIED="1459449938483"/>
@@ -19970,7 +19971,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="&quot;interpreter variables&quot;: one char, def&apos;d at start" ID="ID_620566646" CREATED="1416778575170" MODIFIED="1416778582949"/>
 </node>
 <node TEXT="environment" ID="ID_1134434597" CREATED="1416095696858" MODIFIED="1416095755829">
-<node TEXT="internalized" ID="ID_1829013186" CREATED="1416777080203" MODIFIED="1416777083342">
 <node ID="ID_1890779927" CREATED="1416095756221" MODIFIED="1416095756221"><richcontent TYPE="NODE">
 
 <html>
@@ -20003,7 +20003,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="can be changed" ID="ID_1441047000" CREATED="1416095761305" MODIFIED="1416095764533">
 <node TEXT="// to be sure, create a new Environment:&#xa;Environment.new.push;&#xa;&#xa;// some code..&#xa;&#xa;// restore old environment&#xa;currentEnvironment.pop;" ID="ID_624616765" CREATED="1416095746777" MODIFIED="1416095750957"/>
-</node>
 </node>
 </node>
 <node TEXT="control flow" ID="ID_86067663" CREATED="1416777111930" MODIFIED="1416782141579">
@@ -20054,7 +20053,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="Function" ID="ID_237759225" CREATED="1416025731066" MODIFIED="1416080311742">
 <node TEXT="&apos;cep" ID="ID_1741403724" CREATED="1416080322753" MODIFIED="1416080324869">
 <node TEXT="Function is a class" ID="ID_1643176399" CREATED="1416080308211" MODIFIED="1416080326989"/>
-<node TEXT="&quot;.&quot; is message-passing" ID="ID_119065010" CREATED="1416025911855" MODIFIED="1416025919659">
+<node TEXT="&quot;.&quot; passes messages rightward" ID="ID_119065010" CREATED="1416025911855" MODIFIED="1462170287368">
 <node TEXT="in x.y, the dot sends the message y to the object x" ID="ID_612318612" CREATED="1416025895328" MODIFIED="1416025910014"/>
 </node>
 </node>
