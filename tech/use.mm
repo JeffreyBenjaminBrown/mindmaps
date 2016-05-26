@@ -4593,13 +4593,6 @@
 </node>
 </node>
 </node>
-<node TEXT="my Dirt" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_1226420801" CREATED="1461644678745" MODIFIED="1461644684829">
-<node TEXT="changed some folder names" ID="ID_1737659595" CREATED="1461644685980" MODIFIED="1461644689291"/>
-<node TEXT="to figure out which, compare folder structure to Dirt&apos;s master github image" ID="ID_487736604" CREATED="1461644689503" MODIFIED="1461644706609">
-<node TEXT="all made-by-me names are two letters" ID="ID_1964335635" CREATED="1461644751546" MODIFIED="1461644761647"/>
-<node TEXT="alphabetization may have changed, e.g. had I changed sitar to si, it would have jumped sine" ID="ID_1851082013" CREATED="1461644717169" MODIFIED="1461644768146"/>
-</node>
-</node>
 <node TEXT=". &lt;freq | &lt;crit" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_168804160" CREATED="1420485620715" MODIFIED="1421715429973">
 <node TEXT="coop" ID="ID_713158270" CREATED="1414616511859" MODIFIED="1414616551737">
 <node TEXT="team" ID="ID_1384663229" CREATED="1409795865004" MODIFIED="1409795865655">
@@ -5990,6 +5983,18 @@
 </node>
 <node TEXT="dates" POSITION="right" ID="ID_204995815" CREATED="1432591003731" MODIFIED="1432591006569">
 <font BOLD="true"/>
+<node TEXT="2016 05 23" ID="ID_218587650" CREATED="1464043142497" MODIFIED="1464043148791">
+<node TEXT="make =/= make install" ID="ID_619405664" CREATED="1464043150124" MODIFIED="1464043155431">
+<node TEXT="(before either, ./configure discovers system)" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1356135291" CREATED="1464043167251" MODIFIED="1464043247446"/>
+<node TEXT="make builds software" ID="ID_1955733405" CREATED="1464043156486" MODIFIED="1464043159979"/>
+<node TEXT="make install puts it where it goes" ID="ID_58619035" CREATED="1464043160199" MODIFIED="1464043164611"/>
+</node>
+</node>
+<node TEXT="6 23" ID="ID_915020002" CREATED="1435123513157" MODIFIED="1435123514983">
+<node TEXT="how long to code in haskell to speed my svn" ID="ID_1316324301" CREATED="1424408212260" MODIFIED="1424408219003">
+<node TEXT="stepper, tab-complete" ID="ID_1467045588" CREATED="1424408220188" MODIFIED="1424408226659"/>
+</node>
+</node>
 <node TEXT="2015 03 28" LOCALIZED_STYLE_REF="default" ID="ID_1891365282" CREATED="1427584243737" MODIFIED="1432591001321">
 <node TEXT="opensuse" ID="ID_803264818" CREATED="1427651212880" MODIFIED="1427651216863">
 <node TEXT="&gt; installing vty-ui: add demos" LOCALIZED_STYLE_REF="default" ID="ID_700449302" CREATED="1427573942558" MODIFIED="1427584249250">
@@ -6004,11 +6009,6 @@
 </node>
 <node TEXT="okular: show/hide menu bar with Ctrl-M" ID="ID_1622049642" CREATED="1427617622829" MODIFIED="1427617629311"/>
 <node TEXT="if I like where zoom goes, leave the mouse still and I can come back to it" ID="ID_257140213" CREATED="1427659557443" MODIFIED="1427659567338"/>
-</node>
-<node TEXT="6 23" ID="ID_915020002" CREATED="1435123513157" MODIFIED="1435123514983">
-<node TEXT="how long to code in haskell to speed my svn" ID="ID_1316324301" CREATED="1424408212260" MODIFIED="1424408219003">
-<node TEXT="stepper, tab-complete" ID="ID_1467045588" CREATED="1424408220188" MODIFIED="1424408226659"/>
-</node>
 </node>
 <node TEXT="2015 03 20, from MBP(2008)" LOCALIZED_STYLE_REF="default" ID="ID_1507768488" CREATED="1426889068367" MODIFIED="1440550094679">
 <node TEXT="lenovo specs from bios" ID="ID_1301513846" CREATED="1426889080991" MODIFIED="1426889084835">
@@ -6050,6 +6050,18 @@
 <node TEXT="see &quot;use.mm/installs/../disable frequency scaling&quot;" ID="ID_1306563862" CREATED="1460877561608" MODIFIED="1460877574814"/>
 </node>
 <node TEXT="on kubuntu 16.04" ID="ID_237119174" CREATED="1461558625886" MODIFIED="1461558629547">
+<node TEXT="SuperCollider, SuperDirt, sc3-plugins" LOCALIZED_STYLE_REF="default" ID="ID_123388802" CREATED="1464041058021" MODIFIED="1464130483993">
+<node TEXT="sudo apt install sc3-plugins" ID="ID_549499957" CREATED="1464130487593" MODIFIED="1464130490950"/>
+<node TEXT="SuperCollider: see apps/SuperCollider" ID="ID_1373301587" CREATED="1464130492225" MODIFIED="1464130499044"/>
+<node TEXT="within SuperCollider: include(&quot;SuperDirt&quot;);" ID="ID_1216290984" CREATED="1464130507639" MODIFIED="1464130538370">
+<node TEXT="this *installs* SuperDirt" ID="ID_319527403" CREATED="1464130539046" MODIFIED="1464130545227"/>
+</node>
+</node>
+<node TEXT="24" ID="ID_1745559385" CREATED="1464130436046" MODIFIED="1464130436953"/>
+<node TEXT="Chrome: Google hangouts plugin" ID="ID_1355269706" CREATED="1463682243888" MODIFIED="1463682251429"/>
+<node TEXT="19" ID="ID_1254198564" CREATED="1463682240744" MODIFIED="1463682243341"/>
+<node TEXT="r studio: apt" ID="ID_1125536405" CREATED="1463604398160" MODIFIED="1463604403532"/>
+<node TEXT="05 16" ID="ID_380621445" CREATED="1463604395471" MODIFIED="1463604397813"/>
 <node TEXT="apt-get lots of stuff for supercollider" ID="ID_1264861627" CREATED="1462681166033" MODIFIED="1462681172064">
 <node TEXT="sudo apt install build-essential libjack-jackd2-dev libsndfile1-dev libasound2-dev libavahi-client-dev libicu-dev libreadline6-dev libfftw3-dev libxt-dev libudev-dev libcwiid-dev pkg-config cmake qt5-default qt5-qmake qttools5-dev qttools5-dev-tools qtdeclarative5-dev libqt5webkit5-dev qtpositioning5-dev libqt5sensors5-dev" ID="ID_706589370" CREATED="1462681173048" MODIFIED="1462681174870"/>
 </node>

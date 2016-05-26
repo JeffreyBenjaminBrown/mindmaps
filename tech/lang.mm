@@ -17744,8 +17744,232 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="&amp; emacs haskell mode" ID="ID_1116620833" CREATED="1443926800174" MODIFIED="1445329587709">
 <node TEXT="inferior-haskell-send-command" ID="ID_472467863" CREATED="1443926814284" MODIFIED="1443926814284"/>
 </node>
+<node TEXT="Neo4j" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_231893235" CREATED="1464045566682" MODIFIED="1464045569116">
+<node TEXT="notes" ID="ID_428328418" CREATED="1464060993870" MODIFIED="1464060994893">
+<font BOLD="true"/>
+<node TEXT="the pattern lang" ID="ID_1553688967" CREATED="1464046466925" MODIFIED="1464046777105">
+<font BOLD="true"/>
+<node TEXT="node notation" ID="ID_602784550" CREATED="1464045611143" MODIFIED="1464045851786">
+<node TEXT="()" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_314571477" CREATED="1464045582342" MODIFIED="1464046229875"/>
+<node TEXT="(label)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1088404183" CREATED="1464045592110" MODIFIED="1464046229878"/>
+<node TEXT="(label:Type)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_62496087" CREATED="1464045620496" MODIFIED="1464046229880"/>
+<node TEXT="(label:Type {string-property: &quot;Value&quot;, int-property 3, ..}" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1657421584" CREATED="1464045759820" MODIFIED="1464046229881"/>
+</node>
+<node TEXT="rel notation" ID="ID_98323688" CREATED="1464045851993" MODIFIED="1464045853388">
+<node TEXT="-- = undirected" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1436695863" CREATED="1464045854042" MODIFIED="1464046230651"/>
+<node TEXT="directed" ID="ID_1482895906" CREATED="1464045883719" MODIFIED="1464045918056">
+<font BOLD="true"/>
+<node TEXT="-[role]-&gt;&#xa;-[:ACTED_IN]-&gt;&#xa;-[role:ACTED_IN]-&gt;&#xa;-[role:ACTED_IN {roles: [&quot;Neo&quot;], ..}]-&gt;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1937509839" CREATED="1464045887589" MODIFIED="1464046231259"/>
+</node>
+</node>
+<node TEXT="property values can be arrays" ID="ID_1909171548" CREATED="1464045990647" MODIFIED="1464045995739"/>
+<node TEXT="node labels only apply ..!" ID="ID_1939729684" CREATED="1464045636450" MODIFIED="1464046006060">
+<node ID="ID_1239374635" CREATED="1464046004612" MODIFIED="1464046004612"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      in the (smallest?) containing statement
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="a (factual) pattern" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_968047845" CREATED="1464046048565" MODIFIED="1464046786326">
+<node TEXT="(keanu:Person:Actor {name:  &quot;Keanu Reeves&quot;} )&#xa;-[role:ACTED_IN     {roles: [&quot;Neo&quot;] } ]-&gt;&#xa;(matrix:Movie       {title: &quot;The Matrix&quot;} )" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_531483904" CREATED="1464046066489" MODIFIED="1464046222643"/>
+</node>
+<node TEXT="node in a pattern [reps] zero or more nodes in the graph" ID="ID_1904036780" CREATED="1464046138762" MODIFIED="1464046156675"/>
+<node TEXT="pattern [reps] zero or more paths" ID="ID_1836550087" CREATED="1464046166925" MODIFIED="1464046175160"/>
+<node TEXT="patterns are assignable" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_591676345" CREATED="1464046213346" MODIFIED="1464047580156">
+<node TEXT="acted_in = (:Person)-[:ACTED_IN]-&gt;(:Movie)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_551728085" CREATED="1464046218482" MODIFIED="1464046221270"/>
+<node TEXT="in both match &amp; in create statements" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1424968607" CREATED="1464047097893" MODIFIED="1464047582172"/>
+</node>
+</node>
+<node TEXT="Path -&gt; _ functions" LOCALIZED_STYLE_REF="default" ID="ID_950443609" CREATED="1464046270179" MODIFIED="1464046820338">
+<node TEXT="nodes(path), rels(path) (same as relationships(path)), and length(path)." ID="ID_1740149192" CREATED="1464046275722" MODIFIED="1464046276521"/>
+</node>
+<node TEXT="create" ID="ID_390849490" CREATED="1464046469966" MODIFIED="1464046805044">
+<font BOLD="false"/>
+<node TEXT="no return statement needed" ID="ID_553219004" CREATED="1464046707035" MODIFIED="1464046710041"/>
+<node TEXT="create a whole path at a time" ID="ID_402798876" CREATED="1464046718494" MODIFIED="1464046722514"/>
+<node TEXT="CREATE (a:Person { name:&quot;Tom Hanks&quot;,&#xa;  born:1956 })-[r:ACTED_IN { roles: [&quot;Forrest&quot;]}]-&gt;(m:Movie { title:&quot;Forrest Gump&quot;,released:1994 })&#xa;CREATE (d:Person { name:&quot;Robert Zemeckis&quot;, born:1951 })-[:DIRECTED]-&gt;(m)&#xa;RETURN a,d,r,m" LOCALIZED_STYLE_REF="default" ID="ID_672983707" CREATED="1464046711213" MODIFIED="1464046727658"/>
+</node>
+<node TEXT="match" ID="ID_1386298292" CREATED="1464046805270" MODIFIED="1464046806162">
+<node TEXT="only provide enough information to find the nodes" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_471308050" CREATED="1464046850467" MODIFIED="1464047575660">
+<node TEXT="MATCH (p:Person { name:&quot;Keanu Reeves&quot; })&#xa;RETURN p" ID="ID_1401521248" CREATED="1464046857269" MODIFIED="1464046858025"/>
+<node TEXT="(Keanu has more information than name)" ID="ID_1936476682" CREATED="1464046862565" MODIFIED="1464046874089"/>
+</node>
+<node TEXT="dot notation" ID="ID_513469154" CREATED="1464046962127" MODIFIED="1464046974588">
+<font BOLD="true"/>
+<node TEXT="MATCH (p:Person { name:&quot;Tom Hanks&quot; })-[r:ACTED_IN]-&gt;(m:Movie)&#xa;RETURN m.title, r.roles" ID="ID_1351623144" CREATED="1464046966742" MODIFIED="1464046967516"/>
+</node>
+<node TEXT="return gives one row per matched statement" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1564936697" CREATED="1464047187646" MODIFIED="1464047198933">
+<node TEXT="&quot;A tricky aspect of the combination of MATCH and CREATE is that we get one row per matched pattern. This causes subsequent CREATE statements to be executed once for each row. In many cases this is what you want. If that&#x2019;s not intended, please move the CREATE statement before the MATCH, or change the cardinality of the query with means discussed later or use the get or create semantics of the next clause: MERGE.&quot;" ID="ID_1364696186" CREATED="1464047205822" MODIFIED="1464047207882"/>
+</node>
+</node>
+<node TEXT="merge (&amp; use result)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_992147550" CREATED="1464047255603" MODIFIED="1464047359788">
+<node TEXT="merge = create if not present" LOCALIZED_STYLE_REF="default" ID="ID_1850196329" CREATED="1464047257411" MODIFIED="1464047610573"/>
+<node TEXT="MERGE (m:Movie { title:&quot;Cloud Atlas&quot; })&#xa;ON CREATE SET m.released = 2012&#xa;RETURN m" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_479026240" CREATED="1464047344923" MODIFIED="1464047360566">
+<node TEXT="If I understand right, if this finds movies titled &quot;Cloud Atlas&quot;, it will set each one&apos;s &quot;released&quot; field to 2012, and otherwise will make one and do that to it." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_485338063" CREATED="1464047355531" MODIFIED="1464047404505"/>
+<node TEXT="In either case it returns all of them." ID="ID_1577148825" CREATED="1464047404715" MODIFIED="1464047410761"/>
+</node>
+<node TEXT="merges are total" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_484234516" CREATED="1464047451212" MODIFIED="1464047455845">
+<node TEXT="&quot;A MERGE clause without any previously assigned identifiers in it either matches the full pattern or creates the full pattern. It never produces a partial mix of matching and creating within a pattern. To achieve a partial match/create, make sure to use already defined identifiers for the parts that shouldn&#x2019;t be affected.&quot;" ID="ID_492149738" CREATED="1464047456801" MODIFIED="1464047461749"/>
+</node>
+<node TEXT="assert rel is unique" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_873688379" CREATED="1464047544635" MODIFIED="1464047750620">
+<font BOLD="false"/>
+<node TEXT="MATCH (m:Movie { title:&quot;Cloud Atlas&quot; })&#xa;MATCH (p:Person { name:&quot;Tom Hanks&quot; })&#xa;MERGE (p)-[r:ACTED_IN]-&gt;(m)&#xa;ON CREATE SET r.roles =[&apos;Zachry&apos;]&#xa;RETURN p,r,m" ID="ID_814480196" CREATED="1464047549571" MODIFIED="1464047550520"/>
+</node>
+<node TEXT="can look in both directions" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1984814665" CREATED="1464047726076" MODIFIED="1464047749572">
+<font BOLD="false"/>
+<node TEXT="&quot;In case the direction of a relationship is arbitrary, you can leave off the arrowhead. MERGE will then check for the relationship in either direction, and create a new directed relationship if no matching relationship was found.&quot;" ID="ID_1226003049" CREATED="1464047742900" MODIFIED="1464047745713"/>
+</node>
+<node TEXT="for speed: fix what is fixed" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_458319824" CREATED="1464047825781" MODIFIED="1464047904518">
+<node TEXT="first match (or create) as much as is possible to restrict the search" ID="ID_1294813396" CREATED="1464047828189" MODIFIED="1464047853546"/>
+<node TEXT="e.g. in (roughly) &quot;merge x -&gt; y&quot;, if match y before merge, will only search y&apos;s neighbors for x" ID="ID_1054582533" CREATED="1464047854259" MODIFIED="1464047886106"/>
+</node>
+</node>
+<node TEXT="conditions (on matches)" ID="ID_1476026075" CREATED="1464049352928" MODIFIED="1464049511718">
+<node TEXT="only usually requires &quot;where&quot;" ID="ID_1647208473" CREATED="1464049553747" MODIFIED="1464049585010">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_893726211" STARTINCLINATION="58;0;" ENDINCLINATION="58;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="property conditions" ID="ID_1221079360" CREATED="1464049357065" MODIFIED="1464049598533">
+<node TEXT="MATCH (m:Movie)&#xa;WHERE m.title = &quot;The Matrix&quot;&#xa;RETURN m" ID="ID_1711750888" CREATED="1464049355371" MODIFIED="1464049356141"/>
+<node TEXT="equiv, no explicit where" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_893726211" CREATED="1464049382692" MODIFIED="1464049395297">
+<node TEXT="MATCH (m:Movie { title: &quot;The Matrix&quot; })&#xa;RETURN m" ID="ID_1821561611" CREATED="1464049387348" MODIFIED="1464049388101"/>
+</node>
+<node TEXT="and, or, regex, compare, membership" ID="ID_820016609" CREATED="1464049444890" MODIFIED="1464049462616">
+<node TEXT="MATCH (p:Person)-[r:ACTED_IN]-&gt;(m:Movie)&#xa;WHERE p.name =~ &quot;K.+&quot; OR m.released &gt; 2000 OR &quot;Neo&quot; IN r.roles&#xa;RETURN p,r,m" ID="ID_1533088221" CREATED="1464049463309" MODIFIED="1464049464081"/>
+</node>
+</node>
+<node TEXT="path conditions" ID="ID_951162804" CREATED="1464049542804" MODIFIED="1464049546169">
+<node TEXT="MATCH (p:Person)-[:ACTED_IN]-&gt;(m)&#xa;WHERE NOT (p)-[:DIRECTED]-&gt;()&#xa;RETURN p,m" ID="ID_961738618" CREATED="1464049546947" MODIFIED="1464049547684"/>
+</node>
+</node>
+<node TEXT="summary stats" ID="ID_977289732" CREATED="1464050086794" MODIFIED="1464050089871">
+<node TEXT="MATCH (:Person)&#xa;RETURN count(*) AS people" ID="ID_1045846693" CREATED="1464050090428" MODIFIED="1464050092343"/>
+<node TEXT="RETURN count(DISTINCT role)" ID="ID_948430449" CREATED="1464050112917" MODIFIED="1464050119707"/>
+<node TEXT="grouping" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_518901770" CREATED="1464050148550" MODIFIED="1464050151358">
+<node TEXT="&quot;You specify which result columns you want to aggregate and Cypher will use all non-aggregated columns as grouping keys.&quot;" ID="ID_1731916271" CREATED="1464050152118" MODIFIED="1464050160395"/>
+<node TEXT="MATCH (actor:Person)-[:ACTED_IN]-&gt;(movie:Movie)&lt;-[:DIRECTED]-(director:Person)&#xa;RETURN actor,director,count(*) AS collaborations" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_270502039" CREATED="1464050219531" MODIFIED="1464050256128">
+<node TEXT=": how often an actor and director worked together" LOCALIZED_STYLE_REF="default" ID="ID_1988278337" CREATED="1464050201156" MODIFIED="1464050260923"/>
+</node>
+</node>
+</node>
+<node TEXT="order &amp; paginate" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_561731569" CREATED="1464056547030" MODIFIED="1464056607831">
+<node TEXT="ORDER BY expression [ASC|DESC]" ID="ID_1724489311" CREATED="1464056368921" MODIFIED="1464056370333"/>
+<node TEXT="&quot;Pagination is a straightforward use of SKIP {offset} LIMIT {count}.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_906430481" CREATED="1464056598509" MODIFIED="1464056602998"/>
+<node TEXT="find 10 actors with most appearances" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1952667664" CREATED="1464056570518" MODIFIED="1464056589744">
+<node TEXT="I think" ID="ID_1928050286" CREATED="1464056590615" MODIFIED="1464056593276"/>
+<node TEXT="MATCH (a:Person)-[:ACTED_IN]-&gt;(m:Movie)&#xa;RETURN a,count(*) AS appearances&#xa;ORDER BY appearances DESC LIMIT 10;" ID="ID_746595985" CREATED="1464056550804" MODIFIED="1464056555190"/>
+</node>
+</node>
+<node TEXT="collect" ID="ID_265108760" CREATED="1464056823456" MODIFIED="1464056893273">
+<node TEXT="= in a cell, collect that row&apos;s (say) children" ID="ID_1173831551" CREATED="1464056894496" MODIFIED="1464056908986"/>
+<node TEXT="MATCH (m:Movie)&lt;-[:ACTED_IN]-(a:Person)&#xa;RETURN m.title AS movie, collect(a.name) AS cast, count(*) AS actors" ID="ID_631302819" CREATED="1464056857957" MODIFIED="1464056863686">
+<node TEXT="retrieve the cast of each movie" ID="ID_1891507318" CREATED="1464056871929" MODIFIED="1464056872936"/>
+</node>
+</node>
+<node TEXT="union" ID="ID_555893341" CREATED="1464057071139" MODIFIED="1464057072255">
+<node TEXT="for similar-looking rows" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1233971758" CREATED="1464057072671" MODIFIED="1464057079977"/>
+<node TEXT="get all actors &amp; directors" ID="ID_154418704" CREATED="1464057085147" MODIFIED="1464057094709">
+<node TEXT="MATCH (actor:Person)-[r:ACTED_IN]-&gt;(movie:Movie)&#xa;RETURN actor.name AS name, type(r) AS acted_in, movie.title AS title&#xa;UNION&#xa;MATCH (director:Person)-[r:DIRECTED]-&gt;(movie:Movie)&#xa;RETURN director.name AS name, type(r) AS acted_in, movie.title AS title" ID="ID_1958934071" CREATED="1464057080471" MODIFIED="1464057083748"/>
+</node>
+</node>
+<node TEXT="with (filter)" ID="ID_1141417847" CREATED="1464057250343" MODIFIED="1464057258451">
+<node TEXT="MATCH (person:Person)-[:ACTED_IN]-&gt;(m:Movie)&#xa;WITH person, count(*) AS appearances, collect(m.title) AS movies&#xa;WHERE appearances &gt; 1&#xa;RETURN person.name, appearances, movies" ID="ID_152685687" CREATED="1464057258941" MODIFIED="1464057260666">
+<node TEXT="discard people with only one appearance" ID="ID_1622540746" CREATED="1464057264207" MODIFIED="1464057278423"/>
+</node>
+</node>
+<node TEXT="&quot;or&quot; on relationships" ID="ID_1889252830" CREATED="1464057048902" MODIFIED="1464057057576">
+<node TEXT="()-[:ACTED_IN|:DIRECTED]-&gt;()" ID="ID_935145478" CREATED="1464057050324" MODIFIED="1464057052418"/>
+</node>
+<node TEXT="constraints, indexes" ID="ID_1359255660" CREATED="1464057457086" MODIFIED="1464057459906">
+<node TEXT="constraints : assert field unique among type" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1590524884" CREATED="1464057497378" MODIFIED="1464058815663">
+<node TEXT="CREATE CONSTRAINT ON (movie:Movie) ASSERT movie.title IS UNIQUE" ID="ID_703334561" CREATED="1464057514278" MODIFIED="1464057516208"/>
+<node TEXT="&quot;Note that adding the unique constraint will implicitly add an index on that property, so we won&#x2019;t have to do that separately. If we drop a constraint but still want an index on that property, we will have to create the index explicitly.&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1077414045" CREATED="1464057545679" MODIFIED="1464057549383"/>
+</node>
+<node TEXT="indexes : explicit start nodes, to speed queries" ID="ID_487378796" CREATED="1464058809433" MODIFIED="1464058829705">
+<node TEXT="CREATE INDEX ON :Actor(name)" ID="ID_20040336" CREATED="1464058830413" MODIFIED="1464058835616">
+<node TEXT="&quot;create an index to speed up finding actors by name&quot;" ID="ID_1460688637" CREATED="1464058836379" MODIFIED="1464058844093"/>
+</node>
+<node TEXT="&quot;Normally you don&#x2019;t specify indexes when querying for data&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_40605619" CREATED="1464058884124" MODIFIED="1464058888676"/>
+</node>
+</node>
+<node TEXT="import, parse" ID="ID_226981923" CREATED="1464059291974" MODIFIED="1464059301811">
+<node TEXT="http://neo4j.com/docs/stable/cypherdoc-loading-data.html" ID="ID_727947" CREATED="1464059296951" MODIFIED="1464059296951" LINK="http://neo4j.com/docs/stable/cypherdoc-loading-data.html"/>
+</node>
+<node TEXT="data structures / lists" ID="ID_928019912" CREATED="1464059434760" MODIFIED="1464060474052">
+<font BOLD="true"/>
+<node TEXT="create a list, of max length 2" ID="ID_243910630" CREATED="1464059561341" MODIFIED="1464059593618">
+<node TEXT="MATCH (movie:Movie)&lt;-[:ACTED_IN]-(actor:Person)&#xa;RETURN movie.title AS movie, collect(actor.name)[0..2] AS two_of_cast" ID="ID_50505834" CREATED="1464059578070" MODIFIED="1464059578834"/>
+</node>
+<node TEXT="list notation|functions" ID="ID_62435056" CREATED="1464059621415" MODIFIED="1464059654142">
+<font BOLD="true"/>
+<node TEXT="list[1]" ID="ID_1239017896" CREATED="1464059635472" MODIFIED="1464059637548"/>
+<node TEXT="list[1..4]" ID="ID_421231690" CREATED="1464059637760" MODIFIED="1464059640837"/>
+<node TEXT="list[1..-4]" ID="ID_1825306696" CREATED="1464059643224" MODIFIED="1464059646925"/>
+<node TEXT="head, tail, last" ID="ID_487537229" CREATED="1464059647481" MODIFIED="1464059650173"/>
+<node TEXT="range(min,max)" ID="ID_1192803664" CREATED="1464060201384" MODIFIED="1464060211956">
+<node TEXT="range(0,10) = [0..10]" ID="ID_1451904567" CREATED="1464060215760" MODIFIED="1464060223333"/>
+</node>
+</node>
+<node TEXT="list predicates" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_954086766" CREATED="1464059764813" MODIFIED="1464059767589">
+<node TEXT="http://neo4j.com/docs/stable/cypherdoc-utilizing-data-structures.html" ID="ID_1914029934" CREATED="1464059774035" MODIFIED="1464059774035" LINK="http://neo4j.com/docs/stable/cypherdoc-utilizing-data-structures.html"/>
+<node TEXT="&quot;value IN list or any(x IN list WHERE x = value)&quot;" ID="ID_797563324" CREATED="1464059786554" MODIFIED="1464059789670"/>
+<node TEXT="all, any, none, single" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_947226356" CREATED="1464059792016" MODIFIED="1464059796345"/>
+</node>
+<node TEXT="list ops : extract, filter, reduce" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1728783226" CREATED="1464060125928" MODIFIED="1464060196372">
+<node TEXT="&quot;extract&quot; = transform" ID="ID_1363305639" CREATED="1464060160536" MODIFIED="1464060188267"/>
+<node TEXT="&quot;reduce&quot; = aggregate" ID="ID_1990060030" CREATED="1464060163255" MODIFIED="1464060186518"/>
+<node TEXT="= foldl (+) 0 $ filter (&gt; 25) $ (\n-&gt;n^2) &lt;$&gt; [0..10]" ID="ID_1486284765" CREATED="1464060148095" MODIFIED="1464060150500"/>
+<node TEXT="example, no graph" ID="ID_769626894" CREATED="1464060382218" MODIFIED="1464060404463">
+<node TEXT="WITH range(1,10) AS numbers&#xa;WITH extract(n IN numbers | n*n) AS squares&#xa;WITH filter(n IN squares WHERE n &gt; 25) AS large_squares&#xa;RETURN reduce(a = 0, n IN large_squares | a + n) AS sum_large_squares" ID="ID_1414879657" CREATED="1464060130591" MODIFIED="1464060131476"/>
+</node>
+<node TEXT="example, graph" ID="ID_1826335155" CREATED="1464060385346" MODIFIED="1464060409174">
+<node TEXT="MATCH (m:Movie)&lt;-[r:ACTED_IN]-(a:Person)&#xa;WITH m.title AS movie, collect({ name: a.name, roles: r.roles }) AS cast&#xa;RETURN movie, filter(actor IN cast WHERE actor.name STARTS WITH &quot;M&quot;)" ID="ID_1147001380" CREATED="1464060387866" MODIFIED="1464060388598"/>
+</node>
+</node>
+<node TEXT="unwind = invert $ aggregate" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1893103215" CREATED="1464060480019" MODIFIED="1464060584047">
+<node TEXT="http://neo4j.com/docs/stable/cypherdoc-utilizing-data-structures.html" ID="ID_1139235232" CREATED="1464060582525" MODIFIED="1464060582525" LINK="http://neo4j.com/docs/stable/cypherdoc-utilizing-data-structures.html"/>
+<node TEXT="un-collect results such that one row appears for each" ID="ID_1179750665" CREATED="1464060509797" MODIFIED="1464060517945"/>
+</node>
+</node>
+<node TEXT="curl : use Cypher from something else" ID="ID_400907412" CREATED="1464060865008" MODIFIED="1464060891022">
+<node TEXT="http://neo4j.com/docs/stable/cypher-intro-applications.html" ID="ID_1867602041" CREATED="1464060892321" MODIFIED="1464060892997"/>
+</node>
+<node TEXT="not fundamental" ID="ID_998609399" CREATED="1464050004772" MODIFIED="1464050011693">
+<font BOLD="true"/>
+<node TEXT="result column aliases" ID="ID_757772583" CREATED="1464049907510" MODIFIED="1464049920377">
+<node TEXT="this" ID="ID_501823730" CREATED="1464049944272" MODIFIED="1464049944968">
+<node TEXT="&quot;MATCH (p:Person)&#xa;RETURN p, p.name AS name, upper(p.name), coalesce(p.nickname,&quot;n/a&quot;) AS nickname, { name: p.name,&#xa;  label:head(labels(p))} AS person&quot;" ID="ID_1499789416" CREATED="1464049925364" MODIFIED="1464049943748"/>
+</node>
+<node TEXT="returns its results under a row of titles like this" ID="ID_546959659" CREATED="1464049945912" MODIFIED="1464049971113">
+<node TEXT="p name upper(p.name) nickname person&quot;" ID="ID_1882599908" CREATED="1464049951727" MODIFIED="1464049952428"/>
+</node>
+</node>
+<node TEXT="RETURN DISTINCT" ID="ID_265614839" CREATED="1464049998942" MODIFIED="1464050004129">
+<node TEXT="especially helpful, I suspect, with &quot;OR&quot;" ID="ID_1886020034" CREATED="1464050034186" MODIFIED="1464050044123"/>
+</node>
+</node>
+</node>
+<node TEXT="resume" ID="ID_664185630" CREATED="1464061006822" MODIFIED="1464061008610">
+<node TEXT="next to read" ID="ID_1776111606" CREATED="1464061012071" MODIFIED="1464061016547">
+<node TEXT="http://neo4j.com/docs/developer-manual/current/#cypher-intro" ID="ID_381621786" CREATED="1464061009687" MODIFIED="1464061009687" LINK="http://neo4j.com/docs/developer-manual/current/#cypher-intro"/>
+</node>
+<node TEXT="TOC" ID="ID_785345843" CREATED="1464061021215" MODIFIED="1464061022027">
+<node TEXT="http://neo4j.com/docs/stable/cypherdoc-getting-the-results-you-want.html" ID="ID_1827398225" CREATED="1464061022788" MODIFIED="1464061022788" LINK="http://neo4j.com/docs/stable/cypherdoc-getting-the-results-you-want.html"/>
+</node>
+</node>
+</node>
 <node TEXT="? Superdirt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1226869468" CREATED="1454566376357" MODIFIED="1454566379631"/>
-<node TEXT="Dirt" ID="ID_550072709" CREATED="1440655384921" MODIFIED="1442301955290">
+<node TEXT="Dirt" ID="ID_550072709" CREATED="1440655384921" MODIFIED="1462913475932">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_370683564" STARTINCLINATION="48;0;" ENDINCLINATION="48;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="freq folders" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_167727076" CREATED="1454552305989" MODIFIED="1454552311742">
 <node TEXT="bd" ID="ID_437744155" CREATED="1454552313119" MODIFIED="1454552313567">
 <node TEXT="3: muffled" ID="ID_442371531" CREATED="1454552314180" MODIFIED="1454552402656"/>
@@ -17761,6 +17985,13 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="feelfx" LOCALIZED_STYLE_REF="default" ID="ID_1649848762" CREATED="1440662081739" MODIFIED="1454557168754">
 <node TEXT="0 hi drone, 2 low drone" ID="ID_585856265" CREATED="1454557126180" MODIFIED="1454557155989"/>
+</node>
+</node>
+<node TEXT="I customized" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1226420801" CREATED="1461644678745" MODIFIED="1464130411004">
+<node TEXT="changed some folder names" ID="ID_1737659595" CREATED="1461644685980" MODIFIED="1461644689291"/>
+<node TEXT="to figure out which, compare folder structure to Dirt&apos;s master github image" ID="ID_487736604" CREATED="1461644689503" MODIFIED="1461644706609">
+<node TEXT="all made-by-me names are two letters" ID="ID_1964335635" CREATED="1461644751546" MODIFIED="1461644761647"/>
+<node TEXT="alphabetization may have changed, e.g. had I changed sitar to si, it would have jumped sine" ID="ID_1851082013" CREATED="1461644717169" MODIFIED="1461644768146"/>
 </node>
 </node>
 <node TEXT="good samples, unlearned" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1082551649" CREATED="1459449921314" MODIFIED="1459449925848">
@@ -23187,6 +23418,15 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="OSC connections toolkit for SuperCollider" ID="ID_482110507" CREATED="1458754644268" MODIFIED="1458754652799">
 <node TEXT="https://github.com/ModalityTeam/Modality-toolkit" ID="ID_904052748" CREATED="1458754653183" MODIFIED="1458754653183" LINK="https://github.com/ModalityTeam/Modality-toolkit"/>
 </node>
+</node>
+</node>
+<node TEXT="SuperDirt" ID="ID_968913975" CREATED="1464132030881" MODIFIED="1464132032765">
+<node TEXT="envelopes" ID="ID_776680264" CREATED="1464132047601" MODIFIED="1464132048981">
+<node TEXT="ref" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_582046917" CREATED="1464132070977" MODIFIED="1464132075018">
+<node TEXT="from: bgold &lt;bgold.cosmos@gmail.com&gt;&#xa;reply-to: tidal@group.lurk.org&#xa;to: tidal@group.lurk.org&#xa;date: Tue, May 3, 2016 at 2:32 PM&#xa;subject: Re: [tidal] SuperDirt and Synths; Adding Samples, and Sample Formats" ID="ID_348677031" CREATED="1464132073121" MODIFIED="1464132073990"/>
+</node>
+<node TEXT="&quot;Envelopes are very easy to add in SuperDirt, live even&quot;" ID="ID_1881063081" CREATED="1464132044265" MODIFIED="1464132047021"/>
+<node TEXT="~dirt.addModule(&apos;envelope&apos;, { |dirtEvent|&#xa;        dirtEvent.sendSynth(&apos;dirt_envelope&apos; ++ ~dirt.numChannels,&#xa;                [attack: ~attack, hold: ~hold, release:~release, out: ~out])}, { ~attack.notNil and: {~release.notNil}});&#xa;SynthDef(&quot;dirt_envelope&quot; ++ numChannels, { |out, attack=0, hold=0, release=0 |&#xa;        var signal;&#xa;        signal = In.ar(out, numChannels);&#xa;        ReplaceOut.ar(out, signal * EnvGen.ar(Env.linen(attack, hold, release, 1, -3)) );&#xa;}).add;&#xa;&#xa;Sets it up so you can specify &quot;attack&quot;, &quot;release&quot;, and &quot;hold&quot; in Tidal (only the first two are necessary)." ID="ID_78120665" CREATED="1464132035145" MODIFIED="1464132043807"/>
 </node>
 </node>
 <node TEXT="R" ID="ID_928746245" CREATED="1447268720491" MODIFIED="1447268721270">
