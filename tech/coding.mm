@@ -1936,61 +1936,93 @@
 <node TEXT="git : issue tracker &amp; pull request" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_538012603" CREATED="1464063749515" MODIFIED="1464063756868"/>
 </node>
 <node TEXT="RSLT +" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_738048738" CREATED="1447549000768" MODIFIED="1464244924504">
-<node TEXT="RSLT / arg" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_180583725" CREATED="1464207790999" MODIFIED="1464246695194">
-<node TEXT="to|for wikipedia" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1290038571" CREATED="1463519085024" MODIFIED="1464246897514">
-<node TEXT="colors" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1001668265" CREATED="1463521119211" MODIFIED="1463521185405">
+<node TEXT="arg" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_180583725" CREATED="1464207790999" MODIFIED="1464333827291">
+<node TEXT="arg" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1383720111" CREATED="1464334290413" MODIFIED="1464335728431">
+<node TEXT="colors &amp; to do" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1001668265" CREATED="1463521119211" MODIFIED="1464335157622">
 <node TEXT="light blue: good" ID="ID_1741880948" CREATED="1463521121099" MODIFIED="1463521123823"/>
 <node TEXT="blue: not done but not top crit" ID="ID_1807734515" CREATED="1463521124011" MODIFIED="1463521134839"/>
 <node TEXT="purple: next" ID="ID_1847955335" CREATED="1463521140203" MODIFIED="1463521145575"/>
 </node>
-<node TEXT="Dear Wikipedia," LOCALIZED_STYLE_REF="styles.topic" ID="ID_947299678" CREATED="1463519087013" MODIFIED="1463521105934">
-<node TEXT="I want to introduce to you an open-source data structure that I believe could radically simplify and organize Wikipedia. It will not raise your infrastructure requirements, and your data will be the same data, just organized differently, more connected and queriable." ID="ID_1672369275" CREATED="1463519087013" MODIFIED="1463519087013"/>
-<node TEXT="&lt;&lt;This proposal has four sections: ...&gt;&gt;" ID="ID_174023464" CREATED="1463519087013" MODIFIED="1463519087013"/>
+<node TEXT="cannot afford to record examples before presenting" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_290110420" CREATED="1464334690378" MODIFIED="1464334700795"/>
+<node TEXT="ignorant motiv" LOCALIZED_STYLE_REF="default" ID="ID_1596016668" CREATED="1464334311757" MODIFIED="1464337773672">
+<font BOLD="true"/>
+<node TEXT="=arguing it before defining it" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_213161861" CREATED="1464337774914" MODIFIED="1464340714327"/>
+<node TEXT="is" ID="ID_1075398634" CREATED="1464338785453" MODIFIED="1464338785929">
+<node TEXT="ways of organizing, connecting, navigating, viewing, automatically collecitng things" ID="ID_1020910232" CREATED="1422266244360" MODIFIED="1422266280994"/>
 </node>
-<node TEXT="Motivation &amp; Wiki" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_118213946" CREATED="1463519087014" MODIFIED="1463527612558">
-<node TEXT="wiki problems" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1611849819" CREATED="1463519254298" MODIFIED="1463521179556">
-<node TEXT="view rigidity" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1105255702" CREATED="1463521002938" MODIFIED="1463521116124">
-<node TEXT="Wikipedia consists of a set of rigid views called articles. To view (the article on) Russia is very distinct from viewing (the article on) the conomics of oil. If instead the data was a Reflexive Set of Labeled Tuples (an &quot;RSLT&quot;), the user could ask to look at all concepts related to both topics." ID="ID_1540823561" CREATED="1463519087015" MODIFIED="1463708995895"/>
-<node TEXT="You, Wikipedia, inherited a problem that originated in the linear, sequential nature of the spoken and written word. It is not a problem inherent to language [*the data in an RSLT is still language] but it is inherent to a linearized traversal of language, which all stories, speeches, books, articles -- the vast majority of the ways we consume language -- are." ID="ID_1160129213" CREATED="1463519087015" MODIFIED="1463709003471"/>
-<node TEXT="Because the experience of a human reader is chronological, a thing embedded in time, if we are to read something, we read it sequentially. As a result, we developed the natural habit of recording our data as sequences, as stories. But the linearization is only needed for the view. The view can be constructed later; the data do not have to be distorted into that state to begin with." ID="ID_1463252278" CREATED="1463519087016" MODIFIED="1463519087016"/>
+<node TEXT="high gain" ID="ID_772391266" CREATED="1464334451655" MODIFIED="1464334540375">
+<node TEXT="simplify" ID="ID_1080642954" CREATED="1464334453975" MODIFIED="1464334455628"/>
+<node TEXT="organize" ID="ID_58961222" CREATED="1464334455823" MODIFIED="1464334457372"/>
+<node TEXT="collect, connect" ID="ID_1677747819" CREATED="1464334458143" MODIFIED="1464334461508"/>
+<node TEXT="ask any kind of question" ID="ID_1437730689" CREATED="1464334731867" MODIFIED="1464334738783"/>
+<node TEXT="automate any (describable) kind of logic" ID="ID_1450380529" CREATED="1464334739523" MODIFIED="1464334755585"/>
+<node TEXT="unity" LOCALIZED_STYLE_REF="default" ID="ID_1337432351" CREATED="1464245286889" MODIFIED="1464338540804">
+<node TEXT="why would you want a bunch of tables? a bunch of files? why do you want to have to find the file, and then find the data within it?" ID="ID_744290878" CREATED="1464245254969" MODIFIED="1464245283557"/>
 </node>
-<node TEXT="data v. meta-data" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1380474898" CREATED="1463521011562" MODIFIED="1463521138612"/>
-<node TEXT="retractability" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1661653740" CREATED="1463629517555" MODIFIED="1463629521683"/>
-<node TEXT="authority" ID="ID_488974242" CREATED="1463521215884" MODIFIED="1463521217144">
-<node TEXT="just count someone&apos;s fights, check out the fights, see if you believe them." ID="ID_408857108" CREATED="1463527044593" MODIFIED="1463527067838"/>
-<node TEXT="if you don&apos;t have time, do that for a while until you can identify a judge of fights who you believe, then trust them" ID="ID_527605241" CREATED="1463527068026" MODIFIED="1463527090959"/>
+<node TEXT="speed" LOCALIZED_STYLE_REF="default" ID="ID_680677697" CREATED="1464338526795" MODIFIED="1464338541276">
+<node TEXT="graph: speedy like tree" ID="ID_471030404" CREATED="1464338528507" MODIFIED="1464338537487"/>
 </node>
-<node TEXT="crawl for data" ID="ID_817545022" CREATED="1463629865410" MODIFIED="1463629869126"/>
 </node>
-<node TEXT="RSLT solutions" LOCALIZED_STYLE_REF="styles.topic" ID="ID_164868775" CREATED="1463520965825" MODIFIED="1463709014150">
-<node TEXT="An RSLT allows one to construct views such as the following:" ID="ID_159913783" CREATED="1463519087018" MODIFIED="1463709020654"/>
+<node TEXT="low cost" ID="ID_1960784124" CREATED="1464334466936" MODIFIED="1464334541733">
+<node TEXT="most data need not change" ID="ID_429208886" CREATED="1464334468375" MODIFIED="1464334512759">
+<node ID="ID_743847559" CREATED="1464334513898" MODIFIED="1464334513898"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      just add connector data &amp; code to process across format changes
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="motiv &amp; problems" ID="ID_1105613944" CREATED="1464334767699" MODIFIED="1464334769704">
+<node TEXT="view rigidity" LOCALIZED_STYLE_REF="default" ID="ID_1105255702" CREATED="1463521002938" MODIFIED="1464334784348">
+<node TEXT="examples of rigid views" LOCALIZED_STYLE_REF="styles.topic" ID="ID_249167973" CREATED="1464334562977" MODIFIED="1464334790238">
+<node TEXT="wikipedia" ID="ID_508434326" CREATED="1464334566257" MODIFIED="1464334567853">
+<node TEXT="why can&apos;t I see the intersection of corn &amp; russia?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1553470170" CREATED="1464334620793" MODIFIED="1464334714507"/>
+<node TEXT="why are TOCs partial?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1049742501" CREATED="1464334628225" MODIFIED="1464334714509"/>
+</node>
+<node TEXT="excel" ID="ID_1037925970" CREATED="1464334568561" MODIFIED="1464334569533">
+<node TEXT="Why do you have tio go to your corn X country table before you can ask how much corn guatemala made in 1997?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1298983763" CREATED="1464334570185" MODIFIED="1464334714510"/>
+</node>
+<node TEXT="metadata" ID="ID_503701077" CREATED="1464334651298" MODIFIED="1464334654070">
+<node TEXT="why is the fact that the meaning of a word changed not part of the data itself?" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1060231034" CREATED="1464334654714" MODIFIED="1464334715980"/>
+</node>
+</node>
+<node TEXT="show intersections" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1638192582" CREATED="1464334411663" MODIFIED="1464334791060"/>
+</node>
+<node TEXT="info =/= traversal" ID="ID_1949524771" CREATED="1464334796812" MODIFIED="1464334825186">
+<node TEXT="You, Wikipedia, inherited a problem that originated in the linear, sequential nature of the spoken and written word. It is not a problem inherent to language [*the data in an RSLT is still language] but it is inherent to a linearized traversal of language, which all stories, speeches, books, articles -- the vast majority of the ways we consume language -- are." LOCALIZED_STYLE_REF="styles.topic" ID="ID_1160129213" CREATED="1463519087015" MODIFIED="1464334827150"/>
+<node TEXT="Because the experience of a human reader is chronological, a thing embedded in time, if we are to read something, we read it sequentially. As a result, we developed the natural habit of recording our data as sequences, as stories. But the linearization is only needed for the view. The view can be constructed later; the data do not have to be distorted into that state to begin with." LOCALIZED_STYLE_REF="styles.topic" ID="ID_1463252278" CREATED="1463519087016" MODIFIED="1464334839269"/>
+</node>
+<node TEXT="data v. meta-data" LOCALIZED_STYLE_REF="default" ID="ID_1380474898" CREATED="1463521011562" MODIFIED="1464334858573"/>
+<node TEXT="retractability" LOCALIZED_STYLE_REF="default" ID="ID_1661653740" CREATED="1463629517555" MODIFIED="1464334860152">
+<node TEXT="forget none of your own mistakes" ID="ID_1540198781" CREATED="1464334869573" MODIFIED="1464334876129"/>
+<node TEXT="share, if you choose, only your latest beliefs" ID="ID_550006761" CREATED="1464334876333" MODIFIED="1464334892522"/>
+</node>
+<node TEXT="wiki authority" ID="ID_488974242" CREATED="1463521215884" MODIFIED="1464334923386"/>
+<node TEXT="integ narrative data" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1162350756" CREATED="1464334969526" MODIFIED="1464335523142">
+<node TEXT="more later, after motiv &amp; expo" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1416420477" CREATED="1464335531861" MODIFIED="1464335539363">
+<node TEXT="expo = what an RSLT is" ID="ID_335916932" CREATED="1464335539981" MODIFIED="1464335545834"/>
+</node>
+</node>
+</node>
+<node TEXT="motiv &amp; query" LOCALIZED_STYLE_REF="default" ID="ID_164868775" CREATED="1463520965825" MODIFIED="1464335078609">
+<node TEXT="An RSLT allows one to construct views such as the following:" LOCALIZED_STYLE_REF="styles.topic" ID="ID_159913783" CREATED="1463519087018" MODIFIED="1464335084986"/>
 <node TEXT="* &quot;Show me every instance of compassion recorded before 1900, sorted by putting the least-viewed results first.&quot; Using the ordinary definition of compassion, this would return every action which had been explicitly labeled compassion by someone. However, the user could define a local definition of compassion -- say, any of love or altruism or mercy or kindness -- to collect everything that had been identified as any of those." ID="ID_1057400449" CREATED="1463519087019" MODIFIED="1463519087019"/>
 <node TEXT="* &quot;Put an asterisk next to every term on this page that has a special meaning in economics.&quot; This way words like &quot;game&quot; or &quot;normal&quot; that have a very different meaning in ordinary English would not confuse a non-economist while reading about economics." ID="ID_1848207653" CREATED="1463519087019" MODIFIED="1463519087019"/>
 <node TEXT="* &quot;Show me every statement recorded by [author] contradicted by some other author.&quot; &quot;Show me every statement regarding Israel or Palestine that nobody has contradicted.&quot; &quot;Show me every author that both [author] and [author] rely heavily on.&quot;" ID="ID_488712051" CREATED="1463519087019" MODIFIED="1463519087019"/>
 <node TEXT="*  &quot;Excluding things that swim, for each of the five kinds of vertebrates (fish, mammals ...), show me the ratio of the number of species of that kind to the total number of vertebrate species.&quot; Assuming entries existed for each species, the ratios could be counted automatically." ID="ID_1135176440" CREATED="1463526386280" MODIFIED="1463526687682"/>
 </node>
 </node>
-<node TEXT="Relationships are labeled tuples!" ID="ID_1840262644" CREATED="1463527426231" MODIFIED="1463527712615">
-<node TEXT="Consider the relationship &quot;_ helped _.&quot; It is an ordered tuple, specifically an ordered pair. It is labeled, in the sense that the label &quot;helped&quot; distinguishes that relationship from the similar relationship labeled &quot;used&quot;." ID="ID_1882074564" CREATED="1463527436087" MODIFIED="1463688754111"/>
-</node>
-<node TEXT="Sentences are nests of relationships!" ID="ID_910054165" CREATED="1463527510256" MODIFIED="1463527907457">
-<node TEXT="Consider the sentence, &quot;Babies need calcium because babies make bones.&quot; At the top level, binding last, is the &quot;because&quot; relationship. That relationship connects the &quot;needs&quot; relationship to the &quot;make&quot; relationship." ID="ID_176183971" CREATED="1463527769900" MODIFIED="1463688797911"/>
-<node TEXT="I dare you to find a fact that cannot be so deconstructed." LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1835456338" CREATED="1463688798233" MODIFIED="1463688799946"/>
-</node>
-<node TEXT="All (communicable) information is* sentences!" ID="ID_1634908016" CREATED="1463528516301" MODIFIED="1463688863664">
-<node TEXT="*is or can be equivalently represented as" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_468136386" CREATED="1463688864186" MODIFIED="1463688877308"/>
-<node TEXT="Let X :: cell in a table = &quot;In [year], [country] imported [number] gasoline.&quot; The table is just &quot;For years _ and countries _, show me all statements like X.&quot;" ID="ID_1981331641" CREATED="1463526863439" MODIFIED="1463527003557"/>
-<node TEXT="You might say, &quot;Music is not sentences!&quot; You would be right. But the music is a waveform, and a waveform can be expressed as a sequence of statements of the form, &quot;At time _ the air pressure is _.&quot;" ID="ID_1113393140" CREATED="1463688933107" MODIFIED="1463688992960"/>
-<node TEXT="That does not mean it should be *encoded* as a sequence of such statements. That would be wasteful. Music should be a sequence of numbers -- so mostly the same data -- plus some information explaining that they are all sound pressure values at given times in a particular song (and to guarantee uniqueness, who made it and what they called it or when they made it). The data just needs a little metadata to know itself." ID="ID_451421752" CREATED="1463689003988" MODIFIED="1463689100795"/>
-</node>
-<node TEXT="There exist good automatic parsers for transforming plain language into a nest of relationships!" LOCALIZED_STYLE_REF="default" ID="ID_1121915808" CREATED="1463528163681" MODIFIED="1463528683951">
-<node TEXT="This is great because the most interesting facts are not about numbers. Obscure but simple facts, like &quot;economy informs grace,&quot; deserve to be bound together in a network of relationships like &quot;_ helps _&quot;, &quot;_ contradicts _&quot;, &quot;_ assumes _&quot;, &quot;_ rebuts _&quot;, &quot;_ resembles _&quot;, &quot;_ helps understand _&quot; ..." ID="ID_712789976" CREATED="1463689118805" MODIFIED="1463689319037"/>
-</node>
-<node TEXT="There is an algebra on sentences! on those nests of relationships!" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_787401604" CREATED="1463528052263" MODIFIED="1463688714749">
-<node TEXT="These two sentences are the same: &quot;When the sun is high, if the grass is wet, it probably just rained.&quot; &quot;It probably just rained if the sun is high and the grass is wet.&quot; An RSLT allows equational reasoning on that algebra, so that one can ask, for instance, &quot;Under what conditions might the grass be wet?&quot;" ID="ID_1630892117" CREATED="1463528062327" MODIFIED="1463709027543"/>
-<node TEXT="You might worry that to find a kind of information, you would have to know exactly how someone might encode it. Not so! As long as you can think of one way of saying it, an inference engine can find all equivalent ways. (And the search is fast! Faster than it would be if you had to read through every page containing it. There are no pages, there are only contexts in which a statement is used. You don&apos;t have to search the ones where it does not appear. You don&apos;t even search the ones where it does; rather, you traverse from it to them.)" ID="ID_1579672780" CREATED="1463528554758" MODIFIED="1463688636133"/>
-</node>
-<node TEXT="What an RSLT is" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1024321588" CREATED="1463519087019" MODIFIED="1463709035342">
+<node TEXT="What an RSLT is" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1024321588" CREATED="1463519087019" MODIFIED="1464335447061">
 <node TEXT="The precise definition, in Haskell, can be found on lines 39 through 51 of this file:" ID="ID_131566315" CREATED="1463689383808" MODIFIED="1463696768377">
 <node TEXT="https://github.com/JeffreyBenjaminBrown/digraphs-with-text/blob/master/src/Dwt/Graph.hs" ID="ID_1869314857" CREATED="1463696733063" MODIFIED="1463696733063" LINK="https://github.com/JeffreyBenjaminBrown/digraphs-with-text/blob/master/src/Dwt/Graph.hs"/>
 </node>
@@ -2014,6 +2046,70 @@
 <node TEXT="Economists and medical statisticians would encode the first, or maybe the first two, in a table. The others statements would be retained in an ad-hoc manner, if at all. An RSLT can uniformly represent all of them." ID="ID_1044340311" CREATED="1463519362258" MODIFIED="1463709104407"/>
 </node>
 </node>
+<node TEXT="aware motiv" ID="ID_152102185" CREATED="1464337791954" MODIFIED="1464337797570">
+<font BOLD="true"/>
+<node TEXT="RSLT: complete" ID="ID_1978841503" CREATED="1464335218057" MODIFIED="1464335222291">
+<node TEXT="claim ! RSLTs are complete for (verbalizable) information" ID="ID_1343077996" CREATED="1464335196705" MODIFIED="1464335264631">
+<node TEXT="Truth, all information, is (describable as) a reflexive set of labeled tuples." ID="ID_1285197775" CREATED="1464242644683" MODIFIED="1464242680833"/>
+<node TEXT="equivalent claim :all language is describable in natural language" ID="ID_495912628" CREATED="1464243910587" MODIFIED="1464243937986"/>
+</node>
+<node TEXT="arg" ID="ID_11597180" CREATED="1464335241202" MODIFIED="1464335258464">
+<node TEXT="All (communicable) information is* sentences!" ID="ID_1634908016" CREATED="1463528516301" MODIFIED="1463688863664">
+<node TEXT="*is or can be equivalently represented as" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_468136386" CREATED="1463688864186" MODIFIED="1463688877308"/>
+<node TEXT="Let X :: cell in a table = &quot;In [year], [country] imported [number] gasoline.&quot; The table is just &quot;For years _ and countries _, show me all statements like X.&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1981331641" CREATED="1463526863439" MODIFIED="1464335301083"/>
+<node TEXT="You might say, &quot;Music is not sentences!&quot; You would be right. But the music is a waveform, and a waveform can be expressed as a sequence of statements of the form, &quot;At time _ the air pressure is _.&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1113393140" CREATED="1463688933107" MODIFIED="1464335301089"/>
+<node TEXT="That does not mean it should be *encoded* as a sequence of such statements. That would be wasteful. Music should be a sequence of numbers -- so mostly the same data -- plus some information explaining that they are all sound pressure values at given times in a particular song (and to guarantee uniqueness, who made it and what they called it or when they made it). The data just needs a little metadata to know itself." LOCALIZED_STYLE_REF="styles.topic" ID="ID_451421752" CREATED="1463689003988" MODIFIED="1464335301093"/>
+</node>
+<node TEXT="Relationships are labeled tuples!" ID="ID_1840262644" CREATED="1463527426231" MODIFIED="1463527712615">
+<node TEXT="Consider the relationship &quot;_ helped _.&quot; It is an ordered tuple, specifically an ordered pair. It is labeled, in the sense that the label &quot;helped&quot; distinguishes that relationship from the similar relationship labeled &quot;used&quot;." LOCALIZED_STYLE_REF="styles.topic" ID="ID_1882074564" CREATED="1463527436087" MODIFIED="1464335226042"/>
+</node>
+<node TEXT="Sentences are nests of relationships!" ID="ID_910054165" CREATED="1463527510256" MODIFIED="1463527907457">
+<node TEXT="Consider the sentence, &quot;Babies need calcium because babies make bones.&quot; At the top level, binding last, is the &quot;because&quot; relationship. That relationship connects the &quot;needs&quot; relationship to the &quot;make&quot; relationship." ID="ID_176183971" CREATED="1463527769900" MODIFIED="1463688797911"/>
+<node TEXT="I dare you to find a fact that cannot be so deconstructed." LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1835456338" CREATED="1463688798233" MODIFIED="1463688799946"/>
+</node>
+</node>
+<node TEXT="meaning ~ rels" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_888073268" CREATED="1464338006621" MODIFIED="1464338126792">
+<node TEXT="The labels are in a sense undefined. Their meaning is encoded in their relationships." ID="ID_336502246" CREATED="1464242687932" MODIFIED="1464242698472"/>
+<node TEXT="the meaning of &quot;show&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1738203376" CREATED="1464242853532" MODIFIED="1464338123448">
+<node TEXT="You know it can be transitive. You might not know you know that, but you know that &quot;_ shows _&quot;." ID="ID_1111002097" CREATED="1464242862603" MODIFIED="1464242891790"/>
+</node>
+</node>
+</node>
+<node TEXT="parse all info: within reach" ID="ID_946926884" CREATED="1464335357891" MODIFIED="1464335367672">
+<node TEXT="There exist good automatic parsers for transforming plain language into a nest of relationships!" LOCALIZED_STYLE_REF="default" ID="ID_1121915808" CREATED="1463528163681" MODIFIED="1463528683951">
+<node TEXT="This is great because the most interesting facts are not about numbers. Obscure but simple facts, like &quot;economy informs grace,&quot; deserve to be bound together in a network of relationships like &quot;_ helps _&quot;, &quot;_ contradicts _&quot;, &quot;_ assumes _&quot;, &quot;_ rebuts _&quot;, &quot;_ resembles _&quot;, &quot;_ helps understand _&quot; ..." ID="ID_712789976" CREATED="1463689118805" MODIFIED="1463689319037"/>
+</node>
+</node>
+<node TEXT="automate much logic: within reach" ID="ID_577803935" CREATED="1464335404884" MODIFIED="1464335409416">
+<node TEXT="There is an algebra on sentences! on those nests of relationships!" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_787401604" CREATED="1463528052263" MODIFIED="1463688714749">
+<node TEXT="These two sentences are the same: &quot;When the sun is high, if the grass is wet, it probably just rained.&quot; &quot;It probably just rained if the sun is high and the grass is wet.&quot; An RSLT allows equational reasoning on that algebra, so that one can ask, for instance, &quot;Under what conditions might the grass be wet?&quot;" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1630892117" CREATED="1463528062327" MODIFIED="1464335413970"/>
+<node TEXT="You might worry that to find a kind of information, you would have to know exactly how someone might encode it. Not so! As long as you can think of one way of saying it, an inference engine can find all equivalent ways. (And the search is fast! Faster than it would be if you had to read through every page containing it. There are no pages, there are only contexts in which a statement is used. You don&apos;t have to search the ones where it does not appear. You don&apos;t even search the ones where it does; rather, you traverse from it to them.)" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1579672780" CREATED="1463528554758" MODIFIED="1464335413965"/>
+</node>
+<node TEXT="rewordings" ID="ID_677329625" CREATED="1464243194363" MODIFIED="1464243194919"/>
+</node>
+<node TEXT="what&apos;s it like" ID="ID_1754814033" CREATED="1464335657751" MODIFIED="1464338770805">
+<font BOLD="true"/>
+<node TEXT="observed : mindmapping" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_787710445" CREATED="1464335659927" MODIFIED="1464339039951">
+<node TEXT="mental problems mindmapping solves" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1502352592" CREATED="1448848974939" MODIFIED="1464245954144">
+<node TEXT="always talking about the same thing" ID="ID_1509364534" CREATED="1448848985752" MODIFIED="1456303110821"/>
+<node TEXT="fearing vague things" ID="ID_1213712179" CREATED="1448848996432" MODIFIED="1448849001144"/>
+</node>
+<node TEXT="&quot;Show everything I have written about _&quot; looks like a simple computational operation, but cognitively (once the collection is read) it is astoundingly powerful." ID="ID_999777976" CREATED="1464242758032" MODIFIED="1464242851486"/>
+<node TEXT="&quot;Show me everything I have labeled a problem.&quot;" ID="ID_940059023" CREATED="1464338059774" MODIFIED="1464338069858"/>
+<node TEXT="potentially separate orders for reading, writing, viewing" ID="ID_1505360824" CREATED="1422266301380" MODIFIED="1422266345296"/>
+<node TEXT="GapMinder" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1893350912" CREATED="1464338822005" MODIFIED="1464338831494">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1176324329" STARTINCLINATION="279;0;" ENDINCLINATION="279;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="multiple views of the same data" LOCALIZED_STYLE_REF="default" ID="ID_1176324329" CREATED="1422266290383" MODIFIED="1464338827573"/>
+</node>
+<node TEXT="conjecture : rslt editor" ID="ID_1382664182" CREATED="1464335668686" MODIFIED="1464335678428"/>
+<node TEXT="TOCs all the way down" ID="ID_848748025" CREATED="1464335706152" MODIFIED="1464335710900">
+<node TEXT="the TOCs are a good start" LOCALIZED_STYLE_REF="styles.topic" ID="ID_874387515" CREATED="1464033438148" MODIFIED="1464335713434">
+<node TEXT="if they nested further, someone could see what they&apos;re getting into better" ID="ID_570550134" CREATED="1464033446587" MODIFIED="1464033458054"/>
+</node>
+</node>
+</node>
+<node TEXT="how cheap?" ID="ID_217172415" CREATED="1464335434692" MODIFIED="1464335441208">
 <node TEXT="It is almost no change" ID="ID_304282722" CREATED="1463526793542" MODIFIED="1463526796114">
 <node TEXT="It is natural" LOCALIZED_STYLE_REF="default" ID="ID_595836501" CREATED="1463521034794" MODIFIED="1463526802295"/>
 <node TEXT="You will not need much more or different data." ID="ID_1639622064" CREATED="1463519087020" MODIFIED="1463521079087">
@@ -2032,122 +2128,92 @@
 <node TEXT="so the non-root nodes in a tree can all rely on that root for an about statement" ID="ID_1175540953" CREATED="1463525249978" MODIFIED="1463525271550"/>
 </node>
 </node>
+<node TEXT="It can save time" ID="ID_384705682" CREATED="1464335472109" MODIFIED="1464335475745">
 <node TEXT="Changes propogate immediately!" ID="ID_1990557900" CREATED="1463529558424" MODIFIED="1463529563005">
 <node TEXT="If Prince becomes The Artist Formerly Known as Prince, since that title is in exactly one place, it only needs changing there; every statement that referred to Prince now refers to the other." ID="ID_267623087" CREATED="1463529563662" MODIFIED="1463529593600"/>
 </node>
-<node TEXT="It unifies your work with others&apos;." ID="ID_1998691321" CREATED="1463530576194" MODIFIED="1463530582886">
-<node TEXT="privacy is fine I hope" ID="ID_824896804" CREATED="1463530583580" MODIFIED="1463688307935">
-<node TEXT="because we can&apos;t cooperate with each other to share the total knowledge armaggeddon engine if we are not safe to let each other progress toward whatever intelligence their data and processes lead them to" ID="ID_814655544" CREATED="1463688312379" MODIFIED="1463688362289"/>
 </node>
-<node TEXT="&quot;Show me everything anyone has ever written(and shared) about Donald Trump.&quot;" ID="ID_1108355433" CREATED="1463688371675" MODIFIED="1463688391496"/>
-</node>
-<node TEXT="It is not to say every question is quickly answerable." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1051080878" CREATED="1463524698532" MODIFIED="1463524733725">
-<node TEXT="but every one that you might prepare for seems possibly quickly answerable given such preparation" ID="ID_297646655" CREATED="1463524713316" MODIFIED="1463688433716"/>
-</node>
-<node TEXT="So far I have ..." ID="ID_325867485" CREATED="1463520894257" MODIFIED="1463526764666">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1851923418" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="So far I have written methods for creating, modifying and querying an RSLT, for displaying query results, and for importing data from the Freeplane format. In the future I want to add a graphical user interface and a Prolog-like engine inference -- in which case the 4th statement above would be automatically discoverable." ID="ID_1585804669" CREATED="1463519362260" MODIFIED="1463709112031"/>
-</node>
-<node TEXT="Who am I" LOCALIZED_STYLE_REF="styles.topic" ID="ID_581182269" CREATED="1463519087026" MODIFIED="1463521168373">
-<node TEXT="I have been working in knowledge representation for the last few years. Before that I was a programmer and statistical analyst at a medical economics consulting firm. Before that I was a PhD student in econometrics at Michigan State University, which is a branch of statistics concerned with non-experimental data." ID="ID_1675631164" CREATED="1463519087029" MODIFIED="1463687826616"/>
-</node>
-<node TEXT="refs" LOCALIZED_STYLE_REF="styles.topic" ID="ID_330831403" CREATED="1463519125337" MODIFIED="1463521170309">
-<node TEXT="my github" ID="ID_89863443" CREATED="1463519134832" MODIFIED="1463519136429">
-<node TEXT="[1] https://github.com/JeffreyBenjaminBrown/digraphs-with-text" ID="ID_1765759859" CREATED="1463519087030" MODIFIED="1463519087030" LINK="https://github.com/JeffreyBenjaminBrown/digraphs-with-text"/>
-</node>
-<node TEXT="me on fgl &amp; dwt" ID="ID_1018346804" CREATED="1463519139041" MODIFIED="1463519145029">
-<node TEXT="[2] On Dec 29, 2015, I present Haskell&apos;s Functional Graph Library, and then my own mindmapping code, to the Santa Monica Haskell User Group." ID="ID_521830982" CREATED="1463519087030" MODIFIED="1463519087030"/>
-<node TEXT="Here is the recorded video:" ID="ID_18855420" CREATED="1463519087031" MODIFIED="1463519087031"/>
-<node TEXT="http://www.meetup.com/santa-monica-haskell/events/227152609/" ID="ID_289108512" CREATED="1463519087032" MODIFIED="1463519087032" LINK="http://www.meetup.com/santa-monica-haskell/events/227152609/"/>
-<node TEXT="Here is the meetup page, with associated materials:" ID="ID_835036334" CREATED="1463519087033" MODIFIED="1463519087033"/>
-<node TEXT="https://www.youtube.com/watch?v=lJ7_vMhfm5Y" ID="ID_1227302576" CREATED="1463519087034" MODIFIED="1463519087034" LINK="https://www.youtube.com/watch?v=lJ7_vMhfm5Y"/>
-</node>
-<node TEXT="me on tidal" ID="ID_22015757" CREATED="1463519148392" MODIFIED="1463519150502">
-<node TEXT="[3] On October 20th, 2015, I presented Tidal, an embedded DSL for live-coding music, to the Santa Monica Haskell User Group." ID="ID_726793438" CREATED="1463519087034" MODIFIED="1463519087034"/>
-<node TEXT="Here is the recorded video:" ID="ID_1766888899" CREATED="1463519087034" MODIFIED="1463519087034"/>
-<node TEXT="https://www.youtube.com/watch?v=kWiFsHHeccI" ID="ID_429024826" CREATED="1463519087035" MODIFIED="1463519087035" LINK="https://www.youtube.com/watch?v=kWiFsHHeccI"/>
-<node TEXT="Here is the meetup page, with associated materials:" ID="ID_551855528" CREATED="1463519087035" MODIFIED="1463519087035"/>
-<node TEXT="http://www.meetup.com/santa-monica-haskell/events/225732250/" ID="ID_456525169" CREATED="1463519087036" MODIFIED="1463519087036" LINK="http://www.meetup.com/santa-monica-haskell/events/225732250/"/>
+<node TEXT="ease, naturality" ID="ID_1337059998" CREATED="1464246973792" MODIFIED="1464338592212">
+<font BOLD="false"/>
+<node TEXT="RSLT is not a new language, just an unusually explicit expression of what you already know without RSLT" ID="ID_1065700391" CREATED="1464247016178" MODIFIED="1464247071579"/>
+<node TEXT="why would you want to need multiple languages?" ID="ID_362440204" CREATED="1464246971072" MODIFIED="1464247000743"/>
 </node>
 </node>
-<node TEXT="the TOCs are a good start" ID="ID_874387515" CREATED="1464033438148" MODIFIED="1464033444808">
-<node TEXT="if they nested further, someone could see what they&apos;re getting into better" ID="ID_570550134" CREATED="1464033446587" MODIFIED="1464033458054"/>
+</node>
+<node TEXT="uses" ID="ID_1744784869" CREATED="1464337842772" MODIFIED="1464337853379">
+<font BOLD="true"/>
+<node TEXT="integ narrative data" LOCALIZED_STYLE_REF="default" ID="ID_1544421806" CREATED="1464334969526" MODIFIED="1464335564272">
+<node TEXT="translation :: dictionary -&gt; dictionary" ID="ID_1732339021" CREATED="1464334977142" MODIFIED="1464335015308">
+<node TEXT="even data from someone whose words meant something different to yours could be, provided the appropriate set of equivalency statements (themselves an RSLT), totally merged with yours" ID="ID_318640276" CREATED="1464244029847" MODIFIED="1464244136695"/>
+</node>
+<node TEXT="privacy is fine I hope" ID="ID_1411164775" CREATED="1463530583580" MODIFIED="1463688307935">
+<node TEXT="because we can&apos;t cooperate with each other to share the total knowledge armaggeddon engine if we are not safe to let each other progress toward whatever intelligence their data and processes lead them to" ID="ID_159830094" CREATED="1463688312379" MODIFIED="1463688362289"/>
+</node>
+<node TEXT="It unifies your work with others&apos;." ID="ID_257478166" CREATED="1463530576194" MODIFIED="1463530582886">
+<node TEXT="&quot;Show me everything anyone has ever written(and shared) about Donald Trump.&quot;" ID="ID_413963149" CREATED="1463688371675" MODIFIED="1463688391496"/>
 </node>
 </node>
-<node TEXT="weird &amp; helps arg" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_261078904" CREATED="1464243447884" MODIFIED="1464243463712">
-<node TEXT="I apologize for the lower casing, it is because I like to keep my data in a form undecided between complete sentence and subexpression." ID="ID_1169649232" CREATED="1464243410932" MODIFIED="1464243443208"/>
-</node>
-<node TEXT="u" ID="ID_541500219" CREATED="1464246937263" MODIFIED="1464246937867">
 <node TEXT="feed curators" LOCALIZED_STYLE_REF="default" ID="ID_1460342826" CREATED="1464064475774" MODIFIED="1464209470580">
 <node TEXT="twitter, google, facebook" ID="ID_1012515722" CREATED="1464064486152" MODIFIED="1464064489187"/>
 <node TEXT="follow something in branch _ with something in branch _" ID="ID_1665428176" CREATED="1464064490910" MODIFIED="1464064512267">
 <node TEXT="violence, cuteness" ID="ID_750722072" CREATED="1464064512911" MODIFIED="1464064515411"/>
 </node>
 </node>
+<node TEXT="wiki|academic authority" ID="ID_1507962051" CREATED="1464337927180" MODIFIED="1464337952801">
 <node TEXT="is academia optimally like wikipedia -- people correcting each others&apos; definitions, .." ID="ID_69429634" CREATED="1459203343175" MODIFIED="1459203365760"/>
-<node TEXT="Truth, all information, is (describable as) a reflexive set of labeled tuples." ID="ID_1285197775" CREATED="1464242644683" MODIFIED="1464242680833"/>
-<node TEXT="The labels are in a sense undefined. Their meaning is encoded in their relationships." ID="ID_336502246" CREATED="1464242687932" MODIFIED="1464242698472"/>
-<node TEXT="&quot;Show everything I have written about _&quot; looks like a simple computational operation, but cognitively (once the collection is read) it is astoundingly powerful." ID="ID_999777976" CREATED="1464242758032" MODIFIED="1464242851486"/>
-<node TEXT="&quot;show&quot;" ID="ID_1738203376" CREATED="1464242853532" MODIFIED="1464242859951">
-<node TEXT="You know it can be transitive. You might not know you know that, but you know that &quot;_ shows _&quot;." ID="ID_1111002097" CREATED="1464242862603" MODIFIED="1464242891790"/>
+<node TEXT="just count someone&apos;s fights, check out the fights, see if you believe them." ID="ID_408857108" CREATED="1463527044593" MODIFIED="1463527067838"/>
+<node TEXT="if you don&apos;t have time, do that for a while until you can identify a judge of fights who you believe, then trust them" ID="ID_527605241" CREATED="1463527068026" MODIFIED="1463527090959"/>
+<node TEXT="Limit a story to the most explanatory bits." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_346348123" CREATED="1464338314489" MODIFIED="1464338347586">
+<node TEXT="users recored &quot;_ is evidence of _&quot;" ID="ID_757887544" CREATED="1464338322049" MODIFIED="1464338328214"/>
 </node>
-<node TEXT="rewordings" ID="ID_677329625" CREATED="1464243194363" MODIFIED="1464243194919"/>
-<node TEXT="the graph talks about itself" ID="ID_1741352808" CREATED="1464243335686" MODIFIED="1464243348906"/>
-<node TEXT="words for in-graph concepts like branches are not strings, but are otherwise entirely equivalent as substatements" ID="ID_981382939" CREATED="1464243368237" MODIFIED="1464243398865"/>
-<node TEXT="equivalent claim :all language is describable in natural language" ID="ID_495912628" CREATED="1464243910587" MODIFIED="1464243937986"/>
-<node TEXT="if we did this we would have total data mergeability" ID="ID_1919471150" CREATED="1464243978390" MODIFIED="1464243990915"/>
-<node TEXT="even data from someone whose words meant something different to yours could be, provided the appropriate set of equivalency statements (themselves an RSLT), totally merged with yours" ID="ID_318640276" CREATED="1464244029847" MODIFIED="1464244136695"/>
-<node TEXT="credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1464244264185"/>
-<node TEXT="separate beauty and truth scores" ID="ID_99309712" CREATED="1455433942119" MODIFIED="1455433947350"/>
+<node TEXT="separate beauty and truth scores" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_99309712" CREATED="1455433942119" MODIFIED="1464338356066"/>
+<node TEXT="wikipedia ~ epistemology" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_185108690" CREATED="1451538858290" MODIFIED="1464338387867"/>
+<node TEXT="people have no control over or knowledge of who they check. they mark assertions as verified, unknown, or wrong." LOCALIZED_STYLE_REF="default" ID="ID_544135071" CREATED="1455426735991" MODIFIED="1464338437828"/>
+</node>
+</node>
+<node TEXT="so far I have ..." ID="ID_325867485" CREATED="1463520894257" MODIFIED="1464337860939">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1851923418" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<font BOLD="true"/>
+<node TEXT="So far I have written methods for creating, modifying and querying an RSLT, for displaying query results, and for importing data from the Freeplane format. In the future I want to add a graphical user interface and a Prolog-like engine inference -- in which case the 4th statement above would be automatically discoverable." ID="ID_1585804669" CREATED="1463519362260" MODIFIED="1463709112031"/>
+</node>
+<node TEXT="tricky" LOCALIZED_STYLE_REF="default" ID="ID_505183603" CREATED="1464335784329" MODIFIED="1464336067623">
+<font BOLD="true"/>
+<node TEXT="Coll" ID="ID_1932922732" CREATED="1464335805729" MODIFIED="1464336167202">
+<node TEXT="conjunction (&quot;and&quot;) relationships are free" ID="ID_1002025978" CREATED="1464335816057" MODIFIED="1464335921271">
+<node TEXT="x -f- y &amp;&amp; x -f- z ==&gt; x -f- {y &amp; z}" ID="ID_408718227" CREATED="1464335921874" MODIFIED="1464335954396"/>
+</node>
+<node TEXT="disjunction (&quot;or&quot;) relationships are not" ID="ID_1499227560" CREATED="1464335816057" MODIFIED="1464335965527">
+<node TEXT="this relationship" ID="ID_1530206224" CREATED="1464335982428" MODIFIED="1464335986293">
+<node TEXT="x -f- {y | z}" ID="ID_602131705" CREATED="1464335976208" MODIFIED="1464335993496"/>
+</node>
+<node TEXT="is not equivalent to these two" ID="ID_1936131431" CREATED="1464335969043" MODIFIED="1464336021232">
+<node TEXT="x -f- y" ID="ID_1966131856" CREATED="1464335921874" MODIFIED="1464336033760"/>
+<node TEXT="x -f- z" ID="ID_587415062" CREATED="1464336034116" MODIFIED="1464336034712"/>
+</node>
+</node>
+</node>
+<node TEXT="RelSpec" ID="ID_660231173" CREATED="1464336164142" MODIFIED="1464336169218"/>
+</node>
+<node TEXT="open" ID="ID_429749266" CREATED="1464336304128" MODIFIED="1464336307943">
+<font BOLD="true"/>
+<node TEXT="inference engine" ID="ID_608005485" CREATED="1464336310231" MODIFIED="1464336318300"/>
+<node TEXT="data Expr = Branch | .." ID="ID_99508114" CREATED="1464338173783" MODIFIED="1464338202596">
+<node TEXT="words for in-graph concepts like branches are not strings, but are otherwise entirely equivalent as substatements" LOCALIZED_STYLE_REF="styles.topic" ID="ID_981382939" CREATED="1464243368237" MODIFIED="1464338218448"/>
+</node>
+<node TEXT="false subexpressions" LOCALIZED_STYLE_REF="default" ID="ID_463687664" CREATED="1464245914131" MODIFIED="1464338978994">
+<node TEXT="&quot;how can I show that, in the statement &quot;maybe x is good&quot;, that it is a statement but &quot;x is good&quot; is just a subexpression" ID="ID_1522591709" CREATED="1455564432602" MODIFIED="1455569919964"/>
+</node>
+</node>
+<node TEXT="ambit" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1562184215" CREATED="1464338370098" MODIFIED="1464338371194">
 <node TEXT="write your own fold-traversals!" ID="ID_535568189" CREATED="1464244298932" MODIFIED="1464244305297">
 <node TEXT="fold as in freeplane" ID="ID_1301945263" CREATED="1464244305868" MODIFIED="1464244309945"/>
-</node>
-<node TEXT="wiki" ID="ID_130189969" CREATED="1464244339085" MODIFIED="1464244643473">
-<font BOLD="true"/>
-<node TEXT="write love into wikipedia" ID="ID_996702693" CREATED="1451537516818" MODIFIED="1451537519968">
-<node TEXT="can&apos;t, it&apos;s a protected article" ID="ID_1489113919" CREATED="1451543033427" MODIFIED="1451543038930"/>
-</node>
-<node TEXT="wikipedia ~ epistemology" LOCALIZED_STYLE_REF="default" ID="ID_185108690" CREATED="1451538858290" MODIFIED="1456176542374"/>
-<node TEXT="? are responses to explanations by wiki editors (of why they redacted another&apos;s edits) kept private" ID="ID_1945956091" CREATED="1453526487579" MODIFIED="1455413795849"/>
-<node TEXT="proposal" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1350282099" CREATED="1455436686444" MODIFIED="1464244388223">
-<node TEXT="people have no control over or knowledge of who they check. they mark assertions as verified, unknown, or wrong." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_544135071" CREATED="1455426735991" MODIFIED="1455426771154"/>
-</node>
-</node>
-<node TEXT="_ said _ to _" LOCALIZED_STYLE_REF="default" ID="ID_219854014" CREATED="1464033650493" MODIFIED="1464244748305">
-<font BOLD="false"/>
-<node TEXT="deserves representation" ID="ID_1922116457" CREATED="1464244728937" MODIFIED="1464244731974"/>
-</node>
-<node TEXT="_ did _ to _" ID="ID_1241407986" CREATED="1464244754234" MODIFIED="1464244756398"/>
 <node TEXT="_ is view-higher than _ for [user]" ID="ID_1245450527" CREATED="1464244888065" MODIFIED="1464244900630"/>
 </node>
-<node TEXT="earlier" ID="ID_1079708612" CREATED="1464245080817" MODIFIED="1464246947916">
+<node TEXT="questions" ID="ID_912380687" CREATED="1464338896269" MODIFIED="1464338897437">
 <font BOLD="true"/>
-<node TEXT="arg|motiv|sale" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1725271398" CREATED="1464245508403" MODIFIED="1464245509530"/>
-<node TEXT="unity" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1337432351" CREATED="1464245286889" MODIFIED="1464245292929">
-<node TEXT="why would you want a bunch of tables? a bunch of files? why do you want to have to find the file, and then find the data within it?" ID="ID_744290878" CREATED="1464245254969" MODIFIED="1464245283557"/>
-</node>
-<node TEXT="ease, naturality" ID="ID_1337059998" CREATED="1464246973792" MODIFIED="1464247086283">
-<node TEXT="RSLT is not a new language, just an unusually explicit expression of what you already know without RSLT" ID="ID_1065700391" CREATED="1464247016178" MODIFIED="1464247071579"/>
-<node TEXT="why would you want to need multiple languages?" ID="ID_362440204" CREATED="1464246971072" MODIFIED="1464247000743"/>
-</node>
-<node TEXT="can know when something written and when last processed" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_5826710" CREATED="1452156789055" MODIFIED="1464245218777">
-<font BOLD="false"/>
-<node TEXT="the one processed least recently dominates, but when tied for that, the one written most recently dominates" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1739954137" CREATED="1451549844930" MODIFIED="1452156857652"/>
-</node>
-<node TEXT="feat" ID="ID_559490769" CREATED="1464245215384" MODIFIED="1464245215853">
-<node TEXT="when make correction, can keep the error" ID="ID_1689542622" CREATED="1452156780473" MODIFIED="1452156787086"/>
-<node TEXT="speed sorting" ID="ID_1480109494" CREATED="1421051962887" MODIFIED="1464245211015">
-<node TEXT="two windows, one keystroke apart" ID="ID_1947961528" CREATED="1421051967487" MODIFIED="1421051985220"/>
-<node TEXT="one window shows leaves, the other branches" ID="ID_1387650483" CREATED="1421051985431" MODIFIED="1421051992995"/>
-</node>
-</node>
-<node TEXT="describing dwt" ID="ID_1492651242" CREATED="1422485084661" MODIFIED="1422485087010">
-<node TEXT="ways of organizing, connecting, navigating, viewing, automatically collecitng things" ID="ID_1020910232" CREATED="1422266244360" MODIFIED="1422266280994"/>
-<node TEXT="multiple views of the same data" ID="ID_1176324329" CREATED="1422266290383" MODIFIED="1422266294719"/>
-<node TEXT="potentially separate orders for reading, writing, viewing" ID="ID_1505360824" CREATED="1422266301380" MODIFIED="1422266345296"/>
-</node>
-<node TEXT="questions about the data" ID="ID_28438338" CREATED="1459830439123" MODIFIED="1459830454662">
-<font BOLD="true"/>
+<node TEXT="what are cousins like" LOCALIZED_STYLE_REF="default" ID="ID_903677513" CREATED="1458979845505" MODIFIED="1459830759655"/>
+<node TEXT="how two (peoples&apos;) blame trees differ" ID="ID_496356946" CREATED="1458528620278" MODIFIED="1459919620400"/>
+<node TEXT="yes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_28438338" CREATED="1459830439123" MODIFIED="1464338903798">
 <node TEXT="= serves dwt/motiv" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_816702245" CREATED="1459830460510" MODIFIED="1459832224173"/>
 <node TEXT="specific" ID="ID_674136065" CREATED="1459832164445" MODIFIED="1459832188664">
 <font BOLD="true"/>
@@ -2165,14 +2231,23 @@
 <node TEXT="ambitious" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1614377796" CREATED="1459832183215" MODIFIED="1459832185797">
 <node TEXT="does not imply difficult" ID="ID_369662825" CREATED="1459832198798" MODIFIED="1459832204860"/>
 </node>
-<node TEXT="what are cousins like" LOCALIZED_STYLE_REF="default" ID="ID_903677513" CREATED="1458979845505" MODIFIED="1459830759655"/>
-<node TEXT="how two (peoples&apos;) blame trees differ" ID="ID_496356946" CREATED="1458528620278" MODIFIED="1459919620400"/>
 <node TEXT="raw &quot;&gt; statements&quot; are beautiful" ID="ID_951060008" CREATED="1457065597680" MODIFIED="1459919639174">
 <node TEXT="&gt; find a job : share mus.mm to lurk/tidal" LOCALIZED_STYLE_REF="styles.topic" ID="ID_585399861" CREATED="1456124262095" MODIFIED="1459836278939"/>
 </node>
 </node>
-<node TEXT="rels I want" LOCALIZED_STYLE_REF="default" ID="ID_1834456385" CREATED="1459447835414" MODIFIED="1459830336785">
+</node>
+<node TEXT="rels/inst" ID="ID_27448067" CREATED="1464338457099" MODIFIED="1464338475283">
 <font BOLD="true"/>
+<node TEXT="_ said _ to _" LOCALIZED_STYLE_REF="default" ID="ID_219854014" CREATED="1464033650493" MODIFIED="1464244748305">
+<font BOLD="false"/>
+<node TEXT="deserves representation" ID="ID_1922116457" CREATED="1464244728937" MODIFIED="1464244731974"/>
+</node>
+<node TEXT="_ did _ to _" ID="ID_1241407986" CREATED="1464244754234" MODIFIED="1464244756398"/>
+<node TEXT="_ was last processed [when]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_5826710" CREATED="1452156789055" MODIFIED="1464338629413">
+<node TEXT="the one processed least recently dominates, but when tied for that, the one written most recently dominates" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1739954137" CREATED="1451549844930" MODIFIED="1452156857652"/>
+</node>
+<node TEXT="_ was written [when]" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_787431144" CREATED="1464338609084" MODIFIED="1464338629415"/>
+<node TEXT="present _ before _ to argue _" ID="ID_1804140597" CREATED="1464338701452" MODIFIED="1464338722433"/>
 <node TEXT="? the word binders" ID="ID_1365653126" CREATED="1456541061514" MODIFIED="1459838496526">
 <font BOLD="true"/>
 <node TEXT="tv o" ID="ID_1285359570" CREATED="1456541065322" MODIFIED="1456541083519"/>
@@ -2232,23 +2307,45 @@
 <node TEXT="frogs are moist $exception/ frozen frogs are not moist" ID="ID_95026135" CREATED="1459832699583" MODIFIED="1459832748155"/>
 </node>
 </node>
-<node TEXT="negative arguments" ID="ID_1050143863" CREATED="1457385171239" MODIFIED="1464245843328">
-<font BOLD="true"/>
-<node TEXT="&quot;everything is crumbling&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1186185684" CREATED="1457402756626" MODIFIED="1459836096429">
-<node TEXT="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html" ID="ID_1330692797" CREATED="1457402753643" MODIFIED="1457402753643" LINK="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html"/>
 </node>
-<node TEXT="professions &amp; injured language" LOCALIZED_STYLE_REF="default" ID="ID_608347817" CREATED="1457067606154" MODIFIED="1464245828504">
-<node TEXT="early musicians, doctors may have injured their professions by $ for status making their vocabulary difficult" ID="ID_70294576" CREATED="1457067548922" MODIFIED="1459836072960"/>
+<node TEXT="refs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_330831403" CREATED="1463519125337" MODIFIED="1464335610711">
+<node TEXT="my github" ID="ID_89863443" CREATED="1463519134832" MODIFIED="1463519136429">
+<node TEXT="[1] https://github.com/JeffreyBenjaminBrown/digraphs-with-text" ID="ID_1765759859" CREATED="1463519087030" MODIFIED="1463519087030" LINK="https://github.com/JeffreyBenjaminBrown/digraphs-with-text"/>
 </node>
-<node TEXT="trees: not enough" ID="ID_702888734" CREATED="1464245646978" MODIFIED="1464245705294">
-<node TEXT="try minhdmapping in freeplane. at first it is like rocket fuel, and then it is like glue." ID="ID_199230690" CREATED="1464245657674" MODIFIED="1464245675670"/>
+<node TEXT="me on fgl &amp; dwt" ID="ID_1018346804" CREATED="1463519139041" MODIFIED="1463519145029">
+<node TEXT="[2] On Dec 29, 2015, I present Haskell&apos;s Functional Graph Library, and then my own mindmapping code, to the Santa Monica Haskell User Group." ID="ID_521830982" CREATED="1463519087030" MODIFIED="1463519087030"/>
+<node TEXT="Here is the recorded video:" ID="ID_18855420" CREATED="1463519087031" MODIFIED="1463519087031"/>
+<node TEXT="http://www.meetup.com/santa-monica-haskell/events/227152609/" ID="ID_289108512" CREATED="1463519087032" MODIFIED="1463519087032" LINK="http://www.meetup.com/santa-monica-haskell/events/227152609/"/>
+<node TEXT="Here is the meetup page, with associated materials:" ID="ID_835036334" CREATED="1463519087033" MODIFIED="1463519087033"/>
+<node TEXT="https://www.youtube.com/watch?v=lJ7_vMhfm5Y" ID="ID_1227302576" CREATED="1463519087034" MODIFIED="1463519087034" LINK="https://www.youtube.com/watch?v=lJ7_vMhfm5Y"/>
 </node>
-<node TEXT="tables: not enough" ID="ID_1863818212" CREATED="1464245724178" MODIFIED="1464245726534">
-<node TEXT="this is no secret. assume you want a computer to help you think. the ways it can help if all you give it is tables is impressive relative to the scope of human history, but as far as saving you work goes, pretty weak." ID="ID_1648340938" CREATED="1464245727474" MODIFIED="1464245792583"/>
+<node TEXT="me on tidal" ID="ID_22015757" CREATED="1463519148392" MODIFIED="1463519150502">
+<node TEXT="[3] On October 20th, 2015, I presented Tidal, an embedded DSL for live-coding music, to the Santa Monica Haskell User Group." ID="ID_726793438" CREATED="1463519087034" MODIFIED="1463519087034"/>
+<node TEXT="Here is the recorded video:" ID="ID_1766888899" CREATED="1463519087034" MODIFIED="1463519087034"/>
+<node TEXT="https://www.youtube.com/watch?v=kWiFsHHeccI" ID="ID_429024826" CREATED="1463519087035" MODIFIED="1463519087035" LINK="https://www.youtube.com/watch?v=kWiFsHHeccI"/>
+<node TEXT="Here is the meetup page, with associated materials:" ID="ID_551855528" CREATED="1463519087035" MODIFIED="1463519087035"/>
+<node TEXT="http://www.meetup.com/santa-monica-haskell/events/225732250/" ID="ID_456525169" CREATED="1463519087036" MODIFIED="1463519087036" LINK="http://www.meetup.com/santa-monica-haskell/events/225732250/"/>
 </node>
 </node>
-<node TEXT="unsolved problems" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_463687664" CREATED="1464245914131" MODIFIED="1464245926869">
-<node TEXT="&quot;how can I show that, in the statement &quot;maybe x is good&quot;, that it is a statement but &quot;x is good&quot; is just a subexpression" ID="ID_1522591709" CREATED="1455564432602" MODIFIED="1455569919964"/>
+<node TEXT="down" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1327850529" CREATED="1464335599262" MODIFIED="1464335600391">
+<node TEXT="caveats" LOCALIZED_STYLE_REF="default" ID="ID_1419602174" CREATED="1464335569566" MODIFIED="1464335603088">
+<node TEXT="It is not to say every question is quickly answerable." LOCALIZED_STYLE_REF="default" ID="ID_1051080878" CREATED="1463524698532" MODIFIED="1464335574935">
+<node TEXT="but every one that you might prepare for seems possibly quickly answerable given such preparation" ID="ID_297646655" CREATED="1463524713316" MODIFIED="1463688433716"/>
+</node>
+</node>
+<node TEXT="who am I" LOCALIZED_STYLE_REF="default" ID="ID_581182269" CREATED="1463519087026" MODIFIED="1464335603090">
+<node TEXT="I have been working in knowledge representation for the last few years. Before that I was a programmer and statistical analyst at a medical economics consulting firm. Before that I was a PhD student in econometrics at Michigan State University, which is a branch of statistics concerned with non-experimental data." ID="ID_1675631164" CREATED="1463519087029" MODIFIED="1463687826616"/>
+</node>
+<node TEXT="yes" ID="ID_654302303" CREATED="1464338160555" MODIFIED="1464338161395">
+<node TEXT="the graph talks about itself" ID="ID_1741352808" CREATED="1464243335686" MODIFIED="1464243348906"/>
+<node TEXT="if we did this we would have total data mergeability" ID="ID_1919471150" CREATED="1464243978390" MODIFIED="1464243990915"/>
+<node TEXT="credits folded into the titles of songs, user-foldable" ID="ID_1522596773" CREATED="1455426384930" MODIFIED="1464244264185"/>
+<node TEXT="write love into wikipedia" ID="ID_996702693" CREATED="1451537516818" MODIFIED="1451537519968">
+<node TEXT="can&apos;t, it&apos;s a protected article" ID="ID_1489113919" CREATED="1451543033427" MODIFIED="1451543038930"/>
+</node>
+<node TEXT="speed sorting" ID="ID_1480109494" CREATED="1421051962887" MODIFIED="1464245211015">
+<node TEXT="two windows, one keystroke apart" ID="ID_1947961528" CREATED="1421051967487" MODIFIED="1421051985220"/>
+<node TEXT="one window shows leaves, the other branches" ID="ID_1387650483" CREATED="1421051985431" MODIFIED="1421051992995"/>
 </node>
 <node TEXT="turing test authority" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1495891928" CREATED="1464246043548" MODIFIED="1464246189745">
 <node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1179745802" CREATED="1444944966945" MODIFIED="1447544696521"><richcontent TYPE="NODE">
@@ -2272,9 +2369,165 @@
 <node TEXT="truth v. influence" ID="ID_1659777320" CREATED="1444893387005" MODIFIED="1464246104737"/>
 <node TEXT="cannot edit wiki without being in the community, talking, regular touring tests to detect corp influ" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560328408" CREATED="1444889082336" MODIFIED="1444889115147"/>
 </node>
-<node TEXT="mental problems mindmapping solves" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1502352592" CREATED="1448848974939" MODIFIED="1464245954144">
-<node TEXT="always talking about the same thing" ID="ID_1509364534" CREATED="1448848985752" MODIFIED="1456303110821"/>
-<node TEXT="fearing vague things" ID="ID_1213712179" CREATED="1448848996432" MODIFIED="1448849001144"/>
+<node TEXT="weird &amp; helps arg" LOCALIZED_STYLE_REF="default" ID="ID_261078904" CREATED="1464243447884" MODIFIED="1464340970992">
+<node TEXT="I apologize for the lower casing, it is because I like to keep my data in a form undecided between complete sentence and subexpression." ID="ID_1169649232" CREATED="1464243410932" MODIFIED="1464243443208"/>
+</node>
+</node>
+</node>
+<node TEXT="negative arguments" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1050143863" CREATED="1457385171239" MODIFIED="1464338957854">
+<node TEXT="&quot;everything is crumbling&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1186185684" CREATED="1457402756626" MODIFIED="1459836096429">
+<node TEXT="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html" ID="ID_1330692797" CREATED="1457402753643" MODIFIED="1457402753643" LINK="http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html"/>
+</node>
+<node TEXT="professions &amp; injured language" LOCALIZED_STYLE_REF="default" ID="ID_608347817" CREATED="1457067606154" MODIFIED="1464245828504">
+<node TEXT="early musicians, doctors may have injured their professions by $ for status making their vocabulary difficult" ID="ID_70294576" CREATED="1457067548922" MODIFIED="1459836072960"/>
+</node>
+<node TEXT="trees: not enough" ID="ID_702888734" CREATED="1464245646978" MODIFIED="1464245705294">
+<node TEXT="try minhdmapping in freeplane. at first it is like rocket fuel, and then it is like glue." ID="ID_199230690" CREATED="1464245657674" MODIFIED="1464245675670"/>
+</node>
+<node TEXT="tables: not enough" ID="ID_1863818212" CREATED="1464245724178" MODIFIED="1464245726534">
+<node TEXT="this is no secret. assume you want a computer to help you think. the ways it can help if all you give it is tables is impressive relative to the scope of human history, but as far as saving you work goes, pretty weak." ID="ID_1648340938" CREATED="1464245727474" MODIFIED="1464245792583"/>
+</node>
+</node>
+</node>
+<node TEXT="dup, to wikipedia, extd" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1613307580" CREATED="1464335732002" MODIFIED="1464340961395">
+<node TEXT="this is organized differently but nothing important in it is not outside of the &quot;dup&quot; root" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1777350032" CREATED="1464335740776" MODIFIED="1464335762395"/>
+<node TEXT="to|for wikipedia" LOCALIZED_STYLE_REF="default" ID="ID_1384831073" CREATED="1463519085024" MODIFIED="1464335763963">
+<font BOLD="true"/>
+<node TEXT="colors" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_965128881" CREATED="1463521119211" MODIFIED="1463521185405">
+<node TEXT="light blue: good" ID="ID_1871292334" CREATED="1463521121099" MODIFIED="1463521123823"/>
+<node TEXT="blue: not done but not top crit" ID="ID_271229575" CREATED="1463521124011" MODIFIED="1463521134839"/>
+<node TEXT="purple: next" ID="ID_803602260" CREATED="1463521140203" MODIFIED="1463521145575"/>
+</node>
+<node TEXT="Dear Wikipedia," LOCALIZED_STYLE_REF="styles.topic" ID="ID_384522965" CREATED="1463519087013" MODIFIED="1463521105934">
+<node TEXT="I want to introduce to you an open-source data structure that I believe could radically simplify and organize Wikipedia. It will not raise your infrastructure requirements, and your data will be the same data, just organized differently, more connected and queriable." ID="ID_1976161852" CREATED="1463519087013" MODIFIED="1463519087013"/>
+<node TEXT="&lt;&lt;This proposal has four sections: ...&gt;&gt;" ID="ID_240839877" CREATED="1463519087013" MODIFIED="1463519087013"/>
+</node>
+<node TEXT="Motivation &amp; Wiki" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1725222363" CREATED="1463519087014" MODIFIED="1463527612558">
+<node TEXT="wiki problems" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1256835707" CREATED="1463519254298" MODIFIED="1463521179556">
+<node TEXT="view rigidity" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_377072640" CREATED="1463521002938" MODIFIED="1463521116124">
+<node TEXT="Wikipedia consists of a set of rigid views called articles. To view (the article on) Russia is very distinct from viewing (the article on) the conomics of oil. If instead the data was a Reflexive Set of Labeled Tuples (an &quot;RSLT&quot;), the user could ask to look at all concepts related to both topics." ID="ID_516413800" CREATED="1463519087015" MODIFIED="1463708995895"/>
+<node TEXT="You, Wikipedia, inherited a problem that originated in the linear, sequential nature of the spoken and written word. It is not a problem inherent to language [*the data in an RSLT is still language] but it is inherent to a linearized traversal of language, which all stories, speeches, books, articles -- the vast majority of the ways we consume language -- are." ID="ID_374691109" CREATED="1463519087015" MODIFIED="1463709003471"/>
+<node TEXT="Because the experience of a human reader is chronological, a thing embedded in time, if we are to read something, we read it sequentially. As a result, we developed the natural habit of recording our data as sequences, as stories. But the linearization is only needed for the view. The view can be constructed later; the data do not have to be distorted into that state to begin with." ID="ID_894558636" CREATED="1463519087016" MODIFIED="1463519087016"/>
+</node>
+<node TEXT="data v. meta-data" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1175507914" CREATED="1463521011562" MODIFIED="1463521138612"/>
+<node TEXT="retractability" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1512333319" CREATED="1463629517555" MODIFIED="1463629521683"/>
+<node TEXT="authority" ID="ID_176001101" CREATED="1463521215884" MODIFIED="1463521217144">
+<node TEXT="just count someone&apos;s fights, check out the fights, see if you believe them." ID="ID_265082955" CREATED="1463527044593" MODIFIED="1463527067838"/>
+<node TEXT="if you don&apos;t have time, do that for a while until you can identify a judge of fights who you believe, then trust them" ID="ID_1906645276" CREATED="1463527068026" MODIFIED="1463527090959"/>
+</node>
+<node TEXT="crawl for data" ID="ID_1140006904" CREATED="1463629865410" MODIFIED="1463629869126"/>
+</node>
+<node TEXT="RSLT solutions" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1309787115" CREATED="1463520965825" MODIFIED="1463709014150">
+<node TEXT="An RSLT allows one to construct views such as the following:" ID="ID_995695430" CREATED="1463519087018" MODIFIED="1463709020654"/>
+<node TEXT="* &quot;Show me every instance of compassion recorded before 1900, sorted by putting the least-viewed results first.&quot; Using the ordinary definition of compassion, this would return every action which had been explicitly labeled compassion by someone. However, the user could define a local definition of compassion -- say, any of love or altruism or mercy or kindness -- to collect everything that had been identified as any of those." ID="ID_336809737" CREATED="1463519087019" MODIFIED="1463519087019"/>
+<node TEXT="* &quot;Put an asterisk next to every term on this page that has a special meaning in economics.&quot; This way words like &quot;game&quot; or &quot;normal&quot; that have a very different meaning in ordinary English would not confuse a non-economist while reading about economics." ID="ID_1622653575" CREATED="1463519087019" MODIFIED="1463519087019"/>
+<node TEXT="* &quot;Show me every statement recorded by [author] contradicted by some other author.&quot; &quot;Show me every statement regarding Israel or Palestine that nobody has contradicted.&quot; &quot;Show me every author that both [author] and [author] rely heavily on.&quot;" ID="ID_1846543558" CREATED="1463519087019" MODIFIED="1463519087019"/>
+<node TEXT="*  &quot;Excluding things that swim, for each of the five kinds of vertebrates (fish, mammals ...), show me the ratio of the number of species of that kind to the total number of vertebrate species.&quot; Assuming entries existed for each species, the ratios could be counted automatically." ID="ID_1708036696" CREATED="1463526386280" MODIFIED="1463526687682"/>
+</node>
+</node>
+<node TEXT="Relationships are labeled tuples!" ID="ID_138183481" CREATED="1463527426231" MODIFIED="1463527712615">
+<node TEXT="Consider the relationship &quot;_ helped _.&quot; It is an ordered tuple, specifically an ordered pair. It is labeled, in the sense that the label &quot;helped&quot; distinguishes that relationship from the similar relationship labeled &quot;used&quot;." ID="ID_562575271" CREATED="1463527436087" MODIFIED="1463688754111"/>
+</node>
+<node TEXT="Sentences are nests of relationships!" ID="ID_38090872" CREATED="1463527510256" MODIFIED="1463527907457">
+<node TEXT="Consider the sentence, &quot;Babies need calcium because babies make bones.&quot; At the top level, binding last, is the &quot;because&quot; relationship. That relationship connects the &quot;needs&quot; relationship to the &quot;make&quot; relationship." ID="ID_1734090506" CREATED="1463527769900" MODIFIED="1463688797911"/>
+<node TEXT="I dare you to find a fact that cannot be so deconstructed." LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_648235332" CREATED="1463688798233" MODIFIED="1463688799946"/>
+</node>
+<node TEXT="All (communicable) information is* sentences!" ID="ID_754646089" CREATED="1463528516301" MODIFIED="1463688863664">
+<node TEXT="*is or can be equivalently represented as" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1387040993" CREATED="1463688864186" MODIFIED="1463688877308"/>
+<node TEXT="Let X :: cell in a table = &quot;In [year], [country] imported [number] gasoline.&quot; The table is just &quot;For years _ and countries _, show me all statements like X.&quot;" ID="ID_1122220241" CREATED="1463526863439" MODIFIED="1463527003557"/>
+<node TEXT="You might say, &quot;Music is not sentences!&quot; You would be right. But the music is a waveform, and a waveform can be expressed as a sequence of statements of the form, &quot;At time _ the air pressure is _.&quot;" ID="ID_658929836" CREATED="1463688933107" MODIFIED="1463688992960"/>
+<node TEXT="That does not mean it should be *encoded* as a sequence of such statements. That would be wasteful. Music should be a sequence of numbers -- so mostly the same data -- plus some information explaining that they are all sound pressure values at given times in a particular song (and to guarantee uniqueness, who made it and what they called it or when they made it). The data just needs a little metadata to know itself." ID="ID_342824300" CREATED="1463689003988" MODIFIED="1463689100795"/>
+</node>
+<node TEXT="There exist good automatic parsers for transforming plain language into a nest of relationships!" LOCALIZED_STYLE_REF="default" ID="ID_50406079" CREATED="1463528163681" MODIFIED="1463528683951">
+<node TEXT="This is great because the most interesting facts are not about numbers. Obscure but simple facts, like &quot;economy informs grace,&quot; deserve to be bound together in a network of relationships like &quot;_ helps _&quot;, &quot;_ contradicts _&quot;, &quot;_ assumes _&quot;, &quot;_ rebuts _&quot;, &quot;_ resembles _&quot;, &quot;_ helps understand _&quot; ..." ID="ID_873690942" CREATED="1463689118805" MODIFIED="1463689319037"/>
+</node>
+<node TEXT="There is an algebra on sentences! on those nests of relationships!" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1993194233" CREATED="1463528052263" MODIFIED="1463688714749">
+<node TEXT="These two sentences are the same: &quot;When the sun is high, if the grass is wet, it probably just rained.&quot; &quot;It probably just rained if the sun is high and the grass is wet.&quot; An RSLT allows equational reasoning on that algebra, so that one can ask, for instance, &quot;Under what conditions might the grass be wet?&quot;" ID="ID_563347464" CREATED="1463528062327" MODIFIED="1463709027543"/>
+<node TEXT="You might worry that to find a kind of information, you would have to know exactly how someone might encode it. Not so! As long as you can think of one way of saying it, an inference engine can find all equivalent ways. (And the search is fast! Faster than it would be if you had to read through every page containing it. There are no pages, there are only contexts in which a statement is used. You don&apos;t have to search the ones where it does not appear. You don&apos;t even search the ones where it does; rather, you traverse from it to them.)" ID="ID_401982835" CREATED="1463528554758" MODIFIED="1463688636133"/>
+</node>
+<node TEXT="What an RSLT is" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_349309149" CREATED="1463519087019" MODIFIED="1463709035342">
+<node TEXT="The precise definition, in Haskell, can be found on lines 39 through 51 of this file:" ID="ID_1556188063" CREATED="1463689383808" MODIFIED="1463696768377">
+<node TEXT="https://github.com/JeffreyBenjaminBrown/digraphs-with-text/blob/master/src/Dwt/Graph.hs" ID="ID_507062147" CREATED="1463696733063" MODIFIED="1463696733063" LINK="https://github.com/JeffreyBenjaminBrown/digraphs-with-text/blob/master/src/Dwt/Graph.hs"/>
+</node>
+<node TEXT="it generalizes" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1664438713" CREATED="1463520919313" MODIFIED="1463527991739">
+<node TEXT="An RSLT resembles a graph, but generalizes in two ways:" ID="ID_941022554" CREATED="1463519087022" MODIFIED="1463709041542"/>
+<node TEXT="(1) In a graph an edge can bind nodes, but not other edges. Instead of nodes and edges, an RSLT has statements and relationships. Not every statement is a relationships, but every relationship is a statement, and thus can belong to other relationships." ID="ID_999253419" CREATED="1463519087022" MODIFIED="1463709048759"/>
+<node TEXT="(2) In a graph, relationships are always between two things. In an RSLT, relationships can bind any number of things." ID="ID_291281441" CREATED="1463519087022" MODIFIED="1463709058007"/>
+<node TEXT="In the same two ways, the RSLT also generalizes the triplestore." ID="ID_1004343579" CREATED="1463519362260" MODIFIED="1463709069703"/>
+</node>
+<node TEXT="expr &amp; rel" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1852918325" CREATED="1463520930313" MODIFIED="1463521157580">
+<node TEXT="Expressions in an RSLT are either words (which include numbers) or relationships. An example of a relationship would be &quot;babies #need calcium&quot;, which instantiates the relationship template &quot;_ needs _&quot;. (The # symbol in the above is based on the $ symbol in the programming language Haskell. Its usefulness will become clear soon.)" ID="ID_1799137847" CREATED="1463519510565" MODIFIED="1463709077697"/>
+<node TEXT="Relationships in an RSLT can be of any order, that is they can bind any number of members: &quot;_ needs _ because _&quot; is an order-3 template. Since relationships are expressions, they can involve other expressions (hence the R in RSLT). For instance, &quot;babies #need calcium ##because babies #build bones&quot; is a relationship between two other relationships. The ## indicates that the &quot;because&quot; relationship binds last, after the &quot;need&quot; and &quot;build&quot; relationships." ID="ID_1221779824" CREATED="1463520639495" MODIFIED="1463709092263"/>
+</node>
+<node TEXT="data v. meta-data" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1725612630" CREATED="1463520888801" MODIFIED="1463520938594">
+<node TEXT="In an RSLT the distinction between data and meta-data vanishes. For instance, consider this collection of statements:" ID="ID_1733208970" CREATED="1463519362258" MODIFIED="1463709097823">
+<node TEXT="(1) Patient X spent 30 days in the hospital." ID="ID_586528971" CREATED="1463519362258" MODIFIED="1463519362258"/>
+<node TEXT="(2) Institution Y is the source of the data in statement 1." ID="ID_1194792008" CREATED="1463519362258" MODIFIED="1463519362258"/>
+<node TEXT="(3) Previous patient-stay data from institution Y have represented numbers greater than 30 as 30." ID="ID_1028762897" CREATED="1463519362258" MODIFIED="1463519362258"/>
+<node TEXT="(4) Statements 2 and 3 imply that statement 1 might be inaccurate. The true figure might be greater than 30." ID="ID_1993294589" CREATED="1463519362258" MODIFIED="1463519362258"/>
+</node>
+<node TEXT="Economists and medical statisticians would encode the first, or maybe the first two, in a table. The others statements would be retained in an ad-hoc manner, if at all. An RSLT can uniformly represent all of them." ID="ID_384943412" CREATED="1463519362258" MODIFIED="1463709104407"/>
+</node>
+</node>
+<node TEXT="It is almost no change" ID="ID_1270353019" CREATED="1463526793542" MODIFIED="1463526796114">
+<node TEXT="It is natural" LOCALIZED_STYLE_REF="default" ID="ID_1430015316" CREATED="1463521034794" MODIFIED="1463526802295"/>
+<node TEXT="You will not need much more or different data." ID="ID_528882926" CREATED="1463519087020" MODIFIED="1463521079087">
+<node TEXT="Items in a table will still be items in a table; they&apos;ll just know it." ID="ID_1690949734" CREATED="1463524658299" MODIFIED="1463524669696"/>
+</node>
+<node TEXT="functional programming ~ functional description" ID="ID_1350876101" CREATED="1463521081299" MODIFIED="1463688134997">
+<node TEXT="it&apos;s not about doing, but rather what is" ID="ID_462262733" CREATED="1463688136344" MODIFIED="1463688142452"/>
+<node TEXT="get rid of concepts like tables; instead, just say what concepts every number relates, and how, and then attach that number to the intersection of those concepts&apos; ?children" ID="ID_302916035" CREATED="1463688142656" MODIFIED="1463688278335">
+<node TEXT="these numbers would not have to have first-order representation as nodes, and indeed should not, as the number of statements with the word &quot;one&quot; in them is huge, and there&apos;s little imaginable reason to want to search for all of them, hence those edges can be left implicit" ID="ID_871231059" CREATED="1463688193417" MODIFIED="1463688244759"/>
+</node>
+</node>
+</node>
+<node TEXT="It can save space" ID="ID_1824270456" CREATED="1463525195089" MODIFIED="1463696785852">
+<node TEXT="Think of all the &quot;_ needed _ because _&quot; statements on wikipedia. That&apos;s all reducible! You can abstract out the relationship from the elements!" ID="ID_299548244" CREATED="1463525197793" MODIFIED="1463525223470"/>
+<node TEXT="&quot;_ is about _&quot; is transitive" ID="ID_1307966975" CREATED="1463525235537" MODIFIED="1463525245111">
+<node TEXT="so the non-root nodes in a tree can all rely on that root for an about statement" ID="ID_691473655" CREATED="1463525249978" MODIFIED="1463525271550"/>
+</node>
+</node>
+<node TEXT="Changes propogate immediately!" ID="ID_164511306" CREATED="1463529558424" MODIFIED="1463529563005">
+<node TEXT="If Prince becomes The Artist Formerly Known as Prince, since that title is in exactly one place, it only needs changing there; every statement that referred to Prince now refers to the other." ID="ID_1054452947" CREATED="1463529563662" MODIFIED="1463529593600"/>
+</node>
+<node TEXT="It unifies your work with others&apos;." ID="ID_165121682" CREATED="1463530576194" MODIFIED="1463530582886">
+<node TEXT="privacy is fine I hope" ID="ID_1806918164" CREATED="1463530583580" MODIFIED="1463688307935">
+<node TEXT="because we can&apos;t cooperate with each other to share the total knowledge armaggeddon engine if we are not safe to let each other progress toward whatever intelligence their data and processes lead them to" ID="ID_390144476" CREATED="1463688312379" MODIFIED="1463688362289"/>
+</node>
+<node TEXT="&quot;Show me everything anyone has ever written(and shared) about Donald Trump.&quot;" ID="ID_1379500457" CREATED="1463688371675" MODIFIED="1463688391496"/>
+</node>
+<node TEXT="It is not to say every question is quickly answerable." LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1199302777" CREATED="1463524698532" MODIFIED="1463524733725">
+<node TEXT="but every one that you might prepare for seems possibly quickly answerable given such preparation" ID="ID_514275647" CREATED="1463524713316" MODIFIED="1463688433716"/>
+</node>
+<node TEXT="So far I have ..." ID="ID_504112687" CREATED="1463520894257" MODIFIED="1463526764666">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1725612630" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="So far I have written methods for creating, modifying and querying an RSLT, for displaying query results, and for importing data from the Freeplane format. In the future I want to add a graphical user interface and a Prolog-like engine inference -- in which case the 4th statement above would be automatically discoverable." ID="ID_261209295" CREATED="1463519362260" MODIFIED="1463709112031"/>
+</node>
+<node TEXT="Who am I" LOCALIZED_STYLE_REF="styles.topic" ID="ID_461622619" CREATED="1463519087026" MODIFIED="1463521168373">
+<node TEXT="I have been working in knowledge representation for the last few years. Before that I was a programmer and statistical analyst at a medical economics consulting firm. Before that I was a PhD student in econometrics at Michigan State University, which is a branch of statistics concerned with non-experimental data." ID="ID_894890201" CREATED="1463519087029" MODIFIED="1463687826616"/>
+</node>
+<node TEXT="refs" LOCALIZED_STYLE_REF="styles.topic" ID="ID_1875427982" CREATED="1463519125337" MODIFIED="1463521170309">
+<node TEXT="my github" ID="ID_1693961038" CREATED="1463519134832" MODIFIED="1463519136429">
+<node TEXT="[1] https://github.com/JeffreyBenjaminBrown/digraphs-with-text" ID="ID_1655714437" CREATED="1463519087030" MODIFIED="1463519087030" LINK="https://github.com/JeffreyBenjaminBrown/digraphs-with-text"/>
+</node>
+<node TEXT="me on fgl &amp; dwt" ID="ID_1637115874" CREATED="1463519139041" MODIFIED="1463519145029">
+<node TEXT="[2] On Dec 29, 2015, I present Haskell&apos;s Functional Graph Library, and then my own mindmapping code, to the Santa Monica Haskell User Group." ID="ID_573898065" CREATED="1463519087030" MODIFIED="1463519087030"/>
+<node TEXT="Here is the recorded video:" ID="ID_1449021250" CREATED="1463519087031" MODIFIED="1463519087031"/>
+<node TEXT="http://www.meetup.com/santa-monica-haskell/events/227152609/" ID="ID_283811689" CREATED="1463519087032" MODIFIED="1463519087032" LINK="http://www.meetup.com/santa-monica-haskell/events/227152609/"/>
+<node TEXT="Here is the meetup page, with associated materials:" ID="ID_453534526" CREATED="1463519087033" MODIFIED="1463519087033"/>
+<node TEXT="https://www.youtube.com/watch?v=lJ7_vMhfm5Y" ID="ID_1500842645" CREATED="1463519087034" MODIFIED="1463519087034" LINK="https://www.youtube.com/watch?v=lJ7_vMhfm5Y"/>
+</node>
+<node TEXT="me on tidal" ID="ID_826291214" CREATED="1463519148392" MODIFIED="1463519150502">
+<node TEXT="[3] On October 20th, 2015, I presented Tidal, an embedded DSL for live-coding music, to the Santa Monica Haskell User Group." ID="ID_276610022" CREATED="1463519087034" MODIFIED="1463519087034"/>
+<node TEXT="Here is the recorded video:" ID="ID_1443923196" CREATED="1463519087034" MODIFIED="1463519087034"/>
+<node TEXT="https://www.youtube.com/watch?v=kWiFsHHeccI" ID="ID_650311701" CREATED="1463519087035" MODIFIED="1463519087035" LINK="https://www.youtube.com/watch?v=kWiFsHHeccI"/>
+<node TEXT="Here is the meetup page, with associated materials:" ID="ID_1919691167" CREATED="1463519087035" MODIFIED="1463519087035"/>
+<node TEXT="http://www.meetup.com/santa-monica-haskell/events/225732250/" ID="ID_1952051861" CREATED="1463519087036" MODIFIED="1463519087036" LINK="http://www.meetup.com/santa-monica-haskell/events/225732250/"/>
+</node>
+</node>
+<node TEXT="the TOCs are a good start" ID="ID_1597644161" CREATED="1464033438148" MODIFIED="1464033444808">
+<node TEXT="if they nested further, someone could see what they&apos;re getting into better" ID="ID_990405524" CREATED="1464033446587" MODIFIED="1464033458054"/>
+</node>
 </node>
 </node>
 </node>

@@ -17776,7 +17776,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -17967,7 +17966,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 </node>
 </node>
-<node TEXT="? Superdirt" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1226869468" CREATED="1454566376357" MODIFIED="1454566379631"/>
 <node TEXT="Dirt" ID="ID_550072709" CREATED="1440655384921" MODIFIED="1462913475932">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_370683564" STARTINCLINATION="48;0;" ENDINCLINATION="48;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="freq folders" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_167727076" CREATED="1454552305989" MODIFIED="1454552311742">
@@ -23427,6 +23425,15 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 </node>
 <node TEXT="&quot;Envelopes are very easy to add in SuperDirt, live even&quot;" ID="ID_1881063081" CREATED="1464132044265" MODIFIED="1464132047021"/>
 <node TEXT="~dirt.addModule(&apos;envelope&apos;, { |dirtEvent|&#xa;        dirtEvent.sendSynth(&apos;dirt_envelope&apos; ++ ~dirt.numChannels,&#xa;                [attack: ~attack, hold: ~hold, release:~release, out: ~out])}, { ~attack.notNil and: {~release.notNil}});&#xa;SynthDef(&quot;dirt_envelope&quot; ++ numChannels, { |out, attack=0, hold=0, release=0 |&#xa;        var signal;&#xa;        signal = In.ar(out, numChannels);&#xa;        ReplaceOut.ar(out, signal * EnvGen.ar(Env.linen(attack, hold, release, 1, -3)) );&#xa;}).add;&#xa;&#xa;Sets it up so you can specify &quot;attack&quot;, &quot;release&quot;, and &quot;hold&quot; in Tidal (only the first two are necessary)." ID="ID_78120665" CREATED="1464132035145" MODIFIED="1464132043807"/>
+</node>
+<node TEXT="samples folder" ID="ID_1176128398" CREATED="1464288595256" MODIFIED="1464288599991">
+<node TEXT="via Julian Rohrhuber, thread &quot;SuperDirt: First Steps&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_289497438" CREATED="1464288696802" MODIFIED="1464288735238"/>
+<node TEXT="&gt; On 25.05.2016, at 01:16, Jeffrey Brown &lt;jeffbrown.the@gmail.com&gt; wrote:&#xa;&gt;&#xa;&gt; Where does SuperDirt keep its samples?&#xa;&#xa;it is in a neighbour quark, called DirtSamples. It&#x2019;s in a folder next to the SuperDirt folder." ID="ID_1547752111" CREATED="1464288600609" MODIFIED="1464288729559"/>
+</node>
+<node TEXT="define aliases" ID="ID_659905005" CREATED="1464288691177" MODIFIED="1464288749592">
+<node TEXT="rather than renaming folders" ID="ID_1463974610" CREATED="1464288751362" MODIFIED="1464288755074"/>
+<node TEXT="via Julian Rohrhuber, thread &quot;SuperDirt: First Steps&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1684090348" CREATED="1464288696802" MODIFIED="1464288735238"/>
+<node TEXT="(&#xa;~makeAlias = { |from, to|&#xa;        var val = ~dirt.buffers[from];&#xa;&#xa;        if(val.isNil) { warn(&quot;no such sample &quot; ++ from ) } {&#xa;                if(~dirt.buffers[to].notNil) {&#xa;                        warn(&quot;name already exists &quot; ++ to )&#xa;                } {&#xa;                        ~dirt.buffers[to] = val;&#xa;                        postln(&quot;linked&quot; ++ to ++ &quot; -&gt; &quot; ++ from);&#xa;                }&#xa;        }&#xa;};&#xa;)&#xa;&#xa;&#xa;~makeAlias.(\bd, \b);" ID="ID_1812089185" CREATED="1464288693585" MODIFIED="1464288695984"/>
 </node>
 </node>
 <node TEXT="R" ID="ID_928746245" CREATED="1447268720491" MODIFIED="1447268721270">

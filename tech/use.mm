@@ -6050,8 +6050,8 @@
 <node TEXT="see &quot;use.mm/installs/../disable frequency scaling&quot;" ID="ID_1306563862" CREATED="1460877561608" MODIFIED="1460877574814"/>
 </node>
 <node TEXT="on kubuntu 16.04" ID="ID_237119174" CREATED="1461558625886" MODIFIED="1461558629547">
-<node TEXT="SuperCollider, SuperDirt, sc3-plugins" LOCALIZED_STYLE_REF="default" ID="ID_123388802" CREATED="1464041058021" MODIFIED="1464130483993">
-<node TEXT="sudo apt install sc3-plugins" ID="ID_549499957" CREATED="1464130487593" MODIFIED="1464130490950"/>
+<node TEXT="SuperCollider, SuperDirt, sc3-plugins(not finding)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_123388802" CREATED="1464041058021" MODIFIED="1464318775433">
+<node TEXT="sudo apt install sc3-plugins" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_549499957" CREATED="1464130487593" MODIFIED="1464318766974"/>
 <node TEXT="SuperCollider: see apps/SuperCollider" ID="ID_1373301587" CREATED="1464130492225" MODIFIED="1464130499044"/>
 <node TEXT="within SuperCollider: include(&quot;SuperDirt&quot;);" ID="ID_1216290984" CREATED="1464130507639" MODIFIED="1464130538370">
 <node TEXT="this *installs* SuperDirt" ID="ID_319527403" CREATED="1464130539046" MODIFIED="1464130545227"/>
