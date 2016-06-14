@@ -57,8 +57,48 @@
 </map_styles>
 </hook>
 <node TEXT="2016" POSITION="right" ID="ID_496059576" CREATED="1462171338320" MODIFIED="1462171785468">
+<node TEXT="10" ID="ID_1409593737" CREATED="1465619474430" MODIFIED="1465619475187">
+<node TEXT="just intonation: 0et12 maj scale + 4et12 dorian scale" ID="ID_1587211920" CREATED="1465763119077" MODIFIED="1465763146475"/>
+<node TEXT="funk ~ an occasional tiny left shift" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_767595071" CREATED="1465619505687" MODIFIED="1465763062825">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_570444859" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="loosey goosey, by four80east" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_570444859" CREATED="1465619475929" MODIFIED="1465619504607">
+<node TEXT="and that sax line!" ID="ID_1499686899" CREATED="1465763097245" MODIFIED="1465763099873"/>
+</node>
+<node TEXT="coordinated across instruments" ID="ID_1565054319" CREATED="1465619529495" MODIFIED="1465619533347"/>
+</node>
+</node>
+<node TEXT="7" ID="ID_157036154" CREATED="1465360012134" MODIFIED="1465360015027">
+<node TEXT="play with levels" ID="ID_660090532" CREATED="1465360027854" MODIFIED="1465360030395"/>
+<node TEXT="dance ~ debate" ID="ID_372150503" CREATED="1465360080935" MODIFIED="1465360084340"/>
+</node>
+<node TEXT="2016 6 4" ID="ID_920988483" CREATED="1465064787173" MODIFIED="1465065280602">
+<font BOLD="true"/>
+<node TEXT="pract" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_587847021" CREATED="1465065219768" MODIFIED="1465065221960">
+<node TEXT="SuperCollider for Emacs!" LOCALIZED_STYLE_REF="default" ID="ID_1979258098" CREATED="1464851857796" MODIFIED="1465065224000">
+<node TEXT="http://ccrma.stanford.edu/planetccrma/software/supercollider-en/" ID="ID_1451638138" CREATED="1464851862920" MODIFIED="1464851862920" LINK="http://ccrma.stanford.edu/planetccrma/software/supercollider-en/"/>
+</node>
+<node TEXT="? will I see responses to my SuperCollider email" LOCALIZED_STYLE_REF="default" ID="ID_165783827" CREATED="1464927030614" MODIFIED="1465065224003"/>
+<node TEXT="the math for volume in SuperDirt might be off, treating levels as something that climbs faster" LOCALIZED_STYLE_REF="default" ID="ID_197633460" CREATED="1464818183391" MODIFIED="1465065224005"/>
+<node TEXT="introduce monome, tidal" LOCALIZED_STYLE_REF="default" ID="ID_561281077" CREATED="1464822444781" MODIFIED="1465065240809"/>
+</node>
+<node TEXT="synth ~ fourier" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1353972503" CREATED="1464929775541" MODIFIED="1464929805563">
+<node TEXT="how to decomp a wave? wavelets, sines" ID="ID_716685482" CREATED="1464929814070" MODIFIED="1464929839508"/>
+</node>
+<node TEXT="Just ask musicians who they are." LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_365572495" CREATED="1464928605080" MODIFIED="1464928610378"/>
+<node TEXT="of music: enthusiasm, &quot;I can do this!&quot;  $$v  of speaking with others: wonder(apprehension, intimidation)" ID="ID_123361120" CREATED="1464919712258" MODIFIED="1464919865082"/>
+</node>
 <node TEXT="5 23" ID="ID_83208848" CREATED="1464033854510" MODIFIED="1464033857809">
-<node TEXT="feas ? mus lang" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1566006792" CREATED="1462869764993" MODIFIED="1464209996423">
+<node TEXT="address instruction to ongoing voice" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1197360470" CREATED="1464583290177" MODIFIED="1464583313143">
+<node TEXT="tidal feas ?" ID="ID_554074722" CREATED="1464583275701" MODIFIED="1464583282724"/>
+</node>
+<node TEXT="feas simp" LOCALIZED_STYLE_REF="AutomaticLayout.level,3" ID="ID_1721087048" CREATED="1464580939940" MODIFIED="1464580943407">
+<node TEXT="kinds of noise" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_210998045" CREATED="1464580205004" MODIFIED="1464580947095"/>
+<node TEXT="learn decibels" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1610862777" CREATED="1464580931326" MODIFIED="1464580936208"/>
+</node>
+<node TEXT="feas /// Time (within cycle) -&gt; scale degree simplicity" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1113860068" CREATED="1464476489372" MODIFIED="1464476577394">
+<node TEXT="combine that with a separate map :: time -&gt; rough frequency value" ID="ID_686483359" CREATED="1464476587293" MODIFIED="1464476606906"/>
+</node>
+<node TEXT="mus graph lang" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1566006792" CREATED="1462869764993" MODIFIED="1464476532744">
 <node TEXT="= graphish, but could do without explicit graph" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_371946761" CREATED="1462870405609" MODIFIED="1462870423911"/>
 <node TEXT="seq ? uniform (e.g. only freqs)" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_413717721" CREATED="1462869884401" MODIFIED="1462869930399"/>
 <node TEXT="? Ordered Freq -&gt; Ordered Sample -&gt; Ordered Event" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1337980274" CREATED="1462870132441" MODIFIED="1462870260378">
@@ -441,19 +481,8 @@
 <node TEXT="homonymous : who am I, who are my" ID="ID_535685440" CREATED="1456184557634" MODIFIED="1456184572234"/>
 </node>
 <node TEXT="range waves {pitch, ..}" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_100721658" CREATED="1456005979039" MODIFIED="1456184531249"/>
-<node TEXT="simple slow fourier combinations : try by hand" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_277776383" CREATED="1455941188718" MODIFIED="1456184530332">
-<node TEXT="adding or multiplying" ID="ID_1270281145" CREATED="1455941202679" MODIFIED="1455941208252"/>
-<node TEXT="cycle durations of a couple seconds" ID="ID_1862734010" CREATED="1455941210318" MODIFIED="1455941226340">
-<node TEXT="result being rhythms rather than timbres" ID="ID_1155976782" CREATED="1455941226985" MODIFIED="1455941235544"/>
-</node>
-</node>
 <node TEXT="if can do a slight, consistent pitch dev, awesome" ID="ID_1378556487" CREATED="1456295523984" MODIFIED="1456295562901">
 <node TEXT="e.g. equal x-instruments, fluct x-time" ID="ID_607959032" CREATED="1457254639296" MODIFIED="1457254658670"/>
-</node>
-<node TEXT="meta-scale" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1500608909" CREATED="1456296112864" MODIFIED="1456296116154">
-<node TEXT="like a piano, tune|timbre every note" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1944620572" CREATED="1456296076824" MODIFIED="1457255058583">
-<node TEXT="roughly that many choices" ID="ID_1023895589" CREATED="1456296127281" MODIFIED="1456296131077"/>
-</node>
 </node>
 </node>
 <node TEXT="02 17" ID="ID_613012147" CREATED="1455741824833" MODIFIED="1455741827271">
@@ -559,6 +588,7 @@
 <node TEXT="timbre $ a voice: &quot;I get more being than [another]!&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_171959026" CREATED="1454564900149" MODIFIED="1457256993427">
 <node TEXT="e.g. in a b b, start a proud buzz in the start of the second b" ID="ID_1738580095" CREATED="1454564916348" MODIFIED="1457256979061"/>
 </node>
+<node TEXT="greed kind\ timbre" ID="ID_1010009463" CREATED="1465673622999" MODIFIED="1465673647726"/>
 <node TEXT="commands for opg on mult voices at once" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_647681164" CREATED="1454566837909" MODIFIED="1454566843881"/>
 </node>
 <node TEXT="02 01" ID="ID_1769006154" CREATED="1454398778230" MODIFIED="1454398780650">
@@ -874,56 +904,12 @@
 </node>
 <node TEXT="pedal controls for loops would include a &quot;silence&quot; button" ID="ID_251618745" CREATED="1398121863056" MODIFIED="1398121896551"/>
 <node TEXT="if I can find a single sound to represent a song, use it sometimes" ID="ID_467960713" CREATED="1398122361905" MODIFIED="1398122373530"/>
-<node TEXT="each drum should be a chord in a different timbre" LOCALIZED_STYLE_REF="default" ID="ID_1829726658" CREATED="1398124654465" MODIFIED="1398188339861"/>
 <node TEXT="a mic of any quality is sufficient for sound effects" LOCALIZED_STYLE_REF="default" ID="ID_1187148161" CREATED="1398123732754" MODIFIED="1398188380435"/>
 <node TEXT="should I have someone else do that?" LOCALIZED_STYLE_REF="default" ID="ID_674930042" CREATED="1398124256428" MODIFIED="1398188377250"/>
 <node TEXT="timbre vocabularies" ID="ID_1260824690" CREATED="1398122481525" MODIFIED="1398122497807">
-<node TEXT="choice of" ID="ID_1874957752" CREATED="1398123431227" MODIFIED="1398123433662">
-<node TEXT="stick to [characterized at right] kinds of qualities?" ID="ID_1509725786" CREATED="1398123409619" MODIFIED="1398123425559">
-<node TEXT="ones easily mapped to data operations -- e.g. brief/ringy, but not air/metal" ID="ID_38639525" CREATED="1398123436178" MODIFIED="1398123473068"/>
-</node>
-</node>
-<node TEXT="list of" ID="ID_1470743858" CREATED="1398124101912" MODIFIED="1398124113628">
-<node TEXT="not all of these lists the elements of the vocabulary" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1765587778" CREATED="1398123878927" MODIFIED="1398123887694">
-<node TEXT="sometimes that is at right" ID="ID_1157366220" CREATED="1398123888182" MODIFIED="1398123891289"/>
-</node>
-<node TEXT="low, high" ID="ID_844175234" CREATED="1398122504670" MODIFIED="1398122514248">
-<node TEXT="2 samples can be enough sometimes" ID="ID_1732660353" CREATED="1398122519549" MODIFIED="1398122534742"/>
-</node>
-<node TEXT="soft things" ID="ID_435269043" CREATED="1398123895462" MODIFIED="1398123897586">
-<node TEXT="pillow, water" ID="ID_744947308" CREATED="1398123699841" MODIFIED="1398123701597"/>
-</node>
-<node TEXT="big thing, small thing" ID="ID_1718174945" CREATED="1398122575659" MODIFIED="1398122578477"/>
-<node TEXT="ringy things, brief things" ID="ID_1152422858" CREATED="1398123383675" MODIFIED="1398123389640"/>
-<node TEXT="{muted, unmuted}, same object" ID="ID_453776047" CREATED="1398123493008" MODIFIED="1398123512373"/>
-<node TEXT="chaotic sustained, simple sustained" ID="ID_798034000" CREATED="1398123601784" MODIFIED="1398123611705"/>
-<node TEXT="frequent thing, infrequent thing" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_155769458" CREATED="1398122594099" MODIFIED="1398123581818">
-<font BOLD="false"/>
-<node TEXT="not clear this belongs" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_462914883" CREATED="1398123575039" MODIFIED="1398123578220"/>
-<node TEXT="optimal qualities likely vary usefully across those two jobs" ID="ID_906462327" CREATED="1398122634242" MODIFIED="1398122650181"/>
-<node TEXT="e.g. frequent thing high-pitched" ID="ID_1485587697" CREATED="1398122650378" MODIFIED="1398122676476"/>
-</node>
-<node TEXT="assembly" ID="ID_1282216107" CREATED="1398123778202" MODIFIED="1398123922048">
-<node TEXT="ratcheting wrench, hammer into nail, typing" ID="ID_447933645" CREATED="1398123784224" MODIFIED="1398123927560"/>
-</node>
-<node TEXT="kidnap" ID="ID_806284429" CREATED="1398124037658" MODIFIED="1398124038965">
-<node TEXT="close trunk, scotch tape" ID="ID_1798645619" CREATED="1398124041250" MODIFIED="1398124051437"/>
-</node>
-</node>
 <node TEXT="u" ID="ID_1206649602" CREATED="1398188400835" MODIFIED="1398188402350">
-<node TEXT="the range is meaningfully big, and locally comprehensible" ID="ID_1441336470" CREATED="1398123428737" MODIFIED="1398124099211"/>
-<node TEXT="variation across" ID="ID_1248134596" CREATED="1398123672508" MODIFIED="1398123675552">
-<node TEXT="electronic, physical" ID="ID_1307089745" CREATED="1398123675716" MODIFIED="1398123682798"/>
-</node>
-<node TEXT="after criticism in lyrics, sound of flame, corresponding to how that criticism would propogate" ID="ID_695634533" CREATED="1398123945860" MODIFIED="1398123998862"/>
-<node TEXT="the physical dynamics percussion can convey" ID="ID_201147843" CREATED="1398122690320" MODIFIED="1398122706913"/>
 <node TEXT="high-pitched ~ lightweight" ID="ID_1584712331" CREATED="1398122678195" MODIFIED="1398122684381"/>
-<node TEXT="physically meaningful timbre characteristics" ID="ID_793066344" CREATED="1398126159319" MODIFIED="1398126166266">
 <node TEXT="echo" ID="ID_1867962192" CREATED="1398126177662" MODIFIED="1398126178514"/>
-<node TEXT="scary, ominous" ID="ID_1495812620" CREATED="1398122720327" MODIFIED="1398188360079">
-<node TEXT="nothing but lightweight sounds" ID="ID_459452935" CREATED="1398122721279" MODIFIED="1398122731058"/>
-</node>
-</node>
 </node>
 </node>
 <node TEXT="synth tools" ID="ID_1697865927" CREATED="1398188611561" MODIFIED="1398188620984">

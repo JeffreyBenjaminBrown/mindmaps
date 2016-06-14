@@ -18960,8 +18960,8 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="cho" ID="ID_1889949851" CREATED="1417820050801" MODIFIED="1418796404231">
 <node TEXT="* pending" ID="ID_961861159" CREATED="1417820973713" MODIFIED="1417820979749">
 <node TEXT="Sound.Tidal.Pattern" ID="ID_1024642809" CREATED="1417820974515" MODIFIED="1418805407883">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1147139443" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_159833597" STARTINCLINATION="40;0;" ENDINCLINATION="40;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Sound.Tidal.Parse" ID="ID_159833597" CREATED="1417820974515" MODIFIED="1417820974515">
 <node TEXT="imports Pattern" ID="ID_1811196013" CREATED="1418805377981" MODIFIED="1418805381768"/>
@@ -19925,7 +19925,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="Nothing =&gt; silence" ID="ID_972488182" CREATED="1455656691272" MODIFIED="1455656694229"/>
 </node>
 </node>
-<node TEXT="SuperCollider" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1416531713136">
+<node TEXT="SuperCollider" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1578777151" CREATED="1416531712822" MODIFIED="1464853127790">
 <node TEXT="to start in linux : &quot;scide &amp;&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1560095010" CREATED="1442689196204" MODIFIED="1442689210398">
 <font BOLD="false"/>
 </node>
@@ -20499,10 +20499,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="Cmd-/: toggle line comment" ID="ID_1466976436" CREATED="1416122086827" MODIFIED="1416122099358"/>
 </node>
 </node>
-<node TEXT="the command stack" ID="ID_408308403" CREATED="1424932464474" MODIFIED="1424932468055">
-<node TEXT="the one means something ..." ID="ID_1791167811" CREATED="1424932430314" MODIFIED="1424932436780"/>
-<node TEXT="the one means something ..." ID="ID_1627041490" CREATED="1424932430314" MODIFIED="1424932436780"/>
-</node>
 </node>
 <node TEXT="audio" LOCALIZED_STYLE_REF="default" ID="ID_894602041" CREATED="1416776189692" MODIFIED="1450158074307">
 <node TEXT=".= server manip" ID="ID_1299469071" CREATED="1416080803554" MODIFIED="1416776774939">
@@ -20941,7 +20937,6 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="use" ID="ID_813012618" CREATED="1416776551252" MODIFIED="1416777717781">
 <node TEXT="timbres" ID="ID_487464772" CREATED="1416775999079" MODIFIED="1416776754368">
 <font BOLD="true"/>
-<node TEXT="RLFF rq (reciprocal of q) values above 1: weird, LOUD" ID="ID_228757835" CREATED="1416169483325" MODIFIED="1416776011099"/>
 <node TEXT="Klank: bank of resonators. metallic." ID="ID_90276793" CREATED="1416172182180" MODIFIED="1416172458949">
 <node TEXT="&quot;can be used to simulate the resonant modes of an object&quot;" ID="ID_531828166" CREATED="1416172188787" MODIFIED="1416172211876"/>
 </node>
@@ -20952,17 +20947,14 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="{ SinOsc.ar(CuspL.ar(40, MouseX.kr(0.9,1.1,1), MouseY.kr(1.8,2,1))*800+900)*0.4 }.play(s);" ID="ID_971743546" CREATED="1416111772319" MODIFIED="1416111773211"/>
 <node TEXT="{ SinOsc.ar(CuspN.ar(40, MouseX.kr(0.9,1.1,1), MouseY.kr(1.8,2,1))*800+900)*0.4 }.play(s);" ID="ID_1769954719" CREATED="1416111887045" MODIFIED="1416111887464"/>
 </node>
-<node TEXT="FBSine*" ID="ID_1419471971" CREATED="1416112051395" MODIFIED="1416112120622">
+<node TEXT="FBSine*" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1419471971" CREATED="1416112051395" MODIFIED="1464849067846">
 <node TEXT="{ FBSineC.ar(SampleRate.ir/4) * 0.2 }.play(s);" ID="ID_816429969" CREATED="1416111912925" MODIFIED="1416111913240"/>
 <node TEXT="// increase phase multiplier&#xa;{ FBSineC.ar(SampleRate.ir, 1, 0, XLine.kr(1, 2, 10), 0.1) * 0.2 }.play(s);" ID="ID_4740564" CREATED="1416111951323" MODIFIED="1416111951824"/>
-<node TEXT="// modulate frequency and index multiplier&#xa;{ FBSineC.ar(LFNoise2.kr(1, 1e4, 1e4), LFNoise2.kr(1,16,17), 1, 1.005, 0.7) * 0.2 }.play(s);" ID="ID_1509588945" CREATED="1416111977729" MODIFIED="1416111978143"/>
+<node TEXT="// modulate frequency and index multiplier&#xa;{ FBSineC.ar(LFNoise2.kr(1, 1e4, 1e4), LFNoise2.kr(1,16,17), 1, 1.005, 0.7) * 0.2 }.play(s);" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1509588945" CREATED="1416111977729" MODIFIED="1464849026024"/>
 <node TEXT="// randomly modulate params&#xa;(&#xa;{ FBSineC.ar(&#xa;    LFNoise2.kr(1, 1e4, 1e4),&#xa;    LFNoise2.kr(1, 32, 33),&#xa;    LFNoise2.kr(1, 0.5),&#xa;    LFNoise2.kr(1, 0.05, 1.05),&#xa;    LFNoise2.kr(1, 0.3, 0.3)&#xa;) * 0.2 }.play(s);&#xa;)" ID="ID_232736071" CREATED="1416112039707" MODIFIED="1416112040190"/>
 </node>
-<node TEXT="gingerbread" ID="ID_1674202139" CREATED="1416112153592" MODIFIED="1416112155453">
-<node TEXT="// default initial params&#xa;{ GbmanL.ar(MouseX.kr(20, SampleRate.ir)) * 0.1 }.play(s);" ID="ID_1491870406" CREATED="1416112156793" MODIFIED="1416112157108"/>
-<node TEXT="* next: fairly regular wave" ID="ID_473279341" CREATED="1416112238390" MODIFIED="1416112253218"/>
-<node TEXT="// as a frequency control&#xa;{ SinOsc.ar(GbmanL.ar(40)*400+500)*0.4 }.play(s);" ID="ID_824311912" CREATED="1416112250087" MODIFIED="1416112250555"/>
-<node TEXT="// as a frequency control&#xa;{ SinOsc.ar(GbmanL.ar(40)*400+500)*0.4 }.play(s);" ID="ID_345704920" CREATED="1416112306069" MODIFIED="1416112306304"/>
+<node TEXT="gingerbread" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1674202139" CREATED="1416112153592" MODIFIED="1464849205761">
+<node TEXT="// wait for it...&#xa;{ GbmanL.ar(MouseX.kr(20, SampleRate.ir), 1.2, 2.0002) * 0.1 }.play(s);" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_321370762" CREATED="1464849197403" MODIFIED="1464849198964"/>
 </node>
 <node TEXT="henon*" ID="ID_1634980729" CREATED="1416112303460" MODIFIED="1416112361199">
 <node TEXT="// as a frequency control&#xa;{ SinOsc.ar(HenonC.ar(40, MouseX.kr(1,1.4), MouseY.kr(0,0.3))*800+900)*0.4 }.play(s);" ID="ID_1533888027" CREATED="1416112334964" MODIFIED="1416112335623"/>
@@ -21022,6 +21014,7 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="&#xa0; &#xa0; z + AllpassN.ar(z, 0.01, XLine.kr(0.0001, 0.01, 20), 0.2)" ID="ID_1782362914" CREATED="1416887195886" MODIFIED="1416887195886"/>
 <node TEXT="}.play)" ID="ID_1994381617" CREATED="1416887195887" MODIFIED="1416887195887"/>
 </node>
+<node TEXT="RLFF rq (reciprocal of q) values above 1: weird, LOUD" ID="ID_228757835" CREATED="1416169483325" MODIFIED="1416776011099"/>
 </node>
 <node TEXT="mix for a chord" ID="ID_1563885815" CREATED="1416775872226" MODIFIED="1416775898137">
 <node TEXT="Mix.arFill: for chords" ID="ID_890935169" CREATED="1416166844764" MODIFIED="1416166852877">
@@ -21034,6 +21027,60 @@ delNodes vs g = foldl' (snd .: flip match) g vs</pre>
 <node TEXT="/= quote" ID="ID_169845200" CREATED="1416167015598" MODIFIED="1416167017338"/>
 <node TEXT="// modulate amplitude&#xa;{ SinOsc.ar(440, 0, 0.1) * EnvGen.kr(Env.sine(1), doneAction: 2) }.scope;" ID="ID_517825758" CREATED="1416167006686" MODIFIED="1416167007472"/>
 <node TEXT="Setting the doneAction argument (control) to 2 insures that after the envelope reaches its endpoint, SuperCollider will release the memory it used for the instances of the SinOsc and the EnvGen." ID="ID_958002349" CREATED="1416167014070" MODIFIED="1416167014522"/>
+</node>
+</node>
+<node TEXT="UGen Tour (NEW! June 1)" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_630137742" CREATED="1464850869644" MODIFIED="1464853126572">
+<node TEXT="UGens &gt; Filters" ID="ID_507321054" CREATED="1464855326167" MODIFIED="1464855333116">
+<font BOLD="true"/>
+<node TEXT="Impulse" ID="ID_657115053" CREATED="1464850876331" MODIFIED="1464850878032">
+<node TEXT="{ Impulse.ar(100,0,0.1) }.scope(1, zoom: 4);" ID="ID_746917519" CREATED="1464850873033" MODIFIED="1464850873033"/>
+</node>
+<node TEXT="Pulse" ID="ID_1484049149" CREATED="1464852255314" MODIFIED="1464852256439">
+<node TEXT="= square. more vocal than a saw" ID="ID_775606723" CREATED="1464852260074" MODIFIED="1464852266343"/>
+</node>
+<node TEXT="Klang" ID="ID_508497798" CREATED="1464852970437" MODIFIED="1464852971394">
+<node TEXT="Sin bank; takes three (matched) vectors of pitch, amp &amp; phase" ID="ID_330760666" CREATED="1464852972034" MODIFIED="1464853009425"/>
+</node>
+<node TEXT="? Table Oscillators" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" ID="ID_1851013956" CREATED="1464853129773" MODIFIED="1464853138924"/>
+<node TEXT="Noise" ID="ID_878770472" CREATED="1464854350158" MODIFIED="1464854362182">
+<font BOLD="true"/>
+<node TEXT="LF = low frequency" ID="ID_589721882" CREATED="1464854362551" MODIFIED="1464854370987">
+<font BOLD="true"/>
+<node TEXT="can still be audio rate" ID="ID_953103837" CREATED="1464854371586" MODIFIED="1464854374419"/>
+<node TEXT="great for driving freq" ID="ID_572883030" CREATED="1464854379390" MODIFIED="1464854383531"/>
+</node>
+<node TEXT="broad spectrum" ID="ID_1852754904" CREATED="1464854384302" MODIFIED="1464854387983">
+<font BOLD="true"/>
+<node TEXT="soft" ID="ID_463259845" CREATED="1464854460176" MODIFIED="1464854461068">
+<node TEXT="pink" ID="ID_1983759813" CREATED="1464854388665" MODIFIED="1464854467892"/>
+<node TEXT="brown: bassier" ID="ID_1994445698" CREATED="1464854421487" MODIFIED="1464854470925"/>
+</node>
+<node TEXT="white: very treble" ID="ID_957014929" CREATED="1464854483264" MODIFIED="1464854507229"/>
+<node TEXT="harsh" ID="ID_1756826400" CREATED="1464854441096" MODIFIED="1464854457821">
+<node TEXT="gray: harshest, full-spectrum rip" ID="ID_1121697683" CREATED="1464854458712" MODIFIED="1464854481118"/>
+<node TEXT="ClipNoise: higher" ID="ID_1169176730" CREATED="1464854487344" MODIFIED="1464854529231"/>
+</node>
+</node>
+</node>
+<node TEXT="Klank: resonant filter bank" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1581489913" CREATED="1464855123862" MODIFIED="1464855128822"/>
+</node>
+<node TEXT="? distortion functions" ID="ID_538609916" CREATED="1464855549337" MODIFIED="1464855554045">
+<node TEXT="distort, softclip, clip2, fold2, wrap2" ID="ID_305030669" CREATED="1464855555023" MODIFIED="1464855555023"/>
+</node>
+<node TEXT="vector notations!" ID="ID_851022255" CREATED="1464855337255" MODIFIED="1464855345076">
+<node TEXT="{ Klank.ar(`[ (1,3..13)*200, 1/(1,3..13), nil ], PinkNoise.ar(0.01)) }.scope(1);" ID="ID_663510692" CREATED="1464855340632" MODIFIED="1464855340632"/>
+</node>
+<node TEXT="granular!" ID="ID_1264234498" CREATED="1464856045919" MODIFIED="1464856048307"/>
+<node TEXT="delays!" ID="ID_1735975219" CREATED="1464856191329" MODIFIED="1464856193046"/>
+<node TEXT="sample and hold!" ID="ID_1312883470" CREATED="1464856193251" MODIFIED="1464856195437"/>
+<node TEXT="selective turn-off after .play()" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1284569992" CREATED="1464856272106" MODIFIED="1464856278643">
+<node TEXT="z = { arg gate=1; EnvGen.kr(Env.adsr, gate, doneAction:2) * SinOsc.ar(880,0,0.2) }.play;" ID="ID_327821478" CREATED="1464856278958" MODIFIED="1464856278958"/>
+<node TEXT="z.release;" ID="ID_1242293884" CREATED="1464856278958" MODIFIED="1464856278958"/>
+</node>
+<node TEXT="FFT!" ID="ID_1948136696" CREATED="1464856412757" MODIFIED="1464856414385"/>
+<node TEXT="Parallel structures?" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_259066901" CREATED="1464856623327" MODIFIED="1464856628176">
+<node TEXT="is section of UGen Tour" ID="ID_372756764" CREATED="1464856628904" MODIFIED="1464856637212"/>
+<node TEXT="makes a lot of similar voices automatically" ID="ID_98385156" CREATED="1464856638704" MODIFIED="1464856647359"/>
 </node>
 </node>
 <node TEXT="_infreq" ID="ID_378388243" CREATED="1416024571846" MODIFIED="1416024580042">
