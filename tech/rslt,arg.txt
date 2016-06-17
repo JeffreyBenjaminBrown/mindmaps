@@ -1,6 +1,6 @@
 Congratulations! You know data structures!
 ==========================================
-Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary: Numbers. Tables, also known as grids or arrays. Tuples, meaning pairs, triples, 4-tuples, etc. Sets, also known as collections. Lists, which are like sets but ordered first to last. Trees. Dictionaries. Networks, also known as graphs.
+Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary: Numbers. Arrays, which you know as grids or tables. Tuples, meaning pairs, triples, 4-tuples, etc. Sets, which you might know as collections. Lists, which are like sets but ordered first to last. Trees. Maps, which you know as dictionaries. Networks, also known as graphs.
 
 That's about all of them!
 
@@ -21,24 +21,24 @@ Motivation
 
 A few short promises
 --------------------
-The RSLT is a data structure -- that is, a vehicle for organizing, connecting, querying and viewing information. Unlike other data structures, the RSLT can encode literally any kind of data, in the same language, the same format.
+The RSLT is a data structure -- that is, a vehicle for organizing, connecting, querying and viewing information. Unlike other data structures, the RSLT can encode literally any kind of information, using the same language, in the same format, in the same file.
 
-The RSLT is a simple generalization of the graph, which is what mathematicians call a collection of dots connected with lines. You've probably drawn such things yourself, where the dots were phrases like "to do" or "go to store" or "reasons to live in Los Angeles".
+The RSLT is a simple generalization of the graph, which is what mathematicians call a collection of dots connected with lines. You've probably drawn graphs yourself, where the dots were phrases like "to do" or "go to store" or "reasons to get married".
 
 In the RSLT there is only One Natural Encoding of every fact. This allows the RSLT to eliminates redudnancy, eliminate the need for duplicate data. (No more duplicate, redundant data!) A fact can be available in every relevant context even though it is recorded only once.
 
-The RSLT is easy to learn, because it is based on ordinary natural languages like English or Spanish. All it requires is an explicit understanding of how information, as sentences in natural language, divides into sentence trees. This is because the One Natural Encoding of a fact is exactly the sentence tree diagram for that fact.
+The RSLT is easy to learn, because it is based on ordinary natural languages like English or Spanish. All it requires is an explicit understanding of how information in a natural language divides into sentence trees. This is because the One Natural Encoding of a fact is exactly the sentence tree diagram for that fact.
 
 The RSLT eliminates the distinction between data and metadata. Facts are facts, all encoded the same, all equally (and jointly) quieriable.
 
 Because there is only One Natural Encoding of every fact, merging RSLT data is trivially easy.
 
-The RSLT has a low space cost. (If this paragraph is meaningless to you, don't worry; it's not critical to the ideas in this paper.) To encode your existing data in (behind) an RSLT (interface), it does not need to change; it just needs to be hooked into the interface. Thus any space or speed optimizations in that previously non-RSLT data can be retained. After defining the RSLT, I will show how two important kinds of data, namely tables and graphs, can fold into an RSLT interface.
+The RSLT has a low space cost. (If this paragraph is meaningless to you, don't worry; it's not critical to the ideas in this paper.) To encode your existing data in (behind) an RSLT (interface), the data does not need to change; it just needs to be hooked into the interface. Any space or speed optimizations in your existing non-RSLT data can be retained. After defining the RSLT, I will show how sets, maps, lists, arrays and graphs can be folded into an RSLT interface.
 
 Some people find those few short promises sufficient motivation to learn about the RSLT. If you are like that, you can skip the rest of this motivation section.
 
-A real-world motivation: Metadata and expressivity limits
----------------------------------------------------------
+A motivating real-world example: Metadata and expressivity limits
+-----------------------------------------------------------------
 I once had a job working with medical data for economic research. We dealt with facts like these:
 
     (1) Patient X spent 30 days in the hospital.
@@ -98,14 +98,14 @@ Graphs, for all their splendor, cannot express third-order relationships! For in
 
 and these edges:
 
-    (a) "Greece owes $400 billion"
-    (b) "Greece is a bad credit risk"
+    (a) "Greece owes $400 billion."
+    (b) "Greece is a bad credit risk."
 
 It would be natural to want to encode that (b) is a consequence of (a). Hoewver, that would be a relationship between two relationships, that is, an edge between two edges. Edges in a graph connect nodes, not edges. Therefore the fact that (a) implies (b) cannot be encoded in the graph.
 
 That is to say nothing of the fourth-order statement, "According to Citibank's definition, Greece is a bad credit risk, because Greece owes $400 billion." Or the fifth-order statement, "If Citibank raised to 300% of GDP the debt ratio it uses to define a bad credit risk, then Greece would not be a bad credit risk, because Greece owes $400 billion and its GDP is $200 billion."
 
-Most statements are of an order greater than two, because most sentences are more complex than than "cats are nice". The RSLT is the only data structure that can accommodate them all.
+Most statements are of an order greater than two, because most sentences are more complex than "dogs are fuzzy". The RSLT is the only data structure that can accommodate them all.
 
 The RSLT: Definition and implementation
 =======================================
@@ -128,13 +128,15 @@ The Templates define the kinds of Relationships possible. "_ is a _" (pronounced
 
 A Relationship consists of a Template and some Members. Each blank in the Template is assigned a Member. For instance, by starting from the Template "_ need _", we can construct the Relationship "cats need water" by making "cats" the first Member and "water" the second.
 
-At this point I can explain the acronym. RSLT stands for Reflexive Set of Labeled Tuples. The Templates provide the labels, and the Relationships are the tuples. A Member of a tuple might simply be a Word, but it might itself be another Relationship. The latter possibility is what makes the RSLT reflexive.
+At this point I can explain the acronym RSLT. It stands for Reflexive Set of Labeled Tuples. The Templates provide the labels, and the Relationships are the tuples. A Member of a tuple might simply be a Word, but it might itself be another Relationship. The latter possibility is what makes the RSLT reflexive.
 
 In math, the "arity" of a relationship is defined as the number of things it relates. An arity-2 ("binary") relationship relates two things; an arity-5 relationship relates 5 things.
 
-The number of blanks in a Template determines its arity. Because most relationships are binary, most Templates have two blanks. However, a Template can as easily relate three (for instance, "_ uses _ for _") or more things. [[footnote]] (This indicates another sense in which the RSLT generalizes the graph: In a graph, an edge must connect exactly two nodes.) Templates can also be unary; that is, they might only have one Member. Some important unary Templates include "not _", "maybe _", "some _", and "every _".
+The number of blanks in a Template determines its arity. Because most relationships are binary, most Templates have two blanks. However, a Template can as easily relate three (for instance, "_ uses _ for _") or more things. [[footnote]] (This indicates another sense in which the RSLT generalizes the graph: In a graph, an edge must connect exactly two nodes.)
 
-Relationships also have arity, in exactly the same way. The arity of a Relationship is the number of Members in it, which is equal to the arity of the Template that the Relationship uses.
+A Template can also be unary; that is, it might only have one Member. Some important unary Templates include "not _", "maybe _", "some _", and "every _".
+
+Relationships also have arity. The arity of a Relationship is the number of Members in it, which is equal to the arity of the Template that the Relationship uses.
 
 Implementing the RSLT using a graph
 -----------------------------------
@@ -176,11 +178,11 @@ The # symbol adjacent to an expression indicates that the expression is a Relati
 
 The hard way: Building expressions from the bottom up
 -----------------------------------------------------
-In principle, all that is needed to enter Data Set 1 is to type the four sentences in Data Set 1.1. I have not written that interface.
+In principle, all that is needed to enter Data Set 1 is to type the four sentences in Data Set 1.1. I have not yet written that interface.
 
 The existing user interface, though arguably simpler, is slower to use, because it requires building each subexpression before creating a superexpression out of them.
 
-Since it is clunky and temporary, the purpose of this section is not to explain the interface. I just want to demosntrate that the data can be represented.
+Because it is awkward and temporary, the purpose of this section is not to explain the existing interface. I just want to demosntrate that the data can be represented.
 
 First, let's create an empty RSLT named "g":
 
@@ -204,9 +206,9 @@ Now let's look at g:
     (3,"_ #with _")
     (4,"_ #needs _")
 
-Each expression is written alongside its address. For instance, the unary "every _" Template resides at address 0, and the binary "_ needs _" Template is at address 4.
+Each expression appears alongside its address. For instance, the unary "every _" Template resides at address 0, and the binary "_ needs _" Template is at address 4.
 
-Next, lets put our first order expressions into the RSLT: the Words "person", "Mildred", "stable angina", "coronary artery disease", and "mustard". [[footnote]](Note that for these purposes "coronary artery disease" and "stable angina" are single Words.)
+Next, lets put our first order expressions into the RSLT: the Words "person", "Mildred", "stable angina", "coronary artery disease", and "mustard". [[footnote]](For these purposes "coronary artery disease" and "stable angina" are single Words.)
 
     > g <- pure $ foldl (flip insStr) g
          ["person",  "Mildred",  "stable angina"
@@ -293,20 +295,21 @@ Other kinds of relationships are directed or asymmetric. Examples include "x nee
 
 Mathematicians talk about stars in graphs. A star consists of a central node and a collection of other nodes connected to the central one. The other nodes are called leaves.
 
-Once you can assign direction to nodes in an RSLT graph, you can ask to see a Star, that is the set of all Expressions bearing some relation to a central Expression. Examples of such queries include "everything that needs electricity" or "everything that is an instance of kindness".
+Once you can assign Direction to nodes in an RSLT graph, you can ask to see a Star, that is the set of all Expressions bearing some relation to a central Expression. Examples of such Star queries include "(show me) everything that needs electricity" or "(show me) everything that demonstrates kindness".
 
-Branches are important in graphs. Here are examples of Branches:
+A Branch in a graph is everything descended from a given node along a given direction. Here are some examples:
+
     "everybody descended from Shakespeare",
     "the boss, and everybody reporting to the boss, and everybody reporting to someone who reports to the boss ...",
     "everybody I spoke to today, and everybody they spoke to today, and everybody ..."
 
-Starting from a Star, you can draw a whole Branch by drawing another Star around each leaf in the first one, and then drawing another Star around each of the new leaves, etc. until the data stops going in that Direction.
+Starting from a Star, you can create a Branch by drawing another Star around each leaf in the first one, and then drawing another Star around each of the new leaves, etc. until you've reached all the data you can reach that way.
 
 I implemented the Direction, and called it RelSpec. It is reified; that is, RelSpecs are another kind of node in the RSLT graph.
 
 I implemented some Star and Branch-creating functions; they are the ones with "fork" or "dfs" or "bfs" in the name. I have not yet reified Stars or Branches.
 
-A general Star could use any collection of Directions, in any order. An example of such a query would be "show me everybody who obought an apple from someone who thre a blueberry at someone who threw a blueberry at a boat".
+A general Branch could use any collection of Directions, in any order. An example of such a query would be "show me everybody who obought an apple from someone who thre a blueberry at someone who threw a blueberry at a boat". [[footnote]](Neo4j, a language for graphs, provides a beautiful, simple syntax for complex queries like that.)
 
 Substatement reflexivity
 ------------------------
@@ -316,7 +319,7 @@ There is a kind of statement that the RSLT as so far defined cannot encode. Here
 
 The word "its" in that sentence refers to the subexpression "a cat". The pronoun "it" is meaningful to a human reader, but a computer would not know what it referred to. "its" cannot be replaced by another instance of "a cat", because in that case they might refer to different cats.
 
-Thus the RSLT, in order to represent such statements, needs a fourth kind of object: the Subexpression Reference. In the graph implementation of an RSLT, a Subexpression Reference is a fourth kind of node, an edge from which indicates the subexpression being referenced. The Subexpression Reference node indicates the position in the superexpression that the subexpression occupies. (The superexpression itself is already encoded as an edge from the superexpression to the Subexpression Reference.)
+The RSLT, in order to represent such statements, needs a fourth kind of object: the Subexpression Reference. In the graph implementation of an RSLT, a Subexpression Reference is a fourth kind of node, an edge from which points to the subexpression being referenced. The Subexpression Reference node indicates the position in the superexpression that the subexpression occupies. (The superexpression itself is already encoded as an edge from the superexpression to the Subexpression Reference.)
 
 For instance, in the vapor-cat example, the Subexpression Reference at "its" would emit an edge toward the expression "a cat", and the Subexpression Reference node would indicate that the subexpression can be found by taking a right at #until and then a left at #stretches.
 
@@ -326,34 +329,56 @@ Types
 -----
 Types makes languages safer. One types a relationship by declaring what kinds of things can go in which position of it.
 
-Without typing, the "_ is a _" Template can be misused. One might say "Idea is a pink". Maybe idea belongs in the first position, but pink clearly does not belong in the second.
+Without typing, the "_ is a _" Template can be misused -- a user can encode the statement "Idea is a pink". The word "pink" makes no sense in the second position of an #(is a) relationship.
 
-With typing, one could specify that the first Member should be a noun and the second a category. The Template would no longer be so easily misused.
+Typing lets you specify that the first Member should be a noun and the second a category. The Template would no longer be so easily misused.
 
-RSLT Templates could be typed by including a Branch at each blank, once Branches were reified.
+RSLT Templates could be typed by including a Branch at each blank.
 
 Incomplete subexpressions
 -------------------------
-In the Demonstration section, I encoded the statement "every person with coronary artery disease needs mustard". But before I could, I had to first encode the subexpression "every person with coronary artery disease" -- and before that, I had to encode "person with coronary artery disease".
+In the Demonstration section, I encoded the statement "every person with coronary artery disease needs mustard". Before I could, I had to first encode the subexpression "every person with coronary artery disease" -- and before that, I had to encode "person with coronary artery disease".
 
 I explained how the data entry task could be shortened by using nested #-notation. Rather than create those three subexpressions, one could simply enter "####every person ##with coronary artery disease ########needs mustard", and the subexpressions would be created automatically.
 
-But that still leaves the problem that those incomplete subexpressions are not worth human attention. If I asked to see all the encoded facts about the concept of person, I would want to see these:
+But that still leaves the problem that those incomplete subexpressions are not worth human attention. In the demo, if I asked to see all the encoded facts about the concept of person, I would want to see these:
 
     Mildred is a person.
     Every person with coronary artery disease needs mustard.
 
-Under no conditions, however, would I be interested in these:
+I would not, however, be interested in these:
 
     person with coronary artery disease
     every person with coronary artery disease
 
-They are not meaningful as standalone expressions; they only exist to serve as subexpressions in something else. The graph should know that about them, so that it can avoid displaying them as meaningful unto themselves.
+They are not meaningful as standalone expressions; they only exist to serve as subexpressions in something else. The graph should know that about them, so that it can withhold them from view (except as subexpressions).
 
-One solution would be, when inputting some fact F using nested # notation, to record the statement "F #is a complete thought". Any expression not in such a relationship would be withheld from view.
+One solution would be, when inputting some fact F using nested # notation, to generate (automatically) the relationship "F #is a complete thought". Any expression not in such a relationship would ordinarily be withheld from view.
+
+A better solution would be to let there be two different kinds of Relationship, one of them called Relationship, the other SubRelationship. This would economize on edges.
 
 Collections
 -----------
 Consider the expression "I need frogs or I need trees or I need waterfalls." You could save space by writing "I need [frogs or trees or waterfalls]." You could make that even shorter by removing the second "or" (and clarifying by putting the first one at the front of the list): "I need [or: frogs, trees, waterfalls]."
 
 I called this idea Coll, and reified it, but have not written many functions for it.
+
+Hooking other, spacetime-optimized data structures into the RSLT
+----------------------------------------------------------------
+The RSLT has good space properties, because it eliminates the need for redundant data. And it shares the good speed properties of trees and graphs. What it is optimized for, however, is expressivity.
+
+There are other data structures optimized for a particular kind of problem, that can outperform the RSLT on a speed or space basis.
+
+Using an RSLT does not mean sacrificing those optimizations!
+
+Example: Hooking a table into an RSLT
+.....................................
+A table ("array") is a very space-efficient data structure. Imagine a table that states how many bananas were produced by which country in which year. It describes ten countries and ten years, so there are 100 numbers in the table. As an array, those 100 numbers are stored in sequence, packed as tightly as possible, with no other information between them.
+
+If they were to be stored in the RSLT, each number would be a member of an expression of this form:
+
+    Form A: "[country] produced [number] bananas in [year]." That would use more space.
+
+However, the table can be "hooked" into the RSLT "interface" without changing how the table is stored. Doing so would let you query the data as if you had encoded 100 facts of Form A in the normal RSLT manner.
+
+The hook would contain the following information: "There is an external data set which encodes, for some years and some countries, how many bananas were produced in those countries in those years. The countries included are these ... and the years are these ... If someone asks about one of the available (country, year) pairs, here is how to find how many bananas were made then."
