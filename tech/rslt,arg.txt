@@ -9,10 +9,12 @@ I am introducing another one, only slightly more complex than a graph. Whereas t
 Natural languages like English or Spanish can express any fact, too. The RSLT relies on natural language.[[footnote: music is like this]] However, unlike ordinary text, the RSLT is traversible speedily, like a tree or a network, along every connection you could possibly want. It is queriable in a similarly infinitely flexible way.
 
 Open sourced on Github, I am writing a paper that describes it. When I last checked it was about 7 pages of text in a 12-point font. You can find it here:
->>> 
+
+    https://github.com/JeffreyBenjaminBrown/mindmaps/tree/master/tech/rslt,arg.txt
 
 And, IF YE DARE!, you can find the Freeplane (Freeplane is an old, popular, simple Java app for making trees of text) document, with both the basis for that paper and much more information, here:
->>> 
+
+    https://github.com/JeffreyBenjaminBrown/mindmaps/blob/master/tech/coding.mm
 
 Motivation
 ==========
