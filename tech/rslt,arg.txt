@@ -1,6 +1,6 @@
 Congratulations! You know data structures!
 ==========================================
-Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary: Numbers. Tables, also known as grids or arrays. Tuples, meaning pairs, triples, 4-tuples, etc. Sets, also known as collections. Lists, which are like sets but ordered. Trees. Dictionaries. Networks, also known as graphs.
+Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary: Numbers. Tables, also known as grids or arrays. Tuples, meaning pairs, triples, 4-tuples, etc. Sets, also known as collections. Lists, which are like sets but ordered first to last. Trees. Dictionaries. Networks, also known as graphs.
 
 That's about all of them!
 
@@ -12,7 +12,7 @@ Open sourced on Github, I am writing a paper that describes it. When I last chec
 
     https://github.com/JeffreyBenjaminBrown/mindmaps/tree/master/tech/rslt,arg.txt
 
-And, IF YE DARE!, you can find the Freeplane (Freeplane is an old, popular, simple Java app for making trees of text) document, with both the basis for that paper and much more information, here:
+And, IF YE DARE!, you can find the Freeplane (Freeplane is an old, popular, simple Java app for making trees of text) document, with both the basis for the paper and much more information, here:
 
     https://github.com/JeffreyBenjaminBrown/mindmaps/blob/master/tech/coding.mm
 
@@ -52,15 +52,15 @@ Metadata is typically retained in an ad-hoc manner, if at all. If things go well
 
 Moreover, unlike the table, the metadata is hard to process automatically. To do that, one has to write custom code for the particular metadata at hand -- an expensive, error-prone undertaking.
 
-The firm, Precision Health Economics, brought medical doctors, PhD economists and statisticians, and some excellent computer programmers together to create papers for publication in economics and medical journals, often top-ranked ones. Our data limitations arose through no lack of expertise; they were one instance of a widespread, endemic, unsolved problem.
+The firm, Precision Health Economics, brought medical doctors, economists, statisticians, and computer programmers together to create papers for publication in academic journals of medicine and economics, often top-ranked ones. Our metadata problems arose through no lack of expertise. They were inherent to the data structures available to us.
 
-Data scientists agree: Metadata is pervasive and dangerous.
+Ours was one instance of a widespread, endemic representation problem. Data scientists agree: Metadata is ubiquitous and dangerous.
 
-With an RSLT, none of your data needs to be meta!
+With an RSLT, no data needs to be meta!
 
-The expressivity limits of other data structures
-------------------------------------------------
-The next three subsections elaborates these three facts:
+Expressivity limits in data structures
+--------------------------------------
+The next three subsections elaborate three facts:
 
     (1) Every statement is an order-n relationship, for some n.
     (2) There is no natural upper limit on the possible value of n.
@@ -109,7 +109,7 @@ Most statements are of an order greater than two, because most sentences are mor
 
 The RSLT: Definition and implementation
 =======================================
-It is a simple data structure. To understand this paper, you do not need to know Haskell, but it bears pointing out that the RSLT can be defined in just four lines of Haskell:
+It is a simple data structure. To understand this paper, you do not need to know any programming language. However, it bears pointing out that the RSLT can be defined in just four lines of Haskell:
 
     import Data.Graph.Inductive
     type RSLT = Gr Expression RSLTEdge
@@ -134,6 +134,8 @@ In math, the "arity" of a relationship is defined as the number of things it rel
 
 The number of blanks in a Template determines its arity. Because most relationships are binary, most Templates have two blanks. However, a Template can as easily relate three (for instance, "_ uses _ for _") or more things. [[footnote]] (This indicates another sense in which the RSLT generalizes the graph: In a graph, an edge must connect exactly two nodes.) Templates can also be unary; that is, they might only have one Member. Some important unary Templates include "not _", "maybe _", "some _", and "every _".
 
+Relationships also have arity, in exactly the same way. The arity of a Relationship is the number of Members in it, which is equal to the arity of the Template that the Relationship uses.
+
 Implementing the RSLT using a graph
 -----------------------------------
 One can implement an RSLT using a graph. [[footnote: This insight I owe to Elliot Cameron]]
@@ -148,8 +150,10 @@ Edges do not point from Words or Templates, only to them.
 
 Consider an RSLT with the single Relationship "plants use chlorophyl". It will need a Template, "_ use _", and two Words, "plants" and "chlorophyl". The Relationship will emit one edge to its Template, one edge to the Word "plant" indicating that it is the first Member, and one edge to the word "chlorophyl" indicating that it is the second Member.
 
-Demonstration: Econding some high-order facts in an RSLT
-========================================================
+Demonstration: Econding high-order facts in an RSLT
+===================================================
+The easy way: Top down, using "nested # notation"
+-------------------------------------------------
 Suppose we wanted to encode the following facts in an RSLT:
 
     [Data Set 1]
@@ -168,13 +172,15 @@ All we need is for the computer to understand how those facts divide as sentence
 
 The # symbol adjacent to an expression indicates that the expression is a Relationship label. Every other expression is a Relationship Member. In the last statement, the varying number of # marks indicates the precedence of Relationship labels: #with operates first, ##every operates second, and ###needs operates last.
 
-I will need to talk about that # trick later. Let's call it "nested # notation".
-
 [[picture]]
 
-In principle, all that is needed to enter Data Set 1 is to type the four sentences in Data Set 1.1. I will write that interface! The current user interface is harder to use, because it requires building each subexpression before creating a superexpression out of them.
+The hard way: Building expressions from the bottom up
+-----------------------------------------------------
+In principle, all that is needed to enter Data Set 1 is to type the four sentences in Data Set 1.1. I have not written that interface.
 
-Since the current interface is clunky and temporary, the purpose of this section is not to explain the interface. I just want to demosntrate that the data can be entered.
+The existing user interface, though arguably simpler, is slower to use, because it requires building each subexpression before creating a superexpression out of them.
+
+Since it is clunky and temporary, the purpose of this section is not to explain the interface. I just want to demosntrate that the data can be represented.
 
 First, let's create an empty RSLT named "g":
 
@@ -351,4 +357,3 @@ Collections
 Consider the expression "I need frogs or I need trees or I need waterfalls." You could save space by writing "I need [frogs or trees or waterfalls]." You could make that even shorter by removing the second "or" (and clarifying by putting the first one at the front of the list): "I need [or: frogs, trees, waterfalls]."
 
 I called this idea Coll, and reified it, but have not written many functions for it.
-
