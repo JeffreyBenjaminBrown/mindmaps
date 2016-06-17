@@ -1,12 +1,12 @@
-Congratulations! You understand data structures!
-================================================
-Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary[[footnote: music is like this]]: Numbers. Tables, which are grids of numbers, and for some reason called arrays. Tuples, meaning pairs, triples, 4-tuples, etc. Sets. Lists, which are like sets but ordered. Trees. Dictionaries. Networks, which for some reason are called graphs.
+Congratulations! You know data structures!
+==========================================
+Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary: Numbers. Tables, also known as grids or arrays. Tuples, meaning pairs, triples, 4-tuples, etc. Sets, also known as collections. Lists, which are like sets but ordered. Trees. Dictionaries. Networks, also known as graphs.
 
-Seriously, that's about all of them!
+That's about all of them!
 
 I am introducing another one, only slightly more complex than a graph. Whereas the others are limited in what they can express, this one can express literally any fact. It is the Reflexive Set of Labeled Tuples.
 
-Natural languages like English or Spanish can express any fact, too. The RSLT relies on natural language.[[footnote: music is like this]] However, unlike ordinary text, the RSLT is traversible speedily, like a tree or a network, along every connection you could possibly want. It is queriable in a similarly infinitely flexible way.
+Natural languages like English or Spanish can express any fact, too. The RSLT relies on natural language. However, unlike ordinary text, the RSLT is traversible speedily, like a tree, along every connection you could possibly want. And it is queriable in the infinitely flexible way of a graph.
 
 Open sourced on Github, I am writing a paper that describes it. When I last checked it was about 7 pages of text in a 12-point font. You can find it here:
 
@@ -37,8 +37,8 @@ The RSLT has a low space cost. (If this paragraph is meaningless to you, don't w
 
 Some people find those few short promises sufficient motivation to learn about the RSLT. If you are like that, you can skip the rest of this motivation section.
 
-Metadata and expressivity limits
---------------------------------
+A real-world motivation: Metadata and expressivity limits
+---------------------------------------------------------
 I once had a job working with medical data for economic research. We dealt with facts like these:
 
     (1) Patient X spent 30 days in the hospital.
@@ -60,7 +60,7 @@ With an RSLT, none of your data needs to be meta!
 
 The expressivity limits of other data structures
 ------------------------------------------------
-The next three subsections explain these three facts:
+The next three subsections elaborates these three facts:
 
     (1) Every statement is an order-n relationship, for some n.
     (2) There is no natural upper limit on the possible value of n.
@@ -120,7 +120,7 @@ You can find that code, with explanatory comments, at https://github.com/Jeffrey
 
 Words, Templates and Relationships
 ----------------------------------
-The RSLT contains only three kinds of things: Words, Templates and Relationships. I will capitalize those words to distinguish them from their ordinary usage -- that is, a "Relationship" is part of an RSLT, whereas a "relationship" is just some information, separate from any digital construct.
+The RSLT contains only three kinds of things: Words, Templates and Relationships. I will capitalize those words to distinguish them from their ordinary usage -- that is, a "Relationship" is part of an RSLT, whereas a "relationship" is pure information, apart of any digital context.
 
 The Words are the RSLT's atomic, first-order expressions. Examples might include "cat" and "France".
 
@@ -167,6 +167,8 @@ All we need is for the computer to understand how those facts divide as sentence
     ##Every person #with coronary artery disease ###needs mustard.
 
 The # symbol adjacent to an expression indicates that the expression is a Relationship label. Every other expression is a Relationship Member. In the last statement, the varying number of # marks indicates the precedence of Relationship labels: #with operates first, ##every operates second, and ###needs operates last.
+
+I will need to talk about that # trick later. Let's call it "nested # notation".
 
 [[picture]]
 
@@ -275,5 +277,78 @@ Here is the final RSLT:
 
 Recall that the number of # symbols on a Relationship label indicates the order of that Relationship. Thus in expression 14, ##with binds first, then ####every, and last ########needs. I chose to make the number of # symbols start at 2 and increase exponentially (2, 4, 8, ...) so that visually parsing them would be easy: You can see which label has more # symbols without explicitly counting them.
 
-Open problems
+Complications
 =============
+Subgraph reflexivity: Directions, Stars and Branches
+----------------------------------------------------
+Some kinds of relationships, like "x equals y", "x is like y", or "x contradicts y" are undirected, symmetric. They treat x and y the same. They could be reversed without changing the meaning.
+
+Other kinds of relationships are directed or asymmetric. Examples include "x needs y", "x clarifies y", or "x is an instance of y". For each, you could usefully declare one member position Up and the other member position Down.
+
+Mathematicians talk about stars in graphs. A star consists of a central node and a collection of other nodes connected to the central one. The other nodes are called leaves.
+
+Once you can assign direction to nodes in an RSLT graph, you can ask to see a Star, that is the set of all Expressions bearing some relation to a central Expression. Examples of such queries include "everything that needs electricity" or "everything that is an instance of kindness".
+
+Branches are important in graphs. Here are examples of Branches:
+    "everybody descended from Shakespeare",
+    "the boss, and everybody reporting to the boss, and everybody reporting to someone who reports to the boss ...",
+    "everybody I spoke to today, and everybody they spoke to today, and everybody ..."
+
+Starting from a Star, you can draw a whole Branch by drawing another Star around each leaf in the first one, and then drawing another Star around each of the new leaves, etc. until the data stops going in that Direction.
+
+I implemented the Direction, and called it RelSpec. It is reified; that is, RelSpecs are another kind of node in the RSLT graph.
+
+I implemented some Star and Branch-creating functions; they are the ones with "fork" or "dfs" or "bfs" in the name. I have not yet reified Stars or Branches.
+
+A general Star could use any collection of Directions, in any order. An example of such a query would be "show me everybody who obought an apple from someone who thre a blueberry at someone who threw a blueberry at a boat".
+
+Substatement reflexivity
+------------------------
+There is a kind of statement that the RSLT as so far defined cannot encode. Here is an example:
+
+    "The vapor ##will fume ####until a cat ##stretches its legs."
+
+The word "its" in that sentence refers to the subexpression "a cat". The pronoun "it" is meaningful to a human reader, but a computer would not know what it referred to. "its" cannot be replaced by another instance of "a cat", because in that case they might refer to different cats.
+
+Thus the RSLT, in order to represent such statements, needs a fourth kind of object: the Subexpression Reference. In the graph implementation of an RSLT, a Subexpression Reference is a fourth kind of node, an edge from which indicates the subexpression being referenced. The Subexpression Reference node indicates the position in the superexpression that the subexpression occupies. (The superexpression itself is already encoded as an edge from the superexpression to the Subexpression Reference.)
+
+For instance, in the vapor-cat example, the Subexpression Reference at "its" would emit an edge toward the expression "a cat", and the Subexpression Reference node would indicate that the subexpression can be found by taking a right at #until and then a left at #stretches.
+
+I have not implemented subexpression reflexivity.
+
+Types
+-----
+Types makes languages safer. One types a relationship by declaring what kinds of things can go in which position of it.
+
+Without typing, the "_ is a _" Template can be misused. One might say "Idea is a pink". Maybe idea belongs in the first position, but pink clearly does not belong in the second.
+
+With typing, one could specify that the first Member should be a noun and the second a category. The Template would no longer be so easily misused.
+
+RSLT Templates could be typed by including a Branch at each blank, once Branches were reified.
+
+Incomplete subexpressions
+-------------------------
+In the Demonstration section, I encoded the statement "every person with coronary artery disease needs mustard". But before I could, I had to first encode the subexpression "every person with coronary artery disease" -- and before that, I had to encode "person with coronary artery disease".
+
+I explained how the data entry task could be shortened by using nested #-notation. Rather than create those three subexpressions, one could simply enter "####every person ##with coronary artery disease ########needs mustard", and the subexpressions would be created automatically.
+
+But that still leaves the problem that those incomplete subexpressions are not worth human attention. If I asked to see all the encoded facts about the concept of person, I would want to see these:
+
+    Mildred is a person.
+    Every person with coronary artery disease needs mustard.
+
+Under no conditions, however, would I be interested in these:
+
+    person with coronary artery disease
+    every person with coronary artery disease
+
+They are not meaningful as standalone expressions; they only exist to serve as subexpressions in something else. The graph should know that about them, so that it can avoid displaying them as meaningful unto themselves.
+
+One solution would be, when inputting some fact F using nested # notation, to record the statement "F #is a complete thought". Any expression not in such a relationship would be withheld from view.
+
+Collections
+-----------
+Consider the expression "I need frogs or I need trees or I need waterfalls." You could save space by writing "I need [frogs or trees or waterfalls]." You could make that even shorter by removing the second "or" (and clarifying by putting the first one at the front of the list): "I need [or: frogs, trees, waterfalls]."
+
+I called this idea Coll, and reified it, but have not written many functions for it.
+
