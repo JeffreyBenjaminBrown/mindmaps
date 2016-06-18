@@ -1,18 +1,37 @@
-Congratulations! You know data structures!
-==========================================
-Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary: Numbers. Arrays, which you know as grids or tables. Tuples, meaning pairs, triples, 4-tuples, etc. Sets, which you might know as collections. Lists, which are like sets but ordered first to last. Trees. Maps, which you know as dictionaries. Networks, also known as graphs.
+Introduction and Invitation
+===========================
+Congratulations! You understand data structures!
+------------------------------------------------
+Computer scientists spend a lot of time finding ways to represent problems using a simple, small vocabulary called Data Structures. They include:
+
+Nothing.
+Numbers.
+Arrays, which you know as grids or tables.
+Tuples, meaning pairs, triples, 4-tuples, etc.
+Sets, which you might know as collections.
+Lists, which are like sets but ordered first to last.
+Trees, which are the same thing as nested lists.
+Maps, which you know as dictionaries.
+Graphs, which you know as networks.
 
 That's about all of them!
 
-I am introducing another one, only slightly more complex than a graph. Whereas the others are limited in what they can express, this one can express literally any fact. It is the Reflexive Set of Labeled Tuples.
+I am introducing another one, only slightly more complex than a graph. It is the Reflexive Set of Labeled Tuples.
+
+Other data structures are limited in what they can express. The RSLT (which I've been pronouncing "RIS-ult") can express literally any fact.
 
 Natural languages like English or Spanish can express any fact, too. The RSLT relies on natural language. However, unlike ordinary text, the RSLT is traversible speedily, like a tree, along every connection you could possibly want. And it is queriable in the infinitely flexible way of a graph.
+
+I have implemented it, using graphs,
+
+I used the Functional Graph Library, which is wonderful:
+    https://hackage.haskell.org/package/fgl-5.5.2.3/docs/Data-Graph-Inductive-Graph.html)
 
 Open sourced on Github, I am writing a paper that describes it. When I last checked it was about 7 pages of text in a 12-point font. You can find it here:
 
     https://github.com/JeffreyBenjaminBrown/mindmaps/tree/master/tech/rslt,arg.txt
 
-And, IF YE DARE!, you can find the Freeplane (Freeplane is an old, popular, simple Java app for making trees of text) document, with both the basis for the paper and much more information, here:
+And, IF YE DARE!, you can find the Freeplane (Freeplane is an old, popular, simple Java app for making trees of text) document with both the basis for the paper and much more information here:
 
     https://github.com/JeffreyBenjaminBrown/mindmaps/blob/master/tech/coding.mm
 
@@ -25,15 +44,17 @@ The RSLT is a data structure -- that is, a vehicle for organizing, connecting, q
 
 The RSLT is a simple generalization of the graph, which is what mathematicians call a collection of dots connected with lines. You've probably drawn graphs yourself, where the dots were phrases like "to do" or "go to store" or "reasons to get married".
 
-In the RSLT there is only One Natural Encoding of every fact. This allows the RSLT to eliminates redudnancy, eliminate the need for duplicate data. (No more duplicate, redundant data!) A fact can be available in every relevant context even though it is recorded only once.
+In the RSLT there is only One Natural Encoding of every fact. This allows the RSLT to eliminates redudnancy, eliminate the need for duplicate data. (No more duplicate, redundant data!) Af fact can be available in every relevant context even though it is recorded only once. It exists in its own right; an edit to it in any context "propogates" immediately "to" the other contexts, because there is no distance to cross.
 
-The RSLT is easy to learn, because it is based on ordinary natural languages like English or Spanish. All it requires is an explicit understanding of how information in a natural language divides into sentence trees. This is because the One Natural Encoding of a fact is exactly the sentence tree diagram for that fact.
+The RSLT is easy to learn. It uses ordinary natural language like English or Spanish. All it requires is an explicit understanding of how the information in words divides as sentence trees. This is because the One Natural Encoding of a fact is exactly the sentence tree diagram for that fact.
 
-The RSLT eliminates the distinction between data and metadata. Facts are facts, all encoded the same, all equally (and jointly) quieriable.
+You might suspect I am overpromising somewhat. There can be different ways to say things in natural language: reorderings can leave the meaning unchanged. "Sam I am" and "I am Sam" mean exactly the same thing. But the RSLT makes it easy to separate the order of presentation from the information ordinarily entangled with that order.
+
+The RSLT eliminates the distinction between data and metadata. Data is data -- be it numbers, implications, instructions, warnings, authorship, time of creation, time of intended completion, requirements, subgoals, arguments, relationships between arguments, privacy instructions for the data itself ... I could go on. They are all encoded the same way, all quieried (separately or jointly) the same way.
 
 Because there is only One Natural Encoding of every fact, merging RSLT data is trivially easy.
 
-The RSLT has a low space cost. (If this paragraph is meaningless to you, don't worry; it's not critical to the ideas in this paper.) To encode your existing data in (behind) an RSLT (interface), the data does not need to change; it just needs to be hooked into the interface. Any space or speed optimizations in your existing non-RSLT data can be retained. After defining the RSLT, I will show how sets, maps, lists, arrays and graphs can be folded into an RSLT interface.
+The RSLT has a low space cost. (If this paragraph is meaningless to you, don't worry; it's not critical to the ideas in this paper.) To encode your existing data in (behind) an RSLT (interface), the data does not need to change; it just needs to be hooked into the interface. Any space or speed optimizations in your existing non-RSLT data can be retained. After defining the RSLT, I will describe how external space- or time-optimized data can be hooked into an RSLT interface.
 
 Some people find those few short promises sufficient motivation to learn about the RSLT. If you are like that, you can skip the rest of this motivation section.
 
