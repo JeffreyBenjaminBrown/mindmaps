@@ -1,13 +1,14 @@
 What these files are
 ====================
-.mm files are mindmaps, which are graphs of text. fresh.mm is the one I write to most frequently, and things in it can be about anything. The others have particular topics: art.mm is about art, etc. The two exceptions are go.mm, which is (generally old) instructions to self, and discard.mm, which is probably not very important.
+.mm files are mindmaps, which are graphs of text. fresh.mm is the file I write to most frequently. Things in fresh.mm can be about anything. The other files have particular topics: art.mm is about art, etc. The two exceptions are go.mm, which is (generally old) instructions to myself, and discard.mm, which is probably not very important.
 
 In the tech/ subfolder:
 * coding.mm is projects I was building
 * use.mm is how to use things (like Unix, sed, etc.)
 * lang.mm is about programming languages
 
-The rest of this document explains how to use them. If you would prefer a little motivation first, you can [read about why mindmaps are so awesome](tech/motivation.md).
+The rest of this document explains how to view and edit the mindmaps. If you would prefer a little motivation first, you can [read about why mindmaps are so awesome](tech/motivation.md).
+
 
 Getting your computer to display a mindmap
 ==========================================
