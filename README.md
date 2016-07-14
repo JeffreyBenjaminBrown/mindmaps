@@ -1,20 +1,20 @@
 What these files are
 ====================
-.mm files are mindmaps, which are graphs of text. fresh.mm is the file I write to most frequently. Things in fresh.mm can be about anything. The other files have particular topics: art.mm is about art, etc. The two exceptions are go.mm, which is (generally old) instructions to myself, and discard.mm, which is probably not very important.
+.mm files are mindmaps, which are graphs of text. You can read about why mindmaps are so awesome [here](tech/motivation.md).
+
+fresh.mm is the file I write to most frequently. Things in fresh.mm can be about anything. The other files have particular topics: art.mm is about art, etc. The two exceptions are go.mm, which is (generally old) instructions to myself, and discard.mm, which is probably not very important.
 
 In the tech/ subfolder:
 * coding.mm is projects I was building
 * use.mm is how to use things (like Unix, sed, etc.)
 * lang.mm is about programming languages
 
-You can read about why mindmaps are so awesome [here](tech/motivation.md).
-
 
 Getting your computer to display a mindmap
 ==========================================
-For these, you will need to install a mindmap application that recognizes the .mm format. I suggest Freeplane -- it's simple, powerful, popular, free, open-source, and available for Linux, Mac and Windows.
+To use these, you will need to install a mindmap application that recognizes the .mm format. I suggest Freeplane -- it's simple, powerful, popular, free, open-source, and available for Linux, Mac and Windows.
 
-Once you've got a mindmap app, you'll need to download a mindmap and open it from your own computer. If you do not want or know how to use "git clone", the simplest way to open one of them this:
+Once you've got a mindmap app, you'll need to download a mindmap and open it from your own computer. If you are not comfortable using "git clone", the simplest way to open one of them this:
 
 (1) Point your browser to one of the mindmaps. (Those hyperlinks above in .mm all go to mindmaps.)
 
@@ -22,11 +22,15 @@ Once you've got a mindmap app, you'll need to download a mindmap and open it fro
 
 (3) Find the file on your hard drive, and click on it.
 
-Reading a mindmap, as a human
-=============================
+
+Reading and navigating a mindmap
+========================================
 To navigate around a file in Freeplane is easy -- it only takes five commands! They are: up, down, left, right and spacebar. The spacebar unfolds|shows or folds|hides the contents of a branch. Contents can be thought of as children, branching off from the parent.
 
 To go into more detail I need to define a few terms.
+
+What the mindmap **means**
+==========================
 
 Graph and mindmap vocab
 -----------------------
