@@ -7,7 +7,7 @@ In the tech/ subfolder:
 * use.mm is how to use things (like Unix, sed, etc.)
 * lang.mm is about programming languages
 
-The rest of this document explains how to view and edit the mindmaps. If you would prefer a little motivation first, you can [read about why mindmaps are so awesome](tech/motivation.md).
+You can read about why mindmaps are so awesome [here](tech/motivation.md).
 
 
 Getting your computer to display a mindmap
@@ -38,7 +38,7 @@ A **tree** is a graph with the strange property that while a node can have many 
 
 A .mm **document** is a tree in which every **node** is a string of text.
 
-Every tree has a **root** node, which is unique in that it has no parents, only children. Every node in a tree is descended from the root. 
+Every tree has a **root** node, which is unique in that it has no parents, only children. It can usefully be thought of as the center of the graph. Every node in a tree is descended from the root.
 
 A **leaf** is a node with no children. A node is **interior** if it is not a leaf. The root is interior (unless it has no children, in which case you'd have to call it a leaf).
 
@@ -48,9 +48,9 @@ If a node has children, and they have children, etc., all of those children toge
 
 A **branch** is a connected set of nodes leafward of some node, which you might call the root of the branch.
 
-Trees have a (traditionally vertical) direction!
-------------------------------------------------
-Namely, up = rootward and down = leafward.
+These trees are directed! One way is "up".
+------------------------------------------
+Traditionally, up = rootward and down = leafward.
 
 Every leaf is connected to the root through a series of interior nodes. (In fact so are all the interior nodes.) The root and leaves define a sense of direction: rootward v. leafward, up toward the root v. down away from the root. On screen in these documents that relationship (almost always) displays as left=rootward v. right=leafward, because I keep (almost) everything on the right side of the root. I will use the terms up and down, though, because that is the tradition in computer science. (Strangely, that tradition implies that the root is at the top. It feels natural soon enough.)
 
@@ -65,4 +65,3 @@ That's most of it!
 You now have access to most of the meaning of these mindmaps.
 
 If you want them to make even more sense yet, you will need to learn (don't worry, it's very small!) my [graph language](tech/graph_lang.mm). In case that seems uncalled for to you, I should point out that it starts by explaining why I felt I had to make such a thing. It is itself a mindmap, but you already know everything you need to read it.
-
