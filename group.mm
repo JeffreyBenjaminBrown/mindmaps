@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="git / group" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439418279922"><hook NAME="MapStyle" zoom="1.141">
+<node TEXT="git / group" LOCALIZED_STYLE_REF="default" ID="ID_1201843186" CREATED="1336484964936" MODIFIED="1439418279922"><hook NAME="MapStyle" zoom="1.381">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -56,12 +56,30 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="&quot;show me the problem&quot;" POSITION="right" ID="ID_1685421348" CREATED="1461208524522" MODIFIED="1461208525824">
-<node TEXT="\coop" ID="ID_893953592" CREATED="1461208536411" MODIFIED="1461208537664"/>
+<node TEXT="&gt;! collect: &quot;social skills&quot;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_987157667" CREATED="1467954772455" MODIFIED="1467954821547">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1909897171" STARTINCLINATION="183;0;" ENDINCLINATION="183;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="&quot;I was like you once.&quot;" POSITION="right" ID="ID_1808168224" CREATED="1461128543583" MODIFIED="1461128548062">
-<node TEXT="\invite" ID="ID_1752223989" CREATED="1461208540995" MODIFIED="1461208542745">
-<node TEXT="creating space (of narrative possibility, a listener option)" ID="ID_1283240241" CREATED="1461128561855" MODIFIED="1461128601435"/>
+<node TEXT="?never" POSITION="right" ID="ID_1115742326" CREATED="1467862515546" MODIFIED="1467862516811">
+<node TEXT="do not share neg with someone one fears losing" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1755860424" CREATED="1468561277352" MODIFIED="1468561308937"/>
+<node TEXT="conjecture + negative" ID="ID_936228805" CREATED="1467954902379" MODIFIED="1467954905874"/>
+<node TEXT="imagine someone feels neglected" ID="ID_1916055971" CREATED="1467863093402" MODIFIED="1467863098976"/>
+<node TEXT="ask someone to investigate for themselves why _ is bad for them in a way it is not for you" ID="ID_1156010298" CREATED="1467862644763" MODIFIED="1468697636134"/>
+<node TEXT="ask someone to investigate for themselves your crime, their injury" ID="ID_143807557" CREATED="1467862518715" MODIFIED="1467862538789">
+<node TEXT="likely because you don&apos;t understand" ID="ID_1638587469" CREATED="1467862553936" MODIFIED="1467862558232"/>
+<node LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1856886772" CREATED="1467862794514" MODIFIED="1467862798150"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &amp; investigate, put into words, communicate
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="before top = recent" LOCALIZED_STYLE_REF="AutomaticLayout.level,4" POSITION="right" ID="ID_391023610" CREATED="1461128431870" MODIFIED="1461128437450">
@@ -1079,8 +1097,15 @@
 </node>
 <node TEXT="throw party as celebrate|motivate event" ID="ID_1045430913" CREATED="1430028248239" MODIFIED="1430028257182"/>
 <node TEXT="if on fence, ask others if they&apos;re going" LOCALIZED_STYLE_REF="default" ID="ID_1511216490" CREATED="1430461103591" MODIFIED="1430461129250"/>
-<node TEXT="do before parties" ID="ID_791331465" CREATED="1431739427016" MODIFIED="1431809371002">
+<node TEXT="? do before parties" ID="ID_791331465" CREATED="1431739427016" MODIFIED="1468561517044">
 <node TEXT="read names, faces(, no more?) of invitees" ID="ID_1351050499" CREATED="1431739432856" MODIFIED="1431739449815"/>
+</node>
+<node TEXT="invite ? group" ID="ID_1749045233" CREATED="1468560000461" MODIFIED="1468561434867"/>
+<node TEXT="a complete graph over consent" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_421588044" CREATED="1468561442246" MODIFIED="1468561510192">
+<node TEXT="each person, if they asked each other person whether they want to be like that, would say yes" ID="ID_1613780343" CREATED="1468561447950" MODIFIED="1468561465619"/>
+</node>
+<node TEXT="? who likes being part of a mailing list" LOCALIZED_STYLE_REF="default" ID="ID_946235191" CREATED="1468555944936" MODIFIED="1468561509466">
+<node TEXT="if it&apos;s not one they signed up for" ID="ID_100357097" CREATED="1468555956522" MODIFIED="1468555963588"/>
 </node>
 </node>
 <node TEXT="approach (nr)" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1386760609" CREATED="1424383371487" MODIFIED="1435019531098">
@@ -3125,28 +3150,55 @@
 </node>
 <node TEXT="&quot;zootopia&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1838918525" CREATED="1456467320790" MODIFIED="1457041502368"/>
 <node TEXT="a world set up for partnership" ID="ID_1718767689" CREATED="1456436073098" MODIFIED="1456436078479"/>
-<node TEXT="How big is the economy? Edu? Med?" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_154183451" CREATED="1456299009013" MODIFIED="1456299019625">
-<node TEXT="And in other countries?" ID="ID_134915441" CREATED="1456299025520" MODIFIED="1456299028837"/>
-<node TEXT="And you think we can&apos;t make them free why?" ID="ID_940641095" CREATED="1456299029022" MODIFIED="1456299100680"/>
-<node TEXT="The rich might flee somewhat, but we have largely captured them. They want to be here. Our labor force is safely high-tech. We don&apos;t need to feed the rich a disproportionate share in order to take care of labor; if we gave labor a bigger share, they would not lose their jobs on net (* is this debatable?), although they might have to change them, which is admittedly rough, but worth it (as long as we take adequate care of workers in transit)." ID="ID_1920557373" CREATED="1456299090414" MODIFIED="1457042279952"/>
+<node TEXT="s" ID="ID_562804884" CREATED="1467958564593" MODIFIED="1467958564859">
+<node TEXT="want data" ID="ID_1961510566" CREATED="1467958516361" MODIFIED="1467958520965">
+<node TEXT="How big is the economy? Edu? Med?" LOCALIZED_STYLE_REF="default" ID="ID_154183451" CREATED="1456299009013" MODIFIED="1467958560856">
+<node TEXT="x-countries" ID="ID_134915441" CREATED="1456299025520" MODIFIED="1467958586701"/>
+<node TEXT="x-time" ID="ID_1895265115" CREATED="1467958578586" MODIFIED="1467958584180"/>
+<node TEXT="? who defines sectors" ID="ID_1082415216" CREATED="1467958596733" MODIFIED="1467958602108"/>
 </node>
 </node>
-<node TEXT="03 20" ID="ID_1544643219" CREATED="1458707775894" MODIFIED="1458707777165">
-<node TEXT="time if for every pair a story of trade" ID="ID_1587250951" CREATED="1458707777752" MODIFIED="1458707783654">
-<node TEXT="what is time if" ID="ID_197200024" CREATED="1458707794647" MODIFIED="1458707797846"/>
+<node TEXT="^^^ social skills, acc" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_839176729" CREATED="1467954844191" MODIFIED="1467958406214">
+<node TEXT="=! lower any other" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_409781425" CREATED="1467954864982" MODIFIED="1467954881769"/>
+<node TEXT="social skills, acc" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1909897171" CREATED="1467954818278" MODIFIED="1467954835729"/>
+<node TEXT="caution|respect|humil|silence" ID="ID_945690815" CREATED="1467955577399" MODIFIED="1467955600634">
+<node TEXT="? aimless (conjecture) in soc/|group/ especially bad" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1006719244" CREATED="1459965692665" MODIFIED="1467955558361"/>
+</node>
+<node TEXT="problem ~ intim" ID="ID_1580412029" CREATED="1467954946337" MODIFIED="1467954950325">
+<node TEXT="&quot;show me the problem&quot;" ID="ID_1685421348" CREATED="1461208524522" MODIFIED="1461208525824">
+<node TEXT="\coop" ID="ID_893953592" CREATED="1461208536411" MODIFIED="1461208537664"/>
 </node>
 </node>
-<node TEXT="s" ID="ID_1453614198" CREATED="1459966129217" MODIFIED="1459966143839">
-<node TEXT="coop" ID="ID_1033318883" CREATED="1459966140753" MODIFIED="1459966141591">
+<node TEXT="treat *soc similarity with $$ kindn + humil" ID="ID_612703499" CREATED="1467954971049" MODIFIED="1467955078985">
+<node TEXT="* observed" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1483090225" CREATED="1467955079929" MODIFIED="1467955082824"/>
+<node TEXT="&quot;I was like you once.&quot;" ID="ID_1808168224" CREATED="1461128543583" MODIFIED="1461128548062">
+<node TEXT="\invite" ID="ID_1752223989" CREATED="1461208540995" MODIFIED="1461208542745">
+<node TEXT="creating space (of narrative possibility, a listener option)" ID="ID_1283240241" CREATED="1461128561855" MODIFIED="1461128601435"/>
+</node>
+</node>
+<node TEXT="the humility negating the kindness -- you don&apos;t *really* know what&apos;s best for someone in whose shoes you were close to" ID="ID_1023195093" CREATED="1467954997005" MODIFIED="1467955031787"/>
+</node>
+<node TEXT="drama &amp; tricky" ID="ID_1033318883" CREATED="1459966140753" MODIFIED="1467955464993">
 <node TEXT="angry with tongue out: &quot;this looks crazy, and follow carefully, it&apos;s a tricky proof!&quot;" ID="ID_1372993293" CREATED="1459966067065" MODIFIED="1459966089355"/>
+<node LOCALIZED_STYLE_REF="default" ID="ID_1563558417" CREATED="1467955405006" MODIFIED="1467955412102"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &amp; crazy tense coop
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node TEXT="! coop|_ sort $ group.mm" ID="ID_1572842211" CREATED="1459966181609" MODIFIED="1459966389181">
-<node TEXT="coop &gt; group" ID="ID_9827987" CREATED="1459965369993" MODIFIED="1459965375927"/>
-<node TEXT="group is a scary promise to the reader" ID="ID_676774637" CREATED="1459965386993" MODIFIED="1459969941064"/>
 </node>
-<node TEXT="? aimless in group/ especially bad" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1006719244" CREATED="1459965692665" MODIFIED="1459965711083"/>
+</node>
+</node>
 </node>
 <node TEXT="-&gt; see also logic/[some]" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1570470591" CREATED="1428972360230" MODIFIED="1434959436369"/>
 <node TEXT="(nr) = not reviewed" LOCALIZED_STYLE_REF="styles.topic" POSITION="left" ID="ID_1492952414" CREATED="1435019532345" MODIFIED="1435019823176"/>

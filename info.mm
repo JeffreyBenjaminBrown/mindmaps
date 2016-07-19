@@ -112,6 +112,22 @@
 <node TEXT="rep &amp; rep proc&#xa;&#xa;TODO: extract info, underst&#xa;  to other doc&#xa;&#xa;was --&#xa;rep, info, underst&#xa;ratl proc&#xa;? rep proc&#xa;? what media permit" ID="ID_1693039032" CREATED="1437640341211" MODIFIED="1437640342906"/>
 </node>
 </node>
+<node TEXT="u" POSITION="right" ID="ID_1029814704" CREATED="1467955842001" MODIFIED="1467955854092">
+<node TEXT="against _" ID="ID_1582011" CREATED="1468462287317" MODIFIED="1468462291875">
+<font BOLD="true"/>
+<node TEXT="climb up off time mountain" ID="ID_1878893661" CREATED="1468462237516" MODIFIED="1468462240843">
+<node TEXT="denial" ID="ID_1055229190" CREATED="1468462241549" MODIFIED="1468462242923"/>
+<node TEXT="pause, forgive|ignore an oppor" ID="ID_935756472" CREATED="1468462247134" MODIFIED="1468462260393"/>
+</node>
+</node>
+<node TEXT="triforce, a three-part division|analysis" ID="ID_902151603" CREATED="1468118175022" MODIFIED="1468118187056"/>
+<node TEXT="frames (of reference)" ID="ID_1544643219" CREATED="1458707775894" MODIFIED="1467955664005">
+<node TEXT="time, if $ for every pair a story of trade" ID="ID_1587250951" CREATED="1458707777752" MODIFIED="1467955637259">
+<node TEXT="what is time if" ID="ID_197200024" CREATED="1458707794647" MODIFIED="1458707797846"/>
+</node>
+</node>
+<node TEXT="hurried logic because bootstrapping" ID="ID_773561246" CREATED="1468118657124" MODIFIED="1468118663232"/>
+</node>
 <node TEXT="1s + 1r" POSITION="right" ID="ID_104496721" CREATED="1456122609694" MODIFIED="1456129813676">
 <font BOLD="true"/>
 <node TEXT="proc hist" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1600427605" CREATED="1456129842747" MODIFIED="1456129846259">

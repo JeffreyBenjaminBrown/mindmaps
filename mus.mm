@@ -56,7 +56,105 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="&gt; music" POSITION="right" ID="ID_1321130824" CREATED="1466636014695" MODIFIED="1466636016452">
+<node TEXT="18" ID="ID_1535594518" CREATED="1468903517391" MODIFIED="1468903518948">
+<node TEXT="12.0 et: 3.5 &lt; 4.5" ID="ID_980078572" CREATED="1468903493351" MODIFIED="1468903503418"/>
+</node>
+<node TEXT="07 06" ID="ID_1652410289" CREATED="1467862597408" MODIFIED="1467862604188">
+<node TEXT="uncertainty ~ heat" ID="ID_1668662510" CREATED="1467945040194" MODIFIED="1467945043568"/>
+<node TEXT="7" ID="ID_50327304" CREATED="1467945049170" MODIFIED="1467945049721"/>
+<node TEXT="&quot;is that a state?&quot;" ID="ID_1444321238" CREATED="1467863209513" MODIFIED="1467863212499"/>
+<node TEXT="data without spatialization" ID="ID_1668753177" CREATED="1467862925097" MODIFIED="1467862966337">
+<node TEXT="of sensory input, of understanding" ID="ID_1177966865" CREATED="1467862932417" MODIFIED="1467862942210"/>
+</node>
+</node>
+<node TEXT="30" ID="ID_947716219" CREATED="1467314233116" MODIFIED="1467314236195">
+<node TEXT="a pilgrimage to music" ID="ID_1702869553" CREATED="1467314237134" MODIFIED="1467314242571">
+<node TEXT="daily, _ly" ID="ID_1310397582" CREATED="1467314268571" MODIFIED="1467955904368"/>
+</node>
+</node>
+<node TEXT="24" ID="ID_1604737679" CREATED="1466830680178" MODIFIED="1466830681429">
+<node TEXT="cyc: a,b,a+b" ID="ID_1586739386" CREATED="1466830682210" MODIFIED="1466830713726"/>
+<node TEXT="feet strum the monome" LOCALIZED_STYLE_REF="default" ID="ID_1092898664" CREATED="1466833877767" MODIFIED="1466833884433"/>
+</node>
+<node TEXT="2016 06 22" ID="ID_892613160" CREATED="1466636019959" MODIFIED="1466636028204">
+<node TEXT="dup&apos;d at fresh.mm" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1247741090" CREATED="1466640728485" MODIFIED="1466640748894"/>
+<node TEXT="tree scarcity across grid" ID="ID_1718533557" CREATED="1466636004447" MODIFIED="1466636008404"/>
+<node TEXT="nuclear force falls of faster than 1/$r^2, has a shorter range" ID="ID_321733938" CREATED="1466640300783" MODIFIED="1466640315748"/>
+<node TEXT="nuclear instability is where one force takes over from another" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1758261266" CREATED="1466640672708" MODIFIED="1466640681935">
+<node TEXT="&quot; In a nucleus there are several protons, all of which are positive. Why don&#x2019;t they push themselves apart? It turns out that in nuclei there are, in addition to electrical forces, nonelectrical forces, called nuclear forces, which are greater than the electrical forces and which are able to hold the protons together in spite of the electrical repulsion. The nuclear forces, however, have a short range&#x2014;their force falls off much more rapidly than 1/r21/r2. And this has an important consequence. If a nucleus has too many protons in it, it gets too big, and it will not stay together. An example is uranium, with 92 protons. The nuclear forces act mainly between each proton (or neutron) and its nearest neighbor, while the electrical forces act over larger distances, giving a repulsion between each proton and all of the others in the nucleus. The more protons in a nucleus, the stronger is the electrical repulsion, until, as in the case of uranium, the balance is so delicate that the nucleus is almost ready to fly apart from the repulsive electrical force. If such a nucleus is just &#x201c;tapped&#x201d; lightly (as can be done by sending in a slow neutron), it breaks into two pieces, each with positive charge, and these pieces fly apart &quot;" ID="ID_998406082" CREATED="1466640712957" MODIFIED="1466640714558"/>
+</node>
+</node>
+</node>
+<node TEXT="ex-time" POSITION="right" ID="ID_1653218693" CREATED="1468010012730" MODIFIED="1468010013909">
+<node TEXT="chapman stick" ID="ID_1514360929" CREATED="1467963405016" MODIFIED="1468010021732">
+<font BOLD="false"/>
+<node TEXT="sense(kinesth) direction of strings" ID="ID_1260333319" CREATED="1467963406723" MODIFIED="1467963423634"/>
+<node TEXT="sense(kinesth) position within fret" ID="ID_1085881875" CREATED="1467963424468" MODIFIED="1467963435038"/>
+</node>
+<node TEXT="imag instrs" ID="ID_491729864" CREATED="1468134115578" MODIFIED="1468134118244">
+<font BOLD="true"/>
+</node>
+<node TEXT="JI instrument :: 4 grids + delete" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1714842486" CREATED="1468132692898" MODIFIED="1468134146449">
+<node TEXT=". tog" ID="ID_374899359" CREATED="1468132938350" MODIFIED="1468132941165"/>
+<node TEXT="grid: fractions" ID="ID_614191251" CREATED="1468132701682" MODIFIED="1468132971497">
+<node TEXT="contents" ID="ID_1426037540" CREATED="1468133328220" MODIFIED="1468133330799">
+<node TEXT="buttons for the first N primes, and their inverses" ID="ID_1289651661" CREATED="1468132968151" MODIFIED="1468132976034"/>
+<node TEXT="maybe to 13, maybe to 31" ID="ID_1618176474" CREATED="1468132748077" MODIFIED="1468132788389"/>
+<node TEXT="maybe with squares for 3" ID="ID_1426365972" CREATED="1468132986331" MODIFIED="1468133028737"/>
+<node TEXT="2 and 1/2 could be elsewhere" ID="ID_1740285107" CREATED="1468132869816" MODIFIED="1468132882951"/>
+<node TEXT="2, 3&#xa;5, 7&#xa;11, 13&#xa;17, 19, 23, 29, 31" ID="ID_498782201" CREATED="1468132805164" MODIFIED="1468132844942"/>
+</node>
+<node TEXT="allows one to ..." ID="ID_1978032371" CREATED="1468133332405" MODIFIED="1468133335199">
+<node TEXT="add a tone to the scale" ID="ID_1036334876" CREATED="1468133337482" MODIFIED="1468133340552"/>
+<node TEXT="transpose the whole scale" ID="ID_74790042" CREATED="1468133994892" MODIFIED="1468133997880"/>
+<node TEXT="modify a selected tone" ID="ID_773912354" CREATED="1468134004510" MODIFIED="1468134007767"/>
+</node>
+</node>
+<node TEXT="grid: stored scales" ID="ID_1038860625" CREATED="1468133512310" MODIFIED="1468133515191"/>
+<node TEXT="the next two grids change shape|arity" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_220161251" CREATED="1468133419086" MODIFIED="1468133527137">
+<node TEXT="sometimes a seven tone scale, sometimes five ..." ID="ID_265623116" CREATED="1468133441159" MODIFIED="1468133447457"/>
+</node>
+<node TEXT="grid: scale, representative" ID="ID_1204437491" CREATED="1468132928378" MODIFIED="1468133945722">
+<node TEXT="which allows one to ..." LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_1258211723" CREATED="1468133073802" MODIFIED="1468133084877"/>
+<node TEXT="redefine 1/1 to one of the other tones" ID="ID_1190750887" CREATED="1468133055329" MODIFIED="1468134038817"/>
+<node TEXT="select a tone" ID="ID_462375579" CREATED="1468134046257" MODIFIED="1468134047686">
+<node TEXT="for modification" ID="ID_76432343" CREATED="1468134048828" MODIFIED="1468134067398"/>
+</node>
+<node TEXT="delete a tone" ID="ID_1219719910" CREATED="1468133086592" MODIFIED="1468133088821">
+<node TEXT="using $ the fifth &quot;grid&quot; = the &quot;delete&quot; button" ID="ID_1725907656" CREATED="1468134155532" MODIFIED="1468134171464"/>
+</node>
+<node TEXT="multiply two tones" ID="ID_588953036" CREATED="1468133095808" MODIFIED="1468133157992">
+<node TEXT="least common multiple" ID="ID_685522109" CREATED="1468133112596" MODIFIED="1468133116767"/>
+<node TEXT="3/2 x 5/4 = 15/8" ID="ID_1175299487" CREATED="1468133125352" MODIFIED="1468133162549"/>
+</node>
+</node>
+<node TEXT="grid: scale, many octave" LOCALIZED_STYLE_REF="default" ID="ID_1557378423" CREATED="1468133260402" MODIFIED="1468133684132">
+<node TEXT="the middle key fixed at 1/1 = (say) 440 Hz" ID="ID_184271380" CREATED="1468133297029" MODIFIED="1468133311581"/>
+<node TEXT="colors" ID="ID_1983217222" CREATED="1468133673013" MODIFIED="1468133674187">
+<font BOLD="true"/>
+<node TEXT="all powers of 2 in the same color" ID="ID_1820360901" CREATED="1468133611069" MODIFIED="1468133628260"/>
+<node TEXT="color the buttons to indicate the most recently added tone(s)" ID="ID_1683426525" CREATED="1468133571961" MODIFIED="1468133598627"/>
+</node>
+</node>
+<node TEXT="fractions + representative scale $ allows one to ..." ID="ID_1699978208" CREATED="1468133364988" MODIFIED="1468133375110">
+<node TEXT="select a subset of the scale and transpose it, or clone it and transpose the clone" ID="ID_1757577779" CREATED="1468133377556" MODIFIED="1468133408921"/>
+</node>
+</node>
+</node>
 <node TEXT="2016" POSITION="right" ID="ID_496059576" CREATED="1462171338320" MODIFIED="1462171785468">
+<node TEXT="25" ID="ID_513719250" CREATED="1466881828470" MODIFIED="1466881829483">
+<node TEXT="straight ~ long" ID="ID_1905910545" CREATED="1466881829934" MODIFIED="1466881832349"/>
+</node>
+<node TEXT="23" ID="ID_160193479" CREATED="1466748639523" MODIFIED="1466748640805">
+<node TEXT="more voices at chorus" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1567986664" CREATED="1466748653171" MODIFIED="1466748661549"/>
+</node>
+<node TEXT="15" ID="ID_1978598927" CREATED="1466013086703" MODIFIED="1466013087476"/>
+<node TEXT="14" ID="ID_1613299924" CREATED="1465946042867" MODIFIED="1465946044001">
+<node TEXT="f maj 7 under g maj 7" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="ID_1725299416" CREATED="1465946044517" MODIFIED="1465946058331">
+<node TEXT="maybe without fifths" ID="ID_698672901" CREATED="1465946062703" MODIFIED="1465946095528"/>
+</node>
+</node>
 <node TEXT="10" ID="ID_1409593737" CREATED="1465619474430" MODIFIED="1465619475187">
 <node TEXT="just intonation: 0et12 maj scale + 4et12 dorian scale" ID="ID_1587211920" CREATED="1465763119077" MODIFIED="1465763146475"/>
 <node TEXT="funk ~ an occasional tiny left shift" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_767595071" CREATED="1465619505687" MODIFIED="1465763062825">
